@@ -10,23 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Repository auschecken
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2. Node.js einrichten
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
+      # 3. Abhängigkeiten installieren
       - name: Install dependencies
         run: npm install
 
+      # 4. 11ty bauen (fertige HTML-Dateien nach _site)
       - name: Build Digital Garden site
-        run: npm run build  # baut Eleventy + Sass
+        run: npx @11ty/eleventy --output=_site
 
-      - name: Disable Jekyll for GitHub Pages
+      # 5. Jekyll deaktivieren für GitHub Pages
+      - name: Disable Jekyll
         run: touch _site/.nojekyll
 
+      # 6. Artifact für GitHub Pages hochladen
       - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v4
         with:
@@ -44,6 +50,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+      # 7. Deployment auf GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1

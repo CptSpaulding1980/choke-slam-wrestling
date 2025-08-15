@@ -1,27 +1,33 @@
 require("dotenv").config();
-const notes = require("./notes.json"); // Pfad zu notes.json anpassen
+const settings = require("../../helpers/constants");
+const allSettings = settings.ALL_NOTE_SETTINGS;
+
+// notes.json einbinden
+const notes = require("./notes.json");
 
 module.exports = {
   eleventyComputed: {
-    // Layout nur als Fallback
-    layout: (data) => {
-      // Home-Seite: rendere direkt
-      if (data["dg-home"] === true) {
-        return null; // kein Layout nötig
-      }
-      // Alle anderen Notizen: einfacher Markdown-Fallback
-      return null;
-    },
+    layout: (data) => "layouts/note.njk", // alle Notizen nutzen dasselbe Layout
 
-    // Permalink setzen
     permalink: (data) => {
       if (data["dg-home"] === true) {
-        return "/index.html"; // Home-Seite als Root
+        return "/index.html"; // Home-Seite direkt im Root
       }
       return data.permalink || undefined;
     },
+
+    settings: (data) => {
+      const noteSettings = {};
+      allSettings.forEach((setting) => {
+        let noteSetting = data[setting];
+        let globalSetting = process.env[setting];
+
+        noteSettings[setting] =
+          noteSetting || (globalSetting === "true" && noteSetting !== false);
+      });
+      return noteSettings;
+    },
   },
 
-  // Alle Notizen aus notes.json verfügbar
   notes
 };

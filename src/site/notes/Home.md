@@ -41,8 +41,8 @@
 ## 🔥 Die heißesten Matches
 | File                                                                                                                                             | rating | match | event | date               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----- | ----- | ------------------ |
-| [[Events/2024-09-09 - G1 Climax - Best of the Rest from the Past (S06E06)\|2024-09-09 - G1 Climax - Best of the Rest from the Past (S06E06)]] | \-     | \-    | \-    | September 09, 2024 |
 | [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]]                                                                 | \-     | \-    | \-    | October 22, 2024   |
+| [[Events/2024-09-09 - G1 Climax - Best of the Rest from the Past (S06E06)\|2024-09-09 - G1 Climax - Best of the Rest from the Past (S06E06)]] | \-     | \-    | \-    | September 09, 2024 |
 | [[Events/2025-08-04 - S07E02_King & Queen of the Ring\|2025-08-04 - S07E02_King & Queen of the Ring]]                                         | \-     | \-    | \-    | August 04, 2025    |
 | [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]]                                                                     | \-     | \-    | \-    | June 30, 2021      |
 | [[Events/2023-03-29 - Europa (S05E03)\|2023-03-29 - Europa (S05E03)]]                                                                         | \-     | \-    | \-    | March 29, 2023     |

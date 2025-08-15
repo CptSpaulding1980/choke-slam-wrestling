@@ -13,10 +13,7 @@ module.exports = {
       if (data["dg-home"] === true) {
         return "layouts/note.njk"; // index.njk nicht nötig
       }
-      // Optional: gardenEntry-Tags (für andere DG-Notizen)
-      if (data.tags && data.tags.indexOf("gardenEntry") !== -1) {
-        return "layouts/note.njk";
-      }
+      // Alle anderen Notizen
       return "layouts/note.njk";
     },
 

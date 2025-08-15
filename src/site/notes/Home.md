@@ -1,6 +1,6 @@
 ---
-dg-publish:true
-dg-home:true
+dg-publish: true
+dg-home: true
 ---
 
 # 🏠 Choke Slam Wrestling Dashboard

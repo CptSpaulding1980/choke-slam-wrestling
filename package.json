@@ -25,6 +25,8 @@
     },
     "dependencies": {
         "@11ty/eleventy-img": "^4.0.2",
+        "dayjs": "^1.11.9",
+        "lodash": "^4.17.21",
         "@sindresorhus/slugify": "^1.1.0",
         "axios": "^1.2.2",
         "dotenv": "^16.0.3",

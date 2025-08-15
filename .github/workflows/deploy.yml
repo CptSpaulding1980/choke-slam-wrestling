@@ -1,4 +1,4 @@
-name: Build and Deploy Digital Garden
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -10,16 +10,9 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -32,15 +25,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build site with Eleventy
-        run: npx eleventy --config .eleventy.js
-
-      - name: Ensure home page is at root
-        run: |
-          mkdir -p dist
-          if [ -f dist/home/index.html ]; then
-            cp dist/home/index.html dist/index.html
-          fi
+      - name: Build site
+        run: npx eleventy
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -48,8 +34,10 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: ./dist   # <— nur den Build-Ordner hochladen
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}

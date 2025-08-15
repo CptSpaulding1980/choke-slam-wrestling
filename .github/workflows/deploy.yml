@@ -22,7 +22,10 @@ jobs:
         run: npm install
 
       - name: Build Digital Garden site
-        run: npx @11ty/eleventy --output=_site
+        run: npm run build  # baut Eleventy + Sass
+
+      - name: Disable Jekyll for GitHub Pages
+        run: touch _site/.nojekyll
 
       - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v4

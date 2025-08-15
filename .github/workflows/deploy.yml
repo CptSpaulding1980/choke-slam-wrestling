@@ -21,13 +21,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build site
-        run: npm run build
+      - name: Build Digital Garden site
+        run: npx @11ty/eleventy --output=_site
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v1   # v1 ist korrekt für Pages
+      - name: Upload artifact for Pages
+        uses: actions/upload-pages-artifact@v4
         with:
-          path: src/site
+          path: "src/site"
 
   deploy:
     needs: build
@@ -38,10 +38,11 @@ jobs:
 
     environment:
       name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
         id: deployment
+        uses: actions/deploy-pages@v1
         with:
           artifact-path: src/site

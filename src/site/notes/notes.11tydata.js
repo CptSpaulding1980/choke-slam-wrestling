@@ -1,45 +1,53 @@
-require("dotenv").config();
-const settings = require("../../helpers/constants");
-const allSettings = settings.ALL_NOTE_SETTINGS;
+name: Build and Deploy Digital Garden
 
-// notes.json einbinden
-const notes = require("./notes.json"); // Pfad zu notes.json anpassen
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
 
-module.exports = {
-  eleventyComputed: {
-    // Layout festlegen
-    layout: (data) => {
-      // Home-Seite erkennt DG automatisch
-      if (data["dg-home"] === true) {
-        return "layouts/note.njk"; // index.njk nicht nötig
-      }
-      // Alle anderen Notizen
-      return "layouts/note.njk";
-    },
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
-    // Permalink setzen
-    permalink: (data) => {
-      if (data["dg-home"] === true) {
-        return "/"; // Home-Seite auf Root
-      }
-      return data.permalink || undefined;
-    },
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
 
-    // DG-Einstellungen laden
-    settings: (data) => {
-      const noteSettings = {};
-      allSettings.forEach((setting) => {
-        let noteSetting = data[setting];
-        let globalSetting = process.env[setting];
+    steps:
+      # Repo auschecken
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-        let settingValue =
-          noteSetting || (globalSetting === "true" && noteSetting !== false);
-        noteSettings[setting] = settingValue;
-      });
-      return noteSettings;
-    },
-  },
+      # Node.js einrichten
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-  // Alle Notizen aus notes.json verfügbar machen
-  notes
-};
+      # Dependencies installieren
+      - name: Install dependencies
+        run: npm install
+
+      # Eleventy Build
+      - name: Build Digital Garden site
+        run: npm run build:eleventy
+
+      # .nojekyll erzeugen (falls noch nicht vorhanden)
+      - name: Create .nojekyll
+        run: touch _site/.nojekyll
+
+      # GitHub Pages konfigurieren
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # Build-Artefakte hochladen (_site Ordner)
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      # Deployment auf GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

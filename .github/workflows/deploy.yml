@@ -1,7 +1,8 @@
 name: Deploy Digital Garden
+
 on:
   push:
-    branches: [ "main" ]  # Falls dein Branch anders heißt, hier anpassen
+    branches: [ "main" ]
   workflow_dispatch:
 
 jobs:
@@ -23,10 +24,10 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1   # v1 ist korrekt für Pages
         with:
-          path: "src/site"
+          path: src/site
 
   deploy:
     needs: build
@@ -37,9 +38,10 @@ jobs:
 
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
         id: deployment
-        uses: actions/deploy-pages@v2
+        with:
+          artifact-path: src/site

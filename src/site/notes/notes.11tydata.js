@@ -7,27 +7,35 @@ const notes = require("./notes.json");
 
 module.exports = {
   eleventyComputed: {
-    layout: (data) => "layouts/note.njk", // alle Notizen nutzen dasselbe Layout
+    layout: (data) => {
+      // Home-Seite erkennt DG automatisch
+      return "layouts/note.njk"; // für alle Notes
+    },
 
+    // Permalink setzen
     permalink: (data) => {
       if (data["dg-home"] === true) {
-        return "/index.html"; // Home-Seite direkt im Root
+        return "/index.html"; // Home direkt ins Root
       }
+      // Andere Notizen bleiben unter /notes/ oder ihrem eigenen Pfad
       return data.permalink || undefined;
     },
 
+    // DG-Einstellungen laden
     settings: (data) => {
       const noteSettings = {};
       allSettings.forEach((setting) => {
         let noteSetting = data[setting];
         let globalSetting = process.env[setting];
 
-        noteSettings[setting] =
+        let settingValue =
           noteSetting || (globalSetting === "true" && noteSetting !== false);
+        noteSettings[setting] = settingValue;
       });
       return noteSettings;
     },
   },
 
+  // Alle Notizen aus notes.json verfügbar machen
   notes
 };

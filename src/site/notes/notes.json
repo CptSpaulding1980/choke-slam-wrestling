@@ -2,6 +2,8 @@
   {
     "path": "src/site/notes/Home.md",
     "title": "Home",
-    "last_modified": "2025-08-12T12:00:00Z"
+    "permalink": "/index.html",
+    "dg-home": true,
+    "last_modified": "2025-08-15T12:00:00Z"
   }
 ]

@@ -15,6 +15,7 @@ const {
 } = require("./src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
+
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
@@ -29,8 +30,10 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
 }
 
 function getAnchorLink(filePath, linkTitle) {
-  const {attributes, innerHTML} = getAnchorAttributes(filePath, linkTitle);
-  return `<a ${Object.keys(attributes).map(key => `${key}="${attributes[key]}"`).join(" ")}>${innerHTML}</a>`;
+  const { attributes, innerHTML } = getAnchorAttributes(filePath, linkTitle);
+  return `<a ${Object.keys(attributes)
+    .map((key) => `${key}="${attributes[key]}"`)
+    .join(" ")}>${innerHTML}</a>`;
 }
 
 function getAnchorAttributes(filePath, linkTitle) {
@@ -43,6 +46,7 @@ function getAnchorAttributes(filePath, linkTitle) {
   }
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
+  const title = linkTitle ? linkTitle : fileName;
   let permalink = `/notes/${slugify(filePath)}`;
   let deadLink = false;
   try {
@@ -55,10 +59,7 @@ function getAnchorAttributes(filePath, linkTitle) {
     if (frontMatter.data.permalink) {
       permalink = frontMatter.data.permalink;
     }
-    if (
-      frontMatter.data.tags &&
-      frontMatter.data.tags.indexOf("gardenEntry") != -1
-    ) {
+    if (frontMatter.data.tags && frontMatter.data.tags.includes("gardenEntry")) {
       permalink = "/";
     }
     if (frontMatter.data.noteIcon) {
@@ -71,22 +72,22 @@ function getAnchorAttributes(filePath, linkTitle) {
   if (deadLink) {
     return {
       attributes: {
-        "class": "internal-link is-unresolved",
-        "href": "/404",
-        "target": "",
+        class: "internal-link is-unresolved",
+        href: "/404",
+        target: "",
       },
-      innerHTML: linkTitle || fileName,
-    }
+      innerHTML: title,
+    };
   }
   return {
     attributes: {
-      "class": "internal-link",
-      "target": "",
+      class: "internal-link",
+      target: "",
       "data-note-icon": noteIcon,
-      "href": `${permalink}${headerLinkPath}`,
+      href: `${permalink}${headerLinkPath}`,
     },
-    innerHTML: linkTitle || fileName,
-  }
+    innerHTML: title,
+  };
 }
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
@@ -94,6 +95,7 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
 
+  // --- Markdown Setup ---
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
@@ -120,68 +122,89 @@ module.exports = function (eleventyConfig) {
       ulClass: "task-list",
       liClass: "task-list-item",
     })
-    .use(require("markdown-it-plantuml"), {
-      openMarker: "```plantuml",
-      closeMarker: "```",
-    })
+    .use(require("markdown-it-plantuml"), { openMarker: "```plantuml", closeMarker: "```" })
     .use(namedHeadingsFilter)
     .use(userMarkdownSetup);
 
   eleventyConfig.setLibrary("md", markdownLib);
 
-  // Standard Filter
-  eleventyConfig.addFilter("isoDate", date => date && date.toISOString());
-
-  // feed.njk Filter
-  eleventyConfig.addFilter("dateToRfc3339", date => {
-    try { return new Date(date).toISOString(); } catch { return ""; }
-  });
-
-  eleventyConfig.addFilter("getNewestCollectionItemDate", (collection, prop = "date") => {
-    if (!collection || !collection.length) return "";
-    let newest = collection[0][prop];
-    collection.forEach(item => {
-      if (item[prop] && item[prop] > newest) newest = item[prop];
-    });
-    return newest;
-  });
-
-  // Markdown Links
-  eleventyConfig.addFilter("link", str =>
-    str &&
-      str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
-        if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) return match;
+  // --- Filters ---
+  eleventyConfig.addFilter("isoDate", (date) => date && date.toISOString());
+  eleventyConfig.addFilter("link", (str) => {
+    return (
+      str &&
+      str.replace(/\[\[(.*?\|.*?)\]\]/g, (match, p1) => {
+        if (p1.includes("],[") || p1.includes('"$"')) return match;
         const [fileLink, linkTitle] = p1.split("|");
         return getAnchorLink(fileLink, linkTitle);
       })
+    );
+  });
+  eleventyConfig.addFilter("taggify", (str) =>
+    str?.replace(tagRegex, (match, precede, tag) => {
+      return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
+    })
   );
-
-  // Tags
-  eleventyConfig.addFilter("taggify", str =>
-    str &&
-      str.replace(tagRegex, (match, precede, tag) =>
-        `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`
-      )
-  );
-
-  eleventyConfig.addFilter("searchableTags", str => {
-    let tags;
-    let match = str && str.match(tagRegex);
-    if (match) tags = match.map(m => `"${m.split("#")[1]}"`).join(", ");
+  eleventyConfig.addFilter("searchableTags", (str) => {
+    const tags = str?.match(tagRegex)?.map((m) => `"${m.split("#")[1]}"`)?.join(", ");
     return tags ? `${tags},` : "";
   });
-
-  eleventyConfig.addFilter("hideDataview", str =>
-    str && str.replace(/\(\S+\:\:(.*)\)/g, (_, value) => value.trim())
+  eleventyConfig.addFilter("hideDataview", (str) =>
+    str?.replace(/\(\S+\:\:(.*)\)/g, (_, value) => value.trim())
   );
 
-  eleventyConfig.addFilter("jsonify", variable => JSON.stringify(variable) || '""');
+  // --- Transforms ---
+  eleventyConfig.addTransform("dataview-js-links", function (str) {
+    const parsed = parse(str);
+    for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
+      const notePath = dataViewJsLink.getAttribute("data-href");
+      const title = dataViewJsLink.innerHTML;
+      const { attributes, innerHTML } = getAnchorAttributes(notePath, title);
+      for (const key in attributes) dataViewJsLink.setAttribute(key, attributes[key]);
+      dataViewJsLink.innerHTML = innerHTML;
+    }
+    return parsed?.innerHTML;
+  });
 
-  // Benutzerdefinierte Eleventy Setup Funktion
+  // --- Plugins ---
+  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+  eleventyConfig.addPlugin(tocPlugin, { ul: true, tags: ["h1", "h2", "h3", "h4", "h5", "h6"] });
+  eleventyConfig.addPlugin(pluginRss, {
+    posthtmlRenderOptions: { closingSingleTag: "slash", singleTags: ["link"] },
+  });
+
+  // --- Passthrough Copy ---
+  eleventyConfig.addPassthroughCopy("src/site/img");
+  eleventyConfig.addPassthroughCopy("src/site/scripts");
+  eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
+
+  // --- Filters for feeds / sitemaps ---
+  eleventyConfig.addFilter("dateToZulu", function (date) {
+    return date?.toISOString() || "";
+  });
+
+  eleventyConfig.addFilter("jsonify", (v) => JSON.stringify(v) || '""');
+  eleventyConfig.addFilter("validJson", (v) => {
+    if (Array.isArray(v)) return v.map((x) => x.replaceAll("\\", "\\\\")).join(",");
+    if (typeof v === "string") return v.replaceAll("\\", "\\\\");
+    return v;
+  });
+
+  // --- User custom setup ---
   userEleventySetup(eleventyConfig);
 
+  // --- Home.md / index.html handling ---
+  eleventyConfig.addCollection("home", function (collectionApi) {
+    const home = collectionApi.getAll().filter((item) => item.inputPath.endsWith("Home.md"));
+    return home;
+  });
+
   return {
-    dir: { input: "src/site", output: "dist", data: "_data" },
+    dir: {
+      input: "src/site",
+      output: "dist",
+      data: "_data",
+    },
     templateFormats: ["njk", "md", "11ty.js"],
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,

@@ -28,8 +28,17 @@ jobs:
       - name: Build site
         run: npx eleventy
 
-      - name: Debug dist folder
-        run: ls -R ./dist
+      - name: Build site
+        run: npx eleventy
+
+      - name: Move home index to root
+        run: cp ./dist/home/index.html ./dist/index.html
+
+      - name: Remove home folder
+        run: rm -rf ./dist/home
+
+      - name: List dist folder
+        run: ls -lR ./dist
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

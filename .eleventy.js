@@ -195,8 +195,22 @@ module.exports = function (eleventyConfig) {
 
   // --- Home.md / index.html handling ---
   eleventyConfig.addCollection("home", function (collectionApi) {
-    const home = collectionApi.getAll().filter((item) => item.inputPath.endsWith("Home.md"));
-    return home;
+    return collectionApi.getAll().filter((item) => item.inputPath.endsWith("Home.md"));
+  });
+
+  eleventyConfig.addTransform("homePermalink", function (content, outputPath) {
+    if (outputPath?.endsWith("Home/index.html")) {
+      return content;
+    }
+    return content;
+  });
+
+  // Map Home.md to root index.html
+  eleventyConfig.addGlobalData("permalink", (data) => {
+    if (data.page.inputPath && data.page.inputPath.endsWith("Home.md")) {
+      return "/";
+    }
+    return data.page?.fileSlug ? `/${data.page.fileSlug}/` : undefined;
   });
 
   return {

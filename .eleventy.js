@@ -122,7 +122,10 @@ module.exports = function (eleventyConfig) {
       ulClass: "task-list",
       liClass: "task-list-item",
     })
-    .use(require("markdown-it-plantuml"), { openMarker: "```plantuml", closeMarker: "```" })
+    .use(require("markdown-it-plantuml"), {
+      openMarker: "```plantuml",
+      closeMarker: "```",
+    })
     .use(namedHeadingsFilter)
     .use(userMarkdownSetup);
 
@@ -193,30 +196,9 @@ module.exports = function (eleventyConfig) {
   // --- User custom setup ---
   userEleventySetup(eleventyConfig);
 
-  // --- Home.md / index.html handling ---
-  eleventyConfig.addCollection("home", function (collectionApi) {
-    return collectionApi.getAll().filter((item) => item.inputPath.endsWith("Home.md"));
-  });
-
-  eleventyConfig.addTransform("homePermalink", function (content, outputPath) {
-    if (outputPath?.endsWith("Home/index.html")) {
-      return content;
-    }
-    return content;
-  });
-
-  // Sicherer globaler permalink für Home.md
-  eleventyConfig.addGlobalData("permalink", (data) => {
-    // nur Templates mit page verarbeiten
-    if (data && data.page && typeof data.page.inputPath === "string") {
-      if (data.page.inputPath.endsWith("Home.md")) {
-        return "/"; // Home.md wird zur Root
-      }
-    return data.page.fileSlug ? `/${data.page.fileSlug}/` : undefined;
-  }
-  // sonst nichts zurückgeben (z. B. bei Collections / global data)
-  return undefined;
-});
+  // --- Home.md als Root über Frontmatter ---
+  // Frontmatter in Home.md: `permalink: /`
+  // Keine weiteren Transforms / Global Data nötig
 
   return {
     dir: {

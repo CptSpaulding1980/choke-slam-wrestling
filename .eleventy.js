@@ -423,12 +423,19 @@ module.exports = function (eleventyConfig) {
   // Hier wird die Permalink Logik eingefügt:
   eleventyConfig.addGlobalData("eleventyComputed", {
     permalink: data => {
-      if (data.page.inputPath.endsWith("Home.md")) {
+      // 1. Wenn Frontmatter einen Permalink setzt, verwende ihn
+      if (data.permalink) return data.permalink;
+
+      // 2. Speziell für Home.md
+      if (data.page.inputPath.toLowerCase().endsWith("/home.md")) {
         return "/index.html";
       }
+
+      // 3. Standard: stem + .html
       return data.page.filePathStem + ".html";
     }
   });
+
 
   return {
     dir: {

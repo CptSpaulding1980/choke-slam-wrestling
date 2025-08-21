@@ -23,7 +23,6 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
     urlPath: "/img/optimized",
   };
 
-  // generate images, while this is async we don’t wait
   Image(src, options);
   let metadata = Image.statsSync(src, options);
   return metadata;
@@ -44,7 +43,6 @@ function getAnchorAttributes(filePath, linkTitle) {
   }
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
-  const title = linkTitle ? linkTitle : fileName;
   let permalink = `/notes/${slugify(filePath)}`;
   let deadLink = false;
   try {
@@ -54,17 +52,14 @@ function getAnchorAttributes(filePath, linkTitle) {
       : `${startPath}${fileName}.md`;
     const file = fs.readFileSync(fullPath, "utf8");
     const frontMatter = matter(file);
-    
-    // <--- HIER: Home.md wird automatisch auf / gesetzt, wenn Tag gardenEntry existiert
-    if (
-      frontMatter.data.tags &&
-      frontMatter.data.tags.indexOf("gardenEntry") !== -1
-    ) {
-      permalink = "/";
-    }
-
     if (frontMatter.data.permalink) {
       permalink = frontMatter.data.permalink;
+    }
+    if (
+      frontMatter.data.tags &&
+      frontMatter.data.tags.indexOf("gardenEntry") != -1
+    ) {
+      permalink = "/";
     }
     if (frontMatter.data.noteIcon) {
       noteIcon = frontMatter.data.noteIcon;
@@ -80,7 +75,7 @@ function getAnchorAttributes(filePath, linkTitle) {
         "href": "/404",
         "target": "",
       },
-      innerHTML: title,
+      innerHTML: linkTitle || fileName,
     }
   }
   return {
@@ -90,7 +85,7 @@ function getAnchorAttributes(filePath, linkTitle) {
       "data-note-icon": noteIcon,
       "href": `${permalink}${headerLinkPath}`,
     },
-    innerHTML: title,
+    innerHTML: linkTitle || fileName,
   }
 }
 
@@ -106,7 +101,9 @@ module.exports = function (eleventyConfig) {
     html: true,
     linkify: true,
   })
-    .use(require("markdown-it-anchor"), { slugify: headerToId })
+    .use(require("markdown-it-anchor"), {
+      slugify: headerToId,
+    })
     .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
     .use(function (md) {
@@ -136,30 +133,30 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownLib);
 
+  // Standard Filter
   eleventyConfig.addFilter("isoDate", function (date) {
     return date && date.toISOString();
   });
 
+  // feed.njk benötigt diesen Filter
+  eleventyConfig.addFilter("dateToRfc3339", function(date) {
+    try { return new Date(date).toISOString(); } catch { return ""; }
+  });
+
   eleventyConfig.addFilter("link", function (str) {
-    return (
-      str &&
+    return str &&
       str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
-        if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
-          return match;
-        }
+        if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) return match;
         const [fileLink, linkTitle] = p1.split("|");
         return getAnchorLink(fileLink, linkTitle);
-      })
-    );
+      });
   });
 
   eleventyConfig.addFilter("taggify", function (str) {
-    return (
-      str &&
+    return str &&
       str.replace(tagRegex, function (match, precede, tag) {
         return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
-      })
-    );
+      });
   });
 
   eleventyConfig.addFilter("searchableTags", function (str) {
@@ -172,30 +169,20 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("hideDataview", function (str) {
-    return str && str.replace(/\(\S+\:\:(.*)\)/g, (_, value) => value.trim());
+    return str &&
+      str.replace(/\(\S+\:\:(.*)\)/g, function (_, value) { return value.trim(); });
   });
 
-  eleventyConfig.addTransform("dataview-js-links", function (str) {
-    const parsed = parse(str);
-    for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
-      const notePath = dataViewJsLink.getAttribute("data-href");
-      const title = dataViewJsLink.innerHTML;
-      const {attributes, innerHTML} = getAnchorAttributes(notePath, title);
-      for (const key in attributes) dataViewJsLink.setAttribute(key, attributes[key]);
-      dataViewJsLink.innerHTML = innerHTML;
-    }
-    return str && parsed.innerHTML;
+  eleventyConfig.addFilter("jsonify", function (variable) {
+    return JSON.stringify(variable) || '""';
   });
 
-  // <--- alle weiteren Transforms, Plugins, Filters etc. bleiben unverändert
+  // Benutzerdefinierte Eleventy Setup Funktion
   userEleventySetup(eleventyConfig);
 
+  // Base config
   return {
-    dir: {
-      input: "src/site",
-      output: "dist",
-      data: "_data",
-    },
+    dir: { input: "src/site", output: "dist", data: "_data" },
     templateFormats: ["njk", "md", "11ty.js"],
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,

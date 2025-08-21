@@ -205,9 +205,9 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  // Map Home.md to root index.html
+  // Map Home.md to root index.html, sicher gegen fehlende data.page
   eleventyConfig.addGlobalData("permalink", (data) => {
-    if (data.page.inputPath && data.page.inputPath.endsWith("Home.md")) {
+    if (data.page && data.page.inputPath && data.page.inputPath.endsWith("Home.md")) {
       return "/";
     }
     return data.page?.fileSlug ? `/${data.page.fileSlug}/` : undefined;

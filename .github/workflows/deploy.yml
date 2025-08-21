@@ -33,11 +33,6 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        
-      - name: Flatten dist folder
-        run: |
-          mv ./dist/src/site/* ./dist/
-          rm -rf ./dist/src
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

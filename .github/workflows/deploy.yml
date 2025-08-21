@@ -28,6 +28,9 @@ jobs:
       - name: Build site
         run: npx eleventy
 
+      - name: Debug dist folder
+        run: ls -R ./dist
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

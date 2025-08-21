@@ -205,13 +205,18 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  // Map Home.md to root index.html, sicher gegen fehlende data.page
+  // Sicherer globaler permalink für Home.md
   eleventyConfig.addGlobalData("permalink", (data) => {
-    if (data.page && data.page.inputPath && data.page.inputPath.endsWith("Home.md")) {
-      return "/";
-    }
-    return data.page?.fileSlug ? `/${data.page.fileSlug}/` : undefined;
-  });
+    // nur Templates mit page verarbeiten
+    if (data && data.page && typeof data.page.inputPath === "string") {
+      if (data.page.inputPath.endsWith("Home.md")) {
+        return "/"; // Home.md wird zur Root
+      }
+    return data.page.fileSlug ? `/${data.page.fileSlug}/` : undefined;
+  }
+  // sonst nichts zurückgeben (z. B. bei Collections / global data)
+  return undefined;
+});
 
   return {
     dir: {

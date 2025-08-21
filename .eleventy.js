@@ -92,22 +92,18 @@ function getAnchorAttributes(filePath, linkTitle) {
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.setLiquidOptions({
-    dynamicPartials: true,
-  });
+  eleventyConfig.setLiquidOptions({ dynamicPartials: true });
 
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
     linkify: true,
   })
-    .use(require("markdown-it-anchor"), {
-      slugify: headerToId,
-    })
+    .use(require("markdown-it-anchor"), { slugify: headerToId })
     .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
     .use(function (md) {
-      md.renderer.rules.hashtag_open = function (tokens, idx) {
+      md.renderer.rules.hashtag_open = function () {
         return '<a class="tag" onclick="toggleTagSearch(this)">';
       };
     })
@@ -134,53 +130,56 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary("md", markdownLib);
 
   // Standard Filter
-  eleventyConfig.addFilter("isoDate", function (date) {
-    return date && date.toISOString();
-  });
+  eleventyConfig.addFilter("isoDate", date => date && date.toISOString());
 
-  // feed.njk benötigt diesen Filter
-  eleventyConfig.addFilter("dateToRfc3339", function(date) {
+  // feed.njk Filter
+  eleventyConfig.addFilter("dateToRfc3339", date => {
     try { return new Date(date).toISOString(); } catch { return ""; }
   });
 
-  eleventyConfig.addFilter("link", function (str) {
-    return str &&
+  eleventyConfig.addFilter("getNewestCollectionItemDate", (collection, prop = "date") => {
+    if (!collection || !collection.length) return "";
+    let newest = collection[0][prop];
+    collection.forEach(item => {
+      if (item[prop] && item[prop] > newest) newest = item[prop];
+    });
+    return newest;
+  });
+
+  // Markdown Links
+  eleventyConfig.addFilter("link", str =>
+    str &&
       str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
         if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) return match;
         const [fileLink, linkTitle] = p1.split("|");
         return getAnchorLink(fileLink, linkTitle);
-      });
-  });
+      })
+  );
 
-  eleventyConfig.addFilter("taggify", function (str) {
-    return str &&
-      str.replace(tagRegex, function (match, precede, tag) {
-        return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
-      });
-  });
+  // Tags
+  eleventyConfig.addFilter("taggify", str =>
+    str &&
+      str.replace(tagRegex, (match, precede, tag) =>
+        `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`
+      )
+  );
 
-  eleventyConfig.addFilter("searchableTags", function (str) {
+  eleventyConfig.addFilter("searchableTags", str => {
     let tags;
     let match = str && str.match(tagRegex);
-    if (match) {
-      tags = match.map((m) => `"${m.split("#")[1]}"`).join(", ");
-    }
+    if (match) tags = match.map(m => `"${m.split("#")[1]}"`).join(", ");
     return tags ? `${tags},` : "";
   });
 
-  eleventyConfig.addFilter("hideDataview", function (str) {
-    return str &&
-      str.replace(/\(\S+\:\:(.*)\)/g, function (_, value) { return value.trim(); });
-  });
+  eleventyConfig.addFilter("hideDataview", str =>
+    str && str.replace(/\(\S+\:\:(.*)\)/g, (_, value) => value.trim())
+  );
 
-  eleventyConfig.addFilter("jsonify", function (variable) {
-    return JSON.stringify(variable) || '""';
-  });
+  eleventyConfig.addFilter("jsonify", variable => JSON.stringify(variable) || '""');
 
   // Benutzerdefinierte Eleventy Setup Funktion
   userEleventySetup(eleventyConfig);
 
-  // Base config
   return {
     dir: { input: "src/site", output: "dist", data: "_data" },
     templateFormats: ["njk", "md", "11ty.js"],

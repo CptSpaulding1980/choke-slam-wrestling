@@ -94,7 +94,10 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
-
+  eleventyConfig.addPassthroughCopy("src/site/img");
+  eleventyConfig.addPassthroughCopy("src/site/scripts");
+  // Hier Styles Passthrough
+  eleventyConfig.addPassthroughCopy("src/site/styles");
   // --- Markdown Setup ---
   let markdownLib = markdownIt({
     breaks: true,

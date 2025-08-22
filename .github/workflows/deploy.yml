@@ -24,6 +24,9 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        
+      - name: Compile SCSS
+        run: npx sass src/site/styles/style.scss src/site/styles/style.css
 
       - name: Build site
         run: npx eleventy

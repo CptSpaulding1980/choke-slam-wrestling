@@ -185,7 +185,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addTransform("resolveImageLinks", (content, outputPath) => {
     if (outputPath && outputPath.endsWith(".html")) {
       return content.replace(/!\[\[(.+?)\]\]/g, (match, imgName) => {
-        const src = `{{ '/img/user/z_Images/${imgName}' | url }}`;
+        const src = `/choke-slam-wrestling/img/user/z_Images/${imgName}`;
         return `<img src="${src}" alt="${imgName}" loading="lazy">`;
       });
     }

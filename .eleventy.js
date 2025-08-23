@@ -191,6 +191,18 @@ module.exports = function (eleventyConfig) {
     }
     return content;
   });
+  
+  // --- Fix DG Internal Links für GitHub Pages Subfolder ---
+  eleventyConfig.addTransform("fixDGLinks", (content, outputPath) => {
+    if (outputPath && outputPath.endsWith(".html")) {
+      // Ersetzt alle href="/xyz/..." durch href="/choke-slam-wrestling/xyz/..."
+      return content.replace(
+        /href="\/(notes|championships|other-folder)/g,
+        'href="/choke-slam-wrestling/$1'
+      );
+    }
+    return content;
+  });
 
   // --- Plugins ---
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });

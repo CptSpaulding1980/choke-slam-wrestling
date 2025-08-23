@@ -94,7 +94,7 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
-  eleventyConfig.addPassthroughCopy("src/site/img/user"); 
+  eleventyConfig.addPassthroughCopy("src/site/img/user/z_Images"); 
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   // Hier Styles Passthrough
   eleventyConfig.addPassthroughCopy("src/site/styles");
@@ -195,6 +195,33 @@ module.exports = function (eleventyConfig) {
     if (typeof v === "string") return v.replaceAll("\\", "\\\\");
     return v;
   });
+
+  // --- NEU: ![[Bildname]] automatisch zu <img> ---
+  eleventyConfig.addTransform("resolveImageLinks", (content, outputPath) => {
+    if (outputPath && outputPath.endsWith(".html")) {
+      return content.replace(/!\[\[(.+?)\]\]/g, (match, imgName) => {
+        const src = `{{ '/img/user/z_Images/${imgName}' | url }}`;
+        return `<img src="${src}" alt="${imgName}" loading="lazy">`;
+      });
+    }
+    return content;
+  });
+
+  // --- User custom setup ---
+  userEleventySetup(eleventyConfig);
+
+  return {
+    dir: {
+      input: "src/site",
+      output: "dist",
+      data: "_data",
+    },
+    templateFormats: ["njk", "md", "11ty.js"],
+    htmlTemplateEngine: "njk",
+    markdownTemplateEngine: false,
+    passthroughFileCopy: true,
+  };
+};
 
   // --- User custom setup ---
   userEleventySetup(eleventyConfig);

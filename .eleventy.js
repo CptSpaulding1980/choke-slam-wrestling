@@ -192,13 +192,15 @@ module.exports = function (eleventyConfig) {
     return content;
   });
   
-  // --- Fix DG Internal Links für GitHub Pages Subfolder ---
-  eleventyConfig.addTransform("fixDGLinks", (content, outputPath) => {
+  // --- Universeller Fix für alle absoluten DG-Links auf GitHub Pages Subfolder ---
+  const GHP_SUBFOLDER = "/choke-slam-wrestling";
+
+  eleventyConfig.addTransform("fixDGAbsoluteLinks", (content, outputPath) => {
     if (outputPath && outputPath.endsWith(".html")) {
-      // Ersetzt alle href="/xyz/..." durch href="/choke-slam-wrestling/xyz/..."
+      // Links, die mit / beginnen, aber nicht extern sind (https://, mailto:, #)
       return content.replace(
-        /href="\/(notes|championships|other-folder)/g,
-        'href="/choke-slam-wrestling/$1'
+        /href="\/(?!\/|http|https|#|mailto)([^"]+)"/g,
+        (match, p1) => `href="${GHP_SUBFOLDER}/${p1}"`
       );
     }
     return content;

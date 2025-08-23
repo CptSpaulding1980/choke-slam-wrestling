@@ -29,6 +29,12 @@
 <link href="{{ style }}" rel="stylesheet">
 {%- endfor -%}
 
+<link href="{{ '/styles/wrestling-purple.css' | url }}" rel="stylesheet">
+
+{%- for style in dynamics.styles -%}
+<link href="{{ style }}" rel="stylesheet">
+{%- endfor -%}
+
 {% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
 
 {%- if metatags %}

@@ -213,5 +213,7 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
+    // Hier ergänzen:
+    pathPrefix: "/choke-slam-wrestling/",
   };
 };

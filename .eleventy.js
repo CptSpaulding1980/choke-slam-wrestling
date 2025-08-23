@@ -94,10 +94,13 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
+
+  // --- Passthrough Copy ---
   eleventyConfig.addPassthroughCopy("src/site/img/user/z_Images"); 
   eleventyConfig.addPassthroughCopy("src/site/scripts");
-  // Hier Styles Passthrough
   eleventyConfig.addPassthroughCopy("src/site/styles");
+  eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
+
   // --- Markdown Setup ---
   let markdownLib = markdownIt({
     breaks: true,
@@ -158,6 +161,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("hideDataview", (str) =>
     str?.replace(/\(\S+\:\:(.*)\)/g, (_, value) => value.trim())
   );
+  eleventyConfig.addFilter("dateToZulu", (date) => date?.toISOString() || "");
+  eleventyConfig.addFilter("jsonify", (v) => JSON.stringify(v) || '""');
+  eleventyConfig.addFilter("validJson", (v) => {
+    if (Array.isArray(v)) return v.map((x) => x.replaceAll("\\", "\\\\")).join(",");
+    if (typeof v === "string") return v.replaceAll("\\", "\\\\");
+    return v;
+  });
 
   // --- Transforms ---
   eleventyConfig.addTransform("dataview-js-links", function (str) {
@@ -172,31 +182,6 @@ module.exports = function (eleventyConfig) {
     return parsed?.innerHTML;
   });
 
-  // --- Plugins ---
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
-  eleventyConfig.addPlugin(tocPlugin, { ul: true, tags: ["h1", "h2", "h3", "h4", "h5", "h6"] });
-  eleventyConfig.addPlugin(pluginRss, {
-    posthtmlRenderOptions: { closingSingleTag: "slash", singleTags: ["link"] },
-  });
-
-  // --- Passthrough Copy ---
-  eleventyConfig.addPassthroughCopy("src/site/img");
-  eleventyConfig.addPassthroughCopy("src/site/scripts");
-  eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
-
-  // --- Filters for feeds / sitemaps ---
-  eleventyConfig.addFilter("dateToZulu", function (date) {
-    return date?.toISOString() || "";
-  });
-
-  eleventyConfig.addFilter("jsonify", (v) => JSON.stringify(v) || '""');
-  eleventyConfig.addFilter("validJson", (v) => {
-    if (Array.isArray(v)) return v.map((x) => x.replaceAll("\\", "\\\\")).join(",");
-    if (typeof v === "string") return v.replaceAll("\\", "\\\\");
-    return v;
-  });
-
-  // --- NEU: ![[Bildname]] automatisch zu <img> ---
   eleventyConfig.addTransform("resolveImageLinks", (content, outputPath) => {
     if (outputPath && outputPath.endsWith(".html")) {
       return content.replace(/!\[\[(.+?)\]\]/g, (match, imgName) => {
@@ -207,9 +192,17 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  // --- Plugins ---
+  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+  eleventyConfig.addPlugin(tocPlugin, { ul: true, tags: ["h1", "h2", "h3", "h4", "h5", "h6"] });
+  eleventyConfig.addPlugin(pluginRss, {
+    posthtmlRenderOptions: { closingSingleTag: "slash", singleTags: ["link"] },
+  });
+
   // --- User custom setup ---
   userEleventySetup(eleventyConfig);
 
+  // --- Eleventy Config Return ---
   return {
     dir: {
       input: "src/site",
@@ -220,27 +213,6 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
-  };
-};
-
-  // --- User custom setup ---
-  userEleventySetup(eleventyConfig);
-
-  // --- Home.md als Root über Frontmatter ---
-  // Frontmatter in Home.md: `permalink: /`
-  // Keine weiteren Transforms / Global Data nötig
-
-  return {
-    dir: {
-      input: "src/site",
-      output: "dist",
-      data: "_data",
-    },
-    templateFormats: ["njk", "md", "11ty.js"],
-    htmlTemplateEngine: "njk",
-    markdownTemplateEngine: false,
-    passthroughFileCopy: true,
-    // Hier ergänzen:
     pathPrefix: "/choke-slam-wrestling/",
   };
 };

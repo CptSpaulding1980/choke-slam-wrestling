@@ -94,7 +94,7 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
-  eleventyConfig.addPassthroughCopy("src/site/img/user/z_Images");
+  eleventyConfig.addPassthroughCopy("src/site/img/user"); 
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   // Hier Styles Passthrough
   eleventyConfig.addPassthroughCopy("src/site/styles");

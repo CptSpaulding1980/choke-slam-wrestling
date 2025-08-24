@@ -1,13 +1,22 @@
+:root {
+  --wrestling-purple: #8a2be2;
+  --ring-rope: #4b0082;
+}
+
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  --background-primary: #1a0a25;
+  --text-normal: #e6d5ff;
+}
+
+/* Ring-Seil-Trennlinien */
+.markdown-preview-view hr {
+  border: 2px dashed var(--ring-rope);
+  height: 0;
+}
+
+
+/* Tabellen wie Matchcards */
+table {
+  border: 2px solid var(--wrestling-purple);
+  background: #2d0a3d;
 }

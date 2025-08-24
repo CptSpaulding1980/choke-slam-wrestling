@@ -1,52 +1,133 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="{{ meta.mainLanguage }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
 
-<script async type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-</script>
-<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- Scripts -->
+    <script async type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    </script>
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    {% include "components/calloutScript.njk" %}
+    <script async src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
+    <script async src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+    <script async src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js"></script>
+    <script async src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-{% include "components/calloutScript.njk" %}
+    <!-- Stylesheets -->
+    <link href="{{ '/styles/digital-garden-base.css' | url }}" rel="stylesheet">
+    {%- if meta.themeStyle %}
+      <link href="{{ '/styles/obsidian-base.css' | url }}" rel="stylesheet">
+      <link href="{{ meta.themeStyle }}" rel="stylesheet">
+    {% else %}
+      <link href="{{ '/styles/style.css' | url }}" rel="stylesheet">
+    {% endif %}
+    <link href="{{ '/styles/custom-style.css' | url }}" rel="stylesheet">
+    <link href="{{ '/styles/wrestling-purple.css' | url }}" rel="stylesheet">
+    {%- for style in dynamics.styles -%}
+      <link href="{{ style }}" rel="stylesheet">
+    {%- endfor -%}
 
-<script async src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
+    {% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
 
-<script async src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
-<script src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js" async></script>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" async/>
-<script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
-
-<link href="{{ '/styles/digital-garden-base.css' | url }}" rel="stylesheet">
-{%- if meta.themeStyle %}
-    <link href="{{ '/styles/obsidian-base.css' | url }}" rel="stylesheet">
-    <link href="{{ meta.themeStyle }}" rel="stylesheet"> {# Vorsicht bei externen URLs #}
-{% else %}
-    <link href="{{ '/styles/style.css' | url }}" rel="stylesheet">
-{% endif %}
-
-<link href="{{ '/styles/custom-style.css' | url }}" rel="stylesheet">
-{%- for style in dynamics.styles -%}
-<link href="{{ style }}" rel="stylesheet">
-{%- endfor -%}
-
-<link href="{{ '/styles/wrestling-purple.css' | url }}" rel="stylesheet">
-
-{%- for style in dynamics.styles -%}
-<link href="{{ style }}" rel="stylesheet">
-{%- endfor -%}
-
-{% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
-
-{%- if metatags %}
-    {%- for name, content in metatags %}
+    {%- if metatags %}
+      {%- for name, content in metatags %}
         <meta name="{{ name }}" content="{{ content }}">
-    {%- endfor %}
-{%- endif %}
+      {%- endfor %}
+    {%- endif %}
 
-{%- if meta.styleSettingsCss %}
-    <style>
+    {%- if meta.styleSettingsCss %}
+      <style>
         {{ meta.styleSettingsCss | safe }}
+      </style>
+    {%- endif %}
+  </head>
+
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+    <!-- Visible Header with Hamburger Menu -->
+    <header class="site-header">
+      <div class="header-container">
+        <a href="{{ '/' | url }}" class="site-title">{{ site.title }}</a>
+
+        <!-- Hamburger Button -->
+        <button class="menu-toggle" aria-label="Menu" onclick="document.querySelector('.site-nav').classList.toggle('open')">
+          ☰
+        </button>
+
+        <!-- Navigation -->
+        <nav class="site-nav">
+          <ul>
+            <li><a href="{{ '/' | url }}">Home</a></li>
+            <li><a href="{{ '/championships/' | url }}">Championships</a></li>
+            <li><a href="{{ '/events/' | url }}">Events</a></li>
+            <li><a href="{{ '/wrestler/' | url }}">Wrestler</a></li>
+            <li><a href="{{ '/statistics/' | url }}">Statistiken</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <style>
+      /* Header-Layout */
+      .site-header {
+        background: #111;
+        color: #fff;
+        padding: 0.5rem 1rem;
+      }
+      .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .site-title {
+        color: #fff;
+        text-decoration: none;
+        font-size: 1.5rem;
+      }
+      .site-nav ul {
+        list-style: none;
+        display: flex;
+        gap: 1rem;
+        margin: 0;
+        padding: 0;
+      }
+      .site-nav a {
+        color: #fff;
+        text-decoration: none;
+      }
+      .menu-toggle {
+        background: none;
+        border: none;
+        font-size: 1.5rem;
+        color: #fff;
+        cursor: pointer;
+      }
+
+      /* Mobile + Desktop Menü */
+      .site-nav {
+        display: flex;
+        flex-direction: column;
+        background: #111;
+        position: absolute;
+        top: 60px;
+        right: 0;
+        padding: 1rem;
+        width: 200px;
+        z-index: 999;
+      }
+      .site-nav.open {
+        display: flex;
+      }
+      @media (min-width: 769px) {
+        .site-nav {
+          flex-direction: row;
+          position: static;
+          background: transparent;
+          width: auto;
+          padding: 0;
+        }
+      }
     </style>
-{%- endif %}
-<style>
-</style>

@@ -1,5 +1,5 @@
 ---
-{"title":"Championships","dg-publish":true,"permalink":"/championships/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/championships/","title":"Championships","noteIcon":""}
 ---
 
 # Championships

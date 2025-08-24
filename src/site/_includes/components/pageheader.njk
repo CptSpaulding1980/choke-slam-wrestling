@@ -5,7 +5,6 @@
       ☰
     </button>
 
-    <!-- Site Title -->
     <a href="{{ '/' | url }}" class="site-title">{{ site.title }}</a>
 
     <!-- Navigation -->
@@ -14,13 +13,11 @@
         <li><a href="{{ '/' | url }}">Home</a></li>
 
         <li class="has-submenu">
-          <a href="#">Championships ▾</a>
+          <button class="submenu-toggle" aria-expanded="false">Championships ▾</button>
           <ul class="submenu">
-            {% for note in collections.notes %}
-              {% if note.file.path.startsWith("Notes/Championships/") %}
-                <li><a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a></li>
-              {% endif %}
-            {% endfor %}
+            <li><a href="{{ '/championships/world/' | url }}">World</a></li>
+            <li><a href="{{ '/championships/tag/' | url }}">Tag</a></li>
+            <li><a href="{{ '/championships/women/' | url }}">Women</a></li>
           </ul>
         </li>
 
@@ -33,26 +30,28 @@
 </header>
 
 <style>
-/* Header Layout */
 .site-header {
   background: #111;
   color: #fff;
   padding: 0.5rem 1rem;
-  display: flex;
-  align-items: center;
+  position: relative;
+  z-index: 999;
 }
+
 .header-container {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  width: 100%;
+  gap: 1rem;
 }
+
 .site-title {
   color: #fff;
   text-decoration: none;
   font-size: 1.5rem;
-  margin-left: 1rem;
+  flex-shrink: 0;
 }
+
 .site-nav ul {
   list-style: none;
   display: flex;
@@ -60,63 +59,87 @@
   margin: 0;
   padding: 0;
 }
-.site-nav li {
-  position: relative;
-}
+
 .site-nav a {
   color: #fff;
   text-decoration: none;
-  padding: 0.5rem;
-  display: block;
 }
+
 .menu-toggle {
   background: none;
   border: none;
   font-size: 1.5rem;
   color: #fff;
   cursor: pointer;
+  flex-shrink: 0;
 }
 
 /* Submenu */
-.has-submenu > .submenu {
+.has-submenu .submenu {
   display: none;
+  flex-direction: column;
   position: absolute;
+  background: #222;
   top: 100%;
   left: 0;
-  background: #111;
-  flex-direction: column;
-  min-width: 180px;
-  z-index: 100;
-}
-.has-submenu:hover > .submenu {
-  display: flex;
+  padding: 0.5rem 0;
 }
 
-/* Mobile */
-@media (max-width: 768px) {
+.has-submenu .submenu li {
+  padding: 0.25rem 1rem;
+}
+
+.has-submenu .submenu li a {
+  color: #fff;
+}
+
+.has-submenu .submenu-toggle {
+  background: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+/* Mobile & Desktop: Hamburger */
+@media (max-width: 1024px) {
   .site-nav {
-    display: none;
-    flex-direction: column;
-    position: absolute;
-    top: 60px;
-    left: 0;
-    width: 100%;
+    position: fixed;
+    top: 0;
+    left: -220px;
+    width: 200px;
+    height: 100%;
     background: #111;
-    padding: 1rem;
-    z-index: 100;
+    flex-direction: column;
+    padding: 2rem 1rem;
+    gap: 1rem;
+    transition: left 0.3s ease;
   }
   .site-nav.open {
-    display: flex;
+    left: 0;
   }
   .site-nav ul {
     flex-direction: column;
     gap: 0.5rem;
   }
-  .has-submenu > .submenu {
-    position: relative;
-    top: 0;
-    left: 0;
-    background: none;
+}
+
+/* Desktop: submenu hover fallback */
+@media (min-width: 1025px) {
+  .has-submenu:hover .submenu {
+    display: flex;
   }
 }
 </style>
+
+<script>
+document.querySelectorAll(".submenu-toggle").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const expanded = btn.getAttribute("aria-expanded") === "true";
+    btn.setAttribute("aria-expanded", !expanded);
+    const submenu = btn.nextElementSibling;
+    if (submenu) {
+      submenu.style.display = expanded ? "none" : "flex";
+    }
+  });
+});
+</script>

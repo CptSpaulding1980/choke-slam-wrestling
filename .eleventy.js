@@ -16,12 +16,14 @@ const {
 
 const Image = require("@11ty/eleventy-img");
 
+const GHP_SUBFOLDER = "/choke-slam-wrestling";
+
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
     formats: ["webp", "jpeg"],
     outputDir: "./dist/img/optimized",
-    urlPath: "/img/optimized",
+    urlPath: `${GHP_SUBFOLDER}/img/optimized`,
   };
 
   Image(src, options);
@@ -182,24 +184,22 @@ module.exports = function (eleventyConfig) {
     return parsed?.innerHTML;
   });
 
+  // --- Images ---
   eleventyConfig.addTransform("resolveImageLinks", (content, outputPath) => {
     if (outputPath && outputPath.endsWith(".html")) {
       return content.replace(/!\[\[(.+?)\]\]/g, (match, imgName) => {
-        const src = `/choke-slam-wrestling/img/user/z_Images/${imgName}`;
+        const src = `${GHP_SUBFOLDER}/img/user/z_Images/${imgName}`;
         return `<img src="${src}" alt="${imgName}" loading="lazy">`;
       });
     }
     return content;
   });
-  
-  // --- Universeller Fix für alle absoluten DG-Links auf GitHub Pages Subfolder ---
-  const GHP_SUBFOLDER = "/choke-slam-wrestling";
 
+  // --- Fix DG absolute links ---
   eleventyConfig.addTransform("fixDGAbsoluteLinks", (content, outputPath) => {
     if (outputPath && outputPath.endsWith(".html")) {
-      // Links, die mit / beginnen, aber nicht extern sind (https://, mailto:, #)
       return content.replace(
-        /href="\/(?!\/|http|https|#|mailto)([^"]+)"/g,
+        /href="\/(?!choke-slam-wrestling\/|\/|http|https|#|mailto)([^"]+)"/g,
         (match, p1) => `href="${GHP_SUBFOLDER}/${p1}"`
       );
     }

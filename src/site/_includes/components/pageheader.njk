@@ -1,7 +1,6 @@
 <header class="site-header">
   <div class="header-container">
-
-    <!-- Hamburger Button -->
+    <!-- Hamburger Button links -->
     <button class="menu-toggle" aria-label="Menu" onclick="document.querySelector('.site-nav').classList.toggle('open')">
       ☰
     </button>
@@ -13,45 +12,30 @@
     <nav class="site-nav">
       <ul>
         <li><a href="{{ '/' | url }}">Home</a></li>
-        <li><a href="{{ '/championships/' | url }}">Championships</a></li>
+        <li>
+          <a href="#">Championships ▾</a>
+          <ul class="submenu">
+            {% for note in collections.notes %}
+              {% if note.file.path.startsWith("Notes/Championships/") %}
+                <li><a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </li>
         <li><a href="{{ '/events/' | url }}">Events</a></li>
         <li><a href="{{ '/wrestler/' | url }}">Wrestler</a></li>
         <li><a href="{{ '/statistics/' | url }}">Statistiken</a></li>
-      </ul>
-
-      <!-- Unterseiten Dynamisch aus Collections -->
-      <ul>
-      {% for note in collections.notes %}
-        {% if note.file.path.startsWith("Notes/Championships/") %}
-          <li>
-            <a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
       </ul>
     </nav>
   </div>
 </header>
 
-<!-- Styles -->
-<link href="{{ '/styles/wrestling-purple.css' | url }}" rel="stylesheet">
-<link href="{{ '/styles/digital-garden-base.css' | url }}" rel="stylesheet">
-{% if meta.themeStyle %}
-  <link href="{{ '/styles/obsidian-base.css' | url }}">
-  <link href="{{ meta.themeStyle }}" rel="stylesheet">
-{% else %}
-  <link href="{{ '/styles/style.css' | url }}" rel="stylesheet">
-{% endif %}
-<link href="{{ '/styles/custom-style.css' | url }}" rel="stylesheet">
-
 <style>
-/* Header-Layout */
+/* Header Layout */
 .site-header {
   background: #111;
   color: #fff;
   padding: 0.5rem 1rem;
-  position: relative;
-  z-index: 999;
 }
 .header-container {
   display: flex;
@@ -73,8 +57,10 @@
 .site-nav a {
   color: #fff;
   text-decoration: none;
+  cursor: pointer;
 }
 .menu-toggle {
+  display: block;
   background: none;
   border: none;
   font-size: 1.5rem;
@@ -82,38 +68,58 @@
   cursor: pointer;
 }
 
-/* Mobile & Desktop Hamburger Menü */
-.site-nav {
+/* Submenu */
+.submenu {
   display: none;
-  flex-direction: column;
-  background: #111;
   position: absolute;
-  top: 60px;
-  left: 0;
-  padding: 1rem;
-  width: 220px;
+  background: #222;
+  margin-top: 0.5rem;
+  padding: 0.5rem 0;
+  border-radius: 4px;
+  min-width: 200px;
 }
-.site-nav.open {
-  display: flex;
+.site-nav li:hover > .submenu {
+  display: block;
 }
-@media (min-width: 768px) {
+.submenu li {
+  padding: 0 1rem;
+}
+.submenu li a {
+  display: block;
+}
+
+/* Hamburger always visible on desktop and mobile */
+@media (max-width: 1200px) {
+  .site-nav {
+    display: none;
+    flex-direction: column;
+    background: #111;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 220px;
+    padding: 1rem;
+    z-index: 999;
+  }
+  .site-nav.open {
+    display: flex;
+  }
+}
+@media (min-width: 1200px) {
   .site-nav {
     display: flex;
-    position: relative;
-    flex-direction: row;
-    background: none;
-    top: auto;
-    left: auto;
-    width: auto;
+    gap: 1rem;
   }
 }
 </style>
 
 <script>
-  // Optional: Alle Links im Hamburger schließen beim Klick
-  document.querySelectorAll('.site-nav a').forEach(link => {
-    link.addEventListener('click', () => {
-      document.querySelector('.site-nav').classList.remove('open');
-    });
+  // Optional: Klick außerhalb schließt Hamburger-Menü
+  document.addEventListener('click', function(e){
+    const nav = document.querySelector('.site-nav');
+    const btn = document.querySelector('.menu-toggle');
+    if(!nav.contains(e.target) && !btn.contains(e.target)) {
+      nav.classList.remove('open');
+    }
   });
 </script>

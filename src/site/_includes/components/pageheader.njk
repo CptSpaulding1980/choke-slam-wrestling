@@ -1,6 +1,6 @@
 <header class="site-header">
   <div class="header-container">
-    <!-- Hamburger Button links -->
+    <!-- Hamburger Button -->
     <button class="menu-toggle" aria-label="Menu" onclick="document.querySelector('.site-nav').classList.toggle('open')">
       ☰
     </button>
@@ -12,7 +12,8 @@
     <nav class="site-nav">
       <ul>
         <li><a href="{{ '/' | url }}">Home</a></li>
-        <li>
+
+        <li class="has-submenu">
           <a href="#">Championships ▾</a>
           <ul class="submenu">
             {% for note in collections.notes %}
@@ -22,6 +23,7 @@
             {% endfor %}
           </ul>
         </li>
+
         <li><a href="{{ '/events/' | url }}">Events</a></li>
         <li><a href="{{ '/wrestler/' | url }}">Wrestler</a></li>
         <li><a href="{{ '/statistics/' | url }}">Statistiken</a></li>
@@ -36,16 +38,20 @@
   background: #111;
   color: #fff;
   padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
 }
 .header-container {
   display: flex;
+  justify-content: flex-start;
   align-items: center;
-  gap: 1rem;
+  width: 100%;
 }
 .site-title {
   color: #fff;
   text-decoration: none;
   font-size: 1.5rem;
+  margin-left: 1rem;
 }
 .site-nav ul {
   list-style: none;
@@ -54,13 +60,16 @@
   margin: 0;
   padding: 0;
 }
+.site-nav li {
+  position: relative;
+}
 .site-nav a {
   color: #fff;
   text-decoration: none;
-  cursor: pointer;
+  padding: 0.5rem;
+  display: block;
 }
 .menu-toggle {
-  display: block;
   background: none;
   border: none;
   font-size: 1.5rem;
@@ -69,57 +78,45 @@
 }
 
 /* Submenu */
-.submenu {
+.has-submenu > .submenu {
   display: none;
   position: absolute;
-  background: #222;
-  margin-top: 0.5rem;
-  padding: 0.5rem 0;
-  border-radius: 4px;
-  min-width: 200px;
+  top: 100%;
+  left: 0;
+  background: #111;
+  flex-direction: column;
+  min-width: 180px;
+  z-index: 100;
 }
-.site-nav li:hover > .submenu {
-  display: block;
-}
-.submenu li {
-  padding: 0 1rem;
-}
-.submenu li a {
-  display: block;
+.has-submenu:hover > .submenu {
+  display: flex;
 }
 
-/* Hamburger always visible on desktop and mobile */
-@media (max-width: 1200px) {
+/* Mobile */
+@media (max-width: 768px) {
   .site-nav {
     display: none;
     flex-direction: column;
-    background: #111;
     position: absolute;
-    top: 50px;
+    top: 60px;
     left: 0;
-    width: 220px;
+    width: 100%;
+    background: #111;
     padding: 1rem;
-    z-index: 999;
+    z-index: 100;
   }
   .site-nav.open {
     display: flex;
   }
-}
-@media (min-width: 1200px) {
-  .site-nav {
-    display: flex;
-    gap: 1rem;
+  .site-nav ul {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .has-submenu > .submenu {
+    position: relative;
+    top: 0;
+    left: 0;
+    background: none;
   }
 }
 </style>
-
-<script>
-  // Optional: Klick außerhalb schließt Hamburger-Menü
-  document.addEventListener('click', function(e){
-    const nav = document.querySelector('.site-nav');
-    const btn = document.querySelector('.menu-toggle');
-    if(!nav.contains(e.target) && !btn.contains(e.target)) {
-      nav.classList.remove('open');
-    }
-  });
-</script>

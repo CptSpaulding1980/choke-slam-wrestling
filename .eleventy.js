@@ -17,6 +17,8 @@ const {
 const Image = require("@11ty/eleventy-img");
 const obsidianWikilinkImage = require("./obsidian-wikilink-image-plugin");
 
+const { EleventyHtmlBasePlugin } = require("@11ty/eleventy"); // neu importieren
+
 const GHP_SUBFOLDER = "/choke-slam-wrestling";
 
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
@@ -98,6 +100,8 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
 
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin); // neu hinzufügen
+
   // --- Passthrough Copy ---
   eleventyConfig.addPassthroughCopy("src/site/img/user/z_Images"); 
   eleventyConfig.addPassthroughCopy("src/site/scripts");
@@ -132,7 +136,7 @@ module.exports = function (eleventyConfig) {
       liClass: "task-list-item",
     })
     .use(require("markdown-it-plantuml"), {
-      openMarker: "```plantuml",
+      openMarker: "```
       closeMarker: "```",
     })
     .use(namedHeadingsFilter)
@@ -197,9 +201,7 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  // --- Entfernt resolveImageLinks Transform, da neue Lösung ---
-  // Nicht mehr registrieren:
-  // eleventyConfig.addTransform("resolveImageLinks", ...);
+  // --- Nicht mehr: resolveImageLinks Transform entfernen ---
 
   // --- Plugins ---
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
@@ -222,5 +224,8 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
+
+    // Pfad für GitHub-Pages im Repository-Subfolder
+    pathPrefix: GHP_SUBFOLDER,
   };
 };

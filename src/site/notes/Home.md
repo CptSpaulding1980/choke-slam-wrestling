@@ -3,7 +3,7 @@
 ---
 
 # 🏠 Choke Slam Wrestling Dashboard
-![ChokeSlam.png](/img/user/z_Images/ChokeSlam.png)
+![ChokeSlam.png](/choke-slam-wrestling/img/user/z_Images/ChokeSlam.png)
 ![Choke Slam_MM.png](/img/user/z_Images/Choke%20Slam_MM.png)
 ![Choke Slam_SnS.png](/img/user/z_Images/Choke%20Slam_SnS.png)
 

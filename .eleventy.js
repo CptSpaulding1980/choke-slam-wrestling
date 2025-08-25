@@ -5,7 +5,6 @@ const matter = require("gray-matter");
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
-const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
@@ -17,7 +16,8 @@ const {
 const Image = require("@11ty/eleventy-img");
 const obsidianWikilinkImage = require("./obsidian-wikilink-image-plugin");
 
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy"); // neu importieren
+// Eleventy Plugin für base Pfad URLs
+const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 const GHP_SUBFOLDER = "/choke-slam-wrestling";
 
@@ -100,15 +100,16 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
 
-  eleventyConfig.addPlugin(EleventyHtmlBasePlugin); // neu hinzufügen
+  // Plugin für korrekte Base-URLs hinzufügen
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 
-  // --- Passthrough Copy ---
-  eleventyConfig.addPassthroughCopy("src/site/img/user/z_Images"); 
+  // Passthrough Copy
+  eleventyConfig.addPassthroughCopy("src/site/img/user/z_Images");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
 
-  // --- Markdown Setup ---
+  // Markdown Setup
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
@@ -140,12 +141,12 @@ module.exports = function (eleventyConfig) {
       closeMarker: "```",
     })
     .use(namedHeadingsFilter)
-    .use(obsidianWikilinkImage) // Plugin hier einbinden
+    .use(obsidianWikilinkImage)
     .use(userMarkdownSetup);
 
   eleventyConfig.setLibrary("md", markdownLib);
 
-  // --- Filters ---
+  // Filter
   eleventyConfig.addFilter("isoDate", (date) => date && date.toISOString());
   eleventyConfig.addFilter("link", (str) => {
     return (
@@ -177,7 +178,7 @@ module.exports = function (eleventyConfig) {
     return v;
   });
 
-  // --- Transforms ---
+  // Transforms
   eleventyConfig.addTransform("dataview-js-links", function (str) {
     const parsed = parse(str);
     for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
@@ -190,7 +191,7 @@ module.exports = function (eleventyConfig) {
     return parsed?.innerHTML;
   });
 
-  // --- Fix DG absolute links ---
+  // Fix DG absolute links
   eleventyConfig.addTransform("fixDGAbsoluteLinks", (content, outputPath) => {
     if (outputPath && outputPath.endsWith(".html")) {
       return content.replace(
@@ -201,19 +202,17 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  // --- Nicht mehr: resolveImageLinks Transform entfernen ---
-
-  // --- Plugins ---
+  // Plugins
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
   eleventyConfig.addPlugin(tocPlugin, { ul: true, tags: ["h1", "h2", "h3", "h4", "h5", "h6"] });
   eleventyConfig.addPlugin(pluginRss, {
     posthtmlRenderOptions: { closingSingleTag: "slash", singleTags: ["link"] },
   });
 
-  // --- User custom setup ---
+  // User custom setup
   userEleventySetup(eleventyConfig);
 
-  // --- Eleventy Config Return ---
+  // Eleventy Config Return
   return {
     dir: {
       input: "src/site",
@@ -224,5 +223,8 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
+
+    // Subfolder pfad für GitHub Pages
+    pathPrefix: GHP_SUBFOLDER,
   };
 };

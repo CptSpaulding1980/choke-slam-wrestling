@@ -132,8 +132,8 @@ module.exports = function (eleventyConfig) {
       liClass: "task-list-item",
     })
     .use(require("markdown-it-plantuml"), {
-      openMarker: "```plantuml"
-      closeMarker: "```"
+      openMarker: "```plantuml",
+      closeMarker: "```",
     })
     .use(namedHeadingsFilter)
     .use(obsidianWikilinkImage) // Plugin hier einbinden

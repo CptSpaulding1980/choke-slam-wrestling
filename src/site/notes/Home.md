@@ -3,7 +3,9 @@
 ---
 
 # 🏠 Choke Slam Wrestling Dashboard
-![ChokeSlam.png](/choke-slam-wrestling/src/site/img/ChokeSlam.png) ![Choke Slam_MM.png|175x175](/img/user/z_Images/Choke%20Slam_MM.png) ![Choke Slam_SRR.png|175x175](/img/user/z_Images/Choke%20Slam_SRR.png) ![Choke Slam_SnS.png|175x175](/img/user/z_Images/Choke%20Slam_SnS.png)
+<img src="{{ '/img/user/z_Images/ChokeSlam.png' | url }}" alt="Choke Slam Logo" width="175" height="175" loading="lazy" /> 
+
+![Choke Slam_MM.png|175x175](/img/user/z_Images/Choke%20Slam_MM.png) ![Choke Slam_SRR.png|175x175](/img/user/z_Images/Choke%20Slam_SRR.png) ![Choke Slam_SnS.png|175x175](/img/user/z_Images/Choke%20Slam_SnS.png)
 
 ## 📅 Nächste Events
 | File                                               | date       | venue | location |

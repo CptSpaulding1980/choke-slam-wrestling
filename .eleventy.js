@@ -133,7 +133,7 @@ module.exports = function (eleventyConfig) {
     })
     .use(require("markdown-it-plantuml"), {
       openMarker: "```plantuml"
-      closeMarker: "```",
+      closeMarker: "```"
     })
     .use(namedHeadingsFilter)
     .use(obsidianWikilinkImage) // Plugin hier einbinden

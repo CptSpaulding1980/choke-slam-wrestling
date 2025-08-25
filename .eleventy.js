@@ -5,6 +5,7 @@ const matter = require("gray-matter");
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
+const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
@@ -16,12 +17,14 @@ const {
 const Image = require("@11ty/eleventy-img");
 const obsidianWikilinkImage = require("./obsidian-wikilink-image-plugin");
 
+const GHP_SUBFOLDER = "/choke-slam-wrestling";
+
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
     formats: ["webp", "jpeg"],
     outputDir: "./dist/img/optimized",
-    urlPath: "/img/optimized",
+    urlPath: `${GHP_SUBFOLDER}/img/optimized`,
   };
 
   Image(src, options);
@@ -96,7 +99,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
 
   // --- Passthrough Copy ---
-  eleventyConfig.addPassthroughCopy("src/site/img/user/z_Images");
+  eleventyConfig.addPassthroughCopy("src/site/img/user/z_Images"); 
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
@@ -129,11 +132,11 @@ module.exports = function (eleventyConfig) {
       liClass: "task-list-item",
     })
     .use(require("markdown-it-plantuml"), {
-      openMarker: "```plantuml",
+      openMarker: "```
       closeMarker: "```",
     })
     .use(namedHeadingsFilter)
-    .use(obsidianWikilinkImage)
+    .use(obsidianWikilinkImage) // Plugin hier einbinden
     .use(userMarkdownSetup);
 
   eleventyConfig.setLibrary("md", markdownLib);
@@ -184,18 +187,19 @@ module.exports = function (eleventyConfig) {
   });
 
   // --- Fix DG absolute links ---
-  // hier auskommentiert, da Konflikte mit Subfolder
-  /*
   eleventyConfig.addTransform("fixDGAbsoluteLinks", (content, outputPath) => {
     if (outputPath && outputPath.endsWith(".html")) {
       return content.replace(
         /href="\/(?!choke-slam-wrestling\/|\/|http|https|#|mailto)([^"]+)"/g,
-        (match, p1) => `href="/choke-slam-wrestling/${p1}"`
+        (match, p1) => `href="${GHP_SUBFOLDER}/${p1}"`
       );
     }
     return content;
   });
-  */
+
+  // --- Entfernt resolveImageLinks Transform, da neue Lösung ---
+  // Nicht mehr registrieren:
+  // eleventyConfig.addTransform("resolveImageLinks", ...);
 
   // --- Plugins ---
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
@@ -218,6 +222,5 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
-    // kein pathPrefix gesetzt, damit keine Probleme mit Subfolder-URLs entstehen
   };
 };

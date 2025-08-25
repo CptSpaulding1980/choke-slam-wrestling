@@ -15,6 +15,7 @@ const {
 } = require("./src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
+const obsidianWikilinkImage = require("./obsidian-wikilink-image-plugin");
 
 const GHP_SUBFOLDER = "/choke-slam-wrestling";
 
@@ -131,10 +132,11 @@ module.exports = function (eleventyConfig) {
       liClass: "task-list-item",
     })
     .use(require("markdown-it-plantuml"), {
-      openMarker: "```plantuml",
+      openMarker: "```
       closeMarker: "```",
     })
     .use(namedHeadingsFilter)
+    .use(obsidianWikilinkImage) // Plugin hier einbinden
     .use(userMarkdownSetup);
 
   eleventyConfig.setLibrary("md", markdownLib);
@@ -184,17 +186,6 @@ module.exports = function (eleventyConfig) {
     return parsed?.innerHTML;
   });
 
-  // --- Images ---
-  eleventyConfig.addTransform("resolveImageLinks", (content, outputPath) => {
-    if (outputPath && outputPath.endsWith(".html")) {
-      return content.replace(/!\[\[(.+?)\]\]/g, (match, imgName) => {
-        const src = `${GHP_SUBFOLDER}/img/user/z_Images/${imgName}`;
-        return `<img src="${src}" alt="${imgName}" loading="lazy">`;
-      });
-    }
-    return content;
-  });
-
   // --- Fix DG absolute links ---
   eleventyConfig.addTransform("fixDGAbsoluteLinks", (content, outputPath) => {
     if (outputPath && outputPath.endsWith(".html")) {
@@ -205,6 +196,10 @@ module.exports = function (eleventyConfig) {
     }
     return content;
   });
+
+  // --- Entfernt resolveImageLinks Transform, da neue Lösung ---
+  // Nicht mehr registrieren:
+  // eleventyConfig.addTransform("resolveImageLinks", ...);
 
   // --- Plugins ---
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });

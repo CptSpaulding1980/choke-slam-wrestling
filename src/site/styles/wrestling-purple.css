@@ -4,8 +4,20 @@
 }
 
 body {
-  --background-primary: #1a0a25;
-  --text-normal: #e6d5ff;
+  background-color: #fefcfb; /* Beispiel heller Soft-Paper-Hintergrund */
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif; /* Elegant und klar */
+  color: #333333; /* dunkles, aber weiches Schwarz für Text */
+}
+
+/* Akzentfarben anpassen */
+a {
+  color: #a779e9; /* z.B. lila AnuPpuccin-Akzent */
+}
+
+/* Optional: Weitere typografische Details */
+h1, h2, h3 {
+  font-weight: 600;
+  color: #5e4b8b; /* dunklerer Akzent für Überschriften */
 }
 
 /* Ring-Seil-Trennlinien */
@@ -13,7 +25,6 @@ body {
   border: 2px dashed var(--ring-rope);
   height: 0;
 }
-
 
 /* Tabellen wie Matchcards */
 table {

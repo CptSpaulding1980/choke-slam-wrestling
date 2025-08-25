@@ -132,7 +132,7 @@ module.exports = function (eleventyConfig) {
       liClass: "task-list-item",
     })
     .use(require("markdown-it-plantuml"), {
-      openMarker: "```
+      openMarker: "```plantuml"
       closeMarker: "```",
     })
     .use(namedHeadingsFilter)

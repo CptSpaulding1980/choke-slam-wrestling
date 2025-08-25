@@ -1,33 +1,96 @@
 :root {
   --wrestling-purple: #8a2be2;
   --ring-rope: #4b0082;
+
+  /* Zusätzliche AnuPpuccin-ähnliche Farben */
+  --background: #232136;
+  --surface: #2a273f;
+  --muted-text: #6e6a86;
+  --accent: #a779e9;
+  --headline: #f6c177;
+  --text-color: #e0def4;
+  --border-color: #393552;
 }
 
 body {
-  background-color: #fefcfb; /* Beispiel heller Soft-Paper-Hintergrund */
-  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif; /* Elegant und klar */
-  color: #333333; /* dunkles, aber weiches Schwarz für Text */
+  background-color: var(--background);
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  color: var(--text-color);
+  margin: 0;
+  padding: 1rem;
 }
 
-/* Akzentfarben anpassen */
+/* Link Akzentfarben */
 a {
-  color: #a779e9; /* z.B. lila AnuPpuccin-Akzent */
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover {
+  color: #c4a7e7;
+  text-decoration: underline;
 }
 
-/* Optional: Weitere typografische Details */
+/* Überschriften */
 h1, h2, h3 {
   font-weight: 600;
-  color: #5e4b8b; /* dunklerer Akzent für Überschriften */
+  color: var(--headline);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
-/* Ring-Seil-Trennlinien */
+/* Ring-Seil-Trennlinie */
 .markdown-preview-view hr {
   border: 2px dashed var(--ring-rope);
   height: 0;
 }
 
-/* Tabellen wie Matchcards */
+/* Tabellen - saubere Spalten, Farben und Abstand */
 table {
-  border: 2px solid var(--wrestling-purple);
-  background: #2d0a3d;
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  background-color: var(--surface);
+  color: var(--text-color);
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgb(0 0 0 / 0.3);
+  margin-bottom: 2rem;
+}
+
+th, td {
+  padding: 0.8rem 1rem;
+  text-align: left;
+}
+
+th {
+  background-color: var(--border-color);
+  color: var(--headline);
+  font-weight: 700;
+}
+
+tr:not(:last-child) td {
+  border-bottom: 1px solid var(--border-color);
+}
+
+tr:hover td {
+  background-color: #393552;
+}
+
+/* Individuelle Titel-Anpassung (z.B. Dashboard Title) */
+.dashboard-title {
+  color: var(--headline);
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+/* Bereichsüberschriften */
+.section-title {
+  color: var(--accent);
+  padding: 0.3rem 0;
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  margin-top: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }

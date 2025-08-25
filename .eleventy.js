@@ -224,8 +224,5 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
-
-    // Pfad für GitHub-Pages im Repository-Subfolder
-    pathPrefix: GHP_SUBFOLDER,
   };
 };

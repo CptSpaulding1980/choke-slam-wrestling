@@ -196,10 +196,14 @@ module.exports = function (eleventyConfig) {
     }
     return content;
   });
-
-  // --- Entfernt resolveImageLinks Transform, da neue Lösung ---
-  // Nicht mehr registrieren:
-  // eleventyConfig.addTransform("resolveImageLinks", ...);
+  
+  eleventyConfig.addTransform("fixImagePaths", (content, outputPath) => {
+    if (outputPath && outputPath.endsWith(".html")) {
+      // Ersetzt Bild-Pfade ohne Subfolder durch Pfade mit /choke-slam-wrestling
+      content = content.replace(/src="\/img\//g, 'src="/choke-slam-wrestling/img/');
+    }
+    return content;
+  });
 
   // --- Plugins ---
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });

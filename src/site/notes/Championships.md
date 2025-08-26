@@ -40,7 +40,7 @@ Dies ist die Übersicht aller Championship-Titel:
   <tr>
     <td>
     <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/championships/choke-slam-womens-championship">
-      <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam WomensChampionship.png" width="150">
+      <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam Womens Championship.png" width="150">
     </a>
     </td>
   </tr>

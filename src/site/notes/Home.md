@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"🤼"}
 ---
 
 # 🏠 Choke Slam Wrestling Dashboard

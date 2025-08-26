@@ -3,8 +3,7 @@
 ---
 
 # Adam Cole
-
-![Adam Cole.png](/src/site/img/user/z_Images/Adam%20Cole.png)
+<img src="/choke-slam-wrestling/img/user/z_Images/Adam Cole.png" width="120"> 
 
 ## Karriere-Statistiken
 

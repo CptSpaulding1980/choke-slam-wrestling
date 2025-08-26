@@ -4,7 +4,7 @@
 
 # Adam Cole
 
-![Adam Cole.png](src/site/img/user/z_Images/Adam Cole.png)
+![Adam Cole.png](/src/site/img/user/z_Images/Adam%20Cole.png)
 
 ## Karriere-Statistiken
 

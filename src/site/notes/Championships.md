@@ -8,7 +8,7 @@ Dies ist die Übersicht aller Championship-Titel:
 <table>
   <tr>
     <td><img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam World Championship.png" width="140"></td>
-    <td><a href="Choke%20Slam%20World%20Championship.md">Choke Slam World Championship</a></td>
+    <td><a href="[Choke%20Slam%20World%20Championship.md](https://cptspaulding1980.github.io/choke-slam-wrestling/championships/choke-slam-world-championship/)">Choke Slam World Championship</a></td>
   </tr>
   <tr>
     <td><img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam Womens Championship.png" width="140"></td>

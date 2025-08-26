@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/","title":"Wrestler","noteIcon":""}
+{"dg-publish":true,"permalink":"/wrestler/","title":"Wrestler","noteIcon":"🤼"}
 ---
 
 # Wrestler Index

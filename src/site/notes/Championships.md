@@ -56,7 +56,7 @@ Dies ist die Übersicht aller Championship-Titel:
 
   <a href="/Championships/hoke Slam World Championship" class="champ-card">
     <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam World Championship.png" alt="hoke Slam World Championship">
-    <span>Another Championship</span>
+    <span>hoke Slam World Championship</span>
   </a>
 </div>
 

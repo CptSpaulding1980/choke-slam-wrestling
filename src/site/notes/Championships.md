@@ -4,6 +4,8 @@
 
 # Championships
 Dies ist die Übersicht aller Championship-Titel:
+
+| #                                          | Championship                   |
 | ------------------------------------------ | ------------------------------ |
 | ![Choke Slam World Championship.png](/choke-slam-wrestling/img/user/z_Images/Choke Slam World Championship.png) | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]] |
 | ![Choke Slam Womens Championship.png](/choke-slam-wrestling/img/user/z_Images/Choke Slam Womens Championship.png) | [[Championships/Choke Slam Womens Championship\|Choke Slam Womens Championship]] |

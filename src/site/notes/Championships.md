@@ -29,17 +29,20 @@ Dies ist die Übersicht aller Championship-Titel:
 </table>
 
 
-<tr>
-  <td>
+<table>
+  <tr>
+    <td>
     <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/championships/choke-slam-world-championship">
-      <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam World Championship.png" width="140">
+      <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam World Championship.png" width="150">
     </a>
-  </td>
-  <td>
-    <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/championships/choke-slam-world-championship">
-      Choke Slam World Championship
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/championships/choke-slam-womens-championship">
+      <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam WomensChampionship.png" width="150">
     </a>
-  </td>
-</tr>
-
+    </td>
+  </tr>
+</table>
 ---

@@ -45,4 +45,19 @@ Dies ist die Übersicht aller Championship-Titel:
     </td>
   </tr>
 </table>
+
+
+
+<div class="championship-grid">
+  <a href="/Championships/Choke Slam Trios Championship" class="champ-card">
+    <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam Trios Championship.png" alt="Choke Slam Trios Championship">
+    <span>Choke Slam Trios Championship</span>
+  </a>
+
+  <a href="/Championships/hoke Slam World Championship" class="champ-card">
+    <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam World Championship.png" alt="hoke Slam World Championship">
+    <span>Another Championship</span>
+  </a>
+</div>
+
 ---

@@ -56,7 +56,7 @@ Dies ist die Übersicht aller Championship-Titel:
 
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/championships/choke-slam-womens-championship" class="champ-card">
     <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam Womens Championship.png" alt="hoke Slam Womens Championship">
-    <span>hoke Slam Womens Championship</span>
+    <span>Choke Slam Womens Championship</span>
   </a>
 </div>
 

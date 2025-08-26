@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/championships/","title":"Championships","noteIcon":"🏆"}
 ---
 
-# Championships
+# **Championships**
 Dies ist die Übersicht aller Championship-Titel:
 
 <div class="championship-grid">

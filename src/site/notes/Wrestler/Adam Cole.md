@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/wrestler/adam-cole/","tags":["wrestler"],"noteIcon":""}
 ---
 
-
 # Adam Cole
 
-![[Adam Cole.png\|80x85]]
+![Adam Cole.png](src/site/img/user/z_Images/Adam Cole.png)
 
 ## Karriere-Statistiken
 
@@ -15,16 +14,15 @@
 
 **Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
 
-
-## Häufigste Partner
-- [[Wrestler/Britt Baker\|Britt Baker]] (3x)
-
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
 - [[Wrestler/Rush\|Rush]] (1x)
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Britt Baker\|Britt Baker]] (3x)
 
 ## Top Matches
 - 2021-05-18: Greatest Rumble ever (**90**) in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]]

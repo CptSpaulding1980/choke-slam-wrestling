@@ -24,7 +24,7 @@ Dies ist die Übersicht aller Championship-Titel:
   </tr>
   <tr>
     <td><img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam Trios Championship.png" width="140"></td>
-    <td><a href="src/site/notes/championships/choke-slam-trios-championship">Choke Slam Trios Championship</a></td>
+    <td><a href="championships/choke-slam-trios-championship">Choke Slam Trios Championship</a></td>
   </tr>
 </table>
 

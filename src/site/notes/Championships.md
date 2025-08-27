@@ -21,5 +21,4 @@ Dies ist die Übersicht aller Championship-Titel:
     <span>Choke Slam International Championship</span>
   </a>
 </div>
-
 ---

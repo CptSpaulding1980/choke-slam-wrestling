@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/teams/","title":"Teams","noteIcon":""}
 ---
 
-
 # **Teams**
 Dies ist die Übersicht aller teilnehmenden Teams:
 

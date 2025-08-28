@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td><img src="Bam Bam Bigelow.png" width="280" alt="Bam Bam Bigelow"></td>
+<td><img src="/choke-slam-wrestling/img/user/z_Images/Bam Bam Bigelow.png" width="280" alt="Bam Bam Bigelow"></td>
 <td>
 <b>Height:</b> 193cm<br>
 <b>Weight:</b> 177kg<br>

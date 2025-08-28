@@ -1,7 +1,6 @@
 ---
 {"dg-publish":true,"permalink":"/championships/","title":"Championships","noteIcon":"🏆"}
 ---
-
 # **Championships**
 Dies ist die Übersicht aller Championship-Titel:
 
@@ -19,6 +18,16 @@ Dies ist die Übersicht aller Championship-Titel:
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/championships/choke-slam-international-championship" class="champ-card">
     <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam International Championship.png" alt="Choke Slam International Championship">
     <span>Choke Slam International Championship</span>
+  </a>
+
+    <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/championships/choke-slam-tag-team-championship" class="champ-card">
+    <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam Tag Team Championship.png" alt="Choke Slam Tag Team Championship">
+    <span>Choke Slam Tag Team Championship</span>
+  </a>
+  
+    <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/championships/choke-slam-trios-championship" class="champ-card">
+    <img src="/choke-slam-wrestling/img/user/z_Images/Choke Slam Trios Championship.png" alt="Choke Slam Trios Championship">
+    <span>Choke Slam Trios Championship</span>
   </a>
 </div>
 ---

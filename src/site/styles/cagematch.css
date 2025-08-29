@@ -78,23 +78,49 @@ a:hover {
     padding: 1em;
 }
 
-.table {
-    background: #ededed;
-    border: 1px solid #d2cfcf;
-    font-size: 14px;
-    color: #222;
-    border-radius: 3px;
-    margin-bottom: 1em;
+/* Cagematch-Style Table */
+table, .table {
+    border-collapse: collapse;
+    width: 100%;
+    background: #f6f6f6;
+    font-size: 15px;
+    margin-bottom: 1.5em;
+    box-shadow: 0 2px 8px #e4e4e4;
 }
-.table th {
+
+table th, .table th {
     background: #e0e0e0;
     color: #730000;
     font-weight: bold;
-    padding: 8px;
+    border: 1px solid #d2cfcf;
+    padding: 10px 8px;
+    text-align: left;
+    font-size: 16px;
 }
-.table td {
-    padding: 8px;
-    border-top: 1px solid #c9c8c8;
+
+table td, .table td {
+    border: 1px solid #d2cfcf;
+    padding: 10px 8px;
+    color: #2a2a2a;
+    background: #fbfbfb;
+}
+
+/* Zebra-Stripes für Zeilen */
+table tr:nth-child(even), .table tr:nth-child(even) {
+    background: #ededed;
+}
+table tr:nth-child(odd), .table tr:nth-child(odd) {
+    background: #fbfbfb;
+}
+
+/* Optional: Hover-Effekt für Zeilen */
+table tr:hover, .table tr:hover {
+    background: #ffe6e6;
+}
+
+/* Optionale abgerundete Ecken und leichten Schatten für Sichtbarkeit */
+table, .table {
+    border-radius: 4px;
 }
 
 .footer, .bottom-bar {

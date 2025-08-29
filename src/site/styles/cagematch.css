@@ -102,56 +102,54 @@ a:hover {
    Verbesserte Table-Darstellung (Cagematch-Style)
    ==================================== */
 table, .table {
-    border-collapse: separate;
-    border-spacing: 0;
-    width: 100%;
+    border-collapse: separate !important;
+    border-spacing: 0 !important;
+    width: 100% !important;
     background: #faf9f8;
-    font-size: 15px;
+    font-size: 1rem;
     margin-bottom: 1.5em;
+    table-layout: fixed;
     box-shadow: 0 2px 8px #e4e4e4;
     border-radius: 6px;
     overflow: hidden;
 }
-
 table th, .table th {
     background: #e0e0e0;
-    color: var(--cm-red);
+    color: #730000;
     font-weight: bold;
     border: 1px solid #d2cfcf;
-    padding: 12px 10px;
+    padding: 14px 12px;
     text-align: left;
-    font-size: 16px;
+    font-size: 1.07rem;
+    word-break: break-word;
 }
-
 table td, .table td {
     border: 1px solid #d2cfcf;
-    padding: 12px 10px;
+    padding: 14px 12px;
     color: #252525;
     background: #faf9f8;
     vertical-align: middle;
+    word-break: break-word;
+    min-width: 90px;
 }
-
-/* Zebra-Stripes */
+/* Zebra-Stripes für Zeilen */
 table tr:nth-child(even) td, .table tr:nth-child(even) td {
     background: #ededed;
 }
 table tr:nth-child(odd) td, .table tr:nth-child(odd) td {
     background: #faf9f8;
 }
-
 /* Hover-Effekt */
 table tbody tr:hover td, .table tbody tr:hover td {
     background: #ffcfcf;
     transition: background 0.2s;
 }
-
 /* Extra-Ränder für Zellen */
 table td:not(:last-child), .table td:not(:last-child),
 table th:not(:last-child), .table th:not(:last-child) {
     border-right: 1.5px solid #c9c8c8;
 }
-
-/* Runde Ecken am Außenrand */
+/* Runde Ecken am Tabellen-Außenrand */
 table, .table {
     border-radius: 8px;
 }

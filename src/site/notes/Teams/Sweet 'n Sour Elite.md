@@ -13,7 +13,7 @@ Entrance Theme: ![[Sweet 'n Sour Elite.mp3]]
 
 <div class="championship-grid">
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bam-bam-bigelow" class="champ-card">
-    <img src="/choke-slam-wrestling/img/user/z_Images/Bam Bam Bigelow.png" alt="Bam Bam Bigelow">
+    <img src="/img/user/z_Images/Bam%20Bam%20Bigelow.png" alt="Bam Bam Bigelow">
     <span>Bam Bam Bigelow</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bandido" class="champ-card">

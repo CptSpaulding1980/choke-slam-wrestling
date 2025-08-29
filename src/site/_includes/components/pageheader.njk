@@ -1,159 +1,172 @@
-{#---
-title: "Choke Slam Wrestling"
-layout: "index.njk"
----#}
-
+<!-- pageheader.njk -->
 <header class="site-banner">
   <img src="src/site/img/user/z_Images/ChokeSlamWrestling_Pausenbild.png" alt="Choke Slam Wrestling Banner" />
 </header>
 
-<header class="site-header">
-  <div class="header-container">
-    <!-- Hamburger Button -->
-    <button 
-      class="menu-toggle" 
-      aria-label="Menu" 
-      aria-expanded="false"
-      id="burger-toggle"
-      onclick="toggleMenu()"
-    >
-      ☰
-    </button>
+<button class="menu-toggle" aria-label="Menu" aria-expanded="false" id="burger-toggle" onclick="toggleMenu()">
+  ☰
+</button>
 
-    <a href="{{ '/' | url }}" class="site-title">{{ site.title }}</a>
-
-    <!-- Navigation -->
-    <nav class="site-nav" id="site-nav">
-      <ul>
-        <li><a href="{{ '/choke-slam-wrestling/' | url }}">Home</a></li>
-        <li><a href="{{ '/championships/' | url }}">Championships</a></li>
-        <li><a href="{{ '/events/' | url }}">Events</a></li>
-        <li><a href="{{ '/teams/' | url }}">Teams</a></li>
-        <li><a href="{{ '/wrestler/' | url }}">Wrestler</a></li>
-        <li><a href="{{ '/statistiken/' | url }}">Statistiken</a></li>
-      </ul>
-    </nav>
-  </div>
-</header>
-
-<link href="{{ '/styles/cagematch.css' | url }}" rel="stylesheet">
+<nav class="site-nav" id="site-nav">
+  <ul>
+    <li><a href="{{ '/choke-slam-wrestling/' | url }}">Home</a></li>
+    <li><a href="{{ '/championships/' | url }}">Championships</a></li>
+    <li><a href="{{ '/events/' | url }}">Events</a></li>
+    <li><a href="{{ '/teams/' | url }}">Teams</a></li>
+    <li><a href="{{ '/wrestler/' | url }}">Wrestler</a></li>
+    <li><a href="{{ '/statistiken/' | url }}">Statistiken</a></li>
+  </ul>
+</nav>
 
 <style>
-.site-banner {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  max-width: 100%;
-  height: 120px; /* Passe Höhe Banner an */
-  background-color: #730000;
-  z-index: 9999;
-  text-align: center;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-}
-.site-banner img {
-  height: 100%;
-  width: auto;
-  object-fit: contain;
-  display: inline-block;
-  vertical-align: middle;
-}
-
-/* Platz für das Banner schaffen */
-body {
-  padding-top: 120px;
-}
-
-.site-header {
-  background: #111;
-  color: #fff;
-  padding: 0.5rem 1rem;
-  position: relative;
-  z-index: 998;
-}
-
-.header-container {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 1rem;
-  margin-top: 120px;
-}
-
-.site-title {
-  color: #fff;
-  text-decoration: none;
-  font-size: 1.5rem;
-  flex-shrink: 0;
-}
-
-.site-nav {
-  position: fixed;
-  top: 120px;
-  left: -220px;
-  width: 200px;
-  height: calc(100vh - 120px);
-  background: #730000;
-  color: white;
-  flex-direction: column;
-  padding: 2rem 1rem;
-  gap: 1rem;
-  transition: left 0.3s ease;
-  overflow-y: auto;
-  z-index: 9998;
-}
-
-/* Menü geöffnet */
-.site-nav.open {
-  left: 0;
-}
-
-.site-nav ul {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  margin: 0;
-  padding: 0;
-}
-
-.site-nav a {
-  color: #fff;
-  text-decoration: none;
-}
-
-.menu-toggle {
-  background: none;
-  border: none;
-  font-size: 1.5rem;
-  color: #fff;
-  cursor: pointer;
-  flex-shrink: 0;
-  position: fixed;
-  top: 130px; /* knapp unter Banner */
-  left: 15px;
-  z-index: 10000;
-  border-radius: 4px;
-}
-
-/* Desktop & Mobile: Burger immer da, Menü standardmäßig zu */
-
-/* Optional: Desktop größerer Bildschirm etwas breiter */
-@media (min-width: 1200px) {
-  .site-nav {
-    width: 250px;
+  /* Basis-Styles */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
   }
-}
-
-/* Desktop Menü bleibt zu, nur per Klick sichtbar */
+  
+  body {
+    padding-top: 120px; /* Platz für das Banner */
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Banner-Stil */
+  .site-banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120px;
+    background-color: #730000;
+    z-index: 1000;
+    text-align: center;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .site-banner img {
+    height: 90%;
+    width: auto;
+    object-fit: contain;
+  }
+  
+  /* Hamburger Button */
+  .menu-toggle {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    background: rgba(0, 0, 0, 0.6);
+    border: none;
+    font-size: 1.8rem;
+    color: #fff;
+    cursor: pointer;
+    z-index: 1001;
+    border-radius: 4px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background 0.3s;
+  }
+  
+  .menu-toggle:hover {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  
+  /* Navigation */
+  .site-nav {
+    position: fixed;
+    top: 120px;
+    left: -250px;
+    width: 250px;
+    height: calc(100vh - 120px);
+    background: #730000;
+    color: white;
+    padding: 2rem 1rem;
+    transition: left 0.3s ease;
+    overflow-y: auto;
+    z-index: 999;
+    box-shadow: 3px 0 10px rgba(0,0,0,0.3);
+  }
+  
+  .site-nav.open {
+    left: 0;
+  }
+  
+  .site-nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .site-nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    display: block;
+    border-radius: 4px;
+    transition: background 0.3s;
+  }
+  
+  .site-nav a:hover {
+    background: rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .site-nav {
+      width: 220px;
+      left: -220px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    body {
+      padding-top: 100px;
+    }
+    
+    .site-banner {
+      height: 100px;
+    }
+    
+    .site-nav {
+      top: 100px;
+      height: calc(100vh - 100px);
+    }
+    
+    .menu-toggle {
+      top: 10px;
+      left: 10px;
+      width: 45px;
+      height: 45px;
+    }
+  }
 </style>
 
 <script>
-function toggleMenu() {
-  const nav = document.getElementById('site-nav');
-  const btn = document.getElementById('burger-toggle');
-  nav.classList.toggle('open');
-  const expanded = btn.getAttribute('aria-expanded') === 'true';
-  btn.setAttribute('aria-expanded', !expanded);
-}
+  function toggleMenu() {
+    const nav = document.getElementById('site-nav');
+    const btn = document.getElementById('burger-toggle');
+    nav.classList.toggle('open');
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', !expanded);
+  }
+  
+  // Menü schließen wenn außerhalb geklickt wird
+  document.addEventListener('click', function(event) {
+    const nav = document.getElementById('site-nav');
+    const btn = document.getElementById('burger-toggle');
+    
+    if (!nav.contains(event.target) && event.target !== btn) {
+      nav.classList.remove('open');
+      btn.setAttribute('aria-expanded', 'false');
+    }
+  });
 </script>

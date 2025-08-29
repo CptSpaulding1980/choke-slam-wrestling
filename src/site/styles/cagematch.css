@@ -1,8 +1,9 @@
+/* =========================
+   Farbschema und Variablen
+   ========================= */
 :root {
   --wrestling-purple: #8a2be2;
   --ring-rope: #4b0082;
-
-  /* Zusätzliche AnuPpuccin-ähnliche Farben */
   --background: #232136;
   --surface: #2a273f;
   --muted-text: #6e6a86;
@@ -10,23 +11,32 @@
   --headline: #f6c177;
   --text-color: #e0def4;
   --border-color: #393552;
+  /* Cagematch Farben */
+  --cm-red: #730000;
+  --cm-highlight: #a32e1b;
+  --cm-bg-light: #edecec;
+  --cm-bg-card: #fafafa;
 }
 
-/* Grundlevel für Cagematch.net-Optik */
+/* ================
+   Grundlayout
+   ================ */
 body {
-    background: #edecec;
+    background: var(--cm-bg-light);
     color: #222;
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 16px;
     margin: 0;
 }
 
+/* ================
+   Navigation / Header
+   ================ */
 header, nav, .navbar, .topbar {
-    background-color: #730000;
+    background-color: var(--cm-red);
     color: #fff;
     border-bottom: 3px solid #d2cfcf;
 }
-
 nav a, .navbar a {
     color: #fff;
     font-weight: bold;
@@ -34,11 +44,13 @@ nav a, .navbar a {
     padding: 10px 15px;
     display: inline-block;
 }
-
 nav a.active, .navbar a.active, nav a:hover {
-    background-color: #a32e1b;
+    background-color: var(--cm-highlight);
 }
 
+/* ================
+   Haupt-Container (z.B. Card, Dashboard)
+   ================ */
 .main-container, .content {
     background: #fff;
     box-shadow: 0 0 6px #ccc;
@@ -48,83 +60,107 @@ nav a.active, .navbar a.active, nav a:hover {
     max-width: 950px;
 }
 
+/* ================
+   Text & Titel
+   ================ */
 h1, h2, h3 {
-    color: #730000;
+    color: var(--cm-red);
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
-
 a {
-    color: #a32e1b;
+    color: var(--cm-highlight);
     text-decoration: underline;
 }
 a:hover {
-    color: #730000;
+    color: var(--cm-red);
     text-decoration: none;
 }
 
+/* ====================
+   Seitenleiste / Info
+   ==================== */
 .sidebar, .sideinfo {
     background: #f7f7f7;
     color: #222;
-    border-left: 4px solid #730000;
+    border-left: 4px solid var(--cm-red);
     padding: 1.5em 1em;
     font-size: 14px;
 }
 
+/* ====================
+   Cards / Story-Boxen
+   ==================== */
 .story-highlight, .card, .top-story {
-    background: #fafafa;
-    border-left: 6px solid #730000;
+    background: var(--cm-bg-card);
+    border-left: 6px solid var(--cm-red);
     margin-bottom: 1.5em;
     padding: 1em;
 }
 
-/* Cagematch-Style Table */
+/* ====================================
+   Verbesserte Table-Darstellung (Cagematch-Style)
+   ==================================== */
 table, .table {
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 0;
     width: 100%;
-    background: #f6f6f6;
+    background: #faf9f8;
     font-size: 15px;
     margin-bottom: 1.5em;
     box-shadow: 0 2px 8px #e4e4e4;
+    border-radius: 6px;
+    overflow: hidden;
 }
 
 table th, .table th {
     background: #e0e0e0;
-    color: #730000;
+    color: var(--cm-red);
     font-weight: bold;
     border: 1px solid #d2cfcf;
-    padding: 10px 8px;
+    padding: 12px 10px;
     text-align: left;
     font-size: 16px;
 }
 
 table td, .table td {
     border: 1px solid #d2cfcf;
-    padding: 10px 8px;
-    color: #2a2a2a;
-    background: #fbfbfb;
+    padding: 12px 10px;
+    color: #252525;
+    background: #faf9f8;
+    vertical-align: middle;
 }
 
-/* Zebra-Stripes für Zeilen */
-table tr:nth-child(even), .table tr:nth-child(even) {
+/* Zebra-Stripes */
+table tr:nth-child(even) td, .table tr:nth-child(even) td {
     background: #ededed;
 }
-table tr:nth-child(odd), .table tr:nth-child(odd) {
-    background: #fbfbfb;
+table tr:nth-child(odd) td, .table tr:nth-child(odd) td {
+    background: #faf9f8;
 }
 
-/* Optional: Hover-Effekt für Zeilen */
-table tr:hover, .table tr:hover {
-    background: #ffe6e6;
+/* Hover-Effekt */
+table tbody tr:hover td, .table tbody tr:hover td {
+    background: #ffcfcf;
+    transition: background 0.2s;
 }
 
-/* Optionale abgerundete Ecken und leichten Schatten für Sichtbarkeit */
+/* Extra-Ränder für Zellen */
+table td:not(:last-child), .table td:not(:last-child),
+table th:not(:last-child), .table th:not(:last-child) {
+    border-right: 1.5px solid #c9c8c8;
+}
+
+/* Runde Ecken am Außenrand */
 table, .table {
-    border-radius: 4px;
+    border-radius: 8px;
 }
 
+/* ====================
+   Footer / Bottom bar
+   ==================== */
 .footer, .bottom-bar {
-    background: #730000;
+    background: var(--cm-red);
     color: #fff;
     padding: 18px 0 8px 0;
     font-size: 12px;
@@ -133,36 +169,15 @@ table, .table {
     border-top: 2px solid #c9c8c8;
 }
 
-/* Für responsives Design */
-@media screen and (max-width: 950px) {
-    .main-container, .content { padding: 1em; }
-}
-
-/* Individuelle Titel-Anpassung (z.B. Dashboard Title) */
-.dashboard-title {
-  color: var(--headline);
-  font-size: 2.4rem;
-  margin-bottom: 1rem;
-}
-
-/* Bereichsüberschriften */
-.section-title {
-  color: var(--accent);
-  padding: 0.3rem 0;
-  font-size: 1.5rem;
-  border-bottom: 1px solid var(--border-color);
-  margin-top: 2rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
+/* ================
+   Champion-Grids / Teams / Cards (bleibt erhalten)
+   ================ */
 .championship-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 1.5rem;
   margin: 2rem 0;
 }
-
 .champ-card {
   display: flex;
   flex-direction: column;
@@ -174,20 +189,43 @@ table, .table {
   padding: 1rem;
   transition: transform 0.2s, box-shadow 0.2s;
 }
-
 .champ-card img {
   max-width: 150px;
   height: auto;
   margin-bottom: 0.5rem;
 }
-
 .champ-card span {
   color: #fff;
   font-weight: 600;
   font-size: 0.95rem;
 }
-
 .champ-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* ================
+   Individuelle Titel
+   ================ */
+.dashboard-title {
+  color: var(--headline);
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+.section-title {
+  color: var(--accent);
+  padding: 0.3rem 0;
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  margin-top: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ================
+   Responsives Design
+   ================ */
+@media screen and (max-width: 950px) {
+    .main-container, .content { padding: 1em; }
 }

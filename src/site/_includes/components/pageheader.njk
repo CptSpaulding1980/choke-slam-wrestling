@@ -1,3 +1,7 @@
+:root {
+  --collapsed-width: 50px; /* etwas größer als dein Burger-Icon */
+}
+
 <header class="site-banner">
   <img src="src/site/img/user/z_Images/ChokeSlamWrestling_Pausenbild.png" alt="Choke Slam Wrestling Banner" />
 </header>
@@ -49,14 +53,14 @@
 body {
   /* Dynamischer left-padding für Inhalt, um nicht vom Menü überlappt zu werden */
   padding-top: 120px;
-  padding-left: 70px;
+  padding-left: var(--collapsed-width);
   transition: padding-left 0.3s ease;
 }
 
 .site-nav {
   position: fixed;
   top: 120px;
-  left: 220px; /* versteckt */
+  left: calc(var(--collapsed-width) - 250px); /* 250px = volle Breite */
   width: 250px;
   height: calc(100vh - 120px);
   background: #730000;

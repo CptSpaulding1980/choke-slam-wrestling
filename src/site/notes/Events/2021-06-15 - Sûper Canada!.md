@@ -1,0 +1,37 @@
+---
+{"dg-publish":true,"permalink":"/events/2021-06-15-super-canada/","title":"Sûper Canada!","noteIcon":"","created":"2025-08-11T09:30:59.212+02:00"}
+---
+
+
+# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**Sûper Canada!**
+
+**Date:** 2021-06-15
+
+**Venue:** Keystone Centre - Brandon, Manitoba, Canada
+
+## Matches
+
+| Nr. | Type | Match | Finish | Time | Rating | Score |
+|-----|------|-------|--------|------|--------|-------|
+| 1 |  | [[Pre Show\|Pre Show]]: [[Wrestler/Hiromu Takahashi\|Hiromu Takahashi]] vs. [[Wrestler/KENTA\|KENTA]] | Hiromu Takahashi beat KENTA in 11 Min 33 Sec with a Triangle Scissors | 11:33 | ★★★3/4 | 81 |
+| 2 |  | [[Pre Show\|Pre Show]]: [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Jeff Cobb\|Jeff Cobb]] | Jeff Cobb beat Brutus Beefcake in 26 Min 7 Sec with a Camel Clutch | 26:07 | ★★★★★ | 100 |
+| 3 |  | [[Pre Show\|Pre Show]]: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Steve Austin\|Steve Austin]] | Kazuchika Okada beat Steve Austin in 16 Min 42 Sec with a Cobra Hold | 16:42 | ★★★★★ | 100 |
+| 4 | Submission | Submission: [[Wrestler/Awesome Kong\|Awesome Kong]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Randy Savage\|Randy Savage]] | Randy Savage won a triple threat match against Awesome Kong & Ivelisse in  56:45 | 56:45 | ★★★★★ | 101 |
+| 5 |  | [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Wrestler/Hiromu Takahashi\|Hiromu Takahashi]] & [[Wrestler/Rey Fénix\|Rey Fénix]] | Owen Hart beat Hiromu Takahashi in 30 Min 5 Sec with a Sharpshooter | 30:05 | ★★★★3/4 | 97 |
+| 6 |  | [[Wrestler/Jim Neidhart\|Jim Neidhart]] & [[Wrestler/Joey Janela\|Joey Janela]] vs. [[Wrestler/Johnny Mundo\|Johnny Mundo]] & [[Wrestler/The Blade\|The Blade]] | Johnny Mundo beat Joey Janela in 22 Min 33 Sec with a Twisting Moonsault Press | 22:33 | ★★★★1/2 | 93 |
+| 7 |  | [[Wrestler/Bob Backlund\|Bob Backlund]] & [[Wrestler/Jeff Cobb\|Jeff Cobb]] vs. [[Wrestler/The Butcher\|The Butcher]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | Kazuchika Okada beat Jeff Cobb in 38 Min 16 Sec with a Cobra Hold | 38:16 | ★★★★3/4 | 99 |
+| 8 |  | #1 Contendership: [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Randy Savage\|Randy Savage]] | Kane won a triple threat match against Hulk Hogan & Randy Savage in  24:03 | 24:03 | ★★★★3/4 | 97 |
+| 9 |  | [[Wrestler/Owen Hart\|Owen Hart]] & [[Wrestler/Hiromu Takahashi\|Hiromu Takahashi]] vs. Sweet 'n [[Sour Elite\|Sour Elite]] | Hiromu Takahashi beat The Blade in 23 Min 49 Sec with a Triangle Scissors | 23:49 | ★★★★1/4 | 91 |
+| 10 |  | [[Wrestler/Bob Backlund\|Bob Backlund]] & [[Wrestler/The Butcher\|The Butcher]] vs. [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Joey Janela\|Joey Janela]] | The Butcher beat Joey Janela in 21 Min 11 Sec with a Cloverleaf | 21:11 | ★★★★1/4 | 91 |
+| 11 |  | [[Wrestler/Jim Neidhart\|Jim Neidhart]] & [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] | Johnny Mundo beat Kazuchika Okada in 16 Min 27 Sec with a K.O | 16:27 | ★★★★ | 85 |
+| 12 | Money in the Bank | Money in the Bank: [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Awesome Kong\|Awesome Kong]] vs. [[Wrestler/Christian Cage\|Christian Cage]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] | Christian Cage won a six-pack scramble match against Kane, Awesome Kong, Tetsuya Naito, Randy Savage, &Dustin Rhodes in  15:49 | 15:49 | ★★★★3/4 | 99 |
+| 13 |  | [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Rey Fénix\|Rey Fénix]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] & [[Wrestler/Jim Neidhart\|Jim Neidhart]] | Bob Backlund beat Rey Fénix in 29 Min 54 Sec with a Diving Kneedrop | 29:54 | ★★★★3/4 | 98 |
+| 14 |  | [[Wrestler/Joey Janela\|Joey Janela]] & [[Wrestler/The Blade\|The Blade]] vs. [[Wrestler/Owen Hart\|Owen Hart]] & [[Wrestler/The Butcher\|The Butcher]] | Owen Hart beat The Blade in 18 Min 2 Sec with a Northern Light Suplex | 18:02 | ★★★★1/2 | 95 |
+| 15 |  | [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Awesome Kong\|Awesome Kong]] vs. [[Wrestler/Madison Rayne\|Madison Rayne]] vs. [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | Hulk Hogan won a six-pack scramble match against Kane, Awesome Kong, Madison Rayne, Dustin Rhodes, &Tetsuya Naito in  17:34 | 17:34 | ★★★★1/4 | 88 |
+| 16 |  | [[Wrestler/Jeff Cobb\|Jeff Cobb]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] | Johnny Mundo beat Kazuchika Okada in 8 Min 4 Sec with a RING OUT | 8:04 | ★★ | 63 |
+| 17 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (c) | Tetsuya Naito beat Kane in 16 Min 17 Sec with a Destino | 16:17 | ★★★★1/2 | 92 |
+| 18 | Tag Team | [[Championships/Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]]: [[Wrestler/Owen Hart\|Owen Hart]] & [[Wrestler/The Butcher\|The Butcher]] vs. Sweet 'n [[Sour Elite\|Sour Elite]] (c) | Christian Cage beat Owen Hart in 19 Min 56 Sec with an Unprettier | 19:56 | ★★★★ | 85 |
+
+## Links
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,0 +1,44 @@
+---
+{"dg-publish":true,"permalink":"/wrestler/christopher-daniels/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.166+02:00"}
+---
+
+
+# Christopher Daniels
+
+<table>
+<tr>
+<td><img src="Christopher Daniels.png" width="280" alt="Christopher Daniels"></td>
+<td>
+<b>Height:</b> 181cm<br>
+<b>Weight:</b> 84kg<br>
+<b>Finisher:</b> Angel Wings<br>
+</td>
+</tr>
+</table>
+
+## Karriere-Statistiken
+
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---------|-------|-------------|-------|-------|-----------|
+| 4 | 1 | 1 | 2 | 50.0% | 88.50 |
+
+**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
+
+
+## Häufigste Gegner
+- [[Wrestler/Ivelisse\|Ivelisse]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
+
+## Häufigste Partner
+Keine bekannten Partner.
+
+## Top Matches
+- 2021-07-26: Dan Koloff HC Tournament: Tetsuya Naito vs. Christopher Daniels (w/Jim Cornette) in [[Events/2021-07-26 - Andre has a posse - Part II\|2021-07-26 - Andre has a posse - Part II]] — 98%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 89%
+- 2021-06-30: Dan Koloff HC Tournament: Ivelisse vs. Christopher Daniels vs. Randy Savage in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 77%
+
+## Links
+- [[Wrestler Index\|Wrestler Index]]
+- [[Events Index\|Events Index]]

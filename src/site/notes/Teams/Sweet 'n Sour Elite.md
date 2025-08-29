@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teams/sweet-n-sour-elite/","title":"Sweet 'n Sour Elite","noteIcon":""}
+{"dg-publish":true,"permalink":"/teams/sweet-n-sour-elite/","title":"Sweet 'n Sour Elite","noteIcon":"","created":"2024-11-28T09:48:38.112+01:00"}
 ---
 
 # **Sweet 'n Sour Elite**

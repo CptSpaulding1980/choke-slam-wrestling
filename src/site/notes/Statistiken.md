@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/statistiken/","title":"Statistiken","noteIcon":""}
+{"dg-publish":true,"permalink":"/statistiken/","title":"Statistiken","noteIcon":"","created":"2025-08-28T23:11:06.242+02:00"}
 ---
 
 # 📶 **Statistiken**

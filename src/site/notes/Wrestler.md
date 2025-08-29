@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/","title":"Wrestler","noteIcon":"🤼"}
+{"dg-publish":true,"permalink":"/wrestler/","title":"Wrestler","noteIcon":"","created":"2025-08-11T09:33:21.900+02:00"}
 ---
 
-# Wrestler Index
+# **Wrestler**
 
 | Wrestler | Matches | Wins | Losses | Draws | Win % | Ø Rating |
 |----------|---------|------|--------|-------|--------|-----------|
@@ -12,7 +12,7 @@
 | [[Wrestler/Abyss\|Abyss]] | 1 | 0 | 0 | 1 | 0.0% | 95.00 |
 | [[Wrestler/Ace Steel\|Ace Steel]] | 2 | 1 | 0 | 1 | 100.0% | 97.50 |
 | [[Wrestler/Adam Cole\|Adam Cole]] | 5 | 2 | 2 | 1 | 50.0% | 81.40 |
-| [[Wrestler/Adam Copeland\|Adam Copeland]] | 3 | 1 | 0 | 2 | 100.0% | 92.33 |
+| [[Adam Copeland\|Adam Copeland]] | 3 | 1 | 0 | 2 | 100.0% | 92.33 |
 | [[Wrestler/Adam Page\|Adam Page]] | 1 | 0 | 0 | 1 | 0.0% | 93.00 |
 | [[Wrestler/Aero Star\|Aero Star]] | 1 | 0 | 1 | 0 | 0.0% | 96.00 |
 | [[Wrestler/Aerostar\|Aerostar]] | 2 | 1 | 1 | 0 | 50.0% | 100.00 |

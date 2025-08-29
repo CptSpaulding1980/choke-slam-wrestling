@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teams/","title":"Teams","noteIcon":""}
+{"dg-publish":true,"permalink":"/teams/","title":"Teams","noteIcon":"","created":"2025-08-28T20:46:19.236+02:00"}
 ---
 
 # **Teams**

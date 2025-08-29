@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/events/","title":"Events","noteIcon":""}
+{"dg-publish":true,"permalink":"/events/","title":"Events","noteIcon":"","created":"2025-08-11T10:28:22.433+02:00"}
 ---
 
-# Events Index
+# **Events**
 
 | Date | Event | Main Match | Winner | Rating |
 |------|-------|------------|--------|--------|
 | [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] | Dubai | [[Championships/Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]]: [[Wrestler/Dalton Castle\|Dalton Castle]] & Dr. Wagner Jr. vs. Saint Rebel Radicalz (c) | [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]], [[Wrestler/Big Van Vader\|Big Van Vader]] | – |
-| [[Events/2020-06-08 - Dubai - After Show Cash In\|2020-06-08 - Dubai - After Show Cash In]] | Dubai - After Show Cash In | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Jerry Lawler\|Jerry Lawler]] (c) | [[Wrestler/Randy Orton\|Randy Orton]] | – |
-| [[Events/2020-06-08 - Dubai - After Show Cash In 2\|2020-06-08 - Dubai - After Show Cash In 2]] | Dubai - After Show Cash In 2 | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Jerry Lawler\|Jerry Lawler]] (c) | [[Wrestler/Randy Orton\|Randy Orton]] | – |
+| [[2020-06-08 - Dubai - After Show Cash In\|2020-06-08 - Dubai - After Show Cash In]] | Dubai - After Show Cash In | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Jerry Lawler\|Jerry Lawler]] (c) | [[Wrestler/Randy Orton\|Randy Orton]] | – |
+| [[2020-06-08 - Dubai - After Show Cash In 2\|2020-06-08 - Dubai - After Show Cash In 2]] | Dubai - After Show Cash In 2 | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Jerry Lawler\|Jerry Lawler]] (c) | [[Wrestler/Randy Orton\|Randy Orton]] | – |
 | [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] | Shortcut to Mania | Kings Court vs. Mummenschanz | [[Wrestler/King Corbin\|King Corbin]], [[Wrestler/Booker T\|Booker T]], [[Wrestler/Jerry Lawler\|Jerry Lawler]], [[Wrestler/Sheamus\|Sheamus]] | – |
 | [[Events/2020-09-07 - ChokeSlamMania II\|2020-09-07 - ChokeSlamMania II]] | ChokeSlamMania II | [[World Heavyweight Championship\|World Heavyweight Championship]] - Saint Rebel Radicalz collide | [[Wrestler/Randy Orton\|Randy Orton]] | – |
 | [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] | Choke Slam Carat Gold | Carat Gold Finals: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | – |

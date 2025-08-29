@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/events/2021-02-25-swiss-bliss/","title":"Swiss Bliss","noteIcon":"","created":"2025-08-11T09:30:58.835+02:00"}
+---
+
+
+# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**Swiss Bliss**
+
+**Date:** 2021-02-25
+
+**Venue:** Zürcher Hallenstadion - Zürich, Switzerland
+
+## Matches
+
+| Nr. | Type | Match | Finish | Time | Rating | Score |
+|-----|------|-------|--------|------|--------|-------|
+| 1 |  | [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Cheeseburger\|Cheeseburger]] & [[Wrestler/Al Snow\|Al Snow]] | Killshot   beat Cheeseburger in 9 Min 38 Sec with a Swerve Stomp | 9:38 | ★★★ | 68 |
+| 2 |  | Sweet 'n [[Sour Elite\|Sour Elite]] vs. [[Wrestler/Cheeseburger\|Cheeseburger]] & [[Wrestler/Al Snow\|Al Snow]] | Shelton Benjamin beat Al Snow in 14 Min 33 Sec with a Paydirt | 14:33 | ★★★★1/2 | 92 |
+| 3 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Cheeseburger\|Cheeseburger]] & [[Wrestler/Al Snow\|Al Snow]] | Rey Fénix beat Al Snow in 34 Min 52 Sec with a Firebird Splash | 34:52 | ★★★★★ | 100 |
+| 4 |  | [[Wrestler/Cesaro\|Cesaro]]  vs. [[Wrestler/Jushin Liger\|Jushin Liger]] | Cesaro  beat Jushin Liger in 11 Min 12 Sec with a Nagata Lock II | 11:12 | ★★★★ | 85 |
+| 5 |  | [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] | Kane beat Kenny Omega in 13 Min 12 Sec with a Jumping Tombstone | 13:12 | ★★★★3/4 | 96 |
+| 6 |  | [[Wrestler/Austin Aries\|Austin Aries]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | Austin Aries battled Tetsuya Naito to a  double countout | 5:16 | ★1/2 | 56 |
+| 7 |  | [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Gail Kim\|Gail Kim]] | Bob Backlund beat Gail Kim in 9 Min 7 Sec with a Japanese Leg Roll Clutch | 9:07 | ★★★ | 70 |
+| 8 |  | [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | Kazuchika Okada beat KENTA in 14 Min 6 Sec with a Rainmaker | 14:06 | ★★★★1/2 | 95 |
+
+## Links
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

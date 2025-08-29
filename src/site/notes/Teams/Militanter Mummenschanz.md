@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teams/militanter-mummenschanz/","title":"Militanter Mummenschanz","noteIcon":""}
+{"dg-publish":true,"permalink":"/teams/militanter-mummenschanz/","title":"Militanter Mummenschanz","noteIcon":"","created":"2024-11-28T09:48:36.175+01:00"}
 ---
 
 # **Militanter Mummenschanz**

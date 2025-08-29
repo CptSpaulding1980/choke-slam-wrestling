@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/statistiken/globale-statistiken/","tags":["statistik","global"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/statistiken/globale-statistiken/","tags":["statistik","global"],"noteIcon":"","created":"2025-08-26T10:06:59.039+02:00"}
 ---
 
 # **Globale Statistiken**

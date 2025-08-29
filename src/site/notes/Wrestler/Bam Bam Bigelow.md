@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/bam-bam-bigelow/","tags":["wrestler"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/wrestler/bam-bam-bigelow/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.677+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td><img src="/choke-slam-wrestling/img/user/z_Images/Bam Bam Bigelow.png" width="280" alt="Bam Bam Bigelow"></td>
+<td><img src="Bam Bam Bigelow.png" width="280" alt="Bam Bam Bigelow"></td>
 <td>
 <b>Height:</b> 193cm<br>
 <b>Weight:</b> 177kg<br>
@@ -52,5 +52,5 @@
 - 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 100%
 
 ## Links
-- [[Statistiken/Wrestler Index\|Wrestler Index]]
+- [[Wrestler Index\|Wrestler Index]]
 - [[Events Index\|Events Index]]

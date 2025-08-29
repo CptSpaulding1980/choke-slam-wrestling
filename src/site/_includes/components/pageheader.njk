@@ -1,271 +1,107 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Choke Slam Wrestling</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        
-        body {
-            background: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
-            color: #333;
-            padding-top: 120px;
-            min-height: 100vh;
-        }
-        
-        /* Banner-Stil */
-        .site-banner {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 120px;
-            background: linear-gradient(to right, #8b0000, #630000);
-            z-index: 1000;
-            text-align: center;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            border-bottom: 4px solid #ffd700;
-        }
-        
-        .site-banner img {
-            height: 80%;
-            width: auto;
-            object-fit: contain;
-            max-width: 80%;
-        }
-        
-        /* Hamburger Button */
-        .menu-toggle {
-            position: fixed;
-            top: 20px;
-            left: 20px;
-            background: rgba(0, 0, 0, 0.7);
-            border: 2px solid #ffd700;
-            font-size: 1.5rem;
-            color: #fff;
-            cursor: pointer;
-            z-index: 1001;
-            border-radius: 6px;
-            width: 45px;
-            height: 45px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            transition: all 0.3s ease;
-        }
-        
-        .menu-toggle:hover {
-            background: rgba(0, 0, 0, 0.9);
-            transform: scale(1.05);
-        }
-        
-        /* Navigation */
-        .site-nav {
-            position: fixed;
-            top: 120px;
-            left: -250px;
-            width: 250px;
-            height: calc(100vh - 120px);
-            background: linear-gradient(to bottom, #8b0000, #630000);
-            padding: 2rem 1rem;
-            transition: left 0.3s ease;
-            overflow-y: auto;
-            z-index: 999;
-            box-shadow: 4px 0 15px rgba(0,0,0,0.3);
-        }
-        
-        .site-nav.open {
-            left: 0;
-        }
-        
-        .site-nav ul {
-            list-style: none;
-            display: flex;
-            flex-direction: column;
-            gap: 0.8rem;
-        }
-        
-        .site-nav a {
-            color: #fff;
-            text-decoration: none;
-            font-size: 1.1rem;
-            padding: 0.8rem 1rem;
-            display: block;
-            border-radius: 6px;
-            transition: all 0.3s ease;
-            border-left: 4px solid transparent;
-        }
-        
-        .site-nav a:hover {
-            background: rgba(0, 0, 0, 0.2);
-            border-left: 4px solid #ffd700;
-            transform: translateX(5px);
-        }
-        
-        /* Hauptinhalt */
-        .content {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-            background: white;
-            border-radius: 12px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-        }
-        
-        h1 {
-            color: #8b0000;
-            margin-bottom: 1.5rem;
-            text-align: center;
-            font-size: 2.2rem;
-            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
-        }
-        
-        /* Tabellen-Stile */
-        .table-container {
-            overflow-x: auto;
-            margin: 2rem 0;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        }
-        
-        .wrestling-table {
-            width: 100%;
-            border-collapse: collapse;
-            background: white;
-        }
-        
-        .wrestling-table th {
-            background: linear-gradient(to bottom, #8b0000, #630000);
-            color: white;
-            padding: 1rem;
-            text-align: left;
-            font-weight: 600;
-            border-right: 1px solid rgba(255,255,255,0.2);
-        }
-        
-        .wrestling-table th:last-child {
-            border-right: none;
-        }
-        
-        .wrestling-table td {
-            padding: 1rem;
-            border-bottom: 1px solid #e0e0e0;
-        }
-        
-        /* Zebra-Striping */
-        .wrestling-table tr:nth-child(even) {
-            background-color: #f8f8f8;
-        }
-        
-        .wrestling-table tr:nth-child(odd) {
-            background-color: #ffffff;
-        }
-        
-        /* Hover-Effekt */
-        .wrestling-table tr:hover {
-            background-color: #ffe0e0;
-            cursor: pointer;
-            transition: background-color 0.2s ease;
-        }
-        
-        /* Ausgewählte Zeile */
-        .wrestling-table tr.selected {
-            background-color: #ffcccc;
-            box-shadow: inset 0 0 0 2px #8b0000;
-        }
-        
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .content {
-                padding: 1.5rem;
-                margin: 0 1rem;
-            }
-            
-            .site-nav {
-                width: 220px;
-                left: -220px;
-            }
-            
-            h1 {
-                font-size: 1.8rem;
-            }
-            
-            .wrestling-table th,
-            .wrestling-table td {
-                padding: 0.7rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <!-- Banner -->
-    <header class="site-banner">
-        <img src="https://placehold.co/800x200/8b0000/white?text=Choke+Slam+Wrestling" alt="Choke Slam Wrestling Banner">
-    </header>
+{#---
+title: "Choke Slam Wrestling"
+layout: "index.njk"
+---#}
 
-    <!-- Hamburger Button -->
-    <button class="menu-toggle" aria-label="Menu" aria-expanded="false" id="burger-toggle" onclick="toggleMenu()">
-        ☰
-    </button>
+<header class="site-banner">
+  <img src="src/site/img/user/z_Images/ChokeSlamWrestling_Pausenbild.png" alt="Choke Slam Wrestling Banner" />
+</header>
 
-    <!-- Navigation -->
-    <nav class="site-nav" id="site-nav">
-        <ul>
-        <li><a href="{{ '/choke-slam-wrestling/' | url }}">Home</a></li>
-        <li><a href="{{ '/championships/' | url }}">Championships</a></li>
-        <li><a href="{{ '/events/' | url }}">Events</a></li>
-        <li><a href="{{ '/teams/' | url }}">Teams</a></li>
-        <li><a href="{{ '/wrestler/' | url }}">Wrestler</a></li>
-        <li><a href="{{ '/statistiken/' | url }}">Statistiken</a></li>
-        </ul>
-    </nav>
+<!-- Der zweite Header wurde entfernt -->
 
-    <script>
-        function toggleMenu() {
-            const nav = document.getElementById('site-nav');
-            const btn = document.getElementById('burger-toggle');
-            nav.classList.toggle('open');
-            const expanded = btn.getAttribute('aria-expanded') === 'true';
-            btn.setAttribute('aria-expanded', !expanded);
-        }
-        
-        // Menü schließen wenn außerhalb geklickt wird
-        document.addEventListener('click', function(event) {
-            const nav = document.getElementById('site-nav');
-            const btn = document.getElementById('burger-toggle');
-            
-            if (!nav.contains(event.target) && event.target !== btn) {
-                nav.classList.remove('open');
-                btn.setAttribute('aria-expanded', 'false');
-            }
-        });
-        
-        // Tabellen-Zeilen Interaktivität
-        document.addEventListener('DOMContentLoaded', function() {
-            const tableRows = document.querySelectorAll('.wrestling-table tbody tr');
-            
-            tableRows.forEach(row => {
-                row.addEventListener('click', function() {
-                    // Entferne Auswahl von anderen Zeilen
-                    tableRows.forEach(r => r.classList.remove('selected'));
-                    
-                    // Markiere ausgewählte Zeile
-                    this.classList.add('selected');
-                    
-                    // Hier können Sie weitere Aktionen bei Klick hinzufügen
-                    console.log('Ausgewählt: ', this.cells[0].textContent);
-                });
-            });
-        });
-    </script>
-</body>
-</html>
+<link href="{{ '/styles/cagematch.css' | url }}" rel="stylesheet">
+
+<style>
+.site-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  max-width: 100%;
+  height: 120px; /* Passe Höhe Banner an */
+  background-color: #730000;
+  z-index: 9999;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+.site-banner img {
+  height: 100%;
+  width: auto;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Platz für das Banner schaffen */
+body {
+  padding-top: 120px;
+}
+
+.site-nav {
+  position: fixed;
+  top: 120px; /* direkt unter dem Banner */
+  left: -220px;
+  width: 200px;
+  height: calc(100vh - 120px);
+  background: #730000;
+  color: white;
+  flex-direction: column;
+  padding: 2rem 1rem;
+  gap: 1rem;
+  transition: left 0.3s ease;
+  overflow-y: auto;
+  z-index: 9998;
+}
+
+/* Menü geöffnet */
+.site-nav.open {
+  left: 0;
+}
+
+.site-nav ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+.site-nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.menu-toggle {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: #fff;
+  cursor: pointer;
+  flex-shrink: 0;
+  position: fixed;
+  top: 130px; /* knapp unter Banner */
+  left: 15px;
+  z-index: 10000;
+  border-radius: 4px;
+}
+
+/* Desktop & Mobile: Burger immer da, Menü standardmäßig zu */
+
+/* Optional: Desktop größerer Bildschirm etwas breiter */
+@media (min-width: 1200px) {
+  .site-nav {
+    width: 250px;
+  }
+}
+</style>
+
+<script>
+function toggleMenu() {
+  const nav = document.getElementById('site-nav');
+  const btn = document.getElementById('burger-toggle');
+  nav.classList.toggle('open');
+  const expanded = btn.getAttribute('aria-expanded') === 'true';
+  btn.setAttribute('aria-expanded', !expanded);
+}
+</script>

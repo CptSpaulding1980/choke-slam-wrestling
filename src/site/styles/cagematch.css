@@ -1,0 +1,167 @@
+:root {
+  --wrestling-purple: #8a2be2;
+  --ring-rope: #4b0082;
+
+  /* Zusätzliche AnuPpuccin-ähnliche Farben */
+  --background: #232136;
+  --surface: #2a273f;
+  --muted-text: #6e6a86;
+  --accent: #a779e9;
+  --headline: #f6c177;
+  --text-color: #e0def4;
+  --border-color: #393552;
+}
+
+/* Grundlevel für Cagematch.net-Optik */
+body {
+    background: #edecec;
+    color: #222;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+header, nav, .navbar, .topbar {
+    background-color: #730000;
+    color: #fff;
+    border-bottom: 3px solid #d2cfcf;
+}
+
+nav a, .navbar a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+}
+
+nav a.active, .navbar a.active, nav a:hover {
+    background-color: #a32e1b;
+}
+
+.main-container, .content {
+    background: #fff;
+    box-shadow: 0 0 6px #ccc;
+    border-radius: 4px;
+    padding: 2em;
+    margin: 2em auto;
+    max-width: 950px;
+}
+
+h1, h2, h3 {
+    color: #730000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+a {
+    color: #a32e1b;
+    text-decoration: underline;
+}
+a:hover {
+    color: #730000;
+    text-decoration: none;
+}
+
+.sidebar, .sideinfo {
+    background: #f7f7f7;
+    color: #222;
+    border-left: 4px solid #730000;
+    padding: 1.5em 1em;
+    font-size: 14px;
+}
+
+.story-highlight, .card, .top-story {
+    background: #fafafa;
+    border-left: 6px solid #730000;
+    margin-bottom: 1.5em;
+    padding: 1em;
+}
+
+.table {
+    background: #ededed;
+    border: 1px solid #d2cfcf;
+    font-size: 14px;
+    color: #222;
+    border-radius: 3px;
+    margin-bottom: 1em;
+}
+.table th {
+    background: #e0e0e0;
+    color: #730000;
+    font-weight: bold;
+    padding: 8px;
+}
+.table td {
+    padding: 8px;
+    border-top: 1px solid #c9c8c8;
+}
+
+.footer, .bottom-bar {
+    background: #730000;
+    color: #fff;
+    padding: 18px 0 8px 0;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 3em;
+    border-top: 2px solid #c9c8c8;
+}
+
+/* Für responsives Design */
+@media screen and (max-width: 950px) {
+    .main-container, .content { padding: 1em; }
+}
+
+/* Individuelle Titel-Anpassung (z.B. Dashboard Title) */
+.dashboard-title {
+  color: var(--headline);
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+/* Bereichsüberschriften */
+.section-title {
+  color: var(--accent);
+  padding: 0.3rem 0;
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  margin-top: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.championship-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.champ-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 1rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.champ-card img {
+  max-width: 150px;
+  height: auto;
+  margin-bottom: 0.5rem;
+}
+
+.champ-card span {
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.champ-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}

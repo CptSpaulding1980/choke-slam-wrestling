@@ -56,21 +56,18 @@ body {
 .site-nav {
   position: fixed;
   top: 120px;
-  left: -40px;
-  width: 250px;
+  left: 0;                /* immer am linken Rand */
+  width: 40px;            /* Breite = Balkenbreite, z.B. wie Burger-Icon */
   height: calc(100vh - 120px);
   background: #730000;
-  color: white;
-  flex-direction: column;
-  padding: 2rem 1rem;
-  gap: 1rem;
-  transition: left 0.3s ease;
-  overflow-y: auto;
+  transition: width 0.3s ease;
+  overflow: hidden;       /* Inhalt verdecken, nur Balken sichtbar */
   z-index: 9998;
 }
 
 .site-nav.open {
-  left: 0;
+  width: 250px;           /* aufklappen */
+  overflow-y: auto;       /* Inhalt sichtbar */
 }
 
 .site-nav ul {

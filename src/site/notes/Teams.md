@@ -19,4 +19,3 @@ Dies ist die Übersicht aller teilnehmenden Teams:
     <span>Sweet 'n Sour Elite</span>
   </a>
 </div>
----

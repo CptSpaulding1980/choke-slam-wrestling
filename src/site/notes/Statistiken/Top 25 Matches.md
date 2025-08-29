@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/statistiken/top-25-matches/","tags":["statistik","matches"],"noteIcon":"","created":"2025-08-11T10:28:22.354+02:00"}
+{"dg-publish":true,"permalink":"/statistiken/top-25-matches/","title":"Top 25 Matches","tags":["statistik","matches"],"noteIcon":"","created":"2025-08-11T10:28:22.354+02:00"}
 ---
 
 
-# Top 25 Matches
+# 📈 **Top 25 Matches**
 
 | # | Date | Match | Participants | Event | ★ Rating | Score |
 |---|------|-------|--------------|--------|----------|-------|

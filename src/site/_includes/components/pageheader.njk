@@ -1,14 +1,28 @@
+---
+# Deine Frontmatter, falls gebraucht
+---
+
+<header class="site-banner">
+  <img src="/path/to/your/banner-image.jpg" alt="Choke Slam Wrestling Banner" />
+</header>
+
 <header class="site-header">
   <div class="header-container">
     <!-- Hamburger Button -->
-    <button class="menu-toggle" aria-label="Menu" onclick="document.querySelector('.site-nav').classList.toggle('open')">
+    <button 
+      class="menu-toggle" 
+      aria-label="Menu" 
+      aria-expanded="false"
+      id="burger-toggle"
+      onclick="toggleMenu()"
+    >
       ☰
     </button>
 
     <a href="{{ '/' | url }}" class="site-title">{{ site.title }}</a>
 
     <!-- Navigation -->
-    <nav class="site-nav">
+    <nav class="site-nav" id="site-nav">
       <ul>
         <li><a href="{{ '/choke-slam-wrestling/' | url }}">Home</a></li>
         <li><a href="{{ '/championships/' | url }}">Championships</a></li>
@@ -24,12 +38,38 @@
 <link href="{{ '/styles/cagematch.css' | url }}" rel="stylesheet">
 
 <style>
+.site-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  max-width: 100%;
+  height: 120px; /* Passe Höhe Banner an */
+  background-color: #730000;
+  z-index: 9999;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+.site-banner img {
+  height: 100%;
+  width: auto;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Platz für das Banner schaffen */
+body {
+  padding-top: 120px;
+}
+
 .site-header {
   background: #111;
   color: #fff;
   padding: 0.5rem 1rem;
   position: relative;
-  z-index: 999;
+  z-index: 998; /* unter banner */
+  top: 120px; /* unter Banner positionieren */
 }
 
 .header-container {
@@ -46,10 +86,32 @@
   flex-shrink: 0;
 }
 
+.site-nav {
+  position: fixed;
+  top: 120px;
+  left: -220px;
+  width: 200px;
+  height: calc(100vh - 120px);
+  background: #730000;
+  color: white;
+  flex-direction: column;
+  padding: 2rem 1rem;
+  gap: 1rem;
+  transition: left 0.3s ease;
+  overflow-y: auto;
+  z-index: 9998;
+}
+
+/* Menü geöffnet */
+.site-nav.open {
+  left: 0;
+}
+
 .site-nav ul {
   list-style: none;
   display: flex;
-  gap: 1rem;
+  flex-direction: column;
+  gap: 0.5rem;
   margin: 0;
   padding: 0;
 }
@@ -66,74 +128,31 @@
   color: #fff;
   cursor: pointer;
   flex-shrink: 0;
+  position: fixed;
+  top: 130px; /* knapp unter Banner */
+  left: 15px;
+  z-index: 10000;
+  border-radius: 4px;
 }
 
-/* Submenu */
-.has-submenu .submenu {
-  display: none;
-  flex-direction: column;
-  position: absolute;
-  background: #222;
-  top: 100%;
-  left: 0;
-  padding: 0.5rem 0;
-}
+/* Desktop & Mobile: Burger immer da, Menü standardmäßig zu */
 
-.has-submenu .submenu li {
-  padding: 0.25rem 1rem;
-}
-
-.has-submenu .submenu li a {
-  color: #fff;
-}
-
-.has-submenu .submenu-toggle {
-  background: none;
-  border: none;
-  color: #fff;
-  cursor: pointer;
-}
-
-/* Mobile & Desktop: Hamburger */
-@media (max-width: 1024px) {
+/* Optional: Desktop größerer Bildschirm etwas breiter */
+@media (min-width: 1200px) {
   .site-nav {
-    position: fixed;
-    top: 0;
-    left: -220px;
-    width: 200px;
-    height: 100%;
-    background: #111;
-    flex-direction: column;
-    padding: 2rem 1rem;
-    gap: 1rem;
-    transition: left 0.3s ease;
-  }
-  .site-nav.open {
-    left: 0;
-  }
-  .site-nav ul {
-    flex-direction: column;
-    gap: 0.5rem;
+    width: 250px;
   }
 }
 
-/* Desktop: submenu hover fallback */
-@media (min-width: 1025px) {
-  .has-submenu:hover .submenu {
-    display: flex;
-  }
-}
+/* Desktop Menü bleibt zu, nur per Klick sichtbar */
 </style>
 
 <script>
-document.querySelectorAll(".submenu-toggle").forEach(btn => {
-  btn.addEventListener("click", () => {
-    const expanded = btn.getAttribute("aria-expanded") === "true";
-    btn.setAttribute("aria-expanded", !expanded);
-    const submenu = btn.nextElementSibling;
-    if (submenu) {
-      submenu.style.display = expanded ? "none" : "flex";
-    }
-  });
-});
+function toggleMenu() {
+  const nav = document.getElementById('site-nav');
+  const btn = document.getElementById('burger-toggle');
+  nav.classList.toggle('open');
+  const expanded = btn.getAttribute('aria-expanded') === 'true';
+  btn.setAttribute('aria-expanded', !expanded);
+}
 </script>

@@ -53,48 +53,47 @@ body {
   transition: padding-left 0.3s ease;
 }
 
+/* Navigation */
 .site-nav {
   position: fixed;
   top: 120px;
-  left: 0;                /* immer am linken Rand */
-  width: 40px;            /* Breite = Balkenbreite, z.B. wie Burger-Icon */
+  left: 0;
+  width: 250px;
   height: calc(100vh - 120px);
   background: #730000;
   transition: width 0.3s ease;
-  overflow: hidden;       /* Inhalt verdecken, nur Balken sichtbar */
+  overflow: hidden;
   z-index: 9998;
 }
 
-.site-nav.open {
-  width: 250px;           /* aufklappen */
-  overflow-y: auto;       /* Inhalt sichtbar */
+/* zugeklappt */
+.site-nav:not(.open) {
+  width: 40px; /* nur schmaler Balken */
 }
 
+/* aufgeklappt */
+.site-nav.open {
+  width: 250px;
+  overflow-y: auto;
+}
+
+/* Menüpunkte */
 .site-nav ul {
   list-style: none;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
   margin: 0;
-  padding: 80px 0 0 0;
+  padding: 80px 0 0 0; /* Abstand nach oben für Burger */
 }
 
-.site-nav a {
-  color: #fff;
-  text-decoration: none;
-}
-
+/* Burger Button */
 .menu-toggle {
-  background: none;
-  border: none;
-  font-size: 1.5rem;
-  color: #fff;
-  cursor: pointer;
   position: fixed;
   top: 130px;
   left: 15px;
   z-index: 10000;
-  border-radius: 4px;
+  cursor: pointer;
 }
 
 /* Desktop: Inhalte neben Navigation ausrichten */

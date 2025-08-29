@@ -11,10 +11,20 @@ Entrance Theme: ![[Sweet 'n Sour Elite.mp3]]
 
 { .block-language-dataview}
 
-| Team | List |
-| ---- | ---- |
-
-{ .block-language-dataview}
+<div class="championship-grid">
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bam-bam-bigelow" class="champ-card">
+    <img src="Bam Bam Bigelow.png" alt="Bam Bam Bigelow">
+    <span>Bam Bam Bigelow</span>
+  </a>
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bandido" class="champ-card">
+    <img src="Bandido.png" alt="Bandido">
+    <span>Bandido</span>
+  </a>
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/charlotte-flair" class="champ-card">
+    <img src="Charlotte Flair.png" alt="Charlotte Flair">
+    <span>Charlotte Flair</span>
+  </a>
+</div>
 
 | Current Champions | Title |
 | ----------------- | ----- |

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/statistiken/worst-25-matches/","tags":["statistik","matches"],"noteIcon":"","created":"2025-08-11T10:28:22.374+02:00"}
+{"dg-publish":true,"permalink":"/statistiken/worst-25-matches/","title":"Worst 25 Matches","tags":["statistik","matches"],"noteIcon":"","created":"2025-08-11T10:28:22.374+02:00"}
 ---
 
 
-# Worst 25 Matches
+# 📉 **Worst 25 Matches**
 
 | # | Date | Match | Participants | Event | ★ Rating | Score |
 |---|------|-------|--------------|--------|----------|-------|

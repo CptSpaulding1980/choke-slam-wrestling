@@ -49,14 +49,14 @@
 body {
   /* Dynamischer left-padding für Inhalt, um nicht vom Menü überlappt zu werden */
   padding-top: 120px;
-  padding-left: var(--collapsed-width);
+  padding-left: 50px;
   transition: padding-left 0.3s ease;
 }
 
 .site-nav {
   position: fixed;
   top: 120px;
-  left: calc(var(--collapsed-width) - 250px); /* 250px = volle Breite */
+  left: -200px;
   width: 250px;
   height: calc(100vh - 120px);
   background: #730000;

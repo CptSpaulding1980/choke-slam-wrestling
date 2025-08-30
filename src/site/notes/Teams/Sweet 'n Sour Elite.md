@@ -17,11 +17,11 @@ Entrance Theme: ![[Sweet 'n Sour Elite.mp3]]
     <span>Bam Bam Bigelow</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bandido" class="champ-card">
-    <img src="/choke-slam-wrestling/img/user/z_Images/Bandido.png" alt="Bandido">
+    <img src="/img/user/z_Images/Bandido.png" alt="Bandido">
     <span>Bandido</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/charlotte-flair" class="champ-card">
-    <img src="/choke-slam-wrestling/img/user/z_Images/Charlotte Flair.png" alt="Charlotte Flair">
+    <img src="/img/user/z_Images/Charlotte Flair.png" alt="Charlotte Flair">
     <span>Charlotte Flair</span>
   </a>
 </div>

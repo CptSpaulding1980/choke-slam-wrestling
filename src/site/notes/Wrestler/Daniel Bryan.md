@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td><img src="Daniel Bryan.png" width="280" alt="Daniel Bryan"></td>
+<td><img src="Daniel_Bryan.png" width="280" alt="Daniel Bryan"></td>
 <td>
 <b>Height:</b> N/A<br>
 <b>Weight:</b> N/A<br>

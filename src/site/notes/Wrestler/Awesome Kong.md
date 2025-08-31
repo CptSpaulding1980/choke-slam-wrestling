@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td><img src="/z_Images/Awesome_Kong.png" width="280" alt="Awesome Kong"></td>
+<td><img src="/img/user/z_Images/z_Images/Awesome_Kong.png" width="280" alt="Awesome Kong"></td>
 <td>
 <b>Height:</b> N/A<br>
 <b>Weight:</b> N/A<br>

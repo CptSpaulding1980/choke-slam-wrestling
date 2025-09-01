@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td><img src="/img/user/z_Images/AJ_Styles.png" width="280" alt="AJ Styles"></td>
+<td><img src="/z_Images/AJ_Styles.png" width="280" alt="AJ Styles"></td>
 <td>
 <b>Height:</b> 181cm<br>
 <b>Weight:</b> 99kg<br>

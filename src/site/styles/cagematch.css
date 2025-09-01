@@ -221,6 +221,68 @@ table, .table {
   letter-spacing: 0.05em;
 }
 
+/* =========================
+   Vertikale Sidebar / Burger
+   ========================= */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 60px;                 /* schmal im zugeklappten Zustand */
+  height: 100vh;               /* volle Höhe */
+  background-color: var(--cm-red);
+  transition: width 0.3s ease;
+  overflow: hidden;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Burger Button */
+.sidebar .burger {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: white;
+  margin: 1rem 0;
+  cursor: pointer;
+}
+
+/* Menü-Links in der Sidebar */
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.sidebar ul li {
+  width: 100%;
+}
+
+.sidebar ul li a {
+  display: block;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.sidebar ul li a:hover {
+  background-color: var(--cm-highlight);
+}
+
+/* Geöffnete Sidebar */
+.sidebar.open {
+  width: 200px;                 /* ausgeklappt */
+  align-items: flex-start;
+}
+
+.sidebar.open .burger {
+  margin-left: 10px;
+}
+
 /* ================
    Responsives Design
    ================ */

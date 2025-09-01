@@ -7,14 +7,19 @@
 
 Entrance Theme: ![[Sweet 'n Sour Elite.mp3]]
 
-| Manager                                                   |
-| --------------------------------------------------------- |
-| <div class="championship-grid">
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente" class="champ-card">
+<table>
+<caption>Manager</caption>
+<tr>
+  <td>
+    <div class="championship-grid">
+    <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente" class="champ-card">
     <img src="/img/user/z_Images/Hendrique_Delafuente.png" alt="Hendrique Delafuente">
     <span>Hendrique Delafuente</span>
-  </a>
-</div> |
+    </a>
+    </div>
+  </td>
+</tr>
+</table>
 
 { .block-language-dataview}
 <div class="championship-grid">

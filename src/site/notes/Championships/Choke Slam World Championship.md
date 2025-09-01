@@ -3,7 +3,7 @@
 ---
 
 ### Choke Slam World Championship
-![ChokeSlam_World_Championship.png](/img/user/img/user/z_Images/ChokeSlam_World_Championship.png)
+![/img/user/z_Images/ChokeSlam_World_Championship.png](/img/user/img/user/z_Images/ChokeSlam_World_Championship.png)
 <h3><span>Current Champion</span></h3><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Name</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Last Championship Match</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-href="Roman Reigns" href="Roman Reigns" class="internal-link" target="_blank" rel="noopener nofollow">Roman Reigns</a></span></td><td>08/21/2025</td><td><span><a data-href="2025-08-21 - S07E03_Changes III" href="2025-08-21 - S07E03_Changes III" class="internal-link" target="_blank" rel="noopener nofollow">2025-08-21 - S07E03_Changes III</a><br>
 Choke Slam World Championship: Steve Austin vs. Roman Reigns (c)</span></td></tr></tbody></table></div>
 

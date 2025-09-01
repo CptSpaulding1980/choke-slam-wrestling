@@ -3,13 +3,12 @@
 ---
 
 # **Sweet 'n Sour Elite**
-![Choke Slam_SnS.png|250](/img/user/z_Images/Choke%20Slam_SnS.png)
+![ChokeSlam_SnS.png|250](/img/user/img/user/z_Images/ChokeSlam_SnS.png)
 
 ### Entrance Theme:
-![[Sweet 'n Sour Elite.mp3]]
+![[Sweet 'n Sour Elite.mp3\|Sweet 'n Sour Elite.mp3]]
 
 ## **Manager**
-
 <div class="championship-grid">
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente" class="champ-card">
   <img src="/img/user/z_Images/Hendrique_Delafuente.png" alt="Hendrique Delafuente">
@@ -18,7 +17,6 @@
 </div>
 
 ## **Team**
-{ .block-language-dataview}
 <div class="championship-grid">
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bam-bam-bigelow" class="champ-card">
     <img src="/img/user/z_Images/Bam_Bam_Bigelow.png" alt="Bam Bam Bigelow">
@@ -28,9 +26,9 @@
     <img src="/img/user/z_Images/Bandido.png" alt="Bandido">
     <span>Bandido</span>
   </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/charlotte-flair" class="champ-card">
-    <img src="/img/user/z_Images/Charlotte_Flair.png" alt="Charlotte Flair">
-    <span>Charlotte Flair</span>
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/sasha-banks" class="champ-card">
+    <img src="/img/user/z_Images/Sasha_Banks.png" alt="Sasha Banks">
+    <span>Sasha Banks</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/steve-austin" class="champ-card">
     <img src="/img/user/z_Images/Steve_Austin.png" alt="Steve Austin">
@@ -41,6 +39,9 @@
     <span>To be announced</span>
   </a>
 </div>
+
+| Current Champions | Title |
+| ----------------- | ----- |
 
 | Current Champions | Title |
 | ----------------- | ----- |

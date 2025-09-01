@@ -35,7 +35,7 @@ Entrance Theme: ![[Sweet 'n Sour Elite.mp3]]
     <span>Steve Austin</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/" class="champ-card">
-    <img src="/img/user/z_Images/mystery.png" alt="Mystery">
+    <img src="/img/user/z_Images/Mystery.png" alt="Mystery">
     <span>To be announced</span>
   </a>
 </div>

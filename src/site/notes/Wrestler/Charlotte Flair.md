@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td><img src="Charlotte Flair.png" width="280" alt="Charlotte Flair"></td>
+<td><img src="Charlotte_Flair.png" width="280" alt="Charlotte Flair"></td>
 <td>
 <b>Height:</b> 179cm<br>
 <b>Weight:</b> 65kg<br>

@@ -5,22 +5,19 @@
 # **Sweet 'n Sour Elite**
 ![Choke Slam_SnS.png|250](/img/user/z_Images/Choke%20Slam_SnS.png)
 
-Entrance Theme: ![[Sweet 'n Sour Elite.mp3]]
+### Entrance Theme:
+![[Sweet 'n Sour Elite.mp3]]
 
-<table>
-<caption>Manager</caption>
-<tr>
-  <td>
-    <div class="championship-grid">
-    <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente" class="champ-card">
-    <img src="/img/user/z_Images/Hendrique_Delafuente.png" alt="Hendrique Delafuente">
-    <span>Hendrique Delafuente</span>
-    </a>
-    </div>
-  </td>
-</tr>
-</table>
+## **Manager**
 
+<div class="championship-grid">
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente" class="champ-card">
+  <img src="/img/user/z_Images/Hendrique_Delafuente.png" alt="Hendrique Delafuente">
+  <span>Hendrique Delafuente</span>
+  </a>
+</div>
+
+## **Team**
 { .block-language-dataview}
 <div class="championship-grid">
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bam-bam-bigelow" class="champ-card">

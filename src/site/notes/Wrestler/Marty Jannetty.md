@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/marty-jannetty/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.066+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/marty-jannetty/","title":"Marty Jannetty","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Marty Jannetty
 
 <table>
-<tr>
-<td><img src="Marty Jannetty.png" width="280" alt="Marty Jannetty"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Marty_Jannetty.png" width="280" alt="Marty Jannetty"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,8 +35,8 @@
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 
 ## Top Matches
-- 2022-02-21: Jeff Jarrett & Killer Kelly vs. The Rockers vs. Christian Cage &.Tetsuya Naito (c) in [[Events/2022-02-21 - Fan Favourites\|2022-02-21 - Fan Favourites]] — 93%
+- 2022-02-21: Jeff Jarrett & Killer Kelly vs. The Rockers vs. Christian Cage &.Tetsuya Naito (c) in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — 93%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/dolph-ziggler/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.388+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/dolph-ziggler/","title":"Dolph Ziggler","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Dolph Ziggler
 
 <table>
-<tr>
-<td><img src="Dolph Ziggler.png" width="280" alt="Dolph Ziggler"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dolph_Ziggler.png" width="280" alt="Dolph Ziggler"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,10 +35,10 @@
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (2x)
 
 ## Top Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2020-10-26: Dolph Ziggler & Rey Mysterio Jr. vs. Militanter Mummenschanz in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 82%
-- 2020-10-26: Saint Rebel Radicalz vs. Dolph Ziggler & Rey Mysterio Jr. in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 81%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2020-10-26: Dolph Ziggler & Rey Mysterio Jr. vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 82%
+- 2020-10-26: Saint Rebel Radicalz vs. Dolph Ziggler & Rey Mysterio Jr. in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 81%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

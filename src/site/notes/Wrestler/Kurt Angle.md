@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kurt-angle/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.810+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/kurt-angle/","title":"Kurt Angle","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Kurt Angle
 
 <table>
-<tr>
-<td><img src="Kurt Angle.png" width="280" alt="Kurt Angle"></td>
-<td>
-<b>Height:</b> 184cm<br>
-<b>Weight:</b> 100kg<br>
-<b>Finisher:</b> Angle Lock<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kurt_Angle.png" width="280" alt="Kurt Angle"></td>
+        <td>
+        <b>Height:</b> 184cm<br>
+        <b>Weight:</b> 100kg<br>
+        <b>Finisher:</b> Angle Lock<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Chris Hero\|Chris Hero]] (4x)
 
 ## Top Matches
-- 2020-10-13: Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 105%
-- 2021-04-29: Militanter Mummenschanz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 100%
-- 2021-04-29: Saint Rebel Radicalz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 100%
-- 2022-01-26: Interview Segment /w Kurt Angle & Philipp Brunkovic, Pascal LePas, & Hendrique Delafuente in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 99%
-- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 99%
+- 2020-10-13: Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 105%
+- 2021-04-29: Militanter Mummenschanz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
+- 2021-04-29: Saint Rebel Radicalz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
+- 2022-01-26: Interview Segment /w Kurt Angle & Philipp Brunkovic, Pascal LePas, & Hendrique Delafuente in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 99%
+- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

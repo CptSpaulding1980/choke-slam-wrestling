@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kwang/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.819+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/kwang/","title":"Kwang","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Kwang
 
 <table>
-<tr>
-<td><img src="Kwang.png" width="280" alt="Kwang"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kwang.png" width="280" alt="Kwang"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,8 +33,8 @@
 - [[Wrestler/Eugene\|Eugene]] (1x)
 
 ## Top Matches
-- 2024-03-07: AJ Styles vs. Repo Man vs. Kwang vs. Eugene  in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 89%
+- 2024-03-07: AJ Styles vs. Repo Man vs. Kwang vs. Eugene  in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 89%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

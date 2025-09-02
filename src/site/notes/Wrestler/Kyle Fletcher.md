@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kyle-fletcher/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.827+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/kyle-fletcher/","title":"Kyle Fletcher","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Kyle Fletcher
 
 <table>
-<tr>
-<td><img src="Kyle Fletcher.png" width="280" alt="Kyle Fletcher"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kyle_Fletcher.png" width="280" alt="Kyle Fletcher"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -41,5 +41,5 @@
 - 2021-04-10: Mark Davis & Kyle Fletcher vs. Sweet 'n Sour Elite in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 78%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

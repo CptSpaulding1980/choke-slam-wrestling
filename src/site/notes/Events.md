@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/statistiken/events/","tags":["events","index"],"noteIcon":"","created":"2025-09-01T22:15:29.578+02:00"}
+{"dg-publish":true,"permalink":"/events/","tags":["events","index"],"noteIcon":"","created":"2025-09-01T22:15:29.578+02:00"}
 ---
 
 # **Events**

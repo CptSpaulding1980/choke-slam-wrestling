@@ -104,7 +104,7 @@ a:hover {
 table, .table {
     border-collapse: separate !important;
     border-spacing: 0 !important;
-    width: 100% !important;
+    width: 1200px !important;
     background: #faf9f8;
     font-size: 1rem;
     margin-bottom: 1.5em;
@@ -130,7 +130,7 @@ table td, .table td {
     background: #faf9f8;
     vertical-align: middle;
     word-break: break-word;
-    min-width: 90px;
+    min-width: 100px;
 }
 /* Zebra-Stripes für Zeilen */
 table tr:nth-child(even) td, .table tr:nth-child(even) td {

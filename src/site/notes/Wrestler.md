@@ -6,17 +6,16 @@
 
 | Wrestler | Matches | Wins | Losses | Draws | Win % | Ø Rating |
 |----------|---------|------|--------|-------|--------|-----------|
-| [[Wrestler/AJ Styles\|AJ Styles]] | 75 | 33 | 23 | 19 | 58.9% | 84.09 |
 | [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] | 2 | 0 | 0 | 2 | 0.0% | 90.00 |
 | [[Wrestler/Abismo Negro\|Abismo Negro]] | 1 | 0 | 0 | 1 | 0.0% | 100.00 |
 | [[Wrestler/Abyss\|Abyss]] | 1 | 0 | 0 | 1 | 0.0% | 95.00 |
 | [[Wrestler/Ace Steel\|Ace Steel]] | 2 | 1 | 0 | 1 | 100.0% | 97.50 |
 | [[Wrestler/Adam Cole\|Adam Cole]] | 5 | 2 | 2 | 1 | 50.0% | 81.40 |
-| [[Adam Copeland\|Adam Copeland]] | 3 | 1 | 0 | 2 | 100.0% | 92.33 |
 | [[Wrestler/Adam Page\|Adam Page]] | 1 | 0 | 0 | 1 | 0.0% | 93.00 |
 | [[Wrestler/Aero Star\|Aero Star]] | 1 | 0 | 1 | 0 | 0.0% | 96.00 |
 | [[Wrestler/Aerostar\|Aerostar]] | 2 | 1 | 1 | 0 | 50.0% | 100.00 |
 | [[Wrestler/Ahmed Johnson\|Ahmed Johnson]] | 1 | 0 | 0 | 1 | 0.0% | 95.00 |
+| [[Wrestler/AJ Styles\|AJ Styles]] | 75 | 33 | 23 | 19 | 58.9% | 84.09 |
 | [[Wrestler/Akira Hokuto\|Akira Hokuto]] | 5 | 1 | 3 | 1 | 25.0% | 85.60 |
 | [[Wrestler/Al Snow\|Al Snow]] | 3 | 0 | 3 | 0 | 0.0% | 86.67 |
 | [[Wrestler/Alberto El Patron\|Alberto El Patron]] | 2 | 0 | 1 | 1 | 0.0% | 94.00 |
@@ -349,8 +348,7 @@
 | [[Wrestler/Pentagón Jr.\|Pentagón Jr.]] | 1 | 0 | 0 | 1 | 0.0% | 92.00 |
 | [[Wrestler/Perro Aguayo Jr.\|Perro Aguayo Jr.]] | 1 | 0 | 0 | 1 | 0.0% | 100.00 |
 | [[Wrestler/Pete Dunne\|Pete Dunne]] | 3 | 1 | 2 | 0 | 33.3% | 85.33 |
-| [[Wrestler/Philipp Brunckovic\|Philipp Brunckovic]] | 1 | 0 | 0 | 1 | 0.0% | 85.00 |
-| [[Manager/Philipp Brunkovic\|Philipp Brunkovic]] | 8 | 4 | 1 | 3 | 80.0% | 87.62 |
+| [[Manager/Philipp Brunkovic\|Philipp Brunkovic]] | 9 | 4 | 1 | 4 | 80.0% | 87.62 |
 | [[Wrestler/Pimpinel Escarlata\|Pimpinel Escarlata]] | 1 | 0 | 0 | 1 | 0.0% | 85.00 |
 | [[Wrestler/Primo Colón\|Primo Colón]] | 5 | 3 | 1 | 1 | 75.0% | 78.00 |
 | [[Wrestler/Prince Puma\|Prince Puma]] | 1 | 0 | 0 | 1 | 0.0% | 100.00 |
@@ -361,7 +359,6 @@
 | [[Wrestler/Razor Ramon\|Razor Ramon]] | 3 | 0 | 1 | 2 | 0.0% | 88.00 |
 | [[Wrestler/Repo Man\|Repo Man]] | 1 | 0 | 1 | 0 | 0.0% | 89.00 |
 | [[Wrestler/Rey Escorpión\|Rey Escorpión]] | 10 | 3 | 4 | 3 | 42.9% | 87.10 |
-| [[Wrestler/Rey Fenix\|Rey Fenix]] | 5 | 2 | 1 | 2 | 66.7% | 87.00 |
 | [[Wrestler/Rey Fénix\|Rey Fénix]] | 34 | 15 | 12 | 7 | 55.6% | 89.79 |
 | [[Wrestler/Rey Horus\|Rey Horus]] | 1 | 0 | 0 | 1 | 0.0% | 88.00 |
 | [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] | 32 | 14 | 11 | 7 | 56.0% | 82.78 |

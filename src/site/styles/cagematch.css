@@ -49,18 +49,6 @@ nav a.active, .navbar a.active, nav a:hover {
 }
 
 /* ================
-   Haupt-Container (z.B. Card, Dashboard)
-   ================ */
-.main-container, .content {
-    background: #fff;
-    box-shadow: 0 0 6px #ccc;
-    border-radius: 4px;
-    padding: 2em;
-    margin: 2em auto;
-    max-width: 950px;
-}
-
-/* ================
    Text & Titel
    ================ */
 h1, h2, h3 {

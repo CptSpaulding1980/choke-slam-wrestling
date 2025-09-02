@@ -287,9 +287,9 @@ table, .table {
    Responsives Design
    ================ */
 /* Hauptcontainer auf größeren Bildschirmen breiter */
-@media (min-width: 1200px) {
+@media (min-width: 1300px) {
     .main-container, .content {
-        max-width: 1400px;   /* oder 100% für volle Breite */
+        max-width: 1440px;   /* oder 100% für volle Breite */
         padding: 2em 3em;    /* etwas mehr horizontaler Abstand */
     }
 

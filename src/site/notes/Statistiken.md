@@ -10,5 +10,5 @@ Interessante Statistiken zum Stöbern:
 - [[Statistiken/Top 25 Matches\|Top 25 Matches]]
 - [[Statistiken/Worst 25 Matches\|Worst 25 Matches]]
 - [[Statistiken/Globale Statistiken\|Globale Statistiken]]
-
+- [[Wrestler\|Wrestler]]
 ---

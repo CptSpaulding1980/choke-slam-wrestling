@@ -40,5 +40,5 @@
 - 2022-02-09: Hack Myers vs. Madison Rayne in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 83%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -47,5 +47,5 @@
 - 2021-06-15: Jim Neidhart & Joey Janela vs. Johnny Mundo & The Blade in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 93%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

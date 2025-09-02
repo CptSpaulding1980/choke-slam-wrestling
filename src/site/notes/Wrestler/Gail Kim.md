@@ -28,7 +28,7 @@
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
 - [[Wrestler/Jushin Liger\|Jushin Liger]] (2x)
-- [[Wrestler/Aerostar\|Aerostar]] (1x)
+- [[Wrestler/Aero Star\|Aero Star]] (1x)
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (1x)
 
@@ -47,5 +47,5 @@
 - 2021-04-15: Saint Rebel Radicalz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 92%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -41,5 +41,5 @@
 - 2024-03-07: Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 78%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

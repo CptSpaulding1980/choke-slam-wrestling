@@ -42,5 +42,5 @@
 - 2023-06-26: Jerry Lynn vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 87%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

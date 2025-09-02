@@ -36,5 +36,5 @@
 - 2023-05-30: Saint Rebel Radicalz vs. Lex Luger & Stevie Ray in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 76%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

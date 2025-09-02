@@ -47,5 +47,5 @@
 - 2024-03-07: Chyna vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 82%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

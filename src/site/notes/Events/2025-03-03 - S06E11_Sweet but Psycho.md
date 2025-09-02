@@ -26,12 +26,12 @@
 | 11 |  | [[Wrestler/Finn Bálor\|Finn Bálor]] vs. [[Wrestler/Bandido\|Bandido]] | Finn Bálor beat Bandido in 12 Min 17 Sec with a Top Rope Rollup Pin | 12:17 | ★★★1/2 | 78 |
 | 12 |  | Handicap: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] (Hendry & Paxley) vs. [[Wrestler/Bandido\|Bandido]] | Joe Hendry beat Bandido in 12 Min 48 Sec with a Standing Ovation | 12:48 | ★★★1/4 | 75 |
 | 13 |  | [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Bandido\|Bandido]] | Roman Reigns beat Bandido in 11 Min 17 Sec with a Spear | 11:17 | ★★★1/4 | 75 |
-| 14 |  | [[Path of God\|Path of God]] vs. [[Wrestler/André the Giant\|André The Giant]] & [[Wrestler/Sami Zayn\|Sami Zayn]] | André The Giant beat Hiroshi Tanahashi in 14 Min 56 Sec with a Giant Elbow Drop | 14:56 | ★★ | 63 |
+| 14 |  | [[Path of God\|Path of God]] vs. [[Wrestler/André The Giant\|André The Giant]] & [[Wrestler/Sami Zayn\|Sami Zayn]] | André The Giant beat Hiroshi Tanahashi in 14 Min 56 Sec with a Giant Elbow Drop | 14:56 | ★★ | 63 |
 | 15 |  | [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Cactus Jack\|Cactus Jack]] & [[Wrestler/Sheamus\|Sheamus]] | Sheamus beat Tatum Paxley in 24 Min 47 Sec with a Texas Clover Hold | 24:47 | ★★★1/4 | 75 |
 | 16 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Jeff Cobb\|Jeff Cobb]] & [[Wrestler/Ultimate Warrior\|Ultimate Warrior]] | Ultimate Warrior beat Laredo Kid in 25 Min 9 Sec with a Warrior Splash | 25:09 | ★★★★ | 85 |
 | 17 |  | I got 4 on it | The Undertaker beat Bret Hart in 35 Min 24 Sec with a Triangle Scissors | 35:24 | ★★★★1/4 | 90 |
 | 18 | Elimination Chamber | Elimination Chamber | Sean Waltman beat Bret Hart, Undertaker, Randy Savage, Ethan Page & Kensuke Sasaki in 32 Min 14 Sec with a Flying Leg Drop | 32:14 | ★★★★1/4 | 90 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

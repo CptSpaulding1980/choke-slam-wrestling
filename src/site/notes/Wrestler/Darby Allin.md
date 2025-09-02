@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2022-01-26: Skateboard II: Rey Mysterio Jr. vs. Darby Allin in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 55%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -52,5 +52,5 @@
 - 2021-09-06: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 97%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

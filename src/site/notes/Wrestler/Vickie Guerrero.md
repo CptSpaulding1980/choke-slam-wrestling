@@ -40,5 +40,5 @@
 - 2022-11-17: Aoife Valkyrie vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 79%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

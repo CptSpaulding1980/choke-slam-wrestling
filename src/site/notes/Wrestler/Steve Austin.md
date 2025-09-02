@@ -47,5 +47,5 @@
 - 2025-06-03: No Holds Barred: Roman Reigns vs. Steve Austin in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 94%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

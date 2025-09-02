@@ -37,7 +37,7 @@
 - [[Wrestler/Ridge Holland\|Ridge Holland]] (1x)
 - [[Wrestler/Hawk\|Hawk]] (1x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
-- [[Wrestler/André the Giant\|André The Giant]] (1x)
+- [[Wrestler/André The Giant\|André The Giant]] (1x)
 
 ## Top Matches
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
@@ -47,5 +47,5 @@
 - 2022-12-16: Davey Boy Smith & Sami Zayn vs. AJ Styles & Cora Jade in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 89%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

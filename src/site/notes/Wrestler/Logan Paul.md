@@ -39,5 +39,5 @@
 - 2022-11-17: Triple H & Iron Mike Tyson vs. Shawn Michaels & Logan Paul in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 89%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

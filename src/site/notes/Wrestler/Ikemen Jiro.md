@@ -51,5 +51,5 @@
 - 2023-05-30: Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 89%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

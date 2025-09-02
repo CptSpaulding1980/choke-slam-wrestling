@@ -47,5 +47,5 @@
 - 2022-12-16: Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 79%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

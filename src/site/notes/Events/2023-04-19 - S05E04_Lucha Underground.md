@@ -21,5 +21,5 @@
 | 6 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Eddie Edwards\|Eddie Edwards]] vs. [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] (c) | Big Van Vader won a triple threat match against Eddie Edwards & Randy Savage in  20:41 | 20:41 | ★★★★1/2 | 95 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

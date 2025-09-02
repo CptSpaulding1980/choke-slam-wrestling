@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2021-01-21: Austin Aries vs. Salvatore Sincere in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 81%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -35,7 +35,7 @@
 ## Häufigste Partner
 - [[Wrestler/Gunther\|Gunther]] (5x)
 - [[Wrestler/Bryan Danielson\|Bryan Danielson]] (3x)
-- [[Wrestler/Aerostar\|Aerostar]] (2x)
+- [[Wrestler/Aero Star\|Aero Star]] (2x)
 - [[Wrestler/Cora Jade\|Cora Jade]] (1x)
 - [[Wrestler/Beer City Bruiser\|Beer City Bruiser]] (1x)
 
@@ -47,5 +47,5 @@
 - 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

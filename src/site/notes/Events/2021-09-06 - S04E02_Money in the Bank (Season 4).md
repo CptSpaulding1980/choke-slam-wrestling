@@ -31,5 +31,5 @@
 | 16 |  | [[Unification - Apple Championship\|Unification - Apple Championship]] & [[International Championship\|International Championship]]: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Christian Cage\|Christian Cage]] | AJ Styles beat Christian Cage in 9 Min 16 Sec with a Tower Hacker Bomb | 9:16 | ★★ | 60 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

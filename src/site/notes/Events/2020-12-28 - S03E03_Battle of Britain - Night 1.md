@@ -24,5 +24,5 @@
 | 9 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Joe Coffey\|Joe Coffey]], [[Wrestler/Mark Coffey\|Mark Coffey]] & [[Wrestler/Wolfgang\|Wolfgang]] | Wolfgang beat Gail Kim in 20 Min 28 Sec with a Striking Lariat | 20:28 | ★★★3/4 | 81 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

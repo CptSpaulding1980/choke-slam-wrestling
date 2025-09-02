@@ -43,5 +43,5 @@
 - 2022-02-21: Saint Rebel Radicalz vs. Adam Cole & Britt Baker in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — 67%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

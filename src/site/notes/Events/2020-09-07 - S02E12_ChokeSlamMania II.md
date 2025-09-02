@@ -28,5 +28,5 @@
 | 13 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] [[collide - Choke Slam World Championship\|collide - Choke Slam World Championship]]: [[Wrestler/Big Van Vader\|Big Van Vader]]  vs. [[Wrestler/Randy Orton\|Randy Orton]] (c) | Randy Orton beat Big Van Vader in 16 Min 25 Sec with a RKO | 16:25 | ★★★★1/4 | 91 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

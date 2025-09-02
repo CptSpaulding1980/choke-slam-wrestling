@@ -47,5 +47,5 @@
 - 2020-10-13: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 87%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

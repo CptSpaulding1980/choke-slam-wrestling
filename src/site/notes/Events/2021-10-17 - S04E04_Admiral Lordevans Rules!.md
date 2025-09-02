@@ -39,5 +39,5 @@
 | 24 |  | > 95 kg: [[Wrestler/Chris Hero\|Chris Hero]] vs. [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] | Chris Hero beat Jeff Jarrett in 1R 6 Min 23 Sec with a K.O | 6:23 | ★★★1/4 | 73 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

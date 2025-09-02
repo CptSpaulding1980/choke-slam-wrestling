@@ -26,5 +26,5 @@
 | 11 |  | [[Wrestler/Mansoor\|Mansoor]] & [[Wrestler/Mustafa Ali\|Mustafa Ali]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] | Randy Savage beat Mansoor in 28 Min 51 Sec with a Macho Flying Elbow Drop | 28:51 | ★★★★3/4 | 97 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

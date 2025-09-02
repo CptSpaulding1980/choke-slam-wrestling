@@ -27,5 +27,5 @@
 | 12 | No Holds Barred | [[No Holds Barred\|No Holds Barred]]: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Steve Austin\|Steve Austin]] | Steve Austin beat Roman Reigns in 16 Min 24 Sec with a Stone Cold Stunner | 16:24 | ★★★★1/2 | 94 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2023-08-22: Mascara contra Caballera: Jonathan Gresham vs. El Hijo del Santo (w/Dr. HH) in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 65%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

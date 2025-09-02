@@ -40,5 +40,5 @@ Keine bekannten Partner.
 - 2023-06-26: Barb Wire: Terry Funk vs. AJ Styles in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 66%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -36,7 +36,7 @@
 - [[Wrestler/Rey Fénix\|Rey Fénix]] (1x)
 - [[Wrestler/Owen Hart\|Owen Hart]] (1x)
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (1x)
-- [[Wrestler/André the Giant\|André the Giant]] (1x)
+- [[Wrestler/André The Giant\|André The Giant]] (1x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
 
 ## Top Matches
@@ -47,5 +47,5 @@
 - 2021-06-15: Pre Show: Hiromu Takahashi vs. KENTA in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 81%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

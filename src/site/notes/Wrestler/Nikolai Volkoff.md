@@ -35,5 +35,5 @@
 - 2021-06-30: Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 97%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

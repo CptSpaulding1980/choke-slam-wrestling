@@ -42,5 +42,5 @@
 - 2024-10-22: Barbed Wire Death: Triple H vs. Tito Santana in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 35%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

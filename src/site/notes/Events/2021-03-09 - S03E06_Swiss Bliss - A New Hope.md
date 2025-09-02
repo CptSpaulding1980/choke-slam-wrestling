@@ -20,5 +20,5 @@
 | 5 |  | [[Wrestler/Kenny Omega\|Kenny Omega]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | Kazuchika Okada beat Kenny Omega in 9 Min 48 Sec with a Cobra Hold | 9:48 | ★★★★1/4 | 88 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

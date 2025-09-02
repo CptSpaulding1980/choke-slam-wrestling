@@ -36,5 +36,5 @@ Keine bekannten Partner.
 - 2023-10-09: Jon Moxley vs. Cody Rhodes in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 77%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

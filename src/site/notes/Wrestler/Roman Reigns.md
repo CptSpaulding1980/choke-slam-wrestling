@@ -53,5 +53,5 @@
 - 2025-08-21: Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 102%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

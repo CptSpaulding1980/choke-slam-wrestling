@@ -29,7 +29,7 @@
 - [[Wrestler/Pascal LePas\|Pascal LePas]] (1x)
 - [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
-- [[Wrestler/EL Torito\|EL Torito]] (1x)
+- [[Wrestler/El Torito\|El Torito]] (1x)
 - [[Wrestler/Mascarit Sagrada\|Mascarit Sagrada]] (1x)
 
 ## Häufigste Partner
@@ -44,5 +44,5 @@
 - 2022-06-28: Threeway Fiasko in [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] — 93%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

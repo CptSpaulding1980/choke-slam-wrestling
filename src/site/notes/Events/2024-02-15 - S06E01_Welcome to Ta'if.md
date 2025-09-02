@@ -33,5 +33,5 @@
 | 18 |  | [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] | Hiroshi Tanahashi won a triple threat match against The Undertaker & Roman Reigns in  30:56 | 30:56 | ★★★★★★ | 105 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

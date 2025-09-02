@@ -40,5 +40,5 @@ Keine bekannten Partner.
 - 2025-08-21: Beat the Clock: Bandido vs. Shinsuke Nakamura in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 53%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

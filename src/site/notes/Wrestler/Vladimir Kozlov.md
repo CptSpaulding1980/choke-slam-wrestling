@@ -35,5 +35,5 @@
 - 2021-06-30: Dan Koloff HC Tournament: Rey Fénix vs. Kota Ibushi vs. Vladimir Kozlov in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 74%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

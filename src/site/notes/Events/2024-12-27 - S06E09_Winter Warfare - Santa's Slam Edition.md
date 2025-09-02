@@ -34,5 +34,5 @@
 | 19 |  | [[Wrestler/Kiana James\|Kiana James]] vs. [[Wrestler/John Cena\|John Cena]] | Kiana James battled John Cena to a  double KO draw | 0:00 | ★★★★3/4 | 99 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-08-12: Womens Quarter Finals: Bayley vs. Awesome Kong in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 69%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

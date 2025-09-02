@@ -38,5 +38,5 @@
 - 2023-04-19: Trios League Final: Aero Star, Drago & Rey Fénix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 96%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

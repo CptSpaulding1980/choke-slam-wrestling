@@ -16,5 +16,5 @@
 | 1 |  | [[Wrestler/Killshot\|Killshot]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] vs. [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Finn Bálor\|Finn Bálor]] | Sheamus  won a 5 wrestler battle royale in  19:54 | 19:54 | ★★★★1/2 | 95 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

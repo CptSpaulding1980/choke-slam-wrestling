@@ -43,5 +43,5 @@
 - 2023-10-09: War Games: Sweet 'n Sour Elite vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 75%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

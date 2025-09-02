@@ -42,5 +42,5 @@
 - 2020-10-26: Kurt Angle & Elias vs. Arn Anderson & Eric Young in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 78%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -47,5 +47,5 @@
 - 2022-12-16: Gigi Dolin vs. Randy Savage vs. Grayson Waller in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 99%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

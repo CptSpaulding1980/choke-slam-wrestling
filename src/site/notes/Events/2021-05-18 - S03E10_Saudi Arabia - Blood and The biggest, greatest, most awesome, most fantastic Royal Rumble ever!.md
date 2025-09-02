@@ -25,5 +25,5 @@
 | 10 |  | Greatest Rumble ever | John Cena won a 153 wrestler Royal Rumble in  295:18 | 295:18 | ★★★★1/4 | 90 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

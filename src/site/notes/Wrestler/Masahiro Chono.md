@@ -41,5 +41,5 @@ Keine bekannten Partner.
 - 2024-09-09: B: Claudio Castagnoli vs. Masahiro Chono in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 59%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -30,11 +30,11 @@
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (1x)
 
 ## Häufigste Partner
-- [[Wrestler/EL Torito\|EL Torito]] (1x)
+- [[Wrestler/El Torito\|El Torito]] (1x)
 
 ## Top Matches
 - 2022-11-07: Militanter Mummenschanz vs. EL Torito & Mascarit Sagrada in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 73%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

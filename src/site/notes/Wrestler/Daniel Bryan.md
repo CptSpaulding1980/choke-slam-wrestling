@@ -49,5 +49,5 @@
 - 2025-08-12: 1/8 Finals: Daniel Bryan vs. Steve Austin in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 88%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

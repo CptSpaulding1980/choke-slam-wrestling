@@ -28,5 +28,5 @@
 | 13 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] (c) | Roman Reigns beat Samoa Joe in 8 Min 46 Sec with a Spear | 8:46 | ★★★ | 68 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

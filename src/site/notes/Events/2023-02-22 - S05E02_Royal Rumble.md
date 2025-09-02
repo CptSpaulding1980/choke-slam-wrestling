@@ -25,5 +25,5 @@
 | 10 | Royal Rumble | Mens [[Royal Rumble\|Royal Rumble]] | Mr. Fuji won a 30 wrestler Royal Rumble in  79:19 | 79:19 | ★★★★1/4 | 88 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

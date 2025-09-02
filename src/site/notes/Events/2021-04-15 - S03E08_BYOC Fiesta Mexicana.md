@@ -30,5 +30,5 @@
 | 15 |  | [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Texano\|Texano]] Jr. vs. [[Wrestler/Rey Escorpión\|Rey Escorpión]] vs. [[Wrestler/Killshot\|Killshot]]   vs. [[Wrestler/Kane\|Kane]] vs. [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Daga\|Daga]]  vs. [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] | Joey Janela won a 10 wrestler Royal Rumble in  51:08 | 51:08 | ★★★★1/4 | 91 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

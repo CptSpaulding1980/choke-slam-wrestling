@@ -40,5 +40,5 @@ Keine bekannten Partner.
 - 2021-11-01: Consequences Creed vs. Chris Hero vs. Ilja Dragunov vs. Bryan Danielson vs. Tyler Bate in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — 71%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

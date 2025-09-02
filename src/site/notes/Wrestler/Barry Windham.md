@@ -26,7 +26,7 @@
 
 
 ## Häufigste Gegner
-- [[Wrestler/Aerostar\|Aerostar]] (1x)
+- [[Wrestler/Aero Star\|Aero Star]] (1x)
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (1x)
@@ -44,5 +44,5 @@
 - 2023-10-09: War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 73%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

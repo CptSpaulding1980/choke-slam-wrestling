@@ -37,5 +37,5 @@
 | 22 | Hardcore | [[Choke Slam Hardcore Championship\|Choke Slam Hardcore Championship]]: [[Wrestler/Drew Gulak\|Drew Gulak]] vs. [[Wrestler/Jay White\|Jay White]] (c) | Jay White beat Drew Gulak in 12 Min 24 Sec with a Blade Runner | 12:24 | ★★★1/4 | 75 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

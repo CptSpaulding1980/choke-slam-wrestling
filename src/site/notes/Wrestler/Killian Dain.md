@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2020-12-28: Dr. Wagner Jr. vs. Killian Dain in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 66%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

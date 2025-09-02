@@ -47,5 +47,5 @@
 - 2022-02-21: Choke Slam Apple Championship: Rey Mysterio Jr. vs. Lance Storm in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — 97%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

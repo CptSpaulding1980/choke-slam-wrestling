@@ -40,5 +40,5 @@ Keine bekannten Partner.
 - 2020-10-13: Killshot vs. Timothy Thatcher in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 81%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -23,5 +23,5 @@
 | 8 |  | War Games: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] | Kazuchika Okada beat Awesome Kong in 15 Min 39 Sec with a Rainmaker | 15:39 | ★★1/2 | 66 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

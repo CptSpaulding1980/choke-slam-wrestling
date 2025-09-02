@@ -36,5 +36,5 @@ Keine bekannten Partner.
 - 2020-06-29: Tatsumi Fujinami vs. Sara Del Rey in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 66%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

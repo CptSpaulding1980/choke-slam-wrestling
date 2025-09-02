@@ -40,5 +40,5 @@ Keine bekannten Partner.
 - 2021-10-17: < 70 kg: Asuka vs. Madison Rayne in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|2021-10-17 - S04E04_Admiral Lordevans Rules!]] — 79%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

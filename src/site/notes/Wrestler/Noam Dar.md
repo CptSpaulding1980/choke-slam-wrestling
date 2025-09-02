@@ -47,5 +47,5 @@
 - 2023-08-22: Victoria Doble: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 92%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

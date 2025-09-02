@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2023-03-29: Ludwig Kaiser vs. Axel Tischer in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 77%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -43,5 +43,5 @@
 - 2023-03-29: Carat First Round: AJ Styles vs. Jack Gallagher in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 63%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

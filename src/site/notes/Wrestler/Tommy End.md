@@ -47,5 +47,5 @@
 - 2023-12-15: Roman Reigns vs. Seth Rollins vs. Tommy End vs. Rush vs. Bret Hart vs. Miro in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 92%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

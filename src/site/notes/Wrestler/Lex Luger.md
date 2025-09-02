@@ -52,5 +52,5 @@
 - 2021-04-29: Militanter Mummenschanz vs. Jim Duggan, Kurt Angle, & Lex Luger in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 95%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -37,5 +37,5 @@
 - 2023-05-30: Randy Savage & Scott Steiner vs. Scott Hall & Tully Blanchard in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 60%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

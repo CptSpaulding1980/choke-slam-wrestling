@@ -42,5 +42,5 @@
 - 2022-02-09: Tables: Random, Random, & Random vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 51%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

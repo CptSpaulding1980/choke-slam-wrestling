@@ -36,5 +36,5 @@
 | 21 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]], [[Wrestler/Kurt Angle\|Kurt Angle]], & [[Wrestler/Lex Luger\|Lex Luger]] | Rey Fénix beat Jim Duggan in 23 Min 23 Sec with a Firebird Splash | 23:23 | ★★★★1/2 | 92 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

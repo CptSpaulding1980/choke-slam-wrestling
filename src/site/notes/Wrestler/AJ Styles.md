@@ -52,5 +52,5 @@
 - 2024-05-27: AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 99%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

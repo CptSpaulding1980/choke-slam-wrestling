@@ -46,5 +46,5 @@
 - 2021-07-26: Dan Koloff HC Tournament: The Butcher vs. Kota Ibushi (w/Mr. Fuji) in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] — 87%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

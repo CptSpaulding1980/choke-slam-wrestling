@@ -28,5 +28,5 @@
 | 13 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]] Match: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] (c) | Roman Reigns won a triple threat match against AJ Styles & Hulk Hogan in  57:53 | 57:53 | ★★★★★ | 102 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

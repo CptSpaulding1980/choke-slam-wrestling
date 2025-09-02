@@ -23,5 +23,5 @@
 | 8 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Hack Myers\|Hack Myers]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) | Bob Backlund won a triple threat match against Big Van Vader & Hack Myers in  32:40 | 32:40 | ★★★★3/4 | 97 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

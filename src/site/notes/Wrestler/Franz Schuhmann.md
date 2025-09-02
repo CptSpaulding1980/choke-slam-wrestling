@@ -43,5 +43,5 @@
 - 2021-08-23: Saint Rebel Radicalz vs. Franz Schuhmann & Sting in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 74%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -23,8 +23,8 @@
 | 8 |  | Me, Myself and I - Tre (Philipp) | Ric Flair beat Big Daddy V in 4 Min 5 Sec with a School Boy | 4:05 | ★1/2 | 57 |
 | 9 |  | Me, Myself and I - Tre (Hendrik) | Big Van Vader beat Dude Love in 8 Min 42 Sec with a Nodowa-Otoshi | 8:42 | ★★★1/4 | 75 |
 | 10 |  | Me, Myself and I - Tre (Pascal) | Willow  beat Kurt Angle in 9 Min 27 Sec with a Flying Body Attack | 9:27 | ★★★3/4 | 81 |
-| 11 |  | [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/EL Torito\|EL Torito]] & [[Wrestler/Mascarit Sagrada\|Mascarit Sagrada]] | Killer Kelly beat EL Torito in 8 Min 58 Sec with a Low Lift Backdrop | 8:58 | ★★★1/4 | 73 |
-| 12 |  | [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/EL Torito\|EL Torito]] & [[Wrestler/Little Beaver\|Little Beaver]] | EL Torito beat Hendrique Delafuente in 30 Min 48 Sec with a Bullsault | 30:48 | ★★★★★ | 100 |
+| 11 |  | [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. EL Torito & [[Wrestler/Mascarit Sagrada\|Mascarit Sagrada]] | Killer Kelly beat EL Torito in 8 Min 58 Sec with a Low Lift Backdrop | 8:58 | ★★★1/4 | 73 |
+| 12 |  | [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. EL Torito & [[Wrestler/Little Beaver\|Little Beaver]] | EL Torito beat Hendrique Delafuente in 30 Min 48 Sec with a Bullsault | 30:48 | ★★★★★ | 100 |
 | 13 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Dink\|Dink]]  & [[Wrestler/Hornswoggle\|Hornswoggle]] | Hornswoggle beat Pascal LePas in 12 Min 18 Sec with a Tadpole Splash | 12:18 | ★★★3/4 | 81 |
 | 14 |  | Exhibition 2 - Bloodier than the Line | WALTER won a 8 wrestler battle royale in  13:28 | 13:28 | ★★★★1/4 | 91 |
 | 15 | Tag Team | Tag Team Roulette - [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Honey Money ([[Wrestler/JBL\|JBL]] & [[Wrestler/Ted DiBiase\|Ted DiBiase]]) | Eddie Edwards beat JBL in 77 Min 44 Sec with a Modified Emerald Flowsion | 77:44 | ★★★★ | 87 |
@@ -33,5 +33,5 @@
 | 18 |  | Exhibition 3 - Backstage Brawl | Ace Steel won a 5 wrestler battle royale in  12:38 | 12:38 | ★★★★3/4 | 97 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

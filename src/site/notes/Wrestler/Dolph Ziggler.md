@@ -40,5 +40,5 @@
 - 2020-10-26: Saint Rebel Radicalz vs. Dolph Ziggler & Rey Mysterio Jr. in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 81%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

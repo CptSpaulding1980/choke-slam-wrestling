@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2020-12-29: Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 86%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

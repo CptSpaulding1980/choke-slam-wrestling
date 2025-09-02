@@ -48,5 +48,5 @@
 | 33 |  | Super Bowl | Hiroshi Tanahashi beat KUSHIDA in 7 Min 7 Sec with a High Fly Flow | 7:07 | ★★ | 60 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -20,5 +20,5 @@
 | 5 |  | [[Wrestler/Jushin Liger\|Jushin Liger]] vs. [[Wrestler/Gail Kim\|Gail Kim]] | Gail Kim beat Jushin Liger in 8 Min 44 Sec with an Eat Defeat | 8:44 | ★★★3/4 | 82 |
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

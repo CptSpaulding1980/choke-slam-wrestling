@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/christian-cage/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.136+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/christian-cage/","title":"Christian Cage","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Christian Cage
 
 <table>
-<tr>
-<td><img src="Christian Cage.png" width="280" alt="Christian Cage"></td>
-<td>
-<b>Height:</b> 187cm<br>
-<b>Weight:</b> 96kg<br>
-<b>Finisher:</b> Killswitch<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Christian_Cage.png" width="280" alt="Christian Cage"></td>
+        <td>
+        <b>Height:</b> 187cm<br>
+        <b>Weight:</b> 96kg<br>
+        <b>Finisher:</b> Killswitch<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)
 
 ## Top Matches
-- 2021-06-15: Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes in [[Events/2021-06-15 - Sûper Canada!\|2021-06-15 - Sûper Canada!]] — 99%
-- 2021-06-30: Choke Slam Tag Team Championship: Joey Janela vs. Kane vs. Bob Backlund vs. Kota Ibushi vs. Christian Cage vs. Tetsuya Naito in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 99%
-- 2021-05-18: Choke Slam Tag Team Championship: Kane vs. Awesome Kong vs. Bob Backlund vs. Rey Fénix vs. Christian Cage vs. Tetsuya Naito vs. Brutus Beefcake vs. The Blade in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 98%
-- 2021-05-18: Choke Slam Apple Championship: Kane vs. Christian Cage vs. Bob Backlund (c) in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 98%
-- 2021-07-26: Choke Slam Apple Championship: Hulk Hogan (w/Jimmy Hart) vs. Christian Cage (c) (w/Edge) in [[Events/2021-07-26 - Andre has a posse - Part II\|2021-07-26 - Andre has a posse - Part II]] — 98%
+- 2021-06-15: Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 99%
+- 2021-06-30: Choke Slam Tag Team Championship: Joey Janela vs. Kane vs. Bob Backlund vs. Kota Ibushi vs. Christian Cage vs. Tetsuya Naito in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 99%
+- 2021-05-18: Choke Slam Tag Team Championship: Kane vs. Awesome Kong vs. Bob Backlund vs. Rey Fénix vs. Christian Cage vs. Tetsuya Naito vs. Brutus Beefcake vs. The Blade in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 98%
+- 2021-05-18: Choke Slam Apple Championship: Kane vs. Christian Cage vs. Bob Backlund (c) in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 98%
+- 2021-07-26: Choke Slam Apple Championship: Hulk Hogan (w/Jimmy Hart) vs. Christian Cage (c) (w/Edge) in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] — 98%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

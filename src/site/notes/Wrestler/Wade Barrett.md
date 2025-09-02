@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/wade-barrett/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.775+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/wade-barrett/","title":"Wade Barrett","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Wade Barrett
 
 <table>
-<tr>
-<td><img src="Wade Barrett.png" width="280" alt="Wade Barrett"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wade_Barrett.png" width="280" alt="Wade Barrett"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,12 +35,12 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-03-29: Carat First Round: William Regal vs. Wade Barrett in [[Events/2023-03-29 - Europa (S05E03)\|2023-03-29 - Europa (S05E03)]] — 90%
-- 2023-04-03: Alex Wright vs. Wade Barrett in [[Events/2023-04-03 - Europa (S05E03) - Day 3\|2023-04-03 - Europa (S05E03) - Day 3]] — 89%
-- 2023-04-03: Miro vs. Wade Barrett in [[Events/2023-04-03 - Europa (S05E03) - Day 3\|2023-04-03 - Europa (S05E03) - Day 3]] — 87%
-- 2023-04-03: Randy Savage vs. Wade Barrett in [[Events/2023-04-03 - Europa (S05E03) - Day 3\|2023-04-03 - Europa (S05E03) - Day 3]] — 78%
-- 2023-03-29: Carat Second Round: Randy Savage vs. Wade Barrett in [[Events/2023-03-29 - Europa (S05E03) - Day 2\|2023-03-29 - Europa (S05E03) - Day 2]] — 76%
+- 2023-03-29: Carat First Round: William Regal vs. Wade Barrett in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 90%
+- 2023-04-03: Alex Wright vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 89%
+- 2023-04-03: Miro vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 87%
+- 2023-04-03: Randy Savage vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 78%
+- 2023-03-29: Carat Second Round: Randy Savage vs. Wade Barrett in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — 76%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

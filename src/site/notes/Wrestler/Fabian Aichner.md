@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/fabian-aichner/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.716+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/fabian-aichner/","title":"Fabian Aichner","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Fabian Aichner
 
 <table>
-<tr>
-<td><img src="Fabian Aichner.png" width="280" alt="Fabian Aichner"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Fabian_Aichner.png" width="280" alt="Fabian Aichner"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,10 +36,10 @@
 - [[Wrestler/Marcel Barthel\|Marcel Barthel]] (3x)
 
 ## Top Matches
-- 2021-01-21: Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - Clash of Colosseum\|2021-01-21 - Clash of Colosseum]] — 96%
-- 2021-01-21: Sweet 'n Sour Elite vs. Imperium in [[Events/2021-01-21 - Clash of Colosseum\|2021-01-21 - Clash of Colosseum]] — 71%
-- 2021-01-21: Saint Rebel Radicalz vs. Imperium in [[Events/2021-01-21 - Clash of Colosseum\|2021-01-21 - Clash of Colosseum]] — 68%
+- 2021-01-21: Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 96%
+- 2021-01-21: Sweet 'n Sour Elite vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 71%
+- 2021-01-21: Saint Rebel Radicalz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 68%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

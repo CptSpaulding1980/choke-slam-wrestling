@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/big-boss-man/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.745+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/big-boss-man/","title":"Big Boss Man","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Big Boss Man
 
 <table>
-<tr>
-<td><img src="Big Boss Man.png" width="280" alt="Big Boss Man"></td>
-<td>
-<b>Height:</b> 199cm<br>
-<b>Weight:</b> 150kg<br>
-<b>Finisher:</b> Bossman Slam<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Boss_Man.png" width="280" alt="Big Boss Man"></td>
+        <td>
+        <b>Height:</b> 199cm<br>
+        <b>Weight:</b> 150kg<br>
+        <b>Finisher:</b> Bossman Slam<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +32,9 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 95%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

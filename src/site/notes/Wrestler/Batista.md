@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/batista/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.707+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/batista/","title":"Batista","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Batista
 
 <table>
-<tr>
-<td><img src="Batista.png" width="280" alt="Batista"></td>
-<td>
-<b>Height:</b> 197cm<br>
-<b>Weight:</b> 132kg<br>
-<b>Finisher:</b> Batista Bomb<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Batista.png" width="280" alt="Batista"></td>
+        <td>
+        <b>Height:</b> 197cm<br>
+        <b>Weight:</b> 132kg<br>
+        <b>Finisher:</b> Batista Bomb<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,10 +40,10 @@
 - [[Wrestler/Miro\|Miro]] (1x)
 
 ## Top Matches
-- 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - Batze (S05E10)\|2023-11-03 - Batze (S05E10)]] — 94%
-- 2023-11-03: Guardians of the Galaxy 1 in [[Events/2023-11-03 - Batze (S05E10)\|2023-11-03 - Batze (S05E10)]] — 92%
-- 2025-05-07: Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - ChokeSlamMania VI\|2025-05-07 - ChokeSlamMania VI]] — 86%
+- 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — 94%
+- 2023-11-03: Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — 92%
+- 2025-05-07: Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — 86%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

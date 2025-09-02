@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jade-cargill/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.233+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jade-cargill/","title":"Jade Cargill","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jade Cargill
 
 <table>
-<tr>
-<td><img src="Jade Cargill.png" width="280" alt="Jade Cargill"></td>
-<td>
-<b>Height:</b> 179cm<br>
-<b>Weight:</b> 73kg<br>
-<b>Finisher:</b> Jaded<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jade_Cargill.png" width="280" alt="Jade Cargill"></td>
+        <td>
+        <b>Height:</b> 179cm<br>
+        <b>Weight:</b> 73kg<br>
+        <b>Finisher:</b> Jaded<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,11 +40,11 @@
 - [[Wrestler/Tiffany Stratton\|Tiffany Stratton]] (1x)
 
 ## Top Matches
-- 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 103%
-- 2022-01-26: Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 85%
-- 2022-01-26: Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 78%
-- 2022-01-26: Streetball: Saint Rebel Radicalz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 70%
+- 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 103%
+- 2022-01-26: Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 85%
+- 2022-01-26: Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 78%
+- 2022-01-26: Streetball: Saint Rebel Radicalz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 70%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jimmy-havoc/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.376+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jimmy-havoc/","title":"Jimmy Havoc","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jimmy Havoc
 
 <table>
-<tr>
-<td><img src="Jimmy Havoc.png" width="280" alt="Jimmy Havoc"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jimmy_Havoc.png" width="280" alt="Jimmy Havoc"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2020-12-29: William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 88%
+- 2020-12-29: William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 88%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

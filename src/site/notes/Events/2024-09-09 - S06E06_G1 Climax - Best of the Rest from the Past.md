@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2024-09-09-s06-e06-g1-climax-best-of-the-rest-from-the-past/","title":"S06E06_G1 Climax - Best of the Rest from the Past","noteIcon":"","created":"2025-09-01T21:42:46.542+02:00"}
+{"dg-publish":true,"permalink":"/events/2024-09-09-s06-e06-g1-climax-best-of-the-rest-from-the-past/","title":"S06E06_G1 Climax - Best of the Rest from the Past","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E06_G1 Climax - Best of the Rest from the Past**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E06_G1 Climax - Best of the Rest from the Past**
 
 **Date:** 2024-09-09
 

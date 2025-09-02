@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/ryusuke-taguchi/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.878+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/ryusuke-taguchi/","title":"Ryusuke Taguchi","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Ryusuke Taguchi
 
 <table>
-<tr>
-<td><img src="Ryusuke Taguchi.png" width="280" alt="Ryusuke Taguchi"></td>
-<td>
-<b>Height:</b> 180cm<br>
-<b>Weight:</b> 91kg<br>
-<b>Finisher:</b> Dodonce’s throne<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ryusuke_Taguchi.png" width="280" alt="Ryusuke Taguchi"></td>
+        <td>
+        <b>Height:</b> 180cm<br>
+        <b>Weight:</b> 91kg<br>
+        <b>Finisher:</b> Dodonce’s throne<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,12 +36,12 @@
 - [[Wrestler/Tatum Paxley\|Tatum Paxley]] (4x)
 
 ## Top Matches
-- 2024-10-22: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - Turbo Turnier (S06E07)\|2024-10-22 - Turbo Turnier (S06E07)]] — 80%
-- 2024-10-22: Randy Savage vs. Sara Del Rey vs. Ryusuke Taguchi in [[Events/2024-10-22 - Turbo Turnier (S06E07)\|2024-10-22 - Turbo Turnier (S06E07)]] — 80%
-- 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - Turbo Turnier (S06E07)\|2024-10-22 - Turbo Turnier (S06E07)]] — 78%
-- 2024-10-22: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-10-22 - Turbo Turnier (S06E07)\|2024-10-22 - Turbo Turnier (S06E07)]] — 67%
-- 2024-10-22: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - Turbo Turnier (S06E07)\|2024-10-22 - Turbo Turnier (S06E07)]] — 51%
+- 2024-10-22: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 80%
+- 2024-10-22: Randy Savage vs. Sara Del Rey vs. Ryusuke Taguchi in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 80%
+- 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 78%
+- 2024-10-22: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 67%
+- 2024-10-22: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 51%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2021-04-15-s03-e08-byoc-fiesta-mexicana-aftermath/","title":"S03E08_BYOC Fiesta Mexicana - Aftermath","noteIcon":"","created":"2025-09-01T21:42:44.792+02:00"}
+{"dg-publish":true,"permalink":"/events/2021-04-15-s03-e08-byoc-fiesta-mexicana-aftermath/","title":"S03E08_BYOC Fiesta Mexicana - Aftermath","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E08_BYOC Fiesta Mexicana - Aftermath**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E08_BYOC Fiesta Mexicana - Aftermath**
 
 **Date:** 2021-04-15
 

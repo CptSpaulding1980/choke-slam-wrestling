@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/till-lindemann/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.546+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/till-lindemann/","title":"Till Lindemann","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Till Lindemann
 
 <table>
-<tr>
-<td><img src="Till Lindemann.png" width="280" alt="Till Lindemann"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Till_Lindemann.png" width="280" alt="Till Lindemann"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,10 +37,10 @@
 - [[Wrestler/Rob Halford\|Rob Halford]] (3x)
 
 ## Top Matches
-- 2022-10-02: Militanter Mummenschanz vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 80%
-- 2022-10-02: Sweet 'n Sour Elite vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 73%
-- 2022-10-02: Saint Rebel Radicalz vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 71%
+- 2022-10-02: Militanter Mummenschanz vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 80%
+- 2022-10-02: Sweet 'n Sour Elite vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 73%
+- 2022-10-02: Saint Rebel Radicalz vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 71%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/cora-jade/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.215+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/cora-jade/","title":"Cora Jade","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Cora Jade
 
 <table>
-<tr>
-<td><img src="Cora Jade.png" width="280" alt="Cora Jade"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cora_Jade.png" width="280" alt="Cora Jade"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
 
 ## Top Matches
-- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - What if... Japan (S05E07)\|2023-07-30 - What if... Japan (S05E07)]] — 94%
-- 2022-12-16: Davey Boy Smith & Sami Zayn vs. AJ Styles & Cora Jade in [[Events/2022-12-16 - King of the Ring (S05E01)\|2022-12-16 - King of the Ring (S05E01)]] — 89%
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 88%
-- 2022-01-26: Skateboard I: Rush vs. Cora Jade in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 85%
-- 2022-12-16: Miro & Brandon vs. AJ Styles & Cora Jade in [[Events/2022-12-16 - King of the Ring (S05E01)\|2022-12-16 - King of the Ring (S05E01)]] — 83%
+- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
+- 2022-12-16: Davey Boy Smith & Sami Zayn vs. AJ Styles & Cora Jade in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 89%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
+- 2022-01-26: Skateboard I: Rush vs. Cora Jade in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 85%
+- 2022-12-16: Miro & Brandon vs. AJ Styles & Cora Jade in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 83%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

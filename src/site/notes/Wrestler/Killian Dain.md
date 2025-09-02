@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/killian-dain/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.730+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/killian-dain/","title":"Killian Dain","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Killian Dain
 
 <table>
-<tr>
-<td><img src="Killian Dain.png" width="280" alt="Killian Dain"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Killian_Dain.png" width="280" alt="Killian Dain"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,10 +34,10 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2020-12-28: Kurt Angle vs. Killian Dain in [[Events/2020-12-28 - Battle of Britain - Night 1\|2020-12-28 - Battle of Britain - Night 1]] — 89%
-- 2020-12-28: Gail Kim vs. Killian Dain in [[Events/2020-12-28 - Battle of Britain - Night 1\|2020-12-28 - Battle of Britain - Night 1]] — 88%
-- 2020-12-28: Dr. Wagner Jr. vs. Killian Dain in [[Events/2020-12-28 - Battle of Britain - Night 1\|2020-12-28 - Battle of Britain - Night 1]] — 66%
+- 2020-12-28: Kurt Angle vs. Killian Dain in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 89%
+- 2020-12-28: Gail Kim vs. Killian Dain in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 88%
+- 2020-12-28: Dr. Wagner Jr. vs. Killian Dain in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 66%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

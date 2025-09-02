@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/big-kon/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.789+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/big-kon/","title":"Big Kon","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Big Kon
 
 <table>
-<tr>
-<td><img src="Big Kon.png" width="280" alt="Big Kon"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Kon.png" width="280" alt="Big Kon"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (1x)
 
 ## Top Matches
-- 2024-02-15: Rumble in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 93%
-- 2024-02-15: Kiana James vs. Big Kon in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 90%
-- 2024-09-09: B: Triple H vs. Claudio Castagnoli in [[Events/2024-09-09 - G1 Climax - Best of the Rest from the Past (S06E06)\|2024-09-09 - G1 Climax - Best of the Rest from the Past (S06E06)]] — 83%
-- 2024-02-15: Saint Rebel Radicalz vs. Path of God in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 71%
-- 2024-02-15: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 67%
+- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
+- 2024-02-15: Kiana James vs. Big Kon in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 90%
+- 2024-09-09: B: Triple H vs. Claudio Castagnoli in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 83%
+- 2024-02-15: Saint Rebel Radicalz vs. Path of God in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 71%
+- 2024-02-15: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 67%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

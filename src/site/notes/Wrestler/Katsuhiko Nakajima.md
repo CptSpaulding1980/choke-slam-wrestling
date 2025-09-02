@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/katsuhiko-nakajima/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.590+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/katsuhiko-nakajima/","title":"Katsuhiko Nakajima","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Katsuhiko Nakajima
 
 <table>
-<tr>
-<td><img src="Katsuhiko Nakajima.png" width="280" alt="Katsuhiko Nakajima"></td>
-<td>
-<b>Height:</b> 177cm<br>
-<b>Weight:</b> 87kg<br>
-<b>Finisher:</b> Northern Light Bomb<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Katsuhiko_Nakajima.png" width="280" alt="Katsuhiko Nakajima"></td>
+        <td>
+        <b>Height:</b> 177cm<br>
+        <b>Weight:</b> 87kg<br>
+        <b>Finisher:</b> Northern Light Bomb<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2024-02-15: Rumble in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 93%
+- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/athena/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.614+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/athena/","title":"Athena","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Athena
 
 <table>
-<tr>
-<td><img src="Athena.png" width="280" alt="Athena"></td>
-<td>
-<b>Height:</b> 157cm<br>
-<b>Weight:</b> 55kg<br>
-<b>Finisher:</b> Eclipse<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Athena.png" width="280" alt="Athena"></td>
+        <td>
+        <b>Height:</b> 157cm<br>
+        <b>Weight:</b> 55kg<br>
+        <b>Finisher:</b> Eclipse<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 88%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

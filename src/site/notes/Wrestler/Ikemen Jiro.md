@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/ikemen-jiro/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.130+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/ikemen-jiro/","title":"Ikemen Jiro","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Ikemen Jiro
 
 <table>
-<tr>
-<td><img src="Ikemen Jiro.png" width="280" alt="Ikemen Jiro"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ikemen_Jiro.png" width="280" alt="Ikemen Jiro"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -44,12 +44,12 @@
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
 
 ## Top Matches
-- 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - Europa (S05E03) - Day 3\|2023-04-03 - Europa (S05E03) - Day 3]] — 96%
-- 2023-04-19: Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 95%
-- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - What if... Japan (S05E07)\|2023-07-30 - What if... Japan (S05E07)]] — 94%
-- 2023-07-30: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2023-07-30 - What if... Japan (S05E07)\|2023-07-30 - What if... Japan (S05E07)]] — 90%
-- 2023-05-30: Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2023-05-30 - WCSW (S05E05)\|2023-05-30 - WCSW (S05E05)]] — 89%
+- 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 96%
+- 2023-04-19: Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 95%
+- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
+- 2023-07-30: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 90%
+- 2023-05-30: Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 89%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

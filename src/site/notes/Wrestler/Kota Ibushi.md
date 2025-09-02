@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kota-ibushi/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.794+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/kota-ibushi/","title":"Kota Ibushi","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Kota Ibushi
 
 <table>
-<tr>
-<td><img src="Kota Ibushi.png" width="280" alt="Kota Ibushi"></td>
-<td>
-<b>Height:</b> 181cm<br>
-<b>Weight:</b> 93kg<br>
-<b>Finisher:</b> Kamigoye<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kota_Ibushi.png" width="280" alt="Kota Ibushi"></td>
+        <td>
+        <b>Height:</b> 181cm<br>
+        <b>Weight:</b> 93kg<br>
+        <b>Finisher:</b> Kamigoye<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,12 +39,12 @@
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 
 ## Top Matches
-- 2021-06-30: Choke Slam Tag Team Championship: Joey Janela vs. Kane vs. Bob Backlund vs. Kota Ibushi vs. Christian Cage vs. Tetsuya Naito in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 99%
-- 2021-11-01: Asuka vs. Rey Mysterio Jr. vs. KUSHIDA  vs. Kota Ibushi vs. Kazuchika Okada vs. Bryan Danielson vs. Tyler Bate in [[Events/2021-11-01 - Admiral Lordevan Rules! - Part II\|2021-11-01 - Admiral Lordevan Rules! - Part II]] — 99%
-- 2024-09-09: D: Roman Reigns vs. Kota Ibushi in [[Events/2024-09-09 - G1 Climax - Best of the Rest from the Past (S06E06)\|2024-09-09 - G1 Climax - Best of the Rest from the Past (S06E06)]] — 92%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2021-07-26: Dan Koloff HC Tournament: The Butcher vs. Kota Ibushi (w/Mr. Fuji) in [[Events/2021-07-26 - Andre has a posse - Part II\|2021-07-26 - Andre has a posse - Part II]] — 87%
+- 2021-06-30: Choke Slam Tag Team Championship: Joey Janela vs. Kane vs. Bob Backlund vs. Kota Ibushi vs. Christian Cage vs. Tetsuya Naito in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 99%
+- 2021-11-01: Asuka vs. Rey Mysterio Jr. vs. KUSHIDA  vs. Kota Ibushi vs. Kazuchika Okada vs. Bryan Danielson vs. Tyler Bate in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — 99%
+- 2024-09-09: D: Roman Reigns vs. Kota Ibushi in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 92%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2021-07-26: Dan Koloff HC Tournament: The Butcher vs. Kota Ibushi (w/Mr. Fuji) in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] — 87%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

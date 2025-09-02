@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/bam-bam-bigelow/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.677+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/bam-bam-bigelow/","title":"Bam Bam Bigelow","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Bam Bam Bigelow
 
 <table>
-<tr>
-<td><img src="Bam Bam Bigelow.png" width="280" alt="Bam Bam Bigelow"></td>
-<td>
-<b>Height:</b> 193cm<br>
-<b>Weight:</b> 177kg<br>
-<b>Finisher:</b> Nuclear Splash<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bam_Bam_Bigelow.png" width="280" alt="Bam Bam Bigelow"></td>
+        <td>
+        <b>Height:</b> 193cm<br>
+        <b>Weight:</b> 177kg<br>
+        <b>Finisher:</b> Nuclear Splash<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/The Undertaker\|The Undertaker]] (2x)
 
 ## Top Matches
-- 2020-06-08: Choke Slam Tag Team Championship: Dalton Castle & Dr. Wagner Jr. vs. Saint Rebel Radicalz (c) in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 100%
-- 2020-06-08: Choke Slam Tag Team Championship: Sabu  & Iron Sheik vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 100%
-- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 100%
-- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 100%
-- 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 100%
+- 2020-06-08: Choke Slam Tag Team Championship: Dalton Castle & Dr. Wagner Jr. vs. Saint Rebel Radicalz (c) in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 100%
+- 2020-06-08: Choke Slam Tag Team Championship: Sabu  & Iron Sheik vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 100%
+- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
+- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
+- 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

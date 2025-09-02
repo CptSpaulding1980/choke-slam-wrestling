@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/baron-corbin/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.693+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/baron-corbin/","title":"Baron Corbin","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Baron Corbin
 
 <table>
-<tr>
-<td><img src="Baron Corbin.png" width="280" alt="Baron Corbin"></td>
-<td>
-<b>Height:</b> 203cm<br>
-<b>Weight:</b> 125kg<br>
-<b>Finisher:</b> End of Days<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Baron_Corbin.png" width="280" alt="Baron Corbin"></td>
+        <td>
+        <b>Height:</b> 203cm<br>
+        <b>Weight:</b> 125kg<br>
+        <b>Finisher:</b> End of Days<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-08-12: 1/8 Finlay: Chris Jericho vs. Baron Corbin in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 96%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

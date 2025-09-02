@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kensuke-sasaki/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.660+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/kensuke-sasaki/","title":"Kensuke Sasaki","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Kensuke Sasaki
 
 <table>
-<tr>
-<td><img src="Kensuke Sasaki.png" width="280" alt="Kensuke Sasaki"></td>
-<td>
-<b>Height:</b> 180cm<br>
-<b>Weight:</b> 115kg<br>
-<b>Finisher:</b> Northern Lights Bomb<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kensuke_Sasaki.png" width="280" alt="Kensuke Sasaki"></td>
+        <td>
+        <b>Height:</b> 180cm<br>
+        <b>Weight:</b> 115kg<br>
+        <b>Finisher:</b> Northern Lights Bomb<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -47,10 +47,10 @@
 ## Top Matches
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 - 2025-08-12: 1/8 Finals: Kensuke Sasaki vs. William Regal in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 97%
-- 2024-09-09: 1/4 Finals: Claudio Castagnoli vs. Kensuke Sasaki in [[Events/2024-09-09 - G1 Climax - Best of the Rest from the Past (S06E06)\|2024-09-09 - G1 Climax - Best of the Rest from the Past (S06E06)]] — 93%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2024-09-09: 1/4 Finals: Claudio Castagnoli vs. Kensuke Sasaki in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 93%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2025-03-03: Elimination Chamber in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 90%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

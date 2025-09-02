@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/robbie-brookside/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.788+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/robbie-brookside/","title":"Robbie Brookside","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Robbie Brookside
 
 <table>
-<tr>
-<td><img src="Robbie Brookside.png" width="280" alt="Robbie Brookside"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Robbie_Brookside.png" width="280" alt="Robbie Brookside"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

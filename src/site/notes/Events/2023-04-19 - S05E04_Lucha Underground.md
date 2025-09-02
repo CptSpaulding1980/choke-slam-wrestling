@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2023-04-19-s05-e04-lucha-underground/","title":"S05E04_Lucha Underground","noteIcon":"","created":"2025-09-01T21:42:44.801+02:00"}
+{"dg-publish":true,"permalink":"/events/2023-04-19-s05-e04-lucha-underground/","title":"S05E04_Lucha Underground","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E04_Lucha Underground**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E04_Lucha Underground**
 
 **Date:** 2023-04-19
 

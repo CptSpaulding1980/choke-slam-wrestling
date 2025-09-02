@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/el-torito/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.538+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/el-torito/","title":"EL Torito","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # EL Torito
 
 <table>
-<tr>
-<td><img src="EL Torito.png" width="280" alt="EL Torito"></td>
-<td>
-<b>Height:</b> 134cm<br>
-<b>Weight:</b> 50kg<br>
-<b>Finisher:</b> Bullsault<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/EL_Torito.png" width="280" alt="EL Torito"></td>
+        <td>
+        <b>Height:</b> 134cm<br>
+        <b>Weight:</b> 50kg<br>
+        <b>Finisher:</b> Bullsault<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,9 +36,9 @@
 - [[Wrestler/Little Beaver\|Little Beaver]] (1x)
 
 ## Top Matches
-- 2022-11-07: Sweet 'n Sour Elite vs. EL Torito & Little Beaver in [[Events/2022-11-07 - ChokeSlamMania IV - Day One\|2022-11-07 - ChokeSlamMania IV - Day One]] — 100%
-- 2022-11-07: Militanter Mummenschanz vs. EL Torito & Mascarit Sagrada in [[Events/2022-11-07 - ChokeSlamMania IV - Day One\|2022-11-07 - ChokeSlamMania IV - Day One]] — 73%
+- 2022-11-07: Sweet 'n Sour Elite vs. EL Torito & Little Beaver in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 100%
+- 2022-11-07: Militanter Mummenschanz vs. EL Torito & Mascarit Sagrada in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 73%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

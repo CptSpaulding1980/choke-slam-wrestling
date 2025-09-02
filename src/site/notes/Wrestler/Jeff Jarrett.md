@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jeff-jarrett/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.300+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jeff-jarrett/","title":"Jeff Jarrett","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jeff Jarrett
 
 <table>
-<tr>
-<td><img src="Jeff Jarrett.png" width="280" alt="Jeff Jarrett"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jeff_Jarrett.png" width="280" alt="Jeff Jarrett"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] (1x)
 
 ## Top Matches
-- 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - Extreme\|2022-02-09 - Extreme]] — 101%
+- 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 101%
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
-- 2021-09-06: Consequences Creed vs. Jeff Jarrett in [[Events/2021-09-06 - Money in the Bank (Season 4)\|2021-09-06 - Money in the Bank (Season 4)]] — 98%
-- 2022-01-26: Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 98%
-- 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 97%
+- 2021-09-06: Consequences Creed vs. Jeff Jarrett in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 98%
+- 2022-01-26: Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 98%
+- 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

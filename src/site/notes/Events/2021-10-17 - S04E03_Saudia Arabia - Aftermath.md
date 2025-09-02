@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2021-10-17-s04-e03-saudia-arabia-aftermath/","title":"S04E03_Saudia Arabia - Aftermath","noteIcon":"","created":"2025-09-01T21:42:43.455+02:00"}
+{"dg-publish":true,"permalink":"/events/2021-10-17-s04-e03-saudia-arabia-aftermath/","title":"S04E03_Saudia Arabia - Aftermath","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S04E03_Saudia Arabia - Aftermath**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S04E03_Saudia Arabia - Aftermath**
 
 **Date:** 2021-10-17
 

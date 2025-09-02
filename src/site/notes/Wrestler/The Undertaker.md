@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/the-undertaker/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.484+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/the-undertaker/","title":"The Undertaker","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # The Undertaker
 
 <table>
-<tr>
-<td><img src="The Undertaker.png" width="280" alt="The Undertaker"></td>
-<td>
-<b>Height:</b> 209cm<br>
-<b>Weight:</b> 140kg<br>
-<b>Finisher:</b> Tombstone Piledriver<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Undertaker.png" width="280" alt="The Undertaker"></td>
+        <td>
+        <b>Height:</b> 209cm<br>
+        <b>Weight:</b> 140kg<br>
+        <b>Finisher:</b> Tombstone Piledriver<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Sid Vicious\|Sid Vicious]] (2x)
 
 ## Top Matches
-- 2024-02-15: Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 105%
-- 2020-06-29: World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 101%
-- 2024-10-22: Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 101%
-- 2020-06-08: Threeway Fiasko im Käfig - Cage Match: The Undertaker vs. Sid Vicious vs. Randy Orton in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 100%
-- 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 99%
+- 2024-02-15: Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 105%
+- 2020-06-29: World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 101%
+- 2024-10-22: Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 101%
+- 2020-06-08: Threeway Fiasko im Käfig - Cage Match: The Undertaker vs. Sid Vicious vs. Randy Orton in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 100%
+- 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

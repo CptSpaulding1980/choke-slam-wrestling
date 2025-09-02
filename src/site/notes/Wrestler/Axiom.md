@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/axiom/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.660+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/axiom/","title":"Axiom","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Axiom
 
 <table>
-<tr>
-<td><img src="Axiom.png" width="280" alt="Axiom"></td>
-<td>
-<b>Height:</b> 173cm<br>
-<b>Weight:</b> 70kg<br>
-<b>Finisher:</b> Screw Super Kick<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Axiom.png" width="280" alt="Axiom"></td>
+        <td>
+        <b>Height:</b> 173cm<br>
+        <b>Weight:</b> 70kg<br>
+        <b>Finisher:</b> Screw Super Kick<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,10 +34,10 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2024-04-10: The Undertaker vs. Axiom in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 80%
-- 2024-04-10: Axiom vs. Hiroshi Tanahashi in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 76%
-- 2024-04-10: Laredo Kid vs. Axiom in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 74%
+- 2024-04-10: The Undertaker vs. Axiom in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 80%
+- 2024-04-10: Axiom vs. Hiroshi Tanahashi in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 76%
+- 2024-04-10: Laredo Kid vs. Axiom in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 74%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

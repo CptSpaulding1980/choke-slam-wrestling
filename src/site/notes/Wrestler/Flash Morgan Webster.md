@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/flash-morgan-webster/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.750+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/flash-morgan-webster/","title":"Flash Morgan Webster","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Flash Morgan Webster
 
 <table>
-<tr>
-<td><img src="Flash Morgan Webster.png" width="280" alt="Flash Morgan Webster"></td>
-<td>
-<b>Height:</b> 175cm<br>
-<b>Weight:</b> 77kg<br>
-<b>Finisher:</b> Britpop Drop<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Flash_Morgan_Webster.png" width="280" alt="Flash Morgan Webster"></td>
+        <td>
+        <b>Height:</b> 175cm<br>
+        <b>Weight:</b> 77kg<br>
+        <b>Finisher:</b> Britpop Drop<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,10 +36,10 @@
 - [[Wrestler/Mark Andrews\|Mark Andrews]] (3x)
 
 ## Top Matches
-- 2020-12-29: Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 94%
-- 2020-12-29: Saint Rebel Radicalz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 94%
-- 2020-12-29: Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 80%
+- 2020-12-29: Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 94%
+- 2020-12-29: Saint Rebel Radicalz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 94%
+- 2020-12-29: Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 80%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

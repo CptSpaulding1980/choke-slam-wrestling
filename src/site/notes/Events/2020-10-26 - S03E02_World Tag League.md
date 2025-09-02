@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2020-10-26-s03-e02-world-tag-league/","title":"S03E02_World Tag League","noteIcon":"","created":"2025-09-01T21:42:43.514+02:00"}
+{"dg-publish":true,"permalink":"/events/2020-10-26-s03-e02-world-tag-league/","title":"S03E02_World Tag League","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E02_World Tag League**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E02_World Tag League**
 
 **Date:** 2020-10-26
 

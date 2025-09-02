@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/taya-valkyrie/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.255+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/taya-valkyrie/","title":"Taya Valkyrie","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Taya Valkyrie
 
 <table>
-<tr>
-<td><img src="Taya Valkyrie.png" width="280" alt="Taya Valkyrie"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Taya_Valkyrie.png" width="280" alt="Taya Valkyrie"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,12 +39,12 @@
 - [[Wrestler/Rey Escorpión\|Rey Escorpión]] (3x)
 
 ## Top Matches
-- 2021-04-15: Militanter Mummenschanz vs. Mexicans in [[Events/2021-04-15 - BYOC Fiesta Mexicana\|2021-04-15 - BYOC Fiesta Mexicana]] — 100%
-- 2021-04-15: Saint Rebel Radicalz vs. Daga , Johnny Mundo & Taya Valkyrie in [[Events/2021-04-15 - BYOC Fiesta Mexicana\|2021-04-15 - BYOC Fiesta Mexicana]] — 96%
-- 2021-04-15: Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - BYOC Fiesta Mexicana\|2021-04-15 - BYOC Fiesta Mexicana]] — 95%
-- 2021-04-15: Militanter Mummenschanz vs. Daga  & Taya Valkyrie in [[Events/2021-04-15 - BYOC Fiesta Mexicana\|2021-04-15 - BYOC Fiesta Mexicana]] — 94%
-- 2021-04-15: Saint Rebel Radicalz vs. Mexicans in [[Events/2021-04-15 - BYOC Fiesta Mexicana\|2021-04-15 - BYOC Fiesta Mexicana]] — 92%
+- 2021-04-15: Militanter Mummenschanz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 100%
+- 2021-04-15: Saint Rebel Radicalz vs. Daga , Johnny Mundo & Taya Valkyrie in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 96%
+- 2021-04-15: Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 95%
+- 2021-04-15: Militanter Mummenschanz vs. Daga  & Taya Valkyrie in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 94%
+- 2021-04-15: Saint Rebel Radicalz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 92%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

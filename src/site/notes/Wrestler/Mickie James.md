@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/mickie-james/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.211+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/mickie-james/","title":"Mickie James","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Mickie James
 
 <table>
-<tr>
-<td><img src="Mickie James.png" width="280" alt="Mickie James"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mickie_James.png" width="280" alt="Mickie James"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,11 +40,11 @@
 - [[Wrestler/Joey Janela\|Joey Janela]] (1x)
 
 ## Top Matches
-- 2020-10-13: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 94%
-- 2020-10-13: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 87%
-- 2020-10-13: Kane vs. Tetsuya Naito vs. Mickie James in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 73%
-- 2021-06-30: Dan Koloff HC Tournament: Mickie James vs. Joey Janela vs. Awesome Kong in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 72%
+- 2020-10-13: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 94%
+- 2020-10-13: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 87%
+- 2020-10-13: Kane vs. Tetsuya Naito vs. Mickie James in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 73%
+- 2021-06-30: Dan Koloff HC Tournament: Mickie James vs. Joey Janela vs. Awesome Kong in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 72%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

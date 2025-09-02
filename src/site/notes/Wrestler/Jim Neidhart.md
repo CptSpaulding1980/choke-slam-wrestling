@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jim-neidhart/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.365+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jim-neidhart/","title":"Jim Neidhart","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jim Neidhart
 
 <table>
-<tr>
-<td><img src="Jim Neidhart.png" width="280" alt="Jim Neidhart"></td>
-<td>
-<b>Height:</b> 187cm<br>
-<b>Weight:</b> 128kg<br>
-<b>Finisher:</b> Anvil Flattener<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jim_Neidhart.png" width="280" alt="Jim Neidhart"></td>
+        <td>
+        <b>Height:</b> 187cm<br>
+        <b>Weight:</b> 128kg<br>
+        <b>Finisher:</b> Anvil Flattener<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,11 +38,11 @@
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
 
 ## Top Matches
-- 2021-06-15: Bret Hart & Rey Fénix vs. Bob Backlund & Jim Neidhart in [[Events/2021-06-15 - Sûper Canada!\|2021-06-15 - Sûper Canada!]] — 98%
-- 2021-06-15: Jim Neidhart & Joey Janela vs. Johnny Mundo & The Blade in [[Events/2021-06-15 - Sûper Canada!\|2021-06-15 - Sûper Canada!]] — 93%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2021-06-15: Jim Neidhart & Johnny Mundo vs. Saint Rebel Radicalz in [[Events/2021-06-15 - Sûper Canada!\|2021-06-15 - Sûper Canada!]] — 85%
+- 2021-06-15: Bret Hart & Rey Fénix vs. Bob Backlund & Jim Neidhart in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 98%
+- 2021-06-15: Jim Neidhart & Joey Janela vs. Johnny Mundo & The Blade in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 93%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2021-06-15: Jim Neidhart & Johnny Mundo vs. Saint Rebel Radicalz in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 85%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

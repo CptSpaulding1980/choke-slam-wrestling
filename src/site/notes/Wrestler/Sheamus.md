@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/sheamus/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.051+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/sheamus/","title":"Sheamus","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Sheamus
 
 <table>
-<tr>
-<td><img src="Sheamus.png" width="280" alt="Sheamus"></td>
-<td>
-<b>Height:</b> 192cm<br>
-<b>Weight:</b> 123kg<br>
-<b>Finisher:</b> Two-Step Kick<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sheamus.png" width="280" alt="Sheamus"></td>
+        <td>
+        <b>Height:</b> 192cm<br>
+        <b>Weight:</b> 123kg<br>
+        <b>Finisher:</b> Two-Step Kick<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -44,12 +44,12 @@
 - [[Wrestler/Cactus Jack\|Cactus Jack]] (1x)
 
 ## Top Matches
-- 2021-01-21: Choke Slam World Championship: Kazuchika Okada vs. Sheamus (c) in [[Events/2021-01-21 - Ireland\|2021-01-21 - Ireland]] — 100%
-- 2020-12-28: Killshot vs. Bob Backlund vs. Sgt. Slaughter vs. Sheamus  vs. Finn Bálor in [[Events/2020-12-28 - Battle of Britain - Pre Show\|2020-12-28 - Battle of Britain - Pre Show]] — 95%
-- 2021-01-21: Choke Slam World Championship: Sheamus  vs. Kazuchika Okada (c) in [[Events/2021-01-21 - Clash of Colosseum\|2021-01-21 - Clash of Colosseum]] — 95%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 77%
+- 2021-01-21: Choke Slam World Championship: Kazuchika Okada vs. Sheamus (c) in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 100%
+- 2020-12-28: Killshot vs. Bob Backlund vs. Sgt. Slaughter vs. Sheamus  vs. Finn Bálor in [[Events/2020-12-28 - S03E03_Battle of Britain - Pre Show\|2020-12-28 - S03E03_Battle of Britain - Pre Show]] — 95%
+- 2021-01-21: Choke Slam World Championship: Sheamus  vs. Kazuchika Okada (c) in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 95%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 77%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

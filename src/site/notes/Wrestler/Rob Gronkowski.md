@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/rob-gronkowski/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.761+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/rob-gronkowski/","title":"Rob Gronkowski","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Rob Gronkowski
 
 <table>
-<tr>
-<td><img src="Rob Gronkowski.png" width="280" alt="Rob Gronkowski"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rob_Gronkowski.png" width="280" alt="Rob Gronkowski"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,10 +39,10 @@
 - [[Wrestler/Moose\|Moose]] (1x)
 
 ## Top Matches
-- 2024-07-19: Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - Super Bowl of Wrestling (S06E05)\|2024-07-19 - Super Bowl of Wrestling (S06E05)]] — 88%
-- 2024-07-19: Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - Super Bowl of Wrestling (S06E05)\|2024-07-19 - Super Bowl of Wrestling (S06E05)]] — 80%
-- 2024-07-19: Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski in [[Events/2024-07-19 - Super Bowl of Wrestling (S06E05)\|2024-07-19 - Super Bowl of Wrestling (S06E05)]] — 73%
+- 2024-07-19: Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 88%
+- 2024-07-19: Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 80%
+- 2024-07-19: Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 73%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

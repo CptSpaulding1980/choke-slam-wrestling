@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/chyna/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.175+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/chyna/","title":"Chyna","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Chyna
 
 <table>
-<tr>
-<td><img src="Chyna.png" width="280" alt="Chyna"></td>
-<td>
-<b>Height:</b> 177cm<br>
-<b>Weight:</b> 82kg<br>
-<b>Finisher:</b> Low Blow<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chyna.png" width="280" alt="Chyna"></td>
+        <td>
+        <b>Height:</b> 177cm<br>
+        <b>Weight:</b> 82kg<br>
+        <b>Finisher:</b> Low Blow<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Damian Priest\|Damian Priest]] (1x)
 
 ## Top Matches
-- 2023-12-15: Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 98%
+- 2023-12-15: Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 98%
 - 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 89%
-- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 88%
+- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 88%
 - 2025-01-16: Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 85%
-- 2024-03-07: Chyna vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 82%
+- 2024-03-07: Chyna vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 82%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

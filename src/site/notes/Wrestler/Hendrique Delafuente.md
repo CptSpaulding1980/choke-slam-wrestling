@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/hendrique-delafuente/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.015+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/hendrique-delafuente/","title":"Hendrique Delafuente","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Hendrique Delafuente
 
 <table>
-<tr>
-<td><img src="Hendrique Delafuente.png" width="280" alt="Hendrique Delafuente"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" width="280" alt="Hendrique Delafuente"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Fit Finlay\|Fit Finlay]] (2x)
 
 ## Top Matches
-- 2022-11-07: Sweet 'n Sour Elite vs. EL Torito & Little Beaver in [[Events/2022-11-07 - ChokeSlamMania IV - Day One\|2022-11-07 - ChokeSlamMania IV - Day One]] — 100%
-- 2023-12-15: Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 100%
-- 2022-01-26: Interview Segment /w Kurt Angle & Philipp Brunkovic, Pascal LePas, & Hendrique Delafuente in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 99%
-- 2022-10-02: Apple Gauntlet 2 in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 97%
-- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - What if... Japan (S05E07)\|2023-07-30 - What if... Japan (S05E07)]] — 94%
+- 2022-11-07: Sweet 'n Sour Elite vs. EL Torito & Little Beaver in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 100%
+- 2023-12-15: Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
+- 2022-01-26: Interview Segment /w Kurt Angle & Philipp Brunkovic, Pascal LePas, & Hendrique Delafuente in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 99%
+- 2022-10-02: Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
+- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

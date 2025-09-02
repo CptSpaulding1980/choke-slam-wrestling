@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/laredo-kid/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.853+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/laredo-kid/","title":"Laredo Kid","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Laredo Kid
 
 <table>
-<tr>
-<td><img src="Laredo Kid.png" width="280" alt="Laredo Kid"></td>
-<td>
-<b>Height:</b> 171cm<br>
-<b>Weight:</b> 81kg<br>
-<b>Finisher:</b> Laredo Fly<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Laredo_Kid.png" width="280" alt="Laredo Kid"></td>
+        <td>
+        <b>Height:</b> 171cm<br>
+        <b>Weight:</b> 81kg<br>
+        <b>Finisher:</b> Laredo Fly<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Myzteziz Jr.\|Myzteziz Jr.]] (5x)
 
 ## Top Matches
-- 2023-08-22: Cibernetico in [[Events/2023-08-22 - Dia de los Muertos (S05E08)\|2023-08-22 - Dia de los Muertos (S05E08)]] — 100%
-- 2024-05-27: Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H in [[Events/2024-05-27 - Die beste Show der Welt (S06E04)\|2024-05-27 - Die beste Show der Welt (S06E04)]] — 100%
-- 2024-10-22: Saint Rebel Radicalz vs. Finn Bálor & The Undertaker in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 99%
+- 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
+- 2024-05-27: Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 100%
+- 2024-10-22: Saint Rebel Radicalz vs. Finn Bálor & The Undertaker in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 99%
 - 2024-12-27: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 99%
 - 2025-03-03: Choke Slam Trios Championship: Randy Savage vs. KUSHIDA vs. Joe Hendry vs. Gunther vs. El Hijo del Vikingo vs. Laredo Kid vs. Laredo Kid vs. Tetsuya Naito in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 98%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

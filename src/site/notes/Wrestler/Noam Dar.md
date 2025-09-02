@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/noam-dar/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.385+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/noam-dar/","title":"Noam Dar","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Noam Dar
 
 <table>
-<tr>
-<td><img src="Noam Dar.png" width="280" alt="Noam Dar"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Noam_Dar.png" width="280" alt="Noam Dar"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Randy Savage\|Randy Savage]] (2x)
 
 ## Top Matches
-- 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 99%
-- 2023-10-09: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 99%
-- 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - Batze (S05E10)\|2023-11-03 - Batze (S05E10)]] — 94%
-- 2023-08-22: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - Dia de los Muertos (S05E08)\|2023-08-22 - Dia de los Muertos (S05E08)]] — 93%
-- 2023-08-22: Victoria Doble: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - Dia de los Muertos (S05E08)\|2023-08-22 - Dia de los Muertos (S05E08)]] — 92%
+- 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
+- 2023-10-09: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
+- 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — 94%
+- 2023-08-22: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 93%
+- 2023-08-22: Victoria Doble: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 92%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

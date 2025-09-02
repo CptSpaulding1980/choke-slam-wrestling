@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/moose/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.269+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/moose/","title":"Moose","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Moose
 
 <table>
-<tr>
-<td><img src="Moose.png" width="280" alt="Moose"></td>
-<td>
-<b>Height:</b> 195cm<br>
-<b>Weight:</b> 134kg<br>
-<b>Finisher:</b> Neck Hanging Bomb<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Moose.png" width="280" alt="Moose"></td>
+        <td>
+        <b>Height:</b> 195cm<br>
+        <b>Weight:</b> 134kg<br>
+        <b>Finisher:</b> Neck Hanging Bomb<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,8 +35,8 @@
 - [[Wrestler/Rob Gronkowski\|Rob Gronkowski]] (1x)
 
 ## Top Matches
-- 2024-07-19: Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - Super Bowl of Wrestling (S06E05)\|2024-07-19 - Super Bowl of Wrestling (S06E05)]] — 88%
+- 2024-07-19: Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 88%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

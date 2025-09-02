@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/chris-brookes/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.099+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/chris-brookes/","title":"Chris Brookes","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Chris Brookes
 
 <table>
-<tr>
-<td><img src="Chris Brookes.png" width="280" alt="Chris Brookes"></td>
-<td>
-<b>Height:</b> 201cm<br>
-<b>Weight:</b> 95kg<br>
-<b>Finisher:</b> Praying Mantis Bomb<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chris_Brookes.png" width="280" alt="Chris Brookes"></td>
+        <td>
+        <b>Height:</b> 201cm<br>
+        <b>Weight:</b> 95kg<br>
+        <b>Finisher:</b> Praying Mantis Bomb<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2021-09-06: Money in the Bank Tag Team in [[Events/2021-09-06 - Money in the Bank (Season 4)\|2021-09-06 - Money in the Bank (Season 4)]] — 81%
+- 2021-09-06: Money in the Bank Tag Team in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 81%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/pascal-le-pas/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.460+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/pascal-le-pas/","title":"Pascal LePas","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Pascal LePas
 
 <table>
-<tr>
-<td><img src="Pascal LePas.png" width="280" alt="Pascal LePas"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png" width="280" alt="Pascal LePas"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,12 +35,12 @@
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
 
 ## Top Matches
-- 2023-12-15: Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 100%
-- 2022-01-26: Interview Segment /w Kurt Angle & Philipp Brunkovic, Pascal LePas, & Hendrique Delafuente in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 99%
-- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - What if... Japan (S05E07)\|2023-07-30 - What if... Japan (S05E07)]] — 94%
-- 2022-06-28: Threeway Fiasko in [[Events/2022-06-28 - Royal Rumble\|2022-06-28 - Royal Rumble]] — 93%
+- 2023-12-15: Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
+- 2022-01-26: Interview Segment /w Kurt Angle & Philipp Brunkovic, Pascal LePas, & Hendrique Delafuente in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 99%
+- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
+- 2022-06-28: Threeway Fiasko in [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] — 93%
 - 2025-08-21: Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 85%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

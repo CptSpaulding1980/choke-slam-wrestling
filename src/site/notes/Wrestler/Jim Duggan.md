@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jim-duggan/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.340+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jim-duggan/","title":"Jim Duggan","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jim Duggan
 
 <table>
-<tr>
-<td><img src="Jim Duggan.png" width="280" alt="Jim Duggan"></td>
-<td>
-<b>Height:</b> 191cm<br>
-<b>Weight:</b> 123kg<br>
-<b>Finisher:</b> Running Knee Drop<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jim_Duggan.png" width="280" alt="Jim Duggan"></td>
+        <td>
+        <b>Height:</b> 191cm<br>
+        <b>Weight:</b> 123kg<br>
+        <b>Finisher:</b> Running Knee Drop<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Gable Steveson\|Gable Steveson]] (1x)
 
 ## Top Matches
-- 2021-04-29: Hulk Hogan vs. Jim Duggan in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 100%
-- 2021-04-29: Militanter Mummenschanz vs. Jim Duggan & Kurt Angle in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 98%
-- 2021-04-29: Militanter Mummenschanz vs. Jim Duggan, Kurt Angle, & Lex Luger in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 95%
-- 2021-04-29: Sweet 'n Sour Elite vs. Jim Duggan & Kurt Angle in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 92%
-- 2021-04-29: Saint Rebel Radicalz vs. Jim Duggan, Kurt Angle, & Lex Luger in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 92%
+- 2021-04-29: Hulk Hogan vs. Jim Duggan in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
+- 2021-04-29: Militanter Mummenschanz vs. Jim Duggan & Kurt Angle in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 98%
+- 2021-04-29: Militanter Mummenschanz vs. Jim Duggan, Kurt Angle, & Lex Luger in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 95%
+- 2021-04-29: Sweet 'n Sour Elite vs. Jim Duggan & Kurt Angle in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 92%
+- 2021-04-29: Saint Rebel Radicalz vs. Jim Duggan, Kurt Angle, & Lex Luger in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 92%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

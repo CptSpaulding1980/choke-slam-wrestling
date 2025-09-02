@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2021-11-01-s04-e04-admiral-lordevan-rules-part-ii/","title":"S04E04_Admiral Lordevan Rules! - Part II","noteIcon":"","created":"2025-09-01T21:42:43.548+02:00"}
+{"dg-publish":true,"permalink":"/events/2021-11-01-s04-e04-admiral-lordevan-rules-part-ii/","title":"S04E04_Admiral Lordevan Rules! - Part II","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S04E04_Admiral Lordevan Rules! - Part II**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S04E04_Admiral Lordevan Rules! - Part II**
 
 **Date:** 2021-11-01
 

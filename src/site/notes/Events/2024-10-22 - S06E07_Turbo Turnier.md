@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2024-10-22-s06-e07-turbo-turnier/","title":"S06E07_Turbo Turnier","noteIcon":"","created":"2025-09-01T21:42:43.487+02:00"}
+{"dg-publish":true,"permalink":"/events/2024-10-22-s06-e07-turbo-turnier/","title":"S06E07_Turbo Turnier","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E07_Turbo Turnier**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E07_Turbo Turnier**
 
 **Date:** 2024-10-22
 

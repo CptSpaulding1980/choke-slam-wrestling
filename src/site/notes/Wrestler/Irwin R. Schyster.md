@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/irwin-r-schyster/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.162+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/irwin-r-schyster/","title":"Irwin R. Schyster","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Irwin R. Schyster
 
 <table>
-<tr>
-<td><img src="Irwin R. Schyster.png" width="280" alt="Irwin R. Schyster"></td>
-<td>
-<b>Height:</b> 191cm<br>
-<b>Weight:</b> 113kg<br>
-<b>Finisher:</b> Write-Off<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Irwin_R._Schyster.png" width="280" alt="Irwin R. Schyster"></td>
+        <td>
+        <b>Height:</b> 191cm<br>
+        <b>Weight:</b> 113kg<br>
+        <b>Finisher:</b> Write-Off<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,10 +36,10 @@
 - [[Wrestler/Ted DiBiase\|Ted DiBiase]] (3x)
 
 ## Top Matches
-- 2024-10-22: Path of God vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 97%
-- 2024-10-22: Sweet 'n Sour Elite vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 94%
-- 2024-10-22: Saint Rebel Radicalz vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 82%
+- 2024-10-22: Path of God vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 97%
+- 2024-10-22: Sweet 'n Sour Elite vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
+- 2024-10-22: Saint Rebel Radicalz vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 82%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

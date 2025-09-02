@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/dusty-rhodes/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.513+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/dusty-rhodes/","title":"Dusty Rhodes","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Dusty Rhodes
 
 <table>
-<tr>
-<td><img src="Dusty Rhodes.png" width="280" alt="Dusty Rhodes"></td>
-<td>
-<b>Height:</b> 185cm<br>
-<b>Weight:</b> 129kg<br>
-<b>Finisher:</b> Bionic Elbow<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dusty_Rhodes.png" width="280" alt="Dusty Rhodes"></td>
+        <td>
+        <b>Height:</b> 185cm<br>
+        <b>Weight:</b> 129kg<br>
+        <b>Finisher:</b> Bionic Elbow<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Bobby Eaton\|Bobby Eaton]] (1x)
 
 ## Top Matches
-- 2024-02-15: Roman Reigns vs. Dusty Rhodes in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 104%
-- 2024-05-27: AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi in [[Events/2024-05-27 - Die beste Show der Welt (S06E04)\|2024-05-27 - Die beste Show der Welt (S06E04)]] — 99%
-- 2024-02-15: Rumble in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 93%
-- 2024-04-10: Drew Gulak vs. Dusty Rhodes in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 93%
-- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 93%
+- 2024-02-15: Roman Reigns vs. Dusty Rhodes in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 104%
+- 2024-05-27: AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 99%
+- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
+- 2024-04-10: Drew Gulak vs. Dusty Rhodes in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
+- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

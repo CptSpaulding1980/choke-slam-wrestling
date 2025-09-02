@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/elias/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.656+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/elias/","title":"Elias","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Elias
 
 <table>
-<tr>
-<td><img src="Elias.png" width="280" alt="Elias"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Elias.png" width="280" alt="Elias"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,11 +36,11 @@
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)
 
 ## Top Matches
-- 2020-10-26: Kurt Angle & Elias vs. Saint Rebel Radicalz in [[Events/2020-10-26 - World Tag League Semi Finals \|2020-10-26 - World Tag League Semi Finals ]] — 94%
-- 2020-10-26: Kurt Angle & Elias vs. Saint Rebel Radicalz in [[Events/2020-10-26 - World Tag League Finals\|2020-10-26 - World Tag League Finals]] — 87%
-- 2020-10-26: Kurt Angle & Elias vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 81%
-- 2020-10-26: Kurt Angle & Elias vs. Arn Anderson & Eric Young in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 78%
+- 2020-10-26: Kurt Angle & Elias vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League Semi Finals \|2020-10-26 - S03E02_World Tag League Semi Finals ]] — 94%
+- 2020-10-26: Kurt Angle & Elias vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League Finals\|2020-10-26 - S03E02_World Tag League Finals]] — 87%
+- 2020-10-26: Kurt Angle & Elias vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 81%
+- 2020-10-26: Kurt Angle & Elias vs. Arn Anderson & Eric Young in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 78%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

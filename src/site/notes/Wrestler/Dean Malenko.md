@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/dean-malenko/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.340+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/dean-malenko/","title":"Dean Malenko","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Dean Malenko
 
 <table>
-<tr>
-<td><img src="Dean Malenko.png" width="280" alt="Dean Malenko"></td>
-<td>
-<b>Height:</b> 177cm<br>
-<b>Weight:</b> 96kg<br>
-<b>Finisher:</b> Texas Cloverleaf<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dean_Malenko.png" width="280" alt="Dean Malenko"></td>
+        <td>
+        <b>Height:</b> 177cm<br>
+        <b>Weight:</b> 96kg<br>
+        <b>Finisher:</b> Texas Cloverleaf<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,9 +33,9 @@
 - [[Wrestler/Diamond Dallas Page\|Diamond Dallas Page]] (1x)
 
 ## Top Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2023-05-30: Militanter Mummenschanz vs. Dean Malenko & Diamond Dallas Page in [[Events/2023-05-30 - WCSW (S05E05)\|2023-05-30 - WCSW (S05E05)]] — 82%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2023-05-30: Militanter Mummenschanz vs. Dean Malenko & Diamond Dallas Page in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 82%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

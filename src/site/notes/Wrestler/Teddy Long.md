@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/teddy-long/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.282+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/teddy-long/","title":"Teddy Long","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Teddy Long
 
 <table>
-<tr>
-<td><img src="Teddy Long.png" width="280" alt="Teddy Long"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Teddy_Long.png" width="280" alt="Teddy Long"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,10 +34,10 @@
 - [[Wrestler/Vickie Guerrero\|Vickie Guerrero]] (3x)
 
 ## Top Matches
-- 2022-11-17: Killer Kelly vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 80%
-- 2022-11-17: Madison Rayne vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 79%
-- 2022-11-17: Aoife Valkyrie vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 79%
+- 2022-11-17: Killer Kelly vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 80%
+- 2022-11-17: Madison Rayne vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 79%
+- 2022-11-17: Aoife Valkyrie vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 79%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

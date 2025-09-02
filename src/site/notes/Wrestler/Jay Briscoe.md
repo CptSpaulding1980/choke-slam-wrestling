@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jay-briscoe/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.267+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jay-briscoe/","title":"Jay Briscoe","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jay Briscoe
 
 <table>
-<tr>
-<td><img src="Jay Briscoe.png" width="280" alt="Jay Briscoe"></td>
-<td>
-<b>Height:</b> 185cm<br>
-<b>Weight:</b> 105kg<br>
-<b>Finisher:</b> Jay Driller<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jay_Briscoe.png" width="280" alt="Jay Briscoe"></td>
+        <td>
+        <b>Height:</b> 185cm<br>
+        <b>Weight:</b> 105kg<br>
+        <b>Finisher:</b> Jay Driller<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,10 +32,10 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 95%
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 95%
-- 2023-10-09: Ludwig Kaiser vs. Jay Briscoe in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 74%
+- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
+- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
+- 2023-10-09: Ludwig Kaiser vs. Jay Briscoe in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 74%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

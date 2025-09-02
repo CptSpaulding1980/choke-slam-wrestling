@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/stan-hansen/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.156+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/stan-hansen/","title":"Stan Hansen","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Stan Hansen
 
 <table>
-<tr>
-<td><img src="Stan Hansen.png" width="280" alt="Stan Hansen"></td>
-<td>
-<b>Height:</b> 192cm<br>
-<b>Weight:</b> 146kg<br>
-<b>Finisher:</b> Western Lariat<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Stan_Hansen.png" width="280" alt="Stan Hansen"></td>
+        <td>
+        <b>Height:</b> 192cm<br>
+        <b>Weight:</b> 146kg<br>
+        <b>Finisher:</b> Western Lariat<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

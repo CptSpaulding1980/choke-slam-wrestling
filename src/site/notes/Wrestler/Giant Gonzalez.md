@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/giant-gonzalez/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.831+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/giant-gonzalez/","title":"Giant Gonzalez","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Giant Gonzalez
 
 <table>
-<tr>
-<td><img src="Giant Gonzalez.png" width="280" alt="Giant Gonzalez"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Giant_Gonzalez.png" width="280" alt="Giant Gonzalez"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,10 +37,10 @@
 - [[Wrestler/Kevin Nash\|Kevin Nash]] (3x)
 
 ## Top Matches
-- 2022-01-26: Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 85%
-- 2022-01-26: Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 78%
-- 2022-01-26: Streetball: Saint Rebel Radicalz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 70%
+- 2022-01-26: Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 85%
+- 2022-01-26: Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 78%
+- 2022-01-26: Streetball: Saint Rebel Radicalz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 70%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

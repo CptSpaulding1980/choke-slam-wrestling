@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/becky-lynch/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.722+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/becky-lynch/","title":"Becky Lynch","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Becky Lynch
 
 <table>
-<tr>
-<td><img src="Becky Lynch.png" width="280" alt="Becky Lynch"></td>
-<td>
-<b>Height:</b> 167cm<br>
-<b>Weight:</b> 62kg<br>
-<b>Finisher:</b> Dis-arm-her<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Becky_Lynch.png" width="280" alt="Becky Lynch"></td>
+        <td>
+        <b>Height:</b> 167cm<br>
+        <b>Weight:</b> 62kg<br>
+        <b>Finisher:</b> Dis-arm-her<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,12 +38,12 @@
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)
 
 ## Top Matches
-- 2022-07-24: Militanter Mummenschanz vs. Becky Lynch, Angélico, Chris Hero, & Shawn Michaels in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 93%
-- 2022-07-24: Royal Rumble Match in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 92%
-- 2022-07-24: Militanter Mummenschanz vs. Becky Lynch, Chris Hero, & Angélico in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 91%
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 88%
-- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 88%
+- 2022-07-24: Militanter Mummenschanz vs. Becky Lynch, Angélico, Chris Hero, & Shawn Michaels in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 93%
+- 2022-07-24: Royal Rumble Match in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 92%
+- 2022-07-24: Militanter Mummenschanz vs. Becky Lynch, Chris Hero, & Angélico in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 91%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
+- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 88%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

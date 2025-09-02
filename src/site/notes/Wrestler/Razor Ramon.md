@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/razor-ramon/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.591+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/razor-ramon/","title":"Razor Ramon","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Razor Ramon
 
 <table>
-<tr>
-<td><img src="Razor Ramon.png" width="280" alt="Razor Ramon"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Razor_Ramon.png" width="280" alt="Razor Ramon"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,10 +37,10 @@
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (1x)
 
 ## Top Matches
-- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - ChokeSlamMania V (S05E12)\|2024-01-29 - ChokeSlamMania V (S05E12)]] — 91%
-- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 88%
-- 2023-12-15: Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 85%
+- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 91%
+- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 88%
+- 2023-12-15: Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 85%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

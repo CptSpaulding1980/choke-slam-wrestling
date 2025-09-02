@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/pimpinel-escarlata/","tags":["wrestler"],"noteIcon":"","created":"2025-08-22T00:46:45.407+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/pimpinel-escarlata/","title":"Pimpinel Escarlata","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Pimpinel Escarlata
 
 <table>
-<tr>
-<td><img src="Pimpinel Escarlata.png" width="280" alt="Pimpinel Escarlata"></td>
-<td>
-<b>Height:</b> 175cm<br>
-<b>Weight:</b> 87kg<br>
-<b>Finisher:</b> Missile Kick<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pimpinel_Escarlata.png" width="280" alt="Pimpinel Escarlata"></td>
+        <td>
+        <b>Height:</b> 175cm<br>
+        <b>Weight:</b> 87kg<br>
+        <b>Finisher:</b> Missile Kick<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-08-21: Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 85%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

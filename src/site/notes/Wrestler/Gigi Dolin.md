@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/gigi-dolin/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.845+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/gigi-dolin/","title":"Gigi Dolin","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Gigi Dolin
 
 <table>
-<tr>
-<td><img src="Gigi Dolin.png" width="280" alt="Gigi Dolin"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Gigi_Dolin.png" width="280" alt="Gigi Dolin"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Grayson Waller\|Grayson Waller]] (1x)
 
 ## Top Matches
-- 2023-03-29: Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano in [[Events/2023-03-29 - Europa (S05E03)\|2023-03-29 - Europa (S05E03)]] — 104%
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 100%
-- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 100%
-- 2023-08-22: Cibernetico in [[Events/2023-08-22 - Dia de los Muertos (S05E08)\|2023-08-22 - Dia de los Muertos (S05E08)]] — 100%
-- 2022-12-16: Gigi Dolin vs. Randy Savage vs. Grayson Waller in [[Events/2022-12-16 - King of the Ring (S05E01)\|2022-12-16 - King of the Ring (S05E01)]] — 99%
+- 2023-03-29: Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 104%
+- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
+- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
+- 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
+- 2022-12-16: Gigi Dolin vs. Randy Savage vs. Grayson Waller in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 99%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

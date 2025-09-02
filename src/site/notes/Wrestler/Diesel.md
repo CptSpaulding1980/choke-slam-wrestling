@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/diesel/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.356+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/diesel/","title":"Diesel","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Diesel
 
 <table>
-<tr>
-<td><img src="Diesel.png" width="280" alt="Diesel"></td>
-<td>
-<b>Height:</b> 210cm<br>
-<b>Weight:</b> 135kg<br>
-<b>Finisher:</b> Jacknife Powerbomb<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Diesel.png" width="280" alt="Diesel"></td>
+        <td>
+        <b>Height:</b> 210cm<br>
+        <b>Weight:</b> 135kg<br>
+        <b>Finisher:</b> Jacknife Powerbomb<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Angélico\|Angélico]] (2x)
 
 ## Top Matches
-- 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 99%
-- 2020-06-08: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 98%
-- 2020-09-07: Tournament Finals - Inaugural Choke Slam International Championship in [[Events/2020-09-07 - ChokeSlamMania II\|2020-09-07 - ChokeSlamMania II]] — 98%
-- 2022-07-24: Militanter Mummenschanz vs. Diesel & Shawn Michaels in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 98%
-- 2023-12-15: Diesel vs. Hulk Hogan in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 96%
+- 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
+- 2020-06-08: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 98%
+- 2020-09-07: Tournament Finals - Inaugural Choke Slam International Championship in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — 98%
+- 2022-07-24: Militanter Mummenschanz vs. Diesel & Shawn Michaels in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 98%
+- 2023-12-15: Diesel vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 96%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

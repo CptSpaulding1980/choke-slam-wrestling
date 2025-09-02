@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/blue-demon-jr/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.831+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/blue-demon-jr/","title":"Blue Demon Jr.","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Blue Demon Jr.
 
 <table>
-<tr>
-<td><img src="Blue Demon Jr..png" width="280" alt="Blue Demon Jr."></td>
-<td>
-<b>Height:</b> 176cm<br>
-<b>Weight:</b> 94kg<br>
-<b>Finisher:</b> Demon Armlock<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Blue_Demon_Jr..png" width="280" alt="Blue Demon Jr."></td>
+        <td>
+        <b>Height:</b> 176cm<br>
+        <b>Weight:</b> 94kg<br>
+        <b>Finisher:</b> Demon Armlock<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 100%
+- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/no-way-jose/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.375+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/no-way-jose/","title":"No Way Jose","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # No Way Jose
 
 <table>
-<tr>
-<td><img src="No Way Jose.png" width="280" alt="No Way Jose"></td>
-<td>
-<b>Height:</b> 190cm<br>
-<b>Weight:</b> 111kg<br>
-<b>Finisher:</b> Fastball Punch<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/No_Way_Jose.png" width="280" alt="No Way Jose"></td>
+        <td>
+        <b>Height:</b> 190cm<br>
+        <b>Weight:</b> 111kg<br>
+        <b>Finisher:</b> Fastball Punch<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

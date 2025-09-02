@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/ec-3/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.530+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/ec-3/","title":"EC3","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # EC3
 
 <table>
-<tr>
-<td><img src="EC3.png" width="280" alt="EC3"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/EC3.png" width="280" alt="EC3"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (2x)
 
 ## Top Matches
-- 2022-10-02: Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 99%
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 95%
-- 2022-11-17: EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 94%
-- 2022-01-26: EC3 vs. Cousin Butch in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 93%
-- 2022-07-24: Militanter Mummenschanz vs. Becky Lynch, Angélico, Chris Hero, & Shawn Michaels in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 93%
+- 2022-10-02: Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
+- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
+- 2022-11-17: EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 94%
+- 2022-01-26: EC3 vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 93%
+- 2022-07-24: Militanter Mummenschanz vs. Becky Lynch, Angélico, Chris Hero, & Shawn Michaels in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 93%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

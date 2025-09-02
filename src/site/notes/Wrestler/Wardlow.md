@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/wardlow/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.806+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/wardlow/","title":"Wardlow","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Wardlow
 
 <table>
-<tr>
-<td><img src="Wardlow.png" width="280" alt="Wardlow"></td>
-<td>
-<b>Height:</b> 191cm<br>
-<b>Weight:</b> 121kg<br>
-<b>Finisher:</b> Powerbomb<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wardlow.png" width="280" alt="Wardlow"></td>
+        <td>
+        <b>Height:</b> 191cm<br>
+        <b>Weight:</b> 121kg<br>
+        <b>Finisher:</b> Powerbomb<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -53,5 +53,5 @@
 - 2025-08-21: Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (Edgicho) (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 98%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

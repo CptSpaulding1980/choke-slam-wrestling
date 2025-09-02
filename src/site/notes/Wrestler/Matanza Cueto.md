@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/matanza-cueto/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.111+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/matanza-cueto/","title":"Matanza Cueto","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Matanza Cueto
 
 <table>
-<tr>
-<td><img src="Matanza Cueto.png" width="280" alt="Matanza Cueto"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Matanza_Cueto.png" width="280" alt="Matanza Cueto"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 100%
+- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

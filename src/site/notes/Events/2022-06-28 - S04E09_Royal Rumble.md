@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2022-06-28-s04-e09-royal-rumble/","title":"S04E09_Royal Rumble","noteIcon":"","created":"2025-09-01T21:42:44.984+02:00"}
+{"dg-publish":true,"permalink":"/events/2022-06-28-s04-e09-royal-rumble/","title":"S04E09_Royal Rumble","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S04E09_Royal Rumble**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S04E09_Royal Rumble**
 
 **Date:** 2022-06-28
 

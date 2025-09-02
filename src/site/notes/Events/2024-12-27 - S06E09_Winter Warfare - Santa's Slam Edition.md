@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2024-12-27-s06-e09-winter-warfare-santa-s-slam-edition/","title":"S06E09_Winter Warfare - Santa's Slam Edition","noteIcon":"","created":"2025-08-11T09:30:58.731+02:00"}
+{"dg-publish":true,"permalink":"/events/2024-12-27-s06-e09-winter-warfare-santa-s-slam-edition/","title":"S06E09_Winter Warfare - Santa's Slam Edition","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E09_Winter Warfare - Santa's Slam Edition**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E09_Winter Warfare - Santa's Slam Edition**
 
 **Date:** 2024-12-27
 

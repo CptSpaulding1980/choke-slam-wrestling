@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2023-12-15-s05-e11-tournament-nonstop-action/","title":"S05E11_Tournament Nonstop Action","noteIcon":"","created":"2025-09-01T21:42:43.593+02:00"}
+{"dg-publish":true,"permalink":"/events/2023-12-15-s05-e11-tournament-nonstop-action/","title":"S05E11_Tournament Nonstop Action","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E11_Tournament Nonstop Action**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E11_Tournament Nonstop Action**
 
 **Date:** 2023-12-15
 

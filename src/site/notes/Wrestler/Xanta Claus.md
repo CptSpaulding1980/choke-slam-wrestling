@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/xanta-claus/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.851+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/xanta-claus/","title":"Xanta Claus","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Xanta Claus
 
 <table>
-<tr>
-<td><img src="Xanta Claus.png" width="280" alt="Xanta Claus"></td>
-<td>
-<b>Height:</b> 187cm<br>
-<b>Weight:</b> 114kg<br>
-<b>Finisher:</b> Camel Clutch<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Xanta_Claus.png" width="280" alt="Xanta Claus"></td>
+        <td>
+        <b>Height:</b> 187cm<br>
+        <b>Weight:</b> 114kg<br>
+        <b>Finisher:</b> Camel Clutch<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2024-12-27: KUSHIDA vs. Xanta Claus in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 76%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

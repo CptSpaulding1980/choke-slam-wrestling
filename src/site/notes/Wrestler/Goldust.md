@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/goldust/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.892+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/goldust/","title":"Goldust","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Goldust
 
 <table>
-<tr>
-<td><img src="Goldust.png" width="280" alt="Goldust"></td>
-<td>
-<b>Height:</b> 197cm<br>
-<b>Weight:</b> 106kg<br>
-<b>Finisher:</b> Final Cut<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Goldust.png" width="280" alt="Goldust"></td>
+        <td>
+        <b>Height:</b> 197cm<br>
+        <b>Weight:</b> 106kg<br>
+        <b>Finisher:</b> Final Cut<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2025-08-12: 1/8 Finals: Orange Cassidy vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 78%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

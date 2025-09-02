@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/roman-reigns/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.838+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/roman-reigns/","title":"Roman Reigns","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Roman Reigns
 
 <table>
-<tr>
-<td><img src="Roman Reigns.png" width="280" alt="Roman Reigns"></td>
-<td>
-<b>Height:</b> 190cm<br>
-<b>Weight:</b> 121kg<br>
-<b>Finisher:</b> Spear<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Roman_Reigns.png" width="280" alt="Roman Reigns"></td>
+        <td>
+        <b>Height:</b> 190cm<br>
+        <b>Weight:</b> 121kg<br>
+        <b>Finisher:</b> Spear<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -46,12 +46,12 @@
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
 
 ## Top Matches
-- 2024-02-15: Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 105%
-- 2024-02-15: Roman Reigns vs. Dusty Rhodes in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 104%
-- 2024-01-29: Choke Slam World Championship Match: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - ChokeSlamMania V (S05E12)\|2024-01-29 - ChokeSlamMania V (S05E12)]] — 102%
+- 2024-02-15: Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 105%
+- 2024-02-15: Roman Reigns vs. Dusty Rhodes in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 104%
+- 2024-01-29: Choke Slam World Championship Match: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 102%
 - 2025-08-12: 1/8 Finals: Kevin Steen vs. Roman Reigns in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 102%
 - 2025-08-21: Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 102%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

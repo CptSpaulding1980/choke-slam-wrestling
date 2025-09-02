@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/tatum-paxley/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.247+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/tatum-paxley/","title":"Tatum Paxley","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Tatum Paxley
 
 <table>
-<tr>
-<td><img src="Tatum Paxley.png" width="280" alt="Tatum Paxley"></td>
-<td>
-<b>Height:</b> 169cm<br>
-<b>Weight:</b> 63kg<br>
-<b>Finisher:</b> Rolling Senton<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tatum_Paxley.png" width="280" alt="Tatum Paxley"></td>
+        <td>
+        <b>Height:</b> 169cm<br>
+        <b>Weight:</b> 63kg<br>
+        <b>Finisher:</b> Rolling Senton<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -41,11 +41,11 @@
 
 ## Top Matches
 - 2024-12-27: Finn Bálor vs. Tatum Paxley vs. Triple H in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 97%
-- 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 94%
+- 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
 - 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 89%
-- 2025-01-16: Sweet 'n Sour Elite vs. Bob Backlund, Kazuchika Okada, & Rey Fenix in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 88%
-- 2024-10-22: Banana Rumble in [[Events/2024-10-22 - Turbo Turnier (S06E07)\|2024-10-22 - Turbo Turnier (S06E07)]] — 87%
+- 2025-01-16: Sweet 'n Sour Elite vs. Bob Backlund, Kazuchika Okada, & Rey Fénix in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 88%
+- 2024-10-22: Banana Rumble in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 87%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

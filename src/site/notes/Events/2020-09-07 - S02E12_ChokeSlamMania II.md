@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2020-09-07-s02-e12-choke-slam-mania-ii/","title":"S02E12_ChokeSlamMania II","noteIcon":"","created":"2025-09-01T21:42:46.518+02:00"}
+{"dg-publish":true,"permalink":"/events/2020-09-07-s02-e12-choke-slam-mania-ii/","title":"S02E12_ChokeSlamMania II","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S02E12_ChokeSlamMania II**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S02E12_ChokeSlamMania II**
 
 **Date:** 2020-09-07
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2021-05-10-s03-e09-usa-day-2-don-t-stop-the-count/","title":"S03E09_USA - Day 2 - Don't stop the Count","noteIcon":"","created":"2025-09-01T21:42:44.846+02:00"}
+{"dg-publish":true,"permalink":"/events/2021-05-10-s03-e09-usa-day-2-don-t-stop-the-count/","title":"S03E09_USA - Day 2 - Don't stop the Count","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E09_USA - Day 2 - Don't stop the Count**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E09_USA - Day 2 - Don't stop the Count**
 
 **Date:** 2021-05-10
 

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/sonjay-dutt/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.139+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/sonjay-dutt/","title":"Sonjay Dutt","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Sonjay Dutt
 
 <table>
-<tr>
-<td><img src="Sonjay Dutt.png" width="280" alt="Sonjay Dutt"></td>
-<td>
-<b>Height:</b> 172cm<br>
-<b>Weight:</b> 88kg<br>
-<b>Finisher:</b> Nonuse<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sonjay_Dutt.png" width="280" alt="Sonjay Dutt"></td>
+        <td>
+        <b>Height:</b> 172cm<br>
+        <b>Weight:</b> 88kg<br>
+        <b>Finisher:</b> Nonuse<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 95%
+- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

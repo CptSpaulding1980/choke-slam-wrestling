@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/beer-city-bruiser/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.731+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/beer-city-bruiser/","title":"Beer City Bruiser","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Beer City Bruiser
 
 <table>
-<tr>
-<td><img src="Beer City Bruiser.png" width="280" alt="Beer City Bruiser"></td>
-<td>
-<b>Height:</b> 185cm<br>
-<b>Weight:</b> 100kg<br>
-<b>Finisher:</b> Choke Slam<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Beer_City_Bruiser.png" width="280" alt="Beer City Bruiser"></td>
+        <td>
+        <b>Height:</b> 185cm<br>
+        <b>Weight:</b> 100kg<br>
+        <b>Finisher:</b> Choke Slam<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,10 +39,10 @@
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
 
 ## Top Matches
-- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - What if... Japan (S05E07)\|2023-07-30 - What if... Japan (S05E07)]] — 94%
-- 2023-07-30: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - What if... Japan (S05E07)\|2023-07-30 - What if... Japan (S05E07)]] — 81%
-- 2023-07-30: Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - What if... Japan (S05E07)\|2023-07-30 - What if... Japan (S05E07)]] — 80%
+- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
+- 2023-07-30: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 81%
+- 2023-07-30: Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 80%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

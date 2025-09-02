@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/max-caster/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.137+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/max-caster/","title":"Max Caster","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Max Caster
 
 <table>
-<tr>
-<td><img src="Max Caster.png" width="280" alt="Max Caster"></td>
-<td>
-<b>Height:</b> 189cm<br>
-<b>Weight:</b> 102kg<br>
-<b>Finisher:</b> Mic Drop<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Max_Caster.png" width="280" alt="Max Caster"></td>
+        <td>
+        <b>Height:</b> 189cm<br>
+        <b>Weight:</b> 102kg<br>
+        <b>Finisher:</b> Mic Drop<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,10 +36,10 @@
 - [[Wrestler/Anthony Bowens\|Anthony Bowens]] (3x)
 
 ## Top Matches
-- 2022-10-02: Militanter Mummenschanz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 89%
-- 2022-10-02: Sweet 'n Sour Elite vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 86%
-- 2022-10-02: Saint Rebel Radicalz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 76%
+- 2022-10-02: Militanter Mummenschanz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 89%
+- 2022-10-02: Sweet 'n Sour Elite vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 86%
+- 2022-10-02: Saint Rebel Radicalz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 76%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

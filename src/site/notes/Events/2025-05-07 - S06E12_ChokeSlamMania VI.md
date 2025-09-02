@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2025-05-07-s06-e12-choke-slam-mania-vi/","title":"S06E12_ChokeSlamMania VI","noteIcon":"","created":"2025-09-01T21:42:44.906+02:00"}
+{"dg-publish":true,"permalink":"/events/2025-05-07-s06-e12-choke-slam-mania-vi/","title":"S06E12_ChokeSlamMania VI","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E12_ChokeSlamMania VI**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E12_ChokeSlamMania VI**
 
 **Date:** 2025-05-07
 

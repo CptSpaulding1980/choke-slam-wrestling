@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/sara-del-rey/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.936+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/sara-del-rey/","title":"Sara Del Rey","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Sara Del Rey
 
 <table>
-<tr>
-<td><img src="Sara Del Rey.png" width="280" alt="Sara Del Rey"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sara_Del_Rey.png" width="280" alt="Sara Del Rey"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,12 +39,12 @@
 - [[Wrestler/Hammerstone\|Hammerstone]] (1x)
 
 ## Top Matches
-- 2020-06-08: Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 98%
-- 2020-06-08: Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 95%
-- 2024-10-22: Joe Coffey vs. Hammerstone vs. Sara Del Rey in [[Events/2024-10-22 - Turbo Turnier (S06E07)\|2024-10-22 - Turbo Turnier (S06E07)]] — 95%
-- 2024-10-22: Saint Rebel Radicalz vs. Path of God in [[Events/2024-10-22 - Turbo Turnier (S06E07)\|2024-10-22 - Turbo Turnier (S06E07)]] — 94%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 91%
+- 2020-06-08: Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 98%
+- 2020-06-08: Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 95%
+- 2024-10-22: Joe Coffey vs. Hammerstone vs. Sara Del Rey in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 95%
+- 2024-10-22: Saint Rebel Radicalz vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 94%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

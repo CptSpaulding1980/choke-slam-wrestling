@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/el-gigante/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.604+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/el-gigante/","title":"El Gigante","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # El Gigante
 
 <table>
-<tr>
-<td><img src="El Gigante.png" width="280" alt="El Gigante"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/El_Gigante.png" width="280" alt="El Gigante"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,11 +37,11 @@
 - [[Wrestler/Disco Inferno\|Disco Inferno]] (3x)
 
 ## Top Matches
-- 2024-03-07: Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 85%
-- 2024-03-07: Path of God vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 78%
-- 2024-03-07: Sweet 'n Sour Elite vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 76%
-- 2024-03-07: Saint Rebel Radicalz vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 58%
+- 2024-03-07: Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 85%
+- 2024-03-07: Path of God vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 78%
+- 2024-03-07: Sweet 'n Sour Elite vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 76%
+- 2024-03-07: Saint Rebel Radicalz vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 58%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

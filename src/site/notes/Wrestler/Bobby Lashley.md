@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/bobby-lashley/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.862+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/bobby-lashley/","title":"Bobby Lashley","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Bobby Lashley
 
 <table>
-<tr>
-<td><img src="Bobby Lashley.png" width="280" alt="Bobby Lashley"></td>
-<td>
-<b>Height:</b> 187cm<br>
-<b>Weight:</b> 122kg<br>
-<b>Finisher:</b> Spear<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bobby_Lashley.png" width="280" alt="Bobby Lashley"></td>
+        <td>
+        <b>Height:</b> 187cm<br>
+        <b>Weight:</b> 122kg<br>
+        <b>Finisher:</b> Spear<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/mil-muertes/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.243+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/mil-muertes/","title":"Mil Muertes","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Mil Muertes
 
 <table>
-<tr>
-<td><img src="Mil Muertes.png" width="280" alt="Mil Muertes"></td>
-<td>
-<b>Height:</b> 186cm<br>
-<b>Weight:</b> 112kg<br>
-<b>Finisher:</b> Flatliner<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mil_Muertes.png" width="280" alt="Mil Muertes"></td>
+        <td>
+        <b>Height:</b> 186cm<br>
+        <b>Weight:</b> 112kg<br>
+        <b>Finisher:</b> Flatliner<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +32,9 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 100%
-- 2023-02-22: Mens Royal Rumble in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 88%
+- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
+- 2023-02-22: Mens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

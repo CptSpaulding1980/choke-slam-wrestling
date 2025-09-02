@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/oz/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.441+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/oz/","title":"Oz","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Oz
 
 <table>
-<tr>
-<td><img src="Oz.png" width="280" alt="Oz"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Oz.png" width="280" alt="Oz"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2024-03-07: The Undertaker vs. Oz in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 77%
+- 2024-03-07: The Undertaker vs. Oz in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 77%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

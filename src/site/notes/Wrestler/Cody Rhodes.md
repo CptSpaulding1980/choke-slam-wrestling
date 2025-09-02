@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/cody-rhodes/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.191+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/cody-rhodes/","title":"Cody Rhodes","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Cody Rhodes
 
 <table>
-<tr>
-<td><img src="Cody Rhodes.png" width="280" alt="Cody Rhodes"></td>
-<td>
-<b>Height:</b> 186cm<br>
-<b>Weight:</b> 100kg<br>
-<b>Finisher:</b> Cross Rhodes<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cody_Rhodes.png" width="280" alt="Cody Rhodes"></td>
+        <td>
+        <b>Height:</b> 186cm<br>
+        <b>Weight:</b> 100kg<br>
+        <b>Finisher:</b> Cross Rhodes<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +32,9 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2023-10-09: Jon Moxley vs. Cody Rhodes in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 77%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2023-10-09: Jon Moxley vs. Cody Rhodes in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 77%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

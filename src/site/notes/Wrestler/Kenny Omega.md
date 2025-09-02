@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kenny-omega/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.650+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/kenny-omega/","title":"Kenny Omega","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Kenny Omega
 
 <table>
-<tr>
-<td><img src="Kenny Omega.png" width="280" alt="Kenny Omega"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kenny_Omega.png" width="280" alt="Kenny Omega"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -46,11 +46,11 @@
 
 ## Top Matches
 - 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
-- 2023-02-22: Kenny Omega vs. Big Van Vader in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 100%
-- 2023-04-03: Kenny Omega vs. Zack Sabre Jr. in [[Events/2023-04-03 - Europa (S05E03) - Day 3\|2023-04-03 - Europa (S05E03) - Day 3]] — 100%
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 100%
-- 2023-06-26: Barb Wire: Terry Funk vs. Kenny Omega in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 100%
+- 2023-02-22: Kenny Omega vs. Big Van Vader in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 100%
+- 2023-04-03: Kenny Omega vs. Zack Sabre Jr. in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 100%
+- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
+- 2023-06-26: Barb Wire: Terry Funk vs. Kenny Omega in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

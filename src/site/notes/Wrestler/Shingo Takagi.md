@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/shingo-takagi/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.070+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/shingo-takagi/","title":"Shingo Takagi","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Shingo Takagi
 
 <table>
-<tr>
-<td><img src="Shingo Takagi.png" width="280" alt="Shingo Takagi"></td>
-<td>
-<b>Height:</b> 178cm<br>
-<b>Weight:</b> 96kg<br>
-<b>Finisher:</b> Last of the Dragon<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shingo_Takagi.png" width="280" alt="Shingo Takagi"></td>
+        <td>
+        <b>Height:</b> 178cm<br>
+        <b>Weight:</b> 96kg<br>
+        <b>Finisher:</b> Last of the Dragon<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -42,10 +42,10 @@
 ## Top Matches
 - 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
 - 2021-04-10: Kazuchika Okada vs. Shingo Takagi in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
-- 2024-03-07: Shingo Takagi vs. R-Truth vs. The Shockmaster vs. Max Moon in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 100%
-- 2024-02-15: Shingo Takagi vs. The Undertaker in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 94%
-- 2024-02-15: Rumble in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 93%
+- 2024-03-07: Shingo Takagi vs. R-Truth vs. The Shockmaster vs. Max Moon in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 100%
+- 2024-02-15: Shingo Takagi vs. The Undertaker in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 94%
+- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/lucky-kid/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.923+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/lucky-kid/","title":"Lucky Kid","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Lucky Kid
 
 <table>
-<tr>
-<td><img src="Lucky Kid.png" width="280" alt="Lucky Kid"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lucky_Kid.png" width="280" alt="Lucky Kid"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,11 +37,11 @@
 - [[Wrestler/Rush\|Rush]] (1x)
 
 ## Top Matches
-- 2021-09-06: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2021-09-06 - Money in the Bank (Season 4)\|2021-09-06 - Money in the Bank (Season 4)]] — 97%
-- 2021-08-23: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-08-23 - 90's\|2021-08-23 - 90's]] — 94%
-- 2021-08-23: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-08-23 - 90's\|2021-08-23 - 90's]] — 94%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 91%
+- 2021-09-06: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 97%
+- 2021-08-23: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 94%
+- 2021-08-23: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 94%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

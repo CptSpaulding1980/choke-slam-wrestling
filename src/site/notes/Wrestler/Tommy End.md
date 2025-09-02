@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/tommy-end/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.602+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/tommy-end/","title":"Tommy End","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Tommy End
 
 <table>
-<tr>
-<td><img src="Tommy End.png" width="280" alt="Tommy End"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tommy_End.png" width="280" alt="Tommy End"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Diesel\|Diesel]] (1x)
 
 ## Top Matches
-- 2023-12-15: Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 99%
-- 2023-03-29: Carat First Round: Randy Savage vs. Tommy End in [[Events/2023-03-29 - Europa (S05E03)\|2023-03-29 - Europa (S05E03)]] — 98%
-- 2023-12-15: Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 93%
-- 2022-07-24: Royal Rumble Match in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 92%
-- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Tommy End vs. Rush vs. Bret Hart vs. Miro in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 92%
+- 2023-12-15: Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 99%
+- 2023-03-29: Carat First Round: Randy Savage vs. Tommy End in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 98%
+- 2023-12-15: Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 93%
+- 2022-07-24: Royal Rumble Match in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 92%
+- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Tommy End vs. Rush vs. Bret Hart vs. Miro in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 92%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

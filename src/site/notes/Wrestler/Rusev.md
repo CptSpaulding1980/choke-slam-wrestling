@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/rusev/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.862+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/rusev/","title":"Rusev","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Rusev
 
 <table>
-<tr>
-<td><img src="Rusev.png" width="280" alt="Rusev"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rusev.png" width="280" alt="Rusev"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
 
 ## Top Matches
-- 2021-06-30: Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 105%
+- 2021-06-30: Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 105%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

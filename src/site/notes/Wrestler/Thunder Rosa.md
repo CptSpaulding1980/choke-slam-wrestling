@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/thunder-rosa/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.522+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/thunder-rosa/","title":"Thunder Rosa","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Thunder Rosa
 
 <table>
-<tr>
-<td><img src="Thunder Rosa.png" width="280" alt="Thunder Rosa"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Thunder_Rosa.png" width="280" alt="Thunder Rosa"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,12 +39,12 @@
 - [[Wrestler/Paul Orndorff\|Paul Orndorff]] (2x)
 
 ## Top Matches
-- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 100%
-- 2020-12-28: Sweet 'n Sour Elite vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - Battle of Britain - Night 1\|2020-12-28 - Battle of Britain - Night 1]] — 98%
-- 2020-10-13: Thunder Rosa vs. Timothy Thatcher in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 97%
-- 2020-10-26: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - World Tag League Semi Finals \|2020-10-26 - World Tag League Semi Finals ]] — 96%
-- 2020-12-29: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 95%
+- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
+- 2020-12-28: Sweet 'n Sour Elite vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 98%
+- 2020-10-13: Thunder Rosa vs. Timothy Thatcher in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 97%
+- 2020-10-26: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League Semi Finals \|2020-10-26 - S03E02_World Tag League Semi Finals ]] — 96%
+- 2020-12-29: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 95%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

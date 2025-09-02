@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/iron-mike-tyson/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.146+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/iron-mike-tyson/","title":"Iron Mike Tyson","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Iron Mike Tyson
 
 <table>
-<tr>
-<td><img src="Iron Mike Tyson.png" width="280" alt="Iron Mike Tyson"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Iron_Mike_Tyson.png" width="280" alt="Iron Mike Tyson"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,9 +35,9 @@
 - [[Wrestler/Triple H\|Triple H]] (2x)
 
 ## Top Matches
-- 2022-11-17: EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 94%
-- 2022-11-17: Triple H & Iron Mike Tyson vs. Shawn Michaels & Logan Paul in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 89%
+- 2022-11-17: EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 94%
+- 2022-11-17: Triple H & Iron Mike Tyson vs. Shawn Michaels & Logan Paul in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 89%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

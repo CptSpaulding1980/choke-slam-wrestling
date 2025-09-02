@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/nikolai-volkoff/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.367+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/nikolai-volkoff/","title":"Nikolai Volkoff","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Nikolai Volkoff
 
 <table>
-<tr>
-<td><img src="Nikolai Volkoff.png" width="280" alt="Nikolai Volkoff"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Nikolai_Volkoff.png" width="280" alt="Nikolai Volkoff"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@
 - [[Wrestler/Orange Cassidy\|Orange Cassidy]] (1x)
 
 ## Top Matches
-- 2021-06-30: Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 97%
+- 2021-06-30: Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 97%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

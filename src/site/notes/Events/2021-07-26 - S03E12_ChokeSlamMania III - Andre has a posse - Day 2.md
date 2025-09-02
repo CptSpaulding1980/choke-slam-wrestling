@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2021-07-26-s03-e12-choke-slam-mania-iii-andre-has-a-posse-day-2/","title":"S03E12_ChokeSlamMania III - Andre has a posse - Day 2","noteIcon":"","created":"2025-09-01T21:42:45.492+02:00"}
+{"dg-publish":true,"permalink":"/events/2021-07-26-s03-e12-choke-slam-mania-iii-andre-has-a-posse-day-2/","title":"S03E12_ChokeSlamMania III - Andre has a posse - Day 2","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E12_ChokeSlamMania III - Andre has a posse - Day 2**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E12_ChokeSlamMania III - Andre has a posse - Day 2**
 
 **Date:** 2021-07-26
 

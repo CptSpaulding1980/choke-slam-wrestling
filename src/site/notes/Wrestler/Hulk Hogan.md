@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/hulk-hogan/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.105+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/hulk-hogan/","title":"Hulk Hogan","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Hulk Hogan
 
 <table>
-<tr>
-<td><img src="Hulk Hogan.png" width="280" alt="Hulk Hogan"></td>
-<td>
-<b>Height:</b> 201cm<br>
-<b>Weight:</b> 137kg<br>
-<b>Finisher:</b> Atomic Leg Drop<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hulk_Hogan.png" width="280" alt="Hulk Hogan"></td>
+        <td>
+        <b>Height:</b> 201cm<br>
+        <b>Weight:</b> 137kg<br>
+        <b>Finisher:</b> Atomic Leg Drop<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -48,12 +48,12 @@
 - [[Wrestler/Grayson Waller\|Grayson Waller]] (3x)
 
 ## Top Matches
-- 2021-06-30: Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 105%
-- 2021-06-30: Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 104%
-- 2024-01-29: Choke Slam World Championship Match: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - ChokeSlamMania V (S05E12)\|2024-01-29 - ChokeSlamMania V (S05E12)]] — 102%
-- 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 101%
-- 2021-04-29: Hulk Hogan vs. Jim Duggan in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 100%
+- 2021-06-30: Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 105%
+- 2021-06-30: Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 104%
+- 2024-01-29: Choke Slam World Championship Match: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 102%
+- 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 101%
+- 2021-04-29: Hulk Hogan vs. Jim Duggan in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

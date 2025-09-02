@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/rush/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.870+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/rush/","title":"Rush","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Rush
 
 <table>
-<tr>
-<td><img src="Rush.png" width="280" alt="Rush"></td>
-<td>
-<b>Height:</b> 185cm<br>
-<b>Weight:</b> 102kg<br>
-<b>Finisher:</b> Rush Driver<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rush.png" width="280" alt="Rush"></td>
+        <td>
+        <b>Height:</b> 185cm<br>
+        <b>Weight:</b> 102kg<br>
+        <b>Finisher:</b> Rush Driver<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Triple H\|Triple H]] (2x)
 
 ## Top Matches
-- 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - Extreme\|2022-02-09 - Extreme]] — 101%
-- 2023-12-15: Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 99%
-- 2021-09-06: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2021-09-06 - Money in the Bank (Season 4)\|2021-09-06 - Money in the Bank (Season 4)]] — 97%
-- 2022-10-02: Apple Gauntlet 2 in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 97%
-- 2022-02-09: Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - Extreme\|2022-02-09 - Extreme]] — 96%
+- 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 101%
+- 2023-12-15: Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 99%
+- 2021-09-06: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 97%
+- 2022-10-02: Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
+- 2022-02-09: Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 96%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

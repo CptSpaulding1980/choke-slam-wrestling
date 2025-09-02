@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/bayley/","tags":["wrestler"],"noteIcon":"","created":"2025-08-12T22:07:37.808+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/bayley/","title":"Bayley","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Bayley
 
 <table>
-<tr>
-<td><img src="Bayley.png" width="280" alt="Bayley"></td>
-<td>
-<b>Height:</b> 167cm<br>
-<b>Weight:</b> 54kg<br>
-<b>Finisher:</b> Rose Plant<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bayley.png" width="280" alt="Bayley"></td>
+        <td>
+        <b>Height:</b> 167cm<br>
+        <b>Weight:</b> 54kg<br>
+        <b>Finisher:</b> Rose Plant<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-08-12: Womens Quarter Finals: Bayley vs. Awesome Kong in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 69%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

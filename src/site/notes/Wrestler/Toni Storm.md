@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/toni-storm/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.613+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/toni-storm/","title":"Toni Storm","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Toni Storm
 
 <table>
-<tr>
-<td><img src="Toni Storm.png" width="280" alt="Toni Storm"></td>
-<td>
-<b>Height:</b> 165cm<br>
-<b>Weight:</b> 65kg<br>
-<b>Finisher:</b> Strong Zero<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Toni_Storm.png" width="280" alt="Toni Storm"></td>
+        <td>
+        <b>Height:</b> 165cm<br>
+        <b>Weight:</b> 65kg<br>
+        <b>Finisher:</b> Strong Zero<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,11 +38,11 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2023-03-29: Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) in [[Events/2023-03-29 - Europa (S05E03)\|2023-03-29 - Europa (S05E03)]] — 90%
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 88%
-- 2023-04-19: Choke Slam Womens Championship: Alexa Bliss vs. Toni Storm (c) in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 71%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2023-03-29: Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 90%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
+- 2023-04-19: Choke Slam Womens Championship: Alexa Bliss vs. Toni Storm (c) in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 71%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

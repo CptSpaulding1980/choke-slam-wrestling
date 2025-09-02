@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/scott-steiner/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.973+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/scott-steiner/","title":"Scott Steiner","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Scott Steiner
 
 <table>
-<tr>
-<td><img src="Scott Steiner.png" width="280" alt="Scott Steiner"></td>
-<td>
-<b>Height:</b> 186cm<br>
-<b>Weight:</b> 125kg<br>
-<b>Finisher:</b> Steiner Screw Driver<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Scott_Steiner.png" width="280" alt="Scott Steiner"></td>
+        <td>
+        <b>Height:</b> 186cm<br>
+        <b>Weight:</b> 125kg<br>
+        <b>Finisher:</b> Steiner Screw Driver<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,11 +39,11 @@
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
 
 ## Top Matches
-- 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 101%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2023-05-30: Battle Bowl in [[Events/2023-05-30 - WCSW (S05E05)\|2023-05-30 - WCSW (S05E05)]] — 77%
-- 2023-05-30: Randy Savage & Scott Steiner vs. Scott Hall & Tully Blanchard in [[Events/2023-05-30 - WCSW (S05E05)\|2023-05-30 - WCSW (S05E05)]] — 60%
+- 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 101%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2023-05-30: Battle Bowl in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 77%
+- 2023-05-30: Randy Savage & Scott Steiner vs. Scott Hall & Tully Blanchard in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 60%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

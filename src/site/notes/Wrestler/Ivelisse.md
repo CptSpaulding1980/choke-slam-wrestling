@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/ivelisse/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.186+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/ivelisse/","title":"Ivelisse","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Ivelisse
 
 <table>
-<tr>
-<td><img src="Ivelisse.png" width="280" alt="Ivelisse"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ivelisse.png" width="280" alt="Ivelisse"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Shelton Benjamin\|Shelton Benjamin]] (2x)
 
 ## Top Matches
-- 2021-06-15: Submission: Awesome Kong vs. Ivelisse vs. Randy Savage in [[Events/2021-06-15 - Sûper Canada!\|2021-06-15 - Sûper Canada!]] — 101%
-- 2021-04-15: Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - BYOC Fiesta Mexicana\|2021-04-15 - BYOC Fiesta Mexicana]] — 95%
-- 2021-02-25: Sweet 'n Sour Elite vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - Swiss Bliss\|2021-02-25 - Swiss Bliss]] — 92%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 91%
-- 2021-04-15: Johnny Mundo vs. Texano Jr. vs. Hulk Hogan vs. Rey Escorpión vs. Tetsuya Naito vs. Christian vs. Taya Valkyrie vs. Brutus Beefcake in [[Events/2021-04-15 - BYOC Fiesta Mexicana\|2021-04-15 - BYOC Fiesta Mexicana]] — 90%
+- 2021-06-15: Submission: Awesome Kong vs. Ivelisse vs. Randy Savage in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 101%
+- 2021-04-15: Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 95%
+- 2021-02-25: Sweet 'n Sour Elite vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — 92%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
+- 2021-04-15: Johnny Mundo vs. Texano Jr. vs. Hulk Hogan vs. Rey Escorpión vs. Tetsuya Naito vs. Christian vs. Taya Valkyrie vs. Brutus Beefcake in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 90%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

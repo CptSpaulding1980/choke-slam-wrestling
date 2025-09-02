@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/booker-t/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.871+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/booker-t/","title":"Booker T","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Booker T
 
 <table>
-<tr>
-<td><img src="Booker T.png" width="280" alt="Booker T"></td>
-<td>
-<b>Height:</b> 191cm<br>
-<b>Weight:</b> 116kg<br>
-<b>Finisher:</b> Jumping Axe Kick<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Booker_T.png" width="280" alt="Booker T"></td>
+        <td>
+        <b>Height:</b> 191cm<br>
+        <b>Weight:</b> 116kg<br>
+        <b>Finisher:</b> Jumping Axe Kick<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Ric Flair\|Ric Flair]] (1x)
 
 ## Top Matches
-- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 99%
-- 2022-10-02: Madison Rayne, Rush, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 96%
-- 2023-05-30: Jonathan Gresham & Miro vs. Booker T & Kevin Nash in [[Events/2023-05-30 - WCSW (S05E05)\|2023-05-30 - WCSW (S05E05)]] — 92%
-- 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 77%
-- 2020-06-29: Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 76%
+- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
+- 2022-10-02: Madison Rayne, Rush, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 96%
+- 2023-05-30: Jonathan Gresham & Miro vs. Booker T & Kevin Nash in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 92%
+- 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 77%
+- 2020-06-29: Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 76%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

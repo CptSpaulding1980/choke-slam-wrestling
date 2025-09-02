@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/john-cena/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.436+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/john-cena/","title":"John Cena","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # John Cena
 
 <table>
-<tr>
-<td><img src="John Cena.png" width="280" alt="John Cena"></td>
-<td>
-<b>Height:</b> 185cm<br>
-<b>Weight:</b> 114kg<br>
-<b>Finisher:</b> Attitude Adjustment<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/John_Cena.png" width="280" alt="John Cena"></td>
+        <td>
+        <b>Height:</b> 185cm<br>
+        <b>Weight:</b> 114kg<br>
+        <b>Finisher:</b> Attitude Adjustment<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Noam Dar\|Noam Dar]] (1x)
 
 ## Top Matches
-- 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 99%
+- 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
 - 2024-12-27: Kiana James vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 99%
-- 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - Batze (S05E10)\|2023-11-03 - Batze (S05E10)]] — 94%
-- 2023-11-03: Guardians of the Galaxy 1 in [[Events/2023-11-03 - Batze (S05E10)\|2023-11-03 - Batze (S05E10)]] — 92%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — 94%
+- 2023-11-03: Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — 92%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

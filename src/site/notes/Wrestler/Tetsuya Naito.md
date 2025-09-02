@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/tetsuya-naito/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.319+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/tetsuya-naito/","title":"Tetsuya Naito","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Tetsuya Naito
 
 <table>
-<tr>
-<td><img src="Tetsuya Naito.png" width="280" alt="Tetsuya Naito"></td>
-<td>
-<b>Height:</b> 180cm<br>
-<b>Weight:</b> 102kg<br>
-<b>Finisher:</b> Destino<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tetsuya_Naito.png" width="280" alt="Tetsuya Naito"></td>
+        <td>
+        <b>Height:</b> 180cm<br>
+        <b>Weight:</b> 102kg<br>
+        <b>Finisher:</b> Destino<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -46,12 +46,12 @@
 - [[Wrestler/Ivelisse\|Ivelisse]] (3x)
 
 ## Top Matches
-- 2020-10-13: Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 105%
-- 2021-05-18: Choke Slam World Championship: Johnny Mundo vs. Kazuchika Okada vs. Tetsuya Naito (c) in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 101%
-- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 100%
-- 2021-01-21: Iron Man: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-01-21 - Clash of Colosseum\|2021-01-21 - Clash of Colosseum]] — 100%
-- 2021-01-21: Iron Man: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2021-01-21 - Clash of Colosseum\|2021-01-21 - Clash of Colosseum]] — 100%
+- 2020-10-13: Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 105%
+- 2021-05-18: Choke Slam World Championship: Johnny Mundo vs. Kazuchika Okada vs. Tetsuya Naito (c) in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 101%
+- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
+- 2021-01-21: Iron Man: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 100%
+- 2021-01-21: Iron Man: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

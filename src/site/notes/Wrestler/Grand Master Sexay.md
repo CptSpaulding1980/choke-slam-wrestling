@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/grand-master-sexay/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.907+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/grand-master-sexay/","title":"Grand Master Sexay","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Grand Master Sexay
 
 <table>
-<tr>
-<td><img src="Grand Master Sexay.png" width="280" alt="Grand Master Sexay"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Grand_Master_Sexay.png" width="280" alt="Grand Master Sexay"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,10 +37,10 @@
 - [[Wrestler/Scotty 2 Hotty\|Scotty 2 Hotty]] (3x)
 
 ## Top Matches
-- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 99%
-- 2022-10-02: Madison Rayne, Rush, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 96%
-- 2022-10-02: Killer Kelly, Ric Flair, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 71%
+- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
+- 2022-10-02: Madison Rayne, Rush, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 96%
+- 2022-10-02: Killer Kelly, Ric Flair, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 71%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

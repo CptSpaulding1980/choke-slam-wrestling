@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/trent-seven/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.641+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/trent-seven/","title":"Trent Seven","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Trent Seven
 
 <table>
-<tr>
-<td><img src="Trent Seven.png" width="280" alt="Trent Seven"></td>
-<td>
-<b>Height:</b> 181cm<br>
-<b>Weight:</b> 98kg<br>
-<b>Finisher:</b> Seven Stars Lariet<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Trent_Seven.png" width="280" alt="Trent Seven"></td>
+        <td>
+        <b>Height:</b> 181cm<br>
+        <b>Weight:</b> 98kg<br>
+        <b>Finisher:</b> Seven Stars Lariet<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Chyna\|Chyna]] (1x)
 
 ## Top Matches
-- 2020-12-29: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 95%
-- 2020-12-29: Saint Rebel Radicalz vs. Pete Dunne, Trent Seven, & Tyler Bate in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 89%
-- 2024-03-07: Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 85%
-- 2024-03-07: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 77%
-- 2020-12-29: Militanter Mummenschanz vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 72%
+- 2020-12-29: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 95%
+- 2020-12-29: Saint Rebel Radicalz vs. Pete Dunne, Trent Seven, & Tyler Bate in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 89%
+- 2024-03-07: Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 85%
+- 2024-03-07: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 77%
+- 2020-12-29: Militanter Mummenschanz vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 72%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

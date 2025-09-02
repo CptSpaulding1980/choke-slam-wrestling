@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/walter/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.765+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/walter/","title":"WALTER","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # WALTER
 
 <table>
-<tr>
-<td><img src="WALTER.png" width="280" alt="WALTER"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/WALTER.png" width="280" alt="WALTER"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -46,12 +46,12 @@
 - [[Wrestler/Sting\|Sting]] (1x)
 
 ## Top Matches
-- 2022-01-26: Saint Rebel Radicalz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 100%
-- 2022-11-17: Hardcore Title Tournament Finals - Hardcore Championship: WALTER vs. Lance Storm (c) in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 100%
-- 2023-02-22: Choke Slam Hardcore Championship: Miro vs. Ludwig Kaiser vs. Hulk Hogan vs. WALTER in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 99%
-- 2022-01-26: Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 98%
-- 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 98%
+- 2022-01-26: Saint Rebel Radicalz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 100%
+- 2022-11-17: Hardcore Title Tournament Finals - Hardcore Championship: WALTER vs. Lance Storm (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 100%
+- 2023-02-22: Choke Slam Hardcore Championship: Miro vs. Ludwig Kaiser vs. Hulk Hogan vs. WALTER in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 99%
+- 2022-01-26: Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 98%
+- 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 98%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

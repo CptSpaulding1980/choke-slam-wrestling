@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kiana-james/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.711+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/kiana-james/","title":"Kiana James","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Kiana James
 
 <table>
-<tr>
-<td><img src="Kiana James.png" width="280" alt="Kiana James"></td>
-<td>
-<b>Height:</b> 179cm<br>
-<b>Weight:</b> 70kg<br>
-<b>Finisher:</b> Running Swinging Complete Shot<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kiana_James.png" width="280" alt="Kiana James"></td>
+        <td>
+        <b>Height:</b> 179cm<br>
+        <b>Weight:</b> 70kg<br>
+        <b>Finisher:</b> Running Swinging Complete Shot<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (3x)
 
 ## Top Matches
-- 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 103%
-- 2024-05-27: Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H in [[Events/2024-05-27 - Die beste Show der Welt (S06E04)\|2024-05-27 - Die beste Show der Welt (S06E04)]] — 100%
-- 2024-07-19: North East Division: Kiana James vs. Tama Tonga in [[Events/2024-07-19 - Super Bowl of Wrestling (S06E05)\|2024-07-19 - Super Bowl of Wrestling (S06E05)]] — 99%
-- 2024-10-22: Saint Rebel Radicalz vs. Finn Bálor & The Undertaker in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 99%
+- 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 103%
+- 2024-05-27: Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 100%
+- 2024-07-19: North East Division: Kiana James vs. Tama Tonga in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 99%
+- 2024-10-22: Saint Rebel Radicalz vs. Finn Bálor & The Undertaker in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 99%
 - 2024-12-27: Kiana James vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 99%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

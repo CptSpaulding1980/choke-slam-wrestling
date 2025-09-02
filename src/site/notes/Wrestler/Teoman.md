@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/teoman/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.299+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/teoman/","title":"Teoman","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Teoman
 
 <table>
-<tr>
-<td><img src="Teoman.png" width="280" alt="Teoman"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Teoman.png" width="280" alt="Teoman"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +32,9 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 95%
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 95%
+- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
+- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

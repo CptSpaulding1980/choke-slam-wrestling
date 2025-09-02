@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/paul-orndorff/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.482+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/paul-orndorff/","title":"Paul Orndorff","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Paul Orndorff
 
 <table>
-<tr>
-<td><img src="Paul Orndorff.png" width="280" alt="Paul Orndorff"></td>
-<td>
-<b>Height:</b> 185cm<br>
-<b>Weight:</b> 115kg<br>
-<b>Finisher:</b> Piledriver<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Paul_Orndorff.png" width="280" alt="Paul Orndorff"></td>
+        <td>
+        <b>Height:</b> 185cm<br>
+        <b>Weight:</b> 115kg<br>
+        <b>Finisher:</b> Piledriver<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,12 +39,12 @@
 - [[Wrestler/Britt Baker\|Britt Baker]] (1x)
 
 ## Top Matches
-- 2020-10-13: Britt Baker vs. Kazuchika Okada vs. Paul Orndorff in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 95%
-- 2020-10-13: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 94%
-- 2021-01-21: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-01-21 - Ireland\|2021-01-21 - Ireland]] — 91%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 89%
+- 2020-10-13: Britt Baker vs. Kazuchika Okada vs. Paul Orndorff in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 95%
+- 2020-10-13: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 94%
+- 2021-01-21: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 91%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 89%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

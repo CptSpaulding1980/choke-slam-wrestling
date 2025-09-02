@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2024-04-10-s06-e03-digital-domination-unleash-the-choke-slam-fury/","title":"S06E03_Digital Domination: Unleash the Choke Slam Fury!","noteIcon":"","created":"2025-09-01T21:42:44.753+02:00"}
+{"dg-publish":true,"permalink":"/events/2024-04-10-s06-e03-digital-domination-unleash-the-choke-slam-fury/","title":"S06E03_Digital Domination: Unleash the Choke Slam Fury!","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E03_Digital Domination: Unleash the Choke Slam Fury!**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E03_Digital Domination: Unleash the Choke Slam Fury!**
 
 **Date:** 2024-04-10
 

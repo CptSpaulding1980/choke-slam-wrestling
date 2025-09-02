@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2021-05-18-s03-e10-saudi-arabia-blood-and-the-biggest-greatest-most-awesome-most-fantastic-royal-rumble-ever/","title":"S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!","noteIcon":"","created":"2025-09-01T21:42:44.858+02:00"}
+{"dg-publish":true,"permalink":"/events/2021-05-18-s03-e10-saudi-arabia-blood-and-the-biggest-greatest-most-awesome-most-fantastic-royal-rumble-ever/","title":"S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!**
 
 **Date:** 2021-05-18
 

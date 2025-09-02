@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2020-10-13-s03-e01-choke-slam-carat-gold/","title":"S03E01_Choke Slam Carat Gold","noteIcon":"","created":"2025-09-01T21:42:43.419+02:00"}
+{"dg-publish":true,"permalink":"/events/2020-10-13-s03-e01-choke-slam-carat-gold/","title":"S03E01_Choke Slam Carat Gold","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E01_Choke Slam Carat Gold**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E01_Choke Slam Carat Gold**
 
 **Date:** 2020-10-13
 

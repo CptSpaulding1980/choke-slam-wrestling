@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/aero-star/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.464+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/aero-star/","title":"Aero Star","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Aero Star
 
 <table>
-<tr>
-<td><img src="Aero Star.png" width="280" alt="Aero Star"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Aero_Star.png" width="280" alt="Aero Star"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,8 +35,8 @@
 - [[Wrestler/Rey Fénix\|Rey Fénix]] (1x)
 
 ## Top Matches
-- 2023-04-19: Trios League Final: Aero Star, Drago & Rey Fénix vs. Militanter Mummenschanz in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 96%
+- 2023-04-19: Trios League Final: Aero Star, Drago & Rey Fénix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 96%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

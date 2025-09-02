@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/yokozuna/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.869+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/yokozuna/","title":"Yokozuna","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Yokozuna
 
 <table>
-<tr>
-<td><img src="Yokozuna.png" width="280" alt="Yokozuna"></td>
-<td>
-<b>Height:</b> 193cm<br>
-<b>Weight:</b> 250kg<br>
-<b>Finisher:</b> BANZAI DROP<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Yokozuna.png" width="280" alt="Yokozuna"></td>
+        <td>
+        <b>Height:</b> 193cm<br>
+        <b>Weight:</b> 250kg<br>
+        <b>Finisher:</b> BANZAI DROP<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2020-06-08: Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 95%
+- 2020-06-08: Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 95%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

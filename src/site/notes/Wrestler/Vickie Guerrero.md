@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/vickie-guerrero/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.723+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/vickie-guerrero/","title":"Vickie Guerrero","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Vickie Guerrero
 
 <table>
-<tr>
-<td><img src="Vickie Guerrero.png" width="280" alt="Vickie Guerrero"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Vickie_Guerrero.png" width="280" alt="Vickie Guerrero"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,11 +34,11 @@
 - [[Wrestler/Teddy Long\|Teddy Long]] (3x)
 
 ## Top Matches
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 88%
-- 2022-11-17: Killer Kelly vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 80%
-- 2022-11-17: Madison Rayne vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 79%
-- 2022-11-17: Aoife Valkyrie vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 79%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
+- 2022-11-17: Killer Kelly vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 80%
+- 2022-11-17: Madison Rayne vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 79%
+- 2022-11-17: Aoife Valkyrie vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 79%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

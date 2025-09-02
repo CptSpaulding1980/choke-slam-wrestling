@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/mustafa-ali/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.316+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/mustafa-ali/","title":"Mustafa Ali","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Mustafa Ali
 
 <table>
-<tr>
-<td><img src="Mustafa Ali.png" width="280" alt="Mustafa Ali"></td>
-<td>
-<b>Height:</b> 178cm<br>
-<b>Weight:</b> 82kg<br>
-<b>Finisher:</b> Imploding 450<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mustafa_Ali.png" width="280" alt="Mustafa Ali"></td>
+        <td>
+        <b>Height:</b> 178cm<br>
+        <b>Weight:</b> 82kg<br>
+        <b>Finisher:</b> Imploding 450<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,10 +36,10 @@
 - [[Wrestler/Mansoor\|Mansoor]] (3x)
 
 ## Top Matches
-- 2021-10-17: Mansoor & Mustafa Ali vs. Saint Rebel Radicalz in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 97%
-- 2021-10-17: Mansoor & Mustafa Ali vs. Militanter Mummenschanz in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 90%
-- 2021-10-17: Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 84%
+- 2021-10-17: Mansoor & Mustafa Ali vs. Saint Rebel Radicalz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 97%
+- 2021-10-17: Mansoor & Mustafa Ali vs. Militanter Mummenschanz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 90%
+- 2021-10-17: Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 84%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/giant-haystacks/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.838+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/giant-haystacks/","title":"Giant Haystacks","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Giant Haystacks
 
 <table>
-<tr>
-<td><img src="Giant Haystacks.png" width="280" alt="Giant Haystacks"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Giant_Haystacks.png" width="280" alt="Giant Haystacks"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2020-12-29: Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 86%
+- 2020-12-29: Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 86%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

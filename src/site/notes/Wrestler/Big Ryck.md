@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/big-ryck/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.798+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/big-ryck/","title":"Big Ryck","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Big Ryck
 
 <table>
-<tr>
-<td><img src="Big Ryck.png" width="280" alt="Big Ryck"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Ryck.png" width="280" alt="Big Ryck"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
 
 ## Top Matches
-- 2023-12-15: Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 98%
-- 2020-06-08: Saint Rebel Radicalz vs. Randy Orton & Mansoor in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 93%
-- 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 92%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 91%
+- 2023-12-15: Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 98%
+- 2020-06-08: Saint Rebel Radicalz vs. Randy Orton & Mansoor in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 93%
+- 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 92%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
 - 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 89%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

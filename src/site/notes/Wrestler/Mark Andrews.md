@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/mark-andrews/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.017+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/mark-andrews/","title":"Mark Andrews","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Mark Andrews
 
 <table>
-<tr>
-<td><img src="Mark Andrews.png" width="280" alt="Mark Andrews"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mark_Andrews.png" width="280" alt="Mark Andrews"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,10 +36,10 @@
 - [[Wrestler/Flash Morgan Webster\|Flash Morgan Webster]] (3x)
 
 ## Top Matches
-- 2020-12-29: Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 94%
-- 2020-12-29: Saint Rebel Radicalz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 94%
-- 2020-12-29: Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 80%
+- 2020-12-29: Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 94%
+- 2020-12-29: Saint Rebel Radicalz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 94%
+- 2020-12-29: Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 80%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

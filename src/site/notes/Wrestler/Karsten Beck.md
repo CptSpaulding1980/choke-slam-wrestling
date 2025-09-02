@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/karsten-beck/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.582+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/karsten-beck/","title":"Karsten Beck","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Karsten Beck
 
 <table>
-<tr>
-<td><img src="Karsten Beck.png" width="280" alt="Karsten Beck"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Karsten_Beck.png" width="280" alt="Karsten Beck"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-04-03: Interview Segment in [[Events/2023-04-03 - Europa (S05E03) - Day 3\|2023-04-03 - Europa (S05E03) - Day 3]] — 65%
+- 2023-04-03: Interview Segment in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 65%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

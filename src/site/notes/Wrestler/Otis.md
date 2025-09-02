@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/otis/","tags":["wrestler"],"noteIcon":"","created":"2025-08-22T00:46:42.961+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/otis/","title":"Otis","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Otis
 
 <table>
-<tr>
-<td><img src="Otis.png" width="280" alt="Otis"></td>
-<td>
-<b>Height:</b> 179cm<br>
-<b>Weight:</b> 150kg<br>
-<b>Finisher:</b> Vader Bomb<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Otis.png" width="280" alt="Otis"></td>
+        <td>
+        <b>Height:</b> 179cm<br>
+        <b>Weight:</b> 150kg<br>
+        <b>Finisher:</b> Vader Bomb<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-08-21: Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 85%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

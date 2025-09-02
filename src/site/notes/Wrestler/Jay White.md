@@ -7,7 +7,7 @@
 
 <table>
         <tr>
-        <td><img src="/img/user/z_Images/Jay_White.png" width="280" alt="Jay White"></td>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jay_White.png" width="280" alt="Jay White"></td>
         <td>
         <b>Height:</b> 186cm<br>
         <b>Weight:</b> 100kg<br>
@@ -50,21 +50,6 @@
 - 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
 - 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
 - 2023-10-09: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
-
-
-## Promos
-
-- Promo 12.08.2025:
-
-<audio controls>
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/2025-08-12_Promo_Jay_White_1.mp3" type="audio/mpeg">
-</audio>
-
-- Promo 30.08.2025:
-
-<audio controls>
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/2025-08-30_Promo_Jay_White_2.mp3" type="audio/mpeg">
-</audio>
 
 ## Links
 - [[Events\|Events]]

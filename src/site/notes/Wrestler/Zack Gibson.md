@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/zack-gibson/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.884+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/zack-gibson/","title":"Zack Gibson","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Zack Gibson
 
 <table>
-<tr>
-<td><img src="Zack Gibson.png" width="280" alt="Zack Gibson"></td>
-<td>
-<b>Height:</b> 191cm<br>
-<b>Weight:</b> 100kg<br>
-<b>Finisher:</b> Shankly Gates<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Zack_Gibson.png" width="280" alt="Zack Gibson"></td>
+        <td>
+        <b>Height:</b> 191cm<br>
+        <b>Weight:</b> 100kg<br>
+        <b>Finisher:</b> Shankly Gates<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2020-12-29: Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 86%
+- 2020-12-29: Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 86%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

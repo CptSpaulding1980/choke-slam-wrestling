@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/miro/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.260+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/miro/","title":"Miro","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Miro
 
 <table>
-<tr>
-<td><img src="Miro.png" width="280" alt="Miro"></td>
-<td>
-<b>Height:</b> 183cm<br>
-<b>Weight:</b> 138kg<br>
-<b>Finisher:</b> The Accolade<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Miro.png" width="280" alt="Miro"></td>
+        <td>
+        <b>Height:</b> 183cm<br>
+        <b>Weight:</b> 138kg<br>
+        <b>Finisher:</b> The Accolade<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/AJ Styles\|AJ Styles]] (6x)
 
 ## Top Matches
-- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 103%
-- 2023-02-22: Grayson Waller vs. Jonathan Gresham vs. Miro in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 102%
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 100%
-- 2023-02-22: Choke Slam Hardcore Championship: Miro vs. Ludwig Kaiser vs. Hulk Hogan vs. WALTER in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 99%
-- 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 99%
+- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 103%
+- 2023-02-22: Grayson Waller vs. Jonathan Gresham vs. Miro in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 102%
+- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
+- 2023-02-22: Choke Slam Hardcore Championship: Miro vs. Ludwig Kaiser vs. Hulk Hogan vs. WALTER in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 99%
+- 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

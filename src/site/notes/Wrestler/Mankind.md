@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/mankind/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.973+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/mankind/","title":"Mankind","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Mankind
 
 <table>
-<tr>
-<td><img src="Mankind.png" width="280" alt="Mankind"></td>
-<td>
-<b>Height:</b> 188cm<br>
-<b>Weight:</b> 130kg<br>
-<b>Finisher:</b> Mandible Claw<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mankind.png" width="280" alt="Mankind"></td>
+        <td>
+        <b>Height:</b> 188cm<br>
+        <b>Weight:</b> 130kg<br>
+        <b>Finisher:</b> Mandible Claw<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2022-11-07: Me, Myself and I - Duo (Hendrik) in [[Events/2022-11-07 - ChokeSlamMania IV - Day One\|2022-11-07 - ChokeSlamMania IV - Day One]] — 79%
+- 2022-11-07: Me, Myself and I - Duo (Hendrik) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 79%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

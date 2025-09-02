@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/mark-coffey/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.037+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/mark-coffey/","title":"Mark Coffey","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Mark Coffey
 
 <table>
-<tr>
-<td><img src="Mark Coffey.png" width="280" alt="Mark Coffey"></td>
-<td>
-<b>Height:</b> 188cm<br>
-<b>Weight:</b> 108kg<br>
-<b>Finisher:</b> Crowning Glory<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mark_Coffey.png" width="280" alt="Mark Coffey"></td>
+        <td>
+        <b>Height:</b> 188cm<br>
+        <b>Weight:</b> 108kg<br>
+        <b>Finisher:</b> Crowning Glory<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,10 +37,10 @@
 - [[Wrestler/Wolfgang\|Wolfgang]] (3x)
 
 ## Top Matches
-- 2020-12-28: Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - Battle of Britain - Night 1\|2020-12-28 - Battle of Britain - Night 1]] — 96%
-- 2020-12-28: Saint Rebel Radicalz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - Battle of Britain - Night 1\|2020-12-28 - Battle of Britain - Night 1]] — 81%
-- 2020-12-28: Sweet 'n Sour Elite vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - Battle of Britain - Night 1\|2020-12-28 - Battle of Britain - Night 1]] — 74%
+- 2020-12-28: Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 96%
+- 2020-12-28: Saint Rebel Radicalz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 81%
+- 2020-12-28: Sweet 'n Sour Elite vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 74%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2025-08-12-s07-e02-king-and-queen-of-the-ring/","title":"S07E02_King & Queen of the Ring","noteIcon":"","created":"2025-08-12T21:06:31.089+02:00"}
+{"dg-publish":true,"permalink":"/events/2025-08-12-s07-e02-king-and-queen-of-the-ring/","title":"S07E02_King & Queen of the Ring","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E02_King & Queen of the Ring**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E02_King & Queen of the Ring**
 
 **Date:** 2025-08-12
 

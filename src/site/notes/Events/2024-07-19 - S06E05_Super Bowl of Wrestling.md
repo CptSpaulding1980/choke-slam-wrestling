@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2024-07-19-s06-e05-super-bowl-of-wrestling/","title":"S06E05_Super Bowl of Wrestling","noteIcon":"","created":"2025-09-01T21:42:45.458+02:00"}
+{"dg-publish":true,"permalink":"/events/2024-07-19-s06-e05-super-bowl-of-wrestling/","title":"S06E05_Super Bowl of Wrestling","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E05_Super Bowl of Wrestling**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E05_Super Bowl of Wrestling**
 
 **Date:** 2024-07-19
 

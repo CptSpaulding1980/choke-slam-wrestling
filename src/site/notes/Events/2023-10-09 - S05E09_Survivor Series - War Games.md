@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2023-10-09-s05-e09-survivor-series-war-games/","title":"S05E09_Survivor Series - War Games","noteIcon":"","created":"2025-09-01T21:42:43.537+02:00"}
+{"dg-publish":true,"permalink":"/events/2023-10-09-s05-e09-survivor-series-war-games/","title":"S05E09_Survivor Series - War Games","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E09_Survivor Series - War Games**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E09_Survivor Series - War Games**
 
 **Date:** 2023-10-09
 

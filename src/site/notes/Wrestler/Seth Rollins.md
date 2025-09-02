@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/seth-rollins/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.002+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/seth-rollins/","title":"Seth Rollins","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Seth Rollins
 
 <table>
-<tr>
-<td><img src="Seth Rollins.png" width="280" alt="Seth Rollins"></td>
-<td>
-<b>Height:</b> 185cm<br>
-<b>Weight:</b> 98kg<br>
-<b>Finisher:</b> Kingslayer<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Seth_Rollins.png" width="280" alt="Seth Rollins"></td>
+        <td>
+        <b>Height:</b> 185cm<br>
+        <b>Weight:</b> 98kg<br>
+        <b>Finisher:</b> Kingslayer<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Brandon\|Brandon]] (3x)
 
 ## Top Matches
-- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 103%
-- 2023-08-22: Cibernetico in [[Events/2023-08-22 - Dia de los Muertos (S05E08)\|2023-08-22 - Dia de los Muertos (S05E08)]] — 100%
-- 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 100%
-- 2023-10-09: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 99%
-- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Lita in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 99%
+- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 103%
+- 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
+- 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
+- 2023-10-09: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
+- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 99%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

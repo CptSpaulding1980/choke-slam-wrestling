@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/pete-dunne/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.513+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/pete-dunne/","title":"Pete Dunne","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Pete Dunne
 
 <table>
-<tr>
-<td><img src="Pete Dunne.png" width="280" alt="Pete Dunne"></td>
-<td>
-<b>Height:</b> 179cm<br>
-<b>Weight:</b> 93kg<br>
-<b>Finisher:</b> Bitter End<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pete_Dunne.png" width="280" alt="Pete Dunne"></td>
+        <td>
+        <b>Height:</b> 179cm<br>
+        <b>Weight:</b> 93kg<br>
+        <b>Finisher:</b> Bitter End<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,10 +37,10 @@
 - [[Wrestler/Tyler Bate\|Tyler Bate]] (3x)
 
 ## Top Matches
-- 2020-12-29: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 95%
-- 2020-12-29: Saint Rebel Radicalz vs. Pete Dunne, Trent Seven, & Tyler Bate in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 89%
-- 2020-12-29: Militanter Mummenschanz vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - Battle of Britain - Night 2\|2020-12-29 - Battle of Britain - Night 2]] — 72%
+- 2020-12-29: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 95%
+- 2020-12-29: Saint Rebel Radicalz vs. Pete Dunne, Trent Seven, & Tyler Bate in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 89%
+- 2020-12-29: Militanter Mummenschanz vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 72%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

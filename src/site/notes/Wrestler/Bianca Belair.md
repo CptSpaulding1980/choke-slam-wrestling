@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/bianca-belair/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.738+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/bianca-belair/","title":"Bianca Belair","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Bianca Belair
 
 <table>
-<tr>
-<td><img src="Bianca Belair.png" width="280" alt="Bianca Belair"></td>
-<td>
-<b>Height:</b> 169cm<br>
-<b>Weight:</b> 71kg<br>
-<b>Finisher:</b> K.O.D.<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bianca_Belair.png" width="280" alt="Bianca Belair"></td>
+        <td>
+        <b>Height:</b> 169cm<br>
+        <b>Weight:</b> 71kg<br>
+        <b>Finisher:</b> K.O.D.<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,8 +35,8 @@
 - [[Wrestler/Tiffany Stratton\|Tiffany Stratton]] (1x)
 
 ## Top Matches
-- 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 103%
+- 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 103%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

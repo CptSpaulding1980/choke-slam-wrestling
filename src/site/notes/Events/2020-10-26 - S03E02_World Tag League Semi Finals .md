@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2020-10-26-s03-e02-world-tag-league-semi-finals/","title":"S03E02_World Tag League Semi Finals ","noteIcon":"","created":"2025-09-01T21:42:43.530+02:00"}
+{"dg-publish":true,"permalink":"/events/2020-10-26-s03-e02-world-tag-league-semi-finals/","title":"S03E02_World Tag League Semi Finals ","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E02_World Tag League Semi Finals **
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E02_World Tag League Semi Finals **
 
 **Date:** 2020-10-26
 

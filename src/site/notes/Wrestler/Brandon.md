@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/brandon/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.880+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/brandon/","title":"Brandon","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Brandon
 
 <table>
-<tr>
-<td><img src="Brandon.png" width="280" alt="Brandon"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brandon.png" width="280" alt="Brandon"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -46,12 +46,12 @@
 - [[Wrestler/Kenny Omega\|Kenny Omega]] (3x)
 
 ## Top Matches
-- 2023-03-29: Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano in [[Events/2023-03-29 - Europa (S05E03)\|2023-03-29 - Europa (S05E03)]] — 104%
-- 2023-02-22: Brandon vs. Davey Boy Smith vs. Randy Savage in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 102%
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 100%
-- 2023-08-22: Cibernetico in [[Events/2023-08-22 - Dia de los Muertos (S05E08)\|2023-08-22 - Dia de los Muertos (S05E08)]] — 100%
-- 2023-02-22: Tag Team Title Battle Royal in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 98%
+- 2023-03-29: Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 104%
+- 2023-02-22: Brandon vs. Davey Boy Smith vs. Randy Savage in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 102%
+- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
+- 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
+- 2023-02-22: Tag Team Title Battle Royal in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 98%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

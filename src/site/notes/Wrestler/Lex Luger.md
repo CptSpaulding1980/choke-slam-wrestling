@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/lex-luger/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.868+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/lex-luger/","title":"Lex Luger","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Lex Luger
 
 <table>
-<tr>
-<td><img src="Lex Luger.png" width="280" alt="Lex Luger"></td>
-<td>
-<b>Height:</b> 197cm<br>
-<b>Weight:</b> 125kg<br>
-<b>Finisher:</b> Torture Rack<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lex_Luger.png" width="280" alt="Lex Luger"></td>
+        <td>
+        <b>Height:</b> 197cm<br>
+        <b>Weight:</b> 125kg<br>
+        <b>Finisher:</b> Torture Rack<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Stevie Ray\|Stevie Ray]] (1x)
 
 ## Top Matches
-- 2021-04-29: Militanter Mummenschanz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 100%
-- 2021-04-29: Saint Rebel Radicalz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 100%
+- 2021-04-29: Militanter Mummenschanz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
+- 2021-04-29: Saint Rebel Radicalz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 - 2025-08-12: Semi Finals: Kevin Steen vs. Lex Luger in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 97%
-- 2021-04-29: Militanter Mummenschanz vs. Jim Duggan, Kurt Angle, & Lex Luger in [[Events/2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - USA - Day 1 - Cool, Cooler, Icecold]] — 95%
+- 2021-04-29: Militanter Mummenschanz vs. Jim Duggan, Kurt Angle, & Lex Luger in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 95%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/christopher-daniels/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.166+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/christopher-daniels/","title":"Christopher Daniels","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Christopher Daniels
 
 <table>
-<tr>
-<td><img src="Christopher Daniels.png" width="280" alt="Christopher Daniels"></td>
-<td>
-<b>Height:</b> 181cm<br>
-<b>Weight:</b> 84kg<br>
-<b>Finisher:</b> Angel Wings<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Christopher_Daniels.png" width="280" alt="Christopher Daniels"></td>
+        <td>
+        <b>Height:</b> 181cm<br>
+        <b>Weight:</b> 84kg<br>
+        <b>Finisher:</b> Angel Wings<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,11 +34,11 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2021-07-26: Dan Koloff HC Tournament: Tetsuya Naito vs. Christopher Daniels (w/Jim Cornette) in [[Events/2021-07-26 - Andre has a posse - Part II\|2021-07-26 - Andre has a posse - Part II]] — 98%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 89%
-- 2021-06-30: Dan Koloff HC Tournament: Ivelisse vs. Christopher Daniels vs. Randy Savage in [[Events/2021-06-30 - Andre has a posse\|2021-06-30 - Andre has a posse]] — 77%
+- 2021-07-26: Dan Koloff HC Tournament: Tetsuya Naito vs. Christopher Daniels (w/Jim Cornette) in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] — 98%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 89%
+- 2021-06-30: Dan Koloff HC Tournament: Ivelisse vs. Christopher Daniels vs. Randy Savage in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 77%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

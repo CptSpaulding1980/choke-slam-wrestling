@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/barry-windham/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.700+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/barry-windham/","title":"Barry Windham","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Barry Windham
 
 <table>
-<tr>
-<td><img src="Barry Windham.png" width="280" alt="Barry Windham"></td>
-<td>
-<b>Height:</b> 193cm<br>
-<b>Weight:</b> 100kg<br>
-<b>Finisher:</b> Flying Lariat<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Barry_Windham.png" width="280" alt="Barry Windham"></td>
+        <td>
+        <b>Height:</b> 193cm<br>
+        <b>Weight:</b> 100kg<br>
+        <b>Finisher:</b> Flying Lariat<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,10 +39,10 @@
 - [[Wrestler/Tully Blanchard\|Tully Blanchard]] (1x)
 
 ## Top Matches
-- 2020-10-26: Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 100%
-- 2020-10-26: Barry Windham & Gail Kim vs. Saint Rebel Radicalz in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 99%
-- 2023-10-09: War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 73%
+- 2020-10-26: Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
+- 2020-10-26: Barry Windham & Gail Kim vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 99%
+- 2023-10-09: War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 73%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

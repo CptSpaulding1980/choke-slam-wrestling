@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/pentagon-jr/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.497+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/pentagon-jr/","title":"Pentagón Jr.","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Pentagón Jr.
 
 <table>
-<tr>
-<td><img src="Pentagón Jr..png" width="280" alt="Pentagón Jr."></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pentagón_Jr..png" width="280" alt="Pentagón Jr."></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 92%
+- 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 92%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

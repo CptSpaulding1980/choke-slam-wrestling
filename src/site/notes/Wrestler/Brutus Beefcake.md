@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/brutus-beefcake/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.977+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/brutus-beefcake/","title":"Brutus Beefcake","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Brutus Beefcake
 
 <table>
-<tr>
-<td><img src="Brutus Beefcake.png" width="280" alt="Brutus Beefcake"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brutus_Beefcake.png" width="280" alt="Brutus Beefcake"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Ric Flair\|Ric Flair]] (1x)
 
 ## Top Matches
-- 2021-06-15: Pre Show: Brutus Beefcake vs. Jeff Cobb in [[Events/2021-06-15 - Sûper Canada!\|2021-06-15 - Sûper Canada!]] — 100%
-- 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 100%
-- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Lita in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 99%
-- 2021-05-18: Choke Slam Tag Team Championship: Kane vs. Awesome Kong vs. Bob Backlund vs. Rey Fénix vs. Christian Cage vs. Tetsuya Naito vs. Brutus Beefcake vs. The Blade in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 98%
-- 2021-05-10: Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fénix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - USA - Day 2 - Don't stop the Count\|2021-05-10 - USA - Day 2 - Don't stop the Count]] — 96%
+- 2021-06-15: Pre Show: Brutus Beefcake vs. Jeff Cobb in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 100%
+- 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
+- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 99%
+- 2021-05-18: Choke Slam Tag Team Championship: Kane vs. Awesome Kong vs. Bob Backlund vs. Rey Fénix vs. Christian Cage vs. Tetsuya Naito vs. Brutus Beefcake vs. The Blade in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 98%
+- 2021-05-10: Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fénix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] — 96%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

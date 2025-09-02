@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/gable-steveson/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.793+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/gable-steveson/","title":"Gable Steveson","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Gable Steveson
 
 <table>
-<tr>
-<td><img src="Gable Steveson.png" width="280" alt="Gable Steveson"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Gable_Steveson.png" width="280" alt="Gable Steveson"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,8 +35,8 @@
 - [[Wrestler/Rob Gronkowski\|Rob Gronkowski]] (1x)
 
 ## Top Matches
-- 2024-07-19: Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - Super Bowl of Wrestling (S06E05)\|2024-07-19 - Super Bowl of Wrestling (S06E05)]] — 80%
+- 2024-07-19: Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 80%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/icarus/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.123+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/icarus/","title":"Icárús","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Icárús
 
 <table>
-<tr>
-<td><img src="Icárús.png" width="280" alt="Icárús"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Icárús.png" width="280" alt="Icárús"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - Europa (S05E03) - Day 3\|2023-04-03 - Europa (S05E03) - Day 3]] — 96%
+- 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 96%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

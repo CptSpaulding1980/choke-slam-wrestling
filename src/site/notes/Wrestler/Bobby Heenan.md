@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/bobby-heenan/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.855+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/bobby-heenan/","title":"Bobby Heenan","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Bobby Heenan
 
 <table>
-<tr>
-<td><img src="Bobby Heenan.png" width="280" alt="Bobby Heenan"></td>
-<td>
-<b>Height:</b> 183cm<br>
-<b>Weight:</b> 87kg<br>
-<b>Finisher:</b> Low Blow<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bobby_Heenan.png" width="280" alt="Bobby Heenan"></td>
+        <td>
+        <b>Height:</b> 183cm<br>
+        <b>Weight:</b> 87kg<br>
+        <b>Finisher:</b> Low Blow<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,8 +33,8 @@
 - [[Wrestler/Damien Sandow\|Damien Sandow]] (1x)
 
 ## Top Matches
-- 2022-11-07: Tag Team Roulette - Sweet 'n Sour Elite vs. El Profesor (Bobby Heenan & Damien Sandow) in [[Events/2022-11-07 - ChokeSlamMania IV - Day One\|2022-11-07 - ChokeSlamMania IV - Day One]] — 75%
+- 2022-11-07: Tag Team Roulette - Sweet 'n Sour Elite vs. El Profesor (Bobby Heenan & Damien Sandow) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 75%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

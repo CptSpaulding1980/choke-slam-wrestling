@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jerry-lawler/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.308+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jerry-lawler/","title":"Jerry Lawler","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jerry Lawler
 
 <table>
-<tr>
-<td><img src="Jerry Lawler.png" width="280" alt="Jerry Lawler"></td>
-<td>
-<b>Height:</b> 184cm<br>
-<b>Weight:</b> 108kg<br>
-<b>Finisher:</b> Jumping Piledriver<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jerry_Lawler.png" width="280" alt="Jerry Lawler"></td>
+        <td>
+        <b>Height:</b> 184cm<br>
+        <b>Weight:</b> 108kg<br>
+        <b>Finisher:</b> Jumping Piledriver<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -43,12 +43,12 @@
 - [[Wrestler/Sheamus\|Sheamus]] (3x)
 
 ## Top Matches
-- 2020-06-10: Choke Slam World Championship: Randy Orton vs. Jerry Lawler (c) in [[Events/2020-06-10 - Dubai - After Show Cash In 2\|2020-06-10 - Dubai - After Show Cash In 2]] — 92%
-- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - ChokeSlamMania V (S05E12)\|2024-01-29 - ChokeSlamMania V (S05E12)]] — 91%
+- 2020-06-10: Choke Slam World Championship: Randy Orton vs. Jerry Lawler (c) in [[Events/2020-06-10 - S02E10_Dubai - After Show Cash In 2\|2020-06-10 - S02E10_Dubai - After Show Cash In 2]] — 92%
+- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 91%
 - 2025-08-12: 1/8 Finals: Jerry Lawler vs. Bam Bam Bigelow in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 91%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2020-06-09: Choke Slam World Championship: Randy Orton vs. Jerry Lawler (c) in [[Events/2020-06-09 - Dubai - After Show Cash In\|2020-06-09 - Dubai - After Show Cash In]] — 85%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2020-06-09: Choke Slam World Championship: Randy Orton vs. Jerry Lawler (c) in [[Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] — 85%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

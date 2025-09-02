@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/alexa-bliss/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.515+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/alexa-bliss/","title":"Alexa Bliss","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Alexa Bliss
 
 <table>
-<tr>
-<td><img src="Alexa Bliss.png" width="280" alt="Alexa Bliss"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Alexa_Bliss.png" width="280" alt="Alexa Bliss"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Bret Hart\|Bret Hart]] (2x)
 
 ## Top Matches
-- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 103%
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 100%
-- 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 100%
-- 2023-08-22: Cibernetico in [[Events/2023-08-22 - Dia de los Muertos (S05E08)\|2023-08-22 - Dia de los Muertos (S05E08)]] — 100%
-- 2023-06-26: Choke Slam Hardcore Championship: Alexa Bliss vs. Bret Hart vs. Hulk Hogan in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 99%
+- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 103%
+- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
+- 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
+- 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
+- 2023-06-26: Choke Slam Hardcore Championship: Alexa Bliss vs. Bret Hart vs. Hulk Hogan in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 99%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

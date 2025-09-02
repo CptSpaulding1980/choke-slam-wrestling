@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/timothy-thatcher/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.554+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/timothy-thatcher/","title":"Timothy Thatcher","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Timothy Thatcher
 
 <table>
-<tr>
-<td><img src="Timothy Thatcher.png" width="280" alt="Timothy Thatcher"></td>
-<td>
-<b>Height:</b> 191cm<br>
-<b>Weight:</b> 102kg<br>
-<b>Finisher:</b> Fujiwara Armbar<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Timothy_Thatcher.png" width="280" alt="Timothy Thatcher"></td>
+        <td>
+        <b>Height:</b> 191cm<br>
+        <b>Weight:</b> 102kg<br>
+        <b>Finisher:</b> Fujiwara Armbar<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,11 +34,11 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2020-10-13: Bob Backlund vs. Timothy Thatcher in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 100%
-- 2020-10-13: Thunder Rosa vs. Timothy Thatcher in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 97%
-- 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 92%
-- 2020-10-13: Killshot vs. Timothy Thatcher in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 81%
+- 2020-10-13: Bob Backlund vs. Timothy Thatcher in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 100%
+- 2020-10-13: Thunder Rosa vs. Timothy Thatcher in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 97%
+- 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 92%
+- 2020-10-13: Killshot vs. Timothy Thatcher in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 81%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/mark-davis/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.048+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/mark-davis/","title":"Mark Davis","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Mark Davis
 
 <table>
-<tr>
-<td><img src="Mark Davis.png" width="280" alt="Mark Davis"></td>
-<td>
-<b>Height:</b> 194cm<br>
-<b>Weight:</b> 114kg<br>
-<b>Finisher:</b> Nonuse<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mark_Davis.png" width="280" alt="Mark Davis"></td>
+        <td>
+        <b>Height:</b> 194cm<br>
+        <b>Weight:</b> 114kg<br>
+        <b>Finisher:</b> Nonuse<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -41,5 +41,5 @@
 - 2021-04-10: Mark Davis & Kyle Fletcher vs. Sweet 'n Sour Elite in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 78%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

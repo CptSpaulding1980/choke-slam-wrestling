@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/hiroyoshi-tenzan/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.056+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/hiroyoshi-tenzan/","title":"Hiroyoshi Tenzan","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Hiroyoshi Tenzan
 
 <table>
-<tr>
-<td><img src="Hiroyoshi Tenzan.png" width="280" alt="Hiroyoshi Tenzan"></td>
-<td>
-<b>Height:</b> 183cm<br>
-<b>Weight:</b> 115kg<br>
-<b>Finisher:</b> Anaconda vice<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hiroyoshi_Tenzan.png" width="280" alt="Hiroyoshi Tenzan"></td>
+        <td>
+        <b>Height:</b> 183cm<br>
+        <b>Weight:</b> 115kg<br>
+        <b>Finisher:</b> Anaconda vice<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

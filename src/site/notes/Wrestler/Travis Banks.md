@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/travis-banks/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.632+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/travis-banks/","title":"Travis Banks","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Travis Banks
 
 <table>
-<tr>
-<td><img src="Travis Banks.png" width="280" alt="Travis Banks"></td>
-<td>
-<b>Height:</b> 176cm<br>
-<b>Weight:</b> 90kg<br>
-<b>Finisher:</b> Angle German Suplex<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Travis_Banks.png" width="280" alt="Travis Banks"></td>
+        <td>
+        <b>Height:</b> 176cm<br>
+        <b>Weight:</b> 90kg<br>
+        <b>Finisher:</b> Angle German Suplex<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2021-09-06: Money in the Bank Tag Team in [[Events/2021-09-06 - Money in the Bank (Season 4)\|2021-09-06 - Money in the Bank (Season 4)]] — 81%
+- 2021-09-06: Money in the Bank Tag Team in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 81%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

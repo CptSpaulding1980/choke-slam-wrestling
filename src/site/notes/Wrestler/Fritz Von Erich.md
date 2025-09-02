@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/fritz-von-erich/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.785+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/fritz-von-erich/","title":"Fritz Von Erich","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Fritz Von Erich
 
 <table>
-<tr>
-<td><img src="Fritz Von Erich.png" width="280" alt="Fritz Von Erich"></td>
-<td>
-<b>Height:</b> 193cm<br>
-<b>Weight:</b> 118kg<br>
-<b>Finisher:</b> Von Erich Claw<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Fritz_Von_Erich.png" width="280" alt="Fritz Von Erich"></td>
+        <td>
+        <b>Height:</b> 193cm<br>
+        <b>Weight:</b> 118kg<br>
+        <b>Finisher:</b> Von Erich Claw<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/events/2022-02-21-s04-e08-fan-favourites/","title":"S04E08_Fan Favourites","noteIcon":"","created":"2025-09-01T21:42:44.196+02:00"}
+{"dg-publish":true,"permalink":"/events/2022-02-21-s04-e08-fan-favourites/","title":"S04E08_Fan Favourites","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S04E08_Fan Favourites**
-
-<img src="z_Images/S04E08_Fan_Favourites.png" width="250px">
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S04E08_Fan Favourites**
 
 **Date:** 2022-02-21
+
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
 
 ## Matches

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/killshot/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.738+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/killshot/","title":"Killshot","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Killshot
 
 <table>
-<tr>
-<td><img src="Killshot.png" width="280" alt="Killshot"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Killshot.png" width="280" alt="Killshot"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Colt Cabana\|Colt Cabana]] (3x)
 
 ## Top Matches
-- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz in [[Events/2020-10-26 - World Tag League\|2020-10-26 - World Tag League]] — 100%
+- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
 - 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
-- 2020-12-28: Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - Battle of Britain - Night 1\|2020-12-28 - Battle of Britain - Night 1]] — 96%
-- 2020-12-28: Killshot vs. Bob Backlund vs. Sgt. Slaughter vs. Sheamus  vs. Finn Bálor in [[Events/2020-12-28 - Battle of Britain - Pre Show\|2020-12-28 - Battle of Britain - Pre Show]] — 95%
-- 2022-07-24: Sweet 'n Sour Elite vs. Killshot  , KENTA, & Edge in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 95%
+- 2020-12-28: Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 96%
+- 2020-12-28: Killshot vs. Bob Backlund vs. Sgt. Slaughter vs. Sheamus  vs. Finn Bálor in [[Events/2020-12-28 - S03E03_Battle of Britain - Pre Show\|2020-12-28 - S03E03_Battle of Britain - Pre Show]] — 95%
+- 2022-07-24: Sweet 'n Sour Elite vs. Killshot  , KENTA, & Edge in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 95%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

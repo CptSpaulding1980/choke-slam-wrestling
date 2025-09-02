@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/johnny-grunge/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.453+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/johnny-grunge/","title":"Johnny Grunge","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Johnny Grunge
 
 <table>
-<tr>
-<td><img src="Johnny Grunge.png" width="280" alt="Johnny Grunge"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Johnny_Grunge.png" width="280" alt="Johnny Grunge"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,10 +36,10 @@
 - [[Wrestler/Rocco Rock\|Rocco Rock]] (3x)
 
 ## Top Matches
-- 2023-06-26: Johnny Grunge & Rocco Rock vs. Militanter Mummenschanz in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 95%
-- 2023-06-26: Johnny Grunge & Rocco Rock vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 76%
-- 2023-06-26: Johnny Grunge & Rocco Rock vs. Saint Rebel Radicalz in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 73%
+- 2023-06-26: Johnny Grunge & Rocco Rock vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 95%
+- 2023-06-26: Johnny Grunge & Rocco Rock vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 76%
+- 2023-06-26: Johnny Grunge & Rocco Rock vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 73%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

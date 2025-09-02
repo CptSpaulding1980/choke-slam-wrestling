@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/brock-lesnar/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.941+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/brock-lesnar/","title":"Brock Lesnar","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Brock Lesnar
 
 <table>
-<tr>
-<td><img src="Brock Lesnar.png" width="280" alt="Brock Lesnar"></td>
-<td>
-<b>Height:</b> 191cm<br>
-<b>Weight:</b> 130kg<br>
-<b>Finisher:</b> Large Rolling DDT<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brock_Lesnar.png" width="280" alt="Brock Lesnar"></td>
+        <td>
+        <b>Height:</b> 191cm<br>
+        <b>Weight:</b> 130kg<br>
+        <b>Finisher:</b> Large Rolling DDT<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,12 +38,12 @@
 - [[Wrestler/Bret Hart\|Bret Hart]] (3x)
 
 ## Top Matches
-- 2022-07-24: Sting vs. Brock Lesnar in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 102%
-- 2022-07-24: Royal Rumble Match in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 92%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2021-10-17: Brock Lesnar vs. Rey Mysterio Jr. in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 90%
-- 2022-07-24: Saint Rebel Radicalz vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 89%
+- 2022-07-24: Sting vs. Brock Lesnar in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 102%
+- 2022-07-24: Royal Rumble Match in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 92%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2021-10-17: Brock Lesnar vs. Rey Mysterio Jr. in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 90%
+- 2022-07-24: Saint Rebel Radicalz vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 89%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

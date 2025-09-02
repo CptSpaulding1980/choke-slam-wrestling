@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/triple-h/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.651+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/triple-h/","title":"Triple H","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Triple H
 
 <table>
-<tr>
-<td><img src="Triple H.png" width="280" alt="Triple H"></td>
-<td>
-<b>Height:</b> 193cm<br>
-<b>Weight:</b> 116kg<br>
-<b>Finisher:</b> Pedigree<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Triple_H.png" width="280" alt="Triple H"></td>
+        <td>
+        <b>Height:</b> 193cm<br>
+        <b>Weight:</b> 116kg<br>
+        <b>Finisher:</b> Pedigree<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)
 
 ## Top Matches
-- 2024-10-22: Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 101%
-- 2024-05-27: Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H in [[Events/2024-05-27 - Die beste Show der Welt (S06E04)\|2024-05-27 - Die beste Show der Welt (S06E04)]] — 100%
-- 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 99%
-- 2020-06-29: Choke Slam Tag Team Championship: Shawn Michaels & Triple H vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 99%
+- 2024-10-22: Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 101%
+- 2024-05-27: Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 100%
+- 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
+- 2020-06-29: Choke Slam Tag Team Championship: Shawn Michaels & Triple H vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 99%
 - 2024-12-27: Finn Bálor vs. Tatum Paxley vs. Triple H in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 97%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/consequences-creed/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.207+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/consequences-creed/","title":"Consequences Creed","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Consequences Creed
 
 <table>
-<tr>
-<td><img src="Consequences Creed.png" width="280" alt="Consequences Creed"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Consequences_Creed.png" width="280" alt="Consequences Creed"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,12 +39,12 @@
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)
 
 ## Top Matches
-- 2021-08-23: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2021-08-23 - 90's\|2021-08-23 - 90's]] — 99%
-- 2021-09-06: Consequences Creed vs. Jeff Jarrett in [[Events/2021-09-06 - Money in the Bank (Season 4)\|2021-09-06 - Money in the Bank (Season 4)]] — 98%
-- 2021-08-23: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-08-23 - 90's\|2021-08-23 - 90's]] — 94%
-- 2021-08-23: Aoife Valkyrie vs. Consequences Creed in [[Events/2021-08-23 - 90's\|2021-08-23 - 90's]] — 93%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 91%
+- 2021-08-23: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 99%
+- 2021-09-06: Consequences Creed vs. Jeff Jarrett in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 98%
+- 2021-08-23: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 94%
+- 2021-08-23: Aoife Valkyrie vs. Consequences Creed in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 93%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

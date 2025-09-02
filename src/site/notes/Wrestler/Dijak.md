@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/dijak/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.364+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/dijak/","title":"Dijak","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Dijak
 
 <table>
-<tr>
-<td><img src="Dijak.png" width="280" alt="Dijak"></td>
-<td>
-<b>Height:</b> 201cm<br>
-<b>Weight:</b> 123kg<br>
-<b>Finisher:</b> Feast Your Eyes<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dijak.png" width="280" alt="Dijak"></td>
+        <td>
+        <b>Height:</b> 201cm<br>
+        <b>Weight:</b> 123kg<br>
+        <b>Finisher:</b> Feast Your Eyes<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Gunther\|Gunther]] (1x)
 
 ## Top Matches
-- 2024-02-15: Dijak vs. Kofi Kingston in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 98%
-- 2024-02-15: Rumble in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 93%
-- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 93%
-- 2024-04-10: Losrer Round 5: Triple H vs. Dijak in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 93%
-- 2024-04-10: Dusty Rhodes vs. Dijak in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 91%
+- 2024-02-15: Dijak vs. Kofi Kingston in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 98%
+- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
+- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
+- 2024-04-10: Losrer Round 5: Triple H vs. Dijak in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
+- 2024-04-10: Dusty Rhodes vs. Dijak in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 91%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

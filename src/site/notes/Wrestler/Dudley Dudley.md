@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/dudley-dudley/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.497+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/dudley-dudley/","title":"Dudley Dudley","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Dudley Dudley
 
 <table>
-<tr>
-<td><img src="Dudley Dudley.png" width="280" alt="Dudley Dudley"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dudley_Dudley.png" width="280" alt="Dudley Dudley"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,10 +36,10 @@
 - [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] (3x)
 
 ## Top Matches
-- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 100%
-- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 80%
-- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Saint Rebel Radicalz in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 73%
+- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
+- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 80%
+- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 73%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

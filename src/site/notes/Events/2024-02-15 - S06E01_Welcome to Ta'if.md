@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2024-02-15-s06-e01-welcome-to-ta-if/","title":"S06E01_Welcome to Ta'if","noteIcon":"","created":"2025-09-01T21:42:44.184+02:00"}
+{"dg-publish":true,"permalink":"/events/2024-02-15-s06-e01-welcome-to-ta-if/","title":"S06E01_Welcome to Ta'if","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E01_Welcome to Ta'if**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E01_Welcome to Ta'if**
 
 **Date:** 2024-02-15
 

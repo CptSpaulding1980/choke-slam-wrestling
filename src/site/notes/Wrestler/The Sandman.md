@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/the-sandman/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.434+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/the-sandman/","title":"The Sandman","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # The Sandman
 
 <table>
-<tr>
-<td><img src="The Sandman.png" width="280" alt="The Sandman"></td>
-<td>
-<b>Height:</b> 191cm<br>
-<b>Weight:</b> 109kg<br>
-<b>Finisher:</b> Russian Leg Sweep<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Sandman.png" width="280" alt="The Sandman"></td>
+        <td>
+        <b>Height:</b> 191cm<br>
+        <b>Weight:</b> 109kg<br>
+        <b>Finisher:</b> Russian Leg Sweep<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,12 +38,12 @@
 - [[Wrestler/Mikey Whipwreck\|Mikey Whipwreck]] (1x)
 
 ## Top Matches
-- 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 100%
-- 2022-01-26: Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 99%
-- 2022-01-26: Beach-Volleyball: Saint Rebel Radicalz vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 91%
-- 2022-02-09: Exploding Landmine Deathmatch: Kevin Steen vs. The Sandman in [[Events/2022-02-09 - Extreme\|2022-02-09 - Extreme]] — 91%
-- 2022-02-09: Exploding Landmine Death - Semi Final: The Sandman vs. EC3 in [[Events/2022-02-09 - Extreme\|2022-02-09 - Extreme]] — 82%
+- 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
+- 2022-01-26: Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 99%
+- 2022-01-26: Beach-Volleyball: Saint Rebel Radicalz vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 91%
+- 2022-02-09: Exploding Landmine Deathmatch: Kevin Steen vs. The Sandman in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 91%
+- 2022-02-09: Exploding Landmine Death - Semi Final: The Sandman vs. EC3 in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 82%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

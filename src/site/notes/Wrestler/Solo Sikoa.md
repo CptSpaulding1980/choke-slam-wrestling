@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/solo-sikoa/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.130+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/solo-sikoa/","title":"Solo Sikoa","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Solo Sikoa
 
 <table>
-<tr>
-<td><img src="Solo Sikoa.png" width="280" alt="Solo Sikoa"></td>
-<td>
-<b>Height:</b> 185cm<br>
-<b>Weight:</b> 99kg<br>
-<b>Finisher:</b> Samoan Spike<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Solo_Sikoa.png" width="280" alt="Solo Sikoa"></td>
+        <td>
+        <b>Height:</b> 185cm<br>
+        <b>Weight:</b> 99kg<br>
+        <b>Finisher:</b> Samoan Spike<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2022-11-07: Exhibition 2 - Bloodier than the Line in [[Events/2022-11-07 - ChokeSlamMania IV - Day One\|2022-11-07 - ChokeSlamMania IV - Day One]] — 91%
+- 2022-11-07: Exhibition 2 - Bloodier than the Line in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 91%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

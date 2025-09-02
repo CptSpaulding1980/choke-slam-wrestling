@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/rick-steiner/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.704+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/rick-steiner/","title":"Rick Steiner","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Rick Steiner
 
 <table>
-<tr>
-<td><img src="Rick Steiner.png" width="280" alt="Rick Steiner"></td>
-<td>
-<b>Height:</b> 181cm<br>
-<b>Weight:</b> 127kg<br>
-<b>Finisher:</b> Diving Bulldog<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rick_Steiner.png" width="280" alt="Rick Steiner"></td>
+        <td>
+        <b>Height:</b> 181cm<br>
+        <b>Weight:</b> 127kg<br>
+        <b>Finisher:</b> Diving Bulldog<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,12 +37,12 @@
 - [[Wrestler/Franz Schuhmann\|Franz Schuhmann]] (1x)
 
 ## Top Matches
-- 2021-08-23: Militanter Mummenschanz vs. Sting & Rick Steiner in [[Events/2021-08-23 - 90's\|2021-08-23 - 90's]] — 93%
-- 2021-08-23: Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner in [[Events/2021-08-23 - 90's\|2021-08-23 - 90's]] — 92%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2023-05-30: Alexa Bliss & Bret Hart vs. Rick Steiner & Sting in [[Events/2023-05-30 - WCSW (S05E05)\|2023-05-30 - WCSW (S05E05)]] — 90%
-- 2021-08-23: Christian Cage vs. Rick Steiner in [[Events/2021-08-23 - 90's\|2021-08-23 - 90's]] — 67%
+- 2021-08-23: Militanter Mummenschanz vs. Sting & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 93%
+- 2021-08-23: Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 92%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2023-05-30: Alexa Bliss & Bret Hart vs. Rick Steiner & Sting in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 90%
+- 2021-08-23: Christian Cage vs. Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 67%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

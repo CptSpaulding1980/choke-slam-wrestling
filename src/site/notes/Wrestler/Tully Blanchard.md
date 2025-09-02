@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/tully-blanchard/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.673+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/tully-blanchard/","title":"Tully Blanchard","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Tully Blanchard
 
 <table>
-<tr>
-<td><img src="Tully Blanchard.png" width="280" alt="Tully Blanchard"></td>
-<td>
-<b>Height:</b> 179cm<br>
-<b>Weight:</b> 102kg<br>
-<b>Finisher:</b> Slingshot Suplex<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tully_Blanchard.png" width="280" alt="Tully Blanchard"></td>
+        <td>
+        <b>Height:</b> 179cm<br>
+        <b>Weight:</b> 102kg<br>
+        <b>Finisher:</b> Slingshot Suplex<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,10 +39,10 @@
 - [[Wrestler/Ric Flair\|Ric Flair]] (1x)
 
 ## Top Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2023-10-09: War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 73%
-- 2023-05-30: Randy Savage & Scott Steiner vs. Scott Hall & Tully Blanchard in [[Events/2023-05-30 - WCSW (S05E05)\|2023-05-30 - WCSW (S05E05)]] — 60%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2023-10-09: War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 73%
+- 2023-05-30: Randy Savage & Scott Steiner vs. Scott Hall & Tully Blanchard in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 60%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

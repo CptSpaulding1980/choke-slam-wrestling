@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kevin-steen/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.703+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/kevin-steen/","title":"Kevin Steen","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Kevin Steen
 
 <table>
-<tr>
-<td><img src="Kevin Steen.png" width="280" alt="Kevin Steen"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kevin_Steen.png" width="280" alt="Kevin Steen"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -42,10 +42,10 @@
 ## Top Matches
 - 2025-08-12: 1/8 Finals: Kevin Steen vs. Roman Reigns in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 102%
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
-- 2022-10-02: Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 99%
-- 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 97%
+- 2022-10-02: Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
+- 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
 - 2025-08-12: Semi Finals: Kevin Steen vs. Lex Luger in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 97%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jushin-liger/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.524+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jushin-liger/","title":"Jushin Liger","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jushin Liger
 
 <table>
-<tr>
-<td><img src="Jushin Liger.png" width="280" alt="Jushin Liger"></td>
-<td>
-<b>Height:</b> 170cm<br>
-<b>Weight:</b> 95kg<br>
-<b>Finisher:</b> Delayed Vertical Brainbuster<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jushin_Liger.png" width="280" alt="Jushin Liger"></td>
+        <td>
+        <b>Height:</b> 170cm<br>
+        <b>Weight:</b> 95kg<br>
+        <b>Finisher:</b> Delayed Vertical Brainbuster<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
 
 ## Top Matches
-- 2020-10-13: Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fénix in [[Events/2020-10-13 - Choke Slam Carat Gold\|2020-10-13 - Choke Slam Carat Gold]] — 102%
-- 2020-12-28: Militanter Mummenschanz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - Battle of Britain - Night 1\|2020-12-28 - Battle of Britain - Night 1]] — 98%
-- 2021-01-21: Jushin Liger vs. Dr. Wagner Jr. in [[Events/2021-01-21 - Ireland\|2021-01-21 - Ireland]] — 98%
-- 2020-12-28: Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - Battle of Britain - Night 1\|2020-12-28 - Battle of Britain - Night 1]] — 96%
-- 2021-01-21: Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - Clash of Colosseum\|2021-01-21 - Clash of Colosseum]] — 96%
+- 2020-10-13: Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fénix in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 102%
+- 2020-12-28: Militanter Mummenschanz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 98%
+- 2021-01-21: Jushin Liger vs. Dr. Wagner Jr. in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 98%
+- 2020-12-28: Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 96%
+- 2021-01-21: Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 96%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

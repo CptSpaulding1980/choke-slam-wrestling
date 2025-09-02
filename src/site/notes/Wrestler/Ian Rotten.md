@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/ian-rotten/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.115+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/ian-rotten/","title":"Ian Rotten","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Ian Rotten
 
 <table>
-<tr>
-<td><img src="Ian Rotten.png" width="280" alt="Ian Rotten"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ian_Rotten.png" width="280" alt="Ian Rotten"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,10 +36,10 @@
 - [[Wrestler/Axl Rotten\|Axl Rotten]] (3x)
 
 ## Top Matches
-- 2023-06-26: Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 99%
-- 2023-06-26: Axl Rotten & Ian Rotten vs. Miro & Sabu in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 88%
-- 2023-06-26: Axl Rotten & Ian Rotten vs. Bull Nakano & Rob Van Dam in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 87%
+- 2023-06-26: Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 99%
+- 2023-06-26: Axl Rotten & Ian Rotten vs. Miro & Sabu in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 88%
+- 2023-06-26: Axl Rotten & Ian Rotten vs. Bull Nakano & Rob Van Dam in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 87%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

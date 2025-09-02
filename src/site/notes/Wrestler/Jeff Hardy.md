@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jeff-hardy/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.293+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jeff-hardy/","title":"Jeff Hardy","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jeff Hardy
 
 <table>
-<tr>
-<td><img src="Jeff Hardy.png" width="280" alt="Jeff Hardy"></td>
-<td>
-<b>Height:</b> 187cm<br>
-<b>Weight:</b> 102kg<br>
-<b>Finisher:</b> Swanton Bomb<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jeff_Hardy.png" width="280" alt="Jeff Hardy"></td>
+        <td>
+        <b>Height:</b> 187cm<br>
+        <b>Weight:</b> 102kg<br>
+        <b>Finisher:</b> Swanton Bomb<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,8 +38,8 @@ Keine bekannten Partner.
 - 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 94%
 - 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 86%
 - 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 79%
-- 2022-11-07: Me, Myself and I - Duo (Pascal) in [[Events/2022-11-07 - ChokeSlamMania IV - Day One\|2022-11-07 - ChokeSlamMania IV - Day One]] — 76%
+- 2022-11-07: Me, Myself and I - Duo (Pascal) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 76%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

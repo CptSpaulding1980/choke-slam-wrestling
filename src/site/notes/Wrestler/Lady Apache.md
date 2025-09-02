@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/lady-apache/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.836+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/lady-apache/","title":"Lady Apache","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Lady Apache
 
 <table>
-<tr>
-<td><img src="Lady Apache.png" width="280" alt="Lady Apache"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png" width="280" alt="Lady Apache"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -43,5 +43,5 @@
 - 2025-06-03: Money in the Bank Match: Lady Apache vs. Lex Luger vs. Bam Bam Bigelow vs. Steve Austin vs. Roman Reigns vs. Awesome Kong in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 72%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/hollywood-hogan/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.065+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/hollywood-hogan/","title":"Hollywood Hogan","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Hollywood Hogan
 
 <table>
-<tr>
-<td><img src="Hollywood Hogan.png" width="280" alt="Hollywood Hogan"></td>
-<td>
-<b>Height:</b> 201cm<br>
-<b>Weight:</b> 125kg<br>
-<b>Finisher:</b> Hollywood Leg Drop<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hollywood_Hogan.png" width="280" alt="Hollywood Hogan"></td>
+        <td>
+        <b>Height:</b> 201cm<br>
+        <b>Weight:</b> 125kg<br>
+        <b>Finisher:</b> Hollywood Leg Drop<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Lita\|Lita]] (1x)
 
 ## Top Matches
-- 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 100%
-- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Lita in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 99%
-- 2023-12-15: Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 92%
-- 2023-12-15: Brock Lesnar vs. Hollywood Hogan in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 88%
-- 2023-12-15: 1/4 Finale: Hollywood Hogan vs. Hulk Hogan in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 83%
+- 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
+- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 99%
+- 2023-12-15: Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 92%
+- 2023-12-15: Brock Lesnar vs. Hollywood Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 88%
+- 2023-12-15: 1/4 Finale: Hollywood Hogan vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 83%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/thea-hail/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.501+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/thea-hail/","title":"Thea Hail","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Thea Hail
 
 <table>
-<tr>
-<td><img src="Thea Hail.png" width="280" alt="Thea Hail"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Thea_Hail.png" width="280" alt="Thea Hail"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (2x)
 
 ## Top Matches
-- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 103%
-- 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 99%
-- 2024-01-29: Choke Slam Trios Championship: Militanter Mummenschanz vs. Brandon, Kenny Omega, & Hulk Hogan (c) in [[Events/2024-01-29 - ChokeSlamMania V (S05E12)\|2024-01-29 - ChokeSlamMania V (S05E12)]] — 96%
-- 2024-01-29: Choke Slam Womens Championship Match: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - ChokeSlamMania V (S05E12)\|2024-01-29 - ChokeSlamMania V (S05E12)]] — 94%
-- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 93%
+- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 103%
+- 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
+- 2024-01-29: Choke Slam Trios Championship: Militanter Mummenschanz vs. Brandon, Kenny Omega, & Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 96%
+- 2024-01-29: Choke Slam Womens Championship Match: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 94%
+- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

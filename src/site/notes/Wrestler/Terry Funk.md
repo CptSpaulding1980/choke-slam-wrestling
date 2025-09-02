@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/terry-funk/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.309+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/terry-funk/","title":"Terry Funk","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Terry Funk
 
 <table>
-<tr>
-<td><img src="Terry Funk.png" width="280" alt="Terry Funk"></td>
-<td>
-<b>Height:</b> 185cm<br>
-<b>Weight:</b> 112kg<br>
-<b>Finisher:</b> SLL (S) 1<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Terry_Funk.png" width="280" alt="Terry Funk"></td>
+        <td>
+        <b>Height:</b> 185cm<br>
+        <b>Weight:</b> 112kg<br>
+        <b>Finisher:</b> SLL (S) 1<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,11 +34,11 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-06-26: Barb Wire: Terry Funk vs. Kenny Omega in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 100%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2023-06-26: Barb Wire: Terry Funk vs. Brody King in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 82%
-- 2023-06-26: Barb Wire: Terry Funk vs. AJ Styles in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 66%
+- 2023-06-26: Barb Wire: Terry Funk vs. Kenny Omega in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2023-06-26: Barb Wire: Terry Funk vs. Brody King in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 82%
+- 2023-06-26: Barb Wire: Terry Funk vs. AJ Styles in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 66%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

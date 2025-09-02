@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/2021-03-09-s03-e06-swiss-bliss-a-new-hope/","title":"S03E06_Swiss Bliss - A New Hope","noteIcon":"","created":"2025-09-01T21:42:44.707+02:00"}
+{"dg-publish":true,"permalink":"/events/2021-03-09-s03-e06-swiss-bliss-a-new-hope/","title":"S03E06_Swiss Bliss - A New Hope","noteIcon":""}
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E06_Swiss Bliss - A New Hope**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E06_Swiss Bliss - A New Hope**
 
 **Date:** 2021-03-09
 

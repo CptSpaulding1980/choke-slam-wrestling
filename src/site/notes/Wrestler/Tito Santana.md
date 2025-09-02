@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/tito-santana/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.564+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/tito-santana/","title":"Tito Santana","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Tito Santana
 
 <table>
-<tr>
-<td><img src="Tito Santana.png" width="280" alt="Tito Santana"></td>
-<td>
-<b>Height:</b> 187cm<br>
-<b>Weight:</b> 106kg<br>
-<b>Finisher:</b> F4LL (S) 1<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tito_Santana.png" width="280" alt="Tito Santana"></td>
+        <td>
+        <b>Height:</b> 187cm<br>
+        <b>Weight:</b> 106kg<br>
+        <b>Finisher:</b> F4LL (S) 1<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,11 +36,11 @@
 - [[Wrestler/Triple H\|Triple H]] (1x)
 
 ## Top Matches
-- 2024-10-22: Choke Slam Hardcore Champioship: Gunther vs. Triple H vs. Tito Santana vs. Randy Savage in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 94%
-- 2024-10-22: Loser leaves Town: Gunther vs. Tito Santana in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 89%
-- 2024-10-22: Last (wo)man Standing: Fallon Henley vs. Tito Santana in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 77%
-- 2024-10-22: Barbed Wire Death: Triple H vs. Tito Santana in [[Events/2024-10-22 - Changes II (S06E08)\|2024-10-22 - Changes II (S06E08)]] — 35%
+- 2024-10-22: Choke Slam Hardcore Champioship: Gunther vs. Triple H vs. Tito Santana vs. Randy Savage in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
+- 2024-10-22: Loser leaves Town: Gunther vs. Tito Santana in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 89%
+- 2024-10-22: Last (wo)man Standing: Fallon Henley vs. Tito Santana in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 77%
+- 2024-10-22: Barbed Wire Death: Triple H vs. Tito Santana in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 35%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

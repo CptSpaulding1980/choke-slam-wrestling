@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/maryse/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.074+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/maryse/","title":"Maryse","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Maryse
 
 <table>
-<tr>
-<td><img src="Maryse.png" width="280" alt="Maryse"></td>
-<td>
-<b>Height:</b> 173cm<br>
-<b>Weight:</b> 53kg<br>
-<b>Finisher:</b> French Kiss DDT<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Maryse.png" width="280" alt="Maryse"></td>
+        <td>
+        <b>Height:</b> 173cm<br>
+        <b>Weight:</b> 53kg<br>
+        <b>Finisher:</b> French Kiss DDT<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 88%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

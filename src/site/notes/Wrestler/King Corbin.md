@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/king-corbin/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.747+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/king-corbin/","title":"King Corbin","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # King Corbin
 
 <table>
-<tr>
-<td><img src="King Corbin.png" width="280" alt="King Corbin"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/King_Corbin.png" width="280" alt="King Corbin"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,10 +38,10 @@
 - [[Wrestler/Sheamus\|Sheamus]] (3x)
 
 ## Top Matches
-- 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 77%
-- 2020-06-29: Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 76%
-- 2020-06-29: Kings Court vs. Mummenschanz in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 71%
+- 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 77%
+- 2020-06-29: Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 76%
+- 2020-06-29: Kings Court vs. Mummenschanz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 71%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

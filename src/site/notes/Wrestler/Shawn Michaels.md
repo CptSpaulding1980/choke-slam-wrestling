@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/shawn-michaels/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.035+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/shawn-michaels/","title":"Shawn Michaels","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Shawn Michaels
 
 <table>
-<tr>
-<td><img src="Shawn Michaels.png" width="280" alt="Shawn Michaels"></td>
-<td>
-<b>Height:</b> 185cm<br>
-<b>Weight:</b> 102kg<br>
-<b>Finisher:</b> Sweet Chin Music<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shawn_Michaels.png" width="280" alt="Shawn Michaels"></td>
+        <td>
+        <b>Height:</b> 185cm<br>
+        <b>Weight:</b> 102kg<br>
+        <b>Finisher:</b> Sweet Chin Music<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Triple H\|Triple H]] (2x)
 
 ## Top Matches
-- 2020-06-29: Choke Slam Tag Team Championship: Shawn Michaels & Triple H vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 99%
-- 2022-06-28: Submission - Choke Slam World Championship: Shawn Michaels vs. Big Van Vader vs. Bob Backlund (c) in [[Events/2022-06-28 - Royal Rumble\|2022-06-28 - Royal Rumble]] — 99%
-- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 99%
-- 2022-07-24: Militanter Mummenschanz vs. Diesel & Shawn Michaels in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 98%
-- 2020-09-07: Choke Slam Tag Team Championship in [[Events/2020-09-07 - ChokeSlamMania II\|2020-09-07 - ChokeSlamMania II]] — 96%
+- 2020-06-29: Choke Slam Tag Team Championship: Shawn Michaels & Triple H vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 99%
+- 2022-06-28: Submission - Choke Slam World Championship: Shawn Michaels vs. Big Van Vader vs. Bob Backlund (c) in [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] — 99%
+- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
+- 2022-07-24: Militanter Mummenschanz vs. Diesel & Shawn Michaels in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 98%
+- 2020-09-07: Choke Slam Tag Team Championship in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — 96%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

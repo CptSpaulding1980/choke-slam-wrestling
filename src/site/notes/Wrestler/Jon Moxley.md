@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jon-moxley/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.469+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jon-moxley/","title":"Jon Moxley","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jon Moxley
 
 <table>
-<tr>
-<td><img src="Jon Moxley.png" width="280" alt="Jon Moxley"></td>
-<td>
-<b>Height:</b> 189cm<br>
-<b>Weight:</b> 102kg<br>
-<b>Finisher:</b> Paradigm Shift<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jon_Moxley.png" width="280" alt="Jon Moxley"></td>
+        <td>
+        <b>Height:</b> 189cm<br>
+        <b>Weight:</b> 102kg<br>
+        <b>Finisher:</b> Paradigm Shift<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (2x)
 
 ## Top Matches
-- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 103%
-- 2023-10-09: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 99%
-- 2024-01-29: Choke Slam Hardcore Championship Match: Jon Moxley vs. Jay White vs. Bret Hart (c) in [[Events/2024-01-29 - ChokeSlamMania V (S05E12)\|2024-01-29 - ChokeSlamMania V (S05E12)]] — 99%
-- 2023-12-15: Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 98%
+- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 103%
+- 2023-10-09: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
+- 2024-01-29: Choke Slam Hardcore Championship Match: Jon Moxley vs. Jay White vs. Bret Hart (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 99%
+- 2023-12-15: Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 98%
 - 2025-01-16: Jon Moxley vs. Hiroshi Tanahashi in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 98%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

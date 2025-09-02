@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/randy-orton/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.572+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/randy-orton/","title":"Randy Orton","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Randy Orton
 
 <table>
-<tr>
-<td><img src="Randy Orton.png" width="280" alt="Randy Orton"></td>
-<td>
-<b>Height:</b> 195cm<br>
-<b>Weight:</b> 114kg<br>
-<b>Finisher:</b> RKO<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Randy_Orton.png" width="280" alt="Randy Orton"></td>
+        <td>
+        <b>Height:</b> 195cm<br>
+        <b>Weight:</b> 114kg<br>
+        <b>Finisher:</b> RKO<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (1x)
 
 ## Top Matches
-- 2020-06-08: Threeway Fiasko im Käfig - Cage Match: The Undertaker vs. Sid Vicious vs. Randy Orton in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 100%
-- 2020-06-29: Mr. Perfect vs. Randy Orton in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 98%
-- 2020-06-08: Saint Rebel Radicalz vs. Randy Orton & Mansoor in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 93%
-- 2020-06-08: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 93%
-- 2020-06-10: Choke Slam World Championship: Randy Orton vs. Jerry Lawler (c) in [[Events/2020-06-10 - Dubai - After Show Cash In 2\|2020-06-10 - Dubai - After Show Cash In 2]] — 92%
+- 2020-06-08: Threeway Fiasko im Käfig - Cage Match: The Undertaker vs. Sid Vicious vs. Randy Orton in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 100%
+- 2020-06-29: Mr. Perfect vs. Randy Orton in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 98%
+- 2020-06-08: Saint Rebel Radicalz vs. Randy Orton & Mansoor in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 93%
+- 2020-06-08: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 93%
+- 2020-06-10: Choke Slam World Championship: Randy Orton vs. Jerry Lawler (c) in [[Events/2020-06-10 - S02E10_Dubai - After Show Cash In 2\|2020-06-10 - S02E10_Dubai - After Show Cash In 2]] — 92%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

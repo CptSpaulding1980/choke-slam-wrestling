@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jun-akiyama/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.515+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jun-akiyama/","title":"Jun Akiyama","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jun Akiyama
 
 <table>
-<tr>
-<td><img src="Jun Akiyama.png" width="280" alt="Jun Akiyama"></td>
-<td>
-<b>Height:</b> 187cm<br>
-<b>Weight:</b> 110kg<br>
-<b>Finisher:</b> Wrist Clutch Explode<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jun_Akiyama.png" width="280" alt="Jun Akiyama"></td>
+        <td>
+        <b>Height:</b> 187cm<br>
+        <b>Weight:</b> 110kg<br>
+        <b>Finisher:</b> Wrist Clutch Explode<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,12 +39,12 @@
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
 
 ## Top Matches
-- 2024-05-27: Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H in [[Events/2024-05-27 - Die beste Show der Welt (S06E04)\|2024-05-27 - Die beste Show der Welt (S06E04)]] — 100%
-- 2024-02-15: Rumble in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 93%
-- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 93%
-- 2024-04-10: Semi Final: The Undertaker vs. Jun Akiyama in [[2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)\|2024-04-10 - Digital Domination: Unleash the Choke Slam Fury! (S06E03)]] — 92%
-- 2024-02-15: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 89%
+- 2024-05-27: Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 100%
+- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
+- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
+- 2024-04-10: Semi Final: The Undertaker vs. Jun Akiyama in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 92%
+- 2024-02-15: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 89%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

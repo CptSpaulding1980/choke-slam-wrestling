@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/sexy-star/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.010+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/sexy-star/","title":"Sexy Star","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Sexy Star
 
 <table>
-<tr>
-<td><img src="Sexy Star.png" width="280" alt="Sexy Star"></td>
-<td>
-<b>Height:</b> 161cm<br>
-<b>Weight:</b> 57kg<br>
-<b>Finisher:</b> Swinging Fisherman Neckbreaker<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sexy_Star.png" width="280" alt="Sexy Star"></td>
+        <td>
+        <b>Height:</b> 161cm<br>
+        <b>Weight:</b> 57kg<br>
+        <b>Finisher:</b> Swinging Fisherman Neckbreaker<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
 
 ## Top Matches
-- 2020-06-29: Diesel vs. The Undertaker vs. Bret Hart vs. Owen Hart vs. Bam Bam Bigelow vs. Sexy Star in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 93%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 91%
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 88%
-- 2020-09-07: Andre the Giant Memorial Battle Royal in [[Events/2020-09-07 - ChokeSlamMania II\|2020-09-07 - ChokeSlamMania II]] — 82%
-- 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - Shortcut to Mania\|2020-06-29 - Shortcut to Mania]] — 77%
+- 2020-06-29: Diesel vs. The Undertaker vs. Bret Hart vs. Owen Hart vs. Bam Bam Bigelow vs. Sexy Star in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 93%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
+- 2020-09-07: Andre the Giant Memorial Battle Royal in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — 82%
+- 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 77%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

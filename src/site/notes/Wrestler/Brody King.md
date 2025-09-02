@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/brody-king/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.948+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/brody-king/","title":"Brody King","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Brody King
 
 <table>
-<tr>
-<td><img src="Brody King.png" width="280" alt="Brody King"></td>
-<td>
-<b>Height:</b> 197cm<br>
-<b>Weight:</b> 129kg<br>
-<b>Finisher:</b> Gonzo Bomb<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brody_King.png" width="280" alt="Brody King"></td>
+        <td>
+        <b>Height:</b> 197cm<br>
+        <b>Weight:</b> 129kg<br>
+        <b>Finisher:</b> Gonzo Bomb<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Mike Awesome\|Mike Awesome]] (1x)
 
 ## Top Matches
-- 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 102%
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 100%
-- 2022-12-16: Ridge Holland & Brody King vs. Eddie Edwards & Kenny Omega in [[Events/2022-12-16 - King of the Ring (S05E01)\|2022-12-16 - King of the Ring (S05E01)]] — 97%
-- 2023-06-26: Barb Wire: Terry Funk vs. Brody King in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 82%
-- 2022-12-16: Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King in [[Events/2022-12-16 - King of the Ring (S05E01)\|2022-12-16 - King of the Ring (S05E01)]] — 79%
+- 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 102%
+- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
+- 2022-12-16: Ridge Holland & Brody King vs. Eddie Edwards & Kenny Omega in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 97%
+- 2023-06-26: Barb Wire: Terry Funk vs. Brody King in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 82%
+- 2022-12-16: Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 79%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

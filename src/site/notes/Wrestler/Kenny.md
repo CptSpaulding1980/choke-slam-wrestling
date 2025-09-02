@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kenny/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.642+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/kenny/","title":"Kenny","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Kenny
 
 <table>
-<tr>
-<td><img src="Kenny.png" width="280" alt="Kenny"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kenny.png" width="280" alt="Kenny"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,11 +38,11 @@
 - [[Wrestler/Nicky\|Nicky]] (4x)
 
 ## Top Matches
-- 2024-03-07: Sweet 'n Sour Elite vs. Spirit Squad in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 86%
-- 2024-03-07: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 77%
-- 2024-03-07: Path of God vs. Spirit Squad in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 68%
-- 2024-03-07: Saint Rebel Radicalz vs. Spirit Squad in [[Events/2024-03-07 - Top of the Flops (S06E02)\|2024-03-07 - Top of the Flops (S06E02)]] — 66%
+- 2024-03-07: Sweet 'n Sour Elite vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 86%
+- 2024-03-07: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 77%
+- 2024-03-07: Path of God vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 68%
+- 2024-03-07: Saint Rebel Radicalz vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 66%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

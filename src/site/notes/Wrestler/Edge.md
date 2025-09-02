@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/edge/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.586+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/edge/","title":"Edge","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Edge
 
 <table>
-<tr>
-<td><img src="Edge.png" width="280" alt="Edge"></td>
-<td>
-<b>Height:</b> 195cm<br>
-<b>Weight:</b> 110kg<br>
-<b>Finisher:</b> Spear<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Edge.png" width="280" alt="Edge"></td>
+        <td>
+        <b>Height:</b> 195cm<br>
+        <b>Weight:</b> 110kg<br>
+        <b>Finisher:</b> Spear<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -46,11 +46,11 @@
 
 ## Top Matches
 - 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
-- 2021-04-15: Militanter Mummenschanz vs. Mexicans in [[Events/2021-04-15 - BYOC Fiesta Mexicana\|2021-04-15 - BYOC Fiesta Mexicana]] — 100%
-- 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - Tournament Nonstop Action (S05E11)\|2023-12-15 - Tournament Nonstop Action (S05E11)]] — 100%
+- 2021-04-15: Militanter Mummenschanz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 100%
+- 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 - 2025-06-03: Bandido vs. Edge vs. Wardlow in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/mr-fuji/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.278+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/mr-fuji/","title":"Mr. Fuji","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Mr. Fuji
 
 <table>
-<tr>
-<td><img src="Mr. Fuji.png" width="280" alt="Mr. Fuji"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mr._Fuji.png" width="280" alt="Mr. Fuji"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,9 +35,9 @@
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
 
 ## Top Matches
-- 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 101%
-- 2023-04-19: Interview Segment /w Dario Cueto & Mr. Fuji in [[Events/2023-04-19 - Lucha Underground (S05E04)\|2023-04-19 - Lucha Underground (S05E04)]] — 60%
+- 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 101%
+- 2023-04-19: Interview Segment /w Dario Cueto & Mr. Fuji in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 60%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

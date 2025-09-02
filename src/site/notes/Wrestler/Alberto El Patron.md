@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/alberto-el-patron/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.498+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/alberto-el-patron/","title":"Alberto El Patron","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Alberto El Patron
 
 <table>
-<tr>
-<td><img src="Alberto El Patron.png" width="280" alt="Alberto El Patron"></td>
-<td>
-<b>Height:</b> 195cm<br>
-<b>Weight:</b> 108kg<br>
-<b>Finisher:</b> Cross Armbreaker<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Alberto_El_Patron.png" width="280" alt="Alberto El Patron"></td>
+        <td>
+        <b>Height:</b> 195cm<br>
+        <b>Weight:</b> 108kg<br>
+        <b>Finisher:</b> Cross Armbreaker<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,9 +35,9 @@
 - [[Wrestler/Jack Gallagher\|Jack Gallagher]] (1x)
 
 ## Top Matches
-- 2021-09-06: Apple Money in the Bank Match in [[Events/2021-09-06 - Money in the Bank (Season 4)\|2021-09-06 - Money in the Bank (Season 4)]] — 98%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2021-09-06: Apple Money in the Bank Match in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 98%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

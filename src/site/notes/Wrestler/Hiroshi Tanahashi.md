@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/hiroshi-tanahashi/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.047+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/hiroshi-tanahashi/","title":"Hiroshi Tanahashi","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Hiroshi Tanahashi
 
 <table>
-<tr>
-<td><img src="Hiroshi Tanahashi.png" width="280" alt="Hiroshi Tanahashi"></td>
-<td>
-<b>Height:</b> 181cm<br>
-<b>Weight:</b> 101kg<br>
-<b>Finisher:</b> High Fly Flow<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hiroshi_Tanahashi.png" width="280" alt="Hiroshi Tanahashi"></td>
+        <td>
+        <b>Height:</b> 181cm<br>
+        <b>Weight:</b> 101kg<br>
+        <b>Finisher:</b> High Fly Flow<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Randy Savage\|Randy Savage]] (3x)
 
 ## Top Matches
-- 2024-02-15: Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 105%
-- 2024-05-27: AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi in [[Events/2024-05-27 - Die beste Show der Welt (S06E04)\|2024-05-27 - Die beste Show der Welt (S06E04)]] — 99%
+- 2024-02-15: Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 105%
+- 2024-05-27: AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 99%
 - 2025-01-16: Jon Moxley vs. Hiroshi Tanahashi in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 98%
 - 2025-03-03: Choke Slam Trios Championship: Randy Savage vs. KUSHIDA vs. Joe Hendry vs. Gunther vs. El Hijo del Vikingo vs. Laredo Kid vs. Laredo Kid vs. Tetsuya Naito in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 98%
-- 2024-02-15: AJ Styles vs. Hiroshi Tanahashi in [[Events/2024-02-15 - Welcome to Ta'if (S06E01)\|2024-02-15 - Welcome to Ta'if (S06E01)]] — 97%
+- 2024-02-15: AJ Styles vs. Hiroshi Tanahashi in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 97%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

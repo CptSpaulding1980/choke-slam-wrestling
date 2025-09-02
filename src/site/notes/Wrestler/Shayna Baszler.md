@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/shayna-baszler/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.042+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/shayna-baszler/","title":"Shayna Baszler","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Shayna Baszler
 
 <table>
-<tr>
-<td><img src="Shayna Baszler.png" width="280" alt="Shayna Baszler"></td>
-<td>
-<b>Height:</b> 171cm<br>
-<b>Weight:</b> 61kg<br>
-<b>Finisher:</b> Rear Naked Choke<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shayna_Baszler.png" width="280" alt="Shayna Baszler"></td>
+        <td>
+        <b>Height:</b> 171cm<br>
+        <b>Weight:</b> 61kg<br>
+        <b>Finisher:</b> Rear Naked Choke<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -41,11 +41,11 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-03-29: Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) in [[Events/2023-03-29 - Europa (S05E03)\|2023-03-29 - Europa (S05E03)]] — 90%
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - Royal Rumble (S05E02)\|2023-02-22 - Royal Rumble (S05E02)]] — 88%
-- 2022-10-02: Choke Slam Womens Championship: Aoife Valkyrie vs. Killer Kelly vs. Madison Rayne vs. Shayna Baszler in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 77%
-- 2023-10-09: Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c) in [[Events/2023-10-09 - Survivor Series - War Games (S05E09)\|2023-10-09 - Survivor Series - War Games (S05E09)]] — 67%
+- 2023-03-29: Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 90%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
+- 2022-10-02: Choke Slam Womens Championship: Aoife Valkyrie vs. Killer Kelly vs. Madison Rayne vs. Shayna Baszler in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 77%
+- 2023-10-09: Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 67%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

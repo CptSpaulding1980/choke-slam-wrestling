@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/","tags":["events","index"],"noteIcon":"","created":"2025-09-01T22:15:29.578+02:00"}
+{"dg-publish":true,"permalink":"/events/","tags":["events","index"],"noteIcon":""}
 ---
 
-# **Events**
+
+# Events
 
 | Date | Event | Main Event | Winner | Rating |
 |------|-------|------------|--------|--------|
@@ -74,6 +75,6 @@
 | [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] | S06E10_RoyalNonstop | [[Royal Rumble\|Royal Rumble]] | [[Wrestler/Samoa Joe\|Samoa Joe]] | – |
 | [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] | S06E11_Sweet but Psycho | [[Wrestler/Finn Bálor\|Finn Bálor]] vs. [[Wrestler/Bandido\|Bandido]] | [[Wrestler/Finn Bálor\|Finn Bálor]] | – |
 | [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] | S06E12_ChokeSlamMania VI | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] (c) | [[Wrestler/Roman Reigns\|Roman Reigns]] | – |
-| [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] | S07E01_Brave new World | Money in the Bank Match: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Lex Luger\|Lex Luger]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Steve Austin\|Steve Austin]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Awesome Kong\|Awesome Kong]] | [[Wrestler/Awesome Kong\|Awesome Kong]] | – |
+| [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] | S07E01_Brave new World | [[Money in the Bank\|Money in the Bank]] Match: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Lex Luger\|Lex Luger]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Steve Austin\|Steve Austin]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Awesome Kong\|Awesome Kong]] | [[Wrestler/Awesome Kong\|Awesome Kong]] | – |
 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | S07E02_King & Queen of the Ring | ☞Quarter Finals☜: [[Wrestler/Kevin Steen\|Kevin Steen]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | [[Wrestler/Kevin Steen\|Kevin Steen]] | – |
 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | S07E03_Changes III | Beat the Clock: [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] vs. [[Wrestler/Shinsuke Nakamura\|Shinsuke Nakamura]] | [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | – |

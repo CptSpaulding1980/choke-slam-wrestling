@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/marius-al-ani/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.007+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/marius-al-ani/","title":"Marius Al-Ani","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Marius Al-Ani
 
 <table>
-<tr>
-<td><img src="Marius Al-Ani.png" width="280" alt="Marius Al-Ani"></td>
-<td>
-<b>Height:</b> 176cm<br>
-<b>Weight:</b> 90kg<br>
-<b>Finisher:</b> Fisherman's Suplex<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Marius_Al-Ani.png" width="280" alt="Marius Al-Ani"></td>
+        <td>
+        <b>Height:</b> 176cm<br>
+        <b>Weight:</b> 90kg<br>
+        <b>Finisher:</b> Fisherman's Suplex<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,12 +37,12 @@
 - [[Wrestler/Rush\|Rush]] (3x)
 
 ## Top Matches
-- 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - Extreme\|2022-02-09 - Extreme]] — 101%
-- 2022-01-26: Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 99%
-- 2022-01-26: Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - Olympia\|2022-01-26 - Olympia]] — 96%
-- 2022-02-09: Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - Extreme\|2022-02-09 - Extreme]] — 96%
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 95%
+- 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 101%
+- 2022-01-26: Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 99%
+- 2022-01-26: Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 96%
+- 2022-02-09: Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 96%
+- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

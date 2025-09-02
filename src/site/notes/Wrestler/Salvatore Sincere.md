@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/salvatore-sincere/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.895+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/salvatore-sincere/","title":"Salvatore Sincere","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Salvatore Sincere
 
 <table>
-<tr>
-<td><img src="Salvatore Sincere.png" width="280" alt="Salvatore Sincere"></td>
-<td>
-<b>Height:</b> 193cm<br>
-<b>Weight:</b> 123kg<br>
-<b>Finisher:</b> Sincerely Yours<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Salvatore_Sincere.png" width="280" alt="Salvatore Sincere"></td>
+        <td>
+        <b>Height:</b> 193cm<br>
+        <b>Weight:</b> 123kg<br>
+        <b>Finisher:</b> Sincerely Yours<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,10 +34,10 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2021-01-21: Jushin Liger vs. Salvatore Sincere in [[Events/2021-01-21 - Clash of Colosseum\|2021-01-21 - Clash of Colosseum]] — 86%
-- 2021-01-21: Bob Backlund vs. Salvatore Sincere in [[Events/2021-01-21 - Clash of Colosseum\|2021-01-21 - Clash of Colosseum]] — 86%
-- 2021-01-21: Austin Aries vs. Salvatore Sincere in [[Events/2021-01-21 - Clash of Colosseum\|2021-01-21 - Clash of Colosseum]] — 81%
+- 2021-01-21: Jushin Liger vs. Salvatore Sincere in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 86%
+- 2021-01-21: Bob Backlund vs. Salvatore Sincere in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 86%
+- 2021-01-21: Austin Aries vs. Salvatore Sincere in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 81%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

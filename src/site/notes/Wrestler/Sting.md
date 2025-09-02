@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/sting/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.183+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/sting/","title":"Sting","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Sting
 
 <table>
-<tr>
-<td><img src="Sting.png" width="280" alt="Sting"></td>
-<td>
-<b>Height:</b> 187cm<br>
-<b>Weight:</b> 113kg<br>
-<b>Finisher:</b> Scorpion Death Lock<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sting.png" width="280" alt="Sting"></td>
+        <td>
+        <b>Height:</b> 187cm<br>
+        <b>Weight:</b> 113kg<br>
+        <b>Finisher:</b> Scorpion Death Lock<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -45,12 +45,12 @@
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)
 
 ## Top Matches
-- 2022-07-24: Sting vs. Brock Lesnar in [[Events/2022-07-24 - Überraschung\|2022-07-24 - Überraschung]] — 102%
-- 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 98%
-- 2022-10-02: Apple Gauntlet 3 in [[Events/2022-10-02 - Musik\|2022-10-02 - Musik]] — 97%
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 95%
-- 2022-11-17: Hardcore Title Tournament: WALTER vs. Sting in [[Events/2022-11-17 - ChokeSlamMania IV - Day Two\|2022-11-17 - ChokeSlamMania IV - Day Two]] — 95%
+- 2022-07-24: Sting vs. Brock Lesnar in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 102%
+- 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 98%
+- 2022-10-02: Apple Gauntlet 3 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
+- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
+- 2022-11-17: Hardcore Title Tournament: WALTER vs. Sting in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

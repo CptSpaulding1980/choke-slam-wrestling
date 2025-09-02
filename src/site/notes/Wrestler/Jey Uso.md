@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jey-uso/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:19.327+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/jey-uso/","title":"Jey Uso","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Jey Uso
 
 <table>
-<tr>
-<td><img src="Jey Uso.png" width="280" alt="Jey Uso"></td>
-<td>
-<b>Height:</b> 189cm<br>
-<b>Weight:</b> 102kg<br>
-<b>Finisher:</b> Diving Body Press<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jey_Uso.png" width="280" alt="Jey Uso"></td>
+        <td>
+        <b>Height:</b> 189cm<br>
+        <b>Weight:</b> 102kg<br>
+        <b>Finisher:</b> Diving Body Press<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@ Keine bekannten Gegner.
 Keine bekannten Partner.
 
 ## Top Matches
-- 2022-11-07: Exhibition 2 - Bloodier than the Line in [[Events/2022-11-07 - ChokeSlamMania IV - Day One\|2022-11-07 - ChokeSlamMania IV - Day One]] — 91%
+- 2022-11-07: Exhibition 2 - Bloodier than the Line in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 91%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

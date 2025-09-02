@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/taz/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:21.263+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/taz/","title":"Taz","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Taz
 
 <table>
-<tr>
-<td><img src="Taz.png" width="280" alt="Taz"></td>
-<td>
-<b>Height:</b> 176cm<br>
-<b>Weight:</b> 113kg<br>
-<b>Finisher:</b> Tazmission<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Taz.png" width="280" alt="Taz"></td>
+        <td>
+        <b>Height:</b> 176cm<br>
+        <b>Weight:</b> 113kg<br>
+        <b>Finisher:</b> Tazmission<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,10 +34,10 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2023-06-26: Gruesome Fighting: Taz vs. Eddie Edwards in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 83%
-- 2023-06-26: Gruesome Fighting: Taz vs.  vs. Grayson Waller in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 82%
-- 2023-06-26: Gruesome Fighting: Taz vs. Jonathan Gresham in [[Events/2023-06-26 - ECSW (S05E06)\|2023-06-26 - ECSW (S05E06)]] — 72%
+- 2023-06-26: Gruesome Fighting: Taz vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 83%
+- 2023-06-26: Gruesome Fighting: Taz vs.  vs. Grayson Waller in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 82%
+- 2023-06-26: Gruesome Fighting: Taz vs. Jonathan Gresham in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 72%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

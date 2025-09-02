@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/big-daddy-v/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:17.751+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/big-daddy-v/","title":"Big Daddy V","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Big Daddy V
 
 <table>
-<tr>
-<td><img src="Big Daddy V.png" width="280" alt="Big Daddy V"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Daddy_V.png" width="280" alt="Big Daddy V"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,8 +32,8 @@
 Keine bekannten Partner.
 
 ## Top Matches
-- 2022-11-07: Me, Myself and I - Tre (Philipp) in [[Events/2022-11-07 - ChokeSlamMania IV - Day One\|2022-11-07 - ChokeSlamMania IV - Day One]] — 57%
+- 2022-11-07: Me, Myself and I - Tre (Philipp) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 57%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

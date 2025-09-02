@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/christmas-creature/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.145+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/christmas-creature/","title":"Christmas Creature","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Christmas Creature
 
 <table>
-<tr>
-<td><img src="Christmas Creature.png" width="280" alt="Christmas Creature"></td>
-<td>
-<b>Height:</b> 214cm<br>
-<b>Weight:</b> 147kg<br>
-<b>Finisher:</b> Choke Slam<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Christmas_Creature.png" width="280" alt="Christmas Creature"></td>
+        <td>
+        <b>Height:</b> 214cm<br>
+        <b>Weight:</b> 147kg<br>
+        <b>Finisher:</b> Choke Slam<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2024-12-27: Finn Bálor vs. Christmas Creature in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 72%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

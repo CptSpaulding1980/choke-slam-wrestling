@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/samoa-joe/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:20.919+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/samoa-joe/","title":"Samoa Joe","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Samoa Joe
 
 <table>
-<tr>
-<td><img src="Samoa Joe.png" width="280" alt="Samoa Joe"></td>
-<td>
-<b>Height:</b> 187cm<br>
-<b>Weight:</b> 128kg<br>
-<b>Finisher:</b> Coquina Clutch<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Samoa_Joe.png" width="280" alt="Samoa Joe"></td>
+        <td>
+        <b>Height:</b> 187cm<br>
+        <b>Weight:</b> 128kg<br>
+        <b>Finisher:</b> Coquina Clutch<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -40,12 +40,12 @@
 - [[Wrestler/Chyna\|Chyna]] (1x)
 
 ## Top Matches
-- 2020-06-08: Choke Slam World Championship: Samoa Joe vs. Ric Flair (c) in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 95%
-- 2020-06-08: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 93%
-- 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - Dubai\|2020-06-08 - Dubai]] — 92%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - Saudi Arabia\|2021-10-17 - Saudi Arabia]] — 91%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- 2020-06-08: Choke Slam World Championship: Samoa Joe vs. Ric Flair (c) in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 95%
+- 2020-06-08: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 93%
+- 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 92%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

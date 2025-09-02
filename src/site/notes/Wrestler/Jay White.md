@@ -55,11 +55,13 @@
 ## Promos
 
 - Promo 12.08.2025:
+
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/2025-08-12_Promo_Jay_White_1.mp3" type="audio/mpeg">
 </audio>
 
-- Promo 30.08.2025
+- Promo 30.08.2025:
+
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/2025-08-30_Promo_Jay_White_2.mp3" type="audio/mpeg">
 </audio>

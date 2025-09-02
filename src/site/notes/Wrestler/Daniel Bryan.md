@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/daniel-bryan/","tags":["wrestler"],"noteIcon":"","created":"2025-08-11T09:33:18.305+02:00"}
+{"dg-publish":true,"permalink":"/wrestler/daniel-bryan/","title":"Daniel Bryan","tags":["wrestler"],"noteIcon":""}
 ---
 
 
 # Daniel Bryan
 
 <table>
-<tr>
-<td><img src="Daniel_Bryan.png" width="280" alt="Daniel Bryan"></td>
-<td>
-<b>Height:</b> N/A<br>
-<b>Weight:</b> N/A<br>
-<b>Finisher:</b> N/A<br>
-</td>
-</tr>
-</table>
-
+        <tr>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Daniel_Bryan.png" width="280" alt="Daniel Bryan"></td>
+        <td>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
+        </td>
+        </tr>
+        </table>
+        
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -49,5 +49,5 @@
 - 2025-08-12: 1/8 Finals: Daniel Bryan vs. Steve Austin in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 88%
 
 ## Links
-- [[Wrestler Index\|Wrestler Index]]
-- [[Events Index\|Events Index]]
+- [[Events\|Events]]
+- [[Wrestler\|Wrestler]]

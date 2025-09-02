@@ -54,14 +54,14 @@
 
 ## Promos
 
+- Promo 12.08.2025:
 <audio controls>
-  <source src="z_Audio/2025-08-12_Promo_Jay_White_1.mp3" type="audio/mpeg">
-  Dein Browser unterstützt das Audio-Element nicht.
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/v1.0-assets-audio/2025-08-12_Promo_Jay_White_1.mp3" type="audio/mpeg">
 </audio>
 
+- Promo 30.08.2025
 <audio controls>
-  <source src="z_Audio/2025-08-30_Promo_Jay_White_2.mp3" type="audio/mpeg">
-  Dein Browser unterstützt das Audio-Element nicht.
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/v1.0-assets-audio/2025-08-30_Promo_Jay_White_2.mp3" type="audio/mpeg">
 </audio>
 
 ## Links

@@ -102,8 +102,8 @@ table, .table {
     overflow: hidden;
 }
 table th, .table th {
-    background: #e0e0e0;
-    color: #730000;
+    background: #730000;     /* dunkles Cagematch-Rot */
+    color: #ffffff;          /* helle Schrift */
     font-weight: bold;
     border: 1px solid #d2cfcf;
     padding: 14px 12px;

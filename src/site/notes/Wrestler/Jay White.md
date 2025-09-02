@@ -55,12 +55,12 @@
 ## Promos
 
 <audio controls>
-  <source src="z_Audio/2025-08-12_Promo_Jay_White 1.mp3" type="audio/mpeg">
+  <source src="z_Audio/2025-08-12_Promo_Jay_White_1.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
 </audio>
 
 <audio controls>
-  <source src="z_Audio/2025-08-12_Promo_Jay_White 2.mp3" type="audio/mpeg">
+  <source src="z_Audio/2025-08-30_Promo_Jay_White_2.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
 </audio>
 

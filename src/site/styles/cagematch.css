@@ -286,6 +286,28 @@ table, .table {
 /* ================
    Responsives Design
    ================ */
-@media screen and (max-width: 950px) {
-    .main-container, .content { padding: 1em; }
+/* Hauptcontainer auf größeren Bildschirmen breiter */
+@media (min-width: 1200px) {
+    .main-container, .content {
+        max-width: 1400px;   /* oder 100% für volle Breite */
+        padding: 2em 3em;    /* etwas mehr horizontaler Abstand */
+    }
+
+    body.menu-open {
+        padding-left: 250px; /* wie gehabt, aber jetzt breiterer Content */
+    }
+
+    table {
+        max-width: none;     /* Tabellen dürfen jetzt Container-Breite ausnutzen */
+        min-width: 0;        /* kein Mindestlimit mehr */
+    }
+
+    .table-container {
+        overflow-x: auto;    /* falls sehr breite Tabellen, Scrollen erlauben */
+    }
+}
+
+/* Optional: Tabellen etwas luftiger gestalten */
+table th, table td {
+    padding: 16px 18px;
 }

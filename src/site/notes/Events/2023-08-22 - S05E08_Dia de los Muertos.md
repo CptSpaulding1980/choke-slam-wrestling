@@ -33,5 +33,5 @@
 | 18 |  | Inferno en el Ring: [[Wrestler/Austin Aries\|Austin Aries]] vs. [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/Universo 2000\|Universo 2000]] | Randy Savage beat Hulk Hogan, Universo 2000 & Austin Aries in 21 Min 13 Sec when exiting the Ring first | 21:13 | ★★★★1/4 | 88 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

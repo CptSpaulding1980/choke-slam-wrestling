@@ -41,5 +41,5 @@
 - 2021-10-17: Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 84%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

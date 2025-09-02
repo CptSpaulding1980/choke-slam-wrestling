@@ -37,5 +37,5 @@
 - 2023-05-30: Sweet 'n Sour Elite vs. Bobby Eaton & Dusty Rhodes in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 75%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

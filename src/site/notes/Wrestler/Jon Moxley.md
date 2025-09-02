@@ -52,5 +52,5 @@
 - 2025-01-16: Jon Moxley vs. Hiroshi Tanahashi in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 98%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

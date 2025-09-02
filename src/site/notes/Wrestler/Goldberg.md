@@ -43,5 +43,5 @@
 - 2023-05-30: AJ Styles & Pac vs. Arn Anderson & Goldberg in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 83%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

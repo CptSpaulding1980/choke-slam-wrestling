@@ -47,5 +47,5 @@
 - 2025-05-07: Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — 92%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

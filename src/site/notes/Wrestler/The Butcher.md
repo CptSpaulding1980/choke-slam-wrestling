@@ -47,5 +47,5 @@
 - 2021-06-15: Bob Backlund & The Butcher vs. Bret Hart & Joey Janela in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 91%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

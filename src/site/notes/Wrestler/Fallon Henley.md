@@ -51,5 +51,5 @@
 - 2025-05-07: Choke Slam Womens Championship: Fallon Henley vs. Kiana James in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — 85%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

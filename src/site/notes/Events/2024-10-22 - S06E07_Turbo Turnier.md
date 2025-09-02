@@ -45,5 +45,5 @@
 | 30 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] (c) | Hiroshi Tanahashi battled Roman Reigns to a  double KO draw | 0:00 | ★★★1/4 | 73 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

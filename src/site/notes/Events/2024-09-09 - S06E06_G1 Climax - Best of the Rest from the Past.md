@@ -64,5 +64,5 @@
 | 49 |  | G1 Final: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | Kazuchika Okada beat Kensuke Sasaki in 15 Min 23 Sec with a Cobra Hold | 15:23 | ★★★★ | 87 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -41,5 +41,5 @@
 - 2024-03-07: Hiroshi Tanahashi vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 64%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

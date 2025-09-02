@@ -41,5 +41,5 @@
 - 2021-02-25: Militanter Mummenschanz vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — 68%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

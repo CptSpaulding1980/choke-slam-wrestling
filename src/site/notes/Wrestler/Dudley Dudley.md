@@ -41,5 +41,5 @@
 - 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 73%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

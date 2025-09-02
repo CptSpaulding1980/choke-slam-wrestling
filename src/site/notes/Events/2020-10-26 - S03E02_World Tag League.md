@@ -27,5 +27,5 @@
 | 12 |  | [[Wrestler/Barry Windham\|Barry Windham]] & [[Wrestler/Gail Kim\|Gail Kim]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] | Bob Backlund beat Gail Kim in 31 Min 27 Sec with a Crossface Chickenwing | 31:27 | ★★★★3/4 | 99 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

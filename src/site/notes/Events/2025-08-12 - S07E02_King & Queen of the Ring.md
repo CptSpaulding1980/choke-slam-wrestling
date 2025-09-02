@@ -44,5 +44,5 @@
 | 29 |  | King of the Ring Final: [[Wrestler/Chris Jericho\|Chris Jericho]] vs. [[Wrestler/Lex Luger\|Lex Luger]] | Chris Jericho beat Lex Luger in 14 Min 9 Sec with a Triple Powerbomb | 14:09 | ★★★★ | 84 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

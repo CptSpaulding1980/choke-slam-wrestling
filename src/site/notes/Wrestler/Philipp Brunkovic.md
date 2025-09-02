@@ -44,5 +44,5 @@
 - 2022-06-28: Threeway Fiasko in [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] — 93%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

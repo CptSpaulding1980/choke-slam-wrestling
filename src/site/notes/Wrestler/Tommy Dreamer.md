@@ -39,5 +39,5 @@
 - 2021-08-23: Big Van Vader vs. Tommy Dreamer in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 67%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

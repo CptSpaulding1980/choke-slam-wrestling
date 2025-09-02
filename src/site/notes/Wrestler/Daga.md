@@ -46,5 +46,5 @@
 - 2021-04-15: Texano Jr. vs. Gail Kim vs. Johnny Mundo vs. Shingo Takagi vs. Daga  vs. Dustin Rhodes vs. Kazuchika Okada vs. Taya Valkyrie in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 91%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -42,5 +42,5 @@ Keine bekannten Partner.
 - 2024-09-09: A: Kento Miyahara vs. Bret Hart in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 64%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

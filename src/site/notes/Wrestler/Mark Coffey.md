@@ -42,5 +42,5 @@
 - 2020-12-28: Sweet 'n Sour Elite vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 74%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

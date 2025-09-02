@@ -47,5 +47,5 @@
 - 2021-01-21: Kane vs. Madison Rayne vs. Tetsuya Naito vs. Dr. Wagner Jr. vs. Dustin Rhodes vs. Rey Fénix in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 98%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

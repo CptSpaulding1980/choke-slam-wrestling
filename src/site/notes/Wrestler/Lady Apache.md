@@ -43,5 +43,5 @@
 - 2025-06-03: Money in the Bank Match: Lady Apache vs. Lex Luger vs. Bam Bam Bigelow vs. Steve Austin vs. Roman Reigns vs. Awesome Kong in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 72%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

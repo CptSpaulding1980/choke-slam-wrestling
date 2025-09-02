@@ -36,5 +36,5 @@ Keine bekannten Partner.
 - 2021-10-17: <75 kg: Rey Mysterio Jr. vs. Dragon Lee in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|2021-10-17 - S04E04_Admiral Lordevans Rules!]] — 74%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

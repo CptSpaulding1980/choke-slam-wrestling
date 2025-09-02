@@ -31,5 +31,5 @@
 | 16 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Vince McMahon\|Vince McMahon]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) | Kazuchika Okada beat Vince McMahon in 9 Min 19 Sec with a Rainmaker | 9:19 | ★★★1/4 | 74 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

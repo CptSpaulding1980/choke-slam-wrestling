@@ -45,5 +45,5 @@
 - 2020-09-07: Andre the Giant Memorial Battle Royal in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — 82%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

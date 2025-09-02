@@ -52,5 +52,5 @@
 - 2025-06-03: Submission - Choke Slam International Championship: Daniel Bryan vs. Fit Finlay vs. Chris Jericho vs. Bret Hart in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 95%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

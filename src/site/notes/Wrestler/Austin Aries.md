@@ -47,5 +47,5 @@
 - 2023-08-22: Victoria Doble: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 98%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

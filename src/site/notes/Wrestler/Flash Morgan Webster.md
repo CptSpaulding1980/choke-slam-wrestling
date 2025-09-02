@@ -41,5 +41,5 @@
 - 2020-12-29: Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 80%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

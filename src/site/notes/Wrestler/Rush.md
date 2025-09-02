@@ -47,5 +47,5 @@
 - 2022-02-09: Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 96%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

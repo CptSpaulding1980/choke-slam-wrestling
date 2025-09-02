@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2022-11-07: Exhibition 2 - Bloodier than the Line in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 91%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

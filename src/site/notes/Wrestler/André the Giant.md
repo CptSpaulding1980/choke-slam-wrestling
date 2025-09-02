@@ -37,5 +37,5 @@
 - 2021-06-30: Dan Koloff HC Tournament: Hiromu Takahashi vs. The Butcher vs. André the Giant in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 81%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

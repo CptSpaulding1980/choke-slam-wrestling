@@ -44,5 +44,5 @@
 - 2021-08-23: Christian Cage vs. Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 67%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

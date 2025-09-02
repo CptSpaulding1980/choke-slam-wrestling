@@ -41,5 +41,5 @@ Keine bekannten Partner.
 - 2021-04-10: Rhea Ripley vs. Gail Kim in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 80%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

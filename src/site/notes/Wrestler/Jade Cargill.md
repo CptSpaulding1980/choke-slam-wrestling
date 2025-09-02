@@ -46,5 +46,5 @@
 - 2022-01-26: Streetball: Saint Rebel Radicalz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 70%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -52,5 +52,5 @@
 - 2021-07-26: Choke Slam Apple Championship: Hulk Hogan (w/Jimmy Hart) vs. Christian Cage (c) (w/Edge) in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] — 98%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

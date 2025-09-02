@@ -38,5 +38,5 @@
 - 2024-07-19: Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 73%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

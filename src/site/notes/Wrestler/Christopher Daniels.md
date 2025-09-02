@@ -40,5 +40,5 @@ Keine bekannten Partner.
 - 2021-06-30: Dan Koloff HC Tournament: Ivelisse vs. Christopher Daniels vs. Randy Savage in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 77%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

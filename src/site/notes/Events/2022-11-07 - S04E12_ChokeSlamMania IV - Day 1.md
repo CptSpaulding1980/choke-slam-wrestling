@@ -33,5 +33,5 @@
 | 18 |  | Exhibition 3 - Backstage Brawl | Ace Steel won a 5 wrestler battle royale in  12:38 | 12:38 | ★★★★3/4 | 97 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

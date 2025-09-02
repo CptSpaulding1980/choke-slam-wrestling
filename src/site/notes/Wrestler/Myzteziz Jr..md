@@ -44,5 +44,5 @@
 - 2024-10-22: Choke Slam Trios Champiosnhip - : Los Jinetes del Aire vs. Jun Akiyama, Roman Reigns, & Triple H in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 84%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

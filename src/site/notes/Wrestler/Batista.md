@@ -45,5 +45,5 @@
 - 2025-05-07: Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — 86%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

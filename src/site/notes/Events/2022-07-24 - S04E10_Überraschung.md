@@ -29,5 +29,5 @@
 | 14 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Manager/Philipp Brunkovic\|Philipp Brunkovic]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) | Bob Backlund beat Philipp Brunkovic in 5 Min 33 Sec with a Pinfall | 5:33 | ★1/2 | 57 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

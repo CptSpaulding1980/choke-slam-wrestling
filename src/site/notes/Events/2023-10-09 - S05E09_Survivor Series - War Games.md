@@ -30,5 +30,5 @@
 | 15 | Elimination Chamber | [[Elimination Chamber - Choke Slam World Championship\|Elimination Chamber - Choke Slam World Championship]]: [[Wrestler/Mr. Fuji\|Mr. Fuji]] vs. [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] vs. [[Wrestler/Scott Steiner\|Scott Steiner]] vs. [[Wrestler/Austin Aries\|Austin Aries]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] (c) | Hulk Hogan won a 6 wrestler battle royale in | 34:20 | ★★★★★ | 101 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

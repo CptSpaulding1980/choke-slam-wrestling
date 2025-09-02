@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2022-11-07: Me, Myself and I - Duo (Hendrik) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 79%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

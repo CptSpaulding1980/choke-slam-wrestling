@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/referees/ice-cube/","title":"Ice Cube","noteIcon":"","created":"2025-08-30T21:50:59.520+02:00"}
+{"dg-publish":true,"permalink":"/referees/ice-cube/","title":"Ice Cube","noteIcon":""}
 ---
 
 # **Ice Cube**

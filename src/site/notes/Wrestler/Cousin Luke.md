@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2022-01-26: Triple H vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 77%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

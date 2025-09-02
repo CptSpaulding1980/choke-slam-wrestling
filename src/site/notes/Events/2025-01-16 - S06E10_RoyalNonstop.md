@@ -28,5 +28,5 @@
 | 13 | Royal Rumble | [[Royal Rumble\|Royal Rumble]] | Samoa Joe won a 35 wrestler Royal Rumble in  76:37 | 76:37 | ★★★★1/4 | 89 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -53,5 +53,5 @@
 - 2021-01-21: Iron Man: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 100%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

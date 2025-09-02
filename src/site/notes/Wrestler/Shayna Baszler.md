@@ -47,5 +47,5 @@ Keine bekannten Partner.
 - 2023-10-09: Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 67%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

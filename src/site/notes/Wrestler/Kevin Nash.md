@@ -45,5 +45,5 @@
 - 2022-01-26: Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 78%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

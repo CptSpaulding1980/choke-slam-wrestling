@@ -32,5 +32,5 @@
 | 17 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) | Sheamus  beat Kazuchika Okada in 15 Min 22 Sec with a Texas Clover Hold | 15:22 | ★★★★1/2 | 95 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

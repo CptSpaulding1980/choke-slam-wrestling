@@ -35,5 +35,5 @@
 - 2021-06-30: Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 105%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

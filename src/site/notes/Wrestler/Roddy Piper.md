@@ -36,5 +36,5 @@ Keine bekannten Partner.
 - 2020-06-29: Roddy Piper vs. AJ Styles in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 73%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

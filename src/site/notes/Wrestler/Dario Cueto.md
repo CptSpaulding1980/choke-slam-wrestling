@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2023-04-19: Interview Segment /w Dario Cueto & Mr. Fuji in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 60%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

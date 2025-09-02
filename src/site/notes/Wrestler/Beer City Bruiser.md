@@ -44,5 +44,5 @@
 - 2023-07-30: Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 80%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

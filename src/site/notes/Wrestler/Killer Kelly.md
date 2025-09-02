@@ -52,5 +52,5 @@
 - 2021-11-01: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — 94%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

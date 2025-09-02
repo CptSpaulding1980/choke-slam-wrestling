@@ -52,5 +52,5 @@
 - 2025-08-21: Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 94%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

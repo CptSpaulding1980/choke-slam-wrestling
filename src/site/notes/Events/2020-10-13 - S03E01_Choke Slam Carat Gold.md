@@ -29,5 +29,5 @@
 | 14 |  | Carat Gold Finals: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | Kazuchika Okada beat Tetsuya Naito in 11 Min 23 Sec with a RING OUT | 11:23 | ★★1/2 | 67 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

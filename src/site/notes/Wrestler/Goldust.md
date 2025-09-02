@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2025-08-12: 1/8 Finals: Orange Cassidy vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 78%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

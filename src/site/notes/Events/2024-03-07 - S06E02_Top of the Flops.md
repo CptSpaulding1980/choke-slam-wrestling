@@ -38,5 +38,5 @@
 | 23 |  | [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Virgil\|Virgil]] vs. [[Wrestler/The Renegade\|The Renegade]] vs. [[Wrestler/Tensai\|Tensai]] | Triple H won a four-corners match against Virgil, The Renegade, &Tensai in  26:26 | 26:26 | ★★★★1/2 | 94 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

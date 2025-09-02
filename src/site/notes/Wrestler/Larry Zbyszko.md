@@ -45,5 +45,5 @@
 - 2021-12-28: Larry Zbyszko vs. CM Punk  in [[Events/2021-12-28 - S04E05_UFC\|2021-12-28 - S04E05_UFC]] — 88%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -24,5 +24,5 @@
 | 9 |  | Dan Koloff HC Tournament Finals:[[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Jeff Cobb\|Jeff Cobb]] | Johnny Mundo beat Jeff Cobb in 9 Min 7 Sec with a Twisting Moonsault Press | 9:07 | ★★★1/2 | 76 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

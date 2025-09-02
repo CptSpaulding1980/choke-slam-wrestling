@@ -41,5 +41,5 @@
 - 2022-01-26: Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 96%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

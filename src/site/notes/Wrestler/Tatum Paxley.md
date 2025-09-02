@@ -47,5 +47,5 @@
 - 2024-10-22: Banana Rumble in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 87%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

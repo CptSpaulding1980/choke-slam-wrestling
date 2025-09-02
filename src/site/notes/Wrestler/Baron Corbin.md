@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-08-12: 1/8 Finlay: Chris Jericho vs. Baron Corbin in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 96%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -53,5 +53,5 @@
 - 2020-06-29: Choke Slam Tag Team Championship: Shawn Michaels & Triple H vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 99%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

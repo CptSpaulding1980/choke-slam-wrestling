@@ -47,5 +47,5 @@
 - 2022-12-16: Miro & Brandon vs. AJ Styles & Cora Jade in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 83%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

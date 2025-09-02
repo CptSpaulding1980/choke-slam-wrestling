@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manager/philipp-brunkovic/","title":"Philipp Brunkovic","noteIcon":"","created":"2024-11-28T12:21:03.738+01:00"}
+{"dg-publish":true,"permalink":"/manager/philipp-brunkovic/","title":"Philipp Brunkovic","noteIcon":""}
 ---
 
 # **Philipp Brunkovic**

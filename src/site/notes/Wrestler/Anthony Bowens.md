@@ -41,5 +41,5 @@
 - 2022-10-02: Saint Rebel Radicalz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 76%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

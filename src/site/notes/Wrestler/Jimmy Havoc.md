@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2020-12-29: William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 88%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

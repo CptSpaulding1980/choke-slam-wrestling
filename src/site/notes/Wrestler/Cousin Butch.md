@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2022-01-26: Aoife Valkyrie vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 72%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

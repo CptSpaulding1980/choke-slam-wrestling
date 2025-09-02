@@ -52,5 +52,5 @@
 - 2023-06-26: Choke Slam Hardcore Championship: Alexa Bliss vs. Bret Hart vs. Hulk Hogan in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 99%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

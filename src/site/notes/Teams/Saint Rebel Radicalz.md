@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/teams/saint-rebel-radicalz/","title":"Saint Rebel Radicalz","noteIcon":"","created":"2024-11-28T09:48:21.071+01:00"}
+{"dg-publish":true,"permalink":"/teams/saint-rebel-radicalz/","title":"Saint Rebel Radicalz","noteIcon":""}
 ---
 
 # **Saint Rebel Radicalz**
-![Choke Slam_SRR.png|250](/img/user/z_Images/Choke%20Slam_SRR.png)
-Entrance Theme:  ![[SRR_depeche-mode-just-can-t-get-enough-live.mp3]]
-| Manager                                   |
-| ----------------------------------------- |
-| [[Manager/Pascal LePas\|Pascal LePas]] |
+![[Choke Slam_SRR.png\|250]]
+Entrance Theme:  ![[SRR_depeche-mode-just-can-t-get-enough-live.mp3\|SRR_depeche-mode-just-can-t-get-enough-live.mp3]]
+| Manager |
+| ------- |
 
 { .block-language-dataview}
 

@@ -55,5 +55,5 @@
 - 2021-04-29: Hulk Hogan vs. Jim Duggan in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

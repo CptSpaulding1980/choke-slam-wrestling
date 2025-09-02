@@ -38,5 +38,5 @@
 - 2022-02-09: Choke Slam Apple Championship: Kevin Steen vs. Rush vs. Rey Mysterio Jr. vs. AJ Styles (c) vs. Chris Candido vs. Lance Storm in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 95%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

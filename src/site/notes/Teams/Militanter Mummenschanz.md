@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/teams/militanter-mummenschanz/","title":"Militanter Mummenschanz","noteIcon":"","created":"2024-11-28T09:48:36.175+01:00"}
+{"dg-publish":true,"permalink":"/teams/militanter-mummenschanz/","title":"Militanter Mummenschanz","noteIcon":""}
 ---
 
 # **Militanter Mummenschanz**
-![Choke Slam_MM.png](/img/user/z_Images/Choke%20Slam_MM.png)
-Entrance Theme: ![[MM_Vagabonds.mp3]]
-| Manager                                             |
-| --------------------------------------------------- |
-| [[Manager/Philipp Brunkovic\|Philipp Brunkovic]] |
+![[Choke Slam_MM.png\|Choke Slam_MM.png]]
+Entrance Theme: ![[MM_Vagabonds.mp3\|MM_Vagabonds.mp3]]
+| Manager |
+| ------- |
 
 { .block-language-dataview}
 

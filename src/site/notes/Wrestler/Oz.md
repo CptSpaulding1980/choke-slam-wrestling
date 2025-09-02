@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2024-03-07: The Undertaker vs. Oz in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 77%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

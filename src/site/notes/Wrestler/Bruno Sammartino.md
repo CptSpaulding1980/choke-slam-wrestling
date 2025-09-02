@@ -40,5 +40,5 @@ Keine bekannten Partner.
 - 2021-01-21: Gail Kim vs. Bruno Sammartino in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 68%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

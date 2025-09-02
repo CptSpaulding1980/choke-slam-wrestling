@@ -42,5 +42,5 @@
 | 27 |  | [[KotR Finals - Choke Slam World Championship\|KotR Finals - Choke Slam World Championship]]: [[Wrestler/Alexa Bliss\|Alexa Bliss]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] (c) | Big Van Vader beat Alexa Bliss in 13 Min 57 Sec with a Vader Bomb | 13:57 | ★★★★1/4 | 88 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

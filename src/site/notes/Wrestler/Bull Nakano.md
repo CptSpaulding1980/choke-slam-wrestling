@@ -47,5 +47,5 @@
 - 2023-08-22: 2 out 3 Falls Trios: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 94%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -26,5 +26,5 @@
 | 11 |  | Plovdiv Pleasure: [[Wrestler/Hiromu Takahashi\|Hiromu Takahashi]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/Randy Savage\|Randy Savage]] | Randy Savage won a triple threat match against Hiromu Takahashi & Hulk Hogan in  29:29 | 29:29 | ★★★★★1/2 | 104 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

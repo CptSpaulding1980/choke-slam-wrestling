@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/teams/sweet-n-sour-elite/","title":"Sweet 'n Sour Elite","noteIcon":"","created":"2024-11-28T09:48:38.112+01:00"}
+{"dg-publish":true,"permalink":"/teams/sweet-n-sour-elite/","title":"Sweet 'n Sour Elite","noteIcon":""}
 ---
 
 # **Sweet 'n Sour Elite**
-![ChokeSlam_SnS.png|250](/img/user/img/user/z_Images/ChokeSlam_SnS.png)
+<img src="/img/user/z_Images/ChokeSlam_SnS.png" alt="Sweet 'n Sour Elite">
 
 ### Entrance Theme:
 ![[Sweet 'n Sour Elite.mp3\|Sweet 'n Sour Elite.mp3]]
@@ -40,8 +40,6 @@
   </a>
 </div>
 
-| Current Champions | Title |
-| ----------------- | ----- |
 
 | Current Champions | Title |
 | ----------------- | ----- |

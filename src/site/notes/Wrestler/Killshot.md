@@ -47,5 +47,5 @@
 - 2022-07-24: Sweet 'n Sour Elite vs. Killshot  , KENTA, & Edge in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 95%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

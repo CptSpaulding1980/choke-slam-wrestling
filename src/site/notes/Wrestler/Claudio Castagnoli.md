@@ -47,5 +47,5 @@
 - 2024-10-22: Path of God vs. Claudio Castagnoli & Pac in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 90%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

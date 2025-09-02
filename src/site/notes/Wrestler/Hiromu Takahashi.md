@@ -47,5 +47,5 @@
 - 2021-06-15: Pre Show: Hiromu Takahashi vs. KENTA in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 81%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

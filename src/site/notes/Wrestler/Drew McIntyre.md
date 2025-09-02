@@ -40,5 +40,5 @@ Keine bekannten Partner.
 - 2020-12-29: Britt Baker vs. Drew McIntyre in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 70%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

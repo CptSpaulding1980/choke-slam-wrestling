@@ -52,5 +52,5 @@
 - 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

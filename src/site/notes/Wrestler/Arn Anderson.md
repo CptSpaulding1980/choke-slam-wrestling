@@ -46,5 +46,5 @@
 - 2023-10-09: War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 73%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

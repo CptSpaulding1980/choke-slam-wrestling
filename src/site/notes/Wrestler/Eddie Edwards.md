@@ -47,5 +47,5 @@
 - 2022-12-16: Bob Backlund & Ric Flair vs. Eddie Edwards & Kenny Omega in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 96%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

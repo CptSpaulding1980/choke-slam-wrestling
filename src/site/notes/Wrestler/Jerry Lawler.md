@@ -50,5 +50,5 @@
 - 2020-06-09: Choke Slam World Championship: Randy Orton vs. Jerry Lawler (c) in [[Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] — 85%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

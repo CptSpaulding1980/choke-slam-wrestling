@@ -30,5 +30,5 @@
 | 15 |  | [[World Title\|World Title]] #1 Contender Elimination Match: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/The Undertaker\|The Undertaker]] | Big Van Vader won a triple threat match against Sid Vicious & The Undertaker  in  59:05 | 59:05 | ★★★★★ | 101 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

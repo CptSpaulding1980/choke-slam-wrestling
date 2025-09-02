@@ -33,5 +33,5 @@
 | 18 | Elimination Chamber | Elimination Chamber | Sean Waltman beat Bret Hart, Undertaker, Randy Savage, Ethan Page & Kensuke Sasaki in 32 Min 14 Sec with a Flying Leg Drop | 32:14 | ★★★★1/4 | 90 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

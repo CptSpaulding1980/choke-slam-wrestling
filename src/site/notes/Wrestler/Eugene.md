@@ -36,5 +36,5 @@
 - 2024-03-07: AJ Styles vs. Repo Man vs. Kwang vs. Eugene  in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 89%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

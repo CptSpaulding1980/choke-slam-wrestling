@@ -47,5 +47,5 @@
 - 2023-12-15: 1/4 Finale: Hollywood Hogan vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 83%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

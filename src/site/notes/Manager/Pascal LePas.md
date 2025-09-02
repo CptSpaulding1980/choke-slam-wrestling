@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manager/pascal-le-pas/","title":"Pascal LePas","noteIcon":"","created":"2024-11-28T10:47:43.948+01:00"}
+{"dg-publish":true,"permalink":"/manager/pascal-le-pas/","title":"Pascal LePas","noteIcon":""}
 ---
 
 # **Pascal LePas**

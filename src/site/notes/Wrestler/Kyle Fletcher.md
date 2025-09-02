@@ -41,5 +41,5 @@
 - 2021-04-10: Mark Davis & Kyle Fletcher vs. Sweet 'n Sour Elite in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 78%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

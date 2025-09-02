@@ -20,5 +20,5 @@
 | 5 |  | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] | Kazuchika Okada beat Bob Backlund in 25 Min 53 Sec with a German Suplex | 25:53 | ★★★★★ | 100 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

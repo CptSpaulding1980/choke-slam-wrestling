@@ -48,5 +48,5 @@
 | 33 |  | Finals (2): [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Triple H\|Triple H]] | The Undertaker beat Triple H in 3R 3 Min 43 Sec with a Triangle Scissors | 3:43 | ★★★★ | 87 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

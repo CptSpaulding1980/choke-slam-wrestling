@@ -47,5 +47,5 @@
 - 2021-01-21: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 86%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

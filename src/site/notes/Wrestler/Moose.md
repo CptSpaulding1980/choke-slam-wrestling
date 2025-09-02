@@ -38,5 +38,5 @@
 - 2024-07-19: Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 88%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

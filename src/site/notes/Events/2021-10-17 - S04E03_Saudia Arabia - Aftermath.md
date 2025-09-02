@@ -16,5 +16,5 @@
 | 1 |  | [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Killer Kelly\|Killer Kelly]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] | Bob Backlund won a triple threat match against Randy Savage & Killer Kelly in  22:00 | 22:00 | ★★★★★ | 103 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

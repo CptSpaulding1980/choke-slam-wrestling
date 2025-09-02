@@ -47,5 +47,5 @@
 - 2025-03-03: Choke Slam Trios Championship: Randy Savage vs. KUSHIDA vs. Joe Hendry vs. Gunther vs. El Hijo del Vikingo vs. Laredo Kid vs. Laredo Kid vs. Tetsuya Naito in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 98%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 92%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

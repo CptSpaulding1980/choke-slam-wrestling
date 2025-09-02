@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2025-08-21: Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 85%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -54,5 +54,5 @@
 - 2024-10-22: Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 101%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

@@ -17,5 +17,5 @@
 | 2 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] | Kazuchika Okada beat Thunder Rosa in 28 Min 55 Sec with a Cobra Hold | 28:55 | ★★★★3/4 | 96 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

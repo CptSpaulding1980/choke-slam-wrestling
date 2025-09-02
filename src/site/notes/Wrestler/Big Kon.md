@@ -47,5 +47,5 @@
 - 2024-02-15: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 67%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

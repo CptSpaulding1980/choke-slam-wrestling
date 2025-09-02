@@ -44,5 +44,5 @@
 - 2021-06-15: Jim Neidhart & Johnny Mundo vs. Saint Rebel Radicalz in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 85%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

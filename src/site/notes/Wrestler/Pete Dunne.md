@@ -42,5 +42,5 @@
 - 2020-12-29: Militanter Mummenschanz vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 72%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

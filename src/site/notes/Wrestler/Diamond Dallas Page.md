@@ -43,5 +43,5 @@
 - 2023-05-30: Militanter Mummenschanz vs. Dean Malenko & Diamond Dallas Page in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 82%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

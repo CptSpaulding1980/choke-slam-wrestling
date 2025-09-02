@@ -44,5 +44,5 @@ Keine bekannten Partner.
 - 2023-04-19: Choke Slam Womens Championship: Alexa Bliss vs. Toni Storm (c) in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 71%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

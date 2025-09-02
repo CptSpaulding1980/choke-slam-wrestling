@@ -35,5 +35,5 @@ Keine bekannten Partner.
 - 2020-12-29: Choke Slam World Championship: Vince McMahon vs. Kazuchika Okada (c) in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 74%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

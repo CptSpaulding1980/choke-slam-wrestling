@@ -40,5 +40,5 @@
 - 2022-11-07: Militanter Mummenschanz vs. EL Torito & Mascarit Sagrada in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 73%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

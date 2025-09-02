@@ -48,5 +48,5 @@ Keine bekannten Partner.
 - 2022-02-21: Choke Slam Apple Championship: EC3 vs. Lance Storm in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — 87%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

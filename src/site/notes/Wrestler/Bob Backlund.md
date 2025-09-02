@@ -53,5 +53,5 @@
 - 2020-10-26: Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

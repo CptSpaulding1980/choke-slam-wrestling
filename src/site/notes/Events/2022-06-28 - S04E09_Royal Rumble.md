@@ -22,5 +22,5 @@
 | 7 | Submission | [[Submission - Choke Slam World Championship\|Submission - Choke Slam World Championship]]: [[Wrestler/Shawn Michaels\|Shawn Michaels]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) | Bob Backlund won a triple threat match against Shawn Michaels & Big Van Vader in  33:52 | 33:52 | ★★★★3/4 | 99 |
 
 ## Links
-- [[Events\|Events]]
+- [[Statistiken/Events\|Events]]
 - [[Wrestler\|Wrestler]]

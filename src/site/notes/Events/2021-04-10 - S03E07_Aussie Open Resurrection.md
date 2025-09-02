@@ -3,10 +3,9 @@
 ---
 
 
-# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**Aussie Open Resurrection**
+# <img src="z_Images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E07_Aussie Open Resurrection**
 
 **Date:** 2021-04-10
-
 **Venue:** Yoyogi National Gymnasium - Tokyo, Japan
 
 ## Matches

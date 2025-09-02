@@ -227,7 +227,7 @@ table, .table {
 .sidebar {
   position: fixed;
   top: 0;
-  left: 0;
+  left: 60px;
   width: 60px;                 /* schmal im zugeklappten Zustand */
   height: 100vh;               /* volle Höhe */
   background-color: var(--cm-red);

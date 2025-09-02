@@ -283,31 +283,76 @@ table, .table {
   margin-left: 10px;
 }
 
-/* ================
-   Responsives Design
-   ================ */
-/* Hauptcontainer auf größeren Bildschirmen breiter */
-@media (min-width: 1200px) {
-    .main-container, .content {
-        max-width: 1440px;   /* oder 100% für volle Breite */
-        padding: 2em 3em;    /* etwas mehr horizontaler Abstand */
-    }
-
-    body.menu-open {
-        padding-left: 250px; /* wie gehabt, aber jetzt breiterer Content */
-    }
-
-    table {
-        max-width: none;     /* Tabellen dürfen jetzt Container-Breite ausnutzen */
-        min-width: 0;        /* kein Mindestlimit mehr */
-    }
-
-    .table-container {
-        overflow-x: auto;    /* falls sehr breite Tabellen, Scrollen erlauben */
-    }
+/* ======= Layout-Breite / Sidebar-Offsets (fügen am Ende ein) ======= */
+:root{
+  --sidebar-collapsed: 60px;
+  --sidebar-open: 200px;
+  --topbar-height: 120px;
+  --content-gutter: 40px; /* horizontaler Innenabstand */
 }
 
-/* Optional: Tabellen etwas luftiger gestalten */
+/* Override: falls pageheader.njk Body-Paddings setzt, hiermit überschreiben */
+body {
+  padding-top: var(--topbar-height) !important;
+  padding-left: calc(var(--sidebar-collapsed) + 10px) !important;
+  box-sizing: border-box;
+}
+
+/* wenn das Menü offen ist */
+body.menu-open {
+  padding-left: calc(var(--sidebar-open) + 10px) !important;
+}
+
+/* Content Container: auf großen Bildschirmen deutlich breiter nutzen */
+.main-container, .content {
+  max-width: none; /* entferne strikte Begrenzung */
+  width: calc(100% - (var(--content-gutter) * 2));
+  margin: 1.5rem auto;
+  padding: 2em var(--content-gutter);
+  box-sizing: border-box;
+}
+
+/* Überschriften bündig mit Tabellenanfang */
+.main-container h1,
+.main-container h2,
+.main-container h3,
+.main-container .section-title,
+.dashboard-title {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+/* Tabellen: keine fixe Breite mehr, nutze Container bzw. Scrollbar bei Bedarf */
+table, .table {
+  /* ersetzt: width: 1200px !important; */
+  width: 100% !important;
+  max-width: none !important;
+  table-layout: auto;      /* erlaubt flexible Spaltenbreiten */
+  min-width: 0;
+  overflow: hidden;
+}
+
+/* Damit sehr breite Tabellen nicht das Layout sprengen */
+.table-container {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Zellen: weniger strenge Mindestbreite, damit Wrapper passt */
+table td, .table td {
+  min-width: 0; /* verhindert erzwungenes horizontales Wachstum */
+  word-break: break-word;
+}
+
+/* Optional: auf sehr großen Bildschirmen etwas mehr Breite erlauben */
+@media (min-width: 1200px) {
+  .main-container, .content {
+    width: calc(100% - (var(--content-gutter) * 2));
+    max-width: 1400px; /* optional: cap, oder setze auf none für volle Breite */
+  }
+}
+
+/* Kleinere Anpassung an die Zellen-Padding (optisch luftiger) */
 table th, table td {
-    padding: 16px 18px;
+  padding: 14px 16px;
 }

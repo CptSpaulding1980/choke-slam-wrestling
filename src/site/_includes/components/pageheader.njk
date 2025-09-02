@@ -47,13 +47,6 @@
   display: block;
 }
 
-body {
-  /* Dynamischer left-padding für Inhalt, um nicht vom Menü überlappt zu werden */
-  padding-top: 120px;
-  padding-left: 50px;
-  transition: padding-left 0.3s ease;
-}
-
 /* Navigation */
 .site-nav {
   position: fixed;
@@ -115,36 +108,6 @@ body {
   /* Body muss zur Seite rücken, wenn Menü offen */
   body.menu-open {
     padding-left: 250px;
-  }
-}
-
-/* Events-Tabellen breiter und lesbarer */
-table {
-    width: 100%;             /* volle Breite nutzen */
-    max-width: 1200px;       /* auf großen Bildschirmen gedeckelt */
-    margin: 0 auto;          /* mittig ausrichten */
-    border-collapse: collapse;
-}
-
-table th, table td {
-    padding: 12px 15px;      /* mehr Abstand für bessere Lesbarkeit */
-    text-align: left;
-}
-
-table th {
-    background-color: #8b0000;  /* Dunkelrot wie Banner */
-    color: white;
-    font-weight: bold;
-}
-
-/* Desktop-Optimierung: Volle Breite nutzen */
-@media (min-width: 992px) {
-  table {
-    min-width: 800px; /* Mindestbreite für Desktop */
-  }
-  
-  .table-container {
-    overflow-x: visible; /* Kein Scroll auf Desktop */
   }
 }
 </style>

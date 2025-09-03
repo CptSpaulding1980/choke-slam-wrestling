@@ -27,9 +27,7 @@
 ## Titelregentschaften
 | Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
 |-------|---------------|----------------|------------------|---------|
-| Choke Slam World Championship Match | 1 | 1 | 2024-01-29 |  |
-| Choke Slam World Championship | 2 | 2 | 2025-08-21 | ✅ |
-
+| Choke Slam World Championship | 1 | 3 | 2024-01-29 | ✅ |
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (8x)

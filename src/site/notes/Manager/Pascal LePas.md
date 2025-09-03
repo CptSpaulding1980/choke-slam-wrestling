@@ -6,7 +6,7 @@
 ### Team: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]]
 <table>
 <tr>
-<td><img src="Pascal LePas.png" width="280" alt="Pascal LePas"></td>
+<td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png" width="280" alt="Pascal LePas"></td>
 <td>
 <b>Team:</b> Saint Rebel Radicalz<br>
 <b>DOB:</b> 11.11.1980<br>

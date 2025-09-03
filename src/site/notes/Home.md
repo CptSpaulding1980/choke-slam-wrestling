@@ -4,9 +4,7 @@
 
 # 🏠 **Choke Slam Wrestling Dashboard**
 
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
-
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_MM.png" width="170" alt="MM"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" width="170" alt="SnS"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SRR.png" width="170" alt="SRR">
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_MM.png" width="170" alt="MM"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" width="170" alt="SnS"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SRR.png" width="170" alt="SRR">
 ## 📅 **Nächste Events**
 | File                                                                                     | date       | venue                | location             |
 | ---------------------------------------------------------------------------------------- | ---------- | -------------------- | -------------------- |

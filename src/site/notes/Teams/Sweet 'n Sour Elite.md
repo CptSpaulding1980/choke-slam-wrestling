@@ -8,8 +8,7 @@
 <table>
 <tr>
 <td><b>Manager:</b>
-<div>
-<a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente/" class="champ-card">
+<div><a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente/" class="champ-card">
 	  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" width="300" alt="Hendrique Delafuente"></a>
 </div>
 </td>

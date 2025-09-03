@@ -4,13 +4,22 @@
 
 
 # Militanter Mummenschanz
-<div>
-<a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/philipp-brunkovic/" class="champ-card">
-  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkovic.png" width="280" alt="Philipp Brunkovic">
-</a>
-</div><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images//ChokeSlam_MM.png" width="280" alt="Militanter Mummenschanz">
 
-## Entrance Theme:
+<table>
+<tr>
+<td>
+<b>Manager:</b>
+<div>
+<a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/philipp-brunkhorst/" class="champ-card">
+	  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkhorst.png" width="300" alt="Philipp Brunkhorst"></a>
+</div>
+</td>
+<td><b>Logo:</b>
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images//ChokeSlam_MMpng" width="280" alt="Militanter Mummenschanz"></td>
+</tr>
+</table>
+
+### Entrance Theme:
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/Militanter_Mummenschanz.mp3" type="audio/mpeg">
 </audio>
@@ -42,3 +51,5 @@
 
 | Current Champions | Title |
 | ----------------- | ----- |
+
+{ .block-language-dataview}

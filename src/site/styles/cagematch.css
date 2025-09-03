@@ -48,6 +48,48 @@ nav a.active, .navbar a.active, nav a:hover {
     background-color: var(--cm-highlight);
 }
 
+/* ==============================
+   Stil der Breadcrumb-Navigation
+   ============================== */
+.breadcrumb-nav {
+  font-size: 1rem;
+  margin: 20px 0 12px 0;
+  padding-left: 8px;
+  color: var(--muted-text);
+  display: flex;
+  align-items: center;
+}
+
+.breadcrumb-list {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.breadcrumb-item {
+  color: var(--cm-red);
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.breadcrumb-item a {
+  color: var(--cm-red);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.breadcrumb-item a:hover {
+  color: var(--cm-highlight);
+  text-decoration: underline;
+}
+
+.breadcrumb-active {
+  color: var(--text-color);
+  font-weight: 400;
+}
+
 /* ================
    Text & Titel
    ================ */
@@ -344,3 +386,5 @@ table td, .table td {
 table th, table td {
   padding: 14px 16px;
 }
+
+

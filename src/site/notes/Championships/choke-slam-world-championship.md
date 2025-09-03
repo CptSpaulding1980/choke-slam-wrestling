@@ -17,8 +17,8 @@
 
 | Champion | Start Date | Start Event | End Date | End Event | Duration |
 |----------|------------|------------|----------|----------|----------|
-| [[Wrestler/Ric Flair\|Ric Flair]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 0 |
-| [[Wrestler/Jerry Lawler\|Jerry Lawler]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-09 | [[Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] | 1 |
+| [[Wrestler/Ric Flair\|Ric Flair]] | 2020-06-08 | [[/Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-08 | [[/Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 0 |
+| [[Wrestler/Jerry Lawler\|Jerry Lawler]] | 2020-06-08 | [[/Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-09 | [[/Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] | 1 |
 | [[Wrestler/Randy Orton\|Randy Orton]] | 2020-06-09 | [[Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 126 |
 | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 2021-01-21 | [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] | 100 |
 | [[Wrestler/Sheamus\|Sheamus]] | 2021-01-21 | [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] | 2021-01-21 | [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] | 0 |

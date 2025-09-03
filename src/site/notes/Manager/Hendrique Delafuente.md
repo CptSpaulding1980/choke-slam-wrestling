@@ -6,7 +6,7 @@
 ### Team: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]]
 <table>
 <tr>
-<td><img src="Hendrique Delafuente.png" width="280" alt="Hendrique Delafuente"></td>
+<td> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" width="280" alt="Hendrique Delafuente"></td>
 <td>
 <b>Team:</b> Sweet 'n Sour Elite<br>
 <b>DOB:</b> 01.10.1980<br>

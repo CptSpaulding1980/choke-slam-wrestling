@@ -1,9 +1,4 @@
-[
-  {
-    "path": "src/site/notes/Home.md",
-    "title": "Home",
-    "permalink": "/index.html",
-    "dg-home": true,
-    "last_modified": "2025-08-15T12:00:00Z"
-  }
-]
+{
+    "tags": "note",
+    "templateEngineOverride": "md"
+}

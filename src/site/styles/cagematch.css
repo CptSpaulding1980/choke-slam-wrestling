@@ -181,7 +181,7 @@ table, .table {
   margin-bottom: 0.5rem;
 }
 .champ-card span {
-  color: #fff;
+  color: var(--cm-red);
   font-weight: 600;
   font-size: 0.95rem;
 }

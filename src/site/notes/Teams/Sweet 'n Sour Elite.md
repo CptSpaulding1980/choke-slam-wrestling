@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/teams/sweet-n-sour-elite/","title":"Sweet 'n Sour Elite","noteIcon":""}
 ---
 
+
 # **Sweet 'n Sour Elite**
+
 <table>
 <tr>
 <td><b>Manager:</b>
@@ -10,7 +12,7 @@
   <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" width="280" alt="Hendrique Delafuente">
 </td>
 <td><b>Logo:</b>
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images//ChokeSlam_SnS.png" width="280" alt="Hendrique Delafuente"></td>
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images//ChokeSlam_SnS.png" width="280" alt="Sweet 'n Sour Elite"></td>
 </td>
 </tr>
 </table>

@@ -7,9 +7,12 @@
 
 <table>
 <tr>
-<td><b>Manager:</b>
+<td>
+<b>Manager:</b>
+<div>
 <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente/" class="champ-card">
-  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" width="280" alt="Hendrique Delafuente">
+	  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" width="280" alt="Hendrique Delafuente"></a>
+</div>
 </td>
 <td><b>Logo:</b>
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images//ChokeSlam_SnS.png" width="280" alt="Sweet 'n Sour Elite"></td>

@@ -5,9 +5,7 @@
 ### Choke Slam International Championship
 - formerly known as: Choke Slam Hardcore Championship
 - formerly known as: Choke Slam Apple Championship
-
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_International_Championship.png" alt="Choke Slam International Championship">
-
 ### Current Champion
 <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Name</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Last Championship Match</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-href="Daniel Bryan" href="Daniel Bryan" class="internal-link" target="_blank" rel="noopener nofollow">Daniel Bryan</a></span></td><td>08/21/2025</td><td><span><a data-href="2025-08-21 - S07E03_Changes III" href="2025-08-21 - S07E03_Changes III" class="internal-link" target="_blank" rel="noopener nofollow">2025-08-21 - S07E03_Changes III</a><br>
 Choke Slam International Championship: Bam Bam Bigelow vs. Chris Jericho vs. Daniel Bryan (c)</span></td></tr></tbody></table></div>

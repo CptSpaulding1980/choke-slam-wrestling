@@ -6,7 +6,7 @@
 ### Team: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]]
 <table>
 <tr>
-<td><img src="Philipp Brunkovic.png" width="280" alt="Philipp Brunkovic"></td>
+<td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkovic.png" width="280" alt="Philipp Brunkovic"></td>
 <td>
 <b>Team:</b> Militanter Mummenschanz<br>
 <b>DOB:</b> 17.06.1990<br>

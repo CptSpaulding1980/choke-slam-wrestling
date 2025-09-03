@@ -3,7 +3,7 @@
 ---
 
 
-# **Sweet 'n Sour Elite**
+# Sweet 'n Sour Elite
 
 <table>
 <tr>

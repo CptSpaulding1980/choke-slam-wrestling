@@ -3,15 +3,17 @@
 ---
 
 # **Sweet 'n Sour Elite**
-<img src="/img/user/z_Images/ChokeSlam_SnS.png" alt="Sweet 'n Sour Elite">
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" alt="Sweet 'n Sour Elite">
 
 ### Entrance Theme:
-![[Sweet 'n Sour Elite.mp3\|Sweet 'n Sour Elite.mp3]]
+<audio controls>
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/Sweet_n_Sour_Elite.mp3" type="audio/mpeg">
+</audio>
 
 ## **Manager**
 <div class="championship-grid">
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente" class="champ-card">
-  <img src="/img/user/z_Images/Hendrique_Delafuente.png" alt="Hendrique Delafuente">
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente/" class="champ-card">
+  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" alt="Hendrique Delafuente">
   <span>Hendrique Delafuente</span>
   </a>
 </div>
@@ -19,23 +21,23 @@
 ## **Team**
 <div class="championship-grid">
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bam-bam-bigelow" class="champ-card">
-    <img src="/img/user/z_Images/Bam_Bam_Bigelow.png" alt="Bam Bam Bigelow">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bam_Bam_Bigelow.png" alt="Bam Bam Bigelow">
     <span>Bam Bam Bigelow</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bandido" class="champ-card">
-    <img src="/img/user/z_Images/Bandido.png" alt="Bandido">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bandido.png" alt="Bandido">
     <span>Bandido</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/sasha-banks" class="champ-card">
-    <img src="/img/user/z_Images/Sasha_Banks.png" alt="Sasha Banks">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sasha_Banks.png" alt="Sasha Banks">
     <span>Sasha Banks</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/steve-austin" class="champ-card">
-    <img src="/img/user/z_Images/Steve_Austin.png" alt="Steve Austin">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Steve_Austin.png" alt="Steve Austin">
     <span>Steve Austin</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/" class="champ-card">
-    <img src="/img/user/z_Images/Mystery.png" alt="Mystery">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mystery.png" alt="Mystery">
     <span>To be announced</span>
   </a>
 </div>

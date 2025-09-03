@@ -3,20 +3,22 @@
 ---
 
 # **Sweet 'n Sour Elite**
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" alt="Sweet 'n Sour Elite">
+<table>
+<tr>
+<td><b>Manager:</b>
+<a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente/" class="champ-card">
+  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" width="280" alt="Hendrique Delafuente">
+</td>
+<td><b>Logo:</b>
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images//ChokeSlam_SnS.png" width="280" alt="Hendrique Delafuente"></td>
+</td>
+</tr>
+</table>
 
 ### Entrance Theme:
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/Sweet_n_Sour_Elite.mp3" type="audio/mpeg">
 </audio>
-
-## **Manager**
-<div class="championship-grid">
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/hendrique-delafuente/" class="champ-card">
-  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" alt="Hendrique Delafuente">
-  <span>Hendrique Delafuente</span>
-  </a>
-</div>
 
 ## **Team**
 <div class="championship-grid">

@@ -3,7 +3,7 @@
 ---
 
 ### Choke Slam World Trios Championship
-![[Choke Slam Trios Championship.png\|Choke Slam Trios Championship.png]]
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_Trios_Championship.png" alt="Choke Slam Trios Championship">
 <h3><span>Current Champion</span></h3><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Name</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Date</span></th><th class="table-view-th"><span>Last Championship Match</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-href="Militanter Mummenschanz" href="Militanter Mummenschanz" class="internal-link" target="_blank" rel="noopener nofollow">Militanter Mummenschanz</a></span></td><td>08/12/2025</td><td><span><a data-href="2025-08-12 - S07E02_King &amp; Queen of the Ring" href="2025-08-12 - S07E02_King &amp; Queen of the Ring" class="internal-link" target="_blank" rel="noopener nofollow">2025-08-12 - S07E02_King &amp; Queen of the Ring</a><br>
 Choke Slam Trios Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c)</span></td></tr></tbody></table></div>
 

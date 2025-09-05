@@ -2,122 +2,29 @@
   <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlamWrestling_Banner.png" alt="Choke Slam Wrestling Banner" />
 </header>
 
-<nav class="breadcrumb">
-  <a href="/teams/">Teams</a> &gt; 
-  <span>Militanter Mummenschanz</span>
-  <span>Saint Rebel Radicalz</span>
-  <span>Sweet 'n Sour Elite</span>
-</nav>
-
-<nav class="site-nav" id="site-nav" aria-label="Hauptnavigation">
+<nav class="sidebar" id="site-nav">
+  <button 
+    class="burger"
+    aria-label="Menü öffnen/schließen"
+    aria-expanded="false"
+    id="burger-toggle"
+    onclick="toggleMenu()"
+  >
+    ☰
+  </button>
   <ul>
     <li><a href="{{ '/choke-slam-wrestling/' | url }}">Home</a></li>
+    <li><a href="{{ '/audio/' | url }}">Audio Files</a></li>
     <li><a href="{{ '/championships/' | url }}">Championships</a></li>
     <li><a href="{{ '/events/' | url }}">Events</a></li>
+    <li><a href="{{ '/referees/' | url }}">Referees</a></li>
     <li><a href="{{ '/teams/' | url }}">Teams</a></li>
     <li><a href="{{ '/wrestler/' | url }}">Wrestler</a></li>
     <li><a href="{{ '/statistiken/' | url }}">Statistiken</a></li>
   </ul>
 </nav>
 
-<button 
-  class="menu-toggle" 
-  aria-label="Menü öffnen/schließen" 
-  aria-expanded="false"
-  id="burger-toggle"
-  onclick="toggleMenu()"
->
-  ☰ Menü
-</button>
-
 <link href="{{ '/styles/cagematch.css' | url }}" rel="stylesheet">
-
-<style>
-.site-banner {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  max-width: 100%;
-  height: 160px;
-  background-color: #730000;
-  z-index: 9999;
-  text-align: center;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-}
-
-.site-banner img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center; /* alternativ: top, bottom, left, right */
-  display: block;
-}
-
-/* Navigation */
-.site-nav {
-  position: fixed;
-  top: 120px;
-  left: 0;
-  width: 250px;
-  height: calc(100vh - 160px);
-  background: #730000;
-  transition: width 0.3s ease;
-  overflow: hidden;
-  z-index: 9998;
-}
-
-/* zugeklappt */
-.site-nav:not(.open) {
-  width: 70px; /* nur schmaler Balken */
-}
-
-/* aufgeklappt */
-.site-nav.open {
-  width: 250px;
-  overflow-y: auto;
-}
-
-/* Menüpunkte */
-.site-nav ul {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  margin: 0;
-  padding: 80px 0 0 0; /* Abstand nach oben für Burger */
-}
-
-/* Burger Button */
-.menu-toggle {
-  position: fixed;
-  top: 165px;
-  left: 15px;
-  z-index: 10000;
-  cursor: pointer;
-}
-
-/* Desktop: Inhalte neben Navigation ausrichten */
-@media (min-width: 992px) {
-  /* Navigation default versteckt */
-  .site-nav {
-    width: 100%;
-    left: -250px;
-    top: 120px;
-    height: calc(100vh - 120px);
-  }
-
-  /* Menü offen: Navigation zeigt, Inhalt rückt nach rechts */
-  .site-nav.open {
-    left: 0;
-  }
-
-  /* Body muss zur Seite rücken, wenn Menü offen */
-  body.menu-open {
-    padding-left: 250px;
-  }
-}
-</style>
 
 <script>
 function toggleMenu() {
@@ -127,7 +34,6 @@ function toggleMenu() {
   const expanded = btn.getAttribute('aria-expanded') === 'true';
   btn.setAttribute('aria-expanded', !expanded);
 
-  // Body Klasse setzen, um Inhalt dynamisch zu verschieben bei offenem Menü
   if(nav.classList.contains('open')){
     document.body.classList.add('menu-open');
   } else {

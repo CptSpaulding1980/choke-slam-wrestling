@@ -174,7 +174,7 @@ a:hover {
 
 /* Geöffnete Sidebar */
 .sidebar.open {
-  width: 200px;                 /* ausgeklappt */
+  width: var(--sidebar-open);            /* ausgeklappt */
   align-items: flex-start;
   padding-left: 10px;
 }
@@ -328,9 +328,14 @@ table, .table {
   margin: 1.5rem auto;
   padding-top: 2em;
   padding-right: var(--content-gutter);
-  margin-left: var(--sidebar-collapsed);
+  margin-left: calc(var(--sidebar-collapsed) +20px);
   flex-grow: 1;
   box-sizing: border-box;
+}
+
+body.menu-open .main-container,
+body.menu-open .content {
+  margin-left: calc(var(--sidebar-open) + 20px); /* Sidebar-Breite + Border */
 }
 
 /* Überschriften bündig mit Tabellenanfang */

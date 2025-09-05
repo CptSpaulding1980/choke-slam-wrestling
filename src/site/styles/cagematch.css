@@ -321,7 +321,6 @@ table, .table {
 :root{
   --sidebar-collapsed: 60px;
   --sidebar-open: 200px;
-  --topbar-height: 120px;
   --content-gutter: 40px; /* horizontaler Innenabstand */
 }
 

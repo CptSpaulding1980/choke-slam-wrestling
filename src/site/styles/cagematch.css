@@ -178,7 +178,7 @@ a:hover {
 
 /* ======= Layout-Breite / Sidebar-Offsets (fügen am Ende ein) ======= */
 :root{
-  --sidebar-collapsed: 60px;
+  --sidebar-collapsed: 40px;
   --sidebar-open: 200px;
   --topbar-height: 120px; /* Bannerhöhe */ 
   --content-gutter: 40px; /* horizontaler Innenabstand */

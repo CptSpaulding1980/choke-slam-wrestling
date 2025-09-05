@@ -106,7 +106,7 @@ a:hover {
   position: fixed;
   top: 0;
   left: 0;
-  width: 20px;                 /* immer schmaler Streifen im zugeklappten Zustand */
+  width: var(--sidebar-collapsed);                 /* immer schmaler Streifen im zugeklappten Zustand */
   height: 100vh;               /* volle Höhe */
   background-color: var(--cm-red);
   transition: width 0.3s ease;
@@ -121,7 +121,11 @@ a:hover {
 .sidebar .burger {
   background: none;
   border: none;
-  margin-top: 140px; 
+  margin-top: 140px;
+  margin-left: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: left 0.3s, transform 0.3s;
   font-size: 28px;
   color: white;
   cursor: pointer;
@@ -168,7 +172,8 @@ a:hover {
 }
 
 .sidebar.open .burger {
-  margin-left: 10px;
+  left: 0;
+  transform: none;
 }
 
 /* ======= Layout-Breite / Sidebar-Offsets (fügen am Ende ein) ======= */

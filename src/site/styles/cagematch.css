@@ -1,7 +1,8 @@
 /* =========================
-   Farbschema und Variablen
+   Variablen
    ========================= */
 :root {
+    /* Farben */
   --wrestling-purple: #8a2be2;
   --ring-rope: #4b0082;
   --background: #232136;
@@ -16,17 +17,26 @@
   --cm-highlight: #a32e1b;
   --cm-bg-light: #edecec;
   --cm-bg-card: #fafafa;
+
+   /* ======= Layout-Breite / Sidebar-Offsets (fügen am Ende ein) ======= */
+  --sidebar-collapsed: 20px;
+  --sidebar-open: 200px;
+  --topbar-height: 120px; /* Bannerhöhe */ 
+  --content-gutter: 40px; /* horizontaler Innenabstand */
 }
 
 /* ================
    Grundlayout
    ================ */
 body {
-    background: var(--cm-bg-light);
-    color: #222;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    margin: 0;
+  background: var(--cm-bg-light);
+  color: #222;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding-top: 130px !important;  /* nur so hoch wie Banner */
+  padding-left: var(--sidebar-collapsed);
+  box-sizing: border-box;
 }
 
 /* ================
@@ -106,7 +116,7 @@ a:hover {
   position: fixed;
   top: 0;
   left: 0;
-  width: var(--sidebar-collapsed);                 /* immer schmaler Streifen im zugeklappten Zustand */
+  width: var(--sidebar-collapsed);    /* immer schmaler Streifen im zugeklappten Zustand */
   height: 100vh;               /* volle Höhe */
   background-color: var(--cm-red);
   transition: width 0.3s ease;
@@ -174,20 +184,6 @@ a:hover {
 .sidebar.open .burger {
   left: 0;
   transform: none;
-}
-
-/* ======= Layout-Breite / Sidebar-Offsets (fügen am Ende ein) ======= */
-:root{
-  --sidebar-collapsed: 40px;
-  --sidebar-open: 200px;
-  --topbar-height: 120px; /* Bannerhöhe */ 
-  --content-gutter: 40px; /* horizontaler Innenabstand */
-}
-
-body {
-  padding-top: 130px !important;  /* nur so hoch wie Banner */
-  padding-left: var(--sidebar-collapsed);
-  box-sizing: border-box;
 }
 
 /* wenn das Menü offen ist */

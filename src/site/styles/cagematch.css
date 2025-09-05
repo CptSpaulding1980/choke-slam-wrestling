@@ -123,9 +123,9 @@ a:hover {
   background: none;
   border: none;
   margin-top: 140px; 
+  align-self: center; /* mittig auf der Leiste */
   font-size: 28px;
   color: white;
-  margin: 1rem 0;
   cursor: pointer;
 }
 

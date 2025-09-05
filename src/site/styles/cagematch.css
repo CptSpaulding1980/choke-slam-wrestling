@@ -68,7 +68,6 @@ a:hover {
 /* ==============================
    Banner / Header
    ============================== */
-
 .site-banner {
   position: fixed;
   top: 0;
@@ -122,8 +121,7 @@ a:hover {
 .sidebar .burger {
   background: none;
   border: none;
-  margin-top: 170px; 
-  align-self: center; /* mittig auf der Leiste */
+  margin-top: 140px; 
   font-size: 28px;
   color: white;
   cursor: pointer;
@@ -135,8 +133,10 @@ a:hover {
 .sidebar ul {
   list-style: none;
   padding: 0;
+  margin-top: 20px; 
   margin: 0;
   width: 100%;
+  text-align: left;
 }
 
 /* Links nur sichtbar, wenn Sidebar offen ist */
@@ -164,6 +164,7 @@ a:hover {
 .sidebar.open {
   width: 200px;                 /* ausgeklappt */
   align-items: flex-start;
+  padding-left: 10px;
 }
 
 .sidebar.open .burger {

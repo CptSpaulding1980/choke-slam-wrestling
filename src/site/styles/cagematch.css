@@ -102,7 +102,7 @@ a:hover {
 .sidebar, .sideinfo {
     background: #f7f7f7;
     color: #222;
-    border-left: 70px solid var(--cm-red);
+    border-left: 20px solid var(--cm-red);
     padding: 1.5em 1em;
     font-size: 14px;
 }

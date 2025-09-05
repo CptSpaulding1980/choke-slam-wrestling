@@ -13,8 +13,8 @@
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 | Tag Team | [[Championships/Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]] | Sting  won a 8 wrestler battle royale in  10:00 | 10:00 | ★★★ | 71 |
-| 2 | Tag Team | [[Championships/Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Christian Cage\|Christian Cage]] & [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | Sting  beat Tetsuya Naito in 28 Min 21 Sec with a Scorpion Death Lock | 28:21 | ★★★3/4 | 81 |
+| 1 | Tag Team | [[Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]] | Sting  won a 8 wrestler battle royale in  10:00 | 10:00 | ★★★ | 71 |
+| 2 | Tag Team | [[Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Christian Cage\|Christian Cage]] & [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | Sting  beat Tetsuya Naito in 28 Min 21 Sec with a Scorpion Death Lock | 28:21 | ★★★3/4 | 81 |
 | 3 | Threeway | Threeway Fiasko | Philipp Brunkovic won a triple threat match against Pascal LePas & Hendrique Delafuente in  19:59 | 19:59 | ★★★★1/2 | 93 |
 | 4 |  | [[Choke Slam Apple Championship\|Choke Slam Apple Championship]]: [[Wrestler/Kevin Steen\|Kevin Steen]] vs. [[Wrestler/Chris Hero\|Chris Hero]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Lance Storm\|Lance Storm]] | Lance Storm won a four-corners match against Kevin Steen, Chris Hero, &Tommy End in  16:34 | 16:34 | ★★★1/2 | 79 |
 | 5 |  | Interview Segment | Interview segment involving: Shawn Michaels,  Bob Backlund, & Big Van Vader | 4:38 | ★★★★1/2 | 92 |

@@ -24,7 +24,7 @@
 | 9 |  | [[Wrestler/Killer Kelly\|Killer Kelly]] vs. [[Wrestler/Vickie Guerrero\|Vickie Guerrero]] & [[Wrestler/Teddy Long\|Teddy Long]] | Killer Kelly beat Teddy Long in 13 Min 32 Sec with a Super Kick | 13:32 | ★★★3/4 | 80 |
 | 10 |  | [[Wrestler/Madison Rayne\|Madison Rayne]] vs. [[Wrestler/Vickie Guerrero\|Vickie Guerrero]] & [[Wrestler/Teddy Long\|Teddy Long]] | Madison Rayne beat Teddy Long in 20 Min 39 Sec with a DQ | 20:39 | ★★★1/2 | 79 |
 | 11 |  | [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] vs. [[Wrestler/Vickie Guerrero\|Vickie Guerrero]] & [[Wrestler/Teddy Long\|Teddy Long]] | Teddy Long beat Aoife Valkyrie in 26 Min 10 Sec with a Low Blow | 26:10 | ★★★1/2 | 79 |
-| 12 | Elimination Chamber | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]] Elimination Chamber: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Ethan Page\|Ethan Page]] vs. [[Wrestler/Ace Steel\|Ace Steel]] vs. [[Wrestler/Kane\|Kane]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) | Big Van Vader won a 7 wrestler battle royale in  24:24 | 24:24 | ★★★★3/4 | 98 |
+| 12 | Elimination Chamber | [[Choke Slam World Championship\|Choke Slam World Championship]] Elimination Chamber: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Ethan Page\|Ethan Page]] vs. [[Wrestler/Ace Steel\|Ace Steel]] vs. [[Wrestler/Kane\|Kane]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) | Big Van Vader won a 7 wrestler battle royale in  24:24 | 24:24 | ★★★★3/4 | 98 |
 
 ## Links
 - [[Events\|Events]]

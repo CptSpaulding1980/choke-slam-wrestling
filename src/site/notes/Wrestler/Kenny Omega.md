@@ -45,7 +45,7 @@
 - [[Wrestler/KENTA\|KENTA]] (1x)
 
 ## Top Matches
-- 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
+- 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 - 2023-02-22: Kenny Omega vs. Big Van Vader in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 100%
 - 2023-04-03: Kenny Omega vs. Zack Sabre Jr. in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 100%
 - 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%

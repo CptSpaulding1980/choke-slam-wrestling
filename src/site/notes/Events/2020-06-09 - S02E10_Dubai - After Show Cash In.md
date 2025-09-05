@@ -13,7 +13,7 @@
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Jerry Lawler\|Jerry Lawler]] (c) | Randy Orton beat Jerry Lawler in 15 Min 50 Sec with a RING OUT | 15:50 | ★★★★ | 85 |
+| 1 |  | [[Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Jerry Lawler\|Jerry Lawler]] (c) | Randy Orton beat Jerry Lawler in 15 Min 50 Sec with a RING OUT | 15:50 | ★★★★ | 85 |
 
 ## Links
 - [[Events\|Events]]

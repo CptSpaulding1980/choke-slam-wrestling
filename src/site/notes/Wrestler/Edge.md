@@ -45,7 +45,7 @@
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (2x)
 
 ## Top Matches
-- 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
+- 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 - 2021-04-15: Militanter Mummenschanz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 100%
 - 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%

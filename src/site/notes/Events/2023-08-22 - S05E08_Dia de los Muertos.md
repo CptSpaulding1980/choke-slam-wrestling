@@ -15,7 +15,7 @@
 |-----|------|-------|--------|------|--------|-------|
 | 1 |  | [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Bret Hart\|Bret Hart]] | Randy Savage beat Bret Hart in 12 Min 7 Sec with a Macho Flying Elbow Drop | 12:07 | ★★★★1/4 | 88 |
 | 2 | Hardcore | #1 [[Contender for the Hardcore Championship\|Contender for the Hardcore Championship]]: [[Wrestler/Jerry Lynn\|Jerry Lynn]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] | Jerry Lynn beat Hulk Hogan in 30 Min 11 Sec with a Cradle Piledriver | 30:11 | ★★★★3/4 | 98 |
-| 3 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] (c) | Hulk Hogan beat Brandon in 16 Min 54 Sec with an Atomic Leg Drop | 16:54 | ★★★★ | 84 |
+| 3 |  | [[Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] (c) | Hulk Hogan beat Brandon in 16 Min 54 Sec with an Atomic Leg Drop | 16:54 | ★★★★ | 84 |
 | 4 |  | [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] | Jay White beat Gigi Dolin in 28 Min 35 Sec with a Cross Arm Bloody Sunday | 28:35 | ★★★★1/2 | 93 |
 | 5 |  | [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] | Hulk Hogan beat Ludwig Kaiser in 26 Min 58 Sec with an Atomic Leg Drop | 26:58 | ★★★★ | 87 |
 | 6 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] | Hulk Hogan beat Miro in 28 Min 29 Sec with an Atomic Leg Drop | 28:29 | ★★★3/4 | 83 |

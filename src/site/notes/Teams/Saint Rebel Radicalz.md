@@ -46,7 +46,4 @@
   </a>
 </div>
 
-| Current Champions | Title |
-| ----------------- | ----- |
-
-{ .block-language-dataview}
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Current Champions</span><span class="dataview small-text">2</span></th><th class="table-view-th"><span>Title</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Awesome Kong" data-href="Awesome Kong" href="Awesome Kong" class="internal-link" target="_blank" rel="noopener nofollow">Awesome Kong</a></span></td><td><span>Choke Slam Womens Championship</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Roman Reigns" data-href="Roman Reigns" href="Roman Reigns" class="internal-link" target="_blank" rel="noopener nofollow">Roman Reigns</a></span></td><td><span>Choke Slam World Championship</span></td></tr></tbody></table></div>

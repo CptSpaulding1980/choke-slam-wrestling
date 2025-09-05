@@ -5,7 +5,7 @@
 
 ### Choke Slam World Championship
 
-![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_World_Championship.png)
+![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_World_Championship.png)
 
 ## Current Champion
 
@@ -15,21 +15,20 @@
 
 ## Title History
 
-| Champion | Start Date | Start Event | End Date | End Event | Duration |
-|----------|------------|------------|----------|----------|----------|
-| [[Wrestler/Ric Flair\|Ric Flair]] | 2020-06-08 | [[/Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-08 | [[/Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 0 |
-| [[Wrestler/Jerry Lawler\|Jerry Lawler]] | 2020-06-08 | [[/Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-09 | [[/Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] | 1 |
-| [[Wrestler/Randy Orton\|Randy Orton]] | 2020-06-09 | [[Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 126 |
-| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 2021-01-21 | [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] | 100 |
-| [[Wrestler/Sheamus\|Sheamus]] | 2021-01-21 | [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] | 2021-01-21 | [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] | 0 |
-| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 2021-01-21 | [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] | 2021-04-15 | [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath\|2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath]] | 84 |
-| [[Wrestler/Johnny Mundo\|Johnny Mundo]] | 2021-04-15 | [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath\|2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath]] | 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | 25 |
-| [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | 2021-07-26 | [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] | 77 |
-| [[Wrestler/Randy Savage\|Randy Savage]] | 2021-07-26 | [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] | 2021-08-23 | [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] | 28 |
-| [[Wrestler/Bob Backlund\|Bob Backlund]] | 2021-08-23 | [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 451 |
-| [[Wrestler/Big Van Vader\|Big Van Vader]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 194 |
-| [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 244 |
-| [[Wrestler/Roman Reigns\|Roman Reigns]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | aktuell | [[-\|-]] | ongoing |
+| Champion | Start Date | Start Event | End Date | End Event | Duration | Defenses |
+|----------|------------|-------------|----------|-----------|----------|----------|
+| [[Wrestler/Ric Flair\|Ric Flair]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 0 | 0 |
+| [[Wrestler/Jerry Lawler\|Jerry Lawler]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-09 | [[Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] | 1 | 0 |
+| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 2021-01-21 | [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] | 100 | 1 |
+| [[Wrestler/Sheamus\|Sheamus]] | 2021-01-21 | [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] | 2021-01-21 | [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] | 0 | 0 |
+| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 2021-01-21 | [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] | 2021-04-15 | [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath\|2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath]] | 84 | 1 |
+| [[Wrestler/Johnny Mundo\|Johnny Mundo]] | 2021-04-15 | [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath\|2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath]] | 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | 25 | 0 |
+| [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | 2021-07-26 | [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] | 77 | 2 |
+| [[Wrestler/Randy Savage\|Randy Savage]] | 2021-07-26 | [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] | 2021-08-23 | [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] | 28 | 0 |
+| [[Wrestler/Bob Backlund\|Bob Backlund]] | 2021-08-23 | [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 451 | 5 |
+| [[Wrestler/Big Van Vader\|Big Van Vader]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 194 | 2 |
+| [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 244 | 3 |
+| [[Wrestler/Roman Reigns\|Roman Reigns]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | aktuell | [[-\|-]] | ongoing | 4 |
 
 ## Appearances
 

@@ -43,7 +43,7 @@
 - 2021-01-21: KENTA vs. Austin Aries vs. Kazuchika Okada in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 101%
 - 2021-01-21: Iron Man: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 100%
 - 2021-01-21: Iron Man: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 100%
-- 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
+- 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 - 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
 
 ## Links

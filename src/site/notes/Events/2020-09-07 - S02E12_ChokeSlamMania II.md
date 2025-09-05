@@ -24,7 +24,7 @@
 | 9 |  | [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] | Sid Vicious beat Hulk Hogan in 29 Min 0 Sec with a Full Nelson Buster | 29:00 | ★★★★3/4 | 99 |
 | 10 |  | [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] | Hulk Hogan beat Randy Orton in 19 Min 42 Sec with an Atomic Leg Drop | 19:42 | ★★★★1/4 | 90 |
 | 11 | No Holds Barred | Castle vs. Wagner - [[No Holds Barred\|No Holds Barred]] | Dr. Wagner Jr. beat Dalton Castle in 18 Min 31 Sec with a Heavyweight Diving Body Press | 18:31 | ★★★★1/2 | 92 |
-| 12 | Tag Team | [[Championships/Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]] | Owen Hart beat Shawn Michaels in 25 Min 1 Sec with a Sharpshooter | 25:01 | ★★★★3/4 | 96 |
+| 12 | Tag Team | [[Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]] | Owen Hart beat Shawn Michaels in 25 Min 1 Sec with a Sharpshooter | 25:01 | ★★★★3/4 | 96 |
 | 13 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] [[collide - Choke Slam World Championship\|collide - Choke Slam World Championship]]: [[Wrestler/Big Van Vader\|Big Van Vader]]  vs. [[Wrestler/Randy Orton\|Randy Orton]] (c) | Randy Orton beat Big Van Vader in 16 Min 25 Sec with a RKO | 16:25 | ★★★★1/4 | 91 |
 
 ## Links

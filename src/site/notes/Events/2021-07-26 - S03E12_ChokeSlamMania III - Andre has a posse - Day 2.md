@@ -20,7 +20,7 @@
 | 5 |  | [[Choke Slam Apple Championship\|Choke Slam Apple Championship]]: [[Wrestler/Hulk Hogan\|Hulk Hogan]] (J/[[immy Hart\|immy Hart]]) vs. [[Wrestler/Christian Cage\|Christian Cage]] (c) (E/[[dge\|dge]]) | Christian Cage beat Hulk Hogan in 25 Min 32 Sec with an Unprettier | 25:32 | ★★★★3/4 | 98 |
 | 6 |  | Dan Koloff HC Tournament 1/2 Finals: [[Wrestler/Johnny Mundo\|Johnny Mundo]] (T/[[he Miz\|he Miz]]) vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | Johnny Mundo beat Tetsuya Naito in 9 Min 51 Sec with a Twisting Moonsault Press | 9:51 | ★★★1/2 | 77 |
 | 7 |  | Dan Koloff HC Tournament 1/2 Finals: [[Wrestler/Jeff Cobb\|Jeff Cobb]] (E/[[dge\|dge]]) vs. [[Wrestler/The Butcher\|The Butcher]] | Jeff Cobb beat The Butcher in 13 Min 50 Sec with a Camel Clutch | 13:50 | ★★★★1/4 | 88 |
-| 8 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (c) | Randy Savage beat Tetsuya Naito in 60 Min 0 Sec with a Sledgehammer | 60:00 | ★★★★3/4 | 98 |
+| 8 |  | [[Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (c) | Randy Savage beat Tetsuya Naito in 60 Min 0 Sec with a Sledgehammer | 60:00 | ★★★★3/4 | 98 |
 | 9 |  | Dan Koloff HC Tournament Finals:[[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Jeff Cobb\|Jeff Cobb]] | Johnny Mundo beat Jeff Cobb in 9 Min 7 Sec with a Twisting Moonsault Press | 9:07 | ★★★1/2 | 76 |
 
 ## Links

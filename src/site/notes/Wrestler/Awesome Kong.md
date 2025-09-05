@@ -15,7 +15,7 @@
         </td>
         </tr>
         </table>
-        
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

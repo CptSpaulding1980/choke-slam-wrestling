@@ -25,7 +25,7 @@
 | 10 |  | [[Wrestler/Killshot\|Killshot]] vs. [[Wrestler/Timothy Thatcher\|Timothy Thatcher]] | Timothy Thatcher beat Killshot in 14 Min 28 Sec with a Bow and Arrow Hold | 14:28 | ★★★3/4 | 81 |
 | 11 |  | [[Wrestler/Thunder Rosa\|Thunder Rosa]] vs. [[Wrestler/Timothy Thatcher\|Timothy Thatcher]] | Thunder Rosa beat Timothy Thatcher in 22 Min 48 Sec with a Dragon Clutch | 22:48 | ★★★★3/4 | 97 |
 | 12 |  | [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Timothy Thatcher\|Timothy Thatcher]] | Timothy Thatcher beat Bob Backlund in 27 Min 3 Sec with a Key Lock | 27:03 | ★★★★★ | 100 |
-| 13 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]] (vacant): [[Wrestler/Kurt Angle\|Kurt Angle]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | Kazuchika Okada won a triple threat match against Kurt Angle & Tetsuya Naito in  64:18 | 64:18 | ★★★★★★ | 105 |
+| 13 |  | [[Choke Slam World Championship\|Choke Slam World Championship]] (vacant): [[Wrestler/Kurt Angle\|Kurt Angle]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | Kazuchika Okada won a triple threat match against Kurt Angle & Tetsuya Naito in  64:18 | 64:18 | ★★★★★★ | 105 |
 | 14 |  | Carat Gold Finals: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | Kazuchika Okada beat Tetsuya Naito in 11 Min 23 Sec with a RING OUT | 11:23 | ★★1/2 | 67 |
 
 ## Links

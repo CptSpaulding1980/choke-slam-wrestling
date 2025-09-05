@@ -29,7 +29,7 @@
 | 14 |  | [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] vs. [[Wrestler/Bruno Sammartino\|Bruno Sammartino]] | Bruno Sammartino beat Sgt. Slaughter in 5 Min 16 Sec with a RING OUT | 10:10 | ★★★ | 69 |
 | 15 |  | [[Wrestler/Gail Kim\|Gail Kim]] vs. [[Wrestler/Bruno Sammartino\|Bruno Sammartino]] | Bruno Sammartino beat Gail Kim in 6 Min 35 Sec with a Sammartino Bearhug | 12:12 | ★★★ | 68 |
 | 16 |  | [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Madison Rayne\|Madison Rayne]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] vs. [[Wrestler/Rey Fénix\|Rey Fénix]] | Tetsuya Naito won a 6 wrestler battle royale in | 20:49 | ★★★★3/4 | 98 |
-| 17 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) | Sheamus  beat Kazuchika Okada in 15 Min 22 Sec with a Texas Clover Hold | 15:22 | ★★★★1/2 | 95 |
+| 17 |  | [[Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) | Sheamus  beat Kazuchika Okada in 15 Min 22 Sec with a Texas Clover Hold | 15:22 | ★★★★1/2 | 95 |
 
 ## Links
 - [[Events\|Events]]

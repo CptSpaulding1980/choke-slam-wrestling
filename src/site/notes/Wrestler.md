@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/","tags":["index","wrestler"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/wrestler/","title":"Wrestler","tags":["wrestler","index"],"noteIcon":"🤼"}
 ---
 
 
-# Wrestler
+# 🤼 **Wrestler**
 
 | Wrestler | Matches | Wins | Losses | Draws | Win % | Ø Rating |
 |----------|---------|------|--------|-------|--------|-----------|

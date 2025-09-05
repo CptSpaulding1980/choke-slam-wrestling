@@ -28,7 +28,7 @@
 | 13 |  | [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Trent Seven\|Trent Seven]] & [[Wrestler/Tyler Bate\|Tyler Bate]] | Kurt Angle beat Pete Dunne in 18 Min 18 Sec with an Angle Lock | 18:18 | ★★★1/4 | 72 |
 | 14 |  | [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Trent Seven\|Trent Seven]] & [[Wrestler/Tyler Bate\|Tyler Bate]] | Tyler Bate beat Thunder Rosa in 26 Min 51 Sec with a RING OUT | 26:51 | ★★★★1/2 | 95 |
 | 15 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Trent Seven\|Trent Seven]], & [[Wrestler/Tyler Bate\|Tyler Bate]] | Kazuchika Okada beat Pete Dunne in 24 Min 11 Sec with a Rainmaker | 24:11 | ★★★★1/4 | 89 |
-| 16 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Vince McMahon\|Vince McMahon]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) | Kazuchika Okada beat Vince McMahon in 9 Min 19 Sec with a Rainmaker | 9:19 | ★★★1/4 | 74 |
+| 16 |  | [[Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Vince McMahon\|Vince McMahon]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) | Kazuchika Okada beat Vince McMahon in 9 Min 19 Sec with a Rainmaker | 9:19 | ★★★1/4 | 74 |
 
 ## Links
 - [[Events\|Events]]

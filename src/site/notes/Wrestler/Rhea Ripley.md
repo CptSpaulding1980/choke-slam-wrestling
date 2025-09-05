@@ -36,9 +36,9 @@ Keine bekannten Partner.
 ## Top Matches
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
-- 2021-04-10: Rhea Ripley vs. Ivelisse in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 86%
-- 2021-04-10: Rhea Ripley vs. Kane in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 84%
-- 2021-04-10: Rhea Ripley vs. Gail Kim in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 80%
+- 2021-04-10: Rhea Ripley vs. Ivelisse in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 86%
+- 2021-04-10: Rhea Ripley vs. Kane in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 84%
+- 2021-04-10: Rhea Ripley vs. Gail Kim in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 80%
 
 ## Links
 - [[Events\|Events]]

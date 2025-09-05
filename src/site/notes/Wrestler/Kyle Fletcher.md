@@ -36,9 +36,9 @@
 - [[Wrestler/Mark Davis\|Mark Davis]] (3x)
 
 ## Top Matches
-- 2021-04-10: Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
-- 2021-04-10: Mark Davis & Kyle Fletcher vs. Saint Rebel Radicalz in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
-- 2021-04-10: Mark Davis & Kyle Fletcher vs. Sweet 'n Sour Elite in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 78%
+- 2021-04-10: Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
+- 2021-04-10: Mark Davis & Kyle Fletcher vs. Saint Rebel Radicalz in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
+- 2021-04-10: Mark Davis & Kyle Fletcher vs. Sweet 'n Sour Elite in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 78%
 
 ## Links
 - [[Events\|Events]]

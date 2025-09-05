@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/teams/","title":"Teams","noteIcon":""}
+{"dg-publish":true,"permalink":"/teams/","title":"Teams","tags":["teams"],"noteIcon":"🤝"}
 ---
 
-# **Teams**
+#  🤝**Teams**
 Dies ist die Übersicht aller teilnehmenden Teams:
 
 <div class="championship-grid">

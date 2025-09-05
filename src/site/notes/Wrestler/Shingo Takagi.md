@@ -40,8 +40,8 @@
 - [[Wrestler/Rey Fénix\|Rey Fénix]] (1x)
 
 ## Top Matches
-- 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
-- 2021-04-10: Kazuchika Okada vs. Shingo Takagi in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
+- 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
+- 2021-04-10: Kazuchika Okada vs. Shingo Takagi in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 - 2024-03-07: Shingo Takagi vs. R-Truth vs. The Shockmaster vs. Max Moon in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 100%
 - 2024-02-15: Shingo Takagi vs. The Undertaker in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 94%
 - 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%

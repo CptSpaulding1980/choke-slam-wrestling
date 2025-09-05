@@ -40,7 +40,7 @@
 - [[Wrestler/Rush\|Rush]] (4x)
 
 ## Top Matches
-- 2021-04-10: Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
+- 2021-04-10: Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 - 2021-04-15: Militanter Mummenschanz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 100%
 - 2022-11-07: Sweet 'n Sour Elite vs. EL Torito & Little Beaver in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 100%
 - 2022-01-26: Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 99%

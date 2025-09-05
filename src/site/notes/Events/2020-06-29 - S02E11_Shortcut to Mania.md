@@ -26,7 +26,7 @@
 | 11 |  | Kings Court vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] | Bam Bam Bigelow beat King Corbin in 23 Min 15 Sec with a Sunset Flip | 23:15 | ★★★1/2 | 77 |
 | 12 |  | [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Randy Orton\|Randy Orton]] | AJ Styles beat Randy Orton in 14 Min 7 Sec with a RING OUT | 14:07 | ★★★3/4 | 81 |
 | 13 |  | [[Wrestler/Cesaro\|Cesaro]]  vs. [[Wrestler/Diesel\|Diesel]] | Diesel beat Cesaro  in 9 Min 41 Sec with a Jacknife Powerbomb | 9:41 | ★★1/2 | 67 |
-| 14 | Tag Team | [[Championships/Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]]: [[Wrestler/Shawn Michaels\|Shawn Michaels]] & [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Big Van Vader\|Big Van Vader]] (c) | Triple H beat Big Van Vader in 41 Min 27 Sec with a Sleeper Hold | 41:27 | ★★★★3/4 | 99 |
+| 14 | Tag Team | [[Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]]: [[Wrestler/Shawn Michaels\|Shawn Michaels]] & [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Big Van Vader\|Big Van Vader]] (c) | Triple H beat Big Van Vader in 41 Min 27 Sec with a Sleeper Hold | 41:27 | ★★★★3/4 | 99 |
 | 15 |  | [[World Title\|World Title]] #1 Contender Elimination Match: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/The Undertaker\|The Undertaker]] | Big Van Vader won a triple threat match against Sid Vicious & The Undertaker  in  59:05 | 59:05 | ★★★★★ | 101 |
 
 ## Links

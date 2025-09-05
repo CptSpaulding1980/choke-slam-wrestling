@@ -26,7 +26,7 @@
 | 11 |  | [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Kane\|Kane]] | Kane beat Big Van Vader in 8 Min 14 Sec with a High Angle Chokeslam | 8:14 | ★★★3/4 | 82 |
 | 12 |  | [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Brock Lesnar\|Brock Lesnar]] | Sting beat Brock Lesnar in 22 Min 11 Sec with a Scorpion Death Lock | 22:11 | ★★★★★ | 102 |
 | 13 | Royal Rumble | [[Royal Rumble\|Royal Rumble]] Match | Triple H won a 27 wrestler Royal Rumble in  58:37 | 58:37 | ★★★★1/2 | 92 |
-| 14 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Manager/Philipp Brunkovic\|Philipp Brunkovic]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) | Bob Backlund beat Philipp Brunkovic in 5 Min 33 Sec with a Pinfall | 5:33 | ★1/2 | 57 |
+| 14 |  | [[Choke Slam World Championship\|Choke Slam World Championship]]: [[Manager/Philipp Brunkovic\|Philipp Brunkovic]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) | Bob Backlund beat Philipp Brunkovic in 5 Min 33 Sec with a Pinfall | 5:33 | ★1/2 | 57 |
 
 ## Links
 - [[Events\|Events]]

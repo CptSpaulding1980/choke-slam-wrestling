@@ -41,7 +41,7 @@
 
 ## Top Matches
 - 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
-- 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
+- 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 - 2020-12-28: Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 96%
 - 2020-12-28: Killshot vs. Bob Backlund vs. Sgt. Slaughter vs. Sheamus  vs. Finn Bálor in [[Events/2020-12-28 - S03E03_Battle of Britain - Pre Show\|2020-12-28 - S03E03_Battle of Britain - Pre Show]] — 95%
 - 2022-07-24: Sweet 'n Sour Elite vs. Killshot  , KENTA, & Edge in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 95%

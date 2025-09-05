@@ -41,8 +41,8 @@
 | 26 |  | [[Path of God\|Path of God]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] | Randy Savage beat Laredo Kid in 13 Min 38 Sec with a Macho Flying Elbow Drop | 13:38 | ★★★3/4 | 83 |
 | 27 |  | [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] & [[Wrestler/Pac\|Pac]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] | The Undertaker beat Pac in 17 Min 5 Sec with a RING OUT | 17:05 | ★★★3/4 | 81 |
 | 28 |  | Banana Rumble | Triple H won a 12 wrestler Royal Rumble in  39:13 | 39:13 | ★★★★ | 87 |
-| 29 | Tag Team | [[Championships/Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Jon Moxley\|Jon Moxley]](c) | Gunther beat Jon Moxley in 15 Min 42 Sec with a Powerbomb | 15:42 | ★★★★1/2 | 94 |
-| 30 |  | [[Championships/Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] (c) | Hiroshi Tanahashi battled Roman Reigns to a  double KO draw | 0:00 | ★★★1/4 | 73 |
+| 29 | Tag Team | [[Choke Slam Tag Team Championship\|Choke Slam Tag Team Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Jon Moxley\|Jon Moxley]](c) | Gunther beat Jon Moxley in 15 Min 42 Sec with a Powerbomb | 15:42 | ★★★★1/2 | 94 |
+| 30 |  | [[Choke Slam World Championship\|Choke Slam World Championship]]: [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] (c) | Hiroshi Tanahashi battled Roman Reigns to a  double KO draw | 0:00 | ★★★1/4 | 73 |
 
 ## Links
 - [[Events\|Events]]

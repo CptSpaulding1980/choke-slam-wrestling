@@ -13,11 +13,11 @@
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Championships/Choke Slam Womens Championship\|Choke Slam Womens Championship]]: [[Wrestler/Shayna Baszler\|Shayna Baszler]] vs. [[Wrestler/Alexa Bliss\|Alexa Bliss]] (c) | Alexa Bliss beat Shayna Baszler in 10 Min 45 Sec with a School Boy | 10:45 | ★★1/2 | 67 |
+| 1 |  | [[Choke Slam Womens Championship\|Choke Slam Womens Championship]]: [[Wrestler/Shayna Baszler\|Shayna Baszler]] vs. [[Wrestler/Alexa Bliss\|Alexa Bliss]] (c) | Alexa Bliss beat Shayna Baszler in 10 Min 45 Sec with a School Boy | 10:45 | ★★1/2 | 67 |
 | 2 |  | [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] | Thea Hail beat Noam Dar in 37 Min 37 Sec with a Flying Rollup Pin | 32:14 | ★★★★3/4 | 99 |
 | 3 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] | Jon Moxley beat Jonathan Gresham in 52 Min 27 Sec with a Fierce Elbow Strikes | 27:07 | ★★★★3/4 | 99 |
 | 4 |  | [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] | Jon Moxley beat Thea Hail in 85 Min 19 Sec with a Paradigm Shift | 85:19 | ★★★★★ | 103 |
-| 5 |  | [[Championships/Choke Slam Trios Championship\|Choke Slam Trios Championship]]: Los Jinetes del Aire vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] & [[Wrestler/Kenny Omega\|Kenny Omega]] (c) | Hulk Hogan beat Laredo Kid in 29 Min 50 Sec with an Atomic Leg Drop | 29:50 | ★★★1/4 | 74 |
+| 5 |  | [[Choke Slam Trios Championship\|Choke Slam Trios Championship]]: Los Jinetes del Aire vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) | Hulk Hogan beat Laredo Kid in 29 Min 50 Sec with an Atomic Leg Drop | 29:50 | ★★★1/4 | 74 |
 | 6 |  | [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Adam Cole\|Adam Cole]] | AJ Styles beat Adam Cole in 12 Min 40 Sec with a Tower Hacker Bomb | 12:40 | ★★★3/4 | 80 |
 | 7 |  | [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] vs. [[Wrestler/Jay Briscoe\|Jay Briscoe]] | Jay Briscoe beat Ludwig Kaiser in 12 Min 29 Sec with a Jay Driller | 12:29 | ★★★1/4 | 74 |
 | 8 |  | [[Wrestler/Jon Moxley\|Jon Moxley]] vs. [[Wrestler/Cody Rhodes\|Cody Rhodes]] | Jon Moxley beat Cody Rhodes in 14 Min 46 Sec with a Superplex B | 14:46 | ★★★1/2 | 77 |

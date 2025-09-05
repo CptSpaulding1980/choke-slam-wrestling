@@ -43,8 +43,8 @@
 - 2020-10-26: Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
 - 2020-12-28: Saint Rebel Radicalz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 100%
 - 2021-02-25: Saint Rebel Radicalz vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — 100%
-- 2021-04-10: Mark Davis & Kyle Fletcher vs. Saint Rebel Radicalz in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
-- 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - Aussie Open Resurrection\|2021-04-10 - Aussie Open Resurrection]] — 100%
+- 2021-04-10: Mark Davis & Kyle Fletcher vs. Saint Rebel Radicalz in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
+- 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 
 ## Links
 - [[Events\|Events]]

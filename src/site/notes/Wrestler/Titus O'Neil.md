@@ -39,5 +39,5 @@ Keine bekannten Partner.
 - 2022-01-26: Beat the Clock: Big Van Vader vs. Titus O'Neil in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 78%
 
 ## Links
-- [[Statistiken/Events\|Events]]
+- [[Events\|Events]]
 - [[Wrestler\|Wrestler]]

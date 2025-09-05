@@ -6,9 +6,8 @@
 
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_MM.png" width="170" alt="MM"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" width="170" alt="SnS"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SRR.png" width="170" alt="SRR">
 ## 📅 **Nächste Events**
-| File                                                                                     | date       | venue                | location             |
-| ---------------------------------------------------------------------------------------- | ---------- | -------------------- | -------------------- |
-| [[Events/2025-09-05 - S07E04_The Iron Chamber\|2025-09-05 - S07E04_The Iron Chamber]] | 09/05/2025 | Casper Events Center | Casper, Wyoming, USA |
+| File | date | venue | location |
+| ---- | ---- | ----- | -------- |
 
 { .block-language-dataview}
 

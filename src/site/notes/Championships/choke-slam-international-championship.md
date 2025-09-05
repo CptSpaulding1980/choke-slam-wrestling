@@ -5,30 +5,24 @@
 
 ### Choke Slam International Championship
 
-![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_International_Championship.png)
+![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_International_Championship.png)
 
 ## Current Champion
 
 | Name | Date | Last Championship Match |
 |------|------|------------------------|
-| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]:<br>Choke Slam International Championship: Awesome Kong vs. Daniel Bryan (c) |
+| [[Wrestler/Awesome Kong\|Awesome Kong]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]<br>Choke Slam International Championship: Awesome Kong vs. Daniel Bryan (c) |
 
 ## Title History
 
-| Champion | Start Date | Start Event | End Date | End Event | Duration |
-|----------|------------|------------|----------|----------|----------|
-| [[Wrestler/AJ Styles\|AJ Styles]] | 2020-09-07 | [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] | 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | 245 |
-| [[Wrestler/Bob Backlund\|Bob Backlund]] | 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | 2021-05-18 | [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] | 8 |
-| [[Wrestler/Christian Cage\|Christian Cage]] | 2021-05-18 | [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] | 2021-11-01 | [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] | 167 |
-| [[Wrestler/AJ Styles\|AJ Styles]] | 2021-11-01 | [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] | 2022-02-09 | [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] | 100 |
-| [[Wrestler/Lance Storm\|Lance Storm]] | 2022-02-09 | [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] | 2022-12-16 | [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] | 310 |
-| [[Wrestler/WALTER\|WALTER]] | 2022-12-16 | [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] | 2023-02-22 | [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] | 68 |
-| [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 2023-02-22 | [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] | 2023-06-26 | [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] | 124 |
-| [[Wrestler/Bret Hart\|Bret Hart]] | 2023-06-26 | [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 217 |
-| [[Wrestler/Jay White\|Jay White]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 2025-05-07 | [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] | 464 |
-| [[Wrestler/Bret Hart\|Bret Hart]] | 2025-05-07 | [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] | 2025-06-03 | [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] | 27 |
-| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 2025-06-03 | [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 79 |
-| [[Wrestler/Awesome Kong\|Awesome Kong]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | aktuell | [[-\|-]] | ongoing |
+| Champion | Start Date | Start Event | End Date | End Event | Duration | Defenses |
+|----------|------------|-------------|----------|-----------|----------|----------|
+| [[Wrestler/Bob Backlund\|Bob Backlund]] | 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | 2021-05-18 | [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] | 8 | 0 |
+| [[Wrestler/AJ Styles\|AJ Styles]] | 2021-11-01 | [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] | 2022-02-09 | [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] | 100 | 0 |
+| [[Wrestler/Lance Storm\|Lance Storm]] | 2022-06-28 | [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] | 2022-12-16 | [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] | 171 | 0 |
+| [[Wrestler/Bret Hart\|Bret Hart]] | 2023-06-26 | [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 217 | 1 |
+| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 2025-06-03 | [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 79 | 1 |
+| [[Wrestler/Awesome Kong\|Awesome Kong]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | aktuell | [[-\|-]] | ongoing | 0 |
 
 ## Appearances
 

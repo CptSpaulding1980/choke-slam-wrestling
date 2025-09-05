@@ -256,8 +256,8 @@ table, .table {
 .sidebar {
   position: fixed;
   top: 0;
-  left: 60px;
-  width: 60px;                 /* schmal im zugeklappten Zustand */
+  left: 0;
+  width: 40px;                 /* immer schmaler Streifen im zugeklappten Zustand */
   height: 100vh;               /* volle Höhe */
   background-color: var(--cm-red);
   transition: width 0.3s ease;
@@ -272,7 +272,7 @@ table, .table {
 .sidebar .burger {
   background: none;
   border: none;
-  font-size: 30px;
+  font-size: 28px;
   color: white;
   margin: 1rem 0;
   cursor: pointer;
@@ -284,6 +284,11 @@ table, .table {
   padding: 0;
   margin: 0;
   width: 100%;
+}
+
+/* Links nur sichtbar, wenn Sidebar offen ist */
+.sidebar:not(.open) ul li {
+  display: none;
 }
 
 .sidebar ul li {

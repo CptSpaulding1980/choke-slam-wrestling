@@ -17,8 +17,7 @@
   --cm-highlight: #a32e1b;
   --cm-bg-light: #edecec;
   --cm-bg-card: #fafafa;
-
-   /* ======= Layout-Breite / Sidebar-Offsets (fügen am Ende ein) ======= */
+   /* Layout-Breite / Sidebar-Offsets */
   --sidebar-collapsed: 20px;
   --sidebar-open: 200px;
   --topbar-height: 120px; /* Bannerhöhe */ 

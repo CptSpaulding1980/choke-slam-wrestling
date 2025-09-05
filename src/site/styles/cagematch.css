@@ -328,7 +328,7 @@ table, .table {
   margin: 1.5rem auto;
   padding-top: 2em;
   padding-right: var(--content-gutter);
-  margin-left: calc(var(--sidebar-collapsed) + 20px + var(--content-gutter));
+  margin-left: calc(var(--sidebar-collapsed) + 20px);
   flex-grow: 1;
   box-sizing: border-box;
   transition: margin-left 0.3s ease;

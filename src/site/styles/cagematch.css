@@ -281,7 +281,7 @@ table, .table {
   position: fixed;
   top: 0;
   left: 0;
-  width: 40px;                 /* immer schmaler Streifen im zugeklappten Zustand */
+  width: 20px;                 /* immer schmaler Streifen im zugeklappten Zustand */
   height: 100vh;               /* volle Höhe */
   background-color: var(--cm-red);
   transition: width 0.3s ease;

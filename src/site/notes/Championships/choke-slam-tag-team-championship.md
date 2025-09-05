@@ -5,7 +5,7 @@
 
 ### Choke Slam Tag Team Championship
 
-![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_Tag_Team_Championship.png)
+![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_Tag_Team_Championship.png)
 
 ## Current Champion
 

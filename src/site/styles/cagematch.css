@@ -346,12 +346,14 @@ table, .table {
 :root{
   --sidebar-collapsed: 60px;
   --sidebar-open: 200px;
+  --topbar-height: 120px; /* Bannerhöhe */ 
   --content-gutter: 40px; /* horizontaler Innenabstand */
 }
 
 /* Override: falls pageheader.njk Body-Paddings setzt, hiermit überschreiben */
 body {
-  padding-left: calc(var(--sidebar-collapsed) + 10px) !important;
+  padding-top: var(--topbar-height) !important;  /* nur so hoch wie Banner */
+  padding-left: var(--sidebar-collapsed);
   box-sizing: border-box;
 }
 

@@ -326,7 +326,6 @@ table, .table {
 
 /* Override: falls pageheader.njk Body-Paddings setzt, hiermit überschreiben */
 body {
-  padding-top: var(--topbar-height) !important;
   padding-left: calc(var(--sidebar-collapsed) + 10px) !important;
   box-sizing: border-box;
 }

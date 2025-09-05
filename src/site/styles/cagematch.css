@@ -128,6 +128,7 @@ a:hover {
   color: white;
   cursor: pointer;
   z-index: 4000; /* sicherstellen, dass Zahl immer größer als die vom Banner und der Sidebar ist */
+  position: relative;
 }
 
 /* Menü-Links in der Sidebar */

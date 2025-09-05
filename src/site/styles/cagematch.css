@@ -328,7 +328,8 @@ table, .table {
   margin: 1.5rem auto;
   padding-top: 2em;
   padding-right: var(--content-gutter);
-  padding-left: var(--sidebar-collapsed);
+  margin-left: var(--sidebar-collapsed);
+  flex-grow: 1;
   box-sizing: border-box;
 }
 

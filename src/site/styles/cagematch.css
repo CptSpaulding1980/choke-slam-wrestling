@@ -134,7 +134,6 @@ a:hover {
 table, .table {
     border-collapse: separate !important;
     border-spacing: 0 !important;
-    width: 1200px !important;
     background: #faf9f8;
     font-size: 1rem;
     margin-bottom: 1.5em;
@@ -352,14 +351,33 @@ body.menu-open {
   padding-left: 0;
 }
 
-/* Tabellen: keine fixe Breite mehr, nutze Container bzw. Scrollbar bei Bedarf */
-table, .table {
-  /* ersetzt: width: 1200px !important; */
-  width: 100% !important;
-  max-width: none !important;
-  table-layout: auto;      /* erlaubt flexible Spaltenbreiten */
-  min-width: 0;
-  overflow: hidden;
+/* Desktop-Ansicht (große Bildschirme) */
+@media (min-width: 992px) {
+  table, .table {
+    table-layout: fixed;
+    width: 100%;
+    max-width: none;
+  }
+
+  table th, table td {
+    min-width: 100px; /* Mindestbreite für bessere Lesbarkeit */
+  }
+}
+
+/* Mobile-Ansicht (kleine Bildschirme) */
+@media (max-width: 991px) {
+  table, .table {
+    table-layout: auto; /* Spalten können sich dynamisch anpassen */
+    width: 100%;
+    display: block;
+    overflow-x: auto; /* horizontales Scrollen ermöglichen */
+    white-space: nowrap; /* Inhalte bleiben in einer Zeile */
+  }
+
+  table th, table td {
+    min-width: 100px; /* Mindestbreite für jede Spalte */
+    padding: 14px 16px;
+  }
 }
 
 /* Damit sehr breite Tabellen nicht das Layout sprengen */
@@ -373,18 +391,3 @@ table td, .table td {
   min-width: 0; /* verhindert erzwungenes horizontales Wachstum */
   word-break: break-word;
 }
-
-/* Optional: auf sehr großen Bildschirmen etwas mehr Breite erlauben */
-@media (min-width: 1200px) {
-  .main-container, .content {
-    width: calc(100% - (var(--content-gutter) * 2));
-    max-width: 1400px; /* optional: cap, oder setze auf none für volle Breite */
-  }
-}
-
-/* Kleinere Anpassung an die Zellen-Padding (optisch luftiger) */
-table th, table td {
-  padding: 14px 16px;
-}
-
-

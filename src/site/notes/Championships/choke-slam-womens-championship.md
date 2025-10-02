@@ -5,7 +5,7 @@
 
 ### Choke Slam Womens Championship
 
-![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_Womens_Championship.png)
+![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_Womens_Championship.png)
 
 ## Current Champion
 

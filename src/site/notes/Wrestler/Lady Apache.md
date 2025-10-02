@@ -20,15 +20,17 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 4 | 1 | 2 | 1 | 33.3% | 81.75 |
+| 5 | 2 | 2 | 1 | 50.0% | 82.60 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** win (1 in Folge)
 
 
 ## Häufigste Gegner
+- [[Wrestler/Bandido\|Bandido]] (2x)
+- [[Wrestler/Charlotte Flair\|Charlotte Flair]] (2x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)
-- [[Wrestler/Bandido\|Bandido]] (1x)
-- [[Wrestler/Charlotte Flair\|Charlotte Flair]] (1x)
+- [[Wrestler/Jay White\|Jay White]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Lex Luger\|Lex Luger]] (1x)
@@ -38,6 +40,7 @@
 
 ## Top Matches
 - 2025-08-21: Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 94%
+- 2025-10-02: Lady Apache vs. Jay White vs. Bandido vs. Charlotte Flair vs. Chris Jericho vs. Edge in [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] — 86%
 - 2025-08-12: Womens Quarter Finals: Charlotte Flair vs. Lady Apache in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 84%
 - 2025-06-03: Best 2 out of 3 Falls: Bandido vs. Lady Apache in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 77%
 - 2025-06-03: Money in the Bank Match: Lady Apache vs. Lex Luger vs. Bam Bam Bigelow vs. Steve Austin vs. Roman Reigns vs. Awesome Kong in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 72%

@@ -20,7 +20,7 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 28 | 13 | 9 | 6 | 59.1% | 90.07 |
+| 30 | 14 | 10 | 6 | 58.3% | 89.90 |
 
 **Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
 
@@ -32,15 +32,15 @@
 
 ## Häufigste Gegner
 - [[Wrestler/Rush\|Rush]] (3x)
+- [[Wrestler/Jay White\|Jay White]] (3x)
 - [[Wrestler/Daga\|Daga]] (2x)
 - [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] (2x)
 - [[Wrestler/Texano Jr.\|Texano Jr.]] (2x)
-- [[Wrestler/Rey Escorpión\|Rey Escorpión]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/KENTA\|KENTA]] (10x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (6x)
 - [[Wrestler/Killshot\|Killshot]] (5x)
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (4x)
 - [[Wrestler/Joey Janela\|Joey Janela]] (2x)
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (2x)
 

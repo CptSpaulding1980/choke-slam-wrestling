@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/penta-el-zero-miedo/","title":"Penta El Zero Miedo","tags":["wrestler"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/wrestler/rey-fenix/","title":"Rey Fenix","tags":["wrestler"],"noteIcon":""}
 ---
 
 
-# Penta El Zero Miedo
+# Rey Fenix
 
 <table>
         <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Penta_El_Zero_Miedo.png" width="280" alt="Penta El Zero Miedo"></td>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rey_Fenix.png" width="280" alt="Rey Fenix"></td>
         <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
+        <b>Height:</b> 179cm<br>
+        <b>Weight:</b> 80kg<br>
+        <b>Finisher:</b> Black Fire Driver<br>
         </td>
         </tr>
         </table>
@@ -20,7 +20,7 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 5 | 1 | 3 | 1 | 25.0% | 90.40 |
+| 4 | 1 | 3 | 0 | 25.0% | 88.00 |
 
 **Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** win (1 in Folge)
 
@@ -34,10 +34,9 @@
 
 ## Häufigste Partner
 - [[Wrestler/Pac\|Pac]] (4x)
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
+- [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] (4x)
 
 ## Top Matches
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
 - 2025-09-04: Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]] — 93%
 - 2025-09-04: Saint Rebel Radicalz vs. Pac, Penta El Zero Miedo & Rey Fenix in [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]] — 92%
 - 2025-10-02: Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac in [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] — 87%

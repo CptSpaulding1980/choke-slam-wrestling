@@ -20,21 +20,24 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 9 | 3 | 3 | 3 | 50.0% | 88.22 |
+| 10 | 3 | 4 | 3 | 42.9% | 88.00 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (2 in Folge)
 
 
 ## Häufigste Gegner
+- [[Wrestler/Lady Apache\|Lady Apache]] (2x)
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (1x)
 - [[Wrestler/Jay White\|Jay White]] (1x)
 - [[Wrestler/Wardlow\|Wardlow]] (1x)
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
-- [[Wrestler/Edge\|Edge]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Fit Finlay\|Fit Finlay]] (2x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)
+- [[Wrestler/Jay White\|Jay White]] (1x)
+- [[Wrestler/Bandido\|Bandido]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
 
 ## Top Matches
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%

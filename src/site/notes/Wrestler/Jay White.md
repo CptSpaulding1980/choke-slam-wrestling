@@ -20,14 +20,14 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 36 | 13 | 17 | 6 | 43.3% | 87.53 |
+| 39 | 13 | 20 | 6 | 39.4% | 87.74 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** loss (4 in Folge)
 
 ## Titelregentschaften
 | Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
 |-------|---------------|----------------|------------------|---------|
-| Choke Slam Hardcore Championship Match | 1 | 1 | 2024-01-29 |  |
+| Choke Slam Hardcore Championship | 1 | 1 | 2024-01-29 |  |
 
 
 ## Häufigste Gegner
@@ -35,7 +35,7 @@
 - [[Wrestler/Bret Hart\|Bret Hart]] (7x)
 - [[Wrestler/Jon Moxley\|Jon Moxley]] (5x)
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (4x)
-- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (2x)
+- [[Wrestler/Edge\|Edge]] (3x)
 
 ## Häufigste Partner
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (12x)

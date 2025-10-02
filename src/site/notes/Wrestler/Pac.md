@@ -20,9 +20,9 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 19 | 10 | 5 | 4 | 66.7% | 86.47 |
+| 23 | 11 | 8 | 4 | 57.9% | 86.74 |
 
-**Längste Siegesserie:** 4<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 4<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** win (1 in Folge)
 
 
 ## Häufigste Gegner
@@ -34,6 +34,8 @@
 
 ## Häufigste Partner
 - [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (4x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
+- [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] (4x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
 - [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (1x)
 
@@ -42,7 +44,7 @@
 - 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
 - 2023-02-22: AJ Styles vs. Pac vs. Kenny Omega in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 99%
 - 2023-02-22: Tag Team Title Battle Royal in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 98%
-- 2023-04-03: Kenny Omega vs. Pac in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 91%
+- 2025-09-04: Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]] — 93%
 
 ## Links
 - [[Events\|Events]]

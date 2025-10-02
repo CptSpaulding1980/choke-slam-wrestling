@@ -5,13 +5,13 @@
 
 ### Choke Slam World Championship
 
-![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_World_Championship.png)
+![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_World_Championship.png)
 
 ## Current Champion
 
 | Name | Date | Last Championship Match |
 |------|------|------------------------|
-| [[Wrestler/Roman Reigns\|Roman Reigns]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]<br>Choke Slam World Championship: Steve Austin vs. Roman Reigns (c) |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]]<br>Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
 
 ## Title History
 
@@ -28,7 +28,8 @@
 | [[Wrestler/Bob Backlund\|Bob Backlund]] | 2021-08-23 | [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 451 | 5 |
 | [[Wrestler/Big Van Vader\|Big Van Vader]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 194 | 2 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 244 | 3 |
-| [[Wrestler/Roman Reigns\|Roman Reigns]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | aktuell | [[-\|-]] | ongoing | 4 |
+| [[Wrestler/Roman Reigns\|Roman Reigns]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] | 612 | 4 |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] | aktuell | [[-\|-]] | ongoing | 0 |
 
 ## Appearances
 
@@ -67,6 +68,7 @@
 | 2024-10-22 | [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] | Choke Slam World Championship: Hiroshi Tanahashi vs. Roman Reigns (c) |
 | 2025-05-07 | [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] | Choke Slam World Championship: Samoa Joe vs. Roman Reigns (c) |
 | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | Choke Slam World Championship: Steve Austin vs. Roman Reigns (c) |
+| 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] | Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
 
 ## Title Defenses per Champion
 
@@ -84,3 +86,4 @@
 | [[Wrestler/Sheamus\|Sheamus]] | 1 |
 | [[Wrestler/Johnny Mundo\|Johnny Mundo]] | 1 |
 | [[Wrestler/Randy Savage\|Randy Savage]] | 1 |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 1 |

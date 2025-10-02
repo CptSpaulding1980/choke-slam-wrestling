@@ -45,7 +45,7 @@
 - [[Wrestler/Gigi Dolin\|Gigi Dolin]] (3x)
 
 ## Top Matches
-- 2024-01-29: Choke Slam World Championship Match: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 102%
+- 2024-01-29: Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 102%
 - 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
 - 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
 - 2023-02-22: AJ Styles vs. Pac vs. Kenny Omega in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 99%

@@ -48,7 +48,7 @@
 - 2023-04-19: Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 95%
 - 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
 - 2023-07-30: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 90%
-- 2023-05-30: Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 89%
+- 2023-05-30: Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Militanter Mummenschanz (vacant) in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 89%
 
 ## Links
 - [[Events\|Events]]

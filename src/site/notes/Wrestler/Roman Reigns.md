@@ -20,21 +20,22 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 75 | 38 | 24 | 13 | 61.3% | 86.67 |
+| 82 | 43 | 26 | 13 | 62.3% | 86.90 |
 
-**Längste Siegesserie:** 4<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** win (4 in Folge)
+**Längste Siegesserie:** 5<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** loss (1 in Folge)
 
 ## Titelregentschaften
 | Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
 |-------|---------------|----------------|------------------|---------|
-| Choke Slam World Championship | 1 | 3 | 2024-01-29 | ✅ |
+| Choke Slam World Championship | 3 | 3 | 2025-08-21 | ✅ |
+
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (8x)
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (5x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (5x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (4x)
-- [[Wrestler/Gunther\|Gunther]] (3x)
-- [[Wrestler/Steve Austin\|Steve Austin]] (3x)
+- [[Wrestler/Lex Luger\|Lex Luger]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (8x)
@@ -46,7 +47,7 @@
 ## Top Matches
 - 2024-02-15: Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 105%
 - 2024-02-15: Roman Reigns vs. Dusty Rhodes in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 104%
-- 2024-01-29: Choke Slam World Championship Match: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 102%
+- 2024-01-29: Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 102%
 - 2025-08-12: 1/8 Finals: Kevin Steen vs. Roman Reigns in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 102%
 - 2025-08-21: Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 102%
 

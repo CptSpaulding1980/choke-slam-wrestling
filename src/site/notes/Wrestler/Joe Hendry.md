@@ -40,7 +40,7 @@
 
 ## Top Matches
 - 2024-12-27: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 99%
-- 2025-03-03: Choke Slam Trios Championship: Randy Savage vs. KUSHIDA vs. Joe Hendry vs. Gunther vs. El Hijo del Vikingo vs. Laredo Kid vs. Laredo Kid vs. Tetsuya Naito in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 98%
+- 2025-03-03: Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 98%
 - 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
 - 2024-10-22: Sweet 'n Sour Elite vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
 - 2024-12-27: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 93%

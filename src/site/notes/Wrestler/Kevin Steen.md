@@ -20,9 +20,9 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 33 | 13 | 14 | 6 | 48.1% | 86.00 |
+| 34 | 13 | 15 | 6 | 46.4% | 86.41 |
 
-**Längste Siegesserie:** 6<br>**Längste Niederlagenserie:** 6<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 6<br>**Längste Niederlagenserie:** 6<br>**Aktuelle Serie:** loss (2 in Folge)
 
 
 ## Häufigste Gegner
@@ -42,9 +42,9 @@
 ## Top Matches
 - 2025-08-12: 1/8 Finals: Kevin Steen vs. Roman Reigns in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 102%
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
+- 2025-10-02: Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] — 100%
 - 2022-10-02: Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
 - 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
-- 2025-08-12: Semi Finals: Kevin Steen vs. Lex Luger in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 97%
 
 ## Links
 - [[Events\|Events]]

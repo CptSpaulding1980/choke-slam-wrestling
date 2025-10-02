@@ -20,9 +20,9 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 9 | 2 | 5 | 2 | 28.6% | 93.78 |
+| 13 | 3 | 8 | 2 | 27.3% | 91.62 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** win (1 in Folge)
+**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** loss (3 in Folge)
 
 ## Titelregentschaften
 | Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
@@ -35,14 +35,14 @@
 - [[Wrestler/Bandido\|Bandido]] (2x)
 - [[Wrestler/Fit Finlay\|Fit Finlay]] (2x)
 - [[Wrestler/Edge\|Edge]] (2x)
-- [[Wrestler/Charlotte Flair\|Charlotte Flair]] (1x)
-- [[Wrestler/Jay White\|Jay White]] (1x)
+- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (2x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
 
 ## Häufigste Partner
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (7x)
+- [[Wrestler/Lex Luger\|Lex Luger]] (6x)
 - [[Wrestler/Edge\|Edge]] (2x)
 - [[Wrestler/Jay White\|Jay White]] (2x)
-- [[Wrestler/Lex Luger\|Lex Luger]] (2x)
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
 
 ## Top Matches

@@ -27,7 +27,7 @@
 ## Titelregentschaften
 | Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
 |-------|---------------|----------------|------------------|---------|
-| Choke Slam Womens Championship Match | 1 | 0 | 2024-01-29 |  |
+| Choke Slam Womens Championship | 1 | 0 | 2024-01-29 |  |
 
 
 ## Häufigste Gegner
@@ -46,7 +46,7 @@
 
 ## Top Matches
 - 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 103%
-- 2024-01-29: Choke Slam Womens Championship Match: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 94%
+- 2024-01-29: Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 94%
 - 2023-12-15: Sweet 'n Sour Elite vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 86%
 - 2023-12-15: HF2: Sweet 'n Sour Elite vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 81%
 - 2023-12-15: VF1: Chris Hero, Shawn Michaels, & Aoife Valkyrie vs. Sweet 'n Sour Elite in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 75%

@@ -20,9 +20,9 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 22 | 6 | 12 | 4 | 33.3% | 89.23 |
+| 28 | 8 | 16 | 4 | 33.3% | 89.29 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** loss (4 in Folge)
+**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 6<br>**Aktuelle Serie:** loss (2 in Folge)
 
 ## Titelregentschaften
 | Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
@@ -39,10 +39,10 @@
 
 ## Häufigste Partner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (6x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (4x)
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (2x)
 - [[Wrestler/Big Ryck\|Big Ryck]] (2x)
-- [[Wrestler/Diesel\|Diesel]] (2x)
-- [[Wrestler/The Undertaker\|The Undertaker]] (2x)
 
 ## Top Matches
 - 2020-06-08: Choke Slam Tag Team Championship: Dalton Castle & Dr. Wagner Jr. vs. Saint Rebel Radicalz (c) in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 100%

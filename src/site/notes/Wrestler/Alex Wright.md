@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2023-04-03: Alex Wright vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — Loss, 89%
+- 2023-03-29: Carat First Round: Alex Wright vs. Jonathan Gresham in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — Loss, 90%
+- 2023-03-29: Loser Round: Alexa Bliss vs. Alex Wright in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — Win, 92%
+
 ## Top Matches
 - 2023-03-29: Loser Round: Alexa Bliss vs. Alex Wright in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — 92%
 - 2023-03-29: Carat First Round: Alex Wright vs. Jonathan Gresham in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 90%
 - 2023-04-03: Alex Wright vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 89%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

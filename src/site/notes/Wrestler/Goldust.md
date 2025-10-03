@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2025-08-12: 1/8 Finals: Orange Cassidy vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 78%
+- 2025-08-12: Quarter Finals: Goldust vs. Jerry Lawler in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 84%
+- 2025-08-12: Semi Finals: Chris Jericho vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Loss, 85%
+
 ## Top Matches
 - 2025-08-12: Semi Finals: Chris Jericho vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 85%
 - 2025-08-12: Quarter Finals: Goldust vs. Jerry Lawler in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 84%
 - 2025-08-12: 1/8 Finals: Orange Cassidy vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 78%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

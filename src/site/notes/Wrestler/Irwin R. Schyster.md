@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 ## Häufigste Partner
 - [[Wrestler/Ted DiBiase\|Ted DiBiase]] (3x)
 
+## Letzte 5 Matches
+- 2024-10-22: Sweet 'n Sour Elite vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Win, 94%
+- 2024-10-22: Saint Rebel Radicalz vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Loss, 82%
+- 2024-10-22: Path of God vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Win, 97%
+
 ## Top Matches
 - 2024-10-22: Path of God vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 97%
 - 2024-10-22: Sweet 'n Sour Elite vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
 - 2024-10-22: Saint Rebel Radicalz vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 82%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

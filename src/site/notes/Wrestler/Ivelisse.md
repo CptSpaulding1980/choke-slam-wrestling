@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (3x)
 - [[Wrestler/Shelton Benjamin\|Shelton Benjamin]] (2x)
 
+## Letzte 5 Matches
+- 2024-10-22: Angelico & Ivelisse vs. Claudio Castagnoli & Pac in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 88%
+- 2024-10-22: Angelico & Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 77%
+- 2024-10-22: Saint Rebel Radicalz vs. Angelico, Ivelisse in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 88%
+- 2024-10-22: Angelico, Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 86%
+- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
+
 ## Top Matches
 - 2021-06-15: Submission: Awesome Kong vs. Ivelisse vs. Randy Savage in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 101%
 - 2021-04-15: Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 95%
 - 2021-02-25: Sweet 'n Sour Elite vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — 92%
 - 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
 - 2021-04-15: Johnny Mundo vs. Texano Jr. vs. Hulk Hogan vs. Rey Escorpión vs. Tetsuya Naito vs. Christian vs. Taya Valkyrie vs. Brutus Beefcake in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 90%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

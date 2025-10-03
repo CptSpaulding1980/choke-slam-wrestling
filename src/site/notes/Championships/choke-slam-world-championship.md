@@ -5,7 +5,7 @@
 
 ### Choke Slam World Championship
 
-<img src="/z_Images/Choke_Slam_World_Championship.png" alt="Choke Slam World Championship" width="700">
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_World_Championship.png" alt="Choke Slam World Championship" width="700">
 
 ## Current Champion
 

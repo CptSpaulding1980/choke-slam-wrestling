@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,9 +32,8 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2022-11-07: Me, Myself and I - Tre (Philipp) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Loss, 57%
+
 ## Top Matches
 - 2022-11-07: Me, Myself and I - Tre (Philipp) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 57%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

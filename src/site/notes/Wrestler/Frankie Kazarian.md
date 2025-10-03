@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,9 +32,8 @@ Keine bekannten Gegner.
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — Draw, 93%
+
 ## Top Matches
 - 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

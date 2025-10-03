@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,9 +32,8 @@ Keine bekannten Gegner.
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2020-12-29: William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Draw, 88%
+
 ## Top Matches
 - 2020-12-29: William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 88%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

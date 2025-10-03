@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2024-12-27: Finn Bálor vs. Christmas Creature in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Loss, 72%
+- 2024-12-27: Joe Hendry vs. Christmas Creature in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Loss, 79%
+- 2024-12-27: Roman Reigns vs. Christmas Creature in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Loss, 92%
+
 ## Top Matches
 - 2024-12-27: Roman Reigns vs. Christmas Creature in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 92%
 - 2024-12-27: Joe Hendry vs. Christmas Creature in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 79%
 - 2024-12-27: Finn Bálor vs. Christmas Creature in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 72%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

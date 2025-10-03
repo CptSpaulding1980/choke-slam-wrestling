@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Fallon Henley\|Fallon Henley]] (3x)
 - [[Wrestler/Gunther\|Gunther]] (1x)
 
+## Letzte 5 Matches
+- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Loss, 73%
+- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 89%
+- 2025-03-03: Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Draw, 98%
+- 2025-03-03: Path of God vs. André The Giant & Sami Zayn in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Loss, 63%
+- 2025-01-16: Path of God vs. Jonathan Gresham & Jay White in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Win, 52%
+
 ## Top Matches
 - 2021-11-01: Asuka vs. Rey Mysterio Jr. vs. KUSHIDA  vs. Kota Ibushi vs. Kazuchika Okada vs. Bryan Danielson vs. Tyler Bate in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — 99%
 - 2025-03-03: Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 98%
 - 2024-10-22: Path of God vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 97%
 - 2024-10-22: Saint Rebel Radicalz vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 94%
 - 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

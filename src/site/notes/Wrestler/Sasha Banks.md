@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,13 +34,16 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2025-08-21: Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Draw, 94%
+- 2025-08-12: Womens Quarter Finals: Sasha Banks vs. Syuri in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 67%
+- 2025-08-12: Womens Semi Finals: Giulia vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 81%
+- 2025-08-12: Queen of the Ring Final: Charlotte Flair vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 91%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — Draw, 88%
+
 ## Top Matches
 - 2025-08-21: Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 94%
 - 2025-08-12: Queen of the Ring Final: Charlotte Flair vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 91%
 - 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
 - 2025-08-12: Womens Semi Finals: Giulia vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 81%
 - 2025-08-12: Womens Quarter Finals: Sasha Banks vs. Syuri in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 67%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

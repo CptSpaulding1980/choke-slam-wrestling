@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 - [[Wrestler/The Undertaker\|The Undertaker]] (1x)
 - [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (1x)
 
+## Letzte 5 Matches
+- 2025-03-03: Elimination Chamber in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Loss, 90%
+- 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Draw, 98%
+- 2022-11-07: Exhibition 1 - Cage Match in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Win, 93%
+
 ## Top Matches
 - 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 98%
 - 2022-11-07: Exhibition 1 - Cage Match in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 93%
 - 2025-03-03: Elimination Chamber in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 90%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

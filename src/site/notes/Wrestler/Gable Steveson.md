@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,9 +35,8 @@
 - [[Wrestler/Jim Duggan\|Jim Duggan]] (1x)
 - [[Wrestler/Rob Gronkowski\|Rob Gronkowski]] (1x)
 
+## Letzte 5 Matches
+- 2024-07-19: Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 80%
+
 ## Top Matches
 - 2024-07-19: Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 80%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,9 +32,8 @@
 ## Häufigste Partner
 - [[Wrestler/Christian Cage\|Christian Cage]] (1x)
 
+## Letzte 5 Matches
+- 2021-06-30: Dan Koloff HC Tournament: Christian Cage vs. Johnny Mundo vs. Ivan Koloff  in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — Loss, 95%
+
 ## Top Matches
 - 2021-06-30: Dan Koloff HC Tournament: Christian Cage vs. Johnny Mundo vs. Ivan Koloff  in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 95%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

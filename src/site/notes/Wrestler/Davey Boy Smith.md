@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Hawk\|Hawk]] (1x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
 
+## Letzte 5 Matches
+- 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — Draw, 96%
+- 2023-03-29: Davey Boy Smith vs. Axel Tischer in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — Win, 80%
+- 2023-02-22: Brandon vs. Davey Boy Smith vs. Randy Savage in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — Loss, 102%
+- 2022-12-16: Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Draw, 79%
+- 2022-12-16: Hulk Hogan & Hawk vs. Davey Boy Smith & Sami Zayn in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Draw, 85%
+
 ## Top Matches
 - 2023-02-22: Brandon vs. Davey Boy Smith vs. Randy Savage in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 102%
 - 2020-12-28: Saint Rebel Radicalz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 100%
 - 2020-12-28: Militanter Mummenschanz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 98%
 - 2020-12-28: Sweet 'n Sour Elite vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 98%
 - 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 96%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

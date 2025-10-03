@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 ## Häufigste Partner
 - [[Wrestler/Ian Rotten\|Ian Rotten]] (3x)
 
+## Letzte 5 Matches
+- 2023-06-26: Axl Rotten & Ian Rotten vs. Miro & Sabu in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 88%
+- 2023-06-26: Axl Rotten & Ian Rotten vs. Bull Nakano & Rob Van Dam in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Win, 87%
+- 2023-06-26: Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 99%
+
 ## Top Matches
 - 2023-06-26: Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 99%
 - 2023-06-26: Axl Rotten & Ian Rotten vs. Miro & Sabu in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 88%
 - 2023-06-26: Axl Rotten & Ian Rotten vs. Bull Nakano & Rob Van Dam in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 87%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

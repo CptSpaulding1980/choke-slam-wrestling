@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/AJ Styles\|AJ Styles]] (3x)
 - [[Wrestler/Owen Hart\|Owen Hart]] (1x)
 
+## Letzte 5 Matches
+- 2025-01-16: Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Win, 77%
+- 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Draw, 89%
+- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 91%
+- 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 92%
+- 2023-12-15: Killshot, Edge, & KENTA vs. Militanter Mummenschanz in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 64%
+
 ## Top Matches
 - 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 103%
 - 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
 - 2021-12-28: Ricky Steamboat vs. CM Punk  in [[Events/2021-12-28 - S04E05_UFC\|2021-12-28 - S04E05_UFC]] — 98%
 - 2022-11-07: Exhibition 3 - Backstage Brawl in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 97%
 - 2020-06-29: Diesel vs. Owen Hart vs. CM Punk  in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 92%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

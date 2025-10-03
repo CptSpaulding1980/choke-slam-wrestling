@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 ## Häufigste Partner
 - [[Wrestler/Rocco Rock\|Rocco Rock]] (3x)
 
+## Letzte 5 Matches
+- 2023-06-26: Johnny Grunge & Rocco Rock vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 95%
+- 2023-06-26: Johnny Grunge & Rocco Rock vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 76%
+- 2023-06-26: Johnny Grunge & Rocco Rock vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 73%
+
 ## Top Matches
 - 2023-06-26: Johnny Grunge & Rocco Rock vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 95%
 - 2023-06-26: Johnny Grunge & Rocco Rock vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 76%
 - 2023-06-26: Johnny Grunge & Rocco Rock vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 73%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

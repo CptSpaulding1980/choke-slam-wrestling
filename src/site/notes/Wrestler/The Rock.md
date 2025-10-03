@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Christian Cage\|Christian Cage]] (1x)
 - [[Wrestler/Kiana James\|Kiana James]] (1x)
 
+## Letzte 5 Matches
+- 2025-01-16: The Rock vs. Zack Sabre Jr. in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 93%
+- 2025-01-16: Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 77%
+- 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Draw, 89%
+- 2024-12-27: Mystery vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Win, 60%
+- 2024-01-29: Roman Reigns vs. Mystery in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 95%
+
 ## Top Matches
 - 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
 - 2024-01-29: Roman Reigns vs. Mystery in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 95%
 - 2025-01-16: The Rock vs. Zack Sabre Jr. in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 93%
 - 2021-11-01: Rush vs. The Rock in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — 91%
 - 2022-10-02: The Rock vs. Big Van Vader in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 91%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

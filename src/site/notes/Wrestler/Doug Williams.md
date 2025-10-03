@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,13 +39,16 @@
 - [[Wrestler/Brock Lesnar\|Brock Lesnar]] (3x)
 - [[Wrestler/Lita\|Lita]] (2x)
 
+## Letzte 5 Matches
+- 2025-01-16: Path of God vs. Dr. Wagner Jr., Doug Williams, Bret Hart, & Brock Lesnar in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 76%
+- 2023-12-15: Saint Rebel Radicalz vs. Dr. Wagner Jr., Doug William & Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 65%
+- 2023-12-15: Sweet 'n Sour Elite vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 86%
+- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
+- 2022-07-24: Saint Rebel Radicalz vs. Doug Williams, Dr. Wagner Jr., & Lita in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — Win, 91%
+
 ## Top Matches
 - 2022-07-24: Royal Rumble Match in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 92%
 - 2022-07-24: Saint Rebel Radicalz vs. Doug Williams, Dr. Wagner Jr., & Lita in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 91%
 - 2022-07-24: Saint Rebel Radicalz vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 89%
 - 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 88%
 - 2023-12-15: Sweet 'n Sour Elite vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 86%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

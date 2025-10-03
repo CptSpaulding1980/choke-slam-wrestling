@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,13 +38,16 @@
 - [[Wrestler/D-Von Dudley\|D-Von Dudley]] (3x)
 - [[Wrestler/Dudley Dudley\|Dudley Dudley]] (3x)
 
+## Letzte 5 Matches
+- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 100%
+- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 80%
+- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Win, 73%
+- 2022-02-09: Tables: Random, Random, & Random vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Loss, 51%
+- 2022-02-09: Tables: Sweet 'n Sour Elite vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Loss, 86%
+
 ## Top Matches
 - 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
 - 2022-02-09: Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 99%
 - 2022-02-09: Tables: Sweet 'n Sour Elite vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 86%
 - 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 80%
 - 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 73%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

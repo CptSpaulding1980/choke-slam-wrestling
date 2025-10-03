@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,13 +37,16 @@
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (3x)
 - [[Wrestler/Kiana James\|Kiana James]] (1x)
 
+## Letzte 5 Matches
+- 2024-09-09: #1 Contender for the Hardcore Championship in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 98%
+- 2020-12-28: Militanter Mummenschanz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — Win, 98%
+- 2020-12-28: Sweet 'n Sour Elite vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — Loss, 98%
+- 2020-12-28: Saint Rebel Radicalz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — Win, 100%
+- 2020-06-29: Dynamite Kid vs. Angélico in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — Win, 82%
+
 ## Top Matches
 - 2020-12-28: Saint Rebel Radicalz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 100%
 - 2020-12-28: Militanter Mummenschanz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 98%
 - 2020-12-28: Sweet 'n Sour Elite vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 98%
 - 2024-09-09: #1 Contender for the Hardcore Championship in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 98%
 - 2020-06-29: Dynamite Kid vs. Angélico in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 82%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

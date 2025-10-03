@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,13 +37,16 @@
 - [[Wrestler/Sting\|Sting]] (2x)
 - [[Wrestler/Franz Schuhmann\|Franz Schuhmann]] (1x)
 
+## Letzte 5 Matches
+- 2023-05-30: Alexa Bliss & Bret Hart vs. Rick Steiner & Sting in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — Win, 90%
+- 2021-08-23: Militanter Mummenschanz vs. Sting & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Loss, 93%
+- 2021-08-23: Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Win, 92%
+- 2021-08-23: Christian Cage vs. Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Loss, 67%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
+
 ## Top Matches
 - 2021-08-23: Militanter Mummenschanz vs. Sting & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 93%
 - 2021-08-23: Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 92%
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2023-05-30: Alexa Bliss & Bret Hart vs. Rick Steiner & Sting in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 90%
 - 2021-08-23: Christian Cage vs. Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 67%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

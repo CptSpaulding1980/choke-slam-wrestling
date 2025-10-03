@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +33,8 @@
 - [[Wrestler/R-Truth\|R-Truth]] (1x)
 - [[Wrestler/Max Moon\|Max Moon]] (1x)
 
+## Letzte 5 Matches
+- 2024-03-07: Shingo Takagi vs. R-Truth vs. The Shockmaster vs. Max Moon in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 100%
+
 ## Top Matches
 - 2024-03-07: Shingo Takagi vs. R-Truth vs. The Shockmaster vs. Max Moon in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 100%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

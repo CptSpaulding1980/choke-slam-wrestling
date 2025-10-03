@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,12 +35,14 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Loss, 86%
+- 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 79%
+- 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 94%
+- 2022-11-07: Me, Myself and I - Duo (Pascal) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Win, 76%
+
 ## Top Matches
 - 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 94%
 - 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 86%
 - 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 79%
 - 2022-11-07: Me, Myself and I - Duo (Pascal) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 76%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

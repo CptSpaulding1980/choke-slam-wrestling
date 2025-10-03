@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,9 +32,8 @@ Keine bekannten Gegner.
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2020-12-29: Wade Barrett vs. Pac vs. Kip Sabian vs. Doug Williams vs. Sgt. Slaughter in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Draw, 74%
+
 ## Top Matches
 - 2020-12-29: Wade Barrett vs. Pac vs. Kip Sabian vs. Doug Williams vs. Sgt. Slaughter in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 74%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

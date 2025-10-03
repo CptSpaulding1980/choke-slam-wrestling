@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -23,11 +24,6 @@
 | 33 | 13 | 11 | 9 | 54.2% | 87.52 |
 
 **Längste Siegesserie:** 5<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** loss (1 in Folge)
-
-## Titelregentschaften
-| Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
-|-------|---------------|----------------|------------------|---------|
-| Choke Slam Trios Championship | 2 | 0 | 2023-10-09 |  |
 
 
 ## Häufigste Gegner
@@ -44,13 +40,16 @@
 - [[Wrestler/Edge\|Edge]] (1x)
 - [[Wrestler/KENTA\|KENTA]] (1x)
 
+## Letzte 5 Matches
+- 2024-01-29: Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 96%
+- 2023-10-09: Choke Slam Trios Championship: Los Jinetes del Aire vs. Saint Rebel Radicalz (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — Win, 74%
+- 2023-07-30: Thunder Queen Battle: Kenny Omega vs. Eddie Guerrero in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Draw, 62%
+- 2023-07-30: Thunder Queen Battle: Kenny Omega vs. Gunther in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Draw, 61%
+- 2023-07-30: Thunder Queen Battle: Saint Rebel Radicalz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Win, 100%
+
 ## Top Matches
 - 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 - 2023-02-22: Kenny Omega vs. Big Van Vader in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 100%
 - 2023-04-03: Kenny Omega vs. Zack Sabre Jr. in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 100%
 - 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
 - 2023-06-26: Barb Wire: Terry Funk vs. Kenny Omega in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

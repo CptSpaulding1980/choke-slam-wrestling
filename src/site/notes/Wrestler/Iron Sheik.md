@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,13 +35,16 @@
 ## Häufigste Partner
 - [[Wrestler/Sabu\|Sabu]] (1x)
 
+## Letzte 5 Matches
+- 2025-05-07: Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Draw, 84%
+- 2021-10-17: Iron Sheik vs. Bob Backlund in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Loss, 99%
+- 2021-10-17: Iron Sheik vs. Big Van Vader in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Win, 88%
+- 2021-10-17: Iron Sheik vs. Chris Hero in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Win, 97%
+- 2020-06-08: Choke Slam Tag Team Championship: Sabu  & Iron Sheik vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — Loss, 100%
+
 ## Top Matches
 - 2020-06-08: Choke Slam Tag Team Championship: Sabu  & Iron Sheik vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 100%
 - 2021-10-17: Iron Sheik vs. Bob Backlund in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 99%
 - 2021-10-17: Iron Sheik vs. Chris Hero in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 97%
 - 2021-10-17: Iron Sheik vs. Big Van Vader in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 88%
 - 2025-05-07: Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — 84%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

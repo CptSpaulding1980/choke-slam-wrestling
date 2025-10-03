@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,13 +36,16 @@
 ## Häufigste Partner
 - [[Wrestler/Tatum Paxley\|Tatum Paxley]] (4x)
 
+## Letzte 5 Matches
+- 2024-10-22: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 80%
+- 2024-10-22: Randy Savage vs. Sara Del Rey vs. Ryusuke Taguchi in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 80%
+- 2024-10-22: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 67%
+- 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 78%
+- 2024-10-22: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 51%
+
 ## Top Matches
 - 2024-10-22: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 80%
 - 2024-10-22: Randy Savage vs. Sara Del Rey vs. Ryusuke Taguchi in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 80%
 - 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 78%
 - 2024-10-22: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 67%
 - 2024-10-22: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 51%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

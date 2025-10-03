@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Trent Seven\|Trent Seven]] (1x)
 - [[Wrestler/Damian Priest\|Damian Priest]] (1x)
 
+## Letzte 5 Matches
+- 2025-01-16: Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Win, 85%
+- 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Draw, 89%
+- 2024-03-07: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 77%
+- 2024-03-07: Chyna vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 82%
+- 2023-12-15: VF3: Big Van Vader, Madison Rayne, & Triple H vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 76%
+
 ## Top Matches
 - 2023-12-15: Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 98%
 - 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 89%
 - 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 88%
 - 2025-01-16: Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 85%
 - 2024-03-07: Chyna vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 82%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

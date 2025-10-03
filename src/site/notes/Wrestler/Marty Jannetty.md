@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,9 +35,8 @@
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 
+## Letzte 5 Matches
+- 2022-02-21: Jeff Jarrett & Killer Kelly vs. The Rockers vs. Christian Cage &.Tetsuya Naito (c) in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — Loss, 93%
+
 ## Top Matches
 - 2022-02-21: Jeff Jarrett & Killer Kelly vs. The Rockers vs. Christian Cage &.Tetsuya Naito (c) in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — 93%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

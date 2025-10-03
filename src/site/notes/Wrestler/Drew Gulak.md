@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,13 +38,16 @@
 - [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] (4x)
 - [[Wrestler/Mansoor\|Mansoor]] (1x)
 
+## Letzte 5 Matches
+- 2025-05-07: Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 92%
+- 2024-07-19: South West Division: Drew Gulak vs. The Undertaker in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 55%
+- 2024-07-19: South West Division: Kairi Sane vs. Drew Gulak in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 74%
+- 2024-07-19: South West Division: Drew Gulak vs. Triple H in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 67%
+- 2024-05-27: Drew Gulak vs. Larry Zbyszko in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Loss, 80%
+
 ## Top Matches
 - 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
 - 2024-04-10: Drew Gulak vs. Dusty Rhodes in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
 - 2024-05-27: Drew Gulak vs. Bob Backlund in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 92%
 - 2025-05-07: Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — 92%
 - 2024-05-27: Drew Gulak vs. Seth Rollins in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 88%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

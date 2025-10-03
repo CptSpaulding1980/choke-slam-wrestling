@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Chris Hero\|Chris Hero]] (2x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)
 
+## Letzte 5 Matches
+- 2024-09-09: C: Rey Mysterio Jr. vs. Laredo Kid in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Draw, 92%
+- 2024-09-09: C: Kensuke Sasaki vs. Rey Mysterio Jr. in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 86%
+- 2024-09-09: C: Rey Mysterio Jr. vs. KUSHIDA in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Win, 50%
+- 2024-09-09: C: The Undertaker vs. Rey Mysterio Jr. in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 45%
+- 2024-01-29: Money in the Bank No Ladder Match in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 90%
+
 ## Top Matches
 - 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
 - 2021-08-23: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 99%
 - 2021-11-01: Asuka vs. Rey Mysterio Jr. vs. KUSHIDA  vs. Kota Ibushi vs. Kazuchika Okada vs. Bryan Danielson vs. Tyler Bate in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — 99%
 - 2022-02-09: Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 99%
 - 2022-02-21: Choke Slam Apple Championship: Rey Mysterio Jr. vs. Lance Storm in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — 97%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

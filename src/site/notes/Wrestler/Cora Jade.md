@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Gunther\|Gunther]] (1x)
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
 
+## Letzte 5 Matches
+- 2023-07-30: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Loss, 81%
+- 2023-07-30: Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Loss, 80%
+- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Draw, 94%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — Draw, 88%
+- 2022-12-16: Alexa Bliss vs. Cora Jade in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Loss, 80%
+
 ## Top Matches
 - 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
 - 2022-12-16: Davey Boy Smith & Sami Zayn vs. AJ Styles & Cora Jade in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 89%
 - 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
 - 2022-01-26: Skateboard I: Rush vs. Cora Jade in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 85%
 - 2022-12-16: Miro & Brandon vs. AJ Styles & Cora Jade in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 83%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

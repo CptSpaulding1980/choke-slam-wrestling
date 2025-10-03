@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,12 +35,14 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2024-09-09: B: Masahiro Chono vs. Triple H in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 92%
+- 2024-09-09: B: Claudio Castagnoli vs. Masahiro Chono in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 59%
+- 2024-09-09: B: Masahiro Chono vs. Joe Coffey in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Win, 83%
+- 2024-09-09: B: Dijak vs. Masahiro Chono in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Win, 83%
+
 ## Top Matches
 - 2024-09-09: B: Masahiro Chono vs. Triple H in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 92%
 - 2024-09-09: B: Masahiro Chono vs. Joe Coffey in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 83%
 - 2024-09-09: B: Dijak vs. Masahiro Chono in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 83%
 - 2024-09-09: B: Claudio Castagnoli vs. Masahiro Chono in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 59%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

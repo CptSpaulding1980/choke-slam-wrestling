@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Angélico\|Angélico]] (5x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)
 
+## Letzte 5 Matches
+- 2023-12-15: EC3, Killer Kelly & Kevin Steen vs. Becky Lynch, Chris Hero & Angélico in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 65%
+- 2023-12-15: VF1: Chris Hero, Shawn Michaels, & Aoife Valkyrie vs. Sweet 'n Sour Elite in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 75%
+- 2023-12-15: VF4: Bob Backlund, Kazuchika Okada, & Rey Fenix vs. Becky Lynch, Chris Hero, & Angélico in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 78%
+- 2023-12-15: Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 85%
+- 2023-12-15: Militanter Mummenschanz vs. Aoife Valkyrie, Kurt Angle, Shawn Michaels, & Chris Hero in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 89%
+
 ## Top Matches
 - 2022-01-26: Saint Rebel Radicalz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 100%
 - 2022-02-09: Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 99%
 - 2021-09-06: Apple Money in the Bank Match in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 98%
 - 2022-10-02: Saint Rebel Radicalz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 98%
 - 2021-10-17: Iron Sheik vs. Chris Hero in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 97%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

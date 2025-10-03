@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,13 +36,16 @@
 ## Häufigste Partner
 - [[Wrestler/Primo Colón\|Primo Colón]] (4x)
 
+## Letzte 5 Matches
+- 2024-10-22: Choke Slam Tag Team Championship: Los Matadores vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Loss, 80%
+- 2024-03-07: Path of God vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 73%
+- 2024-03-07: Sweet 'n Sour Elite vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Draw, 87%
+- 2024-03-07: Saint Rebel Radicalz vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 72%
+- 2024-03-07: Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 78%
+
 ## Top Matches
 - 2024-03-07: Sweet 'n Sour Elite vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 87%
 - 2024-10-22: Choke Slam Tag Team Championship: Los Matadores vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 80%
 - 2024-03-07: Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 78%
 - 2024-03-07: Path of God vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 73%
 - 2024-03-07: Saint Rebel Radicalz vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 72%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

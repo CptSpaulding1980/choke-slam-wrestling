@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/The Undertaker\|The Undertaker]] (1x)
 - [[Wrestler/Masha Slamovich\|Masha Slamovich]] (1x)
 
+## Letzte 5 Matches
+- 2024-07-19: North East Division: Kiana James vs. Jordynne Grace in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 92%
+- 2024-07-19: North East Division: Jordynne Grace vs. Tama Tonga in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 90%
+- 2024-07-19: North East Division: KUSHIDA vs. Jordynne Grace in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 77%
+- 2024-05-27: Jordynne Grace vs. Larry Zbyszko in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Loss, 77%
+- 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — Loss, 103%
+
 ## Top Matches
 - 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 103%
 - 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
 - 2024-07-19: North East Division: Kiana James vs. Jordynne Grace in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 92%
 - 2024-07-19: North East Division: Jordynne Grace vs. Tama Tonga in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 90%
 - 2024-02-15: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 89%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

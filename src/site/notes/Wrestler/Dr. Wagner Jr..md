@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -29,7 +30,7 @@
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (3x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
 - [[Wrestler/Dalton Castle\|Dalton Castle]] (2x)
-- [[Wrestler/Rey Fénix\|Rey Fénix]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
 - [[Wrestler/Kane\|Kane]] (2x)
 
 ## Häufigste Partner
@@ -39,13 +40,16 @@
 - [[Wrestler/Paul Orndorff\|Paul Orndorff]] (4x)
 - [[Wrestler/Austin Aries\|Austin Aries]] (4x)
 
+## Letzte 5 Matches
+- 2025-05-07: Dalton Castle & Dr. Wagner Jr. vs. Bret Hart & Owen Hart in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 86%
+- 2025-01-16: Path of God vs. Dr. Wagner Jr., Doug Williams, Bret Hart, & Brock Lesnar in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 76%
+- 2023-12-15: Saint Rebel Radicalz vs. Dr. Wagner Jr., Doug William & Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 65%
+- 2023-12-15: Sweet 'n Sour Elite vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 86%
+- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
+
 ## Top Matches
-- 2020-10-13: Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fénix in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 102%
+- 2020-10-13: Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 102%
 - 2020-06-08: Choke Slam Tag Team Championship: Dalton Castle & Dr. Wagner Jr. vs. Saint Rebel Radicalz (c) in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 100%
-- 2021-01-21: Kane vs. Madison Rayne vs. Tetsuya Naito vs. Dr. Wagner Jr. vs. Dustin Rhodes vs. Rey Fénix in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 98%
+- 2021-01-21: Kane vs. Madison Rayne vs. Tetsuya Naito vs. Dr. Wagner Jr. vs. Dustin Rhodes vs. Rey Fenix in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 98%
 - 2021-01-21: Jushin Liger vs. Dr. Wagner Jr. in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 98%
 - 2020-06-08: Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 95%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

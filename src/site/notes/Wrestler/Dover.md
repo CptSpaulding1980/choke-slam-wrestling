@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,9 +32,8 @@ Keine bekannten Gegner.
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — Draw, 96%
+
 ## Top Matches
 - 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 96%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

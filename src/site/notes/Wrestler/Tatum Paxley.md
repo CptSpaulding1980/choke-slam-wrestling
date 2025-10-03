@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (2x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (2x)
 
+## Letzte 5 Matches
+- 2025-03-03: Handicap: Sweet 'n Sour Elite (Hendry & Paxley) vs. Bandido in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 75%
+- 2025-03-03: Sweet 'n Sour Elite vs. Cactus Jack & Sheamus in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Loss, 75%
+- 2025-01-16: Sweet 'n Sour Elite vs. Bob Backlund, Kazuchika Okada, & Rey Fenix in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 88%
+- 2025-01-16: Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 85%
+- 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Draw, 89%
+
 ## Top Matches
 - 2024-12-27: Finn Bálor vs. Tatum Paxley vs. Triple H in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 97%
 - 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
 - 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 89%
-- 2025-01-16: Sweet 'n Sour Elite vs. Bob Backlund, Kazuchika Okada, & Rey Fénix in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 88%
+- 2025-01-16: Sweet 'n Sour Elite vs. Bob Backlund, Kazuchika Okada, & Rey Fenix in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 88%
 - 2024-10-22: Banana Rumble in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 87%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

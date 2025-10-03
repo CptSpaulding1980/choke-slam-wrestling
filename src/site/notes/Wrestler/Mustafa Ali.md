@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 ## Häufigste Partner
 - [[Wrestler/Mansoor\|Mansoor]] (3x)
 
+## Letzte 5 Matches
+- 2021-10-17: Mansoor & Mustafa Ali vs. Militanter Mummenschanz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Loss, 90%
+- 2021-10-17: Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Win, 84%
+- 2021-10-17: Mansoor & Mustafa Ali vs. Saint Rebel Radicalz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Loss, 97%
+
 ## Top Matches
 - 2021-10-17: Mansoor & Mustafa Ali vs. Saint Rebel Radicalz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 97%
 - 2021-10-17: Mansoor & Mustafa Ali vs. Militanter Mummenschanz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 90%
 - 2021-10-17: Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 84%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

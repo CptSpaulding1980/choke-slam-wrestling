@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,13 +36,16 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2024-09-09: A: Hiroshi Tanahashi vs. Tama Tonga in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 84%
+- 2024-09-09: A: Kento Miyahara vs. Tama Tonga in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 92%
+- 2024-09-09: A: Bret Hart vs. Tama Tonga in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Win, 81%
+- 2024-09-09: A: Kazuchika Okada vs. Tama Tonga in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 61%
+- 2024-07-19: North East Division: KUSHIDA vs. Tama Tonga in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 78%
+
 ## Top Matches
 - 2024-07-19: North East Division: Kiana James vs. Tama Tonga in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 99%
 - 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
 - 2024-09-09: A: Kento Miyahara vs. Tama Tonga in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 92%
 - 2024-07-19: North East Division: Jordynne Grace vs. Tama Tonga in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 90%
 - 2024-09-09: A: Hiroshi Tanahashi vs. Tama Tonga in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 84%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

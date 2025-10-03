@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2022-01-26: Beat the Clock: Kevin Steen vs. Titus O'Neil in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 81%
+- 2022-01-26: Beat the Clock: Big Van Vader vs. Titus O'Neil in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 78%
+- 2022-01-26: Beat the Clock: Steve Austin vs. Titus O'Neil in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Win, 88%
+
 ## Top Matches
 - 2022-01-26: Beat the Clock: Steve Austin vs. Titus O'Neil in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 88%
 - 2022-01-26: Beat the Clock: Kevin Steen vs. Titus O'Neil in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 81%
 - 2022-01-26: Beat the Clock: Big Van Vader vs. Titus O'Neil in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 78%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

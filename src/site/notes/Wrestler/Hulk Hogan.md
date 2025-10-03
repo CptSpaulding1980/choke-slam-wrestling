@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -23,14 +24,6 @@
 | 71 | 34 | 25 | 12 | 57.6% | 86.83 |
 
 **Längste Siegesserie:** 8<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** loss (3 in Folge)
-
-## Titelregentschaften
-| Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
-|-------|---------------|----------------|------------------|---------|
-| Choke Slam Hardcore Championship | 1 | 1 | 2023-02-22 |  |
-| Choke Slam Trios Championship | 1 | 0 | 2023-05-30 |  |
-| Choke Slam World Championship | 3 | 1 | 2023-12-15 |  |
-| Elimination Chamber - Choke Slam World Championship | 1 | 0 | 2023-10-09 |  |
 
 
 ## Häufigste Gegner
@@ -47,13 +40,16 @@
 - [[Wrestler/Hawk\|Hawk]] (3x)
 - [[Wrestler/Grayson Waller\|Grayson Waller]] (3x)
 
+## Letzte 5 Matches
+- 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 96%
+- 2024-01-29: Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 96%
+- 2024-01-29: Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 102%
+- 2023-12-15: Diesel vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 96%
+- 2023-12-15: Big Van Vader vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 63%
+
 ## Top Matches
 - 2021-06-30: Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 105%
 - 2021-06-30: Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 104%
 - 2024-01-29: Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 102%
 - 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 101%
 - 2021-04-29: Hulk Hogan vs. Jim Duggan in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

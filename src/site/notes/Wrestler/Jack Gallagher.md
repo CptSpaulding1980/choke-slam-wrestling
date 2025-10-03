@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,12 +37,14 @@
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
 - [[Wrestler/Alberto El Patron\|Alberto El Patron]] (1x)
 
+## Letzte 5 Matches
+- 2023-03-29: Carat First Round: AJ Styles vs. Jack Gallagher in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — Loss, 63%
+- 2023-03-29: Loser Round: Kenny Omega vs. Jack Gallagher in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — Loss, 74%
+- 2021-09-06: Apple Money in the Bank Match in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — Loss, 98%
+- 2020-12-29: Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Draw, 86%
+
 ## Top Matches
 - 2021-09-06: Apple Money in the Bank Match in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 98%
 - 2020-12-29: Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 86%
 - 2023-03-29: Loser Round: Kenny Omega vs. Jack Gallagher in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — 74%
 - 2023-03-29: Carat First Round: AJ Styles vs. Jack Gallagher in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 63%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

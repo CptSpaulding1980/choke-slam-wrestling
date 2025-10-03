@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,10 +33,10 @@
 ## Häufigste Partner
 - [[Wrestler/Sabu\|Sabu]] (1x)
 
+## Letzte 5 Matches
+- 2022-11-07: Tag Team Roulette - Saint Rebel Radicalz vs. ChokeSlam Legends (Jake Roberts & Sabu) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Loss, 96%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
+
 ## Top Matches
 - 2022-11-07: Tag Team Roulette - Saint Rebel Radicalz vs. ChokeSlam Legends (Jake Roberts & Sabu) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 96%
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -23,11 +24,6 @@
 | 12 | 4 | 6 | 2 | 40.0% | 79.08 |
 
 **Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** draw (1 in Folge)
-
-## Titelregentschaften
-| Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
-|-------|---------------|----------------|------------------|---------|
-| Choke Slam Womens Championship | 1 | 0 | 2025-03-03 |  |
 
 
 ## Häufigste Gegner
@@ -43,13 +39,16 @@
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (3x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (3x)
 
+## Letzte 5 Matches
+- 2025-05-07: Choke Slam Womens Championship: Fallon Henley vs. Kiana James in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 85%
+- 2025-05-07: Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Draw, 84%
+- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Loss, 73%
+- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 89%
+- 2025-03-03: Choke Slam Womens Championship: Fallon Henley vs. Kiana James (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 73%
+
 ## Top Matches
 - 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
 - 2024-10-22: Path of God vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
 - 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 89%
 - 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 89%
 - 2025-05-07: Choke Slam Womens Championship: Fallon Henley vs. Kiana James in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — 85%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

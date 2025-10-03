@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,12 +37,14 @@
 - [[Wrestler/Glacier\|Glacier]] (3x)
 - [[Wrestler/El Gigante\|El Gigante]] (3x)
 
+## Letzte 5 Matches
+- 2024-03-07: Sweet 'n Sour Elite vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 76%
+- 2024-03-07: Path of God vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 78%
+- 2024-03-07: Saint Rebel Radicalz vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Draw, 58%
+- 2024-03-07: Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 85%
+
 ## Top Matches
 - 2024-03-07: Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 85%
 - 2024-03-07: Path of God vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 78%
 - 2024-03-07: Sweet 'n Sour Elite vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 76%
 - 2024-03-07: Saint Rebel Radicalz vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 58%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

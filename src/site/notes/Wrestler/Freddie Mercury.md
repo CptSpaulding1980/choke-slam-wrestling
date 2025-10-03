@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,11 +37,12 @@
 - [[Wrestler/The Honky Tonk Man\|The Honky Tonk Man]] (3x)
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (3x)
 
+## Letzte 5 Matches
+- 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 97%
+- 2022-10-02: Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 97%
+- 2022-10-02: Apple Gauntlet 3 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 97%
+
 ## Top Matches
 - 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
 - 2022-10-02: Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
 - 2022-10-02: Apple Gauntlet 3 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

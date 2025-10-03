@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,13 +36,16 @@
 ## Häufigste Partner
 - [[Wrestler/Arn Anderson\|Arn Anderson]] (1x)
 
+## Letzte 5 Matches
+- 2024-07-19: North West Division: Jun Akiyama vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 55%
+- 2024-07-19: North West Division: Goldberg vs. Gunther in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 85%
+- 2024-07-19: North West Division: Randy Savage vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 77%
+- 2024-07-19: Wild Card Game 2 - Last Man Standing: Roman Reigns vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 87%
+- 2024-07-19: Northern Championship - Submission: KUSHIDA vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 91%
+
 ## Top Matches
 - 2024-07-19: Northern Championship - Submission: KUSHIDA vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 91%
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2024-07-19: Wild Card Game 2 - Last Man Standing: Roman Reigns vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 87%
 - 2024-07-19: North West Division: Goldberg vs. Gunther in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 85%
 - 2023-05-30: AJ Styles & Pac vs. Arn Anderson & Goldberg in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 83%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

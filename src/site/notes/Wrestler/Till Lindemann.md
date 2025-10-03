@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,11 +37,12 @@
 - [[Wrestler/James Hetfield\|James Hetfield]] (3x)
 - [[Wrestler/Rob Halford\|Rob Halford]] (3x)
 
+## Letzte 5 Matches
+- 2022-10-02: Militanter Mummenschanz vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Win, 80%
+- 2022-10-02: Sweet 'n Sour Elite vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 73%
+- 2022-10-02: Saint Rebel Radicalz vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Win, 71%
+
 ## Top Matches
 - 2022-10-02: Militanter Mummenschanz vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 80%
 - 2022-10-02: Sweet 'n Sour Elite vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 73%
 - 2022-10-02: Saint Rebel Radicalz vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 71%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,10 +35,10 @@
 ## Häufigste Partner
 - [[Wrestler/Arn Anderson\|Arn Anderson]] (2x)
 
+## Letzte 5 Matches
+- 2020-10-26: Kurt Angle & Elias vs. Arn Anderson & Eric Young in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Loss, 78%
+- 2020-10-26: Arn Anderson & Eric Young vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Win, 85%
+
 ## Top Matches
 - 2020-10-26: Arn Anderson & Eric Young vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 85%
 - 2020-10-26: Kurt Angle & Elias vs. Arn Anderson & Eric Young in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 78%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

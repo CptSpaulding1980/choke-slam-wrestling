@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,13 +38,16 @@
 - [[Wrestler/Mark Coffey\|Mark Coffey]] (3x)
 - [[Wrestler/Wolfgang\|Wolfgang]] (3x)
 
+## Letzte 5 Matches
+- 2024-10-22: Sweet 'n Sour Elite vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 73%
+- 2024-10-22: Angelico & Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 77%
+- 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 78%
+- 2024-10-22: Joe Coffey vs. Hammerstone vs. Sara Del Rey in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 95%
+- 2024-10-22: Angelico, Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 86%
+
 ## Top Matches
 - 2020-12-28: Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 96%
 - 2024-10-22: Joe Coffey vs. Hammerstone vs. Sara Del Rey in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 95%
 - 2024-10-22: Banana Rumble in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 87%
 - 2024-10-22: Angelico, Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 86%
 - 2024-09-09: B: Masahiro Chono vs. Joe Coffey in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 83%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 ## Häufigste Partner
 - [[Wrestler/Mark Andrews\|Mark Andrews]] (3x)
 
+## Letzte 5 Matches
+- 2020-12-29: Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Loss, 94%
+- 2020-12-29: Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Win, 80%
+- 2020-12-29: Saint Rebel Radicalz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Win, 94%
+
 ## Top Matches
 - 2020-12-29: Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 94%
 - 2020-12-29: Saint Rebel Radicalz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 94%
 - 2020-12-29: Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 80%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

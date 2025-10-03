@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 ## Häufigste Partner
 - [[Wrestler/WALTER\|WALTER]] (3x)
 
+## Letzte 5 Matches
+- 2022-01-26: Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 98%
+- 2022-01-26: Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Win, 96%
+- 2022-01-26: Saint Rebel Radicalz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Win, 100%
+
 ## Top Matches
 - 2022-01-26: Saint Rebel Radicalz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 100%
 - 2022-01-26: Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 98%
 - 2022-01-26: Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 96%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

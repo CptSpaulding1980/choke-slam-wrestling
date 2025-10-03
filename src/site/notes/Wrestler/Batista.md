@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,11 +40,12 @@
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
 - [[Wrestler/Miro\|Miro]] (1x)
 
+## Letzte 5 Matches
+- 2025-05-07: Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 86%
+- 2023-11-03: Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Loss, 92%
+- 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Win, 94%
+
 ## Top Matches
 - 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — 94%
 - 2023-11-03: Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — 92%
 - 2025-05-07: Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — 86%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

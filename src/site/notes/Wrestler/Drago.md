@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,11 +33,10 @@
 
 ## Häufigste Partner
 - [[Wrestler/Aero Star\|Aero Star]] (1x)
-- [[Wrestler/Rey Fénix\|Rey Fénix]] (1x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (1x)
+
+## Letzte 5 Matches
+- 2023-04-19: Trios League Final: Aero Star, Drago & Rey Fenix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — Loss, 96%
 
 ## Top Matches
-- 2023-04-19: Trios League Final: Aero Star, Drago & Rey Fénix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 96%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]
+- 2023-04-19: Trios League Final: Aero Star, Drago & Rey Fenix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 96%

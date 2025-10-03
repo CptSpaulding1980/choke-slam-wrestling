@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2022-01-26: Skateboard II: Bob Backlund vs. Darby Allin in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 96%
+- 2022-01-26: Skateboard II: Triple H vs. Darby Allin in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 85%
+- 2022-01-26: Skateboard II: Rey Mysterio Jr. vs. Darby Allin in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 55%
+
 ## Top Matches
 - 2022-01-26: Skateboard II: Bob Backlund vs. Darby Allin in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 96%
 - 2022-01-26: Skateboard II: Triple H vs. Darby Allin in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 85%
 - 2022-01-26: Skateboard II: Rey Mysterio Jr. vs. Darby Allin in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 55%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

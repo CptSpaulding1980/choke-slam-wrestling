@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,9 +32,8 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2025-05-07: Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 84%
+
 ## Top Matches
 - 2025-05-07: Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — 84%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

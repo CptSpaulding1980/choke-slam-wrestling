@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Hawk\|Hawk]] (1x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
 
+## Letzte 5 Matches
+- 2022-12-16: Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Draw, 79%
+- 2022-12-16: Ridge Holland & Brody King vs. Hulk Hogan & Hawk in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Loss, 76%
+- 2022-12-16: Ridge Holland & Brody King vs. Eddie Edwards & Kenny Omega in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Loss, 97%
+- 2022-12-16: Sami Zayn vs. Davey Boy Smith vs. Brody King vs. Ridge Holland vs. Hawk vs. Hulk Hogan in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Loss, 73%
+- 2022-12-16: Gigi Dolin vs. Grayson Waller vs. Davey Boy Smith vs. Hulk Hogan vs. Sami Zayn vs. Hawk vs. Ridge Holland in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Draw, 84%
+
 ## Top Matches
 - 2022-12-16: Ridge Holland & Brody King vs. Eddie Edwards & Kenny Omega in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 97%
 - 2022-12-16: Gigi Dolin vs. Grayson Waller vs. Davey Boy Smith vs. Hulk Hogan vs. Sami Zayn vs. Hawk vs. Ridge Holland in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 84%
 - 2022-12-16: Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 79%
 - 2022-12-16: Ridge Holland & Brody King vs. Hulk Hogan & Hawk in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 76%
 - 2022-12-16: Sami Zayn vs. Davey Boy Smith vs. Brody King vs. Ridge Holland vs. Hawk vs. Hulk Hogan in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 73%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Cora Jade\|Cora Jade]] (1x)
 - [[Wrestler/Beer City Bruiser\|Beer City Bruiser]] (1x)
 
+## Letzte 5 Matches
+- 2025-05-07: Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 86%
+- 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Win, 96%
+- 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Win, 92%
+- 2024-01-29: Nature Game Masters  vs. The Shield in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Win, 81%
+- 2023-07-30: Thunder Queen Battle: Hulk Hogan vs. Eddie Guerrero in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Draw, 63%
+
 ## Top Matches
 - 2020-10-26: Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
 - 2020-10-26: Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
 - 2023-07-30: Thunder Queen Battle: Saint Rebel Radicalz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 100%
 - 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 96%
 - 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,10 +37,10 @@
 - [[Wrestler/Damian Priest\|Damian Priest]] (2x)
 - [[Wrestler/Trent Seven\|Trent Seven]] (1x)
 
+## Letzte 5 Matches
+- 2024-03-07: Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 78%
+- 2024-03-07: Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 85%
+
 ## Top Matches
 - 2024-03-07: Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 85%
 - 2024-03-07: Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 78%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

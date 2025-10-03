@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,13 +37,16 @@
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (4x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (4x)
 
-## Top Matches
-- 2025-09-04: Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]] — 93%
-- 2025-09-04: Trios League: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]] — 90%
-- 2025-10-02: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] — 88%
-- 2025-09-04: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]] — 82%
-- 2025-09-04: Iron Grappling: Mike Tyson vs. Akira Taue in [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]] — 81%
+## Letzte 5 Matches
+- 2025-10-02: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 88%
+- 2025-09-04: Iron Grappling: Mike Tyson vs. Akira Taue in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Loss, 81%
+- 2025-09-04: Trios League: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Loss, 90%
+- 2025-09-04: Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Win, 93%
+- 2025-09-04: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Loss, 82%
 
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]
+## Top Matches
+- 2025-09-04: Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — 93%
+- 2025-09-04: Trios League: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — 90%
+- 2025-10-02: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — 88%
+- 2025-09-04: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — 82%
+- 2025-09-04: Iron Grappling: Mike Tyson vs. Akira Taue in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — 81%

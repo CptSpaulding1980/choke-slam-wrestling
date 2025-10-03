@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 ## Häufigste Partner
 - [[Wrestler/Fabian Aichner\|Fabian Aichner]] (3x)
 
+## Letzte 5 Matches
+- 2021-01-21: Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — Win, 96%
+- 2021-01-21: Sweet 'n Sour Elite vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — Win, 71%
+- 2021-01-21: Saint Rebel Radicalz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — Loss, 68%
+
 ## Top Matches
 - 2021-01-21: Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 96%
 - 2021-01-21: Sweet 'n Sour Elite vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 71%
 - 2021-01-21: Saint Rebel Radicalz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 68%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

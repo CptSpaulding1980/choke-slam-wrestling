@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,12 +40,14 @@
 - [[Wrestler/Ric Flair\|Ric Flair]] (1x)
 - [[Wrestler/Tully Blanchard\|Tully Blanchard]] (1x)
 
+## Letzte 5 Matches
+- 2023-10-09: War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — Loss, 73%
+- 2023-05-30: AJ Styles & Pac vs. Arn Anderson & Goldberg in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — Loss, 83%
+- 2020-10-26: Kurt Angle & Elias vs. Arn Anderson & Eric Young in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Loss, 78%
+- 2020-10-26: Arn Anderson & Eric Young vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Win, 85%
+
 ## Top Matches
 - 2020-10-26: Arn Anderson & Eric Young vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 85%
 - 2023-05-30: AJ Styles & Pac vs. Arn Anderson & Goldberg in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 83%
 - 2020-10-26: Kurt Angle & Elias vs. Arn Anderson & Eric Young in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 78%
 - 2023-10-09: War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 73%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

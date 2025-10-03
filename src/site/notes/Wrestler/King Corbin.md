@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,11 +38,12 @@
 - [[Wrestler/Jerry Lawler\|Jerry Lawler]] (3x)
 - [[Wrestler/Sheamus\|Sheamus]] (3x)
 
+## Letzte 5 Matches
+- 2020-06-29: Kings Court vs. Mummenschanz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — Win, 71%
+- 2020-06-29: Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — Loss, 76%
+- 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — Loss, 77%
+
 ## Top Matches
 - 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 77%
 - 2020-06-29: Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 76%
 - 2020-06-29: Kings Court vs. Mummenschanz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 71%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

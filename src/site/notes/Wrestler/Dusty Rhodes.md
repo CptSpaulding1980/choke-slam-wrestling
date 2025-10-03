@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (2x)
 - [[Wrestler/Bobby Eaton\|Bobby Eaton]] (1x)
 
+## Letzte 5 Matches
+- 2024-05-27: AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Loss, 99%
+- 2024-05-27: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Loss, 84%
+- 2024-05-27: Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi vs. Triple H in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Draw, 84%
+- 2024-04-10: Drew Gulak vs. Dusty Rhodes in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — Win, 93%
+- 2024-04-10: Dusty Rhodes vs. Dijak in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — Loss, 91%
+
 ## Top Matches
 - 2024-02-15: Roman Reigns vs. Dusty Rhodes in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 104%
 - 2024-05-27: AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 99%
 - 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
 - 2024-04-10: Drew Gulak vs. Dusty Rhodes in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
 - 2024-04-10: Trios Royal Rumble in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

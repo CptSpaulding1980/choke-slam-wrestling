@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Cesaro\|Cesaro]] (2x)
 - [[Wrestler/Angélico\|Angélico]] (2x)
 
+## Letzte 5 Matches
+- 2025-05-07: Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 88%
+- 2025-05-07: Sweet 'n Sour Elite vs. Diesel & Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 69%
+- 2025-05-07: Bret Hart & Owen Hart vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 94%
+- 2025-05-07: Saint Rebel Radicalz vs. Path of God in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 82%
+- 2025-05-07: Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 92%
+
 ## Top Matches
 - 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
 - 2020-06-08: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 98%
 - 2020-09-07: Tournament Finals - Inaugural Choke Slam International Championship in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — 98%
 - 2022-07-24: Militanter Mummenschanz vs. Diesel & Shawn Michaels in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 98%
 - 2023-12-15: Diesel vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 96%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

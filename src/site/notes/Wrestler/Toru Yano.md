@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,13 +37,16 @@
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (4x)
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 
+## Letzte 5 Matches
+- 2024-10-22: Killer Kelly & Dalton Castle vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 66%
+- 2024-10-22: Path of God vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 73%
+- 2024-10-22: Toru Yano vs. Tetsuya Naito vs. Tatum Paxley in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 87%
+- 2024-10-22: Path of God vs. Killer Kelly & Dalton Castle in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 91%
+- 2024-10-22: Path of God vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 73%
+
 ## Top Matches
 - 2024-10-22: Path of God vs. Killer Kelly & Dalton Castle in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 91%
 - 2024-10-22: Toru Yano vs. Tetsuya Naito vs. Tatum Paxley in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 87%
 - 2024-09-09: D: Toru Yano vs. Roman Reigns in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 86%
 - 2024-09-09: D: Toru Yano vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 86%
 - 2024-09-09: D: Toru Yano vs. Kota Ibushi in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 85%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

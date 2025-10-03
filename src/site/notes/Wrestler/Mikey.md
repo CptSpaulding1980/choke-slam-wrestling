@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,12 +38,14 @@
 - [[Wrestler/Kenny\|Kenny]] (4x)
 - [[Wrestler/Nicky\|Nicky]] (4x)
 
+## Letzte 5 Matches
+- 2024-03-07: Path of God vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 68%
+- 2024-03-07: Sweet 'n Sour Elite vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 86%
+- 2024-03-07: Saint Rebel Radicalz vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 66%
+- 2024-03-07: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 77%
+
 ## Top Matches
 - 2024-03-07: Sweet 'n Sour Elite vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 86%
 - 2024-03-07: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 77%
 - 2024-03-07: Path of God vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 68%
 - 2024-03-07: Saint Rebel Radicalz vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 66%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

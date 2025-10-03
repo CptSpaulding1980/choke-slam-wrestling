@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +33,8 @@
 - [[Wrestler/Virgil\|Virgil]] (1x)
 - [[Wrestler/Tensai\|Tensai]] (1x)
 
+## Letzte 5 Matches
+- 2024-03-07: Triple H vs. Virgil vs. The Renegade vs. Tensai in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 94%
+
 ## Top Matches
 - 2024-03-07: Triple H vs. Virgil vs. The Renegade vs. Tensai in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 94%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

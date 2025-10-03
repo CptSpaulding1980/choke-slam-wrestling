@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +33,8 @@
 - [[Wrestler/Brody King\|Brody King]] (1x)
 - [[Wrestler/Mike Awesome\|Mike Awesome]] (1x)
 
+## Letzte 5 Matches
+- 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 102%
+
 ## Top Matches
 - 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 102%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

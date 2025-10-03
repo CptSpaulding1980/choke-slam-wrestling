@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 ## Häufigste Partner
 - [[Wrestler/Al Snow\|Al Snow]] (3x)
 
+## Letzte 5 Matches
+- 2021-02-25: Militanter Mummenschanz vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — Loss, 68%
+- 2021-02-25: Sweet 'n Sour Elite vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — Loss, 92%
+- 2021-02-25: Saint Rebel Radicalz vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — Loss, 100%
+
 ## Top Matches
 - 2021-02-25: Saint Rebel Radicalz vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — 100%
 - 2021-02-25: Sweet 'n Sour Elite vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — 92%
 - 2021-02-25: Militanter Mummenschanz vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — 68%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

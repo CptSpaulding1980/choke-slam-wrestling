@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,12 +34,14 @@
 ## Häufigste Partner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
 
+## Letzte 5 Matches
+- 2022-02-21: Choke Slam World Championship: Big Van Vader vs. Hack Myers vs. Bob Backlund (c) in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — Loss, 97%
+- 2022-02-09: Hack Myers vs. Christian Cage in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Loss, 86%
+- 2022-02-09: Hack Myers vs. Madison Rayne in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Win, 83%
+- 2022-02-09: Hack Myers vs. Bob Backlund in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Win, 86%
+
 ## Top Matches
 - 2022-02-21: Choke Slam World Championship: Big Van Vader vs. Hack Myers vs. Bob Backlund (c) in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — 97%
 - 2022-02-09: Hack Myers vs. Christian Cage in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 86%
 - 2022-02-09: Hack Myers vs. Bob Backlund in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 86%
 - 2022-02-09: Hack Myers vs. Madison Rayne in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 83%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

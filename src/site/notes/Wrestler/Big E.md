@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,11 +37,12 @@
 - [[Wrestler/Kofi Kingston\|Kofi Kingston]] (3x)
 - [[Wrestler/Xavier Woods\|Xavier Woods]] (3x)
 
+## Letzte 5 Matches
+- 2022-10-02: Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Win, 99%
+- 2022-10-02: Sweet 'n Sour Elite vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 80%
+- 2022-10-02: Saint Rebel Radicalz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 98%
+
 ## Top Matches
 - 2022-10-02: Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
 - 2022-10-02: Saint Rebel Radicalz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 98%
 - 2022-10-02: Sweet 'n Sour Elite vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 80%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

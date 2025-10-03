@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,13 +36,16 @@
 ## Häufigste Partner
 - [[Wrestler/Sheamus\|Sheamus]] (1x)
 
+## Letzte 5 Matches
+- 2025-03-03: Sweet 'n Sour Elite vs. Cactus Jack & Sheamus in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 75%
+- 2024-12-27: Randy Savage vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Loss, 74%
+- 2024-12-27: Zack Sabre Jr. vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Loss, 77%
+- 2024-12-27: Mystery vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Loss, 60%
+- 2022-11-07: Me, Myself and I - Uno (Hendrik) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Loss, 90%
+
 ## Top Matches
 - 2022-11-07: Me, Myself and I - Uno (Hendrik) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 90%
 - 2024-12-27: Zack Sabre Jr. vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 77%
 - 2025-03-03: Sweet 'n Sour Elite vs. Cactus Jack & Sheamus in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 75%
 - 2024-12-27: Randy Savage vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 74%
 - 2024-12-27: Mystery vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 60%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

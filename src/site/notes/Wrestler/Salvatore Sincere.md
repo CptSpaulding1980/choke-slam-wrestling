@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2021-01-21: Jushin Liger vs. Salvatore Sincere in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — Loss, 86%
+- 2021-01-21: Austin Aries vs. Salvatore Sincere in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — Loss, 81%
+- 2021-01-21: Bob Backlund vs. Salvatore Sincere in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — Win, 86%
+
 ## Top Matches
 - 2021-01-21: Jushin Liger vs. Salvatore Sincere in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 86%
 - 2021-01-21: Bob Backlund vs. Salvatore Sincere in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 86%
 - 2021-01-21: Austin Aries vs. Salvatore Sincere in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 81%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

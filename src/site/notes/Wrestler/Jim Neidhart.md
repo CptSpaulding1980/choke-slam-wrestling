@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -26,7 +27,7 @@
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Fénix\|Rey Fénix]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (1x)
 - [[Wrestler/The Blade\|The Blade]] (1x)
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
@@ -37,12 +38,14 @@
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (1x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
 
+## Letzte 5 Matches
+- 2021-06-15: Jim Neidhart & Joey Janela vs. Johnny Mundo & The Blade in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — Loss, 93%
+- 2021-06-15: Jim Neidhart & Johnny Mundo vs. Saint Rebel Radicalz in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — Win, 85%
+- 2021-06-15: Bret Hart & Rey Fenix vs. Bob Backlund & Jim Neidhart in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — Win, 98%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
+
 ## Top Matches
-- 2021-06-15: Bret Hart & Rey Fénix vs. Bob Backlund & Jim Neidhart in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 98%
+- 2021-06-15: Bret Hart & Rey Fenix vs. Bob Backlund & Jim Neidhart in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 98%
 - 2021-06-15: Jim Neidhart & Joey Janela vs. Johnny Mundo & The Blade in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 93%
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2021-06-15: Jim Neidhart & Johnny Mundo vs. Saint Rebel Radicalz in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 85%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

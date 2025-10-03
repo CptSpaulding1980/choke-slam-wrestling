@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2022-01-26: EC3 vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 93%
+- 2022-01-26: Rush vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 84%
+- 2022-01-26: Aoife Valkyrie vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Win, 72%
+
 ## Top Matches
 - 2022-01-26: EC3 vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 93%
 - 2022-01-26: Rush vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 84%
 - 2022-01-26: Aoife Valkyrie vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 72%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,10 +35,10 @@
 - [[Wrestler/Austin Aries\|Austin Aries]] (1x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
 
+## Letzte 5 Matches
+- 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — Loss, 101%
+- 2023-04-19: Interview Segment /w Dario Cueto & Mr. Fuji in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — Draw, 60%
+
 ## Top Matches
 - 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 101%
 - 2023-04-19: Interview Segment /w Dario Cueto & Mr. Fuji in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 60%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

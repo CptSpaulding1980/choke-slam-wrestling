@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,13 +35,16 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2025-08-12: 1/8 Finals: Kensuke Sasaki vs. William Regal in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Loss, 97%
+- 2023-04-03: William Regal vs. Jonathan Gresham in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — Loss, 100%
+- 2023-03-29: Carat First Round: William Regal vs. Wade Barrett in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — Loss, 90%
+- 2023-03-29: Loser Round: Tommy End vs. William Regal in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — Win, 88%
+- 2020-12-29: William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Draw, 88%
+
 ## Top Matches
 - 2023-04-03: William Regal vs. Jonathan Gresham in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 100%
 - 2025-08-12: 1/8 Finals: Kensuke Sasaki vs. William Regal in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 97%
 - 2023-03-29: Carat First Round: William Regal vs. Wade Barrett in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 90%
 - 2020-12-29: William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 88%
 - 2023-03-29: Loser Round: Tommy End vs. William Regal in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — 88%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

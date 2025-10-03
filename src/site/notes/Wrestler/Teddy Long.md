@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 - [[Wrestler/Vickie Guerrero\|Vickie Guerrero]] (3x)
 
+## Letzte 5 Matches
+- 2022-11-17: Killer Kelly vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Loss, 80%
+- 2022-11-17: Madison Rayne vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Loss, 79%
+- 2022-11-17: Aoife Valkyrie vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Win, 79%
+
 ## Top Matches
 - 2022-11-17: Killer Kelly vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 80%
 - 2022-11-17: Madison Rayne vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 79%
 - 2022-11-17: Aoife Valkyrie vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 79%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

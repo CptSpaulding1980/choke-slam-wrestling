@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +33,8 @@
 ## Häufigste Partner
 - [[Wrestler/Jeff Cobb\|Jeff Cobb]] (1x)
 
+## Letzte 5 Matches
+- 2025-03-03: Saint Rebel Radicalz vs. Jeff Cobb & Ultimate Warrior in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 85%
+
 ## Top Matches
 - 2025-03-03: Saint Rebel Radicalz vs. Jeff Cobb & Ultimate Warrior in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 85%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

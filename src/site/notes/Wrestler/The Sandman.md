@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,13 +38,16 @@
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (1x)
 - [[Wrestler/Mikey Whipwreck\|Mikey Whipwreck]] (1x)
 
+## Letzte 5 Matches
+- 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 100%
+- 2022-02-09: Exploding Landmine Deathmatch: Kevin Steen vs. The Sandman in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Win, 91%
+- 2022-02-09: Exploding Landmine Death - Semi Final: The Sandman vs. EC3 in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Loss, 82%
+- 2022-01-26: Beach-Volleyball: Militanter Mummenschanz vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Draw, 57%
+- 2022-01-26: Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 99%
+
 ## Top Matches
 - 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
 - 2022-01-26: Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 99%
 - 2022-01-26: Beach-Volleyball: Saint Rebel Radicalz vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 91%
 - 2022-02-09: Exploding Landmine Deathmatch: Kevin Steen vs. The Sandman in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 91%
 - 2022-02-09: Exploding Landmine Death - Semi Final: The Sandman vs. EC3 in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 82%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

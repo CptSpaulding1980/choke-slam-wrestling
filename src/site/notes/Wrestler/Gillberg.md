@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,12 +35,14 @@
 ## Häufigste Partner
 - [[Wrestler/The Gobbledy Gooker\|The Gobbledy Gooker]] (4x)
 
+## Letzte 5 Matches
+- 2024-03-07: Hiroshi Tanahashi vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 64%
+- 2024-03-07: The Undertaker vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 85%
+- 2024-03-07: Triple H vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 91%
+- 2024-03-07: Chyna vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 82%
+
 ## Top Matches
 - 2024-03-07: Triple H vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 91%
 - 2024-03-07: The Undertaker vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 85%
 - 2024-03-07: Chyna vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 82%
 - 2024-03-07: Hiroshi Tanahashi vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 64%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

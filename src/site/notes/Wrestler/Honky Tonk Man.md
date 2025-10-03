@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,9 +32,8 @@ Keine bekannten Gegner.
 ## Häufigste Partner
 Keine bekannten Partner.
 
-## Top Matches
-- 2021-05-10: Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fénix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] — 96%
+## Letzte 5 Matches
+- 2021-05-10: Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fenix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] — Draw, 96%
 
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]
+## Top Matches
+- 2021-05-10: Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fenix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] — 96%

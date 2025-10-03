@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)
 - [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (1x)
 
+## Letzte 5 Matches
+- 2024-09-09: B: Triple H vs. Claudio Castagnoli in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Win, 83%
+- 2024-03-07: Saint Rebel Radicalz vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 66%
+- 2024-03-07: Saint Rebel Radicalz vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Draw, 58%
+- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — Draw, 93%
+- 2024-02-15: Kiana James vs. Big Kon in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — Loss, 90%
+
 ## Top Matches
 - 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
 - 2024-02-15: Kiana James vs. Big Kon in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 90%
 - 2024-09-09: B: Triple H vs. Claudio Castagnoli in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 83%
 - 2024-02-15: Saint Rebel Radicalz vs. Path of God in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 71%
 - 2024-02-15: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 67%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

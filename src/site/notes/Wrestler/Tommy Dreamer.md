@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
 
+## Letzte 5 Matches
+- 2023-06-26: Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Win, 99%
+- 2021-08-23: Big Van Vader vs. Tommy Dreamer in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Loss, 67%
+- 2021-08-23: Humble Rumble in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Draw, 89%
+
 ## Top Matches
 - 2023-06-26: Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 99%
 - 2021-08-23: Humble Rumble in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 89%
 - 2021-08-23: Big Van Vader vs. Tommy Dreamer in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 67%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

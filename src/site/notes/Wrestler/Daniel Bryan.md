@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -23,11 +24,6 @@
 | 18 | 11 | 7 | 0 | 61.1% | 86.83 |
 
 **Längste Siegesserie:** 4<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** loss (3 in Folge)
-
-## Titelregentschaften
-| Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
-|-------|---------------|----------------|------------------|---------|
-| Submission - Choke Slam International Championship | 1 | 3 | 2025-06-03 |  |
 
 
 ## Häufigste Gegner
@@ -44,13 +40,16 @@
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)
 
+## Letzte 5 Matches
+- 2025-10-02: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 88%
+- 2025-10-02: Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 80%
+- 2025-10-02: Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 100%
+- 2025-09-04: Submission Match: Daniel Bryan vs. Bandido in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Win, 74%
+- 2025-09-04: Trios League: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Win, 90%
+
 ## Top Matches
-- 2025-10-02: Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] — 100%
+- 2025-10-02: Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — 100%
 - 2025-08-12: Special Referee Steve Austin - Non Title Match: Daniel Bryan vs. Roman Reigns in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 98%
 - 2025-08-21: Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (Edgicho) (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 98%
 - 2025-06-03: Submission - Choke Slam International Championship: Daniel Bryan vs. Fit Finlay vs. Chris Jericho vs. Bret Hart in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 95%
 - 2025-08-12: Choke Slam Trios Championship: Militanter Mummenschanz vs. Sweet 'n Sour Elite (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 92%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

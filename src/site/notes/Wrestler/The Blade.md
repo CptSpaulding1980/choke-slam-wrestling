@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Christian\|Christian]] (1x)
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (1x)
 
+## Letzte 5 Matches
+- 2023-12-15: Christian Cage, The Blade, & The Butcher vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 66%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Draw, 91%
+- 2021-06-30: Dan Koloff HC Tournament: The Blade vs. Kane vs. Jeff Cobb in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — Loss, 75%
+- 2021-06-15: Jim Neidhart & Joey Janela vs. Johnny Mundo & The Blade in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — Win, 93%
+- 2021-06-15: Owen Hart & Hiromu Takahashi vs. Sweet 'n Sour Elite in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — Loss, 91%
+
 ## Top Matches
 - 2021-04-15: Sweet 'n Sour Elite vs. Daga , Texano Jr. & Rey Escorpión in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 98%
-- 2021-05-18: Choke Slam Tag Team Championship: Kane vs. Awesome Kong vs. Bob Backlund vs. Rey Fénix vs. Christian Cage vs. Tetsuya Naito vs. Brutus Beefcake vs. The Blade in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 98%
+- 2021-05-18: Choke Slam Tag Team Championship: Kane vs. Awesome Kong vs. Bob Backlund vs. Rey Fenix vs. Christian Cage vs. Tetsuya Naito vs. Brutus Beefcake vs. The Blade in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 98%
 - 2021-04-15: Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 95%
 - 2021-06-15: Joey Janela & The Blade vs. Owen Hart & The Butcher in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 95%
 - 2021-06-15: Jim Neidhart & Joey Janela vs. Johnny Mundo & The Blade in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 93%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

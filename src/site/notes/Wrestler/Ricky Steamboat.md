@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
 - [[Wrestler/Alberto El Patron\|Alberto El Patron]] (1x)
 
+## Letzte 5 Matches
+- 2021-12-28: Kevin Steen vs. Killer Kelly vs. Ricky Steamboat vs. Madison Rayne vs. The Rock vs. Christian Cage in [[Events/2021-12-28 - S04E05_UFC\|2021-12-28 - S04E05_UFC]] — Loss, 80%
+- 2021-12-28: Ricky Steamboat vs. CM Punk  in [[Events/2021-12-28 - S04E05_UFC\|2021-12-28 - S04E05_UFC]] — Loss, 98%
+- 2021-11-01: Bob Backlund vs. Ricky Steamboat vs. Aoife Valkyrie vs. Bryan Danielson vs. Tyler Bate in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — Draw, 99%
+- 2021-11-01: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — Loss, 90%
+- 2021-11-01: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — Win, 82%
+
 ## Top Matches
 - 2021-11-01: Bob Backlund vs. Ricky Steamboat vs. Aoife Valkyrie vs. Bryan Danielson vs. Tyler Bate in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — 99%
 - 2021-09-06: Apple Money in the Bank Match in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 98%
 - 2021-12-28: Ricky Steamboat vs. CM Punk  in [[Events/2021-12-28 - S04E05_UFC\|2021-12-28 - S04E05_UFC]] — 98%
 - 2020-06-29: Ricky Steamboat vs. Cesaro  in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 93%
 - 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

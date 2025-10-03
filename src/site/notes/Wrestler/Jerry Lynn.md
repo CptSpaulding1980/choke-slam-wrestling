@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,13 +35,16 @@
 ## Häufigste Partner
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)
 
+## Letzte 5 Matches
+- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Draw, 100%
+- 2023-08-22: #1 Contender for the Hardcore Championship: Jerry Lynn vs. Hulk Hogan in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Win, 98%
+- 2023-08-22: Choke Slam Hardcore Championship: Randy Savage vs. Jerry Lynn vs. Bret Hart (c) in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Loss, 98%
+- 2023-06-26: Falls Count Anywhere: Jerry Lynn vs. Randy Savage in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 75%
+- 2023-06-26: Jerry Lynn vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 87%
+
 ## Top Matches
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 - 2023-08-22: #1 Contender for the Hardcore Championship: Jerry Lynn vs. Hulk Hogan in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 98%
 - 2023-08-22: Choke Slam Hardcore Championship: Randy Savage vs. Jerry Lynn vs. Bret Hart (c) in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 98%
 - 2023-06-26: Jerry Lynn vs. Hulk Hogan in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 97%
 - 2023-06-26: Jerry Lynn vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 87%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,9 +32,8 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
-## Top Matches
-- 2025-09-04: Iron Grappling: Mike Tyson vs. Akira Taue in [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]] — 81%
+## Letzte 5 Matches
+- 2025-09-04: Iron Grappling: Mike Tyson vs. Akira Taue in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Win, 81%
 
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]
+## Top Matches
+- 2025-09-04: Iron Grappling: Mike Tyson vs. Akira Taue in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — 81%

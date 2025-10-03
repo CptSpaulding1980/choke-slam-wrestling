@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +33,8 @@
 ## Häufigste Partner
 - [[Wrestler/Lex Luger\|Lex Luger]] (1x)
 
+## Letzte 5 Matches
+- 2023-05-30: Saint Rebel Radicalz vs. Lex Luger & Stevie Ray in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — Loss, 76%
+
 ## Top Matches
 - 2023-05-30: Saint Rebel Radicalz vs. Lex Luger & Stevie Ray in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 76%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

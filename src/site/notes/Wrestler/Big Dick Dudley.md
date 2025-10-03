@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,11 +37,12 @@
 - [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] (3x)
 - [[Wrestler/D-Von Dudley\|D-Von Dudley]] (3x)
 
+## Letzte 5 Matches
+- 2022-02-09: Tables: Random, Random, & Random vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Loss, 51%
+- 2022-02-09: Tables: Sweet 'n Sour Elite vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Loss, 86%
+- 2022-02-09: Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Loss, 99%
+
 ## Top Matches
 - 2022-02-09: Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 99%
 - 2022-02-09: Tables: Sweet 'n Sour Elite vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 86%
 - 2022-02-09: Tables: Random, Random, & Random vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 51%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -23,11 +24,6 @@
 | 14 | 4 | 6 | 4 | 40.0% | 84.00 |
 
 **Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** draw (1 in Folge)
-
-## Titelregentschaften
-| Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
-|-------|---------------|----------------|------------------|---------|
-| Choke Slam Trios Championship | 1 | 0 | 2024-01-29 |  |
 
 
 ## Häufigste Gegner
@@ -44,13 +40,16 @@
 - [[Wrestler/AJ Styles\|AJ Styles]] (3x)
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (2x)
 
+## Letzte 5 Matches
+- 2025-01-16: Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Win, 77%
+- 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Draw, 89%
+- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — Draw, 93%
+- 2024-01-29: Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 94%
+- 2024-01-29: Los Jinetes del Aire vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 55%
+
 ## Top Matches
 - 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 103%
 - 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
 - 2024-01-29: Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 96%
 - 2024-01-29: Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 94%
 - 2024-04-10: Trios Royal Rumble in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

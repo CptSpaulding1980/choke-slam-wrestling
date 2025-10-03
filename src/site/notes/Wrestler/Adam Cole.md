@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,13 +36,16 @@
 ## Häufigste Partner
 - [[Wrestler/Britt Baker\|Britt Baker]] (3x)
 
+## Letzte 5 Matches
+- 2023-10-09: AJ Styles vs. Adam Cole in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — Loss, 80%
+- 2022-02-21: Militanter Mummenschanz vs. Adam Cole & Britt Baker in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — Win, 83%
+- 2022-02-21: Sweet 'n Sour Elite vs. Adam Cole & Britt Baker in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — Loss, 87%
+- 2022-02-21: Saint Rebel Radicalz vs. Adam Cole & Britt Baker in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — Win, 67%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
+
 ## Top Matches
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2022-02-21: Sweet 'n Sour Elite vs. Adam Cole & Britt Baker in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — 87%
 - 2022-02-21: Militanter Mummenschanz vs. Adam Cole & Britt Baker in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — 83%
 - 2023-10-09: AJ Styles vs. Adam Cole in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 80%
 - 2022-02-21: Saint Rebel Radicalz vs. Adam Cole & Britt Baker in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — 67%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

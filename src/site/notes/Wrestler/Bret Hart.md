@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -23,11 +24,6 @@
 | 78 | 32 | 34 | 12 | 48.5% | 88.74 |
 
 **Längste Siegesserie:** 7<br>**Längste Niederlagenserie:** 7<br>**Aktuelle Serie:** loss (1 in Folge)
-
-## Titelregentschaften
-| Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
-|-------|---------------|----------------|------------------|---------|
-| Championship | 1 | 5 | 2020-09-07 |  |
 
 
 ## Häufigste Gegner
@@ -44,13 +40,16 @@
 - [[Wrestler/CM Punk\|CM Punk]] (6x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (5x)
 
+## Letzte 5 Matches
+- 2025-06-03: Submission - Choke Slam International Championship: Daniel Bryan vs. Fit Finlay vs. Chris Jericho vs. Bret Hart in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Loss, 95%
+- 2025-05-07: Dalton Castle & Dr. Wagner Jr. vs. Bret Hart & Owen Hart in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 86%
+- 2025-05-07: Bret Hart & Owen Hart vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 94%
+- 2025-05-07: Choke Slam International Championship: Bret Hart vs. Finn Bálor vs. The Undertaker vs. Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 85%
+- 2025-05-07: Tag Team Championship #1 Cont. Finals in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 77%
+
 ## Top Matches
 - 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 103%
 - 2023-06-26: Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 102%
 - 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 101%
 - 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
 - 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

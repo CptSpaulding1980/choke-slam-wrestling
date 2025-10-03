@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -23,13 +24,6 @@
 | 82 | 41 | 30 | 11 | 57.7% | 84.55 |
 
 **Längste Siegesserie:** 4<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** loss (1 in Folge)
-
-## Titelregentschaften
-| Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
-|-------|---------------|----------------|------------------|---------|
-| Choke Slam World Championship | 1 | 0 | 2021-07-26 |  |
-| Choke Slam Trios Championship | 1 | 0 | 2023-05-30 |  |
-| Hardcore Championship | 1 | 0 | 2024-09-09 |  |
 
 
 ## Häufigste Gegner
@@ -46,13 +40,16 @@
 - [[Wrestler/Jay White\|Jay White]] (4x)
 - [[Wrestler/Finn Bálor\|Finn Bálor]] (4x)
 
+## Letzte 5 Matches
+- 2025-05-07: Sweet 'n Sour Elite vs. Diesel & Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 69%
+- 2025-05-07: Saint Rebel Radicalz vs. Path of God in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 82%
+- 2025-05-07: Choke Slam International Championship: Bret Hart vs. Finn Bálor vs. The Undertaker vs. Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 85%
+- 2025-05-07: Tag Team Championship #1 Cont. Finals in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 77%
+- 2025-05-07: Choke Slam Tag Team Championship: Path of God vs. Sweet 'n Sour Elite in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 90%
+
 ## Top Matches
 - 2021-06-30: Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 104%
 - 2021-10-17: Randy Savage vs. Killer Kelly vs. Bob Backlund in [[Events/2021-10-17 - S04E03_Saudia Arabia - Aftermath\|2021-10-17 - S04E03_Saudia Arabia - Aftermath]] — 103%
 - 2023-02-22: Brandon vs. Davey Boy Smith vs. Randy Savage in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 102%
 - 2021-06-15: Submission: Awesome Kong vs. Ivelisse vs. Randy Savage in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 101%
 - 2024-10-22: Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 101%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

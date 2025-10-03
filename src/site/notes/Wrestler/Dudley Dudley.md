@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 ## Häufigste Partner
 - [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] (3x)
 
+## Letzte 5 Matches
+- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 100%
+- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Loss, 80%
+- 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Win, 73%
+
 ## Top Matches
 - 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
 - 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 80%
 - 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 73%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

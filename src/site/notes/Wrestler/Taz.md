@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2023-06-26: Gruesome Fighting: Taz vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Win, 83%
+- 2023-06-26: Gruesome Fighting: Taz vs. Jonathan Gresham in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Win, 72%
+- 2023-06-26: Gruesome Fighting: Taz vs.  vs. Grayson Waller in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — Win, 82%
+
 ## Top Matches
 - 2023-06-26: Gruesome Fighting: Taz vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 83%
 - 2023-06-26: Gruesome Fighting: Taz vs.  vs. Grayson Waller in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 82%
 - 2023-06-26: Gruesome Fighting: Taz vs. Jonathan Gresham in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 72%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

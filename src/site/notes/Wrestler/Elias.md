@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,12 +36,14 @@
 ## Häufigste Partner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)
 
+## Letzte 5 Matches
+- 2020-10-26: Kurt Angle & Elias vs. Arn Anderson & Eric Young in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Win, 78%
+- 2020-10-26: Kurt Angle & Elias vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Win, 81%
+- 2020-10-26: Kurt Angle & Elias vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League Semi Finals \|2020-10-26 - S03E02_World Tag League Semi Finals ]] — Win, 94%
+- 2020-10-26: Kurt Angle & Elias vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League Finals\|2020-10-26 - S03E02_World Tag League Finals]] — Loss, 87%
+
 ## Top Matches
 - 2020-10-26: Kurt Angle & Elias vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League Semi Finals \|2020-10-26 - S03E02_World Tag League Semi Finals ]] — 94%
 - 2020-10-26: Kurt Angle & Elias vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League Finals\|2020-10-26 - S03E02_World Tag League Finals]] — 87%
 - 2020-10-26: Kurt Angle & Elias vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 81%
 - 2020-10-26: Kurt Angle & Elias vs. Arn Anderson & Eric Young in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 78%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

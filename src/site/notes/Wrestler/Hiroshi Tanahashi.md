@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (3x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (3x)
 
+## Letzte 5 Matches
+- 2025-05-07: Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Draw, 84%
+- 2025-03-03: Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Draw, 98%
+- 2025-03-03: Submission Vision: Hiroshi Tanahashi vs. Bret Hart in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Loss, 72%
+- 2025-03-03: Submission Vision: Hiroshi Tanahashi vs. Zack Sabre Jr. in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 97%
+- 2025-03-03: Path of God vs. André The Giant & Sami Zayn in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Loss, 63%
+
 ## Top Matches
 - 2024-02-15: Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 105%
 - 2024-05-27: AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — 99%
 - 2025-01-16: Jon Moxley vs. Hiroshi Tanahashi in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 98%
 - 2025-03-03: Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 98%
 - 2024-02-15: AJ Styles vs. Hiroshi Tanahashi in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 97%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

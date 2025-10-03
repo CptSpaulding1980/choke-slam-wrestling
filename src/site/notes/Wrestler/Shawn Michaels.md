@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -23,11 +24,6 @@
 | 30 | 8 | 17 | 5 | 32.0% | 90.03 |
 
 **Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 6<br>**Aktuelle Serie:** loss (1 in Folge)
-
-## Titelregentschaften
-| Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
-|-------|---------------|----------------|------------------|---------|
-| Choke Slam Tag Team Championship | 1 | 0 | 2020-06-29 |  |
 
 
 ## Häufigste Gegner
@@ -44,13 +40,16 @@
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (3x)
 - [[Wrestler/Triple H\|Triple H]] (2x)
 
+## Letzte 5 Matches
+- 2025-05-07: Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 88%
+- 2025-05-07: Bret Hart & Owen Hart vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 94%
+- 2025-01-16: Saint Rebel Radicalz vs. Dudes with Attitudes in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 89%
+- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 91%
+- 2023-12-15: Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 93%
+
 ## Top Matches
 - 2020-06-29: Choke Slam Tag Team Championship: Shawn Michaels & Triple H vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 99%
 - 2022-06-28: Submission - Choke Slam World Championship: Shawn Michaels vs. Big Van Vader vs. Bob Backlund (c) in [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] — 99%
 - 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
 - 2022-07-24: Militanter Mummenschanz vs. Diesel & Shawn Michaels in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 98%
 - 2020-09-07: Choke Slam Tag Team Championship in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — 96%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

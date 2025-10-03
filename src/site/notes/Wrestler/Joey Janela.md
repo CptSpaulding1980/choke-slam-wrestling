@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
 - [[Wrestler/KENTA\|KENTA]] (1x)
 
+## Letzte 5 Matches
+- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
+- 2022-07-24: Sweet 'n Sour Elite vs. Joey Janela, Madison Rayne, Kane, & Edge in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — Win, 84%
+- 2022-07-24: Royal Rumble Match in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — Draw, 92%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Draw, 91%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Draw, 91%
+
 ## Top Matches
 - 2021-04-15: Militanter Mummenschanz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 100%
 - 2021-04-29: Militanter Mummenschanz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
 - 2021-06-30: Choke Slam Tag Team Championship: Joey Janela vs. Kane vs. Bob Backlund vs. Kota Ibushi vs. Christian Cage vs. Tetsuya Naito in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 99%
-- 2021-05-10: Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fénix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] — 96%
+- 2021-05-10: Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fenix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] — 96%
 - 2021-06-15: Joey Janela & The Blade vs. Owen Hart & The Butcher in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 95%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

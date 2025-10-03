@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,13 +38,16 @@
 - [[Wrestler/Jade Cargill\|Jade Cargill]] (3x)
 - [[Wrestler/Booker T\|Booker T]] (1x)
 
+## Letzte 5 Matches
+- 2023-05-30: Jonathan Gresham & Miro vs. Booker T & Kevin Nash in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — Loss, 92%
+- 2022-01-26: Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Win, 78%
+- 2022-01-26: Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 85%
+- 2022-01-26: Streetball: Saint Rebel Radicalz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 70%
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Draw, 91%
+
 ## Top Matches
 - 2023-05-30: Jonathan Gresham & Miro vs. Booker T & Kevin Nash in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 92%
 - 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2022-01-26: Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 85%
 - 2022-01-26: Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 78%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

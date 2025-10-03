@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,9 +35,8 @@
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (1x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
 
+## Letzte 5 Matches
+- 2022-02-09: Choke Slam Apple Championship: Kevin Steen vs. Rush vs. Rey Mysterio Jr. vs. AJ Styles (c) vs. Chris Candido vs. Lance Storm in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Loss, 95%
+
 ## Top Matches
 - 2022-02-09: Choke Slam Apple Championship: Kevin Steen vs. Rush vs. Rey Mysterio Jr. vs. AJ Styles (c) vs. Chris Candido vs. Lance Storm in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 95%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
 - [[Wrestler/Ric Flair\|Ric Flair]] (1x)
 
+## Letzte 5 Matches
+- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 99%
+- 2023-12-15: Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 92%
+- 2023-12-15: Diesel vs. Shawn Michaels vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Miro in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 82%
+- 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 100%
+- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
+
 ## Top Matches
 - 2021-06-15: Pre Show: Brutus Beefcake vs. Jeff Cobb in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 100%
 - 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
 - 2023-12-15: Roman Reigns vs. Seth Rollins vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 99%
-- 2021-05-18: Choke Slam Tag Team Championship: Kane vs. Awesome Kong vs. Bob Backlund vs. Rey Fénix vs. Christian Cage vs. Tetsuya Naito vs. Brutus Beefcake vs. The Blade in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 98%
-- 2021-05-10: Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fénix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] — 96%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]
+- 2021-05-18: Choke Slam Tag Team Championship: Kane vs. Awesome Kong vs. Bob Backlund vs. Rey Fenix vs. Christian Cage vs. Tetsuya Naito vs. Brutus Beefcake vs. The Blade in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 98%
+- 2021-05-10: Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fenix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] — 96%

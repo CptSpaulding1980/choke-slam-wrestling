@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (3x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
 
+## Letzte 5 Matches
+- 2025-01-16: Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Win, 85%
+- 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Draw, 89%
+- 2023-12-15: VF3: Big Van Vader, Madison Rayne, & Triple H vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 76%
+- 2023-12-15: HF2: Sweet 'n Sour Elite vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 81%
+- 2023-12-15: Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 98%
+
 ## Top Matches
 - 2023-12-15: Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 98%
 - 2020-06-08: Saint Rebel Radicalz vs. Randy Orton & Mansoor in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 93%
 - 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 92%
 - 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
 - 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 89%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

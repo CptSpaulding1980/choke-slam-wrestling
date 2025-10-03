@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,12 +37,14 @@
 - [[Wrestler/The Sandman\|The Sandman]] (2x)
 - [[Wrestler/Bobby Heenan\|Bobby Heenan]] (1x)
 
+## Letzte 5 Matches
+- 2022-11-07: Tag Team Roulette - Sweet 'n Sour Elite vs. El Profesor (Bobby Heenan & Damien Sandow) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Win, 75%
+- 2022-01-26: Beach-Volleyball: Militanter Mummenschanz vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Draw, 57%
+- 2022-01-26: Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 99%
+- 2022-01-26: Beach-Volleyball: Saint Rebel Radicalz vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Win, 91%
+
 ## Top Matches
 - 2022-01-26: Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 99%
 - 2022-01-26: Beach-Volleyball: Saint Rebel Radicalz vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 91%
 - 2022-11-07: Tag Team Roulette - Sweet 'n Sour Elite vs. El Profesor (Bobby Heenan & Damien Sandow) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 75%
 - 2022-01-26: Beach-Volleyball: Militanter Mummenschanz vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 57%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

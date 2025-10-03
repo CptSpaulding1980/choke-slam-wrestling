@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,11 +39,12 @@
 - [[Wrestler/Gunther\|Gunther]] (1x)
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
 
+## Letzte 5 Matches
+- 2023-07-30: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Loss, 81%
+- 2023-07-30: Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Loss, 80%
+- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Draw, 94%
+
 ## Top Matches
 - 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
 - 2023-07-30: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 81%
 - 2023-07-30: Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 80%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

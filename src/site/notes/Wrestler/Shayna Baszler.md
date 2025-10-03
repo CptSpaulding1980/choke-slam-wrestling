@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -23,11 +24,6 @@
 | 4 | 2 | 2 | 0 | 50.0% | 80.50 |
 
 **Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (2 in Folge)
-
-## Titelregentschaften
-| Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
-|-------|---------------|----------------|------------------|---------|
-| Choke Slam Womens Championship | 1 | 0 | 2022-10-02 |  |
 
 
 ## Häufigste Gegner
@@ -40,12 +36,14 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2023-10-09: Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — Loss, 67%
+- 2023-03-29: Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — Loss, 90%
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — Win, 88%
+- 2022-10-02: Choke Slam Womens Championship: Aoife Valkyrie vs. Killer Kelly vs. Madison Rayne vs. Shayna Baszler in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Win, 77%
+
 ## Top Matches
 - 2023-03-29: Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 90%
 - 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
 - 2022-10-02: Choke Slam Womens Championship: Aoife Valkyrie vs. Killer Kelly vs. Madison Rayne vs. Shayna Baszler in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 77%
 - 2023-10-09: Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 67%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,13 +39,16 @@
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)
 - [[Wrestler/Hammerstone\|Hammerstone]] (1x)
 
+## Letzte 5 Matches
+- 2024-10-22: Saint Rebel Radicalz vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 94%
+- 2024-10-22: Randy Savage vs. Sara Del Rey vs. Ryusuke Taguchi in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 80%
+- 2024-10-22: Saint Rebel Radicalz vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 84%
+- 2024-10-22: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 89%
+- 2024-10-22: Joe Coffey vs. Hammerstone vs. Sara Del Rey in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 95%
+
 ## Top Matches
 - 2020-06-08: Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 98%
 - 2020-06-08: Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 95%
 - 2024-10-22: Joe Coffey vs. Hammerstone vs. Sara Del Rey in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 95%
 - 2024-10-22: Saint Rebel Radicalz vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 94%
 - 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

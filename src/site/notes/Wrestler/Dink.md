@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +33,8 @@
 ## Häufigste Partner
 - [[Wrestler/Hornswoggle\|Hornswoggle]] (1x)
 
+## Letzte 5 Matches
+- 2022-11-07: Saint Rebel Radicalz vs. Dink  & Hornswoggle in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Win, 81%
+
 ## Top Matches
 - 2022-11-07: Saint Rebel Radicalz vs. Dink  & Hornswoggle in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 81%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

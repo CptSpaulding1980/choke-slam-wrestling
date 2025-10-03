@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +33,8 @@
 ## Häufigste Partner
 - [[Wrestler/Damien Sandow\|Damien Sandow]] (1x)
 
+## Letzte 5 Matches
+- 2022-11-07: Tag Team Roulette - Sweet 'n Sour Elite vs. El Profesor (Bobby Heenan & Damien Sandow) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Win, 75%
+
 ## Top Matches
 - 2022-11-07: Tag Team Roulette - Sweet 'n Sour Elite vs. El Profesor (Bobby Heenan & Damien Sandow) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 75%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

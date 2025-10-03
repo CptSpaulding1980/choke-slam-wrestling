@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,12 +37,14 @@
 - [[Wrestler/Rick Steiner\|Rick Steiner]] (1x)
 - [[Wrestler/Sting\|Sting]] (1x)
 
+## Letzte 5 Matches
+- 2021-08-23: Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Win, 92%
+- 2021-08-23: Saint Rebel Radicalz vs. Franz Schuhmann & Sting in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Loss, 74%
+- 2021-08-23: Bob Backlund vs. Franz Schuhmann in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Loss, 80%
+- 2021-08-23: Humble Rumble in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Draw, 89%
+
 ## Top Matches
 - 2021-08-23: Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 92%
 - 2021-08-23: Humble Rumble in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 89%
 - 2021-08-23: Bob Backlund vs. Franz Schuhmann in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 80%
 - 2021-08-23: Saint Rebel Radicalz vs. Franz Schuhmann & Sting in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 74%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,11 +40,12 @@
 - [[Wrestler/Thea Hail\|Thea Hail]] (1x)
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (1x)
 
+## Letzte 5 Matches
+- 2024-01-29: Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 94%
+- 2023-12-15: Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 85%
+- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
+
 ## Top Matches
 - 2024-01-29: Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 94%
 - 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 88%
 - 2023-12-15: Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 85%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

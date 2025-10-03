@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (3x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (2x)
 
+## Letzte 5 Matches
+- 2025-05-07: Choke Slam International Championship: Bret Hart vs. Finn Bálor vs. The Undertaker vs. Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 85%
+- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Loss, 73%
+- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 89%
+- 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 86%
+- 2025-03-03: Finn Bálor vs. Bandido in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 78%
+
 ## Top Matches
 - 2024-10-22: Saint Rebel Radicalz vs. Finn Bálor & The Undertaker in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 99%
 - 2024-12-27: Finn Bálor vs. Tatum Paxley vs. Triple H in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 97%
 - 2020-12-28: Killshot vs. Bob Backlund vs. Sgt. Slaughter vs. Sheamus  vs. Finn Bálor in [[Events/2020-12-28 - S03E03_Battle of Britain - Pre Show\|2020-12-28 - S03E03_Battle of Britain - Pre Show]] — 95%
 - 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
 - 2024-10-22: Path of God vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

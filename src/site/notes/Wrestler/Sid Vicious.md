@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,13 +39,16 @@
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
 
+## Letzte 5 Matches
+- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Draw, 91%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
+- 2020-09-07: Andre the Giant Memorial Battle Royal in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — Draw, 82%
+- 2020-09-07: Sid Vicious vs. Hulk Hogan in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — Win, 99%
+- 2020-06-29: Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — Win, 76%
+
 ## Top Matches
 - 2020-06-29: World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 101%
 - 2020-06-08: Threeway Fiasko im Käfig - Cage Match: The Undertaker vs. Sid Vicious vs. Randy Orton in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 100%
 - 2020-09-07: Sid Vicious vs. Hulk Hogan in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — 99%
 - 2020-06-08: Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 95%
 - 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

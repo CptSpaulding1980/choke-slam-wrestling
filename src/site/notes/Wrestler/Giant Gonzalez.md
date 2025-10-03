@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,11 +37,12 @@
 - [[Wrestler/Jade Cargill\|Jade Cargill]] (3x)
 - [[Wrestler/Kevin Nash\|Kevin Nash]] (3x)
 
+## Letzte 5 Matches
+- 2022-01-26: Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Win, 78%
+- 2022-01-26: Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 85%
+- 2022-01-26: Streetball: Saint Rebel Radicalz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 70%
+
 ## Top Matches
 - 2022-01-26: Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 85%
 - 2022-01-26: Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 78%
 - 2022-01-26: Streetball: Saint Rebel Radicalz vs. Giant Gonzalez, Jade Cargill & Kevin Nash in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 70%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

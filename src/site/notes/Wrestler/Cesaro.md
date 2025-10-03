@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,13 +39,16 @@
 - [[Wrestler/Kelly Klein\|Kelly Klein]] (2x)
 - [[Wrestler/Diesel\|Diesel]] (2x)
 
+## Letzte 5 Matches
+- 2021-03-09: Kane vs. Cesaro  in [[Events/2021-03-09 - S03E06_Swiss Bliss - Return of the King\|2021-03-09 - S03E06_Swiss Bliss - Return of the King]] — Loss, 88%
+- 2021-03-09: Tetsuya Naito vs. Cesaro  in [[Events/2021-03-09 - S03E06_Swiss Bliss - A New Hope\|2021-03-09 - S03E06_Swiss Bliss - A New Hope]] — Win, 91%
+- 2021-02-25: Cesaro  vs. Jushin Liger in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — Win, 85%
+- 2021-02-25: Cesaro  vs. Bob Backlund in [[Events/2021-02-25 - S03E06_Swiss Bliss - Tokyo Drift\|2021-02-25 - S03E06_Swiss Bliss - Tokyo Drift]] — Loss, 93%
+- 2020-09-07: Andre the Giant Memorial Battle Royal in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — Draw, 82%
+
 ## Top Matches
 - 2020-06-08: Angélico & Mansoor vs. Militanter Mummenschanz in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 100%
 - 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
 - 2020-06-08: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 94%
 - 2020-06-29: Ricky Steamboat vs. Cesaro  in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 93%
 - 2020-09-07: Cesaro vs. Hulk Hogan in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — 93%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,11 +39,12 @@
 - [[Wrestler/Gable Steveson\|Gable Steveson]] (1x)
 - [[Wrestler/Moose\|Moose]] (1x)
 
+## Letzte 5 Matches
+- 2024-07-19: Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 73%
+- 2024-07-19: Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 80%
+- 2024-07-19: Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 88%
+
 ## Top Matches
 - 2024-07-19: Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 88%
 - 2024-07-19: Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 80%
 - 2024-07-19: Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 73%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

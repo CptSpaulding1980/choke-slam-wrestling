@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,10 +35,10 @@
 ## Häufigste Partner
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)
 
+## Letzte 5 Matches
+- 2022-11-17: Triple H & Iron Mike Tyson vs. Shawn Michaels & Logan Paul in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Loss, 89%
+- 2022-11-17: Shawn Michaels & Logan Paul vs. Militanter Mummenschanz in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Loss, 91%
+
 ## Top Matches
 - 2022-11-17: Shawn Michaels & Logan Paul vs. Militanter Mummenschanz in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 91%
 - 2022-11-17: Triple H & Iron Mike Tyson vs. Shawn Michaels & Logan Paul in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 89%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,13 +36,14 @@
 ## Häufigste Partner
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (2x)
 - [[Wrestler/Drago\|Drago]] (1x)
-- [[Wrestler/Rey Fénix\|Rey Fénix]] (1x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (1x)
+
+## Letzte 5 Matches
+- 2023-04-19: Trios League Final: Aero Star, Drago & Rey Fenix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — Loss, 96%
+- 2020-10-26: Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Win, 100%
+- 2020-10-26: Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Loss, 100%
 
 ## Top Matches
 - 2020-10-26: Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
 - 2020-10-26: Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
-- 2023-04-19: Trios League Final: Aero Star, Drago & Rey Fénix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 96%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]
+- 2023-04-19: Trios League Final: Aero Star, Drago & Rey Fenix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 96%

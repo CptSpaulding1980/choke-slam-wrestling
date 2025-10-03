@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/AJ Styles\|AJ Styles]] (3x)
 - [[Wrestler/Grayson Waller\|Grayson Waller]] (1x)
 
+## Letzte 5 Matches
+- 2023-08-22: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Loss, 93%
+- 2023-08-22: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Loss, 83%
+- 2023-08-22: 2 out 3 Falls Trios: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Loss, 91%
+- 2023-08-22: 2 out 3 Falls Trios: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Win, 94%
+- 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Draw, 100%
+
 ## Top Matches
 - 2023-03-29: Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 104%
 - 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
 - 2023-06-26: Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] — 100%
 - 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
 - 2022-12-16: Gigi Dolin vs. Randy Savage vs. Grayson Waller in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 99%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

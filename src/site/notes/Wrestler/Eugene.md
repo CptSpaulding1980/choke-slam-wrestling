@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +33,8 @@
 - [[Wrestler/Repo Man\|Repo Man]] (1x)
 - [[Wrestler/Kwang\|Kwang]] (1x)
 
+## Letzte 5 Matches
+- 2024-03-07: AJ Styles vs. Repo Man vs. Kwang vs. Eugene  in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Loss, 89%
+
 ## Top Matches
 - 2024-03-07: AJ Styles vs. Repo Man vs. Kwang vs. Eugene  in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 89%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

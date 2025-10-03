@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,10 +38,10 @@
 - [[Wrestler/Meng\|Meng]] (2x)
 - [[Wrestler/The Shark\|The Shark]] (2x)
 
+## Letzte 5 Matches
+- 2023-10-09: War Games: Militanter Mummenschanz vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — Loss, 85%
+- 2023-10-09: War Games: Sweet 'n Sour Elite vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — Loss, 75%
+
 ## Top Matches
 - 2023-10-09: War Games: Militanter Mummenschanz vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 85%
 - 2023-10-09: War Games: Sweet 'n Sour Elite vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 75%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

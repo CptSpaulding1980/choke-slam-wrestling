@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/EC3\|EC3]] (1x)
 - [[Wrestler/Triple H\|Triple H]] (1x)
 
+## Letzte 5 Matches
+- 2025-10-02: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 88%
+- 2025-10-02: Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Win, 100%
+- 2025-09-04: Trios League: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Loss, 90%
+- 2025-09-04: Iron Grappling 2: Mike Sharpe vs. Steve Austin in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Win, 69%
+- 2025-09-04: Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Win, 93%
+
 ## Top Matches
 - 2021-06-15: Pre Show: Kazuchika Okada vs. Steve Austin in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 100%
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
-- 2025-10-02: Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] — 100%
+- 2025-10-02: Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — 100%
 - 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
 - 2022-02-09: Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 96%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

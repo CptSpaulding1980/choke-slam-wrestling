@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,16 +36,18 @@
 ## Häufigste Partner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (2x)
-- [[Wrestler/Rey Fénix\|Rey Fénix]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
 - [[Wrestler/Kane\|Kane]] (1x)
 - [[Wrestler/Joey Janela\|Joey Janela]] (1x)
+
+## Letzte 5 Matches
+- 2021-06-30: Dan Koloff HC Tournament: Mickie James vs. Joey Janela vs. Awesome Kong in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — Loss, 72%
+- 2020-10-13: Kane vs. Tetsuya Naito vs. Mickie James in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — Loss, 73%
+- 2020-10-13: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — Win, 94%
+- 2020-10-13: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — Win, 87%
 
 ## Top Matches
 - 2020-10-13: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 94%
 - 2020-10-13: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 87%
 - 2020-10-13: Kane vs. Tetsuya Naito vs. Mickie James in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 73%
 - 2021-06-30: Dan Koloff HC Tournament: Mickie James vs. Joey Janela vs. Awesome Kong in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 72%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -38,11 +39,12 @@
 - [[Wrestler/Ric Flair\|Ric Flair]] (1x)
 - [[Wrestler/Tully Blanchard\|Tully Blanchard]] (1x)
 
+## Letzte 5 Matches
+- 2023-10-09: War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — Loss, 73%
+- 2020-10-26: Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Loss, 100%
+- 2020-10-26: Barry Windham & Gail Kim vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Loss, 99%
+
 ## Top Matches
 - 2020-10-26: Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
 - 2020-10-26: Barry Windham & Gail Kim vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 99%
 - 2023-10-09: War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 73%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

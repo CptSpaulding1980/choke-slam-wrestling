@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (3x)
 - [[Wrestler/Noam Dar\|Noam Dar]] (3x)
 
+## Letzte 5 Matches
+- 2024-01-29: Los Jinetes del Aire vs. Sweet 'n Sour Elite in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 66%
+- 2023-12-15: Sweet 'n Sour Elite vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 86%
+- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
+- 2023-11-03: Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Win, 92%
+- 2023-11-03: Guardians of the Galaxy 2 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Loss, 81%
+
 ## Top Matches
 - 2023-03-29: Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 104%
 - 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
 - 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 96%
 - 2023-04-19: Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 95%
 - 2023-08-22: 2 out 3 Falls Trios: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 94%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

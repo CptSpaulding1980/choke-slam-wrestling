@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,13 +38,16 @@
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
 
+## Letzte 5 Matches
+- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — Draw, 88%
+- 2021-10-17: Sin Cara vs. Aoife Valkyrie vs. Killer Kelly vs. Akira Hokuto in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Loss, 93%
+- 2021-09-06: Akira Hokuto vs. Big Van Vader in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — Loss, 59%
+- 2021-08-23: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Win, 94%
+- 2021-08-23: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Loss, 94%
+
 ## Top Matches
 - 2021-08-23: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 94%
 - 2021-08-23: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 94%
 - 2021-10-17: Sin Cara vs. Aoife Valkyrie vs. Killer Kelly vs. Akira Hokuto in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 93%
 - 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
 - 2021-09-06: Akira Hokuto vs. Big Van Vader in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 59%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

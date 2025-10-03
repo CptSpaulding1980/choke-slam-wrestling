@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,13 +37,16 @@
 - [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (3x)
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (1x)
 
+## Letzte 5 Matches
+- 2024-10-22: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 80%
+- 2024-10-22: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 82%
+- 2024-10-22: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 80%
+- 2024-10-22: Joe Coffey vs. Hammerstone vs. Sara Del Rey in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 95%
+- 2024-10-22: Dalton Castle & Killer Kelly vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Draw, 75%
+
 ## Top Matches
 - 2024-10-22: Joe Coffey vs. Hammerstone vs. Sara Del Rey in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 95%
 - 2024-10-22: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 82%
 - 2024-10-22: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 80%
 - 2024-10-22: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 80%
 - 2024-10-22: Dalton Castle & Killer Kelly vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 75%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

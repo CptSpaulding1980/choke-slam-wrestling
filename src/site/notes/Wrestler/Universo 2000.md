@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,9 +33,8 @@
 - [[Wrestler/Austin Aries\|Austin Aries]] (1x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
 
+## Letzte 5 Matches
+- 2023-08-22: Inferno en el Ring: Austin Aries vs. Randy Savage vs. Hulk Hogan vs. Universo 2000 in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Loss, 88%
+
 ## Top Matches
 - 2023-08-22: Inferno en el Ring: Austin Aries vs. Randy Savage vs. Hulk Hogan vs. Universo 2000 in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 88%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,13 +35,16 @@
 - [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
 
+## Letzte 5 Matches
+- 2025-08-21: Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Draw, 85%
+- 2023-12-15: Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 100%
+- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Draw, 94%
+- 2022-11-07: Saint Rebel Radicalz vs. Dink  & Hornswoggle in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Loss, 81%
+- 2022-06-28: Threeway Fiasko in [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] — Loss, 93%
+
 ## Top Matches
 - 2023-12-15: Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
 - 2022-01-26: Interview Segment /w Kurt Angle & Philipp Brunkovic, Pascal LePas, & Hendrique Delafuente in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 99%
 - 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
 - 2022-06-28: Threeway Fiasko in [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] — 93%
 - 2025-08-21: Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 85%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

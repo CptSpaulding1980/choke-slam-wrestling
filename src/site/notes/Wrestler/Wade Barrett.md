@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -34,13 +35,16 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2023-04-03: Alex Wright vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — Win, 89%
+- 2023-04-03: Miro vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — Win, 87%
+- 2023-04-03: Randy Savage vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — Loss, 78%
+- 2023-03-29: Carat First Round: William Regal vs. Wade Barrett in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — Win, 90%
+- 2023-03-29: Carat Second Round: Randy Savage vs. Wade Barrett in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — Loss, 76%
+
 ## Top Matches
 - 2023-03-29: Carat First Round: William Regal vs. Wade Barrett in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 90%
 - 2023-04-03: Alex Wright vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 89%
 - 2023-04-03: Miro vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 87%
 - 2023-04-03: Randy Savage vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 78%
 - 2023-03-29: Carat Second Round: Randy Savage vs. Wade Barrett in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — 76%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

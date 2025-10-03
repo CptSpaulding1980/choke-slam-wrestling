@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -29,11 +30,10 @@
 - [[Wrestler/Kota Ibushi\|Kota Ibushi]] (1x)
 
 ## Häufigste Partner
-- [[Wrestler/Rey Fénix\|Rey Fénix]] (1x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (1x)
+
+## Letzte 5 Matches
+- 2021-06-30: Dan Koloff HC Tournament: Rey Fenix vs. Kota Ibushi vs. Vladimir Kozlov in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — Loss, 74%
 
 ## Top Matches
-- 2021-06-30: Dan Koloff HC Tournament: Rey Fénix vs. Kota Ibushi vs. Vladimir Kozlov in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 74%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]
+- 2021-06-30: Dan Koloff HC Tournament: Rey Fenix vs. Kota Ibushi vs. Vladimir Kozlov in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 74%

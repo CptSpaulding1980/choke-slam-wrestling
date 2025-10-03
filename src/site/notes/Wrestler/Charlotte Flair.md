@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Bandido\|Bandido]] (1x)
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
 
+## Letzte 5 Matches
+- 2025-10-02: Lady Apache vs. Jay White vs. Bandido vs. Charlotte Flair vs. Chris Jericho vs. Edge in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 86%
+- 2025-08-12: Womens Quarter Finals: Charlotte Flair vs. Lady Apache in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 84%
+- 2025-08-12: Womens Semi Finals: Awesome Kong vs. Charlotte Flair in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 84%
+- 2025-08-12: Queen of the Ring Final: Charlotte Flair vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Loss, 91%
+- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Draw, 100%
+
 ## Top Matches
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 - 2025-06-03: Street Fight: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 98%
 - 2025-08-12: Queen of the Ring Final: Charlotte Flair vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 91%
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

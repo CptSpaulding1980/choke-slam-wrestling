@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,12 +40,14 @@
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
 
+## Letzte 5 Matches
+- 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — Draw, 89%
+- 2021-04-10: Mark Davis & Kyle Fletcher vs. Sweet 'n Sour Elite in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — Win, 78%
+- 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — Loss, 100%
+- 2021-02-25: Sweet 'n Sour Elite vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — Win, 92%
+
 ## Top Matches
 - 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 - 2021-02-25: Sweet 'n Sour Elite vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — 92%
 - 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 89%
 - 2021-04-10: Mark Davis & Kyle Fletcher vs. Sweet 'n Sour Elite in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 78%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

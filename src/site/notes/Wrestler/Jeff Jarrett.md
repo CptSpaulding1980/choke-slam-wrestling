@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -23,11 +24,6 @@
 | 24 | 7 | 14 | 3 | 33.3% | 87.71 |
 
 **Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 8<br>**Aktuelle Serie:** draw (1 in Folge)
-
-## Titelregentschaften
-| Titel | Regentschaften | Verteidigungen | Zuletzt gewonnen | Aktuell |
-|-------|---------------|----------------|------------------|---------|
-| Choke Slam Tag Team Championship | 1 | 0 | 2021-08-23 |  |
 
 
 ## Häufigste Gegner
@@ -44,13 +40,16 @@
 - [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)
 - [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] (1x)
 
+## Letzte 5 Matches
+- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Draw, 100%
+- 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 97%
+- 2022-10-02: Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 97%
+- 2022-10-02: Apple Gauntlet 3 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 97%
+- 2022-02-21: Jeff Jarrett & Killer Kelly vs. The Rockers vs. Christian Cage &.Tetsuya Naito (c) in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — Loss, 93%
+
 ## Top Matches
 - 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 101%
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 - 2021-09-06: Consequences Creed vs. Jeff Jarrett in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 98%
 - 2022-01-26: Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 98%
 - 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

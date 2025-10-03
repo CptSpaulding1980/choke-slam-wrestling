@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,12 +36,14 @@
 - [[Wrestler/Gunther\|Gunther]] (1x)
 - [[Wrestler/Triple H\|Triple H]] (1x)
 
+## Letzte 5 Matches
+- 2024-10-22: Last (wo)man Standing: Fallon Henley vs. Tito Santana in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Win, 77%
+- 2024-10-22: Barbed Wire Death: Triple H vs. Tito Santana in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Loss, 35%
+- 2024-10-22: Loser leaves Town: Gunther vs. Tito Santana in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Loss, 89%
+- 2024-10-22: Choke Slam Hardcore Champioship: Gunther vs. Triple H vs. Tito Santana vs. Randy Savage in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Loss, 94%
+
 ## Top Matches
 - 2024-10-22: Choke Slam Hardcore Champioship: Gunther vs. Triple H vs. Tito Santana vs. Randy Savage in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
 - 2024-10-22: Loser leaves Town: Gunther vs. Tito Santana in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 89%
 - 2024-10-22: Last (wo)man Standing: Fallon Henley vs. Tito Santana in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 77%
 - 2024-10-22: Barbed Wire Death: Triple H vs. Tito Santana in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 35%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

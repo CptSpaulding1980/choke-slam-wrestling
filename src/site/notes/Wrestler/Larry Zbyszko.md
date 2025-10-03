@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -37,13 +38,16 @@
 - [[Wrestler/Christian Cage\|Christian Cage]] (1x)
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)
 
+## Letzte 5 Matches
+- 2024-05-27: Masha Slamovich vs. Larry Zbyszko in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Draw, 58%
+- 2024-05-27: Jordynne Grace vs. Larry Zbyszko in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Win, 77%
+- 2024-05-27: Roman Reigns vs. Larry Zbyszko in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Loss, 78%
+- 2024-05-27: AJ Styles vs. Larry Zbyszko in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Draw, 79%
+- 2024-05-27: Tama Tonga vs. Larry Zbyszko in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Win, 81%
+
 ## Top Matches
 - 2022-01-26: Saint Rebel Radicalz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 100%
 - 2022-01-26: SWA: Big Van Vader vs. Larry Zbyszko in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 97%
 - 2022-02-09: Loser leaves Town (Cage):Jeff Jarrett vs. Marius Al-Ani vs. Larry Zbyszko in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 94%
 - 2022-01-26: Beach-Volleyball: Saint Rebel Radicalz vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 91%
 - 2021-12-28: Larry Zbyszko vs. CM Punk  in [[Events/2021-12-28 - S04E05_UFC\|2021-12-28 - S04E05_UFC]] — 88%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

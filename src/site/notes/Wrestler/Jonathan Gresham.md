@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (4x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (4x)
 
+## Letzte 5 Matches
+- 2025-01-16: Path of God vs. Jonathan Gresham & Jay White in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 52%
+- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 91%
+- 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 96%
+- 2023-12-15: Jay White vs. Jonathan Gresham vs. KENTA vs. Edge vs. Bret Hart vs. Miro in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 98%
+- 2023-12-15: Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 92%
+
 ## Top Matches
 - 2023-02-22: Grayson Waller vs. Jonathan Gresham vs. Miro in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 102%
 - 2023-04-03: William Regal vs. Jonathan Gresham in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 100%
 - 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
 - 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
 - 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

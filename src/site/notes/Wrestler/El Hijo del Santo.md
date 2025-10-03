@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,11 +34,12 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2023-08-22: Mascara contra Caballera: AJ Styles vs. El Hijo del Santo (w/Dr. HH) in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Loss, 91%
+- 2023-08-22: Mascara contra Caballera: Jonathan Gresham vs. El Hijo del Santo (w/Dr. HH) in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Win, 65%
+- 2023-08-22: Mascara contra Caballera: Jon Moxley vs. El Hijo del Santo (w/Dr. HH) in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — Loss, 87%
+
 ## Top Matches
 - 2023-08-22: Mascara contra Caballera: AJ Styles vs. El Hijo del Santo (w/Dr. HH) in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 91%
 - 2023-08-22: Mascara contra Caballera: Jon Moxley vs. El Hijo del Santo (w/Dr. HH) in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 87%
 - 2023-08-22: Mascara contra Caballera: Jonathan Gresham vs. El Hijo del Santo (w/Dr. HH) in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 65%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

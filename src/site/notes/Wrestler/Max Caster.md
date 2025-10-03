@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -35,11 +36,12 @@
 ## Häufigste Partner
 - [[Wrestler/Anthony Bowens\|Anthony Bowens]] (3x)
 
+## Letzte 5 Matches
+- 2022-10-02: Militanter Mummenschanz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 89%
+- 2022-10-02: Sweet 'n Sour Elite vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 86%
+- 2022-10-02: Saint Rebel Radicalz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 76%
+
 ## Top Matches
 - 2022-10-02: Militanter Mummenschanz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 89%
 - 2022-10-02: Sweet 'n Sour Elite vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 86%
 - 2022-10-02: Saint Rebel Radicalz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 76%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

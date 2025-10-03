@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -28,7 +29,7 @@
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (2x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
-- [[Wrestler/Rey Fénix\|Rey Fénix]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
 - [[Wrestler/Britt Baker\|Britt Baker]] (1x)
 
@@ -38,13 +39,16 @@
 - [[Wrestler/Thunder Rosa\|Thunder Rosa]] (2x)
 - [[Wrestler/Britt Baker\|Britt Baker]] (1x)
 
+## Letzte 5 Matches
+- 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — Draw, 89%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
+- 2021-01-21: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — Loss, 86%
+- 2021-01-21: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — Loss, 91%
+- 2020-10-26: Kurt Angle & Elias vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Loss, 81%
+
 ## Top Matches
 - 2020-10-13: Britt Baker vs. Kazuchika Okada vs. Paul Orndorff in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 95%
 - 2020-10-13: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 94%
 - 2021-01-21: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 91%
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 89%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

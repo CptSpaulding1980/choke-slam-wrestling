@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,13 +37,16 @@
 - [[Wrestler/Pac\|Pac]] (4x)
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
 
+## Letzte 5 Matches
+- 2025-10-02: Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 87%
+- 2025-10-02: Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Win, 80%
+- 2025-09-04: Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Loss, 93%
+- 2025-09-04: Saint Rebel Radicalz vs. Pac, Penta El Zero Miedo & Rey Fenix in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Loss, 92%
+- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — Draw, 100%
+
 ## Top Matches
 - 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
-- 2025-09-04: Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]] — 93%
-- 2025-09-04: Saint Rebel Radicalz vs. Pac, Penta El Zero Miedo & Rey Fenix in [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]] — 92%
-- 2025-10-02: Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac in [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] — 87%
-- 2025-10-02: Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz in [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] — 80%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]
+- 2025-09-04: Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — 93%
+- 2025-09-04: Saint Rebel Radicalz vs. Pac, Penta El Zero Miedo & Rey Fenix in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — 92%
+- 2025-10-02: Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — 87%
+- 2025-10-02: Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — 80%

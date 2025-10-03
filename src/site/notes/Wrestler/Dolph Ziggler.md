@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -29,16 +30,17 @@
 - [[Wrestler/Kane\|Kane]] (1x)
 - [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
-- [[Wrestler/Rey Fénix\|Rey Fénix]] (1x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (2x)
+
+## Letzte 5 Matches
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
+- 2020-10-26: Dolph Ziggler & Rey Mysterio Jr. vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Win, 82%
+- 2020-10-26: Saint Rebel Radicalz vs. Dolph Ziggler & Rey Mysterio Jr. in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Loss, 81%
 
 ## Top Matches
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2020-10-26: Dolph Ziggler & Rey Mysterio Jr. vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 82%
 - 2020-10-26: Saint Rebel Radicalz vs. Dolph Ziggler & Rey Mysterio Jr. in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 81%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

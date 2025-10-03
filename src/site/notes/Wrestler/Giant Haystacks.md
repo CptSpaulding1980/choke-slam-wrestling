@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,9 +32,8 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2020-12-29: Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Win, 86%
+
 ## Top Matches
 - 2020-12-29: Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 86%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -33,12 +34,14 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2021-11-01: Asuka vs. Rey Mysterio Jr. vs. KUSHIDA  vs. Kota Ibushi vs. Kazuchika Okada vs. Bryan Danielson vs. Tyler Bate in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — Draw, 99%
+- 2021-10-17: < 70 kg: Asuka vs. Killer Kelly in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|2021-10-17 - S04E04_Admiral Lordevans Rules!]] — Win, 82%
+- 2021-10-17: < 70 kg: Asuka vs. Madison Rayne in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|2021-10-17 - S04E04_Admiral Lordevans Rules!]] — Win, 79%
+- 2021-10-17: < 70 kg: Asuka vs. Killer Kelly in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|2021-10-17 - S04E04_Admiral Lordevans Rules!]] — Win, 90%
+
 ## Top Matches
 - 2021-11-01: Asuka vs. Rey Mysterio Jr. vs. KUSHIDA  vs. Kota Ibushi vs. Kazuchika Okada vs. Bryan Danielson vs. Tyler Bate in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — 99%
 - 2021-10-17: < 70 kg: Asuka vs. Killer Kelly in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|2021-10-17 - S04E04_Admiral Lordevans Rules!]] — 90%
 - 2021-10-17: < 70 kg: Asuka vs. Killer Kelly in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|2021-10-17 - S04E04_Admiral Lordevans Rules!]] — 82%
 - 2021-10-17: < 70 kg: Asuka vs. Madison Rayne in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|2021-10-17 - S04E04_Admiral Lordevans Rules!]] — 79%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Bull Nakano\|Bull Nakano]] (1x)
 - [[Wrestler/Noam Dar\|Noam Dar]] (1x)
 
+## Letzte 5 Matches
+- 2024-12-27: Fallon Henley vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Win, 53%
+- 2024-12-27: The Undertaker vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Loss, 78%
+- 2024-12-27: Kiana James vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Draw, 99%
+- 2023-11-03: Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Loss, 92%
+- 2023-11-03: Guardians of the Galaxy 2 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Loss, 81%
+
 ## Top Matches
 - 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
 - 2024-12-27: Kiana James vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 99%
 - 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — 94%
 - 2023-11-03: Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — 92%
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,12 +37,14 @@
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
 - [[Wrestler/Dean Malenko\|Dean Malenko]] (1x)
 
+## Letzte 5 Matches
+- 2023-05-30: Militanter Mummenschanz vs. Dean Malenko & Diamond Dallas Page in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — Win, 82%
+- 2022-11-07: Exhibition 1 - Cage Match in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Draw, 93%
+- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Loss, 100%
+- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Win, 100%
+
 ## Top Matches
 - 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
 - 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
 - 2022-11-07: Exhibition 1 - Cage Match in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 93%
 - 2023-05-30: Militanter Mummenschanz vs. Dean Malenko & Diamond Dallas Page in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 82%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

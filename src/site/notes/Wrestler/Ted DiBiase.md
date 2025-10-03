@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,13 +37,16 @@
 - [[Wrestler/Irwin R. Schyster\|Irwin R. Schyster]] (3x)
 - [[Wrestler/JBL\|JBL]] (1x)
 
+## Letzte 5 Matches
+- 2024-10-22: Sweet 'n Sour Elite vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Win, 94%
+- 2024-10-22: Saint Rebel Radicalz vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Loss, 82%
+- 2024-10-22: Path of God vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — Win, 97%
+- 2022-11-07: Tag Team Roulette - Militanter Mummenschanz vs. Honey Money (JBL & Ted DiBiase) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Loss, 87%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
+
 ## Top Matches
 - 2024-10-22: Path of God vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 97%
 - 2024-10-22: Sweet 'n Sour Elite vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
 - 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
 - 2022-11-07: Tag Team Roulette - Militanter Mummenschanz vs. Honey Money (JBL & Ted DiBiase) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 87%
 - 2024-10-22: Saint Rebel Radicalz vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 82%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

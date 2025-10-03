@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -32,10 +33,10 @@
 ## Häufigste Partner
 - [[Wrestler/Nikolai Volkoff\|Nikolai Volkoff]] (1x)
 
+## Letzte 5 Matches
+- 2025-08-12: 1/8 Finals: Orange Cassidy vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Loss, 78%
+- 2021-06-30: Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — Loss, 97%
+
 ## Top Matches
 - 2021-06-30: Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 97%
 - 2025-08-12: 1/8 Finals: Orange Cassidy vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 78%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

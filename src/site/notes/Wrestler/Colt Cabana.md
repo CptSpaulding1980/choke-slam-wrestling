@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 - [[Wrestler/Shelton Benjamin\|Shelton Benjamin]] (1x)
 
+## Letzte 5 Matches
+- 2021-04-10: Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — Loss, 100%
+- 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — Loss, 100%
+- 2021-01-21: Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — Loss, 96%
+- 2021-01-21: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — Win, 86%
+- 2021-01-21: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — Loss, 87%
+
 ## Top Matches
 - 2021-04-10: Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 - 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
 - 2021-01-21: Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 96%
 - 2021-01-21: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 87%
 - 2021-01-21: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 86%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -28,7 +29,7 @@
 ## Häufigste Gegner
 - [[Wrestler/Britt Baker\|Britt Baker]] (2x)
 - [[Wrestler/Killshot\|Killshot]] (2x)
-- [[Wrestler/Rey Fénix\|Rey Fénix]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
 - [[Wrestler/Kane\|Kane]] (1x)
 - [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
 
@@ -38,13 +39,16 @@
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (3x)
 - [[Wrestler/Paul Orndorff\|Paul Orndorff]] (2x)
 
+## Letzte 5 Matches
+- 2021-01-21: Thunder Rosa vs. Santino Marella in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — Loss, 75%
+- 2020-12-29: Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Loss, 80%
+- 2020-12-29: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Loss, 95%
+- 2020-12-28: Sweet 'n Sour Elite vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — Win, 98%
+- 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Loss, 100%
+
 ## Top Matches
 - 2020-10-26: Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
 - 2020-12-28: Sweet 'n Sour Elite vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 98%
 - 2020-10-13: Thunder Rosa vs. Timothy Thatcher in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 97%
 - 2020-10-26: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League Semi Finals \|2020-10-26 - S03E02_World Tag League Semi Finals ]] — 96%
 - 2020-12-29: Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 95%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

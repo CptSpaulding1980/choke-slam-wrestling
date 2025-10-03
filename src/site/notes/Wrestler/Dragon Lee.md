@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,10 +32,10 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — Draw, 93%
+- 2021-10-17: <75 kg: Rey Mysterio Jr. vs. Dragon Lee in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|2021-10-17 - S04E04_Admiral Lordevans Rules!]] — Loss, 74%
+
 ## Top Matches
 - 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
 - 2021-10-17: <75 kg: Rey Mysterio Jr. vs. Dragon Lee in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|2021-10-17 - S04E04_Admiral Lordevans Rules!]] — 74%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

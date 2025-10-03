@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -36,13 +37,16 @@
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (3x)
 - [[Wrestler/Rush\|Rush]] (3x)
 
+## Letzte 5 Matches
+- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Draw, 95%
+- 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Win, 101%
+- 2022-02-09: Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Loss, 96%
+- 2022-02-09: Loser leaves Town (Cage):Jeff Jarrett vs. Marius Al-Ani vs. Larry Zbyszko in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — Win, 94%
+- 2022-01-26: Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 96%
+
 ## Top Matches
 - 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 101%
 - 2022-01-26: Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 99%
 - 2022-01-26: Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 96%
 - 2022-02-09: Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 96%
 - 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

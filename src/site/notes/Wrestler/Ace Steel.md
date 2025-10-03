@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -31,10 +32,10 @@
 ## Häufigste Partner
 Keine bekannten Partner.
 
+## Letzte 5 Matches
+- 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Draw, 98%
+- 2022-11-07: Exhibition 3 - Backstage Brawl in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Win, 97%
+
 ## Top Matches
 - 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 98%
 - 2022-11-07: Exhibition 3 - Backstage Brawl in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 97%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

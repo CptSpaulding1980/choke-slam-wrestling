@@ -16,6 +16,7 @@
         </tr>
         </table>
         
+
 ## Karriere-Statistiken
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
@@ -39,13 +40,16 @@
 - [[Wrestler/Randy Orton\|Randy Orton]] (1x)
 - [[Wrestler/Drew Gulak\|Drew Gulak]] (1x)
 
+## Letzte 5 Matches
+- 2025-05-07: Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 92%
+- 2021-10-17: Mansoor & Mustafa Ali vs. Militanter Mummenschanz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Loss, 90%
+- 2021-10-17: Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Win, 84%
+- 2021-10-17: Mansoor & Mustafa Ali vs. Saint Rebel Radicalz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Loss, 97%
+- 2021-05-18: KENTA vs. Mansoor in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Win, 74%
+
 ## Top Matches
 - 2020-06-08: Angélico & Mansoor vs. Militanter Mummenschanz in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 100%
 - 2020-06-08: Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 98%
 - 2021-10-17: Mansoor & Mustafa Ali vs. Saint Rebel Radicalz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 97%
 - 2020-06-08: Saint Rebel Radicalz vs. Randy Orton & Mansoor in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 93%
 - 2025-05-07: Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — 92%
-
-## Links
-- [[Events\|Events]]
-- [[Wrestler\|Wrestler]]

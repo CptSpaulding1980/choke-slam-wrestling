@@ -24,6 +24,10 @@
 
 ## **Team**
 <div class="championship-grid">
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/akira-taue" class="champ-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png" alt="Akira Taue">
+    <span>Akira Taue</span>
+  </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bam-bam-bigelow" class="champ-card">
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bam_Bam_Bigelow.png" alt="Bam Bam Bigelow">
     <span>Bam Bam Bigelow</span>
@@ -39,10 +43,6 @@
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/steve-austin" class="champ-card">
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Steve_Austin.png" alt="Steve Austin">
     <span>Steve Austin</span>
-  </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mystery.png" alt="Mystery">
-    <span>To be announced</span>
   </a>
 </div>
 

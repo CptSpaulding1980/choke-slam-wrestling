@@ -15,7 +15,7 @@
 |-----|------|-------|--------|------|--------|-------|
 | 1 |  | [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]] & [[Wrestler/Kurt Angle\|Kurt Angle]] | Johnny Mundo beat Jim Duggan in 29 Min 23 Sec with a Twisting Moonsault Press | 29:23 | ★★★★3/4 | 98 |
 | 2 |  | [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]] & [[Wrestler/Kurt Angle\|Kurt Angle]] | Hulk Hogan beat Kurt Angle in 22 Min 41 Sec with a K.O | 22:41 | ★★★★1/2 | 92 |
-| 3 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]] & [[Wrestler/Kurt Angle\|Kurt Angle]] | Rey Fénix beat Jim Duggan in 11 Min 31 Sec with a K.O | 11:31 | ★★1/2 | 66 |
+| 3 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]] & [[Wrestler/Kurt Angle\|Kurt Angle]] | Rey Fenix beat Jim Duggan in 11 Min 31 Sec with a K.O | 11:31 | ★★1/2 | 66 |
 | 4 |  | [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Lex Luger\|Lex Luger]] | Kane beat Lex Luger in 13 Min 22 Sec with a High Angle Chokeslam | 13:22 | ★★★1/2 | 79 |
 | 5 |  | [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/Lex Luger\|Lex Luger]] | Hulk Hogan beat Lex Luger in 17 Min 38 Sec with an Atomic Leg Drop | 17:38 | ★★★★1/2 | 94 |
 | 6 |  | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Lex Luger\|Lex Luger]] | Kazuchika Okada beat Lex Luger in 14 Min 48 Sec with a Rainmaker | 14:48 | ★★★3/4 | 83 |
@@ -33,7 +33,7 @@
 | 18 |  | [[Wrestler/Shingo Takagi\|Shingo Takagi]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]] | Jim Duggan beat Shingo Takagi in 12 Min 28 Sec with a Running Knee Drop | 12:28 | ★★★1/2 | 76 |
 | 19 |  | [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]], [[Wrestler/Kurt Angle\|Kurt Angle]], & [[Wrestler/Lex Luger\|Lex Luger]] | Johnny Mundo beat Jim Duggan in 18 Min 31 Sec with a Twisting Moonsault Press | 18:31 | ★★★★1/2 | 95 |
 | 20 |  | [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]], [[Wrestler/Kurt Angle\|Kurt Angle]], & [[Wrestler/Lex Luger\|Lex Luger]] | Lex Luger beat The Blade in 21 Min 6 Sec with a Torture Rack | 21:06 | ★★★1/2 | 77 |
-| 21 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]], [[Wrestler/Kurt Angle\|Kurt Angle]], & [[Wrestler/Lex Luger\|Lex Luger]] | Rey Fénix beat Jim Duggan in 23 Min 23 Sec with a Firebird Splash | 23:23 | ★★★★1/2 | 92 |
+| 21 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]], [[Wrestler/Kurt Angle\|Kurt Angle]], & [[Wrestler/Lex Luger\|Lex Luger]] | Rey Fenix beat Jim Duggan in 23 Min 23 Sec with a Firebird Splash | 23:23 | ★★★★1/2 | 92 |
 
 ## Links
 - [[Events\|Events]]

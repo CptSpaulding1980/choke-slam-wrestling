@@ -361,8 +361,7 @@
 | [[Wrestler/Razor Ramon\|Razor Ramon]] | 3 | 0 | 1 | 2 | 0.0% | 88.00 |
 | [[Wrestler/Repo Man\|Repo Man]] | 1 | 0 | 1 | 0 | 0.0% | 89.00 |
 | [[Wrestler/Rey Escorpión\|Rey Escorpión]] | 10 | 3 | 4 | 3 | 42.9% | 87.10 |
-| [[Wrestler/Rey Fenix\|Rey Fenix]] | 4 | 1 | 3 | 0 | 25.0% | 88.00 |
-| [[Wrestler/Rey Fénix\|Rey Fénix]] | 39 | 17 | 13 | 9 | 56.7% | 89.44 |
+| [[Wrestler/Rey Fenix\|Rey Fenix]] | 43 | 18 | 16 | 9 | 52.9% | 89.30 |
 | [[Wrestler/Rey Horus\|Rey Horus]] | 1 | 0 | 0 | 1 | 0.0% | 88.00 |
 | [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] | 32 | 14 | 11 | 7 | 56.0% | 82.78 |
 | [[Wrestler/Rhea Ripley\|Rhea Ripley]] | 5 | 2 | 1 | 2 | 66.7% | 85.60 |

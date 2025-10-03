@@ -5,7 +5,7 @@
 
 ### Choke Slam International Championship
 
-![Championship Image](https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_International_Championship.png)
+<img src="/z_Images/Choke_Slam_International_Championship.png" alt="Choke Slam International Championship" width="700">
 
 ## Current Champion
 
@@ -29,7 +29,7 @@
 | Date | Event | Match |
 |------|-------|-------|
 | 2020-09-07 | [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] | Tournament Finals - Inaugural Choke Slam International Championship |
-| 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fénix vs. Pat Patterson vs. Honky Tonk Man |
+| 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fenix vs. Pat Patterson vs. Honky Tonk Man |
 | 2021-05-18 | [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] | Choke Slam Apple Championship: Kane vs. Christian Cage vs. Bob Backlund (c) |
 | 2021-07-26 | [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] | Choke Slam Apple Championship: Hulk Hogan (w/Jimmy Hart) vs. Christian Cage (c) (w/Edge) |
 | 2021-11-01 | [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] | Choke Slam Apple Championship: Ricky Steamboat vs. AJ Styles |

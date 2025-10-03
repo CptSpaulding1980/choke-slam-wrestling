@@ -63,8 +63,8 @@
 | [[Wrestler/Randy Savage\|Randy Savage]] | 41 |
 | [[Wrestler/Triple H\|Triple H]] | 37 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 34 |
-| [[Wrestler/Big Van Vader\|Big Van Vader]] | 33 |
 | [[Wrestler/The Undertaker\|The Undertaker]] | 33 |
+| [[Wrestler/Big Van Vader\|Big Van Vader]] | 33 |
 | [[Wrestler/AJ Styles\|AJ Styles]] | 33 |
 | [[Wrestler/Bret Hart\|Bret Hart]] | 32 |
 
@@ -186,7 +186,7 @@
 | [[Wrestler/Jerry Lynn\|Jerry Lynn]] | 91.00 |
 | [[Wrestler/KENTA\|KENTA]] | 91.00 |
 | [[Wrestler/Roman Reigns\|Roman Reigns]] | 90.92 |
-| [[Wrestler/Rey Fénix\|Rey Fénix]] | 90.80 |
+| [[Wrestler/Rey Fenix\|Rey Fenix]] | 90.80 |
 | [[Wrestler/Lita\|Lita]] | 90.71 |
 
 
@@ -227,11 +227,11 @@
 | Duell | Anzahl Matches |
 |-------|----------------|
 | [[nan\|nan]] vs [[nan\|nan]] | 46 |
+| [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 8 |
 | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 8 |
 | [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Randy Savage\|Randy Savage]] | 8 |
-| [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 8 |
-| [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs [[Wrestler/Roman Reigns\|Roman Reigns]] | 7 |
 | [[Wrestler/Jay White\|Jay White]] vs [[Wrestler/Miro\|Miro]] | 7 |
+| [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs [[Wrestler/Roman Reigns\|Roman Reigns]] | 7 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] | 6 |
 | [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Jay White\|Jay White]] | 6 |
 | [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Diesel\|Diesel]] | 6 |

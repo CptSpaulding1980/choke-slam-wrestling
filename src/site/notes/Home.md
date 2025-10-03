@@ -14,11 +14,11 @@
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S07E04_The_Iron_Chamber.png" width="500">
 
 ## 📅 **Letzte Events**
-| File                                                                                                                 | date       | venue                | location                 |
-| -------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------- | ------------------------ |
-| [[Events/2025-10-02 - S07E04 The Iron Chamber Night 4 and 5\|2025-10-02 - S07E04 The Iron Chamber Night 4 and 5]] | 10/02/2025 | 1st Mariner Arena    | Baltimore, Maryland, USA |
-| [[Events/2025-09-05 - S07E04_The Iron Chamber\|2025-09-05 - S07E04_The Iron Chamber]]                             | 09/05/2025 | Casper Events Center | Casper, Wyoming, USA     |
-| [[Events/2025-09-04 - S07E04_The Iron Chamber\|2025-09-04 - S07E04_The Iron Chamber]]                             | 09/04/2025 | Cincinnati Gardens   | Cincinnati, Ohio, USA    |
+| File                                                                                                         | date       | venue                | location                 |
+| ------------------------------------------------------------------------------------------------------------ | ---------- | -------------------- | ------------------------ |
+| [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | 10/02/2025 | 1st Mariner Arena    | Baltimore, Maryland, USA |
+| [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] | 09/04/2025 | Cincinnati Gardens   | Cincinnati, Ohio, USA    |
+| [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]                               | 08/21/2025 | Casper Events Center | Casper, Wyoming, USA     |
 
 { .block-language-dataview}
 ## 🏆 **Meiste Siege in der aktuellen Saison (S07)**

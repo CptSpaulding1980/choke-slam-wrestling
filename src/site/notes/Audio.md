@@ -27,4 +27,11 @@
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E03_Review-Podcast_Changes_III.mp3" type="audio/mpeg">
 </audio>
 </td></tr>
+<tr>
+<td>
+<b> S07E03_Changes III</b>
+<audio controls>
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E04_Review-Podcast_The_Iron_Chamber.mp3" type="audio/mpeg">
+</audio>
+</td></tr>
 </table>

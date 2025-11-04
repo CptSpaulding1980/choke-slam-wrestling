@@ -6,12 +6,11 @@
 
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_MM.png" width="170" alt="MM"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" width="170" alt="SnS"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SRR.png" width="170" alt="SRR">
 ## 📅 **Nächste Events**
-| File | date | venue | location |
-| ---- | ---- | ----- | -------- |
+| File                                                                                                       | date       | venue             | location                 |
+| ---------------------------------------------------------------------------------------------------------- | ---------- | ----------------- | ------------------------ |
+| [[Events/2025-11-06 - S07E05 Threeway Fiasko - Night 2\|2025-11-06 - S07E05 Threeway Fiasko - Night 2]] | 11/06/2025 | 1st Mariner Arena | Baltimore, Maryland, USA |
 
 { .block-language-dataview}
-
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S07E04_The_Iron_Chamber.png" width="500">
 
 ## 📅 **Letzte Events**
 | File                                                                                                         | date       | venue                | location                 |

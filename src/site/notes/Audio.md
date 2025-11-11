@@ -36,7 +36,7 @@
 </td></tr>
 <tr>
 <td>
-<b> S07E04_The Iron Chamber</b>
+<b> S07E05_The Threeway Fiasko</b>
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E05_Review-Podcast_Threeway_Fiasko.mp3" type="audio/mpeg">
 </audio>

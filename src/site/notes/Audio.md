@@ -34,4 +34,11 @@
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E04_Review-Podcast_The_Iron_Chamber.mp3" type="audio/mpeg">
 </audio>
 </td></tr>
+<tr>
+<td>
+<b> S07E04_The Iron Chamber</b>
+<audio controls>
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E05_Review-Podcast_Threeway_Fiasko.mp3" type="audio/mpeg">
+</audio>
+</td></tr>
 </table>

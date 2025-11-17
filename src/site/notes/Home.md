@@ -5,18 +5,16 @@
 # 🏠 **Choke Slam Wrestling Dashboard**
 
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_MM.png" width="170" alt="MM"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" width="170" alt="SnS"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SRR.png" width="170" alt="SRR">
-## 📅 **Nächste Events**
-| File | date | venue | location |
-| ---- | ---- | ----- | -------- |
+## 📅 **Nächster Event**
 
-{ .block-language-dataview}
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S07E06_Promo_Poster_Austin_vs_White.jpeg" width="400" style="vertical-align:bottom; margin-right:8px;">
 
 ## 📅 **Letzte Events**
-| File                                                                                                         | date       | venue             | location                 |
-| ------------------------------------------------------------------------------------------------------------ | ---------- | ----------------- | ------------------------ |
-| [[Events/2025-11-06 - S07E05 Threeway Fiasko - Night 2\|2025-11-06 - S07E05 Threeway Fiasko - Night 2]]   | 11/06/2025 | 1st Mariner Arena | Baltimore, Maryland, USA |
-| [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]                       | 10/27/2025 | 1st Mariner Arena | Baltimore, Maryland, USA |
-| [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | 10/02/2025 | 1st Mariner Arena | Baltimore, Maryland, USA |
+| File                                                                                                         | date       | venue              | location                 |
+| ------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ | ------------------------ |
+| [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]                       | 10/27/2025 | 1st Mariner Arena  | Baltimore, Maryland, USA |
+| [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | 10/02/2025 | 1st Mariner Arena  | Baltimore, Maryland, USA |
+| [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] | 09/04/2025 | Cincinnati Gardens | Cincinnati, Ohio, USA    |
 
 { .block-language-dataview}
 ## 🏆 **Meiste Siege in der aktuellen Saison (S07)**

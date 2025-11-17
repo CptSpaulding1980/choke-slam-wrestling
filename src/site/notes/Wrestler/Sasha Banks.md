@@ -21,29 +21,32 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 5 | 3 | 0 | 2 | 100.0% | 84.20 |
+| 9 | 4 | 2 | 3 | 66.7% | 86.67 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 0<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** draw (1 in Folge)
 
 
 ## Häufigste Gegner
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (2x)
 - [[Wrestler/Syuri\|Syuri]] (1x)
 - [[Wrestler/Giulia\|Giulia]] (1x)
 - [[Wrestler/Charlotte Flair\|Charlotte Flair]] (1x)
+- [[Wrestler/Bandido\|Bandido]] (1x)
 
 ## Häufigste Partner
-Keine bekannten Partner.
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
+- [[Wrestler/Chris Benoit\|Chris Benoit]] (1x)
 
 ## Letzte 5 Matches
+- 2025-10-27: Chris Jericho vs. Daniel Bryan vs. Sasha Banks in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 100%
+- 2025-10-27: Bandido vs. Sasha Banks vs. Pete Dunne in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 97%
+- 2025-10-27: Chris Benoit vs. Daniel Bryan vs. Sasha Banks in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 91%
+- 2025-10-27: Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Draw, 71%
 - 2025-08-21: Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Draw, 94%
-- 2025-08-12: Womens Quarter Finals: Sasha Banks vs. Syuri in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 67%
-- 2025-08-12: Womens Semi Finals: Giulia vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 81%
-- 2025-08-12: Queen of the Ring Final: Charlotte Flair vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 91%
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — Draw, 88%
 
 ## Top Matches
+- 2025-10-27: Chris Jericho vs. Daniel Bryan vs. Sasha Banks in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 100%
+- 2025-10-27: Bandido vs. Sasha Banks vs. Pete Dunne in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 97%
 - 2025-08-21: Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 94%
 - 2025-08-12: Queen of the Ring Final: Charlotte Flair vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 91%
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
-- 2025-08-12: Womens Semi Finals: Giulia vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 81%
-- 2025-08-12: Womens Quarter Finals: Sasha Banks vs. Syuri in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 67%
+- 2025-10-27: Chris Benoit vs. Daniel Bryan vs. Sasha Banks in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 91%

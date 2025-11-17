@@ -11,7 +11,7 @@
 
 | Name | Date | Last Championship Match |
 |------|------|------------------------|
-| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]<br>Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (Edgicho) (c) |
+| [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]<br>Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c) |
 
 ## Title History
 
@@ -23,7 +23,8 @@
 | [[Wrestler/The Undertaker\|The Undertaker]] | 2024-10-22 | [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] | 2024-10-22 | [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] | 0 | 0 |
 | [[Wrestler/The Undertaker\|The Undertaker]] | 2025-05-07 | [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 97 | 2 |
 | [[Wrestler/Chris Jericho\|Chris Jericho]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 9 | 0 |
-| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | aktuell | [[-\|-]] | ongoing | 0 |
+| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | 67 | 0 |
+| [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | aktuell | [[-\|-]] | ongoing | 0 |
 
 ## Appearances
 
@@ -49,6 +50,7 @@
 | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Gunther & The Undertaker (c) |
 | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Gunther & The Undertaker (c) |
 | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (Edgicho) (c) |
+| 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c) |
 
 ## Title Defenses per Champion
 
@@ -67,3 +69,4 @@
 | [[Wrestler/Gunther\|Gunther]] | 1 |
 | [[Wrestler/Chris Jericho\|Chris Jericho]] | 1 |
 | [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 1 |
+| [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | 1 |

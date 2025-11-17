@@ -21,17 +21,17 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 30 | 14 | 10 | 6 | 58.3% | 89.90 |
+| 34 | 14 | 13 | 7 | 51.9% | 89.74 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** draw (1 in Folge)
 
 
 ## Häufigste Gegner
 - [[Wrestler/Rush\|Rush]] (3x)
 - [[Wrestler/Jay White\|Jay White]] (3x)
+- [[Wrestler/Wardlow\|Wardlow]] (3x)
 - [[Wrestler/Daga\|Daga]] (2x)
 - [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] (2x)
-- [[Wrestler/Texano Jr.\|Texano Jr.]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/KENTA\|KENTA]] (10x)
@@ -41,11 +41,11 @@
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (2x)
 
 ## Letzte 5 Matches
+- 2025-10-27: Edge vs. Wardlow vs. Bam Bam Bigelow in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 95%
+- 2025-10-27: Chris Benoit vs. Edge vs. Steve Austin in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 90%
+- 2025-10-27: Edge vs. Awesome Kong vs. Pete Dunne in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 98%
+- 2025-10-27: Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Draw, 71%
 - 2025-10-02: Lady Apache vs. Jay White vs. Bandido vs. Charlotte Flair vs. Chris Jericho vs. Edge in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 86%
-- 2025-09-04: Handicap: Jay White vs. Saint Rebel Radicalz in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Win, 89%
-- 2025-08-21: Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Draw, 85%
-- 2025-08-21: Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (Edgicho) (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Loss, 98%
-- 2025-08-12: Choke Slam Trios Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 82%
 
 ## Top Matches
 - 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%

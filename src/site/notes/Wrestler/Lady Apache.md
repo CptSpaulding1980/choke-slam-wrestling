@@ -21,34 +21,35 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 5 | 2 | 2 | 1 | 50.0% | 82.60 |
+| 9 | 4 | 4 | 1 | 50.0% | 87.67 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** win (1 in Folge)
+**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
 
 
 ## Häufigste Gegner
 - [[Wrestler/Bandido\|Bandido]] (2x)
 - [[Wrestler/Charlotte Flair\|Charlotte Flair]] (2x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (2x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)
 - [[Wrestler/Jay White\|Jay White]] (1x)
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Lex Luger\|Lex Luger]] (1x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (1x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (1x)
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)
+- [[Wrestler/Bandido\|Bandido]] (1x)
 
 ## Letzte 5 Matches
+- 2025-10-27: Kensuke Sasaki vs. Lady Apache vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 99%
+- 2025-10-27: Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 99%
+- 2025-10-27: Lady Apache vs. Wardlow vs. Akira Taue in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 104%
+- 2025-10-27: Choke Slam World Championship: Lady Apache vs. Steve Austin (c) in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 74%
 - 2025-10-02: Lady Apache vs. Jay White vs. Bandido vs. Charlotte Flair vs. Chris Jericho vs. Edge in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Win, 86%
-- 2025-08-21: Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Draw, 94%
-- 2025-08-12: Womens Quarter Finals: Charlotte Flair vs. Lady Apache in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Loss, 84%
-- 2025-06-03: Money in the Bank Match: Lady Apache vs. Lex Luger vs. Bam Bam Bigelow vs. Steve Austin vs. Roman Reigns vs. Awesome Kong in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Loss, 72%
-- 2025-06-03: Best 2 out of 3 Falls: Bandido vs. Lady Apache in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Win, 77%
 
 ## Top Matches
+- 2025-10-27: Lady Apache vs. Wardlow vs. Akira Taue in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 104%
+- 2025-10-27: Kensuke Sasaki vs. Lady Apache vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 99%
+- 2025-10-27: Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 99%
 - 2025-08-21: Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 94%
 - 2025-10-02: Lady Apache vs. Jay White vs. Bandido vs. Charlotte Flair vs. Chris Jericho vs. Edge in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — 86%
-- 2025-08-12: Womens Quarter Finals: Charlotte Flair vs. Lady Apache in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 84%
-- 2025-06-03: Best 2 out of 3 Falls: Bandido vs. Lady Apache in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 77%
-- 2025-06-03: Money in the Bank Match: Lady Apache vs. Lex Luger vs. Bam Bam Bigelow vs. Steve Austin vs. Roman Reigns vs. Awesome Kong in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 72%

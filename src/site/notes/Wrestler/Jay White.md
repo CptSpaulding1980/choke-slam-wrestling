@@ -21,9 +21,9 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 39 | 13 | 20 | 6 | 39.4% | 87.74 |
+| 43 | 16 | 21 | 6 | 43.2% | 88.49 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** loss (4 in Folge)
+**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** win (2 in Folge)
 
 
 ## Häufigste Gegner
@@ -41,15 +41,15 @@
 - [[Wrestler/Randy Savage\|Randy Savage]] (4x)
 
 ## Letzte 5 Matches
+- 2025-10-27: Jay White vs. Awesome Kong vs. Steve Austin in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 91%
+- 2025-10-27: Wardlow vs. Kensuke Sasaki vs. Jay White in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 91%
+- 2025-10-27: Jay White vs. Tommaso Ciampa vs. Roman Reigns in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 107%
+- 2025-10-27: Jay White vs. Akira Taue vs. Tommaso Ciampa in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 94%
 - 2025-10-02: Lady Apache vs. Jay White vs. Bandido vs. Charlotte Flair vs. Chris Jericho vs. Edge in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 86%
-- 2025-10-02: Non Title - Iron Man Match: Jay White vs. Awesome Kong in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 96%
-- 2025-09-04: Handicap: Jay White vs. Saint Rebel Radicalz in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Loss, 89%
-- 2025-08-21: Beat the Clock: Jay White vs. Shinsuke Nakamura in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Win, 75%
-- 2025-08-21: Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Loss, 102%
 
 ## Top Matches
+- 2025-10-27: Jay White vs. Tommaso Ciampa vs. Roman Reigns in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 107%
 - 2025-08-21: Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 102%
 - 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
 - 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
 - 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
-- 2023-10-09: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%

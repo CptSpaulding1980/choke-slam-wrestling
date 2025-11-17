@@ -14,7 +14,7 @@
 | 2022 | 153 |
 | 2023 | 203 |
 | 2024 | 260 |
-| 2025 | 120 |
+| 2025 | 143 |
 
 
 ## Durchschnittliche Bewertung pro Jahr
@@ -26,7 +26,7 @@
 | 2022 | 85.01 |
 | 2023 | 83.79 |
 | 2024 | 80.83 |
-| 2025 | 84.94 |
+| 2025 | 86.37 |
 
 
 ## Matches pro Saison
@@ -38,7 +38,7 @@
 | S04 | 218 |
 | S05 | 243 |
 | S06 | 291 |
-| S07 | 76 |
+| S07 | 99 |
 
 
 ## Durchschnittliche Bewertung pro Saison
@@ -50,21 +50,21 @@
 | S04 | 84.50 |
 | S05 | 84.06 |
 | S06 | 80.79 |
-| S07 | 86.33 |
+| S07 | 88.07 |
 
 
 ## Top 10 Wrestler nach Siegen
 
 | Wrestler | Siege |
 |----------|-------|
+| [[Wrestler/Roman Reigns\|Roman Reigns]] | 45 |
 | [[Wrestler/Bob Backlund\|Bob Backlund]] | 45 |
-| [[Wrestler/Roman Reigns\|Roman Reigns]] | 43 |
 | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 43 |
 | [[Wrestler/Randy Savage\|Randy Savage]] | 41 |
 | [[Wrestler/Triple H\|Triple H]] | 37 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 34 |
-| [[Wrestler/The Undertaker\|The Undertaker]] | 33 |
 | [[Wrestler/Big Van Vader\|Big Van Vader]] | 33 |
+| [[Wrestler/The Undertaker\|The Undertaker]] | 33 |
 | [[Wrestler/AJ Styles\|AJ Styles]] | 33 |
 | [[Wrestler/Bret Hart\|Bret Hart]] | 32 |
 
@@ -74,13 +74,13 @@
 | Wrestler | Ø Bewertung |
 |----------|-------------|
 | [[Wrestler/WALTER\|WALTER]] | 94.23 |
-| [[Wrestler/Wardlow\|Wardlow]] | 91.62 |
-| [[Wrestler/Chris Jericho\|Chris Jericho]] | 91.00 |
+| [[Wrestler/Wardlow\|Wardlow]] | 92.59 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 91.76 |
 | [[Wrestler/Gigi Dolin\|Gigi Dolin]] | 91.00 |
 | [[Wrestler/Owen Hart\|Owen Hart]] | 90.67 |
 | [[Wrestler/Fit Finlay\|Fit Finlay]] | 90.10 |
 | [[Wrestler/Shawn Michaels\|Shawn Michaels]] | 90.03 |
-| [[Wrestler/Edge\|Edge]] | 89.90 |
+| [[Wrestler/Edge\|Edge]] | 89.74 |
 | [[Wrestler/Thunder Rosa\|Thunder Rosa]] | 89.70 |
 | [[Wrestler/Lita\|Lita]] | 89.60 |
 
@@ -113,13 +113,13 @@
 | Wrestler | Ø Bewertung |
 |----------|-------------|
 | [[Wrestler/WALTER\|WALTER]] | 94.23 |
-| [[Wrestler/Wardlow\|Wardlow]] | 91.62 |
-| [[Wrestler/Chris Jericho\|Chris Jericho]] | 91.00 |
+| [[Wrestler/Wardlow\|Wardlow]] | 92.59 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 91.76 |
 | [[Wrestler/Gigi Dolin\|Gigi Dolin]] | 91.00 |
 | [[Wrestler/Owen Hart\|Owen Hart]] | 90.67 |
 | [[Wrestler/Fit Finlay\|Fit Finlay]] | 90.10 |
 | [[Wrestler/Shawn Michaels\|Shawn Michaels]] | 90.03 |
-| [[Wrestler/Edge\|Edge]] | 89.90 |
+| [[Wrestler/Edge\|Edge]] | 89.74 |
 | [[Wrestler/Thunder Rosa\|Thunder Rosa]] | 89.70 |
 | [[Wrestler/Lita\|Lita]] | 89.60 |
 
@@ -212,14 +212,14 @@
 |----------|-------------|
 | [[Wrestler/Kevin Steen\|Kevin Steen]] | 96.60 |
 | [[Wrestler/Fit Finlay\|Fit Finlay]] | 93.62 |
-| [[Wrestler/Wardlow\|Wardlow]] | 91.62 |
-| [[Wrestler/Chris Jericho\|Chris Jericho]] | 91.06 |
-| [[Wrestler/Edge\|Edge]] | 90.80 |
-| [[Wrestler/Jay White\|Jay White]] | 90.60 |
-| [[Wrestler/Roman Reigns\|Roman Reigns]] | 88.94 |
-| [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] | 87.83 |
-| [[Wrestler/Charlotte Flair\|Charlotte Flair]] | 87.75 |
-| [[Wrestler/Lex Luger\|Lex Luger]] | 87.67 |
+| [[Wrestler/Wardlow\|Wardlow]] | 92.59 |
+| [[Wrestler/Akira Taue\|Akira Taue]] | 92.56 |
+| [[Wrestler/Jay White\|Jay White]] | 92.07 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 91.85 |
+| [[Wrestler/Roman Reigns\|Roman Reigns]] | 90.90 |
+| [[Wrestler/Bret Hart\|Bret Hart]] | 90.40 |
+| [[Wrestler/Edge\|Edge]] | 90.14 |
+| [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | 89.00 |
 
 
 ## Top 10 Duelle (gegnerische Paarungen)
@@ -228,12 +228,12 @@
 |-------|----------------|
 | [[nan\|nan]] vs [[nan\|nan]] | 46 |
 | [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 8 |
-| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 8 |
 | [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Randy Savage\|Randy Savage]] | 8 |
+| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 8 |
 | [[Wrestler/Jay White\|Jay White]] vs [[Wrestler/Miro\|Miro]] | 7 |
 | [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs [[Wrestler/Roman Reigns\|Roman Reigns]] | 7 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] | 6 |
 | [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Jay White\|Jay White]] | 6 |
-| [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Diesel\|Diesel]] | 6 |
 | [[Wrestler/Randy Savage\|Randy Savage]] vs [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 6 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] vs [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 6 |
 

@@ -5,21 +5,21 @@
 
 ### Choke Slam World Championship
 
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_World_Championship.png" alt="Choke Slam World Championship" width="700">
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_World_Championship.png" alt="Choke Slam World Championship" width="700">
 
 ## Current Champion
 
 | Name | Date | Last Championship Match |
 |------|------|------------------------|
-| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]]<br>Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]<br>Choke Slam World Championship: Lady Apache vs. Steve Austin (c) |
 
 ## Title History
 
 | Champion | Start Date | Start Event | End Date | End Event | Duration | Defenses |
 |----------|------------|-------------|----------|-----------|----------|----------|
 | [[Wrestler/Ric Flair\|Ric Flair]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 0 | 0 |
-| [[Wrestler/Jerry Lawler\|Jerry Lawler]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-09 | [[Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] | 1 | 0 |
-| [[Wrestler/Randy Orton\|Randy Orton]] | 2020-06-09 | [[Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 126 | 2 |
+| [[Wrestler/Jerry Lawler\|Jerry Lawler]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-10 | [[Events/2020-06-10 - S02E10_Dubai - After Show Cash In 2\|2020-06-10 - S02E10_Dubai - After Show Cash In 2]] | 2 | 1 |
+| [[Wrestler/Randy Orton\|Randy Orton]] | 2020-06-10 | [[Events/2020-06-10 - S02E10_Dubai - After Show Cash In 2\|2020-06-10 - S02E10_Dubai - After Show Cash In 2]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 125 | 1 |
 | Vacant | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 0 | 0 |
 | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 2021-01-21 | [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] | 100 | 2 |
 | [[Wrestler/Sheamus\|Sheamus]] | 2021-01-21 | [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] | 2021-04-10 | [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] | 79 | 0 |
@@ -31,7 +31,7 @@
 | [[Wrestler/Big Van Vader\|Big Van Vader]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 194 | 2 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 244 | 3 |
 | [[Wrestler/Roman Reigns\|Roman Reigns]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | 612 | 4 |
-| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | aktuell | [[-\|-]] | ongoing | 0 |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | aktuell | [[-\|-]] | ongoing | 1 |
 
 ## Appearances
 
@@ -71,6 +71,7 @@
 | 2025-05-07 | [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] | Choke Slam World Championship: Samoa Joe vs. Roman Reigns (c) |
 | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | Choke Slam World Championship: Steve Austin vs. Roman Reigns (c) |
 | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
+| 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | Choke Slam World Championship: Lady Apache vs. Steve Austin (c) |
 
 ## Title Defenses per Champion
 
@@ -83,9 +84,9 @@
 | [[Wrestler/Randy Orton\|Randy Orton]] | 3 |
 | [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 3 |
 | [[Wrestler/Big Van Vader\|Big Van Vader]] | 3 |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 2 |
 | [[Wrestler/Ric Flair\|Ric Flair]] | 1 |
 | [[Wrestler/Jerry Lawler\|Jerry Lawler]] | 1 |
 | [[Wrestler/Sheamus\|Sheamus]] | 1 |
 | [[Wrestler/Johnny Mundo\|Johnny Mundo]] | 1 |
 | [[Wrestler/Randy Savage\|Randy Savage]] | 1 |
-| [[Wrestler/Steve Austin\|Steve Austin]] | 1 |

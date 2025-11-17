@@ -11,7 +11,7 @@
 
 | Name | Date | Last Championship Match |
 |------|------|------------------------|
-| [[Wrestler/Awesome Kong\|Awesome Kong]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]<br>Choke Slam International Championship: Awesome Kong vs. Daniel Bryan (c) |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]<br>Choke Slam International Championship: Chris Jericho vs. Awesome Kong (c) |
 
 ## Title History
 
@@ -22,7 +22,8 @@
 | [[Wrestler/Lance Storm\|Lance Storm]] | 2022-06-28 | [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] | 2022-12-16 | [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] | 171 | 0 |
 | [[Wrestler/Bret Hart\|Bret Hart]] | 2023-06-26 | [[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 217 | 1 |
 | [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 2025-06-03 | [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 79 | 1 |
-| [[Wrestler/Awesome Kong\|Awesome Kong]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | aktuell | [[-\|-]] | ongoing | 0 |
+| [[Wrestler/Awesome Kong\|Awesome Kong]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | 67 | 0 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | aktuell | [[-\|-]] | ongoing | 0 |
 
 ## Appearances
 
@@ -48,6 +49,7 @@
 | 2025-06-03 | [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] | Submission - Choke Slam International Championship: Daniel Bryan vs. Fit Finlay vs. Chris Jericho vs. Bret Hart |
 | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | Choke Slam International Championship: Bam Bam Bigelow vs. Chris Jericho vs. Daniel Bryan (c) |
 | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | Choke Slam International Championship: Awesome Kong vs. Daniel Bryan (c) |
+| 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | Choke Slam International Championship: Chris Jericho vs. Awesome Kong (c) |
 
 ## Title Defenses per Champion
 
@@ -63,3 +65,4 @@
 | [[Wrestler/WALTER\|WALTER]] | 1 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 1 |
 | [[Wrestler/Awesome Kong\|Awesome Kong]] | 1 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 1 |

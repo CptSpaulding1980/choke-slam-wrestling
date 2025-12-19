@@ -14,7 +14,7 @@
 | 2022 | 153 |
 | 2023 | 203 |
 | 2024 | 260 |
-| 2025 | 143 |
+| 2025 | 165 |
 
 
 ## Durchschnittliche Bewertung pro Jahr
@@ -26,7 +26,7 @@
 | 2022 | 85.01 |
 | 2023 | 83.79 |
 | 2024 | 80.83 |
-| 2025 | 86.37 |
+| 2025 | 86.34 |
 
 
 ## Matches pro Saison
@@ -38,7 +38,7 @@
 | S04 | 218 |
 | S05 | 243 |
 | S06 | 291 |
-| S07 | 99 |
+| S07 | 121 |
 
 
 ## Durchschnittliche Bewertung pro Saison
@@ -50,23 +50,23 @@
 | S04 | 84.50 |
 | S05 | 84.06 |
 | S06 | 80.79 |
-| S07 | 88.07 |
+| S07 | 87.72 |
 
 
 ## Top 10 Wrestler nach Siegen
 
 | Wrestler | Siege |
 |----------|-------|
+| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 49 |
 | [[Wrestler/Roman Reigns\|Roman Reigns]] | 45 |
 | [[Wrestler/Bob Backlund\|Bob Backlund]] | 45 |
-| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 43 |
 | [[Wrestler/Randy Savage\|Randy Savage]] | 41 |
 | [[Wrestler/Triple H\|Triple H]] | 37 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 34 |
-| [[Wrestler/Big Van Vader\|Big Van Vader]] | 33 |
-| [[Wrestler/The Undertaker\|The Undertaker]] | 33 |
+| [[Wrestler/Bret Hart\|Bret Hart]] | 34 |
 | [[Wrestler/AJ Styles\|AJ Styles]] | 33 |
-| [[Wrestler/Bret Hart\|Bret Hart]] | 32 |
+| [[Wrestler/The Undertaker\|The Undertaker]] | 33 |
+| [[Wrestler/Big Van Vader\|Big Van Vader]] | 33 |
 
 
 ## Top 10 Wrestler nach Ø Bewertung (min. 5 Matches)
@@ -74,15 +74,15 @@
 | Wrestler | Ø Bewertung |
 |----------|-------------|
 | [[Wrestler/WALTER\|WALTER]] | 94.23 |
-| [[Wrestler/Wardlow\|Wardlow]] | 92.59 |
-| [[Wrestler/Chris Jericho\|Chris Jericho]] | 91.76 |
 | [[Wrestler/Gigi Dolin\|Gigi Dolin]] | 91.00 |
 | [[Wrestler/Owen Hart\|Owen Hart]] | 90.67 |
 | [[Wrestler/Fit Finlay\|Fit Finlay]] | 90.10 |
 | [[Wrestler/Shawn Michaels\|Shawn Michaels]] | 90.03 |
-| [[Wrestler/Edge\|Edge]] | 89.74 |
+| [[Wrestler/Edge\|Edge]] | 89.80 |
 | [[Wrestler/Thunder Rosa\|Thunder Rosa]] | 89.70 |
 | [[Wrestler/Lita\|Lita]] | 89.60 |
+| [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] | 89.50 |
+| [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] | 89.45 |
 
 
 ## Meist genutzte Match-Typen
@@ -94,13 +94,13 @@
 | Last Man Standing | 8 |
 | Beat the Clock | 6 |
 | Battle Royal | 6 |
+| Steel Cage | 6 |
 | Royal Rumble | 6 |
-| Iron Man | 4 |
+| Iron Man | 5 |
 | Threeway | 3 |
-| Exploding Landmine Death | 3 |
 | Tables | 3 |
+| Exploding Landmine Death | 3 |
 | SWA Rules | 3 |
-| Steel Cage | 3 |
 | Falls Count Anywhere | 2 |
 | Ladder | 1 |
 | Hell in a Cell | 1 |
@@ -113,15 +113,15 @@
 | Wrestler | Ø Bewertung |
 |----------|-------------|
 | [[Wrestler/WALTER\|WALTER]] | 94.23 |
-| [[Wrestler/Wardlow\|Wardlow]] | 92.59 |
-| [[Wrestler/Chris Jericho\|Chris Jericho]] | 91.76 |
 | [[Wrestler/Gigi Dolin\|Gigi Dolin]] | 91.00 |
 | [[Wrestler/Owen Hart\|Owen Hart]] | 90.67 |
 | [[Wrestler/Fit Finlay\|Fit Finlay]] | 90.10 |
 | [[Wrestler/Shawn Michaels\|Shawn Michaels]] | 90.03 |
-| [[Wrestler/Edge\|Edge]] | 89.74 |
+| [[Wrestler/Edge\|Edge]] | 89.80 |
 | [[Wrestler/Thunder Rosa\|Thunder Rosa]] | 89.70 |
 | [[Wrestler/Lita\|Lita]] | 89.60 |
+| [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] | 89.50 |
+| [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] | 89.45 |
 
 
 ## Top 10 Wrestler nach Ø Bewertung pro Saison (min. 5 Matches)
@@ -211,15 +211,15 @@
 | Wrestler | Ø Bewertung |
 |----------|-------------|
 | [[Wrestler/Kevin Steen\|Kevin Steen]] | 96.60 |
+| [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] | 96.00 |
 | [[Wrestler/Fit Finlay\|Fit Finlay]] | 93.62 |
-| [[Wrestler/Wardlow\|Wardlow]] | 92.59 |
-| [[Wrestler/Akira Taue\|Akira Taue]] | 92.56 |
-| [[Wrestler/Jay White\|Jay White]] | 92.07 |
-| [[Wrestler/Chris Jericho\|Chris Jericho]] | 91.85 |
+| [[Wrestler/Bret Hart\|Bret Hart]] | 92.00 |
 | [[Wrestler/Roman Reigns\|Roman Reigns]] | 90.90 |
-| [[Wrestler/Bret Hart\|Bret Hart]] | 90.40 |
-| [[Wrestler/Edge\|Edge]] | 90.14 |
+| [[Wrestler/Edge\|Edge]] | 90.27 |
+| [[Wrestler/Wardlow\|Wardlow]] | 89.38 |
 | [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | 89.00 |
+| [[Wrestler/Chris Benoit\|Chris Benoit]] | 89.00 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 88.73 |
 
 
 ## Top 10 Duelle (gegnerische Paarungen)
@@ -227,13 +227,13 @@
 | Duell | Anzahl Matches |
 |-------|----------------|
 | [[nan\|nan]] vs [[nan\|nan]] | 46 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] vs [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 8 |
 | [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 8 |
 | [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Randy Savage\|Randy Savage]] | 8 |
 | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 8 |
-| [[Wrestler/Jay White\|Jay White]] vs [[Wrestler/Miro\|Miro]] | 7 |
 | [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs [[Wrestler/Roman Reigns\|Roman Reigns]] | 7 |
+| [[Wrestler/Jay White\|Jay White]] vs [[Wrestler/Miro\|Miro]] | 7 |
+| [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Diesel\|Diesel]] | 6 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] | 6 |
 | [[Wrestler/Bret Hart\|Bret Hart]] vs [[Wrestler/Jay White\|Jay White]] | 6 |
-| [[Wrestler/Randy Savage\|Randy Savage]] vs [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 6 |
-| [[Wrestler/Chris Jericho\|Chris Jericho]] vs [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 6 |
 

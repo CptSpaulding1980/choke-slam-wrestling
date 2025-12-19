@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/akira-taue/","title":"Akira Taue","tags":["wrestler"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/wrestler/konosuke-takeshita/","title":"KONOSUKE TAKESHITA","tags":["wrestler"],"noteIcon":""}
 ---
 
 
-# Akira Taue
+# KONOSUKE TAKESHITA
 
 <table>
         <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png" width="280" alt="Akira Taue"></td>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/KONOSUKE_TAKESHITA.png" width="280" alt="KONOSUKE TAKESHITA"></td>
         <td>
-        <b>Height:</b> 193cm<br>
-        <b>Weight:</b> 118kg<br>
-        <b>Finisher:</b> Nodowa Otoshi<br>
+        <b>Height:</b> N/A<br>
+        <b>Weight:</b> N/A<br>
+        <b>Finisher:</b> N/A<br>
         </td>
         </tr>
         </table>
@@ -21,24 +21,22 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 15 | 6 | 9 | 0 | 40.0% | 88.60 |
+| 6 | 3 | 3 | 0 | 50.0% | 82.67 |
 
 **Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (2 in Folge)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
-- [[Wrestler/Wardlow\|Wardlow]] (2x)
-- [[Wrestler/Pete Dunne\|Pete Dunne]] (2x)
-- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
-- [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (2x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
+- [[Wrestler/Mosh\|Mosh]] (1x)
+- [[Wrestler/Thrasher\|Thrasher]] (1x)
+- [[Wrestler/Big E\|Big E]] (1x)
 
 ## Häufigste Partner
-- [[Wrestler/Steve Austin\|Steve Austin]] (6x)
-- [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]] (6x)
-- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (4x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (6x)
 - [[Wrestler/Adam Page\|Adam Page]] (2x)
-- [[Wrestler/Wardlow\|Wardlow]] (1x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (2x)
 
 ## Letzte 5 Matches
 - 2025-11-18: Mosh & Thrasher vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 93%
@@ -48,8 +46,8 @@
 - 2025-11-18: War Games 3: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 63%
 
 ## Top Matches
-- 2025-10-27: Lady Apache vs. Wardlow vs. Akira Taue in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 104%
-- 2025-10-27: Bret Hart vs. Pete Dunne vs. Akira Taue in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 101%
-- 2025-10-27: Akira Taue vs. Roman Reigns vs. Daniel Bryan in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 100%
 - 2025-11-18: Big E & Kofi Kingston vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 97%
 - 2025-11-18: 60 Minute Iron Man - Choke Slam Tag Team Championship: Tag Team Tournament Finals (vakant) in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 96%
+- 2025-11-18: Billy Gunn & Road Dogg vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 94%
+- 2025-11-18: Mosh & Thrasher vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 93%
+- 2025-11-18: War Games 3: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 63%

@@ -21,31 +21,31 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 21 | 9 | 10 | 2 | 47.4% | 91.76 |
+| 27 | 15 | 10 | 2 | 60.0% | 88.78 |
 
-**Längste Siegesserie:** 5<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** win (2 in Folge)
+**Längste Siegesserie:** 8<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** win (8 in Folge)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (6x)
-- [[Wrestler/Jay White\|Jay White]] (2x)
-- [[Wrestler/Bandido\|Bandido]] (2x)
-- [[Wrestler/Lady Apache\|Lady Apache]] (2x)
-- [[Wrestler/Steve Austin\|Steve Austin]] (2x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (8x)
+- [[Wrestler/Jay White\|Jay White]] (3x)
+- [[Wrestler/Lady Apache\|Lady Apache]] (3x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (3x)
+- [[Wrestler/Wardlow\|Wardlow]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Edge\|Edge]] (6x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (6x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
-- [[Wrestler/Wardlow\|Wardlow]] (1x)
-- [[Wrestler/Fit Finlay\|Fit Finlay]] (1x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (2x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
 
 ## Letzte 5 Matches
-- 2025-10-27: Chris Jericho vs. Daniel Bryan vs. Sasha Banks in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 100%
-- 2025-10-27: Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 99%
-- 2025-10-27: Bandido vs. Chris Jericho vs. Steve Austin in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 97%
-- 2025-10-27: Choke Slam International Championship: Chris Jericho vs. Awesome Kong (c) in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 84%
-- 2025-10-02: Lady Apache vs. Jay White vs. Bandido vs. Charlotte Flair vs. Chris Jericho vs. Edge in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 86%
+- 2025-11-18: Viking Raiders vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 59%
+- 2025-11-18: War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 69%
+- 2025-11-18: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 95%
+- 2025-11-18: War Games 2: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 53%
+- 2025-11-18: Saint Rebel Radicalz vs. Undisputed Era in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 98%
 
 ## Top Matches
 - 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%

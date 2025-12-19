@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/billy-gunn/","title":"Billy Gunn","tags":["wrestler"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/wrestler/road-dogg/","title":"Road Dogg","tags":["wrestler"],"noteIcon":""}
 ---
 
 
-# Billy Gunn
+# Road Dogg
 
 <table>
         <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Billy_Gunn.png" width="280" alt="Billy Gunn"></td>
+        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Road_Dogg.png" width="280" alt="Road Dogg"></td>
         <td>
         <b>Height:</b> N/A<br>
         <b>Weight:</b> N/A<br>
@@ -21,7 +21,7 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 4 | 1 | 2 | 1 | 33.3% | 94.25 |
+| 3 | 1 | 2 | 0 | 33.3% | 92.33 |
 
 **Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (2 in Folge)
 
@@ -34,16 +34,14 @@
 - [[Wrestler/Akira Taue\|Akira Taue]] (1x)
 
 ## Häufigste Partner
-- [[Wrestler/Road Dogg\|Road Dogg]] (3x)
+- [[Wrestler/Billy Gunn\|Billy Gunn]] (3x)
 
 ## Letzte 5 Matches
 - 2025-11-18: Billy Gunn & Road Dogg vs. Big E & Kofi Kingston in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 94%
 - 2025-11-18: Mosh & Thrasher vs. Billy Gunn & Road Dogg in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 89%
 - 2025-11-18: Billy Gunn & Road Dogg vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 94%
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Draw, 100%
 
 ## Top Matches
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
 - 2025-11-18: Billy Gunn & Road Dogg vs. Big E & Kofi Kingston in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 94%
 - 2025-11-18: Billy Gunn & Road Dogg vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 94%
 - 2025-11-18: Mosh & Thrasher vs. Billy Gunn & Road Dogg in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 89%

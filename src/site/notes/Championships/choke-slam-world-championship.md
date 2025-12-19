@@ -11,7 +11,7 @@
 
 | Name | Date | Last Championship Match |
 |------|------|------------------------|
-| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]<br>Choke Slam World Championship: Lady Apache vs. Steve Austin (c) |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]]<br>Choke Slam World Championship: Jay White vs. Steve Austin (c) |
 
 ## Title History
 
@@ -31,7 +31,7 @@
 | [[Wrestler/Big Van Vader\|Big Van Vader]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 194 | 2 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 244 | 3 |
 | [[Wrestler/Roman Reigns\|Roman Reigns]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | 612 | 4 |
-| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | aktuell | [[-\|-]] | ongoing | 1 |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | aktuell | [[-\|-]] | ongoing | 2 |
 
 ## Appearances
 
@@ -72,6 +72,7 @@
 | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | Choke Slam World Championship: Steve Austin vs. Roman Reigns (c) |
 | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
 | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | Choke Slam World Championship: Lady Apache vs. Steve Austin (c) |
+| 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] | Choke Slam World Championship: Jay White vs. Steve Austin (c) |
 
 ## Title Defenses per Champion
 
@@ -84,7 +85,7 @@
 | [[Wrestler/Randy Orton\|Randy Orton]] | 3 |
 | [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 3 |
 | [[Wrestler/Big Van Vader\|Big Van Vader]] | 3 |
-| [[Wrestler/Steve Austin\|Steve Austin]] | 2 |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 3 |
 | [[Wrestler/Ric Flair\|Ric Flair]] | 1 |
 | [[Wrestler/Jerry Lawler\|Jerry Lawler]] | 1 |
 | [[Wrestler/Sheamus\|Sheamus]] | 1 |

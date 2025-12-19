@@ -21,9 +21,9 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 34 | 14 | 13 | 7 | 51.9% | 89.74 |
+| 35 | 14 | 14 | 7 | 50.0% | 89.80 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** loss (1 in Folge)
 
 
 ## Häufigste Gegner
@@ -41,11 +41,11 @@
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (2x)
 
 ## Letzte 5 Matches
+- 2025-11-18: Barbed Wire Match: Adam Page vs. Edge vs. Jay White vs. Tommaso Ciampa in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 92%
 - 2025-10-27: Edge vs. Wardlow vs. Bam Bam Bigelow in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 95%
 - 2025-10-27: Chris Benoit vs. Edge vs. Steve Austin in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 90%
 - 2025-10-27: Edge vs. Awesome Kong vs. Pete Dunne in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 98%
 - 2025-10-27: Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Draw, 71%
-- 2025-10-02: Lady Apache vs. Jay White vs. Bandido vs. Charlotte Flair vs. Chris Jericho vs. Edge in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 86%
 
 ## Top Matches
 - 2021-04-10: Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%

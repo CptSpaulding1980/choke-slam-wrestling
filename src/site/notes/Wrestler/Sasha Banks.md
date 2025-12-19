@@ -21,9 +21,9 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 9 | 4 | 2 | 3 | 66.7% | 86.67 |
+| 11 | 5 | 3 | 3 | 62.5% | 86.55 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
 
 
 ## Häufigste Gegner
@@ -38,11 +38,11 @@
 - [[Wrestler/Chris Benoit\|Chris Benoit]] (1x)
 
 ## Letzte 5 Matches
+- 2025-11-18: Steel Cage: Brock Lesnar vs. Sasha Banks in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 89%
+- 2025-11-18: Steel Cage: Wardlow vs. Sasha Banks in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 83%
 - 2025-10-27: Chris Jericho vs. Daniel Bryan vs. Sasha Banks in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 100%
 - 2025-10-27: Bandido vs. Sasha Banks vs. Pete Dunne in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 97%
 - 2025-10-27: Chris Benoit vs. Daniel Bryan vs. Sasha Banks in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 91%
-- 2025-10-27: Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Draw, 71%
-- 2025-08-21: Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Draw, 94%
 
 ## Top Matches
 - 2025-10-27: Chris Jericho vs. Daniel Bryan vs. Sasha Banks in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 100%

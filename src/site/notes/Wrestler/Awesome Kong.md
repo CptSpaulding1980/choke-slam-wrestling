@@ -21,17 +21,17 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 29 | 13 | 11 | 5 | 54.2% | 84.66 |
+| 32 | 15 | 12 | 5 | 55.6% | 83.41 |
 
 **Längste Siegesserie:** 4<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** loss (1 in Folge)
 
 
 ## Häufigste Gegner
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (4x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (3x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
-- [[nan\|nan]] (2x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
-- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
+- [[Wrestler/Lady Apache\|Lady Apache]] (3x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (3x)
+- [[Wrestler/Jay White\|Jay White]] (3x)
 
 ## Häufigste Partner
 - [[Wrestler/Kane\|Kane]] (4x)
@@ -41,11 +41,11 @@
 - [[Wrestler/KENTA\|KENTA]] (3x)
 
 ## Letzte 5 Matches
+- 2025-11-18: War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 69%
+- 2025-11-18: War Games 2: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 53%
+- 2025-11-18: Lady Apache vs. Awesome Kong vs. Steve Austin in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 92%
 - 2025-10-27: Jay White vs. Awesome Kong vs. Steve Austin in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 91%
 - 2025-10-27: Bret Hart vs. Awesome Kong vs. Tommaso Ciampa in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 90%
-- 2025-10-27: Edge vs. Awesome Kong vs. Pete Dunne in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 98%
-- 2025-10-27: Choke Slam International Championship: Chris Jericho vs. Awesome Kong (c) in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 84%
-- 2025-10-02: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Win, 88%
 
 ## Top Matches
 - 2021-06-15: Submission: Awesome Kong vs. Ivelisse vs. Randy Savage in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 101%

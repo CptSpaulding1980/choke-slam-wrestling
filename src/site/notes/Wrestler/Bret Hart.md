@@ -21,9 +21,9 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 82 | 32 | 37 | 13 | 46.4% | 88.77 |
+| 85 | 34 | 38 | 13 | 47.2% | 88.98 |
 
-**Längste Siegesserie:** 7<br>**Längste Niederlagenserie:** 7<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 7<br>**Längste Niederlagenserie:** 7<br>**Aktuelle Serie:** win (1 in Folge)
 
 
 ## Häufigste Gegner
@@ -41,11 +41,11 @@
 - [[Wrestler/AJ Styles\|AJ Styles]] (5x)
 
 ## Letzte 5 Matches
+- 2025-11-18: Undisputed Era (Bobby Fish & Kyle O'Reilly) vs. Militanter Mummenschanz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 100%
+- 2025-11-18: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 95%
+- 2025-11-18: Militanter Mummenschanz vs. Viking Raiders in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 89%
 - 2025-10-27: Bret Hart vs. Pete Dunne vs. Akira Taue in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 101%
 - 2025-10-27: Bret Hart vs. Awesome Kong vs. Tommaso Ciampa in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 90%
-- 2025-10-27: Bam Bam Bigelow vs. Kensuke Sasaki vs. Bret Hart in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 95%
-- 2025-10-27: Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Draw, 71%
-- 2025-06-03: Submission - Choke Slam International Championship: Daniel Bryan vs. Fit Finlay vs. Chris Jericho vs. Bret Hart in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Loss, 95%
 
 ## Top Matches
 - 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 103%

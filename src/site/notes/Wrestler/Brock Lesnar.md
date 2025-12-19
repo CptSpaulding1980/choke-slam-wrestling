@@ -21,7 +21,7 @@
 
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---------|-------|-------------|-------|-------|-----------|
-| 17 | 6 | 8 | 3 | 42.9% | 83.29 |
+| 21 | 8 | 10 | 3 | 44.4% | 81.67 |
 
 **Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (1 in Folge)
 
@@ -30,20 +30,22 @@
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (2x)
 - [[Wrestler/Sting\|Sting]] (2x)
-- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
-- [[Wrestler/Fit Finlay\|Fit Finlay]] (1x)
+- [[Wrestler/Jay White\|Jay White]] (2x)
+- [[Wrestler/Wardlow\|Wardlow]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Doug Williams\|Doug Williams]] (3x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (3x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (3x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (2x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
 
 ## Letzte 5 Matches
+- 2025-11-18: Steel Cage: Brock Lesnar vs. Sasha Banks in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 89%
+- 2025-11-18: War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 69%
+- 2025-11-18: War Games 2: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 53%
+- 2025-11-18: Steel Cage: Brock Lesnar vs. Wardlow in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 88%
 - 2025-01-16: Path of God vs. Dr. Wagner Jr., Doug Williams, Bret Hart, & Brock Lesnar in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 76%
-- 2023-12-15: Brock Lesnar vs. Hollywood Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 88%
-- 2023-12-15: Brock Lesnar vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 82%
-- 2023-12-15: Brock Lesnar vs. AJ Styles in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 82%
-- 2023-12-15: 1/4 Finale: Brock Lesnar vs. Big Van Vader in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 60%
 
 ## Top Matches
 - 2022-07-24: Sting vs. Brock Lesnar in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 102%

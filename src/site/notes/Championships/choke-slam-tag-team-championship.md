@@ -11,7 +11,7 @@
 
 | Name | Date | Last Championship Match |
 |------|------|------------------------|
-| [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]<br>Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c) |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]]<br>60 Minute Iron Man - Choke Slam Tag Team Championship: Tag Team Tournament Finals (vakant) |
 
 ## Title History
 
@@ -24,7 +24,9 @@
 | [[Wrestler/The Undertaker\|The Undertaker]] | 2025-05-07 | [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 97 | 2 |
 | [[Wrestler/Chris Jericho\|Chris Jericho]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 9 | 0 |
 | [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | 67 | 0 |
-| [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | aktuell | [[-\|-]] | ongoing | 0 |
+| [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] | 22 | 0 |
+| Vacant | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] | 0 | 0 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] | aktuell | [[-\|-]] | ongoing | 0 |
 
 ## Appearances
 
@@ -51,6 +53,7 @@
 | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Gunther & The Undertaker (c) |
 | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (Edgicho) (c) |
 | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c) |
+| 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] | 60 Minute Iron Man - Choke Slam Tag Team Championship: Tag Team Tournament Finals (vakant) |
 
 ## Title Defenses per Champion
 
@@ -60,6 +63,7 @@
 | [[Wrestler/Christian Cage\|Christian Cage]] | 3 |
 | [[Wrestler/Big Van Vader\|Big Van Vader]] | 2 |
 | [[Wrestler/Sting\|Sting]] | 2 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 2 |
 | [[Wrestler/Triple H\|Triple H]] | 1 |
 | [[Wrestler/Owen Hart\|Owen Hart]] | 1 |
 | [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 1 |
@@ -67,6 +71,5 @@
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 1 |
 | [[Wrestler/Bret Hart\|Bret Hart]] | 1 |
 | [[Wrestler/Gunther\|Gunther]] | 1 |
-| [[Wrestler/Chris Jericho\|Chris Jericho]] | 1 |
 | [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 1 |
 | [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | 1 |

@@ -189,13 +189,13 @@ matches:
 | 8 |  | Me, Myself and I - Tre (Philipp) | Ric Flair beat Big Daddy V in 4 Min 5 Sec with a School Boy | 4:05 | 57★ | 57 |
 | 9 |  | Me, Myself and I - Tre (Hendrik) | Big Van Vader beat Dude Love in 8 Min 42 Sec with a Nodowa-Otoshi | 8:42 | 75★ | 75 |
 | 10 |  | Me, Myself and I - Tre (Pascal) | Willow  beat Kurt Angle in 9 Min 27 Sec with a Flying Body Attack | 9:27 | 81★ | 81 |
-| 11 |  | [[Militanter Mummenschanz]] vs. EL Torito & [[Wrestler/Mascarit Sagrada|Mascarit Sagrada]] | Killer Kelly beat EL Torito in 8 Min 58 Sec with a Low Lift Backdrop | 8:58 | 73★ | 73 |
-| 12 |  | [[Sweet 'n Sour Elite]] vs. EL Torito & [[Wrestler/Little Beaver|Little Beaver]] | EL Torito beat Hendrique Delafuente in 30 Min 48 Sec with a Bullsault | 30:48 | 100★ | 100 |
-| 13 |  | [[Saint Rebel Radicalz]] vs. [[Wrestler/Dink|Dink]]  & [[Wrestler/Hornswoggle|Hornswoggle]] | Hornswoggle beat Pascal LePas in 12 Min 18 Sec with a Tadpole Splash | 12:18 | 81★ | 81 |
+| 11 |  | [[Militanter Mummenschanz]] vs. EL Torito & [[Wrestler/Mascarit Sagrada\|Mascarit Sagrada]] | Killer Kelly beat EL Torito in 8 Min 58 Sec with a Low Lift Backdrop | 8:58 | 73★ | 73 |
+| 12 |  | [[Sweet 'n Sour Elite]] vs. EL Torito & [[Wrestler/Little Beaver\|Little Beaver]] | EL Torito beat Hendrique Delafuente in 30 Min 48 Sec with a Bullsault | 30:48 | 100★ | 100 |
+| 13 |  | [[Saint Rebel Radicalz]] vs. [[Wrestler/Dink\|Dink]]  & [[Wrestler/Hornswoggle\|Hornswoggle]] | Hornswoggle beat Pascal LePas in 12 Min 18 Sec with a Tadpole Splash | 12:18 | 81★ | 81 |
 | 14 |  | Exhibition 2 - Bloodier than the Line | WALTER won a 8 wrestler battle royale in  13:28 | 13:28 | 91★ | 91 |
-| 15 | Tag Team | Tag Team Roulette - [[Militanter Mummenschanz]] vs. Honey Money ([[Wrestler/JBL|JBL]] & [[Wrestler/Ted DiBiase|Ted DiBiase]]) | Eddie Edwards beat JBL in 77 Min 44 Sec with a Modified Emerald Flowsion | 77:44 | 87★ | 87 |
-| 16 | Tag Team | Tag Team Roulette - [[Sweet 'n Sour Elite]] vs. El Profesor ([[Wrestler/Bobby Heenan|Bobby Heenan]] & [[Wrestler/Damien Sandow|Damien Sandow]]) | Bobby Heenan beat Triple H in 24 Min 6 Sec with a DQ | 24:06 | 75★ | 75 |
-| 17 | Tag Team | Tag Team Roulette - [[Saint Rebel Radicalz]] vs. ChokeSlam Legends ([[Wrestler/Jake Roberts|Jake Roberts]] & [[Wrestler/Sabu|Sabu]]) | Chris Hero beat Sabu in 29 Min 47 Sec with a RING OUT | 29:47 | 96★ | 96 |
+| 15 | Tag Team | Tag Team Roulette - [[Militanter Mummenschanz]] vs. Honey Money ([[Wrestler/JBL\|JBL]] & [[Wrestler/Ted DiBiase\|Ted DiBiase]]) | Eddie Edwards beat JBL in 77 Min 44 Sec with a Modified Emerald Flowsion | 77:44 | 87★ | 87 |
+| 16 | Tag Team | Tag Team Roulette - [[Sweet 'n Sour Elite]] vs. El Profesor ([[Wrestler/Bobby Heenan\|Bobby Heenan]] & [[Wrestler/Damien Sandow\|Damien Sandow]]) | Bobby Heenan beat Triple H in 24 Min 6 Sec with a DQ | 24:06 | 75★ | 75 |
+| 17 | Tag Team | Tag Team Roulette - [[Saint Rebel Radicalz]] vs. ChokeSlam Legends ([[Wrestler/Jake Roberts\|Jake Roberts]] & [[Wrestler/Sabu\|Sabu]]) | Chris Hero beat Sabu in 29 Min 47 Sec with a RING OUT | 29:47 | 96★ | 96 |
 | 18 |  | Exhibition 3 - Backstage Brawl | Ace Steel won a 5 wrestler battle royale in  12:38 | 12:38 | 97★ | 97 |
 
 ## Links

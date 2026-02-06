@@ -33,7 +33,7 @@ matches:
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Choke Slam World Championship]]: [[Wrestler/Randy Orton|Randy Orton]] vs. [[Wrestler/Jerry Lawler|Jerry Lawler]] (c) | Randy Orton beat Jerry Lawler in 16 Min 33 Sec with a Mexican Cutter | 16:33 | 92★ | 92 |
+| 1 |  | [[Choke Slam World Championship]]: [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Jerry Lawler\|Jerry Lawler]] (c) | Randy Orton beat Jerry Lawler in 16 Min 33 Sec with a Mexican Cutter | 16:33 | 92★ | 92 |
 
 ## Links
 - [[Events|Events]]

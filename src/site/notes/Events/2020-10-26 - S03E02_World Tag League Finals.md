@@ -34,7 +34,7 @@ matches:
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Wrestler/Kurt Angle|Kurt Angle]] & [[Wrestler/Elias|Elias]] vs. [[Saint Rebel Radicalz]] | Kazuchika Okada beat Kurt Angle in 20 Min 7 Sec with a RING OUT | 20:07 | 87★ | 87 |
+| 1 |  | [[Wrestler/Kurt Angle\|Kurt Angle]] & [[Wrestler/Elias\|Elias]] vs. [[Saint Rebel Radicalz]] | Kazuchika Okada beat Kurt Angle in 20 Min 7 Sec with a RING OUT | 20:07 | 87★ | 87 |
 
 ## Links
 - [[Events|Events]]

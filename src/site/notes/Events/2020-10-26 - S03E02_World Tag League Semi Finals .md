@@ -44,7 +44,7 @@ matches:
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Wrestler/Kurt Angle|Kurt Angle]] & [[Wrestler/Elias|Elias]] vs. [[Saint Rebel Radicalz]] | Kurt Angle beat Dustin Rhodes in 27 Min 36 Sec with a Moonsault Press | 27:36 | 94★ | 94 |
+| 1 |  | [[Wrestler/Kurt Angle\|Kurt Angle]] & [[Wrestler/Elias\|Elias]] vs. [[Saint Rebel Radicalz]] | Kurt Angle beat Dustin Rhodes in 27 Min 36 Sec with a Moonsault Press | 27:36 | 94★ | 94 |
 | 2 |  | [[Saint Rebel Radicalz]] vs. [[Sweet 'n Sour Elite]] | Kazuchika Okada beat Thunder Rosa in 28 Min 55 Sec with a Cobra Hold | 28:55 | 96★ | 96 |
 
 ## Links

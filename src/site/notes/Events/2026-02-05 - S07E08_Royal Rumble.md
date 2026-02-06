@@ -61,7 +61,7 @@ matches:
 | 1 | Submission | Submission: [[Saint Rebel Radicalz]] vsSaint Rebel Radiclaz | nan | 0:00 | DUD | 0 |
 | 2 | Submission | Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite | nan | 0:00 | DUD | 0 |
 | 3 | Submission | Submission Match: [[Militanter Mummenschanz]] vs. [[Saint Rebel Radicalz]] | nan | 0:00 | DUD | 0 |
-| 4 |  | Casino Royale: [[Wrestler/Lady Apache|Lady Apache]] vs. [[Wrestler/Jon Moxley|Jon Moxley]] vs. [[Wrestler/Brock Lesnar|Brock Lesnar]] | nan | 0:00 | DUD | 0 |
+| 4 |  | Casino Royale: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Jon Moxley\|Jon Moxley]] vs. [[Wrestler/Brock Lesnar\|Brock Lesnar]] | nan | 0:00 | DUD | 0 |
 | 5 | Royal Rumble | [[Royal Rumble]] | nan | 0:00 | DUD | 0 |
 
 ## Links

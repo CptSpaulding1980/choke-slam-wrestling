@@ -152,21 +152,21 @@ matches:
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 | Submission | Submission Match: [[Wrestler/Daniel Bryan|Daniel Bryan]] vs. [[Wrestler/Bandido|Bandido]] | Daniel Bryan beat Bandido in 11 Min 56 Sec with a Cattle Mutilation | 11:56 | 74★ | 74 |
-| 2 | Last Man Standing | [[Last Man Standing]]: [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] vs. [[Wrestler/Roman Reigns|Roman Reigns]] | Roman Reigns beat Bam Bam Bigelow in 12 Min 59 Sec with a K.O | 12:59 | 95★ | 95 |
-| 3 |  | Iron Grappling: [[Wrestler/Mike Tyson|Mike Tyson]] vs. [[Wrestler/Akira Taue|Akira Taue]] | Mike Tyson beat Akira Taue in 1R 12 Min 29 Sec with a K.O | 12:29 | 81★ | 81 |
+| 1 | Submission | Submission Match: [[Wrestler/Daniel Bryan\|Daniel Bryan]] vs. [[Wrestler/Bandido\|Bandido]] | Daniel Bryan beat Bandido in 11 Min 56 Sec with a Cattle Mutilation | 11:56 | 74★ | 74 |
+| 2 | Last Man Standing | [[Last Man Standing]]: [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] | Roman Reigns beat Bam Bam Bigelow in 12 Min 59 Sec with a K.O | 12:59 | 95★ | 95 |
+| 3 |  | Iron Grappling: [[Wrestler/Mike Tyson\|Mike Tyson]] vs. [[Wrestler/Akira Taue\|Akira Taue]] | Mike Tyson beat Akira Taue in 1R 12 Min 29 Sec with a K.O | 12:29 | 81★ | 81 |
 | 4 |  | Trios League: [[Sweet 'n Sour Elite]] vs. [[Militanter Mummenschanz]] | Lex Luger beat Bam Bam Bigelow in 25 Min 3 Sec with a Torture Rack | 25:03 | 90★ | 90 |
 | 5 |  | Trios League: [[Saint Rebel Radicalz]] vs. British Strong Style | Pete Dunne beat Awesome Kong in 23 Min 1 Sec with a K.O | 23:01 | 77★ | 77 |
-| 6 | Submission | Submission: [[Wrestler/Bandido|Bandido]] vs. [[Wrestler/Chris Jericho|Chris Jericho]] | Bandido beat Chris Jericho in 19 Min 34 Sec with a Cross Armbreaker | 19:34 | 89★ | 89 |
-| 7 | Last Man Standing | [[Last Man Standing]]: [[Wrestler/Lex Luger|Lex Luger]] vs. [[Wrestler/Roman Reigns|Roman Reigns]] | Roman Reigns beat Lex Luger in 6 Min 54 Sec with a K.O | 6:54 | 86★ | 86 |
-| 8 |  | Iron Grappling 2: [[Wrestler/Mike Sharpe|Mike Sharpe]] vs. [[Wrestler/Steve Austin|Steve Austin]] | Steve Austin beat Mike Sharpe in 1R 37 Min 43 Sec with a K.O | 37:43 | 69★ | 69 |
-| 9 |  | [[Sweet 'n Sour Elite]] vs. [[Wrestler/Pac|Pac]], [[Wrestler/Rey Fenix|Rey Fenix]], & [[Wrestler/Penta El Zero Miedo|Penta El Zero Miedo]] | Steve Austin beat Penta El Zero Miedo in 23 Min 56 Sec with a Stone Cold Stunner | 23:56 | 93★ | 93 |
-| 10 |  | [[Militanter Mummenschanz]] vs. [[Wrestler/Pete Dunne|Pete Dunne]], [[Wrestler/Tyler Bate|Tyler Bate]] & [[Wrestler/Trent Seven|Trent Seven]] | Pete Dunne beat Wardlow in 26 Min 40 Sec with a Trap Cross Armbreaker | 26:40 | 89★ | 89 |
-| 11 | Submission | Submission: [[Wrestler/Chris Jericho|Chris Jericho]] vs. [[Wrestler/Daniel Bryan|Daniel Bryan]] | Daniel Bryan beat Chris Jericho in 15 Min 21 Sec with a Cattle Mutilation | 15:21 | 92★ | 92 |
-| 12 | Last Man Standing | [[Last Man Standing]]: [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] vs. [[Wrestler/Lex Luger|Lex Luger]] | Bam Bam Bigelow beat Lex Luger in 15 Min 15 Sec with a K.O | 15:15 | 89★ | 89 |
-| 13 |  | Handicap: [[Wrestler/Jay White|Jay White]] vs. [[Saint Rebel Radicalz]] | Chris Jericho beat Jay White in 26 Min 40 Sec with a Triple Powerbomb | 26:40 | 89★ | 89 |
-| 14 |  | [[Sweet 'n Sour Elite]] vs. [[Wrestler/Pete Dunne|Pete Dunne]], [[Wrestler/Trent Seven|Trent Seven]] & [[Wrestler/Tyler Bate|Tyler Bate]] | Trent Seven beat Bam Bam Bigelow in 21 Min 31 Sec with a School Boy | 21:31 | 82★ | 82 |
-| 15 |  | [[Saint Rebel Radicalz]] vs. [[Wrestler/Pac|Pac]], [[Wrestler/Penta El Zero Miedo|Penta El Zero Miedo]] & [[Wrestler/Rey Fenix|Rey Fenix]] | Roman Reigns beat Rey Fenix in 26 Min 25 Sec with a Scissors Front Necklock | 26:25 | 92★ | 92 |
+| 6 | Submission | Submission: [[Wrestler/Bandido\|Bandido]] vs. [[Wrestler/Chris Jericho\|Chris Jericho]] | Bandido beat Chris Jericho in 19 Min 34 Sec with a Cross Armbreaker | 19:34 | 89★ | 89 |
+| 7 | Last Man Standing | [[Last Man Standing]]: [[Wrestler/Lex Luger\|Lex Luger]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] | Roman Reigns beat Lex Luger in 6 Min 54 Sec with a K.O | 6:54 | 86★ | 86 |
+| 8 |  | Iron Grappling 2: [[Wrestler/Mike Sharpe\|Mike Sharpe]] vs. [[Wrestler/Steve Austin\|Steve Austin]] | Steve Austin beat Mike Sharpe in 1R 37 Min 43 Sec with a K.O | 37:43 | 69★ | 69 |
+| 9 |  | [[Sweet 'n Sour Elite]] vs. [[Wrestler/Pac\|Pac]], [[Wrestler/Rey Fenix\|Rey Fenix]], & [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] | Steve Austin beat Penta El Zero Miedo in 23 Min 56 Sec with a Stone Cold Stunner | 23:56 | 93★ | 93 |
+| 10 |  | [[Militanter Mummenschanz]] vs. [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Tyler Bate\|Tyler Bate]] & [[Wrestler/Trent Seven\|Trent Seven]] | Pete Dunne beat Wardlow in 26 Min 40 Sec with a Trap Cross Armbreaker | 26:40 | 89★ | 89 |
+| 11 | Submission | Submission: [[Wrestler/Chris Jericho\|Chris Jericho]] vs. [[Wrestler/Daniel Bryan\|Daniel Bryan]] | Daniel Bryan beat Chris Jericho in 15 Min 21 Sec with a Cattle Mutilation | 15:21 | 92★ | 92 |
+| 12 | Last Man Standing | [[Last Man Standing]]: [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Lex Luger\|Lex Luger]] | Bam Bam Bigelow beat Lex Luger in 15 Min 15 Sec with a K.O | 15:15 | 89★ | 89 |
+| 13 |  | Handicap: [[Wrestler/Jay White\|Jay White]] vs. [[Saint Rebel Radicalz]] | Chris Jericho beat Jay White in 26 Min 40 Sec with a Triple Powerbomb | 26:40 | 89★ | 89 |
+| 14 |  | [[Sweet 'n Sour Elite]] vs. [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Trent Seven\|Trent Seven]] & [[Wrestler/Tyler Bate\|Tyler Bate]] | Trent Seven beat Bam Bam Bigelow in 21 Min 31 Sec with a School Boy | 21:31 | 82★ | 82 |
+| 15 |  | [[Saint Rebel Radicalz]] vs. [[Wrestler/Pac\|Pac]], [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] & [[Wrestler/Rey Fenix\|Rey Fenix]] | Roman Reigns beat Rey Fenix in 26 Min 25 Sec with a Scissors Front Necklock | 26:25 | 92★ | 92 |
 
 ## Links
 - [[Events|Events]]

@@ -110,16 +110,16 @@ matches:
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Wrestler/Mark Davis|Mark Davis]] & [[Wrestler/Kyle Fletcher|Kyle Fletcher]] vs. [[Militanter Mummenschanz]] | Mark Davis beat Colt Cabana in 39 Min 22 Sec with a Jumping Bomb | 39:22 | 100★ | 100 |
-| 2 |  | [[Wrestler/Mark Davis|Mark Davis]] & [[Wrestler/Kyle Fletcher|Kyle Fletcher]] vs. [[Sweet 'n Sour Elite]] | Shelton Benjamin beat Kyle Fletcher in 13 Min 52 Sec with a Powerslam | 13:52 | 78★ | 78 |
-| 3 |  | [[Wrestler/Mark Davis|Mark Davis]] & [[Wrestler/Kyle Fletcher|Kyle Fletcher]] vs. [[Saint Rebel Radicalz]] | Kyle Fletcher beat Rey Fenix in 43 Min 13 Sec with a Falcon Arrow | 43:13 | 100★ | 100 |
-| 4 |  | [[Wrestler/Rhea Ripley|Rhea Ripley]] vs. [[Wrestler/Kane|Kane]] | Rhea Ripley beat Kane in 18 Min 8 Sec with a Northern Light Suplex | 18:08 | 84★ | 84 |
-| 5 |  | [[Wrestler/Rhea Ripley|Rhea Ripley]] vs. [[Wrestler/Ivelisse|Ivelisse]] | Ivelisse beat Rhea Ripley in 12 Min 54 Sec with a Disdain | 12:54 | 86★ | 86 |
-| 6 |  | [[Wrestler/Rhea Ripley|Rhea Ripley]] vs. [[Wrestler/Gail Kim|Gail Kim]] | Rhea Ripley beat Gail Kim in 14 Min 4 Sec with a Pump Handle Slam | 14:04 | 80★ | 80 |
-| 7 |  | [[Wrestler/Edge|Edge]] vs. [[Wrestler/KENTA|KENTA]] vs. [[Wrestler/Kenny Omega|Kenny Omega]] vs. [[Wrestler/Christian|Christian]] vs. [[Wrestler/Dustin Rhodes|Dustin Rhodes]] vs. [[Wrestler/Kazuchika Okada|Kazuchika Okada]] | Kazuchika Okada won a 6 wrestler battle royale in | 156:46 | 100★ | 100 |
-| 8 |  | [[Wrestler/Killshot|Killshot]] vs. [[Wrestler/Colt Cabana|Colt Cabana]] vs. [[Wrestler/Tetsuya Naito|Tetsuya Naito]] vs. [[Wrestler/Shelton Benjamin|Shelton Benjamin]] vs. [[Wrestler/Bob Backlund|Bob Backlund]] vs. [[Wrestler/Shingo Takagi|Shingo Takagi]] | Shingo Takagi won a 6 wrestler battle royale in | 76:51 | 100★ | 100 |
-| 9 |  | [[Choke Slam World Championship]]: [[Wrestler/Kane|Kane]] vs. [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (c) | Kazuchika Okada beat Kane in 16 Min 11 Sec with a German Suplex | 16:11 | 82★ | 82 |
-| 10 |  | [[Wrestler/Kazuchika Okada|Kazuchika Okada]] vs. [[Wrestler/Shingo Takagi|Shingo Takagi]] | Kazuchika Okada beat Shingo Takagi in 34 Min 58 Sec with a K.O | 34:58 | 100★ | 100 |
+| 1 |  | [[Wrestler/Mark Davis\|Mark Davis]] & [[Wrestler/Kyle Fletcher\|Kyle Fletcher]] vs. [[Militanter Mummenschanz]] | Mark Davis beat Colt Cabana in 39 Min 22 Sec with a Jumping Bomb | 39:22 | 100★ | 100 |
+| 2 |  | [[Wrestler/Mark Davis\|Mark Davis]] & [[Wrestler/Kyle Fletcher\|Kyle Fletcher]] vs. [[Sweet 'n Sour Elite]] | Shelton Benjamin beat Kyle Fletcher in 13 Min 52 Sec with a Powerslam | 13:52 | 78★ | 78 |
+| 3 |  | [[Wrestler/Mark Davis\|Mark Davis]] & [[Wrestler/Kyle Fletcher\|Kyle Fletcher]] vs. [[Saint Rebel Radicalz]] | Kyle Fletcher beat Rey Fenix in 43 Min 13 Sec with a Falcon Arrow | 43:13 | 100★ | 100 |
+| 4 |  | [[Wrestler/Rhea Ripley\|Rhea Ripley]] vs. [[Wrestler/Kane\|Kane]] | Rhea Ripley beat Kane in 18 Min 8 Sec with a Northern Light Suplex | 18:08 | 84★ | 84 |
+| 5 |  | [[Wrestler/Rhea Ripley\|Rhea Ripley]] vs. [[Wrestler/Ivelisse\|Ivelisse]] | Ivelisse beat Rhea Ripley in 12 Min 54 Sec with a Disdain | 12:54 | 86★ | 86 |
+| 6 |  | [[Wrestler/Rhea Ripley\|Rhea Ripley]] vs. [[Wrestler/Gail Kim\|Gail Kim]] | Rhea Ripley beat Gail Kim in 14 Min 4 Sec with a Pump Handle Slam | 14:04 | 80★ | 80 |
+| 7 |  | [[Wrestler/Edge\|Edge]] vs. [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] vs. [[Wrestler/Christian\|Christian]] vs. [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | Kazuchika Okada won a 6 wrestler battle royale in | 156:46 | 100★ | 100 |
+| 8 |  | [[Wrestler/Killshot\|Killshot]] vs. [[Wrestler/Colt Cabana\|Colt Cabana]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Shelton Benjamin\|Shelton Benjamin]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Shingo Takagi\|Shingo Takagi]] | Shingo Takagi won a 6 wrestler battle royale in | 76:51 | 100★ | 100 |
+| 9 |  | [[Choke Slam World Championship]]: [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) | Kazuchika Okada beat Kane in 16 Min 11 Sec with a German Suplex | 16:11 | 82★ | 82 |
+| 10 |  | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Shingo Takagi\|Shingo Takagi]] | Kazuchika Okada beat Shingo Takagi in 34 Min 58 Sec with a K.O | 34:58 | 100★ | 100 |
 
 ## Links
 - [[Events|Events]]

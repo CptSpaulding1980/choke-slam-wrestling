@@ -31,7 +31,7 @@ matches:
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Wrestler/Killshot|Killshot]] vs. [[Wrestler/Bob Backlund|Bob Backlund]] vs. [[Wrestler/Sgt. Slaughter|Sgt. Slaughter]] vs. [[Wrestler/Sheamus|Sheamus]]  vs. [[Wrestler/Finn Bálor|Finn Bálor]] | Sheamus  won a 5 wrestler battle royale in  19:54 | 19:54 | 95★ | 95 |
+| 1 |  | [[Wrestler/Killshot\|Killshot]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] vs. [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Finn Bálor\|Finn Bálor]] | Sheamus  won a 5 wrestler battle royale in  19:54 | 19:54 | 95★ | 95 |
 
 ## Links
 - [[Events|Events]]

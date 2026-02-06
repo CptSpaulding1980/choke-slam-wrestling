@@ -1,25 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"🏠"}
+dg-publish: true
+permalink: /
+title: Home
+noteIcon: 🏠
 ---
 
-# 🏠 **Choke Slam Wrestling Dashboard**
+# 🏠 Choke Slam Wrestling
 
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_MM.png" width="170" alt="MM"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" width="170" alt="SnS"> <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SRR.png" width="170" alt="SRR">
-## 📅 **Nächster Event**
+Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle Ergebnisse, Statistiken und Historien unseres Universums.
 
-tba
+## 📅 Die letzten Events
+| Datum | Show | Main Event |
+|---|---|---|
+| 2026-02-05 | [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] | Royal Rumble |
+| 2025-12-30 | [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] | Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] | Choke Slam World Championship: Jay White vs. Steve Austin (c) |
+| 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] | Choke Slam World Championship: Lady Apache vs. Steve Austin (c) |
+| 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] | Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
 
-## 📅 **Letzte Events**
-| File                                                                                                         | date       | venue             | location                   |
-| ------------------------------------------------------------------------------------------------------------ | ---------- | ----------------- | -------------------------- |
-| [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]]                                   | 11/18/2025 | Boston Garden     | Boston, Massachusetts, USA |
-| [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]                       | 10/27/2025 | 1st Mariner Arena | Baltimore, Maryland, USA   |
-| [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | 10/02/2025 | 1st Mariner Arena | Baltimore, Maryland, USA   |
+## 🏆 Aktuelle Champions
+| | Titel | Champion |
+|---|---|---|
+| 👥 | [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | **[[Wrestler/Chris Jericho\|Chris Jericho]]** |
+| 🏆 | [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | **[[Wrestler/Steve Austin\|Steve Austin]]** |
+| 🏆 | [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | **[[Wrestler/Chris Jericho\|Chris Jericho]]** |
+| 👩 | [[Championships/choke-slam-womens-championship\|Choke Slam Womens Championship]] | **[[Wrestler/Awesome Kong\|Awesome Kong]]** |
+| 👪 | [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | **[[Wrestler/Edge\|Edge]]** |
 
-{ .block-language-dataview}
-## 🏆 **Meiste Siege in der aktuellen Saison (S07)**
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Rank</span><span class="dataview small-text">10</span></th><th class="table-view-th"><span>Wrestler</span></th><th class="table-view-th"><span>Siege (S07)</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>1</span></td><td><span><a data-href="Daniel Bryan" href="Daniel Bryan" class="internal-link" target="_blank" rel="noopener nofollow">Daniel Bryan</a></span></td><td>9</td></tr><tr><td><span>2</span></td><td><span><a data-href="Chris Jericho" href="Chris Jericho" class="internal-link" target="_blank" rel="noopener nofollow">Chris Jericho</a></span></td><td>9</td></tr><tr><td><span>3</span></td><td><span><a data-href="Roman Reigns" href="Roman Reigns" class="internal-link" target="_blank" rel="noopener nofollow">Roman Reigns</a></span></td><td>7</td></tr><tr><td><span>4</span></td><td><span><a data-href="Lex Luger" href="Lex Luger" class="internal-link" target="_blank" rel="noopener nofollow">Lex Luger</a></span></td><td>6</td></tr><tr><td><span>5</span></td><td><span><a data-href="Steve Austin" href="Steve Austin" class="internal-link" target="_blank" rel="noopener nofollow">Steve Austin</a></span></td><td>5</td></tr><tr><td><span>6</span></td><td><span><a data-href="Kensuke Sasaki" href="Kensuke Sasaki" class="internal-link" target="_blank" rel="noopener nofollow">Kensuke Sasaki</a></span></td><td>4</td></tr><tr><td><span>7</span></td><td><span><a data-href="Awesome Kong" href="Awesome Kong" class="internal-link" target="_blank" rel="noopener nofollow">Awesome Kong</a></span></td><td>4</td></tr><tr><td><span>8</span></td><td><span><a data-href="Sasha Banks" href="Sasha Banks" class="internal-link" target="_blank" rel="noopener nofollow">Sasha Banks</a></span></td><td>4</td></tr><tr><td><span>9</span></td><td><span><a data-href="Kazuchika Okada" href="Kazuchika Okada" class="internal-link" target="_blank" rel="noopener nofollow">Kazuchika Okada</a></span></td><td>4</td></tr><tr><td><span>10</span></td><td><span><a data-href="Charlotte Flair" href="Charlotte Flair" class="internal-link" target="_blank" rel="noopener nofollow">Charlotte Flair</a></span></td><td>3</td></tr></tbody></table></div>
+## 🔥 Top Performer 2026
+| Wrestler | Siege |
+|---|---|
 
-## **Bestes Durchschnittsrating der aktuellen Saison (S07)**
-
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Rank</span><span class="dataview small-text">10</span></th><th class="table-view-th"><span>Name</span></th><th class="table-view-th"><span>Durchschnittliches Rating (S07)</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>1</span></td><td><span><a data-href="Akira Taue" href="Akira Taue" class="internal-link" target="_blank" rel="noopener nofollow">Akira Taue</a></span></td><td><span>95.5%</span></td></tr><tr><td><span>2</span></td><td><span><a data-href="Billy Gunn" href="Billy Gunn" class="internal-link" target="_blank" rel="noopener nofollow">Billy Gunn</a></span></td><td><span>94.0%</span></td></tr><tr><td><span>3</span></td><td><span><a data-href="Big E" href="Big E" class="internal-link" target="_blank" rel="noopener nofollow">Big E</a></span></td><td><span>94.0%</span></td></tr><tr><td><span>4</span></td><td><span><a data-href="Kevin Steen" href="Kevin Steen" class="internal-link" target="_blank" rel="noopener nofollow">Kevin Steen</a></span></td><td><span>93.0%</span></td></tr><tr><td><span>5</span></td><td><span><a data-href="Giulia" href="Giulia" class="internal-link" target="_blank" rel="noopener nofollow">Giulia</a></span></td><td><span>93.0%</span></td></tr><tr><td><span>6</span></td><td><span><a data-href="KONOSUKE TAKESHITA" href="KONOSUKE TAKESHITA" class="internal-link" target="_blank" rel="noopener nofollow">KONOSUKE TAKESHITA</a></span></td><td><span>93.0%</span></td></tr><tr><td><span>7</span></td><td><span><a data-href="Jerry Lawler" href="Jerry Lawler" class="internal-link" target="_blank" rel="noopener nofollow">Jerry Lawler</a></span></td><td><span>91.0%</span></td></tr><tr><td><span>8</span></td><td><span><a data-href="Bandido" href="Bandido" class="internal-link" target="_blank" rel="noopener nofollow">Bandido</a></span></td><td><span>90.5%</span></td></tr><tr><td><span>9</span></td><td><span><a data-href="Ivar" href="Ivar" class="internal-link" target="_blank" rel="noopener nofollow">Ivar</a></span></td><td><span>90.0%</span></td></tr><tr><td><span>10</span></td><td><span><a data-href="Lex Luger" href="Lex Luger" class="internal-link" target="_blank" rel="noopener nofollow">Lex Luger</a></span></td><td><span>89.7%</span></td></tr></tbody></table></div>
+---
+### 🧭 Navigation
+- [[Events\|📅 Alle Events]]
+- [[Wrestler\|🤼 Roster & Stats]]
+- [[Championships\|🏆 Titelhistorien]]
+- [[Statistiken\|📊 Globale Statistiken]]

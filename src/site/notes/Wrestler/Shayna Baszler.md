@@ -1,49 +1,63 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/shayna-baszler/","title":"Shayna Baszler","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/shayna-baszler/
+title: Shayna Baszler
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shayna_Baszler.png
+matches: 4
+wins: 2
+losses: 2
+draws: 0
+win_percent: 50.0
+avg_rating: 80.5
+streaks:
+  longest_win: 2
+  longest_loss: 2
+  current:
+    type: loss
+    count: 2
+top_opponents:
+- name: Aoife Valkyrie
+  matches: 1
+- name: Killer Kelly
+  matches: 1
+- name: Madison Rayne
+  matches: 1
+- name: nan
+  matches: 1
+- name: Toni Storm
+  matches: 1
+championships:
+- title: Choke Slam Womens Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2022-10-02'
+  is_current: false
+  duration_days:
+  - 178
 ---
-
 
 # Shayna Baszler
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shayna_Baszler.png" width="280" alt="Shayna Baszler"></td>
-        <td>
-        <b>Height:</b> 171cm<br>
-        <b>Weight:</b> 61kg<br>
-        <b>Finisher:</b> Rear Naked Choke<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shayna_Baszler.png" width="280"></td><td><b>Height:</b> 171cm<br><b>Weight:</b> 61kg<br><b>Finisher:</b> Rear Naked Choke</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 4 | 2 | 2 | 0 | 50.0% | 80.50 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (2 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** loss (2)
 
+## Titelregentschaften
+| Titel | Vert. | Zuletzt | Aktuell |
+|---|---|---|---|
+| Choke Slam Womens Championship | 0 | 2022-10-02 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
-- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
-- [[nan\|nan]] (1x)
-- [[Wrestler/Toni Storm\|Toni Storm]] (1x)
-
-## Häufigste Partner
-Keine bekannten Partner.
-
-## Letzte 5 Matches
-- 2023-10-09: Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — Loss, 67%
-- 2023-03-29: Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — Loss, 90%
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — Win, 88%
-- 2022-10-02: Choke Slam Womens Championship: Aoife Valkyrie vs. Killer Kelly vs. Madison Rayne vs. Shayna Baszler in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Win, 77%
-
-## Top Matches
-- 2023-03-29: Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 90%
-- 2023-02-22: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 88%
-- 2022-10-02: Choke Slam Womens Championship: Aoife Valkyrie vs. Killer Kelly vs. Madison Rayne vs. Shayna Baszler in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 77%
-- 2023-10-09: Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 67%
+- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (1x)
+- [[Wrestler/Killer Kelly|Killer Kelly]] (1x)
+- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
+- [[Wrestler/nan|nan]] (1x)
+- [[Wrestler/Toni Storm|Toni Storm]] (1x)

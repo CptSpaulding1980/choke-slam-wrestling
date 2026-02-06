@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/akira-taue/","title":"Akira Taue","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/akira-taue/
+title: Akira Taue
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png
+matches: 18
+wins: 7
+losses: 11
+draws: 0
+win_percent: 38.9
+avg_rating: 89.11
+streaks:
+  longest_win: 2
+  longest_loss: 3
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: Daniel Bryan
+  matches: 3
+- name: Awesome Kong
+  matches: 3
+- name: Wardlow
+  matches: 2
+- name: Pete Dunne
+  matches: 2
+- name: Roman Reigns
+  matches: 2
+championships: []
 ---
-
 
 # Akira Taue
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png" width="280" alt="Akira Taue"></td>
-        <td>
-        <b>Height:</b> 193cm<br>
-        <b>Weight:</b> 118kg<br>
-        <b>Finisher:</b> Nodowa Otoshi<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 118kg<br><b>Finisher:</b> Nodowa Otoshi</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 15 | 6 | 9 | 0 | 40.0% | 88.60 |
+|---|---|---|---|---|---|
+| 18 | 7 | 11 | 0 | 38.9% | 89.11 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (2 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** loss (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
-- [[Wrestler/Wardlow\|Wardlow]] (2x)
-- [[Wrestler/Pete Dunne\|Pete Dunne]] (2x)
-- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
-- [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Steve Austin\|Steve Austin]] (6x)
-- [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]] (6x)
-- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (4x)
-- [[Wrestler/Adam Page\|Adam Page]] (2x)
-- [[Wrestler/Wardlow\|Wardlow]] (1x)
-
-## Letzte 5 Matches
-- 2025-11-18: Mosh & Thrasher vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 93%
-- 2025-11-18: Big E & Kofi Kingston vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 97%
-- 2025-11-18: War Games 2: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 53%
-- 2025-11-18: Billy Gunn & Road Dogg vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 94%
-- 2025-11-18: War Games 3: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 63%
-
-## Top Matches
-- 2025-10-27: Lady Apache vs. Wardlow vs. Akira Taue in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 104%
-- 2025-10-27: Bret Hart vs. Pete Dunne vs. Akira Taue in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 101%
-- 2025-10-27: Akira Taue vs. Roman Reigns vs. Daniel Bryan in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 100%
-- 2025-11-18: Big E & Kofi Kingston vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 97%
-- 2025-11-18: 60 Minute Iron Man - Choke Slam Tag Team Championship: Tag Team Tournament Finals (vakant) in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 96%
+- [[Wrestler/Daniel Bryan|Daniel Bryan]] (3x)
+- [[Wrestler/Awesome Kong|Awesome Kong]] (3x)
+- [[Wrestler/Wardlow|Wardlow]] (2x)
+- [[Wrestler/Pete Dunne|Pete Dunne]] (2x)
+- [[Wrestler/Roman Reigns|Roman Reigns]] (2x)

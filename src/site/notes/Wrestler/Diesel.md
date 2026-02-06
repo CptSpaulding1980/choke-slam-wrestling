@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/diesel/","title":"Diesel","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/diesel/
+title: Diesel
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Diesel.png
+matches: 32
+wins: 14
+losses: 13
+draws: 5
+win_percent: 43.8
+avg_rating: 87.19
+streaks:
+  longest_win: 3
+  longest_loss: 4
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: Bret Hart
+  matches: 8
+- name: AJ Styles
+  matches: 6
+- name: Big Van Vader
+  matches: 6
+- name: Bob Backlund
+  matches: 6
+- name: Owen Hart
+  matches: 5
+championships: []
 ---
-
 
 # Diesel
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Diesel.png" width="280" alt="Diesel"></td>
-        <td>
-        <b>Height:</b> 210cm<br>
-        <b>Weight:</b> 135kg<br>
-        <b>Finisher:</b> Jacknife Powerbomb<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Diesel.png" width="280"></td><td><b>Height:</b> 210cm<br><b>Weight:</b> 135kg<br><b>Finisher:</b> Jacknife Powerbomb</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 32 | 14 | 13 | 5 | 51.9% | 87.19 |
+|---|---|---|---|---|---|
+| 32 | 14 | 13 | 5 | 43.8% | 87.19 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 3<br>**Aktuelle Serie:** loss (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart\|Bret Hart]] (6x)
-- [[Wrestler/Owen Hart\|Owen Hart]] (4x)
-- [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)
-- [[Wrestler/AJ Styles\|AJ Styles]] (3x)
-- [[Wrestler/Samoa Joe\|Samoa Joe]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (7x)
-- [[Wrestler/The Undertaker\|The Undertaker]] (4x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (4x)
-- [[Wrestler/Cesaro\|Cesaro]] (2x)
-- [[Wrestler/Angélico\|Angélico]] (2x)
-
-## Letzte 5 Matches
-- 2025-05-07: Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 88%
-- 2025-05-07: Sweet 'n Sour Elite vs. Diesel & Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 69%
-- 2025-05-07: Bret Hart & Owen Hart vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 94%
-- 2025-05-07: Saint Rebel Radicalz vs. Path of God in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 82%
-- 2025-05-07: Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 92%
-
-## Top Matches
-- 2020-06-08: Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 99%
-- 2020-06-08: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 98%
-- 2020-09-07: Tournament Finals - Inaugural Choke Slam International Championship in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — 98%
-- 2022-07-24: Militanter Mummenschanz vs. Diesel & Shawn Michaels in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 98%
-- 2023-12-15: Diesel vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 96%
+- [[Wrestler/Bret Hart|Bret Hart]] (8x)
+- [[Wrestler/AJ Styles|AJ Styles]] (6x)
+- [[Wrestler/Big Van Vader|Big Van Vader]] (6x)
+- [[Wrestler/Bob Backlund|Bob Backlund]] (6x)
+- [[Wrestler/Owen Hart|Owen Hart]] (5x)

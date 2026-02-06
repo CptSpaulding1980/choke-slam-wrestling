@@ -1,55 +1,63 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/shawn-michaels/","title":"Shawn Michaels","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/shawn-michaels/
+title: Shawn Michaels
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shawn_Michaels.png
+matches: 30
+wins: 8
+losses: 17
+draws: 5
+win_percent: 26.7
+avg_rating: 90.03
+streaks:
+  longest_win: 2
+  longest_loss: 6
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: Bob Backlund
+  matches: 9
+- name: Big Van Vader
+  matches: 6
+- name: Bret Hart
+  matches: 6
+- name: Triple H
+  matches: 4
+- name: Kurt Angle
+  matches: 4
+championships:
+- title: Choke Slam Tag Team Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2020-06-29'
+  is_current: false
+  duration_days:
+  - 0
 ---
-
 
 # Shawn Michaels
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shawn_Michaels.png" width="280" alt="Shawn Michaels"></td>
-        <td>
-        <b>Height:</b> 185cm<br>
-        <b>Weight:</b> 102kg<br>
-        <b>Finisher:</b> Sweet Chin Music<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shawn_Michaels.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Sweet Chin Music</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 30 | 8 | 17 | 5 | 32.0% | 90.03 |
+|---|---|---|---|---|---|
+| 30 | 8 | 17 | 5 | 26.7% | 90.03 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 6<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** loss (1)
 
+## Titelregentschaften
+| Titel | Vert. | Zuletzt | Aktuell |
+|---|---|---|---|
+| Choke Slam Tag Team Championship | 0 | 2020-06-29 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (5x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (4x)
-- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
-- [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)
-- [[Wrestler/Owen Hart\|Owen Hart]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Chris Hero\|Chris Hero]] (8x)
-- [[Wrestler/Diesel\|Diesel]] (7x)
-- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (5x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (3x)
-- [[Wrestler/Triple H\|Triple H]] (2x)
-
-## Letzte 5 Matches
-- 2025-05-07: Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Win, 88%
-- 2025-05-07: Bret Hart & Owen Hart vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 94%
-- 2025-01-16: Saint Rebel Radicalz vs. Dudes with Attitudes in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 89%
-- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 91%
-- 2023-12-15: Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 93%
-
-## Top Matches
-- 2020-06-29: Choke Slam Tag Team Championship: Shawn Michaels & Triple H vs. Bam Bam Bigelow & Big Van Vader (c) in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 99%
-- 2022-06-28: Submission - Choke Slam World Championship: Shawn Michaels vs. Big Van Vader vs. Bob Backlund (c) in [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] — 99%
-- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
-- 2022-07-24: Militanter Mummenschanz vs. Diesel & Shawn Michaels in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 98%
-- 2020-09-07: Choke Slam Tag Team Championship in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|2020-09-07 - S02E12_ChokeSlamMania II]] — 96%
+- [[Wrestler/Bob Backlund|Bob Backlund]] (9x)
+- [[Wrestler/Big Van Vader|Big Van Vader]] (6x)
+- [[Wrestler/Bret Hart|Bret Hart]] (6x)
+- [[Wrestler/Triple H|Triple H]] (4x)
+- [[Wrestler/Kurt Angle|Kurt Angle]] (4x)

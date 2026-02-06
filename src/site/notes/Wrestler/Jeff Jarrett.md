@@ -1,55 +1,63 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jeff-jarrett/","title":"Jeff Jarrett","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/jeff-jarrett/
+title: Jeff Jarrett
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jeff_Jarrett.png
+matches: 24
+wins: 7
+losses: 14
+draws: 3
+win_percent: 29.2
+avg_rating: 87.71
+streaks:
+  longest_win: 2
+  longest_loss: 8
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Christian Cage
+  matches: 6
+- name: Tetsuya Naito
+  matches: 3
+- name: Madison Rayne
+  matches: 3
+- name: Bob Backlund
+  matches: 3
+- name: Chris Hero
+  matches: 3
+championships:
+- title: Choke Slam Tag Team Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2021-08-23'
+  is_current: false
+  duration_days:
+  - 0
 ---
-
 
 # Jeff Jarrett
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jeff_Jarrett.png" width="280" alt="Jeff Jarrett"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jeff_Jarrett.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 24 | 7 | 14 | 3 | 33.3% | 87.71 |
+|---|---|---|---|---|---|
+| 24 | 7 | 14 | 3 | 29.2% | 87.71 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 8<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** draw (1)
 
+## Titelregentschaften
+| Titel | Vert. | Zuletzt | Aktuell |
+|---|---|---|---|
+| Choke Slam Tag Team Championship | 0 | 2021-08-23 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Christian Cage\|Christian Cage]] (5x)
-- [[Wrestler/Sting\|Sting]] (2x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (2x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
-- [[Wrestler/Chris Hero\|Chris Hero]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Killer Kelly\|Killer Kelly]] (9x)
-- [[Wrestler/Freddie Mercury\|Freddie Mercury]] (3x)
-- [[Wrestler/The Honky Tonk Man\|The Honky Tonk Man]] (3x)
-- [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)
-- [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] (1x)
-
-## Letzte 5 Matches
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Draw, 100%
-- 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 97%
-- 2022-10-02: Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 97%
-- 2022-10-02: Apple Gauntlet 3 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 97%
-- 2022-02-21: Jeff Jarrett & Killer Kelly vs. The Rockers vs. Christian Cage &.Tetsuya Naito (c) in [[Events/2022-02-21 - S04E08_Fan Favourites\|2022-02-21 - S04E08_Fan Favourites]] — Loss, 93%
-
-## Top Matches
-- 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 101%
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
-- 2021-09-06: Consequences Creed vs. Jeff Jarrett in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 98%
-- 2022-01-26: Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 98%
-- 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
+- [[Wrestler/Christian Cage|Christian Cage]] (6x)
+- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (3x)
+- [[Wrestler/Madison Rayne|Madison Rayne]] (3x)
+- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
+- [[Wrestler/Chris Hero|Chris Hero]] (3x)

@@ -1,55 +1,63 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/killer-kelly/","title":"Killer Kelly","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/killer-kelly/
+title: Killer Kelly
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Killer_Kelly.png
+matches: 41
+wins: 11
+losses: 22
+draws: 8
+win_percent: 26.8
+avg_rating: 82.71
+streaks:
+  longest_win: 4
+  longest_loss: 4
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Christian Cage
+  matches: 8
+- name: Chris Hero
+  matches: 7
+- name: Rush
+  matches: 7
+- name: Tetsuya Naito
+  matches: 6
+- name: Madison Rayne
+  matches: 6
+championships:
+- title: Choke Slam Tag Team Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2021-08-23'
+  is_current: false
+  duration_days:
+  - 0
 ---
-
 
 # Killer Kelly
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Killer_Kelly.png" width="280" alt="Killer Kelly"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Killer_Kelly.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 41 | 11 | 22 | 8 | 33.3% | 82.71 |
+|---|---|---|---|---|---|
+| 41 | 11 | 22 | 8 | 26.8% | 82.71 |
 
-**Längste Siegesserie:** 4<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 4<br>**Aktuelle Serie:** draw (1)
 
+## Titelregentschaften
+| Titel | Vert. | Zuletzt | Aktuell |
+|---|---|---|---|
+| Choke Slam Tag Team Championship | 0 | 2021-08-23 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Christian Cage\|Christian Cage]] (5x)
-- [[Wrestler/Becky Lynch\|Becky Lynch]] (3x)
-- [[Wrestler/Chris Hero\|Chris Hero]] (3x)
-- [[Wrestler/Angélico\|Angélico]] (3x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (9x)
-- [[Wrestler/EC3\|EC3]] (6x)
-- [[Wrestler/Kevin Steen\|Kevin Steen]] (4x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
-- [[Wrestler/Dalton Castle\|Dalton Castle]] (3x)
-
-## Letzte 5 Matches
-- 2024-10-22: Killer Kelly & Dalton Castle vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 66%
-- 2024-10-22: Claudio Castagnoli & Pac vs. Killer Kelly & Dalton Castle in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 81%
-- 2024-10-22: Path of God vs. Killer Kelly & Dalton Castle in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 91%
-- 2024-10-22: Dalton Castle & Killer Kelly vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Draw, 75%
-- 2023-12-15: EC3, Killer Kelly & Kevin Steen vs. Becky Lynch, Chris Hero & Angélico in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 65%
-
-## Top Matches
-- 2021-10-17: Randy Savage vs. Killer Kelly vs. Bob Backlund in [[Events/2021-10-17 - S04E03_Saudia Arabia - Aftermath\|2021-10-17 - S04E03_Saudia Arabia - Aftermath]] — 103%
-- 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 101%
-- 2022-01-26: Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 98%
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
-- 2021-11-01: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] — 94%
+- [[Wrestler/Christian Cage|Christian Cage]] (8x)
+- [[Wrestler/Chris Hero|Chris Hero]] (7x)
+- [[Wrestler/Rush|Rush]] (7x)
+- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (6x)
+- [[Wrestler/Madison Rayne|Madison Rayne]] (6x)

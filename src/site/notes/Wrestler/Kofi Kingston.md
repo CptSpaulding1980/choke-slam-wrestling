@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kofi-kingston/","title":"Kofi Kingston","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/kofi-kingston/
+title: Kofi Kingston
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kofi_Kingston.png
+matches: 16
+wins: 4
+losses: 9
+draws: 3
+win_percent: 25.0
+avg_rating: 87.44
+streaks:
+  longest_win: 1
+  longest_loss: 2
+  current:
+    type: win
+    count: 1
+top_opponents:
+- name: Triple H
+  matches: 4
+- name: Dijak
+  matches: 3
+- name: Kevin Steen
+  matches: 2
+- name: Big Kon
+  matches: 2
+- name: Drew Gulak
+  matches: 2
+championships: []
 ---
-
 
 # Kofi Kingston
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kofi_Kingston.png" width="280" alt="Kofi Kingston"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kofi_Kingston.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 16 | 4 | 9 | 3 | 30.8% | 87.44 |
+|---|---|---|---|---|---|
+| 16 | 4 | 9 | 3 | 25.0% | 87.44 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** win (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** win (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H\|Triple H]] (3x)
-- [[Wrestler/Dijak\|Dijak]] (2x)
-- [[Wrestler/EC3\|EC3]] (1x)
-- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
-- [[Wrestler/Ric Flair\|Ric Flair]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Big E\|Big E]] (6x)
-- [[Wrestler/Xavier Woods\|Xavier Woods]] (3x)
-- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)
-- [[Wrestler/Dijak\|Dijak]] (2x)
-- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)
-
-## Letzte 5 Matches
-- 2025-11-18: Billy Gunn & Road Dogg vs. Big E & Kofi Kingston in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 94%
-- 2025-11-18: Big E & Kofi Kingston vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 97%
-- 2025-11-18: Big E & Kofi Kingston vs. Mosh & Thrasher in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 94%
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Draw, 100%
-- 2024-04-10: Charlie Dempsey vs. Kofi Kingston in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — Loss, 79%
-
-## Top Matches
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
-- 2022-10-02: Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
-- 2022-10-02: Saint Rebel Radicalz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 98%
-- 2024-02-15: Dijak vs. Kofi Kingston in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 98%
-- 2025-11-18: Big E & Kofi Kingston vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 97%
+- [[Wrestler/Triple H|Triple H]] (4x)
+- [[Wrestler/Dijak|Dijak]] (3x)
+- [[Wrestler/Kevin Steen|Kevin Steen]] (2x)
+- [[Wrestler/Big Kon|Big Kon]] (2x)
+- [[Wrestler/Drew Gulak|Drew Gulak]] (2x)

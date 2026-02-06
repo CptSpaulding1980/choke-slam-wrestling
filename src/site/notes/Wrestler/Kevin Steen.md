@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/kevin-steen/","title":"Kevin Steen","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/kevin-steen/
+title: Kevin Steen
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kevin_Steen.png
+matches: 34
+wins: 13
+losses: 15
+draws: 6
+win_percent: 38.2
+avg_rating: 86.41
+streaks:
+  longest_win: 6
+  longest_loss: 6
+  current:
+    type: loss
+    count: 2
+top_opponents:
+- name: Big Van Vader
+  matches: 7
+- name: Madison Rayne
+  matches: 5
+- name: Chris Hero
+  matches: 5
+- name: Kurt Angle
+  matches: 5
+- name: Roman Reigns
+  matches: 5
+championships: []
 ---
-
 
 # Kevin Steen
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kevin_Steen.png" width="280" alt="Kevin Steen"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kevin_Steen.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 34 | 13 | 15 | 6 | 46.4% | 86.41 |
+|---|---|---|---|---|---|
+| 34 | 13 | 15 | 6 | 38.2% | 86.41 |
 
-**Längste Siegesserie:** 6<br>**Längste Niederlagenserie:** 6<br>**Aktuelle Serie:** loss (2 in Folge)
+**Längste Siegesserie:** 6<br>**Aktuelle Serie:** loss (2)
 
 
 ## Häufigste Gegner
-- [[Wrestler/The Rock\|The Rock]] (2x)
-- [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)
-- [[Wrestler/Lance Storm\|Lance Storm]] (2x)
-- [[Wrestler/Becky Lynch\|Becky Lynch]] (2x)
-- [[Wrestler/Chris Hero\|Chris Hero]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Killer Kelly\|Killer Kelly]] (4x)
-- [[Wrestler/EC3\|EC3]] (4x)
-- [[Wrestler/Ric Flair\|Ric Flair]] (2x)
-- [[Wrestler/Rush\|Rush]] (1x)
-- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (1x)
-
-## Letzte 5 Matches
-- 2025-10-02: Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — Loss, 100%
-- 2025-08-12: 1/8 Finals: Kevin Steen vs. Roman Reigns in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 102%
-- 2025-08-12: Quarter Finals: Kevin Steen vs. Kensuke Sasaki in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 84%
-- 2025-08-12: Semi Finals: Kevin Steen vs. Lex Luger in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Loss, 97%
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Draw, 100%
-
-## Top Matches
-- 2025-08-12: 1/8 Finals: Kevin Steen vs. Roman Reigns in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 102%
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
-- 2025-10-02: Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] — 100%
-- 2022-10-02: Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
-- 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
+- [[Wrestler/Big Van Vader|Big Van Vader]] (7x)
+- [[Wrestler/Madison Rayne|Madison Rayne]] (5x)
+- [[Wrestler/Chris Hero|Chris Hero]] (5x)
+- [[Wrestler/Kurt Angle|Kurt Angle]] (5x)
+- [[Wrestler/Roman Reigns|Roman Reigns]] (5x)

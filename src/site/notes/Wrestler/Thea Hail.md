@@ -1,55 +1,63 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/thea-hail/","title":"Thea Hail","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/thea-hail/
+title: Thea Hail
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Thea_Hail.png
+matches: 14
+wins: 4
+losses: 6
+draws: 4
+win_percent: 28.6
+avg_rating: 84.0
+streaks:
+  longest_win: 1
+  longest_loss: 4
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Miro
+  matches: 4
+- name: Roman Reigns
+  matches: 4
+- name: Laredo Kid
+  matches: 4
+- name: Bret Hart
+  matches: 3
+- name: Randy Savage
+  matches: 3
+championships:
+- title: Choke Slam Trios Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2024-01-29'
+  is_current: false
+  duration_days:
+  - 0
 ---
-
 
 # Thea Hail
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Thea_Hail.png" width="280" alt="Thea Hail"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Thea_Hail.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 14 | 4 | 6 | 4 | 40.0% | 84.00 |
+|---|---|---|---|---|---|
+| 14 | 4 | 6 | 4 | 28.6% | 84.00 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** draw (1)
 
+## Titelregentschaften
+| Titel | Vert. | Zuletzt | Aktuell |
+|---|---|---|---|
+| Choke Slam Trios Championship | 0 | 2024-01-29 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
-- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (2x)
-- [[Wrestler/Jay White\|Jay White]] (2x)
-- [[Wrestler/Laredo Kid\|Laredo Kid]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Miro\|Miro]] (8x)
-- [[Wrestler/CM Punk\|CM Punk]] (7x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (4x)
-- [[Wrestler/AJ Styles\|AJ Styles]] (3x)
-- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (2x)
-
-## Letzte 5 Matches
-- 2025-01-16: Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Win, 77%
-- 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Draw, 89%
-- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — Draw, 93%
-- 2024-01-29: Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 94%
-- 2024-01-29: Los Jinetes del Aire vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 55%
-
-## Top Matches
-- 2023-10-09: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 103%
-- 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
-- 2024-01-29: Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 96%
-- 2024-01-29: Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 94%
-- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
+- [[Wrestler/Miro|Miro]] (4x)
+- [[Wrestler/Roman Reigns|Roman Reigns]] (4x)
+- [[Wrestler/Laredo Kid|Laredo Kid]] (4x)
+- [[Wrestler/Bret Hart|Bret Hart]] (3x)
+- [[Wrestler/Randy Savage|Randy Savage]] (3x)

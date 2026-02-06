@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/ivelisse/","title":"Ivelisse","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/ivelisse/
+title: Ivelisse
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ivelisse.png
+matches: 19
+wins: 6
+losses: 7
+draws: 6
+win_percent: 31.6
+avg_rating: 83.21
+streaks:
+  longest_win: 3
+  longest_loss: 2
+  current:
+    type: win
+    count: 1
+top_opponents:
+- name: Tetsuya Naito
+  matches: 7
+- name: Brutus Beefcake
+  matches: 7
+- name: Hulk Hogan
+  matches: 5
+- name: Johnny Mundo
+  matches: 4
+- name: Kurt Angle
+  matches: 4
+championships: []
 ---
-
 
 # Ivelisse
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ivelisse.png" width="280" alt="Ivelisse"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ivelisse.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 19 | 6 | 7 | 6 | 46.2% | 83.21 |
+|---|---|---|---|---|---|
+| 19 | 6 | 7 | 6 | 31.6% | 83.21 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** win (1 in Folge)
+**Längste Siegesserie:** 3<br>**Aktuelle Serie:** win (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (2x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
-- [[Wrestler/Joe Coffey\|Joe Coffey]] (2x)
-- [[Wrestler/Kairi Sane\|Kairi Sane]] (2x)
-- [[Wrestler/Cheeseburger\|Cheeseburger]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/The Blade\|The Blade]] (4x)
-- [[Wrestler/The Butcher\|The Butcher]] (4x)
-- [[Wrestler/Angélico\|Angélico]] (4x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (3x)
-- [[Wrestler/Shelton Benjamin\|Shelton Benjamin]] (2x)
-
-## Letzte 5 Matches
-- 2024-10-22: Angelico & Ivelisse vs. Claudio Castagnoli & Pac in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 88%
-- 2024-10-22: Angelico & Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 77%
-- 2024-10-22: Saint Rebel Radicalz vs. Angelico, Ivelisse in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 88%
-- 2024-10-22: Angelico, Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 86%
-- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
-
-## Top Matches
-- 2021-06-15: Submission: Awesome Kong vs. Ivelisse vs. Randy Savage in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 101%
-- 2021-04-15: Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 95%
-- 2021-02-25: Sweet 'n Sour Elite vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|2021-02-25 - S03E06_Swiss Bliss]] — 92%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
-- 2021-04-15: Johnny Mundo vs. Texano Jr. vs. Hulk Hogan vs. Rey Escorpión vs. Tetsuya Naito vs. Christian vs. Taya Valkyrie vs. Brutus Beefcake in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 90%
+- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (7x)
+- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (7x)
+- [[Wrestler/Hulk Hogan|Hulk Hogan]] (5x)
+- [[Wrestler/Johnny Mundo|Johnny Mundo]] (4x)
+- [[Wrestler/Kurt Angle|Kurt Angle]] (4x)

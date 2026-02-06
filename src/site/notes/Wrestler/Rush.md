@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/rush/","title":"Rush","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/rush/
+title: Rush
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rush.png
+matches: 33
+wins: 12
+losses: 15
+draws: 6
+win_percent: 36.4
+avg_rating: 87.06
+streaks:
+  longest_win: 3
+  longest_loss: 3
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Killer Kelly
+  matches: 7
+- name: Joey Janela
+  matches: 5
+- name: Madison Rayne
+  matches: 5
+- name: Christian Cage
+  matches: 5
+- name: Kurt Angle
+  matches: 5
+championships: []
 ---
-
 
 # Rush
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rush.png" width="280" alt="Rush"></td>
-        <td>
-        <b>Height:</b> 185cm<br>
-        <b>Weight:</b> 102kg<br>
-        <b>Finisher:</b> Rush Driver<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rush.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Rush Driver</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 33 | 12 | 15 | 6 | 44.4% | 87.06 |
+|---|---|---|---|---|---|
+| 33 | 12 | 15 | 6 | 36.4% | 87.06 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 3<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Edge\|Edge]] (3x)
-- [[Wrestler/Christian Cage\|Christian Cage]] (2x)
-- [[Wrestler/Killer Kelly\|Killer Kelly]] (2x)
-- [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (2x)
-- [[Wrestler/Franz Schuhmann\|Franz Schuhmann]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
-- [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (4x)
-- [[Wrestler/Marius Al-Ani\|Marius Al-Ani]] (3x)
-- [[Wrestler/Tommy End\|Tommy End]] (3x)
-- [[Wrestler/Triple H\|Triple H]] (2x)
-
-## Letzte 5 Matches
-- 2023-12-15: Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 93%
-- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Tommy End vs. Rush vs. Bret Hart vs. Miro in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 92%
-- 2023-12-15: Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 99%
-- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Draw, 95%
-
-## Top Matches
-- 2022-02-09: Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 101%
-- 2023-12-15: Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 99%
-- 2021-09-06: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 97%
-- 2022-10-02: Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 97%
-- 2022-02-09: Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] — 96%
+- [[Wrestler/Killer Kelly|Killer Kelly]] (7x)
+- [[Wrestler/Joey Janela|Joey Janela]] (5x)
+- [[Wrestler/Madison Rayne|Madison Rayne]] (5x)
+- [[Wrestler/Christian Cage|Christian Cage]] (5x)
+- [[Wrestler/Kurt Angle|Kurt Angle]] (5x)

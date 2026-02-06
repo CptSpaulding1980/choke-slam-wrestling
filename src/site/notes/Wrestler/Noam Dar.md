@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/noam-dar/","title":"Noam Dar","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/noam-dar/
+title: Noam Dar
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Noam_Dar.png
+matches: 11
+wins: 4
+losses: 6
+draws: 1
+win_percent: 36.4
+avg_rating: 88.09
+streaks:
+  longest_win: 2
+  longest_loss: 2
+  current:
+    type: loss
+    count: 2
+top_opponents:
+- name: Miro
+  matches: 5
+- name: Jon Moxley
+  matches: 4
+- name: Seth Rollins
+  matches: 4
+- name: Bret Hart
+  matches: 3
+- name: Hulk Hogan
+  matches: 2
+championships: []
 ---
-
 
 # Noam Dar
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Noam_Dar.png" width="280" alt="Noam Dar"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Noam_Dar.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 11 | 4 | 6 | 1 | 40.0% | 88.09 |
+|---|---|---|---|---|---|
+| 11 | 4 | 6 | 1 | 36.4% | 88.09 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (2 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** loss (2)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Miro\|Miro]] (5x)
-- [[Wrestler/Jon Moxley\|Jon Moxley]] (4x)
-- [[Wrestler/Seth Rollins\|Seth Rollins]] (4x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (5x)
-- [[Wrestler/Jay White\|Jay White]] (4x)
-- [[Wrestler/Bull Nakano\|Bull Nakano]] (3x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
-
-## Letzte 5 Matches
-- 2023-11-03: AJ Styles vs. Sweet 'n Sour Elite in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Draw, 63%
-- 2023-11-03: Hulk Hogan vs. Sweet 'n Sour Elite in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Win, 83%
-- 2023-11-03: Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Win, 92%
-- 2023-11-03: Guardians of the Galaxy 2 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Loss, 81%
-- 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Loss, 94%
-
-## Top Matches
-- 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
-- 2023-10-09: Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
-- 2023-11-03: Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — 94%
-- 2023-08-22: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 93%
-- 2023-08-22: Victoria Doble: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 92%
+- [[Wrestler/Miro|Miro]] (5x)
+- [[Wrestler/Jon Moxley|Jon Moxley]] (4x)
+- [[Wrestler/Seth Rollins|Seth Rollins]] (4x)
+- [[Wrestler/Bret Hart|Bret Hart]] (3x)
+- [[Wrestler/Hulk Hogan|Hulk Hogan]] (2x)

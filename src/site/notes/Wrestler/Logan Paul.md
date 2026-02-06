@@ -1,44 +1,49 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/logan-paul/","title":"Logan Paul","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/logan-paul/
+title: Logan Paul
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Logan_Paul.png
+matches: 2
+wins: 0
+losses: 2
+draws: 0
+win_percent: 0.0
+avg_rating: 90.0
+streaks:
+  longest_win: 0
+  longest_loss: 2
+  current:
+    type: loss
+    count: 2
+top_opponents:
+- name: Triple H
+  matches: 1
+- name: Iron Mike Tyson
+  matches: 1
+- name: EC3
+  matches: 1
+- name: Philipp Brunkovic
+  matches: 1
+championships: []
 ---
-
 
 # Logan Paul
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Logan_Paul.png" width="280" alt="Logan Paul"></td>
-        <td>
-        <b>Height:</b> 189cm<br>
-        <b>Weight:</b> 86kg<br>
-        <b>Finisher:</b> Skull Crushing Finale<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Logan_Paul.png" width="280"></td><td><b>Height:</b> 189cm<br><b>Weight:</b> 86kg<br><b>Finisher:</b> Skull Crushing Finale</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 2 | 0 | 2 | 0 | 0.0% | 90.00 |
 
-**Längste Siegesserie:** 0<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (2 in Folge)
+**Längste Siegesserie:** 0<br>**Aktuelle Serie:** loss (2)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H\|Triple H]] (1x)
-- [[Wrestler/Iron Mike Tyson\|Iron Mike Tyson]] (1x)
-- [[Wrestler/EC3\|EC3]] (1x)
-- [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)
-
-## Letzte 5 Matches
-- 2022-11-17: Triple H & Iron Mike Tyson vs. Shawn Michaels & Logan Paul in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Loss, 89%
-- 2022-11-17: Shawn Michaels & Logan Paul vs. Militanter Mummenschanz in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Loss, 91%
-
-## Top Matches
-- 2022-11-17: Shawn Michaels & Logan Paul vs. Militanter Mummenschanz in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 91%
-- 2022-11-17: Triple H & Iron Mike Tyson vs. Shawn Michaels & Logan Paul in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 89%
+- [[Wrestler/Triple H|Triple H]] (1x)
+- [[Wrestler/Iron Mike Tyson|Iron Mike Tyson]] (1x)
+- [[Wrestler/EC3|EC3]] (1x)
+- [[Wrestler/Philipp Brunkovic|Philipp Brunkovic]] (1x)

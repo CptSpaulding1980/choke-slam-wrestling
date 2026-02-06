@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/big-kon/","title":"Big Kon","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/big-kon/
+title: Big Kon
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Kon.png
+matches: 7
+wins: 2
+losses: 3
+draws: 2
+win_percent: 28.6
+avg_rating: 75.43
+streaks:
+  longest_win: 1
+  longest_loss: 3
+  current:
+    type: win
+    count: 1
+top_opponents:
+- name: Kiana James
+  matches: 3
+- name: Jordynne Grace
+  matches: 2
+- name: Dijak
+  matches: 2
+- name: Drew Gulak
+  matches: 2
+- name: Dusty Rhodes
+  matches: 2
+championships: []
 ---
-
 
 # Big Kon
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Kon.png" width="280" alt="Big Kon"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Kon.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 7 | 2 | 3 | 2 | 40.0% | 75.43 |
+|---|---|---|---|---|---|
+| 7 | 2 | 3 | 2 | 28.6% | 75.43 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** win (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** win (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kiana James\|Kiana James]] (2x)
-- [[Wrestler/Dijak\|Dijak]] (1x)
-- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (1x)
-- [[Wrestler/Kofi Kingston\|Kofi Kingston]] (1x)
-- [[Wrestler/Drew Gulak\|Drew Gulak]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Kiana James\|Kiana James]] (3x)
-- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (2x)
-- [[Wrestler/Triple H\|Triple H]] (1x)
-- [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)
-- [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (1x)
-
-## Letzte 5 Matches
-- 2024-09-09: B: Triple H vs. Claudio Castagnoli in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Win, 83%
-- 2024-03-07: Saint Rebel Radicalz vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 66%
-- 2024-03-07: Saint Rebel Radicalz vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Draw, 58%
-- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — Draw, 93%
-- 2024-02-15: Kiana James vs. Big Kon in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — Loss, 90%
-
-## Top Matches
-- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
-- 2024-02-15: Kiana James vs. Big Kon in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 90%
-- 2024-09-09: B: Triple H vs. Claudio Castagnoli in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — 83%
-- 2024-02-15: Saint Rebel Radicalz vs. Path of God in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 71%
-- 2024-02-15: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 67%
+- [[Wrestler/Kiana James|Kiana James]] (3x)
+- [[Wrestler/Jordynne Grace|Jordynne Grace]] (2x)
+- [[Wrestler/Dijak|Dijak]] (2x)
+- [[Wrestler/Drew Gulak|Drew Gulak]] (2x)
+- [[Wrestler/Dusty Rhodes|Dusty Rhodes]] (2x)

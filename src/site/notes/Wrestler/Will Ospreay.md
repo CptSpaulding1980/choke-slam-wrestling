@@ -1,53 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/will-ospreay/","title":"Will Ospreay","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/will-ospreay/
+title: Will Ospreay
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Will_Ospreay.png
+matches: 10
+wins: 3
+losses: 3
+draws: 4
+win_percent: 30.0
+avg_rating: 82.6
+streaks:
+  longest_win: 2
+  longest_loss: 2
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Bam Bam Bigelow
+  matches: 3
+- name: Samoa Joe
+  matches: 2
+- name: Big Van Vader
+  matches: 2
+- name: Kevin Owens
+  matches: 2
+- name: WALTER
+  matches: 2
+championships: []
 ---
-
 
 # Will Ospreay
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Will_Ospreay.png" width="280" alt="Will Ospreay"></td>
-        <td>
-        <b>Height:</b> 187cm<br>
-        <b>Weight:</b> 105kg<br>
-        <b>Finisher:</b> Storm Breaker<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Will_Ospreay.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 105kg<br><b>Finisher:</b> Storm Breaker</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 10 | 3 | 3 | 4 | 50.0% | 82.60 |
+|---|---|---|---|---|---|
+| 10 | 3 | 3 | 4 | 30.0% | 82.60 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Johnny\|Johnny]] (1x)
-- [[Wrestler/Kenny\|Kenny]] (1x)
-- [[Wrestler/Mikey\|Mikey]] (1x)
-- [[Wrestler/Nicky\|Nicky]] (1x)
-- [[Wrestler/Isaac Yankem\|Isaac Yankem]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Trent Seven\|Trent Seven]] (1x)
-- [[Wrestler/Chyna\|Chyna]] (1x)
-- [[Wrestler/Damian Priest\|Damian Priest]] (1x)
-
-## Letzte 5 Matches
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Draw, 100%
-- 2024-09-09: D: Will Ospreay vs. Roman Reigns in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 57%
-- 2024-09-09: D: Kota Ibushi vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 83%
-- 2024-09-09: D: Toru Yano vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Win, 86%
-- 2024-09-09: D: Gunther vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 58%
-
-## Top Matches
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
-- 2024-03-07: Will Ospreay vs. Isaac Yankem in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 95%
-- 2020-06-08: Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 92%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2020-12-29: William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 88%
+- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (3x)
+- [[Wrestler/Samoa Joe|Samoa Joe]] (2x)
+- [[Wrestler/Big Van Vader|Big Van Vader]] (2x)
+- [[Wrestler/Kevin Owens|Kevin Owens]] (2x)
+- [[Wrestler/WALTER|WALTER]] (2x)

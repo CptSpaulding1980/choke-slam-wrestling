@@ -1,50 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/wolfgang/","title":"Wolfgang","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/wolfgang/
+title: Wolfgang
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wolfgang.png
+matches: 4
+wins: 2
+losses: 1
+draws: 1
+win_percent: 50.0
+avg_rating: 85.25
+streaks:
+  longest_win: 1
+  longest_loss: 1
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Bob Backlund
+  matches: 2
+- name: Rey Fenix
+  matches: 2
+- name: Abdullah The Butcher
+  matches: 2
+- name: Jimmy Snuka
+  matches: 2
+- name: Britt Baker
+  matches: 1
+championships: []
 ---
-
 
 # Wolfgang
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wolfgang.png" width="280" alt="Wolfgang"></td>
-        <td>
-        <b>Height:</b> 186cm<br>
-        <b>Weight:</b> 113kg<br>
-        <b>Finisher:</b> The Howling<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wolfgang.png" width="280"></td><td><b>Height:</b> 186cm<br><b>Weight:</b> 113kg<br><b>Finisher:</b> The Howling</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 4 | 2 | 1 | 1 | 66.7% | 85.25 |
+|---|---|---|---|---|---|
+| 4 | 2 | 1 | 1 | 50.0% | 85.25 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Britt Baker\|Britt Baker]] (1x)
-- [[Wrestler/Killshot\|Killshot]] (1x)
-- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
-- [[Wrestler/Austin Aries\|Austin Aries]] (1x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Joe Coffey\|Joe Coffey]] (3x)
-- [[Wrestler/Mark Coffey\|Mark Coffey]] (3x)
-
-## Letzte 5 Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
-- 2020-12-28: Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — Win, 96%
-- 2020-12-28: Sweet 'n Sour Elite vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — Loss, 74%
-- 2020-12-28: Saint Rebel Radicalz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — Win, 81%
-
-## Top Matches
-- 2020-12-28: Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 96%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2020-12-28: Saint Rebel Radicalz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 81%
-- 2020-12-28: Sweet 'n Sour Elite vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 74%
+- [[Wrestler/Bob Backlund|Bob Backlund]] (2x)
+- [[Wrestler/Rey Fenix|Rey Fenix]] (2x)
+- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
+- [[Wrestler/Britt Baker|Britt Baker]] (1x)

@@ -1,51 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/goldberg/","title":"Goldberg","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/goldberg/
+title: Goldberg
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Goldberg.png
+matches: 7
+wins: 3
+losses: 3
+draws: 1
+win_percent: 42.9
+avg_rating: 81.14
+streaks:
+  longest_win: 2
+  longest_loss: 1
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: Abdullah The Butcher
+  matches: 2
+- name: Jimmy Snuka
+  matches: 2
+- name: Randy Savage
+  matches: 2
+- name: KUSHIDA
+  matches: 2
+- name: Pac
+  matches: 2
+championships: []
 ---
-
 
 # Goldberg
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Goldberg.png" width="280" alt="Goldberg"></td>
-        <td>
-        <b>Height:</b> 193cm<br>
-        <b>Weight:</b> 122kg<br>
-        <b>Finisher:</b> Jackhammer<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Goldberg.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 122kg<br><b>Finisher:</b> Jackhammer</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 7 | 3 | 3 | 1 | 50.0% | 81.14 |
+|---|---|---|---|---|---|
+| 7 | 3 | 3 | 1 | 42.9% | 81.14 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** loss (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/AJ Styles\|AJ Styles]] (1x)
-- [[Wrestler/Pac\|Pac]] (1x)
-- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (1x)
-- [[Wrestler/Gunther\|Gunther]] (1x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Arn Anderson\|Arn Anderson]] (1x)
-
-## Letzte 5 Matches
-- 2024-07-19: North West Division: Jun Akiyama vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 55%
-- 2024-07-19: North West Division: Goldberg vs. Gunther in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 85%
-- 2024-07-19: North West Division: Randy Savage vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 77%
-- 2024-07-19: Wild Card Game 2 - Last Man Standing: Roman Reigns vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 87%
-- 2024-07-19: Northern Championship - Submission: KUSHIDA vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 91%
-
-## Top Matches
-- 2024-07-19: Northern Championship - Submission: KUSHIDA vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 91%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2024-07-19: Wild Card Game 2 - Last Man Standing: Roman Reigns vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 87%
-- 2024-07-19: North West Division: Goldberg vs. Gunther in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 85%
-- 2023-05-30: AJ Styles & Pac vs. Arn Anderson & Goldberg in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 83%
+- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
+- [[Wrestler/Randy Savage|Randy Savage]] (2x)
+- [[Wrestler/KUSHIDA|KUSHIDA]] (2x)
+- [[Wrestler/Pac|Pac]] (2x)

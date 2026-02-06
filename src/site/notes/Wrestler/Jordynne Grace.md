@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jordynne-grace/","title":"Jordynne Grace","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/jordynne-grace/
+title: Jordynne Grace
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jordynne_Grace.png
+matches: 12
+wins: 3
+losses: 6
+draws: 3
+win_percent: 25.0
+avg_rating: 83.83
+streaks:
+  longest_win: 1
+  longest_loss: 2
+  current:
+    type: loss
+    count: 2
+top_opponents:
+- name: Kiana James
+  matches: 4
+- name: Drew Gulak
+  matches: 3
+- name: Jun Akiyama
+  matches: 3
+- name: Masha Slamovich
+  matches: 3
+- name: Shingo Takagi
+  matches: 3
+championships: []
 ---
-
 
 # Jordynne Grace
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jordynne_Grace.png" width="280" alt="Jordynne Grace"></td>
-        <td>
-        <b>Height:</b> 157cm<br>
-        <b>Weight:</b> 69kg<br>
-        <b>Finisher:</b> Juggernaut Driver<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jordynne_Grace.png" width="280"></td><td><b>Height:</b> 157cm<br><b>Weight:</b> 69kg<br><b>Finisher:</b> Juggernaut Driver</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 12 | 3 | 6 | 3 | 33.3% | 83.83 |
+|---|---|---|---|---|---|
+| 12 | 3 | 6 | 3 | 25.0% | 83.83 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (2 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** loss (2)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kiana James\|Kiana James]] (3x)
-- [[Wrestler/Masha Slamovich\|Masha Slamovich]] (2x)
-- [[Wrestler/Drew Gulak\|Drew Gulak]] (2x)
-- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (2x)
-- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Dijak\|Dijak]] (3x)
-- [[Wrestler/Kofi Kingston\|Kofi Kingston]] (3x)
-- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (2x)
-- [[Wrestler/The Undertaker\|The Undertaker]] (1x)
-- [[Wrestler/Masha Slamovich\|Masha Slamovich]] (1x)
-
-## Letzte 5 Matches
-- 2024-07-19: North East Division: Kiana James vs. Jordynne Grace in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 92%
-- 2024-07-19: North East Division: Jordynne Grace vs. Tama Tonga in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 90%
-- 2024-07-19: North East Division: KUSHIDA vs. Jordynne Grace in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 77%
-- 2024-05-27: Jordynne Grace vs. Larry Zbyszko in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|2024-05-27 - S06E04_Die beste Show der Welt]] — Loss, 77%
-- 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — Loss, 103%
-
-## Top Matches
-- 2024-04-10: Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 103%
-- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
-- 2024-07-19: North East Division: Kiana James vs. Jordynne Grace in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 92%
-- 2024-07-19: North East Division: Jordynne Grace vs. Tama Tonga in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 90%
-- 2024-02-15: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 89%
+- [[Wrestler/Kiana James|Kiana James]] (4x)
+- [[Wrestler/Drew Gulak|Drew Gulak]] (3x)
+- [[Wrestler/Jun Akiyama|Jun Akiyama]] (3x)
+- [[Wrestler/Masha Slamovich|Masha Slamovich]] (3x)
+- [[Wrestler/Shingo Takagi|Shingo Takagi]] (3x)

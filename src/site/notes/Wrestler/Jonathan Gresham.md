@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jonathan-gresham/","title":"Jonathan Gresham","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/jonathan-gresham/
+title: Jonathan Gresham
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jonathan_Gresham.png
+matches: 38
+wins: 12
+losses: 17
+draws: 9
+win_percent: 31.6
+avg_rating: 85.92
+streaks:
+  longest_win: 2
+  longest_loss: 4
+  current:
+    type: loss
+    count: 2
+top_opponents:
+- name: Brandon
+  matches: 8
+- name: Miro
+  matches: 8
+- name: Grayson Waller
+  matches: 7
+- name: AJ Styles
+  matches: 7
+- name: Jay White
+  matches: 7
+championships: []
 ---
-
 
 # Jonathan Gresham
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jonathan_Gresham.png" width="280" alt="Jonathan Gresham"></td>
-        <td>
-        <b>Height:</b> 165cm<br>
-        <b>Weight:</b> 73kg<br>
-        <b>Finisher:</b> Octopus Stretch<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jonathan_Gresham.png" width="280"></td><td><b>Height:</b> 165cm<br><b>Weight:</b> 73kg<br><b>Finisher:</b> Octopus Stretch</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 38 | 12 | 17 | 9 | 41.4% | 85.92 |
+|---|---|---|---|---|---|
+| 38 | 12 | 17 | 9 | 31.6% | 85.92 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** loss (2 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** loss (2)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Miro\|Miro]] (5x)
-- [[Wrestler/Grayson Waller\|Grayson Waller]] (4x)
-- [[Wrestler/Seth Rollins\|Seth Rollins]] (4x)
-- [[Wrestler/Brandon\|Brandon]] (3x)
-- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (3x)
-
-## Häufigste Partner
-- [[Wrestler/Jay White\|Jay White]] (12x)
-- [[Wrestler/Miro\|Miro]] (4x)
-- [[Wrestler/Bull Nakano\|Bull Nakano]] (4x)
-- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (4x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (4x)
-
-## Letzte 5 Matches
-- 2025-01-16: Path of God vs. Jonathan Gresham & Jay White in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Loss, 52%
-- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 91%
-- 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 96%
-- 2023-12-15: Jay White vs. Jonathan Gresham vs. KENTA vs. Edge vs. Bret Hart vs. Miro in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 98%
-- 2023-12-15: Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 92%
-
-## Top Matches
-- 2023-02-22: Grayson Waller vs. Jonathan Gresham vs. Miro in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 102%
-- 2023-04-03: William Regal vs. Jonathan Gresham in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 100%
-- 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
-- 2023-12-15: Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 100%
-- 2023-10-09: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 99%
+- [[Wrestler/Brandon|Brandon]] (8x)
+- [[Wrestler/Miro|Miro]] (8x)
+- [[Wrestler/Grayson Waller|Grayson Waller]] (7x)
+- [[Wrestler/AJ Styles|AJ Styles]] (7x)
+- [[Wrestler/Jay White|Jay White]] (7x)

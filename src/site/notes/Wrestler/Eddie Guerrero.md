@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/eddie-guerrero/","title":"Eddie Guerrero","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/eddie-guerrero/
+title: Eddie Guerrero
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Eddie_Guerrero.png
+matches: 11
+wins: 4
+losses: 4
+draws: 3
+win_percent: 36.4
+avg_rating: 86.73
+streaks:
+  longest_win: 3
+  longest_loss: 2
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: Hulk Hogan
+  matches: 4
+- name: Kenny Omega
+  matches: 3
+- name: Miro
+  matches: 3
+- name: AJ Styles
+  matches: 2
+- name: Gigi Dolin
+  matches: 2
+championships: []
 ---
-
 
 # Eddie Guerrero
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Eddie_Guerrero.png" width="280" alt="Eddie Guerrero"></td>
-        <td>
-        <b>Height:</b> 172cm<br>
-        <b>Weight:</b> 100kg<br>
-        <b>Finisher:</b> Frog Splash<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Eddie_Guerrero.png" width="280"></td><td><b>Height:</b> 172cm<br><b>Weight:</b> 100kg<br><b>Finisher:</b> Frog Splash</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 11 | 4 | 4 | 3 | 50.0% | 86.73 |
+|---|---|---|---|---|---|
+| 11 | 4 | 4 | 3 | 36.4% | 86.73 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 3<br>**Aktuelle Serie:** loss (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
-- [[Wrestler/Kenny Omega\|Kenny Omega]] (2x)
-- [[Wrestler/Miro\|Miro]] (2x)
-- [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
-- [[Wrestler/Barry Windham\|Barry Windham]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Gunther\|Gunther]] (5x)
-- [[Wrestler/Bryan Danielson\|Bryan Danielson]] (3x)
-- [[Wrestler/Aero Star\|Aero Star]] (2x)
-- [[Wrestler/Cora Jade\|Cora Jade]] (1x)
-- [[Wrestler/Beer City Bruiser\|Beer City Bruiser]] (1x)
-
-## Letzte 5 Matches
-- 2025-05-07: Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 86%
-- 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Win, 96%
-- 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Win, 92%
-- 2024-01-29: Nature Game Masters  vs. The Shield in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Win, 81%
-- 2023-07-30: Thunder Queen Battle: Hulk Hogan vs. Eddie Guerrero in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — Draw, 63%
-
-## Top Matches
-- 2020-10-26: Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
-- 2020-10-26: Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — 100%
-- 2023-07-30: Thunder Queen Battle: Saint Rebel Radicalz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 100%
-- 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 96%
-- 2023-07-30: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|2023-07-30 - S05E07_What if... Japan]] — 94%
+- [[Wrestler/Hulk Hogan|Hulk Hogan]] (4x)
+- [[Wrestler/Kenny Omega|Kenny Omega]] (3x)
+- [[Wrestler/Miro|Miro]] (3x)
+- [[Wrestler/AJ Styles|AJ Styles]] (2x)
+- [[Wrestler/Gigi Dolin|Gigi Dolin]] (2x)

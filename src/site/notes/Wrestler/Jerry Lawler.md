@@ -1,53 +1,63 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jerry-lawler/","title":"Jerry Lawler","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/jerry-lawler/
+title: Jerry Lawler
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jerry_Lawler.png
+matches: 10
+wins: 3
+losses: 5
+draws: 2
+win_percent: 30.0
+avg_rating: 83.6
+streaks:
+  longest_win: 1
+  longest_loss: 2
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: Randy Orton
+  matches: 4
+- name: Bam Bam Bigelow
+  matches: 3
+- name: Dalton Castle
+  matches: 2
+- name: Bret Hart
+  matches: 2
+- name: AJ Styles
+  matches: 2
+championships:
+- title: Choke Slam World Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2020-06-08'
+  is_current: false
+  duration_days:
+  - 1
 ---
-
 
 # Jerry Lawler
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jerry_Lawler.png" width="280" alt="Jerry Lawler"></td>
-        <td>
-        <b>Height:</b> 184cm<br>
-        <b>Weight:</b> 108kg<br>
-        <b>Finisher:</b> Jumping Piledriver<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jerry_Lawler.png" width="280"></td><td><b>Height:</b> 184cm<br><b>Weight:</b> 108kg<br><b>Finisher:</b> Jumping Piledriver</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 10 | 3 | 5 | 2 | 37.5% | 83.60 |
+|---|---|---|---|---|---|
+| 10 | 3 | 5 | 2 | 30.0% | 83.60 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** loss (1)
 
+## Titelregentschaften
+| Titel | Vert. | Zuletzt | Aktuell |
+|---|---|---|---|
+| Choke Slam World Championship | 0 | 2020-06-08 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Orton\|Randy Orton]] (3x)
-- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
-- [[Wrestler/Ric Flair\|Ric Flair]] (1x)
-- [[Wrestler/Dalton Castle\|Dalton Castle]] (1x)
-- [[Wrestler/Kelly Klein\|Kelly Klein]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/King Corbin\|King Corbin]] (3x)
-- [[Wrestler/Booker T\|Booker T]] (3x)
-- [[Wrestler/Sheamus\|Sheamus]] (3x)
-
-## Letzte 5 Matches
-- 2025-08-12: 1/8 Finals: Jerry Lawler vs. Bam Bam Bigelow in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 91%
-- 2025-08-12: Quarter Finals: Goldust vs. Jerry Lawler in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Loss, 84%
-- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 91%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
-- 2020-06-29: Kings Court vs. Mummenschanz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — Win, 71%
-
-## Top Matches
-- 2020-06-10: Choke Slam World Championship: Randy Orton vs. Jerry Lawler (c) in [[Events/2020-06-10 - S02E10_Dubai - After Show Cash In 2\|2020-06-10 - S02E10_Dubai - After Show Cash In 2]] — 92%
-- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 91%
-- 2025-08-12: 1/8 Finals: Jerry Lawler vs. Bam Bam Bigelow in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 91%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2020-06-09: Choke Slam World Championship: Randy Orton vs. Jerry Lawler (c) in [[Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] — 85%
+- [[Wrestler/Randy Orton|Randy Orton]] (4x)
+- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (3x)
+- [[Wrestler/Dalton Castle|Dalton Castle]] (2x)
+- [[Wrestler/Bret Hart|Bret Hart]] (2x)
+- [[Wrestler/AJ Styles|AJ Styles]] (2x)

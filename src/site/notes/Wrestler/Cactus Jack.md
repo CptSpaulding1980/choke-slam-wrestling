@@ -1,51 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/cactus-jack/","title":"Cactus Jack","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/cactus-jack/
+title: Cactus Jack
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cactus_Jack.png
+matches: 5
+wins: 1
+losses: 4
+draws: 0
+win_percent: 20.0
+avg_rating: 75.2
+streaks:
+  longest_win: 1
+  longest_loss: 4
+  current:
+    type: win
+    count: 1
+top_opponents:
+- name: Rush
+  matches: 1
+- name: Randy Savage
+  matches: 1
+- name: Zack Sabre Jr.
+  matches: 1
+- name: The Rock
+  matches: 1
+- name: Gunther
+  matches: 1
+championships: []
 ---
-
 
 # Cactus Jack
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cactus_Jack.png" width="280" alt="Cactus Jack"></td>
-        <td>
-        <b>Height:</b> 189cm<br>
-        <b>Weight:</b> 131kg<br>
-        <b>Finisher:</b> Double Arm DDT<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cactus_Jack.png" width="280"></td><td><b>Height:</b> 189cm<br><b>Weight:</b> 131kg<br><b>Finisher:</b> Double Arm DDT</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 5 | 1 | 4 | 0 | 20.0% | 75.20 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** win (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** win (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rush\|Rush]] (1x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
-- [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (1x)
-- [[Wrestler/The Rock\|The Rock]] (1x)
-- [[Wrestler/Gunther\|Gunther]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Sheamus\|Sheamus]] (1x)
-
-## Letzte 5 Matches
-- 2025-03-03: Sweet 'n Sour Elite vs. Cactus Jack & Sheamus in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 75%
-- 2024-12-27: Randy Savage vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Loss, 74%
-- 2024-12-27: Zack Sabre Jr. vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Loss, 77%
-- 2024-12-27: Mystery vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — Loss, 60%
-- 2022-11-07: Me, Myself and I - Uno (Hendrik) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Loss, 90%
-
-## Top Matches
-- 2022-11-07: Me, Myself and I - Uno (Hendrik) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 90%
-- 2024-12-27: Zack Sabre Jr. vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 77%
-- 2025-03-03: Sweet 'n Sour Elite vs. Cactus Jack & Sheamus in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — 75%
-- 2024-12-27: Randy Savage vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 74%
-- 2024-12-27: Mystery vs. Cactus Jack in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 60%
+- [[Wrestler/Rush|Rush]] (1x)
+- [[Wrestler/Randy Savage|Randy Savage]] (1x)
+- [[Wrestler/Zack Sabre Jr.|Zack Sabre Jr.]] (1x)
+- [[Wrestler/The Rock|The Rock]] (1x)
+- [[Wrestler/Gunther|Gunther]] (1x)

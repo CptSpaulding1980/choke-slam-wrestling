@@ -1,54 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/sara-del-rey/","title":"Sara Del Rey","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/sara-del-rey/
+title: Sara Del Rey
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sara_Del_Rey.png
+matches: 13
+wins: 2
+losses: 6
+draws: 5
+win_percent: 15.4
+avg_rating: 84.85
+streaks:
+  longest_win: 1
+  longest_loss: 2
+  current:
+    type: win
+    count: 1
+top_opponents:
+- name: Owen Hart
+  matches: 4
+- name: Sid Vicious
+  matches: 4
+- name: Randy Savage
+  matches: 4
+- name: Bret Hart
+  matches: 3
+- name: Kelly Klein
+  matches: 3
+championships: []
 ---
-
 
 # Sara Del Rey
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sara_Del_Rey.png" width="280" alt="Sara Del Rey"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sara_Del_Rey.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 13 | 2 | 6 | 5 | 25.0% | 84.85 |
+|---|---|---|---|---|---|
+| 13 | 2 | 6 | 5 | 15.4% | 84.85 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** win (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** win (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Ryusuke Taguchi\|Ryusuke Taguchi]] (2x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
-- [[Wrestler/Owen Hart\|Owen Hart]] (1x)
-- [[Wrestler/Tatsumi Fujinami\|Tatsumi Fujinami]] (1x)
-- [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Kiana James\|Kiana James]] (4x)
-- [[Wrestler/Mansoor\|Mansoor]] (1x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
-- [[Wrestler/Hammerstone\|Hammerstone]] (1x)
-
-## Letzte 5 Matches
-- 2024-10-22: Saint Rebel Radicalz vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 94%
-- 2024-10-22: Randy Savage vs. Sara Del Rey vs. Ryusuke Taguchi in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 80%
-- 2024-10-22: Saint Rebel Radicalz vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Win, 84%
-- 2024-10-22: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 89%
-- 2024-10-22: Joe Coffey vs. Hammerstone vs. Sara Del Rey in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — Loss, 95%
-
-## Top Matches
-- 2020-06-08: Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 98%
-- 2020-06-08: Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] — 95%
-- 2024-10-22: Joe Coffey vs. Hammerstone vs. Sara Del Rey in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 95%
-- 2024-10-22: Saint Rebel Radicalz vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]] — 94%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — 91%
+- [[Wrestler/Owen Hart|Owen Hart]] (4x)
+- [[Wrestler/Sid Vicious|Sid Vicious]] (4x)
+- [[Wrestler/Randy Savage|Randy Savage]] (4x)
+- [[Wrestler/Bret Hart|Bret Hart]] (3x)
+- [[Wrestler/Kelly Klein|Kelly Klein]] (3x)

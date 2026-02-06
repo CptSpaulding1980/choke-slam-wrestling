@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/booker-t/","title":"Booker T","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/booker-t/
+title: Booker T
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Booker_T.png
+matches: 10
+wins: 3
+losses: 7
+draws: 0
+win_percent: 30.0
+avg_rating: 86.6
+streaks:
+  longest_win: 1
+  longest_loss: 4
+  current:
+    type: win
+    count: 1
+top_opponents:
+- name: Grand Master Sexay
+  matches: 3
+- name: Rikishi
+  matches: 3
+- name: Scotty 2 Hotty
+  matches: 3
+- name: Dalton Castle
+  matches: 1
+- name: Kelly Klein
+  matches: 1
+championships: []
 ---
-
 
 # Booker T
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Booker_T.png" width="280" alt="Booker T"></td>
-        <td>
-        <b>Height:</b> 191cm<br>
-        <b>Weight:</b> 116kg<br>
-        <b>Finisher:</b> Jumping Axe Kick<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Booker_T.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 116kg<br><b>Finisher:</b> Jumping Axe Kick</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 7 | 2 | 5 | 0 | 28.6% | 83.14 |
+|---|---|---|---|---|---|
+| 10 | 3 | 7 | 0 | 30.0% | 86.60 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** win (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Grand Master Sexay\|Grand Master Sexay]] (3x)
-- [[Wrestler/Rikishi\|Rikishi]] (3x)
-- [[Wrestler/Scotty 2 Hotty\|Scotty 2 Hotty]] (3x)
-- [[Wrestler/Dalton Castle\|Dalton Castle]] (1x)
-- [[Wrestler/Kelly Klein\|Kelly Klein]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/King Corbin\|King Corbin]] (3x)
-- [[Wrestler/Jerry Lawler\|Jerry Lawler]] (3x)
-- [[Wrestler/Sheamus\|Sheamus]] (3x)
-- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
-- [[Wrestler/Ric Flair\|Ric Flair]] (1x)
-
-## Letzte 5 Matches
-- 2023-05-30: Jonathan Gresham & Miro vs. Booker T & Kevin Nash in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — Loss, 92%
-- 2022-10-02: Killer Kelly, Ric Flair, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 71%
-- 2022-10-02: Madison Rayne, Rush, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 96%
-- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Win, 99%
-- 2020-06-29: Kings Court vs. Mummenschanz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — Win, 71%
-
-## Top Matches
-- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
-- 2022-10-02: Madison Rayne, Rush, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 96%
-- 2023-05-30: Jonathan Gresham & Miro vs. Booker T & Kevin Nash in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 92%
-- 2020-06-29: Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 77%
-- 2020-06-29: Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] — 76%
+- [[Wrestler/Grand Master Sexay|Grand Master Sexay]] (3x)
+- [[Wrestler/Rikishi|Rikishi]] (3x)
+- [[Wrestler/Scotty 2 Hotty|Scotty 2 Hotty]] (3x)
+- [[Wrestler/Dalton Castle|Dalton Castle]] (1x)
+- [[Wrestler/Kelly Klein|Kelly Klein]] (1x)

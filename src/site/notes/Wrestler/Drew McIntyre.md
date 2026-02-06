@@ -1,47 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/drew-mc-intyre/","title":"Drew McIntyre","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/drew-mcintyre/
+title: Drew McIntyre
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Drew_McIntyre.png
+matches: 4
+wins: 2
+losses: 1
+draws: 1
+win_percent: 50.0
+avg_rating: 83.0
+streaks:
+  longest_win: 2
+  longest_loss: 1
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Kazuchika Okada
+  matches: 2
+- name: Abdullah The Butcher
+  matches: 2
+- name: Jimmy Snuka
+  matches: 2
+- name: Britt Baker
+  matches: 1
+- name: Tetsuya Naito
+  matches: 1
+championships: []
 ---
-
 
 # Drew McIntyre
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Drew_McIntyre.png" width="280" alt="Drew McIntyre"></td>
-        <td>
-        <b>Height:</b> 197cm<br>
-        <b>Weight:</b> 121kg<br>
-        <b>Finisher:</b> Claymore Kick<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Drew_McIntyre.png" width="280"></td><td><b>Height:</b> 197cm<br><b>Weight:</b> 121kg<br><b>Finisher:</b> Claymore Kick</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 4 | 2 | 1 | 1 | 66.7% | 83.00 |
+|---|---|---|---|---|---|
+| 4 | 2 | 1 | 1 | 50.0% | 83.00 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Britt Baker\|Britt Baker]] (1x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
-
-## Häufigste Partner
-Keine bekannten Partner.
-
-## Letzte 5 Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
-- 2020-12-29: Britt Baker vs. Drew McIntyre in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Win, 70%
-- 2020-12-29: Tetsuya Naito vs. Drew McIntyre in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Win, 92%
-- 2020-12-29: Kazuchika Okada vs. Drew McIntyre in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Loss, 80%
-
-## Top Matches
-- 2020-12-29: Tetsuya Naito vs. Drew McIntyre in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 92%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2020-12-29: Kazuchika Okada vs. Drew McIntyre in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 80%
-- 2020-12-29: Britt Baker vs. Drew McIntyre in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 70%
+- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (2x)
+- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
+- [[Wrestler/Britt Baker|Britt Baker]] (1x)
+- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (1x)

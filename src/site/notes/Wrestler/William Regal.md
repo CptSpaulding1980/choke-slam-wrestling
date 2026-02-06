@@ -1,50 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/william-regal/","title":"William Regal","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/william-regal/
+title: William Regal
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/William_Regal.png
+matches: 5
+wins: 1
+losses: 3
+draws: 1
+win_percent: 20.0
+avg_rating: 92.6
+streaks:
+  longest_win: 1
+  longest_loss: 2
+  current:
+    type: loss
+    count: 2
+top_opponents:
+- name: Will Ospreay
+  matches: 1
+- name: El Ligero
+  matches: 1
+- name: Jimmy Havoc
+  matches: 1
+- name: Kazuchika Okada
+  matches: 1
+- name: Wade Barrett
+  matches: 1
+championships: []
 ---
-
 
 # William Regal
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/William_Regal.png" width="280" alt="William Regal"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/William_Regal.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 5 | 1 | 3 | 1 | 25.0% | 92.60 |
+|---|---|---|---|---|---|
+| 5 | 1 | 3 | 1 | 20.0% | 92.60 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (2 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** loss (2)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Wade Barrett\|Wade Barrett]] (1x)
-- [[Wrestler/Tommy End\|Tommy End]] (1x)
-- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
-- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (1x)
-
-## Häufigste Partner
-Keine bekannten Partner.
-
-## Letzte 5 Matches
-- 2025-08-12: 1/8 Finals: Kensuke Sasaki vs. William Regal in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Loss, 97%
-- 2023-04-03: William Regal vs. Jonathan Gresham in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — Loss, 100%
-- 2023-03-29: Carat First Round: William Regal vs. Wade Barrett in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — Loss, 90%
-- 2023-03-29: Loser Round: Tommy End vs. William Regal in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — Win, 88%
-- 2020-12-29: William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — Draw, 88%
-
-## Top Matches
-- 2023-04-03: William Regal vs. Jonathan Gresham in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 100%
-- 2025-08-12: 1/8 Finals: Kensuke Sasaki vs. William Regal in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — 97%
-- 2023-03-29: Carat First Round: William Regal vs. Wade Barrett in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 90%
-- 2020-12-29: William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 88%
-- 2023-03-29: Loser Round: Tommy End vs. William Regal in [[Events/2023-03-29 - S05E03_Europa - Day 2\|2023-03-29 - S05E03_Europa - Day 2]] — 88%
+- [[Wrestler/Will Ospreay|Will Ospreay]] (1x)
+- [[Wrestler/El Ligero|El Ligero]] (1x)
+- [[Wrestler/Jimmy Havoc|Jimmy Havoc]] (1x)
+- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (1x)
+- [[Wrestler/Wade Barrett|Wade Barrett]] (1x)

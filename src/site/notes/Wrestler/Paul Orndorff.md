@@ -1,54 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/paul-orndorff/","title":"Paul Orndorff","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/paul-orndorff/
+title: Paul Orndorff
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Paul_Orndorff.png
+matches: 9
+wins: 0
+losses: 7
+draws: 2
+win_percent: 0.0
+avg_rating: 88.67
+streaks:
+  longest_win: 0
+  longest_loss: 7
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Rey Fenix
+  matches: 4
+- name: Bob Backlund
+  matches: 3
+- name: Kurt Angle
+  matches: 3
+- name: Kazuchika Okada
+  matches: 2
+- name: Kane
+  matches: 2
+championships: []
 ---
-
 
 # Paul Orndorff
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Paul_Orndorff.png" width="280" alt="Paul Orndorff"></td>
-        <td>
-        <b>Height:</b> 185cm<br>
-        <b>Weight:</b> 115kg<br>
-        <b>Finisher:</b> Piledriver<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Paul_Orndorff.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 115kg<br><b>Finisher:</b> Piledriver</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 9 | 0 | 7 | 2 | 0.0% | 88.67 |
 
-**Längste Siegesserie:** 0<br>**Längste Niederlagenserie:** 7<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 0<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killshot\|Killshot]] (2x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
-- [[Wrestler/Britt Baker\|Britt Baker]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (4x)
-- [[Wrestler/Austin Aries\|Austin Aries]] (4x)
-- [[Wrestler/Thunder Rosa\|Thunder Rosa]] (2x)
-- [[Wrestler/Britt Baker\|Britt Baker]] (1x)
-
-## Letzte 5 Matches
-- 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — Draw, 89%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
-- 2021-01-21: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — Loss, 86%
-- 2021-01-21: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — Loss, 91%
-- 2020-10-26: Kurt Angle & Elias vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|2020-10-26 - S03E02_World Tag League]] — Loss, 81%
-
-## Top Matches
-- 2020-10-13: Britt Baker vs. Kazuchika Okada vs. Paul Orndorff in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 95%
-- 2020-10-13: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] — 94%
-- 2021-01-21: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 91%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2021-06-30: Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 89%
+- [[Wrestler/Rey Fenix|Rey Fenix]] (4x)
+- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
+- [[Wrestler/Kurt Angle|Kurt Angle]] (3x)
+- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (2x)
+- [[Wrestler/Kane|Kane]] (2x)

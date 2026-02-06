@@ -1,41 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/rick-rude/","title":"Rick Rude","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/rick-rude/
+title: Rick Rude
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rick_Rude.png
+matches: 2
+wins: 0
+losses: 0
+draws: 2
+win_percent: 0.0
+avg_rating: 92.5
+streaks:
+  longest_win: 0
+  longest_loss: 0
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Abdullah The Butcher
+  matches: 2
+- name: Jimmy Snuka
+  matches: 2
+- name: Shawn Michaels
+  matches: 2
+- name: Sting
+  matches: 2
+- name: Triple H
+  matches: 2
+championships: []
 ---
-
 
 # Rick Rude
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rick_Rude.png" width="280" alt="Rick Rude"></td>
-        <td>
-        <b>Height:</b> 190cm<br>
-        <b>Weight:</b> 114kg<br>
-        <b>Finisher:</b> Rude Awakening<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rick_Rude.png" width="280"></td><td><b>Height:</b> 190cm<br><b>Weight:</b> 114kg<br><b>Finisher:</b> Rude Awakening</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 2 | 0 | 0 | 2 | 0.0% | 92.50 |
 
-**Längste Siegesserie:** 0<br>**Längste Niederlagenserie:** 0<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 0<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-Keine bekannten Gegner.
-
-## Häufigste Partner
-Keine bekannten Partner.
-
-## Letzte 5 Matches
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Draw, 95%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
-
-## Top Matches
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 95%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
+- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
+- [[Wrestler/Shawn Michaels|Shawn Michaels]] (2x)
+- [[Wrestler/Sting|Sting]] (2x)
+- [[Wrestler/Triple H|Triple H]] (2x)

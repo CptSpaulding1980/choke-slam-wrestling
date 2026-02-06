@@ -1,52 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/rick-steiner/","title":"Rick Steiner","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/rick-steiner/
+title: Rick Steiner
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rick_Steiner.png
+matches: 5
+wins: 2
+losses: 2
+draws: 1
+win_percent: 40.0
+avg_rating: 86.4
+streaks:
+  longest_win: 1
+  longest_loss: 1
+  current:
+    type: win
+    count: 1
+top_opponents:
+- name: Abdullah The Butcher
+  matches: 2
+- name: Jimmy Snuka
+  matches: 2
+- name: Christian Cage
+  matches: 2
+- name: Bret Hart
+  matches: 2
+- name: Fit Finlay
+  matches: 2
+championships: []
 ---
-
 
 # Rick Steiner
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rick_Steiner.png" width="280" alt="Rick Steiner"></td>
-        <td>
-        <b>Height:</b> 181cm<br>
-        <b>Weight:</b> 127kg<br>
-        <b>Finisher:</b> Diving Bulldog<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rick_Steiner.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 127kg<br><b>Finisher:</b> Diving Bulldog</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 5 | 2 | 2 | 1 | 50.0% | 86.40 |
+|---|---|---|---|---|---|
+| 5 | 2 | 2 | 1 | 40.0% | 86.40 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** win (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** win (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)
-- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
-- [[Wrestler/Rush\|Rush]] (1x)
-- [[Wrestler/Fit Finlay\|Fit Finlay]] (1x)
-- [[Wrestler/Christian Cage\|Christian Cage]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Sting\|Sting]] (2x)
-- [[Wrestler/Franz Schuhmann\|Franz Schuhmann]] (1x)
-
-## Letzte 5 Matches
-- 2023-05-30: Alexa Bliss & Bret Hart vs. Rick Steiner & Sting in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — Win, 90%
-- 2021-08-23: Militanter Mummenschanz vs. Sting & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Loss, 93%
-- 2021-08-23: Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Win, 92%
-- 2021-08-23: Christian Cage vs. Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — Loss, 67%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — Draw, 90%
-
-## Top Matches
-- 2021-08-23: Militanter Mummenschanz vs. Sting & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 93%
-- 2021-08-23: Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 92%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 90%
-- 2023-05-30: Alexa Bliss & Bret Hart vs. Rick Steiner & Sting in [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] — 90%
-- 2021-08-23: Christian Cage vs. Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] — 67%
+- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
+- [[Wrestler/Christian Cage|Christian Cage]] (2x)
+- [[Wrestler/Bret Hart|Bret Hart]] (2x)
+- [[Wrestler/Fit Finlay|Fit Finlay]] (2x)

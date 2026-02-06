@@ -1,45 +1,46 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/cousin-luke/","title":"Cousin Luke","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/cousin-luke/
+title: Cousin Luke
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cousin_Luke.png
+matches: 3
+wins: 1
+losses: 2
+draws: 0
+win_percent: 33.3
+avg_rating: 78.0
+streaks:
+  longest_win: 1
+  longest_loss: 2
+  current:
+    type: win
+    count: 1
+top_opponents:
+- name: Kevin Steen
+  matches: 1
+- name: Triple H
+  matches: 1
+- name: Aoife Valkyrie
+  matches: 1
+championships: []
 ---
-
 
 # Cousin Luke
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cousin_Luke.png" width="280" alt="Cousin Luke"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cousin_Luke.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 78.00 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** win (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** win (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
-- [[Wrestler/Triple H\|Triple H]] (1x)
-- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
-
-## Häufigste Partner
-Keine bekannten Partner.
-
-## Letzte 5 Matches
-- 2022-01-26: Kevin Steen vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 79%
-- 2022-01-26: Triple H vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Loss, 77%
-- 2022-01-26: Aoife Valkyrie vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — Win, 78%
-
-## Top Matches
-- 2022-01-26: Kevin Steen vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 79%
-- 2022-01-26: Aoife Valkyrie vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 78%
-- 2022-01-26: Triple H vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 77%
+- [[Wrestler/Kevin Steen|Kevin Steen]] (1x)
+- [[Wrestler/Triple H|Triple H]] (1x)
+- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (1x)

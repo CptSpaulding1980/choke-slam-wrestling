@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/ridge-holland/","title":"Ridge Holland","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/ridge-holland/
+title: Ridge Holland
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ridge_Holland.png
+matches: 5
+wins: 0
+losses: 3
+draws: 2
+win_percent: 0.0
+avg_rating: 81.8
+streaks:
+  longest_win: 0
+  longest_loss: 3
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Davey Boy Smith
+  matches: 2
+- name: Sami Zayn
+  matches: 2
+- name: Brody King
+  matches: 2
+- name: Hulk Hogan
+  matches: 2
+- name: Hawk
+  matches: 2
+championships: []
 ---
-
 
 # Ridge Holland
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ridge_Holland.png" width="280" alt="Ridge Holland"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ridge_Holland.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 5 | 0 | 3 | 2 | 0.0% | 81.80 |
 
-**Längste Siegesserie:** 0<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 0<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Brody King\|Brody King]] (2x)
-- [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)
-- [[Wrestler/Sami Zayn\|Sami Zayn]] (1x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
-- [[Wrestler/Hawk\|Hawk]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Brody King\|Brody King]] (2x)
-- [[Wrestler/Sami Zayn\|Sami Zayn]] (1x)
-- [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)
-- [[Wrestler/Hawk\|Hawk]] (1x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
-
-## Letzte 5 Matches
-- 2022-12-16: Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Draw, 79%
-- 2022-12-16: Ridge Holland & Brody King vs. Hulk Hogan & Hawk in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Loss, 76%
-- 2022-12-16: Ridge Holland & Brody King vs. Eddie Edwards & Kenny Omega in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Loss, 97%
-- 2022-12-16: Sami Zayn vs. Davey Boy Smith vs. Brody King vs. Ridge Holland vs. Hawk vs. Hulk Hogan in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Loss, 73%
-- 2022-12-16: Gigi Dolin vs. Grayson Waller vs. Davey Boy Smith vs. Hulk Hogan vs. Sami Zayn vs. Hawk vs. Ridge Holland in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Draw, 84%
-
-## Top Matches
-- 2022-12-16: Ridge Holland & Brody King vs. Eddie Edwards & Kenny Omega in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 97%
-- 2022-12-16: Gigi Dolin vs. Grayson Waller vs. Davey Boy Smith vs. Hulk Hogan vs. Sami Zayn vs. Hawk vs. Ridge Holland in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 84%
-- 2022-12-16: Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 79%
-- 2022-12-16: Ridge Holland & Brody King vs. Hulk Hogan & Hawk in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 76%
-- 2022-12-16: Sami Zayn vs. Davey Boy Smith vs. Brody King vs. Ridge Holland vs. Hawk vs. Hulk Hogan in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — 73%
+- [[Wrestler/Davey Boy Smith|Davey Boy Smith]] (2x)
+- [[Wrestler/Sami Zayn|Sami Zayn]] (2x)
+- [[Wrestler/Brody King|Brody King]] (2x)
+- [[Wrestler/Hulk Hogan|Hulk Hogan]] (2x)
+- [[Wrestler/Hawk|Hawk]] (2x)

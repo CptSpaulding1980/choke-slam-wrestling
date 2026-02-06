@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/colt-cabana/","title":"Colt Cabana","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/colt-cabana/
+title: Colt Cabana
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Colt_Cabana.png
+matches: 5
+wins: 1
+losses: 4
+draws: 0
+win_percent: 20.0
+avg_rating: 93.8
+streaks:
+  longest_win: 1
+  longest_loss: 3
+  current:
+    type: loss
+    count: 3
+top_opponents:
+- name: Fabian Aichner
+  matches: 1
+- name: Marcel Barthel
+  matches: 1
+- name: Austin Aries
+  matches: 1
+- name: Paul Orndorff
+  matches: 1
+- name: Bob Backlund
+  matches: 1
+championships: []
 ---
-
 
 # Colt Cabana
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Colt_Cabana.png" width="280" alt="Colt Cabana"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Colt_Cabana.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 5 | 1 | 4 | 0 | 20.0% | 93.80 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** loss (3 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** loss (3)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Fabian Aichner\|Fabian Aichner]] (1x)
-- [[Wrestler/Marcel Barthel\|Marcel Barthel]] (1x)
-- [[Wrestler/Austin Aries\|Austin Aries]] (1x)
-- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (1x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Killshot\|Killshot]] (3x)
-- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
-- [[Wrestler/Shelton Benjamin\|Shelton Benjamin]] (1x)
-
-## Letzte 5 Matches
-- 2021-04-10: Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — Loss, 100%
-- 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — Loss, 100%
-- 2021-01-21: Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — Loss, 96%
-- 2021-01-21: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — Win, 86%
-- 2021-01-21: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — Loss, 87%
-
-## Top Matches
-- 2021-04-10: Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
-- 2021-04-10: Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|2021-04-10 - S03E07_Aussie Open Resurrection]] — 100%
-- 2021-01-21: Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] — 96%
-- 2021-01-21: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 87%
-- 2021-01-21: Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] — 86%
+- [[Wrestler/Fabian Aichner|Fabian Aichner]] (1x)
+- [[Wrestler/Marcel Barthel|Marcel Barthel]] (1x)
+- [[Wrestler/Austin Aries|Austin Aries]] (1x)
+- [[Wrestler/Paul Orndorff|Paul Orndorff]] (1x)
+- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)

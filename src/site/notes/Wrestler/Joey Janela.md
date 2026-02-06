@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/joey-janela/","title":"Joey Janela","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/joey-janela/
+title: Joey Janela
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Joey_Janela.png
+matches: 20
+wins: 6
+losses: 6
+draws: 8
+win_percent: 30.0
+avg_rating: 89.4
+streaks:
+  longest_win: 2
+  longest_loss: 3
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Johnny Mundo
+  matches: 7
+- name: Kurt Angle
+  matches: 7
+- name: Bob Backlund
+  matches: 7
+- name: Awesome Kong
+  matches: 6
+- name: KENTA
+  matches: 6
+championships: []
 ---
-
 
 # Joey Janela
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Joey_Janela.png" width="280" alt="Joey Janela"></td>
-        <td>
-        <b>Height:</b> 173cm<br>
-        <b>Weight:</b> 84kg<br>
-        <b>Finisher:</b> Package Piledriver<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Joey_Janela.png" width="280"></td><td><b>Height:</b> 173cm<br><b>Weight:</b> 84kg<br><b>Finisher:</b> Package Piledriver</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 20 | 6 | 6 | 8 | 50.0% | 89.40 |
+|---|---|---|---|---|---|
+| 20 | 6 | 6 | 8 | 30.0% | 89.40 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
-- [[Wrestler/Lex Luger\|Lex Luger]] (2x)
-- [[Wrestler/The Butcher\|The Butcher]] (2x)
-- [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] (1x)
-- [[Wrestler/Texano Jr.\|Texano Jr.]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Kane\|Kane]] (3x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (2x)
-- [[Wrestler/Edge\|Edge]] (2x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
-- [[Wrestler/KENTA\|KENTA]] (1x)
-
-## Letzte 5 Matches
-- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
-- 2022-07-24: Sweet 'n Sour Elite vs. Joey Janela, Madison Rayne, Kane, & Edge in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — Win, 84%
-- 2022-07-24: Royal Rumble Match in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — Draw, 92%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Draw, 91%
-- 2021-10-17: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|2021-10-17 - S04E03_Saudi Arabia]] — Draw, 91%
-
-## Top Matches
-- 2021-04-15: Militanter Mummenschanz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|2021-04-15 - S03E08_BYOC Fiesta Mexicana]] — 100%
-- 2021-04-29: Militanter Mummenschanz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
-- 2021-06-30: Choke Slam Tag Team Championship: Joey Janela vs. Kane vs. Bob Backlund vs. Kota Ibushi vs. Christian Cage vs. Tetsuya Naito in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 99%
-- 2021-05-10: Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fenix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] — 96%
-- 2021-06-15: Joey Janela & The Blade vs. Owen Hart & The Butcher in [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] — 95%
+- [[Wrestler/Johnny Mundo|Johnny Mundo]] (7x)
+- [[Wrestler/Kurt Angle|Kurt Angle]] (7x)
+- [[Wrestler/Bob Backlund|Bob Backlund]] (7x)
+- [[Wrestler/Awesome Kong|Awesome Kong]] (6x)
+- [[Wrestler/KENTA|KENTA]] (6x)

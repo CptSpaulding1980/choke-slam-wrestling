@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/davey-boy-smith/","title":"Davey Boy Smith","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/davey-boy-smith/
+title: Davey Boy Smith
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Davey_Boy_Smith.png
+matches: 11
+wins: 4
+losses: 4
+draws: 3
+win_percent: 36.4
+avg_rating: 89.45
+streaks:
+  longest_win: 1
+  longest_loss: 2
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Sami Zayn
+  matches: 2
+- name: Brody King
+  matches: 2
+- name: Kane
+  matches: 1
+- name: Jushin Liger
+  matches: 1
+- name: Austin Aries
+  matches: 1
+championships: []
 ---
-
 
 # Davey Boy Smith
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Davey_Boy_Smith.png" width="280" alt="Davey Boy Smith"></td>
-        <td>
-        <b>Height:</b> 182cm<br>
-        <b>Weight:</b> 118kg<br>
-        <b>Finisher:</b> Running Powerslam<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Davey_Boy_Smith.png" width="280"></td><td><b>Height:</b> 182cm<br><b>Weight:</b> 118kg<br><b>Finisher:</b> Running Powerslam</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 11 | 4 | 4 | 3 | 50.0% | 89.45 |
+|---|---|---|---|---|---|
+| 11 | 4 | 4 | 3 | 36.4% | 89.45 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Sami Zayn\|Sami Zayn]] (2x)
-- [[Wrestler/Brody King\|Brody King]] (2x)
-- [[Wrestler/Kane\|Kane]] (1x)
-- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
-- [[Wrestler/Austin Aries\|Austin Aries]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Dynamite Kid\|Dynamite Kid]] (3x)
-- [[Wrestler/Sami Zayn\|Sami Zayn]] (2x)
-- [[Wrestler/Ridge Holland\|Ridge Holland]] (1x)
-- [[Wrestler/Hawk\|Hawk]] (1x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
-
-## Letzte 5 Matches
-- 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — Draw, 96%
-- 2023-03-29: Davey Boy Smith vs. Axel Tischer in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — Win, 80%
-- 2023-02-22: Brandon vs. Davey Boy Smith vs. Randy Savage in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — Loss, 102%
-- 2022-12-16: Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Draw, 79%
-- 2022-12-16: Hulk Hogan & Hawk vs. Davey Boy Smith & Sami Zayn in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Draw, 85%
-
-## Top Matches
-- 2023-02-22: Brandon vs. Davey Boy Smith vs. Randy Savage in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 102%
-- 2020-12-28: Saint Rebel Radicalz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 100%
-- 2020-12-28: Militanter Mummenschanz vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 98%
-- 2020-12-28: Sweet 'n Sour Elite vs. Davey Boy Smith & Dynamite Kid in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|2020-12-28 - S03E03_Battle of Britain - Night 1]] — 98%
-- 2023-04-03: Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|2023-04-03 - S05E03_Europa - Day 3]] — 96%
+- [[Wrestler/Sami Zayn|Sami Zayn]] (2x)
+- [[Wrestler/Brody King|Brody King]] (2x)
+- [[Wrestler/Kane|Kane]] (1x)
+- [[Wrestler/Jushin Liger|Jushin Liger]] (1x)
+- [[Wrestler/Austin Aries|Austin Aries]] (1x)

@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/chyna/","title":"Chyna","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/chyna/
+title: Chyna
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chyna.png
+matches: 8
+wins: 5
+losses: 1
+draws: 2
+win_percent: 62.5
+avg_rating: 84.5
+streaks:
+  longest_win: 3
+  longest_loss: 1
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Big Van Vader
+  matches: 4
+- name: Madison Rayne
+  matches: 3
+- name: Triple H
+  matches: 3
+- name: Roman Reigns
+  matches: 3
+- name: Tetsuya Naito
+  matches: 3
+championships: []
 ---
-
 
 # Chyna
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chyna.png" width="280" alt="Chyna"></td>
-        <td>
-        <b>Height:</b> 177cm<br>
-        <b>Weight:</b> 82kg<br>
-        <b>Finisher:</b> Low Blow<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chyna.png" width="280"></td><td><b>Height:</b> 177cm<br><b>Weight:</b> 82kg<br><b>Finisher:</b> Low Blow</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 8 | 5 | 1 | 2 | 83.3% | 84.50 |
+|---|---|---|---|---|---|
+| 8 | 5 | 1 | 2 | 62.5% | 84.50 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 3<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
-- [[Wrestler/Triple H\|Triple H]] (1x)
-- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
-- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Big Ryck\|Big Ryck]] (4x)
-- [[Wrestler/Seth Rollins\|Seth Rollins]] (3x)
-- [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)
-- [[Wrestler/Trent Seven\|Trent Seven]] (1x)
-- [[Wrestler/Damian Priest\|Damian Priest]] (1x)
-
-## Letzte 5 Matches
-- 2025-01-16: Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Win, 85%
-- 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — Draw, 89%
-- 2024-03-07: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 77%
-- 2024-03-07: Chyna vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — Win, 82%
-- 2023-12-15: VF3: Big Van Vader, Madison Rayne, & Triple H vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 76%
-
-## Top Matches
-- 2023-12-15: Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 98%
-- 2025-01-16: Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 89%
-- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 88%
-- 2025-01-16: Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe in [[Events/2025-01-16 - S06E10_RoyalNonstop\|2025-01-16 - S06E10_RoyalNonstop]] — 85%
-- 2024-03-07: Chyna vs. Gillberg & The Gobbledy Gooker in [[Events/2024-03-07 - S06E02_Top of the Flops\|2024-03-07 - S06E02_Top of the Flops]] — 82%
+- [[Wrestler/Big Van Vader|Big Van Vader]] (4x)
+- [[Wrestler/Madison Rayne|Madison Rayne]] (3x)
+- [[Wrestler/Triple H|Triple H]] (3x)
+- [[Wrestler/Roman Reigns|Roman Reigns]] (3x)
+- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (3x)

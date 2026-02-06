@@ -1,39 +1,40 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/mike-tyson/","title":"Mike Tyson","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/mike-tyson/
+title: Mike Tyson
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mike_Tyson.png
+matches: 1
+wins: 1
+losses: 0
+draws: 0
+win_percent: 100.0
+avg_rating: 81.0
+streaks:
+  longest_win: 1
+  longest_loss: 0
+  current:
+    type: win
+    count: 1
+top_opponents:
+- name: Akira Taue
+  matches: 1
+championships: []
 ---
-
 
 # Mike Tyson
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mike_Tyson.png" width="280" alt="Mike Tyson"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mike_Tyson.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 1 | 1 | 0 | 0 | 100.0% | 81.00 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 0<br>**Aktuelle Serie:** win (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** win (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Akira Taue\|Akira Taue]] (1x)
-
-## Häufigste Partner
-Keine bekannten Partner.
-
-## Letzte 5 Matches
-- 2025-09-04: Iron Grappling: Mike Tyson vs. Akira Taue in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — Win, 81%
-
-## Top Matches
-- 2025-09-04: Iron Grappling: Mike Tyson vs. Akira Taue in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|2025-09-04 - S07E04_The Iron Chamber - Night 1]] — 81%
+- [[Wrestler/Akira Taue|Akira Taue]] (1x)

@@ -1,55 +1,71 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/brandon/","title":"Brandon","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/brandon/
+title: Brandon
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brandon.png
+matches: 31
+wins: 13
+losses: 10
+draws: 8
+win_percent: 41.9
+avg_rating: 85.87
+streaks:
+  longest_win: 3
+  longest_loss: 3
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: AJ Styles
+  matches: 8
+- name: Jonathan Gresham
+  matches: 7
+- name: Miro
+  matches: 7
+- name: Ludwig Kaiser
+  matches: 6
+- name: Randy Savage
+  matches: 5
+championships:
+- title: Choke Slam Tag Team Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2022-12-16'
+  is_current: false
+  duration_days:
+  - 0
+- title: Choke Slam Trios Championship
+  reigns: 1
+  total_defenses: 1
+  last_win: '2023-05-30'
+  is_current: false
+  duration_days:
+  - 0
 ---
-
 
 # Brandon
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brandon.png" width="280" alt="Brandon"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brandon.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 31 | 13 | 10 | 8 | 56.5% | 85.87 |
+|---|---|---|---|---|---|
+| 31 | 13 | 10 | 8 | 41.9% | 85.87 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 3<br>**Aktuelle Serie:** loss (1)
 
+## Titelregentschaften
+| Titel | Vert. | Zuletzt | Aktuell |
+|---|---|---|---|
+| Choke Slam Tag Team Championship | 0 | 2022-12-16 |  |
+| Choke Slam Trios Championship | 1 | 2023-05-30 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (4x)
-- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (3x)
-- [[Wrestler/Bull Nakano\|Bull Nakano]] (3x)
-- [[Wrestler/Miro\|Miro]] (3x)
-- [[Wrestler/Ikemen Jiro\|Ikemen Jiro]] (3x)
-
-## Häufigste Partner
-- [[Wrestler/Grayson Waller\|Grayson Waller]] (7x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (5x)
-- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (4x)
-- [[Wrestler/Miro\|Miro]] (3x)
-- [[Wrestler/Kenny Omega\|Kenny Omega]] (3x)
-
-## Letzte 5 Matches
-- 2024-01-29: Money in the Bank No Ladder Match in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Win, 90%
-- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 91%
-- 2024-01-29: Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 96%
-- 2023-12-15: Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 85%
-- 2023-11-03: Dune (2 vs 4 Handicap): Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]] — Win, 86%
-
-## Top Matches
-- 2023-03-29: Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 104%
-- 2023-02-22: Brandon vs. Davey Boy Smith vs. Randy Savage in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 102%
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] — 100%
-- 2023-08-22: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|2023-08-22 - S05E08_Dia de los Muertos]] — 100%
-- 2023-02-22: Tag Team Title Battle Royal in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 98%
+- [[Wrestler/AJ Styles|AJ Styles]] (8x)
+- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (7x)
+- [[Wrestler/Miro|Miro]] (7x)
+- [[Wrestler/Ludwig Kaiser|Ludwig Kaiser]] (6x)
+- [[Wrestler/Randy Savage|Randy Savage]] (5x)

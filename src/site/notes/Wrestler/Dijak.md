@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/dijak/","title":"Dijak","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/dijak/
+title: Dijak
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dijak.png
+matches: 23
+wins: 7
+losses: 13
+draws: 3
+win_percent: 30.4
+avg_rating: 82.61
+streaks:
+  longest_win: 3
+  longest_loss: 4
+  current:
+    type: loss
+    count: 3
+top_opponents:
+- name: Hiroshi Tanahashi
+  matches: 4
+- name: Dusty Rhodes
+  matches: 4
+- name: Jun Akiyama
+  matches: 4
+- name: Triple H
+  matches: 4
+- name: Laredo Kid
+  matches: 3
+championships: []
 ---
-
 
 # Dijak
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dijak.png" width="280" alt="Dijak"></td>
-        <td>
-        <b>Height:</b> 201cm<br>
-        <b>Weight:</b> 123kg<br>
-        <b>Finisher:</b> Feast Your Eyes<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dijak.png" width="280"></td><td><b>Height:</b> 201cm<br><b>Weight:</b> 123kg<br><b>Finisher:</b> Feast Your Eyes</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 23 | 7 | 13 | 3 | 35.0% | 82.61 |
+|---|---|---|---|---|---|
+| 23 | 7 | 13 | 3 | 30.4% | 82.61 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 4<br>**Aktuelle Serie:** loss (3 in Folge)
+**Längste Siegesserie:** 3<br>**Aktuelle Serie:** loss (3)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kofi Kingston\|Kofi Kingston]] (2x)
-- [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] (2x)
-- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (2x)
-- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (2x)
-- [[Wrestler/Triple H\|Triple H]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)
-- [[Wrestler/Kofi Kingston\|Kofi Kingston]] (2x)
-- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)
-- [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
-- [[Wrestler/Gunther\|Gunther]] (1x)
-
-## Letzte 5 Matches
-- 2024-09-09: B: Joe Coffey vs. Dijak in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Win, 78%
-- 2024-09-09: B: Dijak vs. Triple H in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 85%
-- 2024-09-09: B: Claudio Castagnoli vs. Dijak in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 78%
-- 2024-09-09: B: Dijak vs. Masahiro Chono in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] — Loss, 83%
-- 2024-07-19: South East Division: Hiroshi Tanahashi vs. Dijak in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 66%
-
-## Top Matches
-- 2024-02-15: Dijak vs. Kofi Kingston in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 98%
-- 2024-02-15: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|2024-02-15 - S06E01_Welcome to Ta'if]] — 93%
-- 2024-04-10: Trios Royal Rumble in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
-- 2024-04-10: Losrer Round 5: Triple H vs. Dijak in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 93%
-- 2024-04-10: Dusty Rhodes vs. Dijak in [[2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 91%
+- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (4x)
+- [[Wrestler/Dusty Rhodes|Dusty Rhodes]] (4x)
+- [[Wrestler/Jun Akiyama|Jun Akiyama]] (4x)
+- [[Wrestler/Triple H|Triple H]] (4x)
+- [[Wrestler/Laredo Kid|Laredo Kid]] (3x)

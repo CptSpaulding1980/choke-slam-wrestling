@@ -1,51 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/sol-ruca/","title":"Sol Ruca","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/sol-ruca/
+title: Sol Ruca
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sol_Ruca.png
+matches: 3
+wins: 0
+losses: 2
+draws: 1
+win_percent: 0.0
+avg_rating: 89.0
+streaks:
+  longest_win: 0
+  longest_loss: 1
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: "Ang\xE9lico"
+  matches: 2
+- name: Becky Lynch
+  matches: 2
+- name: Chris Hero
+  matches: 2
+- name: EC3
+  matches: 2
+- name: Brutus Beefcake
+  matches: 2
+championships: []
 ---
-
 
 # Sol Ruca
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sol_Ruca.png" width="280" alt="Sol Ruca"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sol_Ruca.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 3 | 0 | 2 | 1 | 0.0% | 89.00 |
 
-**Längste Siegesserie:** 0<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 0<br>**Aktuelle Serie:** loss (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Angélico\|Angélico]] (1x)
-- [[Wrestler/Becky Lynch\|Becky Lynch]] (1x)
-- [[Wrestler/Chris Hero\|Chris Hero]] (1x)
-- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)
-- [[Wrestler/Tiffany Stratton\|Tiffany Stratton]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Razor Ramon\|Razor Ramon]] (1x)
-- [[Wrestler/Brandon\|Brandon]] (1x)
-- [[Wrestler/Seth Rollins\|Seth Rollins]] (1x)
-- [[Wrestler/Thea Hail\|Thea Hail]] (1x)
-- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (1x)
-
-## Letzte 5 Matches
-- 2024-01-29: Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 94%
-- 2023-12-15: Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 85%
-- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
-
-## Top Matches
-- 2024-01-29: Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 94%
-- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 88%
-- 2023-12-15: Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 85%
+- [[Wrestler/Angélico|Angélico]] (2x)
+- [[Wrestler/Becky Lynch|Becky Lynch]] (2x)
+- [[Wrestler/Chris Hero|Chris Hero]] (2x)
+- [[Wrestler/EC3|EC3]] (2x)
+- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (2x)

@@ -1,55 +1,71 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/walter/","title":"WALTER","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/walter/
+title: WALTER
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/WALTER.png
+matches: 13
+wins: 6
+losses: 3
+draws: 4
+win_percent: 46.2
+avg_rating: 94.23
+streaks:
+  longest_win: 3
+  longest_loss: 1
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: Big Van Vader
+  matches: 4
+- name: Sting
+  matches: 4
+- name: Bob Backlund
+  matches: 3
+- name: Madison Rayne
+  matches: 3
+- name: Samoa Joe
+  matches: 2
+championships:
+- title: Choke Slam International Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2022-11-17'
+  is_current: false
+  duration_days:
+  - 0
+- title: Choke Slam International Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2022-12-16'
+  is_current: false
+  duration_days:
+  - 68
 ---
-
 
 # WALTER
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/WALTER.png" width="280" alt="WALTER"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/WALTER.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 13 | 6 | 3 | 4 | 66.7% | 94.23 |
+|---|---|---|---|---|---|
+| 13 | 6 | 3 | 4 | 46.2% | 94.23 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 3<br>**Aktuelle Serie:** loss (1)
 
+## Titelregentschaften
+| Titel | Vert. | Zuletzt | Aktuell |
+|---|---|---|---|
+| Choke Slam International Championship | 0 | 2022-11-17 |  |
+| Choke Slam International Championship | 0 | 2022-12-16 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
-- [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)
-- [[Wrestler/Marius Al-Ani\|Marius Al-Ani]] (1x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
-- [[Wrestler/Chris Hero\|Chris Hero]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Robert Dreissker\|Robert Dreissker]] (3x)
-- [[Wrestler/Ric Flair\|Ric Flair]] (1x)
-- [[Wrestler/Triple H\|Triple H]] (1x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
-- [[Wrestler/Sting\|Sting]] (1x)
-
-## Letzte 5 Matches
-- 2023-02-22: Choke Slam Hardcore Championship: Miro vs. Ludwig Kaiser vs. Hulk Hogan vs. WALTER in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — Loss, 99%
-- 2022-12-16: Choke Slam Hardcore Championship: Randy Savage vs. Brody King vs. WALTER (c) in [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] — Win, 79%
-- 2022-11-17: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Draw, 95%
-- 2022-11-17: Hardcore Title Tournament: WALTER vs. Sting in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Win, 95%
-- 2022-11-17: Hardcore Title Tournament Finals - Hardcore Championship: WALTER vs. Lance Storm (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Win, 100%
-
-## Top Matches
-- 2022-01-26: Saint Rebel Radicalz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 100%
-- 2022-11-17: Hardcore Title Tournament Finals - Hardcore Championship: WALTER vs. Lance Storm (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 100%
-- 2023-02-22: Choke Slam Hardcore Championship: Miro vs. Ludwig Kaiser vs. Hulk Hogan vs. WALTER in [[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]] — 99%
-- 2022-01-26: Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|2022-01-26 - S04E06_Olympia]] — 98%
-- 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 98%
+- [[Wrestler/Big Van Vader|Big Van Vader]] (4x)
+- [[Wrestler/Sting|Sting]] (4x)
+- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
+- [[Wrestler/Madison Rayne|Madison Rayne]] (3x)
+- [[Wrestler/Samoa Joe|Samoa Joe]] (2x)

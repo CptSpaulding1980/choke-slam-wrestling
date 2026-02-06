@@ -1,55 +1,63 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/fit-finlay/","title":"Fit Finlay","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/fit-finlay/
+title: Fit Finlay
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Fit_Finlay.png
+matches: 21
+wins: 3
+losses: 11
+draws: 7
+win_percent: 14.3
+avg_rating: 90.1
+streaks:
+  longest_win: 1
+  longest_loss: 3
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: Edge
+  matches: 4
+- name: Eddie Edwards
+  matches: 4
+- name: Wardlow
+  matches: 4
+- name: Kurt Angle
+  matches: 3
+- name: Bob Backlund
+  matches: 3
+championships:
+- title: Choke Slam Trios Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2025-08-12'
+  is_current: false
+  duration_days:
+  - 0
 ---
-
 
 # Fit Finlay
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Fit_Finlay.png" width="280" alt="Fit Finlay"></td>
-        <td>
-        <b>Height:</b> 187cm<br>
-        <b>Weight:</b> 106kg<br>
-        <b>Finisher:</b> Tombstone Piledriver<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Fit_Finlay.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 106kg<br><b>Finisher:</b> Tombstone Piledriver</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 21 | 3 | 11 | 7 | 21.4% | 90.10 |
+|---|---|---|---|---|---|
+| 21 | 3 | 11 | 7 | 14.3% | 90.10 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** loss (1)
 
+## Titelregentschaften
+| Titel | Vert. | Zuletzt | Aktuell |
+|---|---|---|---|
+| Choke Slam Trios Championship | 0 | 2025-08-12 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Wardlow\|Wardlow]] (2x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (2x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
-- [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] (1x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Charlotte Flair\|Charlotte Flair]] (2x)
-- [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (2x)
-- [[Wrestler/Bandido\|Bandido]] (2x)
-- [[Wrestler/Rush\|Rush]] (1x)
-- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)
-
-## Letzte 5 Matches
-- 2025-08-21: Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Draw, 85%
-- 2025-08-21: Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — Loss, 102%
-- 2025-08-12: Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Los Jinetes del Aire (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Win, 92%
-- 2025-08-12: Choke Slam Trios Championship: Militanter Mummenschanz vs. Sweet 'n Sour Elite (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] — Loss, 92%
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — Draw, 100%
-
-## Top Matches
-- 2020-12-29: Bob Backlund vs. Fit Finlay in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|2020-12-29 - S03E03_Battle of Britain - Night 2]] — 102%
-- 2025-08-21: Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 102%
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 100%
-- 2025-06-03: Street Fight: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] — 98%
-- 2021-09-06: Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]] — 97%
+- [[Wrestler/Edge|Edge]] (4x)
+- [[Wrestler/Eddie Edwards|Eddie Edwards]] (4x)
+- [[Wrestler/Wardlow|Wardlow]] (4x)
+- [[Wrestler/Kurt Angle|Kurt Angle]] (3x)
+- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)

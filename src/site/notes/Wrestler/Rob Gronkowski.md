@@ -1,50 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/rob-gronkowski/","title":"Rob Gronkowski","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/rob-gronkowski/
+title: Rob Gronkowski
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rob_Gronkowski.png
+matches: 3
+wins: 1
+losses: 2
+draws: 0
+win_percent: 33.3
+avg_rating: 80.33
+streaks:
+  longest_win: 1
+  longest_loss: 1
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: Laredo Kid
+  matches: 1
+- name: Randy Savage
+  matches: 1
+- name: Triple H
+  matches: 1
+- name: KUSHIDA
+  matches: 1
+- name: Gunther
+  matches: 1
+championships: []
 ---
-
 
 # Rob Gronkowski
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rob_Gronkowski.png" width="280" alt="Rob Gronkowski"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rob_Gronkowski.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 80.33 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** loss (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
-- [[Wrestler/Triple H\|Triple H]] (1x)
-- [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
-- [[Wrestler/Gunther\|Gunther]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Jim Duggan\|Jim Duggan]] (3x)
-- [[Wrestler/Ron Simmons\|Ron Simmons]] (1x)
-- [[Wrestler/Gable Steveson\|Gable Steveson]] (1x)
-- [[Wrestler/Moose\|Moose]] (1x)
-
-## Letzte 5 Matches
-- 2024-07-19: Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 73%
-- 2024-07-19: Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Win, 80%
-- 2024-07-19: Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — Loss, 88%
-
-## Top Matches
-- 2024-07-19: Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 88%
-- 2024-07-19: Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 80%
-- 2024-07-19: Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|2024-07-19 - S06E05_Super Bowl of Wrestling]] — 73%
+- [[Wrestler/Laredo Kid|Laredo Kid]] (1x)
+- [[Wrestler/Randy Savage|Randy Savage]] (1x)
+- [[Wrestler/Triple H|Triple H]] (1x)
+- [[Wrestler/KUSHIDA|KUSHIDA]] (1x)
+- [[Wrestler/Gunther|Gunther]] (1x)

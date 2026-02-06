@@ -1,55 +1,53 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/finn-balor/","title":"Finn Bálor","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/finn-blor/
+title: "Finn B\xE1lor"
+type: wrestler
+tags:
+- wrestler
+img: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Finn_B\xE1\
+  lor.png"
+matches: 18
+wins: 9
+losses: 7
+draws: 2
+win_percent: 50.0
+avg_rating: 85.61
+streaks:
+  longest_win: 3
+  longest_loss: 3
+  current:
+    type: win
+    count: 1
+top_opponents:
+- name: Laredo Kid
+  matches: 5
+- name: Kiana James
+  matches: 4
+- name: Gunther
+  matches: 3
+- name: Joe Hendry
+  matches: 3
+- name: Tatum Paxley
+  matches: 3
+championships: []
 ---
-
 
 # Finn Bálor
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Finn_Bálor.png" width="280" alt="Finn Bálor"></td>
-        <td>
-        <b>Height:</b> 181cm<br>
-        <b>Weight:</b> 87kg<br>
-        <b>Finisher:</b> Coup de Gráce<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Finn_Bálor.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 87kg<br><b>Finisher:</b> Coup de Gráce</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 15 | 8 | 5 | 2 | 61.5% | 84.53 |
+|---|---|---|---|---|---|
+| 18 | 9 | 7 | 2 | 50.0% | 85.61 |
 
-**Längste Siegesserie:** 3<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 3<br>**Aktuelle Serie:** win (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid\|Laredo Kid]] (4x)
-- [[Wrestler/Kiana James\|Kiana James]] (3x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
-- [[Wrestler/Gunther\|Gunther]] (2x)
-- [[Wrestler/Joe Hendry\|Joe Hendry]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Fallon Henley\|Fallon Henley]] (6x)
-- [[Wrestler/KUSHIDA\|KUSHIDA]] (4x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (4x)
-- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (3x)
-- [[Wrestler/The Undertaker\|The Undertaker]] (2x)
-
-## Letzte 5 Matches
-- 2025-05-07: Choke Slam International Championship: Bret Hart vs. Finn Bálor vs. The Undertaker vs. Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] — Loss, 85%
-- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Loss, 73%
-- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 89%
-- 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 86%
-- 2025-03-03: Finn Bálor vs. Bandido in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] — Win, 78%
-
-## Top Matches
-- 2024-10-22: Saint Rebel Radicalz vs. Finn Bálor & The Undertaker in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 99%
-- 2024-12-27: Finn Bálor vs. Tatum Paxley vs. Triple H in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition]] — 97%
-- 2020-12-28: Killshot vs. Bob Backlund vs. Sgt. Slaughter vs. Sheamus  vs. Finn Bálor in [[Events/2020-12-28 - S03E03_Battle of Britain - Pre Show\|2020-12-28 - S03E03_Battle of Britain - Pre Show]] — 95%
-- 2024-10-22: Path of God vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
-- 2024-10-22: Path of God vs. Saint Rebel Radicalz in [[Events/2024-10-22 - S06E08_Changes II\|2024-10-22 - S06E08_Changes II]] — 94%
+- [[Wrestler/Laredo Kid|Laredo Kid]] (5x)
+- [[Wrestler/Kiana James|Kiana James]] (4x)
+- [[Wrestler/Gunther|Gunther]] (3x)
+- [[Wrestler/Joe Hendry|Joe Hendry]] (3x)
+- [[Wrestler/Tatum Paxley|Tatum Paxley]] (3x)

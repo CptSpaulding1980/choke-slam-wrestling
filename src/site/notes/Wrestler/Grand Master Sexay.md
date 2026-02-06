@@ -1,48 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/grand-master-sexay/","title":"Grand Master Sexay","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/grand-master-sexay/
+title: Grand Master Sexay
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Grand_Master_Sexay.png
+matches: 3
+wins: 2
+losses: 1
+draws: 0
+win_percent: 66.7
+avg_rating: 88.67
+streaks:
+  longest_win: 2
+  longest_loss: 1
+  current:
+    type: loss
+    count: 1
+top_opponents:
+- name: Booker T
+  matches: 3
+- name: Killer Kelly
+  matches: 1
+- name: Ric Flair
+  matches: 1
+- name: Madison Rayne
+  matches: 1
+- name: Rush
+  matches: 1
+championships: []
 ---
-
 
 # Grand Master Sexay
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Grand_Master_Sexay.png" width="280" alt="Grand Master Sexay"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Grand_Master_Sexay.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 3 | 2 | 1 | 0 | 66.7% | 88.67 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 1<br>**Aktuelle Serie:** loss (1 in Folge)
+**Längste Siegesserie:** 2<br>**Aktuelle Serie:** loss (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Booker T\|Booker T]] (3x)
-- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
-- [[Wrestler/Ric Flair\|Ric Flair]] (1x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
-- [[Wrestler/Rush\|Rush]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Rikishi\|Rikishi]] (3x)
-- [[Wrestler/Scotty 2 Hotty\|Scotty 2 Hotty]] (3x)
-
-## Letzte 5 Matches
-- 2022-10-02: Killer Kelly, Ric Flair, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Win, 71%
-- 2022-10-02: Madison Rayne, Rush, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Win, 96%
-- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — Loss, 99%
-
-## Top Matches
-- 2022-10-02: Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 99%
-- 2022-10-02: Madison Rayne, Rush, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 96%
-- 2022-10-02: Killer Kelly, Ric Flair, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] — 71%
+- [[Wrestler/Booker T|Booker T]] (3x)
+- [[Wrestler/Killer Kelly|Killer Kelly]] (1x)
+- [[Wrestler/Ric Flair|Ric Flair]] (1x)
+- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
+- [[Wrestler/Rush|Rush]] (1x)

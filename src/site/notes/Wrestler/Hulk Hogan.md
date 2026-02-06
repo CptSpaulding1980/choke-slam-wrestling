@@ -1,55 +1,103 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/hulk-hogan/","title":"Hulk Hogan","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/hulk-hogan/
+title: Hulk Hogan
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hulk_Hogan.png
+matches: 71
+wins: 34
+losses: 25
+draws: 12
+win_percent: 47.9
+avg_rating: 86.83
+streaks:
+  longest_win: 8
+  longest_loss: 3
+  current:
+    type: loss
+    count: 3
+top_opponents:
+- name: Bret Hart
+  matches: 12
+- name: Ludwig Kaiser
+  matches: 9
+- name: Randy Savage
+  matches: 8
+- name: AJ Styles
+  matches: 7
+- name: Miro
+  matches: 7
+championships:
+- title: Choke Slam Tag Team Championship
+  reigns: 1
+  total_defenses: 2
+  last_win: '2023-02-22'
+  is_current: false
+  duration_days:
+  - 56
+- title: Choke Slam Trios Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2023-05-30'
+  is_current: false
+  duration_days:
+  - 0
+- title: Choke Slam World Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2023-05-30'
+  is_current: false
+  duration_days:
+  - 27
+- title: Choke Slam World Championship
+  reigns: 1
+  total_defenses: 1
+  last_win: '2023-08-22'
+  is_current: false
+  duration_days:
+  - 48
+- title: Choke Slam World Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2023-10-09'
+  is_current: false
+  duration_days:
+  - 25
+- title: Choke Slam World Championship
+  reigns: 1
+  total_defenses: 0
+  last_win: '2023-12-15'
+  is_current: false
+  duration_days:
+  - 45
 ---
-
 
 # Hulk Hogan
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hulk_Hogan.png" width="280" alt="Hulk Hogan"></td>
-        <td>
-        <b>Height:</b> 201cm<br>
-        <b>Weight:</b> 137kg<br>
-        <b>Finisher:</b> Atomic Leg Drop<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hulk_Hogan.png" width="280"></td><td><b>Height:</b> 201cm<br><b>Weight:</b> 137kg<br><b>Finisher:</b> Atomic Leg Drop</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 71 | 34 | 25 | 12 | 57.6% | 86.83 |
+|---|---|---|---|---|---|
+| 71 | 34 | 25 | 12 | 47.9% | 86.83 |
 
-**Längste Siegesserie:** 8<br>**Längste Niederlagenserie:** 3<br>**Aktuelle Serie:** loss (3 in Folge)
+**Längste Siegesserie:** 8<br>**Aktuelle Serie:** loss (3)
 
+## Titelregentschaften
+| Titel | Vert. | Zuletzt | Aktuell |
+|---|---|---|---|
+| Choke Slam Tag Team Championship | 2 | 2023-02-22 |  |
+| Choke Slam Trios Championship | 0 | 2023-05-30 |  |
+| Choke Slam World Championship | 0 | 2023-05-30 |  |
+| Choke Slam World Championship | 1 | 2023-08-22 |  |
+| Choke Slam World Championship | 0 | 2023-10-09 |  |
+| Choke Slam World Championship | 0 | 2023-12-15 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart\|Bret Hart]] (8x)
-- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (6x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (4x)
-- [[Wrestler/Miro\|Miro]] (4x)
-- [[Wrestler/AJ Styles\|AJ Styles]] (3x)
-
-## Häufigste Partner
-- [[Wrestler/Brandon\|Brandon]] (5x)
-- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (5x)
-- [[Wrestler/Kenny Omega\|Kenny Omega]] (4x)
-- [[Wrestler/Hawk\|Hawk]] (3x)
-- [[Wrestler/Grayson Waller\|Grayson Waller]] (3x)
-
-## Letzte 5 Matches
-- 2024-01-29: Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 96%
-- 2024-01-29: Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 96%
-- 2024-01-29: Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Loss, 102%
-- 2023-12-15: Diesel vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Win, 96%
-- 2023-12-15: Big Van Vader vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 63%
-
-## Top Matches
-- 2021-06-30: Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 105%
-- 2021-06-30: Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 104%
-- 2024-01-29: Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — 102%
-- 2023-10-09: Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] — 101%
-- 2021-04-29: Hulk Hogan vs. Jim Duggan in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold]] — 100%
+- [[Wrestler/Bret Hart|Bret Hart]] (12x)
+- [[Wrestler/Ludwig Kaiser|Ludwig Kaiser]] (9x)
+- [[Wrestler/Randy Savage|Randy Savage]] (8x)
+- [[Wrestler/AJ Styles|AJ Styles]] (7x)
+- [[Wrestler/Miro|Miro]] (7x)

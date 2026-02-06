@@ -1,39 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/jimmy-uso/","title":"Jimmy Uso","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/jimmy-uso/
+title: Jimmy Uso
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jimmy_Uso.png
+matches: 1
+wins: 0
+losses: 0
+draws: 1
+win_percent: 0.0
+avg_rating: 91.0
+streaks:
+  longest_win: 0
+  longest_loss: 0
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Kurt Angle
+  matches: 1
+- name: WALTER
+  matches: 1
+- name: Kevin Steen
+  matches: 1
+- name: Solo Sikoa
+  matches: 1
+- name: Jey Uso
+  matches: 1
+championships: []
 ---
-
 
 # Jimmy Uso
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jimmy_Uso.png" width="280" alt="Jimmy Uso"></td>
-        <td>
-        <b>Height:</b> 189cm<br>
-        <b>Weight:</b> 115kg<br>
-        <b>Finisher:</b> Diving Body Press<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jimmy_Uso.png" width="280"></td><td><b>Height:</b> 189cm<br><b>Weight:</b> 115kg<br><b>Finisher:</b> Diving Body Press</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 91.00 |
 
-**Längste Siegesserie:** 0<br>**Längste Niederlagenserie:** 0<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 0<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-Keine bekannten Gegner.
-
-## Häufigste Partner
-Keine bekannten Partner.
-
-## Letzte 5 Matches
-- 2022-11-07: Exhibition 2 - Bloodier than the Line in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Draw, 91%
-
-## Top Matches
-- 2022-11-07: Exhibition 2 - Bloodier than the Line in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 91%
+- [[Wrestler/Kurt Angle|Kurt Angle]] (1x)
+- [[Wrestler/WALTER|WALTER]] (1x)
+- [[Wrestler/Kevin Steen|Kevin Steen]] (1x)
+- [[Wrestler/Solo Sikoa|Solo Sikoa]] (1x)
+- [[Wrestler/Jey Uso|Jey Uso]] (1x)

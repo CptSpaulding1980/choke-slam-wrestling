@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/lady-apache/","title":"Lady Apache","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/lady-apache/
+title: Lady Apache
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png
+matches: 16
+wins: 7
+losses: 7
+draws: 2
+win_percent: 43.8
+avg_rating: 80.19
+streaks:
+  longest_win: 3
+  longest_loss: 2
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Awesome Kong
+  matches: 4
+- name: Chris Jericho
+  matches: 4
+- name: Steve Austin
+  matches: 3
+- name: Brock Lesnar
+  matches: 3
+- name: Bandido
+  matches: 2
+championships: []
 ---
-
 
 # Lady Apache
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png" width="280" alt="Lady Apache"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 12 | 6 | 5 | 1 | 54.5% | 84.42 |
+|---|---|---|---|---|---|
+| 16 | 7 | 7 | 2 | 43.8% | 80.19 |
 
-**Längste Siegesserie:** 2<br>**Längste Niederlagenserie:** 2<br>**Aktuelle Serie:** win (2 in Folge)
+**Längste Siegesserie:** 3<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (3x)
-- [[Wrestler/Steve Austin\|Steve Austin]] (3x)
-- [[Wrestler/Bandido\|Bandido]] (2x)
-- [[Wrestler/Charlotte Flair\|Charlotte Flair]] (2x)
-
-## Häufigste Partner
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (2x)
-- [[Wrestler/Jay White\|Jay White]] (2x)
-- [[Wrestler/Wardlow\|Wardlow]] (2x)
-- [[Wrestler/Lex Luger\|Lex Luger]] (1x)
-- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (1x)
-
-## Letzte 5 Matches
-- 2025-11-18: War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Loss, 69%
-- 2025-11-18: War Games 3: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 63%
-- 2025-11-18: Lady Apache vs. Awesome Kong vs. Steve Austin in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — Win, 92%
-- 2025-10-27: Kensuke Sasaki vs. Lady Apache vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Loss, 99%
-- 2025-10-27: Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — Win, 99%
-
-## Top Matches
-- 2025-10-27: Lady Apache vs. Wardlow vs. Akira Taue in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 104%
-- 2025-10-27: Kensuke Sasaki vs. Lady Apache vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 99%
-- 2025-10-27: Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] — 99%
-- 2025-08-21: Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] — 94%
-- 2025-11-18: Lady Apache vs. Awesome Kong vs. Steve Austin in [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] — 92%
+- [[Wrestler/Awesome Kong|Awesome Kong]] (4x)
+- [[Wrestler/Chris Jericho|Chris Jericho]] (4x)
+- [[Wrestler/Steve Austin|Steve Austin]] (3x)
+- [[Wrestler/Brock Lesnar|Brock Lesnar]] (3x)
+- [[Wrestler/Bandido|Bandido]] (2x)

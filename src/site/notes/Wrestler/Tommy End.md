@@ -1,55 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/tommy-end/","title":"Tommy End","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/tommy-end/
+title: Tommy End
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tommy_End.png
+matches: 13
+wins: 0
+losses: 7
+draws: 6
+win_percent: 0.0
+avg_rating: 88.62
+streaks:
+  longest_win: 0
+  longest_loss: 5
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: Bob Backlund
+  matches: 6
+- name: Kurt Angle
+  matches: 6
+- name: EC3
+  matches: 6
+- name: Sting
+  matches: 5
+- name: Brutus Beefcake
+  matches: 5
+championships: []
 ---
-
 
 # Tommy End
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tommy_End.png" width="280" alt="Tommy End"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tommy_End.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
+|---|---|---|---|---|---|
 | 13 | 0 | 7 | 6 | 0.0% | 88.62 |
 
-**Längste Siegesserie:** 0<br>**Längste Niederlagenserie:** 5<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 0<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[Wrestler/Lance Storm\|Lance Storm]] (2x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
-- [[Wrestler/William Regal\|William Regal]] (1x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
-
-## Häufigste Partner
-- [[Wrestler/Rush\|Rush]] (3x)
-- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
-- [[Wrestler/Chris Hero\|Chris Hero]] (1x)
-- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)
-- [[Wrestler/Diesel\|Diesel]] (1x)
-
-## Letzte 5 Matches
-- 2024-01-29: Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] — Draw, 91%
-- 2023-12-15: Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 93%
-- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Tommy End vs. Rush vs. Bret Hart vs. Miro in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 92%
-- 2023-12-15: Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Loss, 99%
-- 2023-12-15: EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — Draw, 88%
-
-## Top Matches
-- 2023-12-15: Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 99%
-- 2023-03-29: Carat First Round: Randy Savage vs. Tommy End in [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] — 98%
-- 2023-12-15: Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 93%
-- 2022-07-24: Royal Rumble Match in [[Events/2022-07-24 - S04E10_Überraschung\|2022-07-24 - S04E10_Überraschung]] — 92%
-- 2023-12-15: Roman Reigns vs. Seth Rollins vs. Tommy End vs. Rush vs. Bret Hart vs. Miro in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|2023-12-15 - S05E11_Tournament Nonstop Action]] — 92%
+- [[Wrestler/Bob Backlund|Bob Backlund]] (6x)
+- [[Wrestler/Kurt Angle|Kurt Angle]] (6x)
+- [[Wrestler/EC3|EC3]] (6x)
+- [[Wrestler/Sting|Sting]] (5x)
+- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (5x)

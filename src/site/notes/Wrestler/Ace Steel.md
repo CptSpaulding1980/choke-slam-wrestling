@@ -1,41 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/wrestler/ace-steel/","title":"Ace Steel","tags":["wrestler"],"noteIcon":""}
+dg-publish: 'true'
+permalink: /wrestler/ace-steel/
+title: Ace Steel
+type: wrestler
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ace_Steel.png
+matches: 2
+wins: 1
+losses: 0
+draws: 1
+win_percent: 50.0
+avg_rating: 97.5
+streaks:
+  longest_win: 1
+  longest_loss: 0
+  current:
+    type: draw
+    count: 1
+top_opponents:
+- name: nan
+  matches: 1
+- name: Big Van Vader
+  matches: 1
+- name: Sting
+  matches: 1
+- name: Ethan Page
+  matches: 1
+- name: Bob Backlund
+  matches: 1
+championships: []
 ---
-
 
 # Ace Steel
 
-<table>
-        <tr>
-        <td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ace_Steel.png" width="280" alt="Ace Steel"></td>
-        <td>
-        <b>Height:</b> N/A<br>
-        <b>Weight:</b> N/A<br>
-        <b>Finisher:</b> N/A<br>
-        </td>
-        </tr>
-        </table>
-        
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ace_Steel.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---------|-------|-------------|-------|-------|-----------|
-| 2 | 1 | 0 | 1 | 100.0% | 97.50 |
+|---|---|---|---|---|---|
+| 2 | 1 | 0 | 1 | 50.0% | 97.50 |
 
-**Längste Siegesserie:** 1<br>**Längste Niederlagenserie:** 0<br>**Aktuelle Serie:** draw (1 in Folge)
+**Längste Siegesserie:** 1<br>**Aktuelle Serie:** draw (1)
 
 
 ## Häufigste Gegner
-- [[nan\|nan]] (1x)
-
-## Häufigste Partner
-Keine bekannten Partner.
-
-## Letzte 5 Matches
-- 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — Draw, 98%
-- 2022-11-07: Exhibition 3 - Backstage Brawl in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — Win, 97%
-
-## Top Matches
-- 2022-11-17: Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] — 98%
-- 2022-11-07: Exhibition 3 - Backstage Brawl in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|2022-11-07 - S04E12_ChokeSlamMania IV - Day 1]] — 97%
+- [[Wrestler/nan|nan]] (1x)
+- [[Wrestler/Big Van Vader|Big Van Vader]] (1x)
+- [[Wrestler/Sting|Sting]] (1x)
+- [[Wrestler/Ethan Page|Ethan Page]] (1x)
+- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)

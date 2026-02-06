@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+permalink: /wrestler/
 tags: [index, wrestler]
 ---
 # Wrestler

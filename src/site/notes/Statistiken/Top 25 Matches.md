@@ -1,3 +1,7 @@
+---
+dg-publish: true
+permalink: /statistiken/top-25-matches/
+---
 # Top 25 Matches
 | Date | Match | Rating |
 |---|---|---|

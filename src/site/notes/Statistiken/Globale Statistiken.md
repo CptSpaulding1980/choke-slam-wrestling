@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+permalink: /statistiken/globale-statistiken/
 tags: [statistik]
 ---
 # Globale Statistiken

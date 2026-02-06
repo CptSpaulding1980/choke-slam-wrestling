@@ -24,7 +24,7 @@ avg_rating: 93.0
 | 1 | 0 | 1 | 0 | 0.0% | 93.00 | 1183 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/jamie-hayter_elo.png)
+![[jamie-hayter_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Giulia\|Giulia]] (1x)

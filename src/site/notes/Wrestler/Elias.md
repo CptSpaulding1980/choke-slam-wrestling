@@ -24,7 +24,7 @@ avg_rating: 85.0
 | 4 | 3 | 1 | 0 | 75.0% | 85.00 | 1234 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/elias_elo.png)
+![[elias_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Arn Anderson\|Arn Anderson]] (1x)

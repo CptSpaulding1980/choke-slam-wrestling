@@ -24,7 +24,7 @@ avg_rating: 95.0
 | 1 | 0 | 1 | 0 | 0.0% | 95.00 | 1184 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/isaac-yankem_elo.png)
+![[isaac-yankem_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)

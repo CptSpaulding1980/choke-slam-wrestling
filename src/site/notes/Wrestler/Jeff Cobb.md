@@ -24,7 +24,7 @@ avg_rating: 84.73
 | 11 | 5 | 4 | 2 | 45.5% | 84.73 | 1231 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/jeff-cobb_elo.png)
+![[jeff-cobb_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hiromu Takahashi\|Hiromu Takahashi]] (3x)

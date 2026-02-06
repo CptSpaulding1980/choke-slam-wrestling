@@ -24,7 +24,7 @@ avg_rating: 81.0
 | 3 | 2 | 1 | 0 | 66.7% | 81.00 | 1210 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/killian-dain_elo.png)
+![[killian-dain_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)

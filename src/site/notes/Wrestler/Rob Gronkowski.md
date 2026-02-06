@@ -24,7 +24,7 @@ avg_rating: 80.33
 | 3 | 1 | 2 | 0 | 33.3% | 80.33 | 1193 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/rob-gronkowski_elo.png)
+![[rob-gronkowski_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 85.37
 | 19 | 8 | 7 | 4 | 42.1% | 85.37 | 1220 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/anglico_elo.png)
+![[anglico_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (6x)

@@ -24,7 +24,7 @@ avg_rating: 86.05
 | 19 | 6 | 10 | 3 | 31.6% | 86.05 | 1158 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/bull-nakano_elo.png)
+![[bull-nakano_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (5x)

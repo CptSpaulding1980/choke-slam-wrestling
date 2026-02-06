@@ -24,7 +24,7 @@ avg_rating: 83.5
 | 2 | 0 | 1 | 1 | 0.0% | 83.50 | 1185 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/dragon-lee_elo.png)
+![[dragon-lee_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (1x)

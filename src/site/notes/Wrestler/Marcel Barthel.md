@@ -24,7 +24,7 @@ avg_rating: 78.33
 | 3 | 2 | 1 | 0 | 66.7% | 78.33 | 1212 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/marcel-barthel_elo.png)
+![[marcel-barthel_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Colt Cabana\|Colt Cabana]] (1x)

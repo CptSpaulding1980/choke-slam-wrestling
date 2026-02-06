@@ -24,7 +24,7 @@ avg_rating: 102.0
 | 1 | 0 | 1 | 0 | 0.0% | 102.00 | 1187 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/justin-credible_elo.png)
+![[justin-credible_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

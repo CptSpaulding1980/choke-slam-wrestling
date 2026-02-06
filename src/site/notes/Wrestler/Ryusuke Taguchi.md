@@ -24,7 +24,7 @@ avg_rating: 71.2
 | 5 | 1 | 4 | 0 | 20.0% | 71.20 | 1153 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/ryusuke-taguchi_elo.png)
+![[ryusuke-taguchi_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)

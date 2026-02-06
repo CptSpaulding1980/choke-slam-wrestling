@@ -24,7 +24,7 @@ avg_rating: 82.61
 | 23 | 7 | 13 | 3 | 30.4% | 82.61 | 1144 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/dijak_elo.png)
+![[dijak_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (4x)

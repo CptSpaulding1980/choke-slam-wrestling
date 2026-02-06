@@ -24,7 +24,7 @@ avg_rating: 87.8
 | 50 | 19 | 20 | 11 | 38.0% | 87.80 | 1171 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/miro_elo.png)
+![[miro_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Jay White\|Jay White]] (10x)

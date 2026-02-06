@@ -25,7 +25,7 @@ avg_rating: 87.1
 | 10 | 3 | 4 | 3 | 30.0% | 87.10 | 1189 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/rey-escorpin_elo.png)
+![[rey-escorpin_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Texano Jr.\|Texano Jr.]] (3x)

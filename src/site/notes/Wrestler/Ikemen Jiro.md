@@ -24,7 +24,7 @@ avg_rating: 83.88
 | 8 | 5 | 2 | 1 | 62.5% | 83.88 | 1242 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/ikemen-jiro_elo.png)
+![[ikemen-jiro_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Grayson Waller\|Grayson Waller]] (4x)

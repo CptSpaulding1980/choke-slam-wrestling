@@ -24,7 +24,7 @@ avg_rating: 81.5
 | 4 | 1 | 2 | 1 | 25.0% | 81.50 | 1171 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/vickie-guerrero_elo.png)
+![[vickie-guerrero_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 87.33
 | 9 | 4 | 1 | 4 | 44.4% | 87.33 | 1250 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/philipp-brunkovic_elo.png)
+![[philipp-brunkovic_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Pascal LePas\|Pascal LePas]] (5x)

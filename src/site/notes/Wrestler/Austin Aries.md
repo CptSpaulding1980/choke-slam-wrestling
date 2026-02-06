@@ -24,7 +24,7 @@ avg_rating: 86.43
 | 21 | 6 | 13 | 2 | 28.6% | 86.43 | 1124 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/austin-aries_elo.png)
+![[austin-aries_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (2x)

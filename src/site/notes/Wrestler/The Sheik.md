@@ -24,7 +24,7 @@ avg_rating: 83.6
 | 5 | 0 | 3 | 2 | 0.0% | 83.60 | 1154 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/the-sheik_elo.png)
+![[the-sheik_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (2x)

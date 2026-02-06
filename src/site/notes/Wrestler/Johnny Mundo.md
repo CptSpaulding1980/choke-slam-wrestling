@@ -24,7 +24,7 @@ avg_rating: 86.97
 | 29 | 18 | 4 | 7 | 62.1% | 86.97 | 1377 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/johnny-mundo_elo.png)
+![[johnny-mundo_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (8x)

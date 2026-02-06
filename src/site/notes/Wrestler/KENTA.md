@@ -24,7 +24,7 @@ avg_rating: 87.24
 | 34 | 12 | 13 | 9 | 35.3% | 87.24 | 1199 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/kenta_elo.png)
+![[kenta_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (9x)

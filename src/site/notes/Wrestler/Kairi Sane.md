@@ -24,7 +24,7 @@ avg_rating: 77.33
 | 9 | 1 | 5 | 3 | 11.1% | 77.33 | 1143 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/kairi-sane_elo.png)
+![[kairi-sane_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Ivelisse\|Ivelisse]] (3x)

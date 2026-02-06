@@ -24,7 +24,7 @@ avg_rating: 85.6
 | 5 | 2 | 1 | 2 | 40.0% | 85.60 | 1212 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/rhea-ripley_elo.png)
+![[rhea-ripley_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kane\|Kane]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 93.8
 | 5 | 1 | 4 | 0 | 20.0% | 93.80 | 1152 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/colt-cabana_elo.png)
+![[colt-cabana_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Fabian Aichner\|Fabian Aichner]] (1x)

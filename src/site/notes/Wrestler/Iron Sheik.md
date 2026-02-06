@@ -24,7 +24,7 @@ avg_rating: 93.6
 | 5 | 2 | 2 | 1 | 40.0% | 93.60 | 1209 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/iron-sheik_elo.png)
+![[iron-sheik_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)

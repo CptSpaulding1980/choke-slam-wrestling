@@ -24,7 +24,7 @@ avg_rating: 75.0
 | 3 | 1 | 2 | 0 | 33.3% | 75.00 | 1182 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/charlie-dempsey_elo.png)
+![[charlie-dempsey_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kofi Kingston\|Kofi Kingston]] (1x)

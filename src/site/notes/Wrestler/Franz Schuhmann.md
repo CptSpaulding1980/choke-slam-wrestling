@@ -24,7 +24,7 @@ avg_rating: 83.75
 | 4 | 1 | 2 | 1 | 25.0% | 83.75 | 1185 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/franz-schuhmann_elo.png)
+![[franz-schuhmann_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 83.0
 | 17 | 7 | 7 | 3 | 41.2% | 83.00 | 1205 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/the-butcher_elo.png)
+![[the-butcher_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (5x)

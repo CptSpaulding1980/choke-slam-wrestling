@@ -24,7 +24,7 @@ avg_rating: 90.0
 | 2 | 0 | 2 | 0 | 0.0% | 90.00 | 1171 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/logan-paul_elo.png)
+![[logan-paul_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 66.0
 | 1 | 0 | 1 | 0 | 0.0% | 66.00 | 1186 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/okato_elo.png)
+![[okato_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 84.88
 | 8 | 4 | 3 | 1 | 50.0% | 84.88 | 1231 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/sheamus_elo.png)
+![[sheamus_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (3x)

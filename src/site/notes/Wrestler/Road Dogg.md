@@ -24,7 +24,7 @@ avg_rating: 92.33
 | 3 | 1 | 2 | 0 | 33.3% | 92.33 | 1183 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/road-dogg_elo.png)
+![[road-dogg_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Big E\|Big E]] (1x)

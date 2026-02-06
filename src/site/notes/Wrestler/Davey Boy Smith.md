@@ -24,7 +24,7 @@ avg_rating: 89.45
 | 11 | 4 | 4 | 3 | 36.4% | 89.45 | 1188 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/davey-boy-smith_elo.png)
+![[davey-boy-smith_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Sami Zayn\|Sami Zayn]] (2x)

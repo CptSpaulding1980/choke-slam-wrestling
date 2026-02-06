@@ -24,7 +24,7 @@ avg_rating: 81.5
 | 6 | 1 | 5 | 0 | 16.7% | 81.50 | 1144 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/buh-buh-ray-dudley_elo.png)
+![[buh-buh-ray-dudley_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

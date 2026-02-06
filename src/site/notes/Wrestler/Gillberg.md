@@ -24,7 +24,7 @@ avg_rating: 80.5
 | 4 | 1 | 3 | 0 | 25.0% | 80.50 | 1177 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/gillberg_elo.png)
+![[gillberg_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 84.33
 | 3 | 1 | 2 | 0 | 33.3% | 84.33 | 1190 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/dudley-dudley_elo.png)
+![[dudley-dudley_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

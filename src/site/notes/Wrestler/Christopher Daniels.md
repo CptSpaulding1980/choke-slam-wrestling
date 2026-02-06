@@ -24,7 +24,7 @@ avg_rating: 88.5
 | 4 | 1 | 1 | 2 | 25.0% | 88.50 | 1199 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/christopher-daniels_elo.png)
+![[christopher-daniels_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

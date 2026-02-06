@@ -24,7 +24,7 @@ avg_rating: 93.25
 | 4 | 2 | 0 | 2 | 50.0% | 93.25 | 1222 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/sean-waltman_elo.png)
+![[sean-waltman_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (3x)

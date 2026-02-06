@@ -24,7 +24,7 @@ avg_rating: 88.0
 | 3 | 1 | 0 | 2 | 33.3% | 88.00 | 1217 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/jay-briscoe_elo.png)
+![[jay-briscoe_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Teoman\|Teoman]] (4x)

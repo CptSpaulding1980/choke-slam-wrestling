@@ -24,7 +24,7 @@ avg_rating: 79.33
 | 3 | 1 | 2 | 0 | 33.3% | 79.33 | 1171 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/teddy-long_elo.png)
+![[teddy-long_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

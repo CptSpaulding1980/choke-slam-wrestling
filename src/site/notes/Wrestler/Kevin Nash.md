@@ -24,7 +24,7 @@ avg_rating: 84.33
 | 6 | 1 | 3 | 2 | 16.7% | 84.33 | 1171 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/kevin-nash_elo.png)
+![[kevin-nash_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (3x)

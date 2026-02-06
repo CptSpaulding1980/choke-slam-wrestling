@@ -24,7 +24,7 @@ avg_rating: 82.47
 | 15 | 3 | 8 | 4 | 20.0% | 82.47 | 1122 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/the-blade_elo.png)
+![[the-blade_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (4x)

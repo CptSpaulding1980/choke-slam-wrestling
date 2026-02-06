@@ -24,7 +24,7 @@ avg_rating: 79.18
 | 17 | 3 | 12 | 2 | 17.6% | 79.18 | 1095 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/drew-gulak_elo.png)
+![[drew-gulak_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)

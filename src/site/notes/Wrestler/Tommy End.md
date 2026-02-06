@@ -24,7 +24,7 @@ avg_rating: 88.62
 | 13 | 0 | 7 | 6 | 0.0% | 88.62 | 1107 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/tommy-end_elo.png)
+![[tommy-end_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)

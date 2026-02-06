@@ -24,7 +24,7 @@ avg_rating: 103.0
 | 1 | 0 | 1 | 0 | 0.0% | 103.00 | 1184 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/bianca-belair_elo.png)
+![[bianca-belair_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kiana James\|Kiana James]] (1x)

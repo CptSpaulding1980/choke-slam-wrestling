@@ -24,7 +24,7 @@ avg_rating: 94.0
 | 1 | 0 | 1 | 0 | 0.0% | 94.00 | 1187 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/tensai_elo.png)
+![[tensai_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (1x)

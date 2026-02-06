@@ -24,7 +24,7 @@ avg_rating: 78.67
 | 3 | 0 | 3 | 0 | 0.0% | 78.67 | 1154 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/big-dick-dudley_elo.png)
+![[big-dick-dudley_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

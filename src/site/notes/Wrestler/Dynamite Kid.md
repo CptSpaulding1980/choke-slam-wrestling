@@ -24,7 +24,7 @@ avg_rating: 92.33
 | 6 | 4 | 2 | 0 | 66.7% | 92.33 | 1230 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/dynamite-kid_elo.png)
+![[dynamite-kid_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Angélico\|Angélico]] (1x)

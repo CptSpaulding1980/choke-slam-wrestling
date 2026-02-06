@@ -24,7 +24,7 @@ avg_rating: 88.5
 | 2 | 0 | 1 | 1 | 0.0% | 88.50 | 1184 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/rob-van-dam_elo.png)
+![[rob-van-dam_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

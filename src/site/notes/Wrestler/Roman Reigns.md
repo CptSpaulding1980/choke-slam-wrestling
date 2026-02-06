@@ -24,7 +24,7 @@ avg_rating: 87.48
 | 86 | 45 | 28 | 13 | 52.3% | 87.48 | 1291 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/roman-reigns_elo.png)
+![[roman-reigns_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (14x)

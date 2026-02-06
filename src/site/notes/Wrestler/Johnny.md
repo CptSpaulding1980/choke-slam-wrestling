@@ -24,7 +24,7 @@ avg_rating: 74.25
 | 4 | 1 | 3 | 0 | 25.0% | 74.25 | 1170 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/johnny_elo.png)
+![[johnny_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)

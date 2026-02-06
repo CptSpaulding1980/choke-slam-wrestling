@@ -24,7 +24,7 @@ avg_rating: 83.83
 | 12 | 3 | 6 | 3 | 25.0% | 83.83 | 1161 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/jordynne-grace_elo.png)
+![[jordynne-grace_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kiana James\|Kiana James]] (4x)

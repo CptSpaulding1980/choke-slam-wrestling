@@ -24,7 +24,7 @@ avg_rating: 93.67
 | 9 | 3 | 5 | 1 | 33.3% | 93.67 | 1173 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/tommaso-ciampa_elo.png)
+![[tommaso-ciampa_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Jay White\|Jay White]] (4x)

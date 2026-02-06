@@ -24,7 +24,7 @@ avg_rating: 79.0
 | 1 | 0 | 1 | 0 | 0.0% | 79.00 | 1183 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/mankind_elo.png)
+![[mankind_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Rush\|Rush]] (1x)

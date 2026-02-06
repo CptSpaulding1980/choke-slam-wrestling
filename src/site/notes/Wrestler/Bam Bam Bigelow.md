@@ -24,7 +24,7 @@ avg_rating: 89.38
 | 32 | 9 | 19 | 4 | 28.1% | 89.38 | 1064 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/bam-bam-bigelow_elo.png)
+![[bam-bam-bigelow_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (5x)

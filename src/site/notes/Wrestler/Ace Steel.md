@@ -24,7 +24,7 @@ avg_rating: 97.5
 | 2 | 1 | 0 | 1 | 50.0% | 97.50 | 1206 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/ace-steel_elo.png)
+![[ace-steel_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/nan\|nan]] (1x)

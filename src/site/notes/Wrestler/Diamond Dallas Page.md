@@ -24,7 +24,7 @@ avg_rating: 93.75
 | 4 | 2 | 1 | 1 | 50.0% | 93.75 | 1213 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/diamond-dallas-page_elo.png)
+![[diamond-dallas-page_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (1x)

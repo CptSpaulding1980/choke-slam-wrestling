@@ -24,7 +24,7 @@ avg_rating: 96.0
 | 3 | 1 | 1 | 1 | 33.3% | 96.00 | 1208 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/christian_elo.png)
+![[christian_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Daga\|Daga]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 82.33
 | 3 | 2 | 1 | 0 | 66.7% | 82.33 | 1212 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/goldust_elo.png)
+![[goldust_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Orange Cassidy\|Orange Cassidy]] (1x)

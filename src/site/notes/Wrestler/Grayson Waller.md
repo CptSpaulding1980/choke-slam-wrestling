@@ -24,7 +24,7 @@ avg_rating: 89.04
 | 24 | 8 | 9 | 7 | 33.3% | 89.04 | 1180 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/grayson-waller_elo.png)
+![[grayson-waller_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (7x)

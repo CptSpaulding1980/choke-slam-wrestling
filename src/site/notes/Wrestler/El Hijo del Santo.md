@@ -24,7 +24,7 @@ avg_rating: 81.0
 | 3 | 1 | 2 | 0 | 33.3% | 81.00 | 1189 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/el-hijo-del-santo_elo.png)
+![[el-hijo-del-santo_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)

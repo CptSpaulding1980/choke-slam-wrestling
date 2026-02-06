@@ -24,7 +24,7 @@ avg_rating: 90.67
 | 3 | 0 | 3 | 0 | 0.0% | 90.67 | 1153 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/barry-windham_elo.png)
+![[barry-windham_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Aero Star\|Aero Star]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 86.91
 | 11 | 3 | 4 | 4 | 27.3% | 86.91 | 1190 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/big-ryck_elo.png)
+![[big-ryck_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)

@@ -24,7 +24,7 @@ avg_rating: 81.33
 | 3 | 0 | 3 | 0 | 0.0% | 81.33 | 1156 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/johnny-grunge_elo.png)
+![[johnny-grunge_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (1x)

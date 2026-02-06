@@ -24,7 +24,7 @@ avg_rating: 83.32
 | 25 | 5 | 11 | 9 | 20.0% | 83.32 | 1129 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/shingo-takagi_elo.png)
+![[shingo-takagi_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (5x)

@@ -24,7 +24,7 @@ avg_rating: 93.67
 | 6 | 2 | 4 | 0 | 33.3% | 93.67 | 1166 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/big-e_elo.png)
+![[big-e_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

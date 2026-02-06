@@ -24,7 +24,7 @@ avg_rating: 74.67
 | 3 | 2 | 1 | 0 | 66.7% | 74.67 | 1212 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/james-hetfield_elo.png)
+![[james-hetfield_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

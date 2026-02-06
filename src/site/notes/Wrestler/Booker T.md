@@ -24,7 +24,7 @@ avg_rating: 86.6
 | 10 | 3 | 7 | 0 | 30.0% | 86.60 | 1150 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/booker-t_elo.png)
+![[booker-t_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Grand Master Sexay\|Grand Master Sexay]] (3x)

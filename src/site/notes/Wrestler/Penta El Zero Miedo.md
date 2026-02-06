@@ -24,7 +24,7 @@ avg_rating: 90.4
 | 5 | 1 | 3 | 1 | 20.0% | 90.40 | 1165 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/penta-el-zero-miedo_elo.png)
+![[penta-el-zero-miedo_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Pac\|Pac]] (1x)

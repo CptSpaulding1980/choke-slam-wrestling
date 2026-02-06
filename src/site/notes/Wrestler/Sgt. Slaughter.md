@@ -24,7 +24,7 @@ avg_rating: 88.88
 | 8 | 1 | 2 | 5 | 12.5% | 88.88 | 1187 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/sgt-slaughter_elo.png)
+![[sgt-slaughter_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)

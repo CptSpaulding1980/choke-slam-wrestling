@@ -24,7 +24,7 @@ avg_rating: 95.0
 | 1 | 0 | 1 | 0 | 0.0% | 95.00 | 1188 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/ivan-koloff_elo.png)
+![[ivan-koloff_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (1x)

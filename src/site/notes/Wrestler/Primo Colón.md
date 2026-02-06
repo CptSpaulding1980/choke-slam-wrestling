@@ -25,7 +25,7 @@ avg_rating: 78.0
 | 5 | 3 | 1 | 1 | 60.0% | 78.00 | 1230 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/primo-coln_elo.png)
+![[primo-coln_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Drew Gulak\|Drew Gulak]] (1x)

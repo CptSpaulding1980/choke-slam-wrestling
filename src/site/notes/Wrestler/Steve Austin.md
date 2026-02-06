@@ -24,7 +24,7 @@ avg_rating: 85.24
 | 37 | 9 | 25 | 3 | 24.3% | 85.24 | 1043 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/steve-austin_elo.png)
+![[steve-austin_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (7x)

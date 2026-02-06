@@ -24,7 +24,7 @@ avg_rating: 73.23
 | 13 | 5 | 3 | 5 | 38.5% | 73.23 | 1224 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/sasha-banks_elo.png)
+![[sasha-banks_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)

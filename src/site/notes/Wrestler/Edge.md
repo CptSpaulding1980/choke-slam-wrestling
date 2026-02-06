@@ -24,7 +24,7 @@ avg_rating: 84.72
 | 40 | 15 | 16 | 9 | 37.5% | 84.72 | 1176 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/edge_elo.png)
+![[edge_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (6x)

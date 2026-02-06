@@ -24,7 +24,7 @@ avg_rating: 92.6
 | 5 | 1 | 3 | 1 | 20.0% | 92.60 | 1165 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/william-regal_elo.png)
+![[william-regal_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)

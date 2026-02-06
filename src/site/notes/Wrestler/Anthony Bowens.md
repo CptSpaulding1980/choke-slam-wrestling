@@ -24,7 +24,7 @@ avg_rating: 83.67
 | 3 | 0 | 3 | 0 | 0.0% | 83.67 | 1158 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/anthony-bowens_elo.png)
+![[anthony-bowens_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

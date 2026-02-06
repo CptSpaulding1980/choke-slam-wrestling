@@ -24,7 +24,7 @@ avg_rating: 80.0
 | 3 | 0 | 3 | 0 | 0.0% | 80.00 | 1152 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/axel-tischer_elo.png)
+![[axel-tischer_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)

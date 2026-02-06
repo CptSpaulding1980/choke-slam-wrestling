@@ -24,7 +24,7 @@ avg_rating: 92.5
 | 6 | 2 | 3 | 1 | 33.3% | 92.50 | 1199 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/jerry-lynn_elo.png)
+![[jerry-lynn_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (2x)

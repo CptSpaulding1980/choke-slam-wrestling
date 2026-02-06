@@ -25,7 +25,7 @@ avg_rating: 85.61
 | 18 | 9 | 7 | 2 | 50.0% | 85.61 | 1202 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/finn-blor_elo.png)
+![[finn-blor_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (5x)

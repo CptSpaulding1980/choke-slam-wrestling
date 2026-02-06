@@ -24,7 +24,7 @@ avg_rating: 86.0
 | 2 | 1 | 0 | 1 | 50.0% | 86.00 | 1215 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/dean-malenko_elo.png)
+![[dean-malenko_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

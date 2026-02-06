@@ -24,7 +24,7 @@ avg_rating: 84.33
 | 3 | 1 | 2 | 0 | 33.3% | 84.33 | 1185 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/salvatore-sincere_elo.png)
+![[salvatore-sincere_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)

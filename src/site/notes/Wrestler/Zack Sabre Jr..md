@@ -24,7 +24,7 @@ avg_rating: 86.63
 | 27 | 9 | 13 | 5 | 33.3% | 86.63 | 1149 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/zack-sabre-jr_elo.png)
+![[zack-sabre-jr_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)

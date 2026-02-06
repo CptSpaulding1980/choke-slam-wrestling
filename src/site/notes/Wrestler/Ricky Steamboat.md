@@ -24,7 +24,7 @@ avg_rating: 88.5
 | 12 | 3 | 7 | 2 | 25.0% | 88.50 | 1136 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/ricky-steamboat_elo.png)
+![[ricky-steamboat_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (3x)

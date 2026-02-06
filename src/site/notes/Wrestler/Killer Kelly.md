@@ -24,7 +24,7 @@ avg_rating: 82.71
 | 41 | 11 | 22 | 8 | 26.8% | 82.71 | 1051 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/killer-kelly_elo.png)
+![[killer-kelly_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Christian Cage\|Christian Cage]] (8x)

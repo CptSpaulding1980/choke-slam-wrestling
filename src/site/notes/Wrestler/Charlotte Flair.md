@@ -24,7 +24,7 @@ avg_rating: 88.0
 | 10 | 3 | 4 | 3 | 30.0% | 88.00 | 1186 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/charlotte-flair_elo.png)
+![[charlotte-flair_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)

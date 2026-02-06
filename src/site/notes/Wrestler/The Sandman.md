@@ -24,7 +24,7 @@ avg_rating: 86.67
 | 6 | 2 | 3 | 1 | 33.3% | 86.67 | 1187 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/the-sandman_elo.png)
+![[the-sandman_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)

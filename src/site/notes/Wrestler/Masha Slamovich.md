@@ -24,7 +24,7 @@ avg_rating: 77.67
 | 9 | 3 | 3 | 3 | 33.3% | 77.67 | 1195 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/masha-slamovich_elo.png)
+![[masha-slamovich_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)

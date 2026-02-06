@@ -24,7 +24,7 @@ avg_rating: 91.0
 | 3 | 1 | 2 | 0 | 33.3% | 91.00 | 1191 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/johnny-gargano_elo.png)
+![[johnny-gargano_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Brock Lesnar\|Brock Lesnar]] (1x)

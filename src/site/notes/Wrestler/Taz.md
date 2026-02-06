@@ -24,7 +24,7 @@ avg_rating: 59.25
 | 4 | 3 | 0 | 1 | 75.0% | 59.25 | 1249 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/taz_elo.png)
+![[taz_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)

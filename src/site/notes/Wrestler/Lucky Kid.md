@@ -24,7 +24,7 @@ avg_rating: 94.0
 | 4 | 1 | 2 | 1 | 25.0% | 94.00 | 1182 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/lucky-kid_elo.png)
+![[lucky-kid_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 82.56
 | 16 | 8 | 6 | 2 | 50.0% | 82.56 | 1243 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/claudio-castagnoli_elo.png)
+![[claudio-castagnoli_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (4x)

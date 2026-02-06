@@ -24,7 +24,7 @@ avg_rating: 89.7
 | 10 | 3 | 7 | 0 | 30.0% | 89.70 | 1143 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/thunder-rosa_elo.png)
+![[thunder-rosa_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Britt Baker\|Britt Baker]] (2x)

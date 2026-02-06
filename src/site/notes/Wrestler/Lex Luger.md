@@ -24,7 +24,7 @@ avg_rating: 86.53
 | 32 | 11 | 19 | 2 | 34.4% | 86.53 | 1105 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/lex-luger_elo.png)
+![[lex-luger_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Steve Austin\|Steve Austin]] (5x)

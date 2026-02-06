@@ -24,7 +24,7 @@ avg_rating: 89.0
 | 1 | 0 | 1 | 0 | 0.0% | 89.00 | 1181 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/viscera_elo.png)
+![[viscera_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

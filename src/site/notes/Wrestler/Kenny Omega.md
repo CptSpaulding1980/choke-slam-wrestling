@@ -24,7 +24,7 @@ avg_rating: 87.52
 | 33 | 13 | 11 | 9 | 39.4% | 87.52 | 1253 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/kenny-omega_elo.png)
+![[kenny-omega_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (5x)

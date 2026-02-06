@@ -24,7 +24,7 @@ avg_rating: 81.14
 | 7 | 3 | 3 | 1 | 42.9% | 81.14 | 1211 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/goldberg_elo.png)
+![[goldberg_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

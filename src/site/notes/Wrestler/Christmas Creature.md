@@ -24,7 +24,7 @@ avg_rating: 81.0
 | 3 | 0 | 3 | 0 | 0.0% | 81.00 | 1158 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/christmas-creature_elo.png)
+![[christmas-creature_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Finn Bálor\|Finn Bálor]] (1x)

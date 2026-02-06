@@ -24,7 +24,7 @@ avg_rating: 84.22
 | 18 | 5 | 8 | 5 | 27.8% | 84.22 | 1154 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/dusty-rhodes_elo.png)
+![[dusty-rhodes_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (6x)

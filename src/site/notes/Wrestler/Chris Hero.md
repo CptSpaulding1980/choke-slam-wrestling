@@ -24,7 +24,7 @@ avg_rating: 85.31
 | 32 | 14 | 13 | 5 | 43.8% | 85.31 | 1242 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/chris-hero_elo.png)
+![[chris-hero_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (7x)

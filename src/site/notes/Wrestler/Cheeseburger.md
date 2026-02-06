@@ -24,7 +24,7 @@ avg_rating: 86.67
 | 3 | 0 | 3 | 0 | 0.0% | 86.67 | 1154 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/cheeseburger_elo.png)
+![[cheeseburger_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (1x)

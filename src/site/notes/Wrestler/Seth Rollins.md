@@ -24,7 +24,7 @@ avg_rating: 88.21
 | 33 | 18 | 12 | 3 | 54.5% | 88.21 | 1224 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/seth-rollins_elo.png)
+![[seth-rollins_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (8x)

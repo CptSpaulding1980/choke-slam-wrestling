@@ -24,7 +24,7 @@ avg_rating: 89.11
 | 9 | 2 | 4 | 3 | 22.2% | 89.11 | 1173 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/texano-jr_elo.png)
+![[texano-jr_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)

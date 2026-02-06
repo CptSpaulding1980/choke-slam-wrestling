@@ -24,7 +24,7 @@ avg_rating: 83.75
 | 4 | 3 | 1 | 0 | 75.0% | 83.75 | 1227 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/jeff-hardy_elo.png)
+![[jeff-hardy_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)

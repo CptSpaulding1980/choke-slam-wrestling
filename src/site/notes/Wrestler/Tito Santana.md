@@ -24,7 +24,7 @@ avg_rating: 73.75
 | 4 | 1 | 3 | 0 | 25.0% | 73.75 | 1175 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/tito-santana_elo.png)
+![[tito-santana_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Fallon Henley\|Fallon Henley]] (1x)

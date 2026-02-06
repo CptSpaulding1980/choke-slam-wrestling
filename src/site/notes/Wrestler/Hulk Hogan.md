@@ -24,7 +24,7 @@ avg_rating: 86.83
 | 71 | 34 | 25 | 12 | 47.9% | 86.83 | 1251 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/hulk-hogan_elo.png)
+![[hulk-hogan_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (12x)

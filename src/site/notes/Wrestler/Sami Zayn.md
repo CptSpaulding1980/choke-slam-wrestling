@@ -24,7 +24,7 @@ avg_rating: 84.7
 | 10 | 1 | 2 | 7 | 10.0% | 84.70 | 1189 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/sami-zayn_elo.png)
+![[sami-zayn_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)

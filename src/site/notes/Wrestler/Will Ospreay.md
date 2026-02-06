@@ -24,7 +24,7 @@ avg_rating: 82.6
 | 10 | 3 | 3 | 4 | 30.0% | 82.60 | 1199 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/will-ospreay_elo.png)
+![[will-ospreay_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)

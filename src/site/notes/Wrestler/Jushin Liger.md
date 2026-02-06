@@ -24,7 +24,7 @@ avg_rating: 89.0
 | 17 | 6 | 10 | 1 | 35.3% | 89.00 | 1140 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/jushin-liger_elo.png)
+![[jushin-liger_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)

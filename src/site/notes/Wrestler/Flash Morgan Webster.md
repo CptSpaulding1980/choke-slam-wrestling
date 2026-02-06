@@ -24,7 +24,7 @@ avg_rating: 89.33
 | 3 | 2 | 1 | 0 | 66.7% | 89.33 | 1211 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/flash-morgan-webster_elo.png)
+![[flash-morgan-webster_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (1x)

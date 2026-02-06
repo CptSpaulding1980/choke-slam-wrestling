@@ -24,7 +24,7 @@ avg_rating: 89.11
 | 18 | 7 | 11 | 0 | 38.9% | 89.11 | 1167 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/akira-taue_elo.png)
+![[akira-taue_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)

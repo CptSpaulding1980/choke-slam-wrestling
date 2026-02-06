@@ -24,7 +24,7 @@ avg_rating: 85.25
 | 4 | 2 | 1 | 1 | 50.0% | 85.25 | 1213 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/wolfgang_elo.png)
+![[wolfgang_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)

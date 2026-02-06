@@ -24,7 +24,7 @@ avg_rating: 88.0
 | 3 | 0 | 1 | 2 | 0.0% | 88.00 | 1181 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/razor-ramon_elo.png)
+![[razor-ramon_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Tommy End\|Tommy End]] (3x)

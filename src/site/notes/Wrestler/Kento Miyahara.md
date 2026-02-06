@@ -24,7 +24,7 @@ avg_rating: 79.6
 | 5 | 2 | 2 | 1 | 40.0% | 79.60 | 1212 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/kento-miyahara_elo.png)
+![[kento-miyahara_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (2x)

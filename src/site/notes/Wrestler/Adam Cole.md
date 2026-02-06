@@ -24,7 +24,7 @@ avg_rating: 81.4
 | 5 | 2 | 2 | 1 | 40.0% | 81.40 | 1199 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/adam-cole_elo.png)
+![[adam-cole_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

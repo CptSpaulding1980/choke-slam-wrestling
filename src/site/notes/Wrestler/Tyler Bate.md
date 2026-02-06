@@ -24,7 +24,7 @@ avg_rating: 82.8
 | 15 | 7 | 4 | 4 | 46.7% | 82.80 | 1252 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/tyler-bate_elo.png)
+![[tyler-bate_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bryan Danielson\|Bryan Danielson]] (4x)

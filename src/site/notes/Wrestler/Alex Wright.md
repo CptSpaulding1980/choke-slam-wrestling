@@ -24,7 +24,7 @@ avg_rating: 90.33
 | 3 | 1 | 2 | 0 | 33.3% | 90.33 | 1185 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/alex-wright_elo.png)
+![[alex-wright_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)

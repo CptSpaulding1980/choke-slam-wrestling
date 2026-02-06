@@ -24,7 +24,7 @@ avg_rating: 88.79
 | 14 | 4 | 5 | 5 | 28.6% | 88.79 | 1191 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/hendrique-delafuente_elo.png)
+![[hendrique-delafuente_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)

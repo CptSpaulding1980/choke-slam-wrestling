@@ -24,7 +24,7 @@ avg_rating: 83.21
 | 19 | 6 | 7 | 6 | 31.6% | 83.21 | 1185 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/ivelisse_elo.png)
+![[ivelisse_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (7x)

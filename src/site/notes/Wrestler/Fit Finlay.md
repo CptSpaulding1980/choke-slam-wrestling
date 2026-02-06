@@ -24,7 +24,7 @@ avg_rating: 90.1
 | 21 | 3 | 11 | 7 | 14.3% | 90.10 | 1096 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/fit-finlay_elo.png)
+![[fit-finlay_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Edge\|Edge]] (4x)

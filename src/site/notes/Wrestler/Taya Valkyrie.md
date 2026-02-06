@@ -24,7 +24,7 @@ avg_rating: 93.62
 | 8 | 2 | 3 | 3 | 25.0% | 93.62 | 1190 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/taya-valkyrie_elo.png)
+![[taya-valkyrie_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)

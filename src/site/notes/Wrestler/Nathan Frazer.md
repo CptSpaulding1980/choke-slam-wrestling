@@ -24,7 +24,7 @@ avg_rating: 74.5
 | 4 | 2 | 2 | 0 | 50.0% | 74.50 | 1211 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/nathan-frazer_elo.png)
+![[nathan-frazer_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (2x)

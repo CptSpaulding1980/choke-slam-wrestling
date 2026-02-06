@@ -24,7 +24,7 @@ avg_rating: 87.5
 | 4 | 3 | 0 | 1 | 75.0% | 87.50 | 1242 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/asuka_elo.png)
+![[asuka_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

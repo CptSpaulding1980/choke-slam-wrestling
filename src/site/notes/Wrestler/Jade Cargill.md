@@ -24,7 +24,7 @@ avg_rating: 84.0
 | 4 | 1 | 3 | 0 | 25.0% | 84.00 | 1169 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/jade-cargill_elo.png)
+![[jade-cargill_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

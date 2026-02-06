@@ -24,7 +24,7 @@ avg_rating: 92.0
 | 3 | 1 | 2 | 0 | 33.3% | 92.00 | 1181 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/mosh_elo.png)
+![[mosh_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Akira Taue\|Akira Taue]] (1x)

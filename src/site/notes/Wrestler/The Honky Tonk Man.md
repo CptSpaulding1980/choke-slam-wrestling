@@ -24,7 +24,7 @@ avg_rating: 97.0
 | 3 | 0 | 3 | 0 | 0.0% | 97.00 | 1156 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/the-honky-tonk-man_elo.png)
+![[the-honky-tonk-man_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

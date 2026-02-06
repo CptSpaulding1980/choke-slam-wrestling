@@ -24,7 +24,7 @@ avg_rating: 94.25
 | 4 | 1 | 2 | 1 | 25.0% | 94.25 | 1183 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/billy-gunn_elo.png)
+![[billy-gunn_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kofi Kingston\|Kofi Kingston]] (2x)

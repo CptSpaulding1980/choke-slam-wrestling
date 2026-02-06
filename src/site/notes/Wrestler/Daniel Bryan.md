@@ -24,7 +24,7 @@ avg_rating: 82.44
 | 32 | 19 | 11 | 2 | 59.4% | 82.44 | 1293 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/daniel-bryan_elo.png)
+![[daniel-bryan_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (9x)

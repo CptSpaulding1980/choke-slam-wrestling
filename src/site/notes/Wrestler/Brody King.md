@@ -24,7 +24,7 @@ avg_rating: 84.78
 | 9 | 1 | 6 | 2 | 11.1% | 84.78 | 1129 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/brody-king_elo.png)
+![[brody-king_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)

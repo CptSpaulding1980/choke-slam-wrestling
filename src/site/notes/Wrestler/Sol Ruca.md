@@ -24,7 +24,7 @@ avg_rating: 89.0
 | 3 | 0 | 2 | 1 | 0.0% | 89.00 | 1165 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/sol-ruca_elo.png)
+![[sol-ruca_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Angélico\|Angélico]] (2x)

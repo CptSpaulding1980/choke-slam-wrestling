@@ -24,7 +24,7 @@ avg_rating: 86.73
 | 11 | 4 | 4 | 3 | 36.4% | 86.73 | 1211 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/eddie-guerrero_elo.png)
+![[eddie-guerrero_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)

@@ -24,7 +24,7 @@ avg_rating: 79.33
 | 3 | 1 | 2 | 0 | 33.3% | 79.33 | 1189 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/erik_elo.png)
+![[erik_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)

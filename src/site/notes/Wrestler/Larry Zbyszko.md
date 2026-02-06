@@ -24,7 +24,7 @@ avg_rating: 81.88
 | 16 | 7 | 5 | 4 | 43.8% | 81.88 | 1239 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/larry-zbyszko_elo.png)
+![[larry-zbyszko_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/CM Punk\|CM Punk]] (1x)

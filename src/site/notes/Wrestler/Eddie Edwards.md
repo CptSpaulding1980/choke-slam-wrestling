@@ -24,7 +24,7 @@ avg_rating: 86.56
 | 27 | 10 | 9 | 8 | 37.0% | 86.56 | 1212 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/eddie-edwards_elo.png)
+![[eddie-edwards_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (5x)

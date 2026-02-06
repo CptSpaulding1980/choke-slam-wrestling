@@ -24,7 +24,7 @@ avg_rating: 90.0
 | 4 | 1 | 3 | 0 | 25.0% | 90.00 | 1176 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/stevie-ray_elo.png)
+![[stevie-ray_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 82.0
 | 4 | 2 | 1 | 1 | 50.0% | 82.00 | 1208 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/scott-steiner_elo.png)
+![[scott-steiner_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

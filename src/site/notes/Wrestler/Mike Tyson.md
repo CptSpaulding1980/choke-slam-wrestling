@@ -24,7 +24,7 @@ avg_rating: 81.0
 | 1 | 1 | 0 | 0 | 100.0% | 81.00 | 1215 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/mike-tyson_elo.png)
+![[mike-tyson_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Akira Taue\|Akira Taue]] (1x)

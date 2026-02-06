@@ -24,7 +24,7 @@ avg_rating: 84.76
 | 71 | 51 | 16 | 4 | 71.8% | 84.76 | 1459 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/kazuchika-okada_elo.png)
+![[kazuchika-okada_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (12x)

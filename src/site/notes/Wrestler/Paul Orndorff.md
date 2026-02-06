@@ -24,7 +24,7 @@ avg_rating: 88.67
 | 9 | 0 | 7 | 2 | 0.0% | 88.67 | 1100 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/paul-orndorff_elo.png)
+![[paul-orndorff_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)

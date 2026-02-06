@@ -24,7 +24,7 @@ avg_rating: 89.31
 | 13 | 7 | 4 | 2 | 53.8% | 89.31 | 1244 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/randy-orton_elo.png)
+![[randy-orton_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Jerry Lawler\|Jerry Lawler]] (4x)

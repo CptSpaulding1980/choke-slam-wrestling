@@ -24,7 +24,7 @@ avg_rating: 88.75
 | 8 | 3 | 3 | 2 | 37.5% | 88.75 | 1209 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/sabu_elo.png)
+![[sabu_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (3x)

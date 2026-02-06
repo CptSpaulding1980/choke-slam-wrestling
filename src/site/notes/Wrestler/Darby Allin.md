@@ -24,7 +24,7 @@ avg_rating: 78.67
 | 3 | 0 | 3 | 0 | 0.0% | 78.67 | 1155 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/darby-allin_elo.png)
+![[darby-allin_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

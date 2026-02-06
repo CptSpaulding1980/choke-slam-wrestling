@@ -24,7 +24,7 @@ avg_rating: 89.0
 | 1 | 0 | 1 | 0 | 0.0% | 89.00 | 1188 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/eugene_elo.png)
+![[eugene_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)

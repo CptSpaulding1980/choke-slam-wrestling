@@ -24,7 +24,7 @@ avg_rating: 90.03
 | 30 | 8 | 17 | 5 | 26.7% | 90.03 | 1111 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/shawn-michaels_elo.png)
+![[shawn-michaels_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (9x)

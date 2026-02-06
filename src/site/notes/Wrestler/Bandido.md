@@ -24,7 +24,7 @@ avg_rating: 84.61
 | 18 | 3 | 11 | 4 | 16.7% | 84.61 | 1100 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/bandido_elo.png)
+![[bandido_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Wardlow\|Wardlow]] (4x)

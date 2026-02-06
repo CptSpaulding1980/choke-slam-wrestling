@@ -24,7 +24,7 @@ avg_rating: 84.5
 | 4 | 2 | 1 | 1 | 50.0% | 84.50 | 1217 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/terry-funk_elo.png)
+![[terry-funk_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

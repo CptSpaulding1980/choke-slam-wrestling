@@ -24,7 +24,7 @@ avg_rating: 78.0
 | 3 | 1 | 2 | 0 | 33.3% | 78.00 | 1185 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/cousin-luke_elo.png)
+![[cousin-luke_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

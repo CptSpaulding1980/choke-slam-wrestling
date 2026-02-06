@@ -24,7 +24,7 @@ avg_rating: 80.0
 | 16 | 2 | 11 | 3 | 12.5% | 80.00 | 1072 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/tatum-paxley_elo.png)
+![[tatum-paxley_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (4x)

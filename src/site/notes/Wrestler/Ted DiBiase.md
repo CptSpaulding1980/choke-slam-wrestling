@@ -24,7 +24,7 @@ avg_rating: 90.0
 | 5 | 2 | 2 | 1 | 40.0% | 90.00 | 1206 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/ted-dibiase_elo.png)
+![[ted-dibiase_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

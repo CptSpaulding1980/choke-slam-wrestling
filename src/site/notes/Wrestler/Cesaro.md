@@ -24,7 +24,7 @@ avg_rating: 87.31
 | 13 | 6 | 5 | 2 | 46.2% | 87.31 | 1214 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/cesaro_elo.png)
+![[cesaro_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)

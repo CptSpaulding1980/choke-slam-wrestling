@@ -24,7 +24,7 @@ avg_rating: 84.5
 | 8 | 5 | 1 | 2 | 62.5% | 84.50 | 1267 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/chyna_elo.png)
+![[chyna_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)

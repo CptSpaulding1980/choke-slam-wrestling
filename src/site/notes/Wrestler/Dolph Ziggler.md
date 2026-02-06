@@ -24,7 +24,7 @@ avg_rating: 84.33
 | 3 | 1 | 1 | 1 | 33.3% | 84.33 | 1203 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/dolph-ziggler_elo.png)
+![[dolph-ziggler_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kane\|Kane]] (2x)

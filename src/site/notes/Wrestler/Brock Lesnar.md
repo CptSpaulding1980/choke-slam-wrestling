@@ -24,7 +24,7 @@ avg_rating: 78.4
 | 25 | 11 | 10 | 4 | 44.0% | 78.40 | 1219 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/brock-lesnar_elo.png)
+![[brock-lesnar_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Sting\|Sting]] (5x)

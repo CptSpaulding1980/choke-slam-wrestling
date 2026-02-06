@@ -24,7 +24,7 @@ avg_rating: 82.5
 | 4 | 1 | 2 | 1 | 25.0% | 82.50 | 1185 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/damian-priest_elo.png)
+![[damian-priest_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

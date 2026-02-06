@@ -24,7 +24,7 @@ avg_rating: 98.0
 | 3 | 2 | 1 | 0 | 66.7% | 98.00 | 1212 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/robert-dreissker_elo.png)
+![[robert-dreissker_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

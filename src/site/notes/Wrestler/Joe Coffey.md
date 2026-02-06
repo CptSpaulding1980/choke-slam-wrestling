@@ -24,7 +24,7 @@ avg_rating: 80.38
 | 13 | 5 | 7 | 1 | 38.5% | 80.38 | 1179 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/joe-coffey_elo.png)
+![[joe-coffey_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (2x)

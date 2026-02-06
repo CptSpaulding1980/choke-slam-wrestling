@@ -24,7 +24,7 @@ avg_rating: 78.5
 | 4 | 3 | 0 | 1 | 75.0% | 78.50 | 1241 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/bruno-sammartino_elo.png)
+![[bruno-sammartino_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/KENTA\|KENTA]] (2x)

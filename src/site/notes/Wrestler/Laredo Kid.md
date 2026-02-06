@@ -24,7 +24,7 @@ avg_rating: 84.24
 | 42 | 14 | 19 | 9 | 33.3% | 84.24 | 1106 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/laredo-kid_elo.png)
+![[laredo-kid_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (12x)

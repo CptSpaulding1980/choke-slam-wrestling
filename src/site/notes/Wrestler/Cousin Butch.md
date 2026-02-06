@@ -24,7 +24,7 @@ avg_rating: 83.0
 | 3 | 1 | 2 | 0 | 33.3% | 83.00 | 1180 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/cousin-butch_elo.png)
+![[cousin-butch_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

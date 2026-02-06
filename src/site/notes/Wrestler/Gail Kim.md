@@ -24,7 +24,7 @@ avg_rating: 85.24
 | 17 | 3 | 12 | 2 | 17.6% | 85.24 | 1078 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/gail-kim_elo.png)
+![[gail-kim_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)

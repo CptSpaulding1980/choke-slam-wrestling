@@ -24,7 +24,7 @@ avg_rating: 80.0
 | 1 | 1 | 0 | 0 | 100.0% | 80.00 | 1218 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/gable-steveson_elo.png)
+![[gable-steveson_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)

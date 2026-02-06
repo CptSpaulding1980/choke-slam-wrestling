@@ -24,7 +24,7 @@ avg_rating: 82.5
 | 2 | 1 | 0 | 1 | 50.0% | 82.50 | 1214 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/bobby-eaton_elo.png)
+![[bobby-eaton_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

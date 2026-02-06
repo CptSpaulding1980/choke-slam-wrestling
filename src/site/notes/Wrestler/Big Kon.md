@@ -24,7 +24,7 @@ avg_rating: 75.43
 | 7 | 2 | 3 | 2 | 28.6% | 75.43 | 1190 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/big-kon_elo.png)
+![[big-kon_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kiana James\|Kiana James]] (3x)

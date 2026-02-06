@@ -24,7 +24,7 @@ avg_rating: 81.5
 | 2 | 1 | 1 | 0 | 50.0% | 81.50 | 1196 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/eric-young_elo.png)
+![[eric-young_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)

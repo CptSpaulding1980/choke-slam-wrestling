@@ -24,7 +24,7 @@ avg_rating: 90.11
 | 9 | 1 | 5 | 3 | 11.1% | 90.11 | 1143 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/daga_elo.png)
+![[daga_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/KENTA\|KENTA]] (3x)

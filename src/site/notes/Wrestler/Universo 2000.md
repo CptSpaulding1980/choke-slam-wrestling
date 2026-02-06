@@ -24,7 +24,7 @@ avg_rating: 88.0
 | 1 | 0 | 1 | 0 | 0.0% | 88.00 | 1187 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/universo-2000_elo.png)
+![[universo-2000_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 86.46
 | 13 | 4 | 3 | 6 | 30.8% | 86.46 | 1219 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/bryan-danielson_elo.png)
+![[bryan-danielson_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (5x)

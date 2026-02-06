@@ -24,7 +24,7 @@ avg_rating: 81.8
 | 5 | 0 | 3 | 2 | 0.0% | 81.80 | 1152 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/ridge-holland_elo.png)
+![[ridge-holland_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (2x)

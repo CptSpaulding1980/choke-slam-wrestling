@@ -24,7 +24,7 @@ avg_rating: 90.0
 | 8 | 6 | 1 | 1 | 75.0% | 90.00 | 1276 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/lance-storm_elo.png)
+![[lance-storm_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (3x)

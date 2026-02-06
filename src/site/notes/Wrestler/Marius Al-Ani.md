@@ -24,7 +24,7 @@ avg_rating: 95.14
 | 7 | 4 | 2 | 1 | 57.1% | 95.14 | 1232 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/marius-al-ani_elo.png)
+![[marius-al-ani_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/WALTER\|WALTER]] (2x)

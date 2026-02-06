@@ -24,7 +24,7 @@ avg_rating: 74.0
 | 1 | 0 | 1 | 0 | 0.0% | 74.00 | 1182 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/vladimir-kozlov_elo.png)
+![[vladimir-kozlov_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kota Ibushi\|Kota Ibushi]] (1x)

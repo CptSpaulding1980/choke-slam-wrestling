@@ -24,7 +24,7 @@ avg_rating: 88.09
 | 11 | 4 | 6 | 1 | 36.4% | 88.09 | 1177 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/noam-dar_elo.png)
+![[noam-dar_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (5x)

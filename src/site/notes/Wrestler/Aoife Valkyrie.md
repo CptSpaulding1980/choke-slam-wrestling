@@ -24,7 +24,7 @@ avg_rating: 86.47
 | 30 | 6 | 17 | 7 | 20.0% | 86.47 | 1069 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/aoife-valkyrie_elo.png)
+![[aoife-valkyrie_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (6x)

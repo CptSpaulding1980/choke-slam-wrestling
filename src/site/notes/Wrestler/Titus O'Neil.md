@@ -24,7 +24,7 @@ avg_rating: 82.33
 | 3 | 1 | 2 | 0 | 33.3% | 82.33 | 1192 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/titus-oneil_elo.png)
+![[titus-oneil_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

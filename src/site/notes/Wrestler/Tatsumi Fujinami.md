@@ -24,7 +24,7 @@ avg_rating: 78.0
 | 2 | 1 | 0 | 1 | 50.0% | 78.00 | 1215 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/tatsumi-fujinami_elo.png)
+![[tatsumi-fujinami_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)

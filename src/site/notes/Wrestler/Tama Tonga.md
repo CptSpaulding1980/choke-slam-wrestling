@@ -24,7 +24,7 @@ avg_rating: 83.5
 | 10 | 3 | 6 | 1 | 30.0% | 83.50 | 1172 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/tama-tonga_elo.png)
+![[tama-tonga_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (2x)

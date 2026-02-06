@@ -24,7 +24,7 @@ avg_rating: 83.29
 | 35 | 16 | 14 | 5 | 45.7% | 83.29 | 1203 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/awesome-kong_elo.png)
+![[awesome-kong_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (5x)

@@ -24,7 +24,7 @@ avg_rating: 91.0
 | 4 | 0 | 1 | 3 | 0.0% | 91.00 | 1184 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/luna-vachon_elo.png)
+![[luna-vachon_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Orton\|Randy Orton]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 80.5
 | 4 | 2 | 1 | 1 | 50.0% | 80.50 | 1219 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/damien-sandow_elo.png)
+![[damien-sandow_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)

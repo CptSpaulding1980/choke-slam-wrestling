@@ -24,7 +24,7 @@ avg_rating: 91.5
 | 4 | 2 | 1 | 1 | 50.0% | 91.50 | 1221 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/jim-neidhart_elo.png)
+![[jim-neidhart_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)

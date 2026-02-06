@@ -24,7 +24,7 @@ avg_rating: 82.69
 | 48 | 24 | 15 | 9 | 50.0% | 82.69 | 1302 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/gunther_elo.png)
+![[gunther_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (8x)

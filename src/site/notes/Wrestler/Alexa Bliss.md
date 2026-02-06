@@ -24,7 +24,7 @@ avg_rating: 87.38
 | 26 | 9 | 13 | 4 | 34.6% | 87.38 | 1145 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/alexa-bliss_elo.png)
+![[alexa-bliss_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (5x)

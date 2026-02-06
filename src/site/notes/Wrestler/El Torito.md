@@ -24,7 +24,7 @@ avg_rating: 86.5
 | 2 | 1 | 1 | 0 | 50.0% | 86.50 | 1195 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/el-torito_elo.png)
+![[el-torito_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 86.2
 | 5 | 1 | 1 | 3 | 20.0% | 86.20 | 1202 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/sexy-star_elo.png)
+![[sexy-star_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kelly Klein\|Kelly Klein]] (3x)

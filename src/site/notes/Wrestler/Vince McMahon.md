@@ -24,7 +24,7 @@ avg_rating: 74.0
 | 1 | 0 | 1 | 0 | 0.0% | 74.00 | 1188 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/vince-mcmahon_elo.png)
+![[vince-mcmahon_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)

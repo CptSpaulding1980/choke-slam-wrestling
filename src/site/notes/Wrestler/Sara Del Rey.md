@@ -24,7 +24,7 @@ avg_rating: 84.85
 | 13 | 2 | 6 | 5 | 15.4% | 84.85 | 1145 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/sara-del-rey_elo.png)
+![[sara-del-rey_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Owen Hart\|Owen Hart]] (4x)

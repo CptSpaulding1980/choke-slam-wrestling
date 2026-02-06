@@ -24,7 +24,7 @@ avg_rating: 81.17
 | 24 | 8 | 10 | 6 | 33.3% | 81.17 | 1158 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/jun-akiyama_elo.png)
+![[jun-akiyama_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (6x)

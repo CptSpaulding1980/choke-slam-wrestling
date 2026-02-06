@@ -24,7 +24,7 @@ avg_rating: 88.0
 | 4 | 2 | 2 | 0 | 50.0% | 88.00 | 1201 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/hack-myers_elo.png)
+![[hack-myers_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)

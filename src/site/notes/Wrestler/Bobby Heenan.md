@@ -24,7 +24,7 @@ avg_rating: 75.0
 | 1 | 1 | 0 | 0 | 100.0% | 75.00 | 1218 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/bobby-heenan_elo.png)
+![[bobby-heenan_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)

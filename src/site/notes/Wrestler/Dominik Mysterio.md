@@ -24,7 +24,7 @@ avg_rating: 91.0
 | 3 | 1 | 2 | 0 | 33.3% | 91.00 | 1176 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/dominik-mysterio_elo.png)
+![[dominik-mysterio_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Lady Apache\|Lady Apache]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 85.19
 | 32 | 11 | 13 | 8 | 34.4% | 85.19 | 1175 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/kiana-james_elo.png)
+![[kiana-james_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (8x)

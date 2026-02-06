@@ -24,7 +24,7 @@ avg_rating: 89.05
 | 88 | 37 | 38 | 13 | 42.0% | 89.05 | 1183 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/bret-hart_elo.png)
+![[bret-hart_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (12x)

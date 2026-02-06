@@ -24,7 +24,7 @@ avg_rating: 75.2
 | 5 | 1 | 4 | 0 | 20.0% | 75.20 | 1155 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/cactus-jack_elo.png)
+![[cactus-jack_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Rush\|Rush]] (1x)

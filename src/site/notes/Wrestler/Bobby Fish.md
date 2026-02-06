@@ -24,7 +24,7 @@ avg_rating: 96.0
 | 3 | 0 | 3 | 0 | 0.0% | 96.00 | 1156 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/bobby-fish_elo.png)
+![[bobby-fish_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

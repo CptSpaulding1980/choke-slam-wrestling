@@ -24,7 +24,7 @@ avg_rating: 75.0
 | 1 | 0 | 1 | 0 | 0.0% | 75.00 | 1190 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/mabel_elo.png)
+![[mabel_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

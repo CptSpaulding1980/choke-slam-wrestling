@@ -24,7 +24,7 @@ avg_rating: 95.0
 | 1 | 0 | 1 | 0 | 0.0% | 95.00 | 1182 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/chris-candido_elo.png)
+![[chris-candido_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Lance Storm\|Lance Storm]] (1x)

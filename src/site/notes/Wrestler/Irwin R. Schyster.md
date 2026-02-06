@@ -24,7 +24,7 @@ avg_rating: 91.0
 | 3 | 2 | 1 | 0 | 66.7% | 91.00 | 1221 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/irwin-r-schyster_elo.png)
+![[irwin-r-schyster_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (1x)

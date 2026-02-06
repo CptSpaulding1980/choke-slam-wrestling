@@ -24,7 +24,7 @@ avg_rating: 94.33
 | 3 | 0 | 1 | 2 | 0.0% | 94.33 | 1185 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/mr-perfect_elo.png)
+![[mr-perfect_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)

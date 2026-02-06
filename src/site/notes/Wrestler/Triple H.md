@@ -24,7 +24,7 @@ avg_rating: 82.42
 | 69 | 37 | 20 | 12 | 53.6% | 82.42 | 1303 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/triple-h_elo.png)
+![[triple-h_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (11x)

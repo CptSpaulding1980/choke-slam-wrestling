@@ -24,7 +24,7 @@ avg_rating: 85.67
 | 9 | 4 | 5 | 0 | 44.4% | 85.67 | 1196 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/konosuke-takeshita_elo.png)
+![[konosuke-takeshita_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 81.75
 | 4 | 1 | 2 | 1 | 25.0% | 81.75 | 1185 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/ilja-dragunov_elo.png)
+![[ilja-dragunov_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)

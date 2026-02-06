@@ -24,7 +24,7 @@ avg_rating: 105.0
 | 1 | 0 | 1 | 0 | 0.0% | 105.00 | 1183 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/rusev_elo.png)
+![[rusev_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)

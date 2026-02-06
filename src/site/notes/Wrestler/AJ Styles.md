@@ -24,7 +24,7 @@ avg_rating: 84.09
 | 75 | 33 | 23 | 19 | 44.0% | 84.09 | 1258 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/aj-styles_elo.png)
+![[aj-styles_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (10x)

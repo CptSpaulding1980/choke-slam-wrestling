@@ -24,7 +24,7 @@ avg_rating: 83.34
 | 62 | 33 | 19 | 10 | 53.2% | 83.34 | 1313 |
 
 ### 📈 Elo History
-![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/big-van-vader_elo.png)
+![[big-van-vader_elo.png]]
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (11x)

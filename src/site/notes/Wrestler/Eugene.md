@@ -23,9 +23,6 @@ avg_rating: 89.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 89.00 | 1188 |
 
-### 📈 Elo History
-![](../img/charts/eugene_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
 

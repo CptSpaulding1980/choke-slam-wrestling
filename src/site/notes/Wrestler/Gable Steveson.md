@@ -23,9 +23,6 @@ avg_rating: 80.0
 |---|---|---|---|---|---|---|
 | 1 | 1 | 0 | 0 | 100.0% | 80.00 | 1218 |
 
-### 📈 Elo History
-![](../img/charts/gable-steveson_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
 - [[Wrestler/Gunther\|Gunther]] (1x)

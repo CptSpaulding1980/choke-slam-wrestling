@@ -23,9 +23,6 @@ avg_rating: 95.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 95.00 | 1182 |
 
-### 📈 Elo History
-![](../img/charts/chris-candido_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Lance Storm\|Lance Storm]] (1x)
 

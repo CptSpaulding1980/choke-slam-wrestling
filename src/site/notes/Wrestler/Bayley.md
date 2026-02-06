@@ -23,9 +23,6 @@ avg_rating: 69.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 69.00 | 1182 |
 
-### 📈 Elo History
-![](../img/charts/bayley_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)
 

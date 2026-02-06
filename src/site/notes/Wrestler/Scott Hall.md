@@ -23,9 +23,6 @@ avg_rating: 75.0
 |---|---|---|---|---|---|---|
 | 2 | 0 | 1 | 1 | 0.0% | 75.00 | 1185 |
 
-### 📈 Elo History
-![](../img/charts/scott-hall_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

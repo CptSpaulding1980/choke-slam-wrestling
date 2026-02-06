@@ -23,9 +23,6 @@ avg_rating: 72.0
 |---|---|---|---|---|---|---|
 | 1 | 1 | 0 | 0 | 100.0% | 72.00 | 1217 |
 
-### 📈 Elo History
-![](../img/charts/brother-nero_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Chris Hero\|Chris Hero]] (1x)
 

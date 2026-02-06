@@ -23,9 +23,6 @@ avg_rating: 84.0
 |---|---|---|---|---|---|---|
 | 1 | 1 | 0 | 0 | 100.0% | 84.00 | 1204 |
 
-### 📈 Elo History
-![](../img/charts/matt-hardy_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/nan\|nan]] (1x)
 

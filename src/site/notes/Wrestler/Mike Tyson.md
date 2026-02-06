@@ -23,9 +23,6 @@ avg_rating: 81.0
 |---|---|---|---|---|---|---|
 | 1 | 1 | 0 | 0 | 100.0% | 81.00 | 1215 |
 
-### 📈 Elo History
-![](../img/charts/mike-tyson_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Akira Taue\|Akira Taue]] (1x)
 

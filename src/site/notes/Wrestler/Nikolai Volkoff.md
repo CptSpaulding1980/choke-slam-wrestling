@@ -23,9 +23,6 @@ avg_rating: 97.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 97.00 | 1185 |
 
-### 📈 Elo History
-![](../img/charts/nikolai-volkoff_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 

@@ -23,9 +23,6 @@ avg_rating: 86.0
 |---|---|---|---|---|---|---|
 | 2 | 1 | 0 | 1 | 50.0% | 86.00 | 1215 |
 
-### 📈 Elo History
-![](../img/charts/dean-malenko_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

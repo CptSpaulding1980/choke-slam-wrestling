@@ -23,9 +23,6 @@ avg_rating: 73.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 73.00 | 1187 |
 
-### 📈 Elo History
-![](../img/charts/ron-simmons_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)

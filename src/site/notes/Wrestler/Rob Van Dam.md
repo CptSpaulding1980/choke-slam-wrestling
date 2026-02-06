@@ -23,9 +23,6 @@ avg_rating: 88.5
 |---|---|---|---|---|---|---|
 | 2 | 0 | 1 | 1 | 0.0% | 88.50 | 1184 |
 
-### 📈 Elo History
-![](../img/charts/rob-van-dam_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

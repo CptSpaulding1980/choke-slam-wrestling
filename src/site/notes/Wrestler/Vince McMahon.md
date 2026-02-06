@@ -23,9 +23,6 @@ avg_rating: 74.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 74.00 | 1188 |
 
-### 📈 Elo History
-![](../img/charts/vince-mcmahon_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
 

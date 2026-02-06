@@ -23,9 +23,6 @@ avg_rating: 97.5
 |---|---|---|---|---|---|---|
 | 2 | 1 | 0 | 1 | 50.0% | 97.50 | 1206 |
 
-### 📈 Elo History
-![](../img/charts/ace-steel_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/nan\|nan]] (1x)
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)

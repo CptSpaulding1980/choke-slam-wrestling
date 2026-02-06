@@ -23,9 +23,6 @@ avg_rating: 88.0
 |---|---|---|---|---|---|---|
 | 3 | 0 | 1 | 2 | 0.0% | 88.00 | 1181 |
 
-### 📈 Elo History
-![](../img/charts/razor-ramon_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Tommy End\|Tommy End]] (3x)
 - [[Wrestler/Angélico\|Angélico]] (2x)

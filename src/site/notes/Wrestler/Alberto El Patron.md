@@ -23,9 +23,6 @@ avg_rating: 94.0
 |---|---|---|---|---|---|---|
 | 2 | 0 | 1 | 1 | 0.0% | 94.00 | 1183 |
 
-### 📈 Elo History
-![](../img/charts/alberto-el-patron_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

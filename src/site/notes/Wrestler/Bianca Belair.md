@@ -23,9 +23,6 @@ avg_rating: 103.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 103.00 | 1184 |
 
-### 📈 Elo History
-![](../img/charts/bianca-belair_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Kiana James\|Kiana James]] (1x)
 

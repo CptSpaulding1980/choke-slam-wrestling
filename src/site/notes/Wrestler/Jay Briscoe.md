@@ -23,9 +23,6 @@ avg_rating: 88.0
 |---|---|---|---|---|---|---|
 | 3 | 1 | 0 | 2 | 33.3% | 88.00 | 1217 |
 
-### 📈 Elo History
-![](../img/charts/jay-briscoe_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Teoman\|Teoman]] (4x)
 - [[Wrestler/Veit Müller\|Veit Müller]] (4x)

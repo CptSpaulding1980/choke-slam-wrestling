@@ -23,9 +23,6 @@ avg_rating: 57.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 57.00 | 1184 |
 
-### 📈 Elo History
-![](../img/charts/big-daddy-v_elo.png)
-
 ## Häufigste Gegner
 - [[Wrestler/Ric Flair\|Ric Flair]] (1x)
 

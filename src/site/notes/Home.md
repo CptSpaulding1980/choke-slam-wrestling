@@ -5,6 +5,16 @@ title: Home
 noteIcon: 🏠
 ---
 
+<div style="text-align: center;">
+  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="400" alt="Choke Slam Wrestling">
+  <br><br>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_MM.png" width="100" alt="Militanter Mummenschanz">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SRR.png" width="100" alt="Saint Rebel Radicalz">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" width="100" alt="Sweet 'n Sour Elite">
+  </div>
+</div>
+
 # 🏠 Choke Slam Wrestling
 
 Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle Ergebnisse, Statistiken und Historien unseres Universums.

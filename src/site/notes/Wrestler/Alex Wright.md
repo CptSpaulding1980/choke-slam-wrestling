@@ -2,45 +2,41 @@
 dg-publish: 'true'
 permalink: /wrestler/alex-wright/
 title: Alex Wright
-type: wrestler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Alex_Wright.png
 matches: 3
 wins: 1
 losses: 2
+elo: 1185
 draws: 0
 win_percent: 33.3
 avg_rating: 90.33
-streaks:
-  longest_win: 1
-  longest_loss: 1
-  current:
-    type: loss
-    count: 1
-top_opponents:
-- name: Jonathan Gresham
-  matches: 1
-- name: Alexa Bliss
-  matches: 1
-- name: Wade Barrett
-  matches: 1
-championships: []
 ---
 
 # Alex Wright
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Alex_Wright.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Alex_Wright.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1185</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 3 | 1 | 2 | 0 | 33.3% | 90.33 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 3 | 1 | 2 | 0 | 33.3% | 90.33 | 1185 |
 
-**Längste Siegesserie:** 1<br>**Aktuelle Serie:** loss (1)
-
+### 📈 Elo History
+![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/alex-wright_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (1x)
 - [[Wrestler/Wade Barrett\|Wade Barrett]] (1x)
+
+## Letzte 5 Matches
+- 2023-04-03: [[Wrestler/Alex Wright\|Alex Wright]] vs. [[Wrestler/Wade Barrett\|Wade Barrett]] in [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] — ❌ Loss, 89%
+- 2023-03-29: Carat First Round: [[Wrestler/Alex Wright\|Alex Wright]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] — ❌ Loss, 90%
+- 2023-03-29: Loser Round: [[Wrestler/Alexa Bliss\|Alexa Bliss]] vs. [[Wrestler/Alex Wright\|Alex Wright]] in [[Events/2023-03-29 - S05E03_Europa - Day 2\|S05E03_Europa - Day 2]] — ✅ Win, 92%
+
+## Top Matches
+- 92%: Loser Round: [[Wrestler/Alexa Bliss\|Alexa Bliss]] vs. [[Wrestler/Alex Wright\|Alex Wright]] in [[Events/2023-03-29 - S05E03_Europa - Day 2\|S05E03_Europa - Day 2]] (2023-03-29)
+- 90%: Carat First Round: [[Wrestler/Alex Wright\|Alex Wright]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)
+- 89%: [[Wrestler/Alex Wright\|Alex Wright]] vs. [[Wrestler/Wade Barrett\|Wade Barrett]] in [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] (2023-04-03)

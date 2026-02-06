@@ -2,47 +2,29 @@
 dg-publish: 'true'
 permalink: /wrestler/el-gigante/
 title: El Gigante
-type: wrestler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/El_Gigante.png
 matches: 4
 wins: 2
 losses: 1
+elo: 1214
 draws: 1
 win_percent: 50.0
 avg_rating: 74.25
-streaks:
-  longest_win: 1
-  longest_loss: 1
-  current:
-    type: win
-    count: 1
-top_opponents:
-- name: Dijak
-  matches: 1
-- name: Shingo Takagi
-  matches: 1
-- name: Jordynne Grace
-  matches: 1
-- name: Drew Gulak
-  matches: 1
-- name: Dusty Rhodes
-  matches: 1
-championships: []
 ---
 
 # El Gigante
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/El_Gigante.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/El_Gigante.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1214</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 4 | 2 | 1 | 1 | 50.0% | 74.25 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 4 | 2 | 1 | 1 | 50.0% | 74.25 | 1214 |
 
-**Längste Siegesserie:** 1<br>**Aktuelle Serie:** win (1)
-
+### 📈 Elo History
+![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/el-gigante_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Dijak\|Dijak]] (1x)
@@ -50,3 +32,19 @@ championships: []
 - [[Wrestler/Jordynne Grace\|Jordynne Grace]] (1x)
 - [[Wrestler/Drew Gulak\|Drew Gulak]] (1x)
 - [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Glacier\|Glacier]] (3x)
+- [[Wrestler/Disco Inferno\|Disco Inferno]] (3x)
+
+## Letzte 5 Matches
+- 2024-03-07: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ❌ Loss, 76%
+- 2024-03-07: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ✅ Win, 78%
+- 2024-03-07: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — 🤝 Draw, 58%
+- 2024-03-07: Nature Game Masters  vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ✅ Win, 85%
+
+## Top Matches
+- 85%: Nature Game Masters  vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
+- 78%: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
+- 76%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
+- 58%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)

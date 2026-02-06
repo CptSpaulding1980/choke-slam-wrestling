@@ -2,47 +2,29 @@
 dg-publish: 'true'
 permalink: /wrestler/max-caster/
 title: Max Caster
-type: wrestler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Max_Caster.png
 matches: 3
 wins: 0
 losses: 3
+elo: 1158
 draws: 0
 win_percent: 0.0
 avg_rating: 83.67
-streaks:
-  longest_win: 0
-  longest_loss: 3
-  current:
-    type: loss
-    count: 3
-top_opponents:
-- name: Bob Backlund
-  matches: 1
-- name: EC3
-  matches: 1
-- name: Big Van Vader
-  matches: 1
-- name: Triple H
-  matches: 1
-- name: Shawn Michaels
-  matches: 1
-championships: []
 ---
 
 # Max Caster
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Max_Caster.png" width="280"></td><td><b>Height:</b> 189cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Mic Drop</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Max_Caster.png" width="280"></td><td><b>Height:</b> 189cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Mic Drop<br><b>Elo Rating:</b> 1158</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 3 | 0 | 3 | 0 | 0.0% | 83.67 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 3 | 0 | 3 | 0 | 0.0% | 83.67 | 1158 |
 
-**Längste Siegesserie:** 0<br>**Aktuelle Serie:** loss (3)
-
+### 📈 Elo History
+![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/max-caster_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
@@ -50,3 +32,16 @@ championships: []
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
 - [[Wrestler/Triple H\|Triple H]] (1x)
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Anthony Bowens\|Anthony Bowens]] (3x)
+
+## Letzte 5 Matches
+- 2022-10-02: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] — ❌ Loss, 89%
+- 2022-10-02: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] — ❌ Loss, 86%
+- 2022-10-02: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] — ❌ Loss, 76%
+
+## Top Matches
+- 89%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)
+- 86%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)
+- 76%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)

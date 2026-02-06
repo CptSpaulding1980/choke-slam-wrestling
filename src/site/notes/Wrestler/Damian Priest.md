@@ -2,47 +2,29 @@
 dg-publish: 'true'
 permalink: /wrestler/damian-priest/
 title: Damian Priest
-type: wrestler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Damian_Priest.png
 matches: 4
 wins: 1
 losses: 2
+elo: 1185
 draws: 1
 win_percent: 25.0
 avg_rating: 82.5
-streaks:
-  longest_win: 1
-  longest_loss: 2
-  current:
-    type: loss
-    count: 2
-top_opponents:
-- name: Abdullah The Butcher
-  matches: 2
-- name: Jimmy Snuka
-  matches: 2
-- name: Tiger Mask
-  matches: 1
-- name: Pat Patterson
-  matches: 1
-- name: Jinsei Shinzaki
-  matches: 1
-championships: []
 ---
 
 # Damian Priest
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Damian_Priest.png" width="280"></td><td><b>Height:</b> 201cm<br><b>Weight:</b> 114kg<br><b>Finisher:</b> South of Heaven</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Damian_Priest.png" width="280"></td><td><b>Height:</b> 201cm<br><b>Weight:</b> 114kg<br><b>Finisher:</b> South of Heaven<br><b>Elo Rating:</b> 1185</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 4 | 1 | 2 | 1 | 25.0% | 82.50 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 4 | 1 | 2 | 1 | 25.0% | 82.50 | 1185 |
 
-**Längste Siegesserie:** 1<br>**Aktuelle Serie:** loss (2)
-
+### 📈 Elo History
+![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/damian-priest_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
@@ -50,3 +32,21 @@ championships: []
 - [[Wrestler/Tiger Mask\|Tiger Mask]] (1x)
 - [[Wrestler/Pat Patterson\|Pat Patterson]] (1x)
 - [[Wrestler/Jinsei Shinzaki\|Jinsei Shinzaki]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Trent Seven\|Trent Seven]] (2x)
+- [[Wrestler/Brooks Jensen\|Brooks Jensen]] (2x)
+- [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)
+- [[Wrestler/Chyna\|Chyna]] (1x)
+
+## Letzte 5 Matches
+- 2024-03-07: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ✅ Win, 77%
+- 2024-03-07: Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ❌ Loss, 78%
+- 2024-03-07: Nature Game Masters  vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ❌ Loss, 85%
+- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 🤝 Draw, 90%
+
+## Top Matches
+- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
+- 85%: Nature Game Masters  vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
+- 78%: Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
+- 77%: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)

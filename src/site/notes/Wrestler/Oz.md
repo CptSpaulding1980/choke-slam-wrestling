@@ -2,39 +2,32 @@
 dg-publish: 'true'
 permalink: /wrestler/oz/
 title: Oz
-type: wrestler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Oz.png
 matches: 1
 wins: 0
 losses: 0
+elo: 1200
 draws: 1
 win_percent: 0.0
 avg_rating: 77.0
-streaks:
-  longest_win: 0
-  longest_loss: 0
-  current:
-    type: draw
-    count: 1
-top_opponents:
-- name: The Undertaker
-  matches: 1
-championships: []
 ---
 
 # Oz
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Oz.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Oz.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1200</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 1 | 0 | 0 | 1 | 0.0% | 77.00 |
-
-**Längste Siegesserie:** 0<br>**Aktuelle Serie:** draw (1)
-
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 1 | 0 | 0 | 1 | 0.0% | 77.00 | 1200 |
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (1x)
+
+## Letzte 5 Matches
+- 2024-03-07: [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Oz\|Oz]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — 🤝 Draw, 77%
+
+## Top Matches
+- 77%: [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Oz\|Oz]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)

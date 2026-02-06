@@ -2,7 +2,6 @@
 dg-publish: 'true'
 permalink: /wrestler/primo-coln/
 title: "Primo Col\xF3n"
-type: wrestler
 tags:
 - wrestler
 img: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Primo_Col\xF3\
@@ -10,40 +9,23 @@ img: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download
 matches: 5
 wins: 3
 losses: 1
+elo: 1230
 draws: 1
 win_percent: 60.0
 avg_rating: 78.0
-streaks:
-  longest_win: 2
-  longest_loss: 1
-  current:
-    type: loss
-    count: 1
-top_opponents:
-- name: Drew Gulak
-  matches: 1
-- name: Dusty Rhodes
-  matches: 1
-- name: Dijak
-  matches: 1
-- name: Kofi Kingston
-  matches: 1
-- name: "Epico Col\xF3n"
-  matches: 1
-championships: []
 ---
 
 # Primo Colón
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Primo_Colón.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Primo_Colón.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1230</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 5 | 3 | 1 | 1 | 60.0% | 78.00 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 5 | 3 | 1 | 1 | 60.0% | 78.00 | 1230 |
 
-**Längste Siegesserie:** 2<br>**Aktuelle Serie:** loss (1)
-
+### 📈 Elo History
+![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/primo-coln_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Drew Gulak\|Drew Gulak]] (1x)
@@ -51,3 +33,20 @@ championships: []
 - [[Wrestler/Dijak\|Dijak]] (1x)
 - [[Wrestler/Kofi Kingston\|Kofi Kingston]] (1x)
 - [[Wrestler/Epico Colón\|Epico Colón]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Epico Colón\|Epico Colón]] (4x)
+
+## Letzte 5 Matches
+- 2024-10-22: [[Choke Slam Tag Team Championship]]: Los Matadores vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] — ❌ Loss, 80%
+- 2024-03-07: [[Teams/Path of God\|Path of God]] vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ✅ Win, 73%
+- 2024-03-07: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — 🤝 Draw, 87%
+- 2024-03-07: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ✅ Win, 72%
+- 2024-03-07: Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ✅ Win, 78%
+
+## Top Matches
+- 87%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
+- 80%: [[Choke Slam Tag Team Championship]]: Los Matadores vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)
+- 78%: Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
+- 73%: [[Teams/Path of God\|Path of God]] vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
+- 72%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)

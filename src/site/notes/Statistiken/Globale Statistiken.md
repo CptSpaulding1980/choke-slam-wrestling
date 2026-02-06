@@ -29,34 +29,13 @@ tags: [statistik]
 ## Top 10 Siege
 | Wrestler | Siege |
 |---|---|
-| [[Kazuchika Okada]] | 51 |
-| [[Bob Backlund]] | 45 |
-| [[Roman Reigns]] | 45 |
-| [[Randy Savage]] | 41 |
-| [[Bret Hart]] | 37 |
-| [[Triple H]] | 37 |
-| [[Hulk Hogan]] | 34 |
-| [[Big Van Vader]] | 33 |
-| [[AJ Styles]] | 33 |
-| [[The Undertaker]] | 33 |
-
-## Match Typen
-| Typ | Anzahl |
-|---|---|
-| Hardcore | 16 |
-| Submission | 14 |
-| Last Man Standing | 8 |
-| Royal Rumble | 7 |
-| Battle Royal | 6 |
-| Beat the Clock | 6 |
-| Steel Cage | 6 |
-| Iron Man | 5 |
-| Threeway | 3 |
-| Exploding Landmine Death | 3 |
-| Tables | 3 |
-| SWA Rules | 3 |
-| Falls Count Anywhere | 2 |
-| Ladder | 1 |
-| Hell in a Cell | 1 |
-| Street Fight | 1 |
-| 2 out of 3 Falls | 1 |
+| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 51 |
+| [[Wrestler/Bob Backlund\|Bob Backlund]] | 45 |
+| [[Wrestler/Roman Reigns\|Roman Reigns]] | 45 |
+| [[Wrestler/Randy Savage\|Randy Savage]] | 41 |
+| [[Wrestler/Bret Hart\|Bret Hart]] | 37 |
+| [[Wrestler/Triple H\|Triple H]] | 37 |
+| [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 34 |
+| [[Wrestler/Big Van Vader\|Big Van Vader]] | 33 |
+| [[Wrestler/AJ Styles\|AJ Styles]] | 33 |
+| [[Wrestler/The Undertaker\|The Undertaker]] | 33 |

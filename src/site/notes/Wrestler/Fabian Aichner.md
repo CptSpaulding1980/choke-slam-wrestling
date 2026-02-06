@@ -2,47 +2,29 @@
 dg-publish: 'true'
 permalink: /wrestler/fabian-aichner/
 title: Fabian Aichner
-type: wrestler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Fabian_Aichner.png
 matches: 3
 wins: 2
 losses: 1
+elo: 1212
 draws: 0
 win_percent: 66.7
 avg_rating: 78.33
-streaks:
-  longest_win: 2
-  longest_loss: 1
-  current:
-    type: loss
-    count: 1
-top_opponents:
-- name: Colt Cabana
-  matches: 1
-- name: Jushin Liger
-  matches: 1
-- name: Austin Aries
-  matches: 1
-- name: Dr. Wagner Jr.
-  matches: 1
-- name: Dustin Rhodes
-  matches: 1
-championships: []
 ---
 
 # Fabian Aichner
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Fabian_Aichner.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Fabian_Aichner.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1212</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 3 | 2 | 1 | 0 | 66.7% | 78.33 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 3 | 2 | 1 | 0 | 66.7% | 78.33 | 1212 |
 
-**Längste Siegesserie:** 2<br>**Aktuelle Serie:** loss (1)
-
+### 📈 Elo History
+![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/fabian-aichner_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Colt Cabana\|Colt Cabana]] (1x)
@@ -50,3 +32,16 @@ championships: []
 - [[Wrestler/Austin Aries\|Austin Aries]] (1x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Marcel Barthel\|Marcel Barthel]] (3x)
+
+## Letzte 5 Matches
+- 2021-01-21: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ✅ Win, 96%
+- 2021-01-21: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ✅ Win, 71%
+- 2021-01-21: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ❌ Loss, 68%
+
+## Top Matches
+- 96%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
+- 71%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
+- 68%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)

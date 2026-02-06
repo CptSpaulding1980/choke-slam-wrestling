@@ -2,47 +2,29 @@
 dg-publish: 'true'
 permalink: /wrestler/road-dogg/
 title: Road Dogg
-type: wrestler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Road_Dogg.png
 matches: 3
 wins: 1
 losses: 2
+elo: 1183
 draws: 0
 win_percent: 33.3
 avg_rating: 92.33
-streaks:
-  longest_win: 1
-  longest_loss: 2
-  current:
-    type: loss
-    count: 2
-top_opponents:
-- name: Big E
-  matches: 1
-- name: Kofi Kingston
-  matches: 1
-- name: Mosh
-  matches: 1
-- name: Thrasher
-  matches: 1
-- name: Akira Taue
-  matches: 1
-championships: []
 ---
 
 # Road Dogg
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Road_Dogg.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Road_Dogg.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1183</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 3 | 1 | 2 | 0 | 33.3% | 92.33 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 3 | 1 | 2 | 0 | 33.3% | 92.33 | 1183 |
 
-**Längste Siegesserie:** 1<br>**Aktuelle Serie:** loss (2)
-
+### 📈 Elo History
+![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/road-dogg_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Big E\|Big E]] (1x)
@@ -50,3 +32,16 @@ championships: []
 - [[Wrestler/Mosh\|Mosh]] (1x)
 - [[Wrestler/Thrasher\|Thrasher]] (1x)
 - [[Wrestler/Akira Taue\|Akira Taue]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Billy Gunn\|Billy Gunn]] (3x)
+
+## Letzte 5 Matches
+- 2025-11-18: [[Wrestler/Billy Gunn\|Billy Gunn]] & [[Wrestler/Road Dogg\|Road Dogg]] vs. [[Wrestler/Big E\|Big E]] & [[Wrestler/Kofi Kingston\|Kofi Kingston]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ✅ Win, 94%
+- 2025-11-18: [[Wrestler/Mosh\|Mosh]] & [[Wrestler/Thrasher\|Thrasher]] vs. [[Wrestler/Billy Gunn\|Billy Gunn]] & [[Wrestler/Road Dogg\|Road Dogg]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ❌ Loss, 89%
+- 2025-11-18: [[Wrestler/Billy Gunn\|Billy Gunn]] & [[Wrestler/Road Dogg\|Road Dogg]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ❌ Loss, 94%
+
+## Top Matches
+- 94%: [[Wrestler/Billy Gunn\|Billy Gunn]] & [[Wrestler/Road Dogg\|Road Dogg]] vs. [[Wrestler/Big E\|Big E]] & [[Wrestler/Kofi Kingston\|Kofi Kingston]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)
+- 94%: [[Wrestler/Billy Gunn\|Billy Gunn]] & [[Wrestler/Road Dogg\|Road Dogg]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)
+- 89%: [[Wrestler/Mosh\|Mosh]] & [[Wrestler/Thrasher\|Thrasher]] vs. [[Wrestler/Billy Gunn\|Billy Gunn]] & [[Wrestler/Road Dogg\|Road Dogg]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)

@@ -2,47 +2,29 @@
 dg-publish: 'true'
 permalink: /wrestler/big-ryck/
 title: Big Ryck
-type: wrestler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Ryck.png
 matches: 11
 wins: 3
 losses: 4
+elo: 1190
 draws: 4
 win_percent: 27.3
 avg_rating: 86.91
-streaks:
-  longest_win: 2
-  longest_loss: 3
-  current:
-    type: draw
-    count: 1
-top_opponents:
-- name: Big Van Vader
-  matches: 5
-- name: AJ Styles
-  matches: 4
-- name: Samoa Joe
-  matches: 4
-- name: Madison Rayne
-  matches: 4
-- name: Tetsuya Naito
-  matches: 4
-championships: []
 ---
 
 # Big Ryck
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Ryck.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Ryck.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1190</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 11 | 3 | 4 | 4 | 27.3% | 86.91 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 11 | 3 | 4 | 4 | 27.3% | 86.91 | 1190 |
 
-**Längste Siegesserie:** 2<br>**Aktuelle Serie:** draw (1)
-
+### 📈 Elo History
+![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/big-ryck_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
@@ -50,3 +32,24 @@ championships: []
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (4x)
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (4x)
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (4x)
+
+## Häufigste Partner
+- [[Wrestler/Chyna\|Chyna]] (4x)
+- [[Wrestler/Samoa Joe\|Samoa Joe]] (3x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (3x)
+- [[Wrestler/Seth Rollins\|Seth Rollins]] (3x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
+
+## Letzte 5 Matches
+- 2025-01-16: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Big Ryck\|Big Ryck]], [[Wrestler/Chyna\|Chyna]], [[Wrestler/Big Van Vader\|Big Van Vader]], & [[Wrestler/Samoa Joe\|Samoa Joe]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ✅ Win, 85%
+- 2025-01-16: [[Royal Rumble]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — 🤝 Draw, 89%
+- 2023-12-15: VF3: [[Wrestler/Big Van Vader\|Big Van Vader]], [[Wrestler/Madison Rayne\|Madison Rayne]], & [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Chyna\|Chyna]], [[Wrestler/Seth Rollins\|Seth Rollins]], & [[Wrestler/Big Ryck\|Big Ryck]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 76%
+- 2023-12-15: HF2: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Chyna\|Chyna]], [[Wrestler/Seth Rollins\|Seth Rollins]], & [[Wrestler/Big Ryck\|Big Ryck]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 81%
+- 2023-12-15: Finale: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Ryck\|Big Ryck]], [[Wrestler/Chyna\|Chyna]] & [[Wrestler/Seth Rollins\|Seth Rollins]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 98%
+
+## Top Matches
+- 98%: Finale: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Ryck\|Big Ryck]], [[Wrestler/Chyna\|Chyna]] & [[Wrestler/Seth Rollins\|Seth Rollins]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)
+- 93%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Randy Orton\|Randy Orton]] & [[Wrestler/Mansoor\|Mansoor]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
+- 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
+- 91%: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)
+- 89%: [[Royal Rumble]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)

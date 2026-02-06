@@ -2,47 +2,29 @@
 dg-publish: 'true'
 permalink: /wrestler/the-shark/
 title: The Shark
-type: wrestler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Shark.png
 matches: 2
 wins: 0
 losses: 2
+elo: 1170
 draws: 0
 win_percent: 0.0
 avg_rating: 80.0
-streaks:
-  longest_win: 0
-  longest_loss: 2
-  current:
-    type: loss
-    count: 2
-top_opponents:
-- name: Bret Hart
-  matches: 1
-- name: CM Punk
-  matches: 1
-- name: Miro
-  matches: 1
-- name: Thea Hail
-  matches: 1
-- name: Jay White
-  matches: 1
-championships: []
 ---
 
 # The Shark
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Shark.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Shark.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1170</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 2 | 0 | 2 | 0 | 0.0% | 80.00 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 2 | 0 | 2 | 0 | 0.0% | 80.00 | 1170 |
 
-**Längste Siegesserie:** 0<br>**Aktuelle Serie:** loss (2)
-
+### 📈 Elo History
+![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/the-shark_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
@@ -50,3 +32,16 @@ championships: []
 - [[Wrestler/Miro\|Miro]] (1x)
 - [[Wrestler/Thea Hail\|Thea Hail]] (1x)
 - [[Wrestler/Jay White\|Jay White]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Kamala\|Kamala]] (2x)
+- [[Wrestler/Meng\|Meng]] (2x)
+- [[Wrestler/The Zodiac\|The Zodiac]] (2x)
+
+## Letzte 5 Matches
+- 2023-10-09: War Games: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] — ❌ Loss, 85%
+- 2023-10-09: War Games: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] — ❌ Loss, 75%
+
+## Top Matches
+- 85%: War Games: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)
+- 75%: War Games: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

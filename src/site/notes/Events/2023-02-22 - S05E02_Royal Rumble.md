@@ -7,94 +7,6 @@ promotion: "Choke Slam Wrestling"
 venue: "American Airlines Center"
 location: "Dallas, Texas, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
-winners:
-  - Big Van Vader
-  - Grayson Waller
-  - Hulk Hogan
-  - Pac
-  - Randy Savage
-  - Shayna Baszler
-losers:
-  - AJ Styles
-  - Big Van Vader
-  - Brandon
-  - Davey Boy Smith
-  - Jonathan Gresham
-  - Kenny Omega
-  - Ludwig Kaiser
-  - Miro
-  - WALTER
-draws:
-  - Big Van Vader
-  - Eddie Edwards
-type: event
-matches:
-  - name: "AJ Styles vs. Pac vs. Kenny Omega"
-    finish: "Pac won a triple threat match against AJ Styles & Kenny Omega in  30:06"
-    time: "30:06"
-    rating: "99★"
-    score: 99
-    is_championship: false
-  - name: "Grayson Waller vs. Jonathan Gresham vs. Miro"
-    finish: "Grayson Waller won a triple threat match against Jonathan Gresham & Miro in  23:44"
-    time: "23:44"
-    rating: "102★"
-    score: 102
-    is_championship: false
-  - name: "Brandon vs. Davey Boy Smith vs. Randy Savage"
-    finish: "Randy Savage won a triple threat match against Brandon & Davey Boy Smith in  30:10"
-    time: "30:10"
-    rating: "102★"
-    score: 102
-    is_championship: false
-  - name: "Womens Royal Rumble"
-    finish: "Shayna Baszler won a 28 wrestler Royal Rumble in  70:29"
-    time: "70:29"
-    rating: "88★"
-    score: 88
-    stipulation: "Royal Rumble"
-    is_championship: false
-  - name: "Tag Team Title Battle Royal"
-    finish: "Hulk Hogan won a 8 wrestler battle royale in  126:50"
-    time: "126:50"
-    rating: "98★"
-    score: 98
-    stipulation: "Battle Royal, Tag Team"
-    championship: "Choke Slam Tag Team Championship"
-    is_championship: true
-  - name: "Choke Slam Hardcore Championship: Miro vs. Ludwig Kaiser vs. Hulk Hogan vs. WALTER"
-    finish: "Hulk Hogan won a four-corners match against Miro, Ludwig Kaiser, &WALTER in  76:46"
-    time: "76:46"
-    rating: "99★"
-    score: 99
-    stipulation: "Hardcore"
-    championship: "Choke Slam International Championship"
-    is_championship: true
-  - name: "Eddie Edwards vs. Big Van Vader"
-    finish: "Eddie Edwards battled Big Van Vader to a  time limit draw"
-    time: "20:00"
-    rating: "90★"
-    score: 90
-    is_championship: false
-  - name: "Randy Savage vs. Big Van Vader"
-    finish: "Randy Savage beat Big Van Vader in 9 Min 36 Sec with a Macho Flying Elbow Drop"
-    time: "9:36"
-    rating: "77★"
-    score: 77
-    is_championship: false
-  - name: "Kenny Omega vs. Big Van Vader"
-    finish: "Big Van Vader beat Kenny Omega in 17 Min 42 Sec with a RING OUT"
-    time: "17:42"
-    rating: "100★"
-    score: 100
-    is_championship: false
-  - name: "Mens Royal Rumble"
-    finish: "Mr. Fuji won a 30 wrestler Royal Rumble in  79:19"
-    time: "79:19"
-    rating: "88★"
-    score: 88
-    stipulation: "Royal Rumble"
-    is_championship: false
 ---
 
 # <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E02_Royal Rumble**
@@ -119,5 +31,5 @@ matches:
 | 10 | Royal Rumble | Mens [[Royal Rumble]] | Mr. Fuji won a 30 wrestler Royal Rumble in  79:19 | 79:19 | 88★ | 88 |
 
 ## Links
-- [[Events|Events]]
-- [[Wrestler|Wrestler]]
+- [[Events\|📅 Alle Events]]
+- [[Wrestler\|🤼 Roster & Stats]]

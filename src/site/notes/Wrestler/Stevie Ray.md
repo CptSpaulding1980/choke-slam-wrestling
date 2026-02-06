@@ -2,47 +2,29 @@
 dg-publish: 'true'
 permalink: /wrestler/stevie-ray/
 title: Stevie Ray
-type: wrestler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Stevie_Ray.png
 matches: 4
 wins: 1
 losses: 3
+elo: 1176
 draws: 0
 win_percent: 25.0
 avg_rating: 90.0
-streaks:
-  longest_win: 1
-  longest_loss: 3
-  current:
-    type: win
-    count: 1
-top_opponents:
-- name: Brandon
-  matches: 1
-- name: Grayson Waller
-  matches: 1
-- name: Daniel Bryan
-  matches: 1
-- name: Hiroshi Tanahashi
-  matches: 1
-- name: Johnny Gargano
-  matches: 1
-championships: []
 ---
 
 # Stevie Ray
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Stevie_Ray.png" width="280"></td><td><b>Height:</b> 195cm<br><b>Weight:</b> 133kg<br><b>Finisher:</b> Slapjack</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Stevie_Ray.png" width="280"></td><td><b>Height:</b> 195cm<br><b>Weight:</b> 133kg<br><b>Finisher:</b> Slapjack<br><b>Elo Rating:</b> 1176</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
-|---|---|---|---|---|---|
-| 4 | 1 | 3 | 0 | 25.0% | 90.00 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
+|---|---|---|---|---|---|---|
+| 4 | 1 | 3 | 0 | 25.0% | 90.00 | 1176 |
 
-**Längste Siegesserie:** 1<br>**Aktuelle Serie:** win (1)
-
+### 📈 Elo History
+![Elo Chart](https://cptspaulding1980.github.io/choke-slam-wrestling/img/charts/stevie-ray_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (1x)
@@ -50,3 +32,19 @@ championships: []
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (1x)
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)
 - [[Wrestler/Johnny Gargano\|Johnny Gargano]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Booker T\|Booker T]] (3x)
+- [[Wrestler/Lex Luger\|Lex Luger]] (1x)
+
+## Letzte 5 Matches
+- 2025-12-30: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 95%
+- 2025-12-30: [[Wrestler/Johnny Gargano\|Johnny Gargano]] & [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 90%
+- 2025-12-30: [[Wrestler/Cody Rhodes\|Cody Rhodes]] & [[Wrestler/Oba Femi\|Oba Femi]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 99%
+- 2023-05-30: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Lex Luger\|Lex Luger]] & [[Wrestler/Stevie Ray\|Stevie Ray]] in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] — ❌ Loss, 76%
+
+## Top Matches
+- 99%: [[Wrestler/Cody Rhodes\|Cody Rhodes]] & [[Wrestler/Oba Femi\|Oba Femi]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)
+- 95%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)
+- 90%: [[Wrestler/Johnny Gargano\|Johnny Gargano]] & [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)
+- 76%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Lex Luger\|Lex Luger]] & [[Wrestler/Stevie Ray\|Stevie Ray]] in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)

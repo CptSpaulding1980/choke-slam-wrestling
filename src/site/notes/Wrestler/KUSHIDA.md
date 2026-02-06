@@ -24,7 +24,7 @@ avg_rating: 80.66
 | 32 | 15 | 11 | 6 | 46.9% | 80.66 | 1232 |
 
 ### 📈 Elo History
-![[kushida_elo.png]]
+![](../img/charts/kushida_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (10x)

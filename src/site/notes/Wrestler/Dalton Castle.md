@@ -24,7 +24,7 @@ avg_rating: 85.85
 | 13 | 2 | 7 | 4 | 15.4% | 85.85 | 1138 |
 
 ### 📈 Elo History
-![[dalton-castle_elo.png]]
+![](../img/charts/dalton-castle_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)

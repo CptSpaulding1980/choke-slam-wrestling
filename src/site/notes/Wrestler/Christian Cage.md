@@ -24,7 +24,7 @@ avg_rating: 85.08
 | 37 | 18 | 11 | 8 | 48.6% | 85.08 | 1267 |
 
 ### 📈 Elo History
-![[christian-cage_elo.png]]
+![](../img/charts/christian-cage_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (9x)

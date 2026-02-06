@@ -24,7 +24,7 @@ avg_rating: 93.0
 | 1 | 0 | 1 | 0 | 0.0% | 93.00 | 1183 |
 
 ### 📈 Elo History
-![[jamie-hayter_elo.png]]
+![](../img/charts/jamie-hayter_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Giulia\|Giulia]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 81.5
 | 2 | 0 | 1 | 1 | 0.0% | 81.50 | 1186 |
 
 ### 📈 Elo History
-![[roddy-piper_elo.png]]
+![](../img/charts/roddy-piper_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

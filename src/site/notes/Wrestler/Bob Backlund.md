@@ -24,7 +24,7 @@ avg_rating: 89.02
 | 83 | 45 | 26 | 12 | 54.2% | 89.02 | 1363 |
 
 ### 📈 Elo History
-![[bob-backlund_elo.png]]
+![](../img/charts/bob-backlund_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (12x)

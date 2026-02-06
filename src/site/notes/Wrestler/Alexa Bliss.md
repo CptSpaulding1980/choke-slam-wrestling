@@ -24,7 +24,7 @@ avg_rating: 87.38
 | 26 | 9 | 13 | 4 | 34.6% | 87.38 | 1145 |
 
 ### 📈 Elo History
-![[alexa-bliss_elo.png]]
+![](../img/charts/alexa-bliss_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (5x)

@@ -24,7 +24,7 @@ avg_rating: 88.67
 | 9 | 0 | 7 | 2 | 0.0% | 88.67 | 1100 |
 
 ### 📈 Elo History
-![[paul-orndorff_elo.png]]
+![](../img/charts/paul-orndorff_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)

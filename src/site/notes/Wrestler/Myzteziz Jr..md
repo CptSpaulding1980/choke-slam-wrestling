@@ -24,7 +24,7 @@ avg_rating: 82.56
 | 9 | 3 | 2 | 4 | 33.3% | 82.56 | 1223 |
 
 ### 📈 Elo History
-![[myzteziz-jr_elo.png]]
+![](../img/charts/myzteziz-jr_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (5x)

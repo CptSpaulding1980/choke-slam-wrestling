@@ -24,7 +24,7 @@ avg_rating: 74.25
 | 4 | 2 | 1 | 1 | 50.0% | 74.25 | 1214 |
 
 ### 📈 Elo History
-![[glacier_elo.png]]
+![](../img/charts/glacier_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Dijak\|Dijak]] (1x)

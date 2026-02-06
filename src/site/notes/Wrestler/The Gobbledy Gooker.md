@@ -24,7 +24,7 @@ avg_rating: 80.5
 | 4 | 1 | 3 | 0 | 25.0% | 80.50 | 1177 |
 
 ### 📈 Elo History
-![[the-gobbledy-gooker_elo.png]]
+![](../img/charts/the-gobbledy-gooker_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)

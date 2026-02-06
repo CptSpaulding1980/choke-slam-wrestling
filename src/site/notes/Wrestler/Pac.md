@@ -24,7 +24,7 @@ avg_rating: 86.74
 | 23 | 11 | 8 | 4 | 47.8% | 86.74 | 1240 |
 
 ### 📈 Elo History
-![[pac_elo.png]]
+![](../img/charts/pac_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (4x)

@@ -24,7 +24,7 @@ avg_rating: 74.33
 | 3 | 0 | 2 | 1 | 0.0% | 74.33 | 1170 |
 
 ### 📈 Elo History
-![[tully-blanchard_elo.png]]
+![](../img/charts/tully-blanchard_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

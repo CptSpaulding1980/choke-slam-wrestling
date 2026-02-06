@@ -24,7 +24,7 @@ avg_rating: 75.0
 | 1 | 1 | 0 | 0 | 100.0% | 75.00 | 1218 |
 
 ### 📈 Elo History
-![[bobby-heenan_elo.png]]
+![](../img/charts/bobby-heenan_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 85.29
 | 38 | 15 | 16 | 7 | 39.5% | 85.29 | 1172 |
 
 ### 📈 Elo History
-![[madison-rayne_elo.png]]
+![](../img/charts/madison-rayne_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/KENTA\|KENTA]] (8x)

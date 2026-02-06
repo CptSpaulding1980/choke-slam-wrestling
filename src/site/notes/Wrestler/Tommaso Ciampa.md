@@ -24,7 +24,7 @@ avg_rating: 93.67
 | 9 | 3 | 5 | 1 | 33.3% | 93.67 | 1173 |
 
 ### 📈 Elo History
-![[tommaso-ciampa_elo.png]]
+![](../img/charts/tommaso-ciampa_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Jay White\|Jay White]] (4x)

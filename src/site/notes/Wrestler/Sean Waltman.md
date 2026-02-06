@@ -24,7 +24,7 @@ avg_rating: 93.25
 | 4 | 2 | 0 | 2 | 50.0% | 93.25 | 1222 |
 
 ### 📈 Elo History
-![[sean-waltman_elo.png]]
+![](../img/charts/sean-waltman_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (3x)

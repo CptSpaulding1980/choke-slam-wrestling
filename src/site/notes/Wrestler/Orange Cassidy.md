@@ -24,7 +24,7 @@ avg_rating: 87.5
 | 2 | 0 | 2 | 0 | 0.0% | 87.50 | 1169 |
 
 ### 📈 Elo History
-![[orange-cassidy_elo.png]]
+![](../img/charts/orange-cassidy_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)

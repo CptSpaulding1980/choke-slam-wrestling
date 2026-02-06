@@ -24,7 +24,7 @@ avg_rating: 73.0
 | 1 | 0 | 1 | 0 | 0.0% | 73.00 | 1180 |
 
 ### 📈 Elo History
-![[mascarit-sagrada_elo.png]]
+![](../img/charts/mascarit-sagrada_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

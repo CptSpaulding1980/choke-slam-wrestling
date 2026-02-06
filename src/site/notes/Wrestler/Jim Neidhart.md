@@ -24,7 +24,7 @@ avg_rating: 91.5
 | 4 | 2 | 1 | 1 | 50.0% | 91.50 | 1221 |
 
 ### 📈 Elo History
-![[jim-neidhart_elo.png]]
+![](../img/charts/jim-neidhart_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)

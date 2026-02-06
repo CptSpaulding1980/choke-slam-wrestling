@@ -24,7 +24,7 @@ avg_rating: 87.75
 | 4 | 1 | 2 | 1 | 25.0% | 87.75 | 1186 |
 
 ### 📈 Elo History
-![[santino-marella_elo.png]]
+![](../img/charts/santino-marella_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)

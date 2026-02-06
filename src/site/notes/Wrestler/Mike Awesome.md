@@ -24,7 +24,7 @@ avg_rating: 102.0
 | 1 | 0 | 1 | 0 | 0.0% | 102.00 | 1187 |
 
 ### 📈 Elo History
-![[mike-awesome_elo.png]]
+![](../img/charts/mike-awesome_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

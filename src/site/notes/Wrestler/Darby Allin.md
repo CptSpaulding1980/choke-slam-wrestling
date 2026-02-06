@@ -24,7 +24,7 @@ avg_rating: 78.67
 | 3 | 0 | 3 | 0 | 0.0% | 78.67 | 1155 |
 
 ### 📈 Elo History
-![[darby-allin_elo.png]]
+![](../img/charts/darby-allin_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

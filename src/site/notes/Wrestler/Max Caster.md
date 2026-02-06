@@ -24,7 +24,7 @@ avg_rating: 83.67
 | 3 | 0 | 3 | 0 | 0.0% | 83.67 | 1158 |
 
 ### 📈 Elo History
-![[max-caster_elo.png]]
+![](../img/charts/max-caster_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

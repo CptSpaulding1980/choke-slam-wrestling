@@ -24,7 +24,7 @@ avg_rating: 89.0
 | 1 | 0 | 1 | 0 | 0.0% | 89.00 | 1181 |
 
 ### 📈 Elo History
-![[viscera_elo.png]]
+![](../img/charts/viscera_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

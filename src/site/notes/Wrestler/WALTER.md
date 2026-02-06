@@ -24,7 +24,7 @@ avg_rating: 94.23
 | 13 | 6 | 3 | 4 | 46.2% | 94.23 | 1240 |
 
 ### 📈 Elo History
-![[walter_elo.png]]
+![](../img/charts/walter_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)

@@ -24,7 +24,7 @@ avg_rating: 92.0
 | 6 | 0 | 2 | 4 | 0.0% | 92.00 | 1170 |
 
 ### 📈 Elo History
-![[pascal-lepas_elo.png]]
+![](../img/charts/pascal-lepas_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)

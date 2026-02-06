@@ -24,7 +24,7 @@ avg_rating: 77.67
 | 3 | 1 | 2 | 0 | 33.3% | 77.67 | 1185 |
 
 ### 📈 Elo History
-![[giant-gonzalez_elo.png]]
+![](../img/charts/giant-gonzalez_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

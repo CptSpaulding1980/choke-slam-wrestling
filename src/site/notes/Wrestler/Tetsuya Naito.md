@@ -24,7 +24,7 @@ avg_rating: 85.71
 | 68 | 26 | 31 | 11 | 38.2% | 85.71 | 1168 |
 
 ### 📈 Elo History
-![[tetsuya-naito_elo.png]]
+![](../img/charts/tetsuya-naito_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (12x)

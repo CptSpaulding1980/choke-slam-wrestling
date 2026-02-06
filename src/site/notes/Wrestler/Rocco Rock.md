@@ -24,7 +24,7 @@ avg_rating: 81.33
 | 3 | 0 | 3 | 0 | 0.0% | 81.33 | 1156 |
 
 ### 📈 Elo History
-![[rocco-rock_elo.png]]
+![](../img/charts/rocco-rock_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (1x)

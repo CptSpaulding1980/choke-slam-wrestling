@@ -24,7 +24,7 @@ avg_rating: 89.7
 | 10 | 3 | 7 | 0 | 30.0% | 89.70 | 1143 |
 
 ### 📈 Elo History
-![[thunder-rosa_elo.png]]
+![](../img/charts/thunder-rosa_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Britt Baker\|Britt Baker]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 82.36
 | 53 | 32 | 13 | 8 | 60.4% | 82.36 | 1350 |
 
 ### 📈 Elo History
-![[hiroshi-tanahashi_elo.png]]
+![](../img/charts/hiroshi-tanahashi_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (15x)

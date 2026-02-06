@@ -24,7 +24,7 @@ avg_rating: 84.24
 | 42 | 14 | 19 | 9 | 33.3% | 84.24 | 1106 |
 
 ### 📈 Elo History
-![[laredo-kid_elo.png]]
+![](../img/charts/laredo-kid_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (12x)

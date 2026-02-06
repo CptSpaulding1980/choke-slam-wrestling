@@ -24,7 +24,7 @@ avg_rating: 84.6
 | 30 | 8 | 18 | 4 | 26.7% | 84.60 | 1073 |
 
 ### 📈 Elo History
-![[dr-wagner-jr_elo.png]]
+![](../img/charts/dr-wagner-jr_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)

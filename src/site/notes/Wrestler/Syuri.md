@@ -24,7 +24,7 @@ avg_rating: 67.0
 | 1 | 0 | 1 | 0 | 0.0% | 67.00 | 1185 |
 
 ### 📈 Elo History
-![[syuri_elo.png]]
+![](../img/charts/syuri_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Sasha Banks\|Sasha Banks]] (1x)

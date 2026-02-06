@@ -24,7 +24,7 @@ avg_rating: 87.8
 | 5 | 2 | 3 | 0 | 40.0% | 87.80 | 1178 |
 
 ### 📈 Elo History
-![[tiffany-stratton_elo.png]]
+![](../img/charts/tiffany-stratton_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Hero\|Chris Hero]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 90.67
 | 3 | 1 | 2 | 0 | 33.3% | 90.67 | 1184 |
 
 ### 📈 Elo History
-![[batista_elo.png]]
+![](../img/charts/batista_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bull Nakano\|Bull Nakano]] (2x)

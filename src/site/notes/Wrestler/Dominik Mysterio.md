@@ -24,7 +24,7 @@ avg_rating: 91.0
 | 3 | 1 | 2 | 0 | 33.3% | 91.00 | 1176 |
 
 ### 📈 Elo History
-![[dominik-mysterio_elo.png]]
+![](../img/charts/dominik-mysterio_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Lady Apache\|Lady Apache]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 85.24
 | 37 | 9 | 25 | 3 | 24.3% | 85.24 | 1043 |
 
 ### 📈 Elo History
-![[steve-austin_elo.png]]
+![](../img/charts/steve-austin_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (7x)

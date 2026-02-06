@@ -24,7 +24,7 @@ avg_rating: 92.33
 | 3 | 1 | 2 | 0 | 33.3% | 92.33 | 1181 |
 
 ### 📈 Elo History
-![[xavier-woods_elo.png]]
+![](../img/charts/xavier-woods_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

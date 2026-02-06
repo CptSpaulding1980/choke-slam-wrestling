@@ -24,7 +24,7 @@ avg_rating: 88.0
 | 3 | 1 | 0 | 2 | 33.3% | 88.00 | 1217 |
 
 ### 📈 Elo History
-![[jay-briscoe_elo.png]]
+![](../img/charts/jay-briscoe_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Teoman\|Teoman]] (4x)

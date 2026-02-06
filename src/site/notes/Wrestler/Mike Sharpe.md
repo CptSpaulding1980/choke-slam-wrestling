@@ -24,7 +24,7 @@ avg_rating: 69.0
 | 1 | 0 | 1 | 0 | 0.0% | 69.00 | 1179 |
 
 ### 📈 Elo History
-![[mike-sharpe_elo.png]]
+![](../img/charts/mike-sharpe_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Steve Austin\|Steve Austin]] (1x)

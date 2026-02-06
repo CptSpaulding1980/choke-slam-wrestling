@@ -24,7 +24,7 @@ avg_rating: 82.56
 | 32 | 18 | 10 | 4 | 56.2% | 82.56 | 1286 |
 
 ### 📈 Elo History
-![[chris-jericho_elo.png]]
+![](../img/charts/chris-jericho_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (9x)

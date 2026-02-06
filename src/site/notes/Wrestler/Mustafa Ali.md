@@ -24,7 +24,7 @@ avg_rating: 90.33
 | 3 | 1 | 2 | 0 | 33.3% | 90.33 | 1183 |
 
 ### 📈 Elo History
-![[mustafa-ali_elo.png]]
+![](../img/charts/mustafa-ali_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)

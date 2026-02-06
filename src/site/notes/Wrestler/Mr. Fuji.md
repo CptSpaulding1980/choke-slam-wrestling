@@ -24,7 +24,7 @@ avg_rating: 80.5
 | 2 | 0 | 1 | 1 | 0.0% | 80.50 | 1188 |
 
 ### 📈 Elo History
-![[mr-fuji_elo.png]]
+![](../img/charts/mr-fuji_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Dario Cueto\|Dario Cueto]] (1x)

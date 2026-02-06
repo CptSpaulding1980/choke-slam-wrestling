@@ -24,7 +24,7 @@ avg_rating: 90.71
 | 21 | 12 | 5 | 4 | 57.1% | 90.71 | 1302 |
 
 ### 📈 Elo History
-![[owen-hart_elo.png]]
+![](../img/charts/owen-hart_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Diesel\|Diesel]] (5x)

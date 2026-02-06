@@ -24,7 +24,7 @@ avg_rating: 84.0
 | 14 | 4 | 6 | 4 | 28.6% | 84.00 | 1161 |
 
 ### 📈 Elo History
-![[thea-hail_elo.png]]
+![](../img/charts/thea-hail_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (4x)

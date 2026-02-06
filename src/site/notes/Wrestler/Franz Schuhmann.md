@@ -24,7 +24,7 @@ avg_rating: 83.75
 | 4 | 1 | 2 | 1 | 25.0% | 83.75 | 1185 |
 
 ### 📈 Elo History
-![[franz-schuhmann_elo.png]]
+![](../img/charts/franz-schuhmann_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (2x)

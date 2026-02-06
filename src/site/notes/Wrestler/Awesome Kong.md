@@ -24,7 +24,7 @@ avg_rating: 83.29
 | 35 | 16 | 14 | 5 | 45.7% | 83.29 | 1203 |
 
 ### 📈 Elo History
-![[awesome-kong_elo.png]]
+![](../img/charts/awesome-kong_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (5x)

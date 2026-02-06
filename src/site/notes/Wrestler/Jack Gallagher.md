@@ -24,7 +24,7 @@ avg_rating: 80.25
 | 4 | 0 | 3 | 1 | 0.0% | 80.25 | 1154 |
 
 ### 📈 Elo History
-![[jack-gallagher_elo.png]]
+![](../img/charts/jack-gallagher_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Giant Haystacks\|Giant Haystacks]] (1x)

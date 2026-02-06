@@ -24,7 +24,7 @@ avg_rating: 90.03
 | 30 | 8 | 17 | 5 | 26.7% | 90.03 | 1111 |
 
 ### 📈 Elo History
-![[shawn-michaels_elo.png]]
+![](../img/charts/shawn-michaels_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (9x)

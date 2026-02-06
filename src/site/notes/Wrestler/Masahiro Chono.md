@@ -24,7 +24,7 @@ avg_rating: 79.25
 | 4 | 2 | 2 | 0 | 50.0% | 79.25 | 1200 |
 
 ### 📈 Elo History
-![[masahiro-chono_elo.png]]
+![](../img/charts/masahiro-chono_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (1x)

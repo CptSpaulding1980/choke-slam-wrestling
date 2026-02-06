@@ -24,7 +24,7 @@ avg_rating: 89.12
 | 8 | 3 | 3 | 2 | 37.5% | 89.12 | 1189 |
 
 ### 📈 Elo History
-![[chris-benoit_elo.png]]
+![](../img/charts/chris-benoit_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Edge\|Edge]] (3x)

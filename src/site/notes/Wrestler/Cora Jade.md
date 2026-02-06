@@ -24,7 +24,7 @@ avg_rating: 79.36
 | 11 | 1 | 7 | 3 | 9.1% | 79.36 | 1116 |
 
 ### 📈 Elo History
-![[cora-jade_elo.png]]
+![](../img/charts/cora-jade_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Gigi Dolin\|Gigi Dolin]] (4x)

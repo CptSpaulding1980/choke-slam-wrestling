@@ -24,7 +24,7 @@ avg_rating: 93.0
 | 2 | 0 | 1 | 1 | 0.0% | 93.00 | 1183 |
 
 ### 📈 Elo History
-![[jake-roberts_elo.png]]
+![](../img/charts/jake-roberts_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 88.07
 | 28 | 11 | 13 | 4 | 39.3% | 88.07 | 1163 |
 
 ### 📈 Elo History
-![[dustin-rhodes_elo.png]]
+![](../img/charts/dustin-rhodes_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kane\|Kane]] (5x)

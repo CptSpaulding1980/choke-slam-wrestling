@@ -24,7 +24,7 @@ avg_rating: 83.45
 | 11 | 4 | 5 | 2 | 36.4% | 83.45 | 1188 |
 
 ### 📈 Elo History
-![[john-cena_elo.png]]
+![](../img/charts/john-cena_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (3x)

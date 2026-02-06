@@ -24,7 +24,7 @@ avg_rating: 90.0
 | 5 | 2 | 2 | 1 | 40.0% | 90.00 | 1206 |
 
 ### 📈 Elo History
-![[ted-dibiase_elo.png]]
+![](../img/charts/ted-dibiase_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

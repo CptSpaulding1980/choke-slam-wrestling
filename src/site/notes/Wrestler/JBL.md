@@ -24,7 +24,7 @@ avg_rating: 87.0
 | 1 | 0 | 1 | 0 | 0.0% | 87.00 | 1185 |
 
 ### 📈 Elo History
-![[jbl_elo.png]]
+![](../img/charts/jbl_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

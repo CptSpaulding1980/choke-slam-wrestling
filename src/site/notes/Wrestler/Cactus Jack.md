@@ -24,7 +24,7 @@ avg_rating: 75.2
 | 5 | 1 | 4 | 0 | 20.0% | 75.20 | 1155 |
 
 ### 📈 Elo History
-![[cactus-jack_elo.png]]
+![](../img/charts/cactus-jack_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Rush\|Rush]] (1x)

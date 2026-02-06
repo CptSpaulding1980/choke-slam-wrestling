@@ -24,7 +24,7 @@ avg_rating: 83.88
 | 8 | 5 | 2 | 1 | 62.5% | 83.88 | 1242 |
 
 ### 📈 Elo History
-![[ikemen-jiro_elo.png]]
+![](../img/charts/ikemen-jiro_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Grayson Waller\|Grayson Waller]] (4x)

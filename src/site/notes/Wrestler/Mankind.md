@@ -24,7 +24,7 @@ avg_rating: 79.0
 | 1 | 0 | 1 | 0 | 0.0% | 79.00 | 1183 |
 
 ### 📈 Elo History
-![[mankind_elo.png]]
+![](../img/charts/mankind_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Rush\|Rush]] (1x)

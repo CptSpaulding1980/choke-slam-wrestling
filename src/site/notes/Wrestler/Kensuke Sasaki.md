@@ -24,7 +24,7 @@ avg_rating: 86.84
 | 25 | 13 | 9 | 3 | 52.0% | 86.84 | 1244 |
 
 ### 📈 Elo History
-![[kensuke-sasaki_elo.png]]
+![](../img/charts/kensuke-sasaki_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Wardlow\|Wardlow]] (6x)

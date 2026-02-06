@@ -25,7 +25,7 @@ avg_rating: 79.0
 | 4 | 1 | 1 | 2 | 25.0% | 79.00 | 1205 |
 
 ### 📈 Elo History
-![[andr-the-giant_elo.png]]
+![](../img/charts/andr-the-giant_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)

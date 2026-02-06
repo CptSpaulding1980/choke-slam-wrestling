@@ -24,7 +24,7 @@ avg_rating: 80.0
 | 2 | 0 | 2 | 0 | 0.0% | 80.00 | 1170 |
 
 ### 📈 Elo History
-![[the-shark_elo.png]]
+![](../img/charts/the-shark_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

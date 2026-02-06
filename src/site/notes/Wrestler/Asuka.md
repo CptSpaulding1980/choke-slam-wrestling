@@ -24,7 +24,7 @@ avg_rating: 87.5
 | 4 | 3 | 0 | 1 | 75.0% | 87.50 | 1242 |
 
 ### 📈 Elo History
-![[asuka_elo.png]]
+![](../img/charts/asuka_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 78.0
 | 3 | 1 | 2 | 0 | 33.3% | 78.00 | 1185 |
 
 ### 📈 Elo History
-![[cousin-luke_elo.png]]
+![](../img/charts/cousin-luke_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

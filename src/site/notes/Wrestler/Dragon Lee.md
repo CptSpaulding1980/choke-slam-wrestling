@@ -24,7 +24,7 @@ avg_rating: 83.5
 | 2 | 0 | 1 | 1 | 0.0% | 83.50 | 1185 |
 
 ### 📈 Elo History
-![[dragon-lee_elo.png]]
+![](../img/charts/dragon-lee_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (1x)

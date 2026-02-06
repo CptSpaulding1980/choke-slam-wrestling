@@ -24,7 +24,7 @@ avg_rating: 81.88
 | 16 | 7 | 5 | 4 | 43.8% | 81.88 | 1239 |
 
 ### 📈 Elo History
-![[larry-zbyszko_elo.png]]
+![](../img/charts/larry-zbyszko_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/CM Punk\|CM Punk]] (1x)

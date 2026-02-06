@@ -24,7 +24,7 @@ avg_rating: 89.5
 | 16 | 3 | 4 | 9 | 18.8% | 89.50 | 1195 |
 
 ### 📈 Elo History
-![[brutus-beefcake_elo.png]]
+![](../img/charts/brutus-beefcake_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (8x)

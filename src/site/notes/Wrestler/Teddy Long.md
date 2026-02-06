@@ -24,7 +24,7 @@ avg_rating: 79.33
 | 3 | 1 | 2 | 0 | 33.3% | 79.33 | 1171 |
 
 ### 📈 Elo History
-![[teddy-long_elo.png]]
+![](../img/charts/teddy-long_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

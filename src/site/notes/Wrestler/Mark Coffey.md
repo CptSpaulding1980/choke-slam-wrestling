@@ -24,7 +24,7 @@ avg_rating: 83.67
 | 3 | 2 | 1 | 0 | 66.7% | 83.67 | 1213 |
 
 ### 📈 Elo History
-![[mark-coffey_elo.png]]
+![](../img/charts/mark-coffey_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Britt Baker\|Britt Baker]] (1x)

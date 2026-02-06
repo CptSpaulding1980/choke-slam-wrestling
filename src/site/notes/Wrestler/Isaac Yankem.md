@@ -24,7 +24,7 @@ avg_rating: 95.0
 | 1 | 0 | 1 | 0 | 0.0% | 95.00 | 1184 |
 
 ### 📈 Elo History
-![[isaac-yankem_elo.png]]
+![](../img/charts/isaac-yankem_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)

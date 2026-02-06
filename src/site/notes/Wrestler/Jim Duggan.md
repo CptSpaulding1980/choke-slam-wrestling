@@ -24,7 +24,7 @@ avg_rating: 83.81
 | 16 | 6 | 9 | 1 | 37.5% | 83.81 | 1172 |
 
 ### 📈 Elo History
-![[jim-duggan_elo.png]]
+![](../img/charts/jim-duggan_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/KENTA\|KENTA]] (4x)

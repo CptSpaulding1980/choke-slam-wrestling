@@ -24,7 +24,7 @@ avg_rating: 84.33
 | 3 | 1 | 2 | 0 | 33.3% | 84.33 | 1190 |
 
 ### 📈 Elo History
-![[dudley-dudley_elo.png]]
+![](../img/charts/dudley-dudley_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

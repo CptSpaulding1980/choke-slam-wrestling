@@ -24,7 +24,7 @@ avg_rating: 90.0
 | 2 | 0 | 2 | 0 | 0.0% | 90.00 | 1171 |
 
 ### 📈 Elo History
-![[logan-paul_elo.png]]
+![](../img/charts/logan-paul_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (1x)

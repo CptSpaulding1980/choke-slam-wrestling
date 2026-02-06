@@ -24,7 +24,7 @@ avg_rating: 97.0
 | 3 | 0 | 3 | 0 | 0.0% | 97.00 | 1156 |
 
 ### 📈 Elo History
-![[freddie-mercury_elo.png]]
+![](../img/charts/freddie-mercury_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

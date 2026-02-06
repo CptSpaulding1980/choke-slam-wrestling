@@ -24,7 +24,7 @@ avg_rating: 79.73
 | 30 | 15 | 10 | 5 | 50.0% | 79.73 | 1240 |
 
 ### 📈 Elo History
-![[jon-moxley_elo.png]]
+![](../img/charts/jon-moxley_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Jay White\|Jay White]] (7x)

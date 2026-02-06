@@ -24,7 +24,7 @@ avg_rating: 87.19
 | 32 | 14 | 13 | 5 | 43.8% | 87.19 | 1258 |
 
 ### 📈 Elo History
-![[diesel_elo.png]]
+![](../img/charts/diesel_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (8x)

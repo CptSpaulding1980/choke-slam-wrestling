@@ -24,7 +24,7 @@ avg_rating: 94.0
 | 1 | 0 | 1 | 0 | 0.0% | 94.00 | 1185 |
 
 ### 📈 Elo History
-![[kerwin-white_elo.png]]
+![](../img/charts/kerwin-white_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)

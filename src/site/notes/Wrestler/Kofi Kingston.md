@@ -24,7 +24,7 @@ avg_rating: 87.44
 | 16 | 4 | 9 | 3 | 25.0% | 87.44 | 1129 |
 
 ### 📈 Elo History
-![[kofi-kingston_elo.png]]
+![](../img/charts/kofi-kingston_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (4x)

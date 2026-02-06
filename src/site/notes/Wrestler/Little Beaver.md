@@ -24,7 +24,7 @@ avg_rating: 100.0
 | 1 | 1 | 0 | 0 | 100.0% | 100.00 | 1215 |
 
 ### 📈 Elo History
-![[little-beaver_elo.png]]
+![](../img/charts/little-beaver_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)

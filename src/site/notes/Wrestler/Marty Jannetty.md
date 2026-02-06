@@ -24,7 +24,7 @@ avg_rating: 93.0
 | 1 | 0 | 1 | 0 | 0.0% | 93.00 | 1188 |
 
 ### 📈 Elo History
-![[marty-jannetty_elo.png]]
+![](../img/charts/marty-jannetty_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Christian Cage\|Christian Cage]] (1x)

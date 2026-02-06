@@ -24,7 +24,7 @@ avg_rating: 86.13
 | 23 | 7 | 9 | 7 | 30.4% | 86.13 | 1173 |
 
 ### 📈 Elo History
-![[cm-punk_elo.png]]
+![](../img/charts/cm-punk_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)

@@ -24,7 +24,7 @@ avg_rating: 83.0
 | 3 | 1 | 2 | 0 | 33.3% | 83.00 | 1180 |
 
 ### 📈 Elo History
-![[cousin-butch_elo.png]]
+![](../img/charts/cousin-butch_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

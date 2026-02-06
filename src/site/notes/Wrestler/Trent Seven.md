@@ -24,7 +24,7 @@ avg_rating: 83.67
 | 9 | 6 | 3 | 0 | 66.7% | 83.67 | 1249 |
 
 ### 📈 Elo History
-![[trent-seven_elo.png]]
+![](../img/charts/trent-seven_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)

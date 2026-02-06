@@ -24,7 +24,7 @@ avg_rating: 82.33
 | 6 | 3 | 2 | 1 | 50.0% | 82.33 | 1223 |
 
 ### 📈 Elo History
-![[wade-barrett_elo.png]]
+![](../img/charts/wade-barrett_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (2x)

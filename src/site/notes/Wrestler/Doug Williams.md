@@ -24,7 +24,7 @@ avg_rating: 82.62
 | 8 | 2 | 3 | 3 | 25.0% | 82.62 | 1193 |
 
 ### 📈 Elo History
-![[doug-williams_elo.png]]
+![](../img/charts/doug-williams_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Hero\|Chris Hero]] (4x)

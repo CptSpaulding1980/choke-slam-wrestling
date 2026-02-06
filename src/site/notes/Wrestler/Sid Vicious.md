@@ -24,7 +24,7 @@ avg_rating: 91.75
 | 8 | 3 | 2 | 3 | 37.5% | 91.75 | 1212 |
 
 ### 📈 Elo History
-![[sid-vicious_elo.png]]
+![](../img/charts/sid-vicious_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Orton\|Randy Orton]] (3x)

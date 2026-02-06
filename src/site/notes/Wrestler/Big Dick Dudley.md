@@ -24,7 +24,7 @@ avg_rating: 78.67
 | 3 | 0 | 3 | 0 | 0.0% | 78.67 | 1154 |
 
 ### 📈 Elo History
-![[big-dick-dudley_elo.png]]
+![](../img/charts/big-dick-dudley_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

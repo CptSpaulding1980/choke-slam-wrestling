@@ -24,7 +24,7 @@ avg_rating: 85.0
 | 1 | 1 | 0 | 0 | 100.0% | 85.00 | 1217 |
 
 ### 📈 Elo History
-![[ultimate-warrior_elo.png]]
+![](../img/charts/ultimate-warrior_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)

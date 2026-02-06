@@ -24,7 +24,7 @@ avg_rating: 82.0
 | 5 | 1 | 2 | 2 | 20.0% | 82.00 | 1183 |
 
 ### 📈 Elo History
-![[hawk_elo.png]]
+![](../img/charts/hawk_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Ridge Holland\|Ridge Holland]] (2x)

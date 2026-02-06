@@ -24,7 +24,7 @@ avg_rating: 94.33
 | 3 | 0 | 1 | 2 | 0.0% | 94.33 | 1185 |
 
 ### 📈 Elo History
-![[mr-perfect_elo.png]]
+![](../img/charts/mr-perfect_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)

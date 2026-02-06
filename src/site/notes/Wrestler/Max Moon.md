@@ -24,7 +24,7 @@ avg_rating: 100.0
 | 1 | 0 | 1 | 0 | 0.0% | 100.00 | 1180 |
 
 ### 📈 Elo History
-![[max-moon_elo.png]]
+![](../img/charts/max-moon_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)

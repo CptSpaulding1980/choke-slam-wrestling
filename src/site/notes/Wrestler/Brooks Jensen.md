@@ -24,7 +24,7 @@ avg_rating: 81.5
 | 2 | 0 | 2 | 0 | 0.0% | 81.50 | 1168 |
 
 ### 📈 Elo History
-![[brooks-jensen_elo.png]]
+![](../img/charts/brooks-jensen_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Epico Colón\|Epico Colón]] (1x)

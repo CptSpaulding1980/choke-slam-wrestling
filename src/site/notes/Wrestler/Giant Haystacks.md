@@ -24,7 +24,7 @@ avg_rating: 86.0
 | 1 | 1 | 0 | 0 | 100.0% | 86.00 | 1212 |
 
 ### 📈 Elo History
-![[giant-haystacks_elo.png]]
+![](../img/charts/giant-haystacks_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/nan\|nan]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 88.0
 | 1 | 0 | 1 | 0 | 0.0% | 88.00 | 1187 |
 
 ### 📈 Elo History
-![[moose_elo.png]]
+![](../img/charts/moose_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)

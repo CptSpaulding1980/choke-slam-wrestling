@@ -24,7 +24,7 @@ avg_rating: 96.0
 | 3 | 0 | 3 | 0 | 0.0% | 96.00 | 1156 |
 
 ### 📈 Elo History
-![[bobby-fish_elo.png]]
+![](../img/charts/bobby-fish_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

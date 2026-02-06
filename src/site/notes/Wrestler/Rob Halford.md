@@ -24,7 +24,7 @@ avg_rating: 74.67
 | 3 | 2 | 1 | 0 | 66.7% | 74.67 | 1212 |
 
 ### 📈 Elo History
-![[rob-halford_elo.png]]
+![](../img/charts/rob-halford_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

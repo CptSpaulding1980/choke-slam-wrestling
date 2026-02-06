@@ -24,7 +24,7 @@ avg_rating: 84.88
 | 8 | 4 | 3 | 1 | 50.0% | 84.88 | 1231 |
 
 ### 📈 Elo History
-![[sheamus_elo.png]]
+![](../img/charts/sheamus_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (3x)

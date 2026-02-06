@@ -24,7 +24,7 @@ avg_rating: 89.3
 | 43 | 18 | 16 | 9 | 41.9% | 89.30 | 1179 |
 
 ### 📈 Elo History
-![[rey-fenix_elo.png]]
+![](../img/charts/rey-fenix_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (7x)

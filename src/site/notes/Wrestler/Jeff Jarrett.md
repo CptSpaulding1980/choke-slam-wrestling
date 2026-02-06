@@ -24,7 +24,7 @@ avg_rating: 87.71
 | 24 | 7 | 14 | 3 | 29.2% | 87.71 | 1113 |
 
 ### 📈 Elo History
-![[jeff-jarrett_elo.png]]
+![](../img/charts/jeff-jarrett_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Christian Cage\|Christian Cage]] (6x)

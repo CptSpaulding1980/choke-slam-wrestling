@@ -24,7 +24,7 @@ avg_rating: 85.0
 | 3 | 1 | 1 | 1 | 33.3% | 85.00 | 1199 |
 
 ### 📈 Elo History
-![[tommy-dreamer_elo.png]]
+![](../img/charts/tommy-dreamer_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)

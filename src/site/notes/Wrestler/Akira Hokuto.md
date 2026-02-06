@@ -24,7 +24,7 @@ avg_rating: 85.6
 | 5 | 1 | 3 | 1 | 20.0% | 85.60 | 1170 |
 
 ### 📈 Elo History
-![[akira-hokuto_elo.png]]
+![](../img/charts/akira-hokuto_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (2x)

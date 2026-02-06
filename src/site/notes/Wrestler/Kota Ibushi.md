@@ -24,7 +24,7 @@ avg_rating: 84.75
 | 12 | 5 | 3 | 4 | 41.7% | 84.75 | 1237 |
 
 ### 📈 Elo History
-![[kota-ibushi_elo.png]]
+![](../img/charts/kota-ibushi_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Christian Cage\|Christian Cage]] (3x)

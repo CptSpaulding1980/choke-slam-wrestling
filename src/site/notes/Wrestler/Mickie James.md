@@ -24,7 +24,7 @@ avg_rating: 81.5
 | 4 | 2 | 2 | 0 | 50.0% | 81.50 | 1197 |
 
 ### 📈 Elo History
-![[mickie-james_elo.png]]
+![](../img/charts/mickie-james_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)

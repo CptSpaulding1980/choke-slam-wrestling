@@ -24,7 +24,7 @@ avg_rating: 81.0
 | 1 | 1 | 0 | 0 | 100.0% | 81.00 | 1218 |
 
 ### 📈 Elo History
-![[willow_elo.png]]
+![](../img/charts/willow_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)

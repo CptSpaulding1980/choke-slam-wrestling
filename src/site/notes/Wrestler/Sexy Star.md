@@ -24,7 +24,7 @@ avg_rating: 86.2
 | 5 | 1 | 1 | 3 | 20.0% | 86.20 | 1202 |
 
 ### 📈 Elo History
-![[sexy-star_elo.png]]
+![](../img/charts/sexy-star_elo.png)
 
 ## Häufigste Gegner
 - [[Wrestler/Kelly Klein\|Kelly Klein]] (3x)

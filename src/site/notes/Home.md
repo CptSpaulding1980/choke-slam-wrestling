@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+permalink: /home/
 title: Home
 noteIcon: 🏠
 ---

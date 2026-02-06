@@ -39,5 +39,5 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/EC3|EC3]] (1x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (1x)
+- [[Wrestler/EC3\|EC3]] (1x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Sara Del Rey|Sara Del Rey]] (2x)
-- [[Wrestler/Hammerstone|Hammerstone]] (1x)
-- [[Wrestler/Zack Sabre Jr.|Zack Sabre Jr.]] (1x)
-- [[Wrestler/Randy Savage|Randy Savage]] (1x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (1x)
+- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)
+- [[Wrestler/Hammerstone\|Hammerstone]] (1x)
+- [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)

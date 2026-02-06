@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage|Randy Savage]] (3x)
-- [[Wrestler/Bret Hart|Bret Hart]] (2x)
-- [[Wrestler/Owen Hart|Owen Hart]] (2x)
-- [[Wrestler/KENTA|KENTA]] (2x)
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (2x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (2x)
+- [[Wrestler/KENTA\|KENTA]] (2x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (2x)

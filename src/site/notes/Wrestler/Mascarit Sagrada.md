@@ -39,5 +39,5 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly|Killer Kelly]] (1x)
-- [[Wrestler/Philipp Brunkovic|Philipp Brunkovic]] (1x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
+- [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (1x)

@@ -43,7 +43,7 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H|Triple H]] (1x)
-- [[Wrestler/Iron Mike Tyson|Iron Mike Tyson]] (1x)
-- [[Wrestler/EC3|EC3]] (1x)
-- [[Wrestler/Philipp Brunkovic|Philipp Brunkovic]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)
+- [[Wrestler/Iron Mike Tyson\|Iron Mike Tyson]] (1x)
+- [[Wrestler/EC3\|EC3]] (1x)
+- [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (1x)

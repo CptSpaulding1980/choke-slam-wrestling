@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kota Ibushi|Kota Ibushi]] (1x)
+- [[Wrestler/Kota Ibushi\|Kota Ibushi]] (1x)

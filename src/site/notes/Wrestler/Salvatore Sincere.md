@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jushin Liger|Jushin Liger]] (1x)
-- [[Wrestler/Austin Aries|Austin Aries]] (1x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
+- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

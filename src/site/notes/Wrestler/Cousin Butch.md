@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/EC3|EC3]] (1x)
-- [[Wrestler/Rush|Rush]] (1x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (1x)
+- [[Wrestler/EC3\|EC3]] (1x)
+- [[Wrestler/Rush\|Rush]] (1x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)

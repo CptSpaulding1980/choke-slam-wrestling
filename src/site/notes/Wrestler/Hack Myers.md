@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (2x)
-- [[Wrestler/Christian Cage|Christian Cage]] (1x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (1x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)

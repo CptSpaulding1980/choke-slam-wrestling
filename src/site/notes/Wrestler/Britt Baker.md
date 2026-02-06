@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Thunder Rosa|Thunder Rosa]] (2x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (1x)
-- [[Wrestler/Paul Orndorff|Paul Orndorff]] (1x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (1x)
-- [[Wrestler/Austin Aries|Austin Aries]] (1x)
+- [[Wrestler/Thunder Rosa\|Thunder Rosa]] (2x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
+- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (1x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (1x)

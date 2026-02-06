@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Chris Hero|Chris Hero]] (4x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (4x)
-- [[Wrestler/Shawn Michaels|Shawn Michaels]] (3x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (3x)
-- [[Wrestler/EC3|EC3]] (3x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (4x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (4x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (3x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (3x)
+- [[Wrestler/EC3\|EC3]] (3x)

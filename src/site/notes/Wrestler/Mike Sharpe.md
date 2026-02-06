@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Steve Austin|Steve Austin]] (1x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (1x)

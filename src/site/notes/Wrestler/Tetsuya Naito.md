@@ -64,8 +64,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2022-02-09 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (12x)
-- [[Wrestler/Randy Savage|Randy Savage]] (9x)
-- [[Wrestler/KENTA|KENTA]] (8x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (8x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (7x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (12x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (9x)
+- [[Wrestler/KENTA\|KENTA]] (8x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (8x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (7x)

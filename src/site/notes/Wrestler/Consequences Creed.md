@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (3x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (3x)
-- [[Wrestler/Rey Mysterio Jr.|Rey Mysterio Jr.]] (3x)
-- [[Wrestler/Lucky Kid|Lucky Kid]] (2x)
-- [[Wrestler/Claudio Castagnoli|Claudio Castagnoli]] (2x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (3x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (3x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (3x)
+- [[Wrestler/Lucky Kid\|Lucky Kid]] (2x)
+- [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (2x)

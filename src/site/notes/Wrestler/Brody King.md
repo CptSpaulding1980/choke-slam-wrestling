@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (3x)
-- [[Wrestler/Davey Boy Smith|Davey Boy Smith]] (2x)
-- [[Wrestler/Sami Zayn|Sami Zayn]] (2x)
-- [[Wrestler/Ridge Holland|Ridge Holland]] (2x)
-- [[Wrestler/Hawk|Hawk]] (2x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
+- [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (2x)
+- [[Wrestler/Sami Zayn\|Sami Zayn]] (2x)
+- [[Wrestler/Ridge Holland\|Ridge Holland]] (2x)
+- [[Wrestler/Hawk\|Hawk]] (2x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Sara Del Rey|Sara Del Rey]] (3x)
-- [[Wrestler/Sexy Star|Sexy Star]] (3x)
-- [[Wrestler/Angélico|Angélico]] (2x)
-- [[Wrestler/Cesaro|Cesaro]] (2x)
-- [[Wrestler/Dalton Castle|Dalton Castle]] (2x)
+- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (3x)
+- [[Wrestler/Sexy Star\|Sexy Star]] (3x)
+- [[Wrestler/Angélico\|Angélico]] (2x)
+- [[Wrestler/Cesaro\|Cesaro]] (2x)
+- [[Wrestler/Dalton Castle\|Dalton Castle]] (2x)

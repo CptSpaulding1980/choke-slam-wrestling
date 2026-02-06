@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Chris Hero|Chris Hero]] (1x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (1x)

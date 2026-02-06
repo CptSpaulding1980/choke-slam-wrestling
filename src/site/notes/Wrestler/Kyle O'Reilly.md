@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (1x)
-- [[Wrestler/Daniel Bryan|Daniel Bryan]] (1x)
-- [[Wrestler/Erik|Erik]] (1x)
-- [[Wrestler/Ivar|Ivar]] (1x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (1x)
+- [[Wrestler/Erik\|Erik]] (1x)
+- [[Wrestler/Ivar\|Ivar]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)

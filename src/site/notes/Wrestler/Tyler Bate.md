@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bryan Danielson|Bryan Danielson]] (4x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (2x)
-- [[Wrestler/Rey Fenix|Rey Fenix]] (2x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (1x)
-- [[Wrestler/Kane|Kane]] (1x)
+- [[Wrestler/Bryan Danielson\|Bryan Danielson]] (4x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
+- [[Wrestler/Kane\|Kane]] (1x)

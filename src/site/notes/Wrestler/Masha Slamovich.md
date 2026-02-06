@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jordynne Grace|Jordynne Grace]] (3x)
-- [[Wrestler/Jun Akiyama|Jun Akiyama]] (3x)
-- [[Wrestler/Kiana James|Kiana James]] (3x)
-- [[Wrestler/Big Kon|Big Kon]] (2x)
-- [[Wrestler/Dijak|Dijak]] (2x)
+- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (3x)
+- [[Wrestler/Kiana James\|Kiana James]] (3x)
+- [[Wrestler/Big Kon\|Big Kon]] (2x)
+- [[Wrestler/Dijak\|Dijak]] (2x)

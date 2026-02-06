@@ -43,7 +43,7 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/CM Punk|CM Punk]] (1x)
-- [[Wrestler/Ace Steel|Ace Steel]] (1x)
-- [[Wrestler/Kenny Omega|Kenny Omega]] (1x)
-- [[Wrestler/Nick Jackson|Nick Jackson]] (1x)
+- [[Wrestler/CM Punk\|CM Punk]] (1x)
+- [[Wrestler/Ace Steel\|Ace Steel]] (1x)
+- [[Wrestler/Kenny Omega\|Kenny Omega]] (1x)
+- [[Wrestler/Nick Jackson\|Nick Jackson]] (1x)

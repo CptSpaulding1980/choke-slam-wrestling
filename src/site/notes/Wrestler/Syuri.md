@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Sasha Banks|Sasha Banks]] (1x)
+- [[Wrestler/Sasha Banks\|Sasha Banks]] (1x)

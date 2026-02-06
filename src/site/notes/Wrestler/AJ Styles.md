@@ -56,8 +56,8 @@ championships:
 | Choke Slam International Championship | 1 | 2021-09-06 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Roman Reigns|Roman Reigns]] (10x)
-- [[Wrestler/Randy Savage|Randy Savage]] (9x)
-- [[Wrestler/Miro|Miro]] (9x)
-- [[Wrestler/Brandon|Brandon]] (9x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (8x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (10x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (9x)
+- [[Wrestler/Miro\|Miro]] (9x)
+- [[Wrestler/Brandon\|Brandon]] (9x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (8x)

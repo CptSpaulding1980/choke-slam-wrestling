@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/KENTA|KENTA]] (4x)
-- [[Wrestler/Shingo Takagi|Shingo Takagi]] (4x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (3x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (3x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
+- [[Wrestler/KENTA\|KENTA]] (4x)
+- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (4x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)

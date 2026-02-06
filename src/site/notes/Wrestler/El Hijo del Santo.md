@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/AJ Styles|AJ Styles]] (1x)
-- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (1x)
-- [[Wrestler/Jon Moxley|Jon Moxley]] (1x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (1x)
+- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
+- [[Wrestler/Jon Moxley\|Jon Moxley]] (1x)

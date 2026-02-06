@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (2x)
-- [[Wrestler/Franz Schuhmann|Franz Schuhmann]] (1x)
-- [[Wrestler/Rey Mysterio Jr.|Rey Mysterio Jr.]] (1x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (1x)
-- [[Wrestler/Randy Savage|Randy Savage]] (1x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)
+- [[Wrestler/Franz Schuhmann\|Franz Schuhmann]] (1x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (1x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)

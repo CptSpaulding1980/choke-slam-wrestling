@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (1x)
-- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (1x)
-- [[Wrestler/Grayson Waller|Grayson Waller]] (1x)
-- [[Wrestler/El Dandy|El Dandy]] (1x)
-- [[Wrestler/Togi Makabe|Togi Makabe]] (1x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)
+- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
+- [[Wrestler/Grayson Waller\|Grayson Waller]] (1x)
+- [[Wrestler/El Dandy\|El Dandy]] (1x)
+- [[Wrestler/Togi Makabe\|Togi Makabe]] (1x)

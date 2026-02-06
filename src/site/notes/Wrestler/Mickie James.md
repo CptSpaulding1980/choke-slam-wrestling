@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (1x)
-- [[Wrestler/Austin Aries|Austin Aries]] (1x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (1x)
-- [[Wrestler/Paul Orndorff|Paul Orndorff]] (1x)
-- [[Wrestler/Thunder Rosa|Thunder Rosa]] (1x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (1x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
+- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (1x)
+- [[Wrestler/Thunder Rosa\|Thunder Rosa]] (1x)

@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2022-06-28 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (10x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (8x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (8x)
-- [[Wrestler/Rey Fenix|Rey Fenix]] (7x)
-- [[Wrestler/KENTA|KENTA]] (7x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (10x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (8x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (8x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (7x)
+- [[Wrestler/KENTA\|KENTA]] (7x)

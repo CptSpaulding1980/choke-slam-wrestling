@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (7x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (5x)
-- [[Wrestler/Chris Hero|Chris Hero]] (5x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (5x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (5x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (5x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (5x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (5x)

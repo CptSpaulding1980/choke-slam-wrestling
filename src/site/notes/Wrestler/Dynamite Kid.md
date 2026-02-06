@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Angélico|Angélico]] (1x)
-- [[Wrestler/CM Punk|CM Punk]] (1x)
-- [[Wrestler/Kane|Kane]] (1x)
-- [[Wrestler/Jushin Liger|Jushin Liger]] (1x)
-- [[Wrestler/Austin Aries|Austin Aries]] (1x)
+- [[Wrestler/Angélico\|Angélico]] (1x)
+- [[Wrestler/CM Punk\|CM Punk]] (1x)
+- [[Wrestler/Kane\|Kane]] (1x)
+- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (1x)

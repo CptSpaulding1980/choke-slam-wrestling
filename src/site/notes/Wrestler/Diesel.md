@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (8x)
-- [[Wrestler/AJ Styles|AJ Styles]] (6x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (6x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (6x)
-- [[Wrestler/Owen Hart|Owen Hart]] (5x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (8x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (6x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (6x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (5x)

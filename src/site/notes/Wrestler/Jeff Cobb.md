@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hiromu Takahashi|Hiromu Takahashi]] (3x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (3x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (3x)
-- [[Wrestler/The Butcher|The Butcher]] (3x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
+- [[Wrestler/Hiromu Takahashi\|Hiromu Takahashi]] (3x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
+- [[Wrestler/The Butcher\|The Butcher]] (3x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

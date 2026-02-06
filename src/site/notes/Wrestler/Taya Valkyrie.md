@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Fenix|Rey Fenix]] (3x)
-- [[Wrestler/Texano Jr.|Texano Jr.]] (3x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (3x)
-- [[Wrestler/Daga|Daga]] (3x)
-- [[Wrestler/Rey Escorpión|Rey Escorpión]] (3x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)
+- [[Wrestler/Texano Jr.\|Texano Jr.]] (3x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
+- [[Wrestler/Daga\|Daga]] (3x)
+- [[Wrestler/Rey Escorpión\|Rey Escorpión]] (3x)

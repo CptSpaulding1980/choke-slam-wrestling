@@ -43,7 +43,7 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Wade Barrett|Wade Barrett]] (1x)
-- [[Wrestler/Pac|Pac]] (1x)
-- [[Wrestler/Doug Williams|Doug Williams]] (1x)
-- [[Wrestler/Sgt. Slaughter|Sgt. Slaughter]] (1x)
+- [[Wrestler/Wade Barrett\|Wade Barrett]] (1x)
+- [[Wrestler/Pac\|Pac]] (1x)
+- [[Wrestler/Doug Williams\|Doug Williams]] (1x)
+- [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] (1x)

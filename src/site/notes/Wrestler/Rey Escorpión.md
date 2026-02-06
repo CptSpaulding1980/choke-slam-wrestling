@@ -46,8 +46,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Texano Jr.|Texano Jr.]] (3x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (3x)
-- [[Wrestler/Daga|Daga]] (3x)
-- [[Wrestler/Taya Valkyrie|Taya Valkyrie]] (3x)
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (2x)
+- [[Wrestler/Texano Jr.\|Texano Jr.]] (3x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
+- [[Wrestler/Daga\|Daga]] (3x)
+- [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] (3x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (2x)

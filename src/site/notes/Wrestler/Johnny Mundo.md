@@ -56,8 +56,8 @@ championships:
 | Choke Slam World Championship | 0 | 2021-04-15 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (8x)
-- [[Wrestler/Joey Janela|Joey Janela]] (8x)
-- [[Wrestler/Kane|Kane]] (6x)
-- [[Wrestler/Rey Fenix|Rey Fenix]] (6x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (6x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (8x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (8x)
+- [[Wrestler/Kane\|Kane]] (6x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (6x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)

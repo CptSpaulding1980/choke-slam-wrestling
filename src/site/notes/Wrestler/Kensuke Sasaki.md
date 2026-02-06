@@ -64,8 +64,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2025-10-27 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Wardlow|Wardlow]] (6x)
-- [[Wrestler/Lex Luger|Lex Luger]] (5x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (5x)
-- [[Wrestler/Daniel Bryan|Daniel Bryan]] (4x)
-- [[Wrestler/Steve Austin|Steve Austin]] (3x)
+- [[Wrestler/Wardlow\|Wardlow]] (6x)
+- [[Wrestler/Lex Luger\|Lex Luger]] (5x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (5x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (4x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (3x)

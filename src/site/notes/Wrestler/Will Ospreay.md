@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (3x)
-- [[Wrestler/Samoa Joe|Samoa Joe]] (2x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (2x)
-- [[Wrestler/Kevin Owens|Kevin Owens]] (2x)
-- [[Wrestler/WALTER|WALTER]] (2x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
+- [[Wrestler/Samoa Joe\|Samoa Joe]] (2x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)
+- [[Wrestler/Kevin Owens\|Kevin Owens]] (2x)
+- [[Wrestler/WALTER\|WALTER]] (2x)

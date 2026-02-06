@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jun Akiyama|Jun Akiyama]] (1x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (1x)
-- [[Wrestler/Daniel Bryan|Daniel Bryan]] (1x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (1x)
-- [[Wrestler/Booker T|Booker T]] (1x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (1x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (1x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)
+- [[Wrestler/Booker T\|Booker T]] (1x)

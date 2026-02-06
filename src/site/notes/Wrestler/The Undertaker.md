@@ -88,8 +88,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2025-08-12 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H|Triple H]] (11x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (10x)
-- [[Wrestler/Bret Hart|Bret Hart]] (9x)
-- [[Wrestler/KUSHIDA|KUSHIDA]] (8x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (8x)
+- [[Wrestler/Triple H\|Triple H]] (11x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (10x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (9x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (8x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (8x)

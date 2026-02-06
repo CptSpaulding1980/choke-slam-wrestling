@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Brandon|Brandon]] (8x)
-- [[Wrestler/Miro|Miro]] (8x)
-- [[Wrestler/Grayson Waller|Grayson Waller]] (7x)
-- [[Wrestler/AJ Styles|AJ Styles]] (7x)
-- [[Wrestler/Jay White|Jay White]] (7x)
+- [[Wrestler/Brandon\|Brandon]] (8x)
+- [[Wrestler/Miro\|Miro]] (8x)
+- [[Wrestler/Grayson Waller\|Grayson Waller]] (7x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (7x)
+- [[Wrestler/Jay White\|Jay White]] (7x)

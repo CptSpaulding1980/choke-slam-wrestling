@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Miro|Miro]] (1x)
-- [[Wrestler/Sabu|Sabu]] (1x)
-- [[Wrestler/Bull Nakano|Bull Nakano]] (1x)
-- [[Wrestler/Rob Van Dam|Rob Van Dam]] (1x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (1x)
+- [[Wrestler/Miro\|Miro]] (1x)
+- [[Wrestler/Sabu\|Sabu]] (1x)
+- [[Wrestler/Bull Nakano\|Bull Nakano]] (1x)
+- [[Wrestler/Rob Van Dam\|Rob Van Dam]] (1x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)

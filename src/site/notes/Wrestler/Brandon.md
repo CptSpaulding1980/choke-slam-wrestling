@@ -64,8 +64,8 @@ championships:
 | Choke Slam Trios Championship | 1 | 2023-05-30 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/AJ Styles|AJ Styles]] (8x)
-- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (7x)
-- [[Wrestler/Miro|Miro]] (7x)
-- [[Wrestler/Ludwig Kaiser|Ludwig Kaiser]] (6x)
-- [[Wrestler/Randy Savage|Randy Savage]] (5x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (8x)
+- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (7x)
+- [[Wrestler/Miro\|Miro]] (7x)
+- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (6x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (5x)

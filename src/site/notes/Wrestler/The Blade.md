@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (4x)
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (4x)
-- [[Wrestler/Christian Cage|Christian Cage]] (4x)
-- [[Wrestler/The Butcher|The Butcher]] (4x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (4x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (4x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (4x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (4x)
+- [[Wrestler/The Butcher\|The Butcher]] (4x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Sting|Sting]] (5x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (5x)
-- [[Wrestler/Tommy End|Tommy End]] (4x)
-- [[Wrestler/Jay White|Jay White]] (4x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (4x)
+- [[Wrestler/Sting\|Sting]] (5x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
+- [[Wrestler/Tommy End\|Tommy End]] (4x)
+- [[Wrestler/Jay White\|Jay White]] (4x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)

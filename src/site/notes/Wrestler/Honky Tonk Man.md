@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Joey Janela|Joey Janela]] (1x)
-- [[Wrestler/Kane|Kane]] (1x)
-- [[Wrestler/Christian Cage|Christian Cage]] (1x)
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (1x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (1x)
+- [[Wrestler/Kane\|Kane]] (1x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (1x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

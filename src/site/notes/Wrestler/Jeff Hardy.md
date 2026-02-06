@@ -43,7 +43,7 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Shawn Michaels|Shawn Michaels]] (1x)
-- [[Wrestler/Finn Bálor|Finn Bálor]] (1x)
-- [[Wrestler/Zack Sabre Jr.|Zack Sabre Jr.]] (1x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (1x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)
+- [[Wrestler/Finn Bálor\|Finn Bálor]] (1x)
+- [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (1x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)

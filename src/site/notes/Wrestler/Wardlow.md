@@ -64,8 +64,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2025-08-21 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Edge|Edge]] (6x)
-- [[Wrestler/Kensuke Sasaki|Kensuke Sasaki]] (6x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (5x)
-- [[Wrestler/Fit Finlay|Fit Finlay]] (4x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (4x)
+- [[Wrestler/Edge\|Edge]] (6x)
+- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (6x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (5x)
+- [[Wrestler/Fit Finlay\|Fit Finlay]] (4x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (4x)

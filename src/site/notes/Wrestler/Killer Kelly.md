@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2021-08-23 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Christian Cage|Christian Cage]] (8x)
-- [[Wrestler/Chris Hero|Chris Hero]] (7x)
-- [[Wrestler/Rush|Rush]] (7x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (6x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (6x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (8x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (7x)
+- [[Wrestler/Rush\|Rush]] (7x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (6x)

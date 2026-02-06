@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H|Triple H]] (6x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (5x)
-- [[Wrestler/AJ Styles|AJ Styles]] (4x)
-- [[Wrestler/Dijak|Dijak]] (4x)
-- [[Wrestler/Dusty Rhodes|Dusty Rhodes]] (4x)
+- [[Wrestler/Triple H\|Triple H]] (6x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (5x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (4x)
+- [[Wrestler/Dijak\|Dijak]] (4x)
+- [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] (4x)

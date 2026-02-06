@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Christian Cage|Christian Cage]] (3x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Will Ospreay|Will Ospreay]] (2x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (2x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (3x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Will Ospreay\|Will Ospreay]] (2x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)

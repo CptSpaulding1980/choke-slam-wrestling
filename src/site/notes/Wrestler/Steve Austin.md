@@ -56,8 +56,8 @@ championships:
 | Choke Slam World Championship | 1 | 2025-10-27 | ✅ |
 
 ## Häufigste Gegner
-- [[Wrestler/Roman Reigns|Roman Reigns]] (7x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (5x)
-- [[Wrestler/Lex Luger|Lex Luger]] (5x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (4x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (4x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (7x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (5x)
+- [[Wrestler/Lex Luger\|Lex Luger]] (5x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)

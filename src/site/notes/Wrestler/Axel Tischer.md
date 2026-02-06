@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Davey Boy Smith|Davey Boy Smith]] (1x)
-- [[Wrestler/Ludwig Kaiser|Ludwig Kaiser]] (1x)
-- [[Wrestler/Grayson Waller|Grayson Waller]] (1x)
+- [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)
+- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (1x)
+- [[Wrestler/Grayson Waller\|Grayson Waller]] (1x)

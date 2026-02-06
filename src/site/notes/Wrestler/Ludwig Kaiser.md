@@ -56,8 +56,8 @@ championships:
 | Choke Slam Trios Championship | 0 | 2023-05-30 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (10x)
-- [[Wrestler/Brandon|Brandon]] (8x)
-- [[Wrestler/AJ Styles|AJ Styles]] (7x)
-- [[Wrestler/Miro|Miro]] (7x)
-- [[Wrestler/Grayson Waller|Grayson Waller]] (5x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (10x)
+- [[Wrestler/Brandon\|Brandon]] (8x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (7x)
+- [[Wrestler/Miro\|Miro]] (7x)
+- [[Wrestler/Grayson Waller\|Grayson Waller]] (5x)

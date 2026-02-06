@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Barry Windham|Barry Windham]] (1x)
-- [[Wrestler/Gail Kim|Gail Kim]] (1x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
-- [[Wrestler/Dustin Rhodes|Dustin Rhodes]] (1x)
-- [[Wrestler/Bret Hart|Bret Hart]] (1x)
+- [[Wrestler/Barry Windham\|Barry Windham]] (1x)
+- [[Wrestler/Gail Kim\|Gail Kim]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
+- [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)

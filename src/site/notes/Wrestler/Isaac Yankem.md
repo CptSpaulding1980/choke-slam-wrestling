@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Will Ospreay|Will Ospreay]] (1x)
+- [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)

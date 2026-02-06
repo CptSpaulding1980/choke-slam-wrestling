@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)

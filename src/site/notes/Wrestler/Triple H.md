@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2020-06-29 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/The Undertaker|The Undertaker]] (11x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (9x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (8x)
-- [[Wrestler/Jun Akiyama|Jun Akiyama]] (7x)
-- [[Wrestler/Dusty Rhodes|Dusty Rhodes]] (6x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (11x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (9x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (8x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (7x)
+- [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] (6x)

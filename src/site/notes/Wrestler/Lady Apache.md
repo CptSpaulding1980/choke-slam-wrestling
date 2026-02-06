@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Awesome Kong|Awesome Kong]] (4x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (4x)
-- [[Wrestler/Steve Austin|Steve Austin]] (3x)
-- [[Wrestler/Brock Lesnar|Brock Lesnar]] (3x)
-- [[Wrestler/Bandido|Bandido]] (2x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (4x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (3x)
+- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (3x)
+- [[Wrestler/Bandido\|Bandido]] (2x)

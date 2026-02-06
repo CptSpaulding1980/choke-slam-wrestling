@@ -72,8 +72,8 @@ championships:
 | Choke Slam World Championship | 1 | 2025-08-21 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (14x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (12x)
-- [[Wrestler/AJ Styles|AJ Styles]] (9x)
-- [[Wrestler/The Undertaker|The Undertaker]] (8x)
-- [[Wrestler/Triple H|Triple H]] (8x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (14x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (12x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (9x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (8x)
+- [[Wrestler/Triple H\|Triple H]] (8x)

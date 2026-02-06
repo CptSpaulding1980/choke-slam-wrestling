@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Mysterio Jr.|Rey Mysterio Jr.]] (4x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (3x)
-- [[Wrestler/Randy Savage|Randy Savage]] (3x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
-- [[Wrestler/Killer Kelly|Killer Kelly]] (3x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (4x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (3x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (3x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (3x)

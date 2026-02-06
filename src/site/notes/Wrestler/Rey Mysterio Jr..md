@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (4x)
-- [[Wrestler/Rey Fenix|Rey Fenix]] (4x)
-- [[Wrestler/Ricky Steamboat|Ricky Steamboat]] (4x)
-- [[Wrestler/Killer Kelly|Killer Kelly]] (4x)
-- [[Wrestler/The Undertaker|The Undertaker]] (3x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
+- [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] (4x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (4x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (3x)

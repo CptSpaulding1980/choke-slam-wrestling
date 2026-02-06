@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (1x)
-- [[Wrestler/Alexa Bliss|Alexa Bliss]] (1x)
-- [[Wrestler/Wade Barrett|Wade Barrett]] (1x)
+- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
+- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (1x)
+- [[Wrestler/Wade Barrett\|Wade Barrett]] (1x)

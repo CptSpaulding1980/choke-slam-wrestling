@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kurt Angle|Kurt Angle]] (1x)
-- [[Wrestler/Elias|Elias]] (1x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (1x)
-- [[Wrestler/Paul Orndorff|Paul Orndorff]] (1x)
-- [[Wrestler/AJ Styles|AJ Styles]] (1x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
+- [[Wrestler/Elias\|Elias]] (1x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
+- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (1x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kiana James|Kiana James]] (4x)
-- [[Wrestler/Drew Gulak|Drew Gulak]] (3x)
-- [[Wrestler/Jun Akiyama|Jun Akiyama]] (3x)
-- [[Wrestler/Masha Slamovich|Masha Slamovich]] (3x)
-- [[Wrestler/Shingo Takagi|Shingo Takagi]] (3x)
+- [[Wrestler/Kiana James\|Kiana James]] (4x)
+- [[Wrestler/Drew Gulak\|Drew Gulak]] (3x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (3x)
+- [[Wrestler/Masha Slamovich\|Masha Slamovich]] (3x)
+- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (3x)

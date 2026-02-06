@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Fenix|Rey Fenix]] (2x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (1x)
-- [[Wrestler/Kane|Kane]] (1x)
-- [[Wrestler/Jushin Liger|Jushin Liger]] (1x)
-- [[Wrestler/Thunder Rosa|Thunder Rosa]] (1x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
+- [[Wrestler/Kane\|Kane]] (1x)
+- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
+- [[Wrestler/Thunder Rosa\|Thunder Rosa]] (1x)

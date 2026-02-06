@@ -72,8 +72,8 @@ championships:
 | Choke Slam International Championship | 1 | 2024-09-09 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (13x)
-- [[Wrestler/AJ Styles|AJ Styles]] (9x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (9x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (8x)
-- [[Wrestler/Gunther|Gunther]] (8x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (13x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (9x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (9x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (8x)
+- [[Wrestler/Gunther\|Gunther]] (8x)

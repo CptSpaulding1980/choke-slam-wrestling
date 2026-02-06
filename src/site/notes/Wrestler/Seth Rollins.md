@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (8x)
-- [[Wrestler/Jay White|Jay White]] (7x)
-- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (6x)
-- [[Wrestler/Miro|Miro]] (5x)
-- [[Wrestler/Noam Dar|Noam Dar]] (4x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (8x)
+- [[Wrestler/Jay White\|Jay White]] (7x)
+- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (6x)
+- [[Wrestler/Miro\|Miro]] (5x)
+- [[Wrestler/Noam Dar\|Noam Dar]] (4x)

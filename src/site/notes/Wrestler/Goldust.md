@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Orange Cassidy|Orange Cassidy]] (1x)
-- [[Wrestler/Jerry Lawler|Jerry Lawler]] (1x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (1x)
+- [[Wrestler/Orange Cassidy\|Orange Cassidy]] (1x)
+- [[Wrestler/Jerry Lawler\|Jerry Lawler]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)

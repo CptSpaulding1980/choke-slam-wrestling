@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Wardlow|Wardlow]] (1x)
-- [[Wrestler/Kensuke Sasaki|Kensuke Sasaki]] (1x)
-- [[Wrestler/Hendrique Delafuente|Hendrique Delafuente]] (1x)
-- [[Wrestler/Bandido|Bandido]] (1x)
-- [[Wrestler/Pascal LePas|Pascal LePas]] (1x)
+- [[Wrestler/Wardlow\|Wardlow]] (1x)
+- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (1x)
+- [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)
+- [[Wrestler/Bandido\|Bandido]] (1x)
+- [[Wrestler/Pascal LePas\|Pascal LePas]] (1x)

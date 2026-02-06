@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Fenix|Rey Fenix]] (4x)
-- [[Wrestler/Paul Orndorff|Paul Orndorff]] (2x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (2x)
-- [[Wrestler/Austin Aries|Austin Aries]] (2x)
-- [[Wrestler/Gail Kim|Gail Kim]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
+- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (2x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (2x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (2x)
+- [[Wrestler/Gail Kim\|Gail Kim]] (2x)

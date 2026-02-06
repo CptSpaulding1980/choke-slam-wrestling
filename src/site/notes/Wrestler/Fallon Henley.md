@@ -56,8 +56,8 @@ championships:
 | Choke Slam Womens Championship | 0 | 2025-03-03 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Kiana James|Kiana James]] (5x)
-- [[Wrestler/Joe Hendry|Joe Hendry]] (4x)
-- [[Wrestler/Zack Sabre Jr.|Zack Sabre Jr.]] (3x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (3x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (3x)
+- [[Wrestler/Kiana James\|Kiana James]] (5x)
+- [[Wrestler/Joe Hendry\|Joe Hendry]] (4x)
+- [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (3x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (3x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (3x)

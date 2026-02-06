@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (2x)
-- [[Wrestler/Christian Cage|Christian Cage]] (1x)
-- [[Wrestler/Brian Cage|Brian Cage]] (1x)
-- [[Wrestler/Ethan Page|Ethan Page]] (1x)
-- [[Wrestler/Diamond Dallas Page|Diamond Dallas Page]] (1x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (1x)
+- [[Wrestler/Brian Cage\|Brian Cage]] (1x)
+- [[Wrestler/Ethan Page\|Ethan Page]] (1x)
+- [[Wrestler/Diamond Dallas Page\|Diamond Dallas Page]] (1x)

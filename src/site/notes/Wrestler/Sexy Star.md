@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kelly Klein|Kelly Klein]] (3x)
-- [[Wrestler/Sara Del Rey|Sara Del Rey]] (3x)
-- [[Wrestler/Bret Hart|Bret Hart]] (2x)
-- [[Wrestler/Sid Vicious|Sid Vicious]] (2x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (2x)
+- [[Wrestler/Kelly Klein\|Kelly Klein]] (3x)
+- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
+- [[Wrestler/Sid Vicious\|Sid Vicious]] (2x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)

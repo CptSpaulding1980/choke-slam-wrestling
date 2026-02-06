@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (2x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Killshot|Killshot]] (1x)
-- [[Wrestler/Thunder Rosa|Thunder Rosa]] (1x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Killshot\|Killshot]] (1x)
+- [[Wrestler/Thunder Rosa\|Thunder Rosa]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Miro|Miro]] (1x)
-- [[Wrestler/Gigi Dolin|Gigi Dolin]] (1x)
-- [[Wrestler/Randy Savage|Randy Savage]] (1x)
-- [[Wrestler/Ikemen Jiro|Ikemen Jiro]] (1x)
-- [[Wrestler/Brandon|Brandon]] (1x)
+- [[Wrestler/Miro\|Miro]] (1x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
+- [[Wrestler/Ikemen Jiro\|Ikemen Jiro]] (1x)
+- [[Wrestler/Brandon\|Brandon]] (1x)

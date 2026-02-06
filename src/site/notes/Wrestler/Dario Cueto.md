@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Mr. Fuji|Mr. Fuji]] (1x)
+- [[Wrestler/Mr. Fuji\|Mr. Fuji]] (1x)

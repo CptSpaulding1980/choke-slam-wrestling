@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H|Triple H]] (2x)
-- [[Wrestler/Charlie Dempsey|Charlie Dempsey]] (1x)
-- [[Wrestler/The Undertaker|The Undertaker]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (2x)
+- [[Wrestler/Charlie Dempsey\|Charlie Dempsey]] (1x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (1x)

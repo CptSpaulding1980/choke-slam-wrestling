@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
-- [[Wrestler/Dustin Rhodes|Dustin Rhodes]] (3x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (2x)
-- [[Wrestler/Jushin Liger|Jushin Liger]] (2x)
-- [[Wrestler/KENTA|KENTA]] (2x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
+- [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (3x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (2x)
+- [[Wrestler/Jushin Liger\|Jushin Liger]] (2x)
+- [[Wrestler/KENTA\|KENTA]] (2x)

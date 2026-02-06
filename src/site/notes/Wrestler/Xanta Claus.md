@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/KUSHIDA|KUSHIDA]] (1x)
-- [[Wrestler/Tatum Paxley|Tatum Paxley]] (1x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (1x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
+- [[Wrestler/Tatum Paxley\|Tatum Paxley]] (1x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)

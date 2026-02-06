@@ -43,7 +43,7 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/EC3|EC3]] (1x)
-- [[Wrestler/Philipp Brunkovic|Philipp Brunkovic]] (1x)
-- [[Wrestler/Shawn Michaels|Shawn Michaels]] (1x)
-- [[Wrestler/Logan Paul|Logan Paul]] (1x)
+- [[Wrestler/EC3\|EC3]] (1x)
+- [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (1x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)
+- [[Wrestler/Logan Paul\|Logan Paul]] (1x)

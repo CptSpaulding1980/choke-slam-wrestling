@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (4x)
-- [[Wrestler/Tommy End|Tommy End]] (4x)
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (4x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (3x)
-- [[Wrestler/Sting|Sting]] (3x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (4x)
+- [[Wrestler/Tommy End\|Tommy End]] (4x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (4x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (3x)
+- [[Wrestler/Sting\|Sting]] (3x)

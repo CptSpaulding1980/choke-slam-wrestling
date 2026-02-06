@@ -46,8 +46,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Gigi Dolin|Gigi Dolin]] (1x)
-- [[Wrestler/AJ Styles|AJ Styles]] (1x)
-- [[Wrestler/Bull Nakano|Bull Nakano]] (1x)
-- [[Wrestler/Jay White|Jay White]] (1x)
-- [[Wrestler/Brandon|Brandon]] (1x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (1x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (1x)
+- [[Wrestler/Bull Nakano\|Bull Nakano]] (1x)
+- [[Wrestler/Jay White\|Jay White]] (1x)
+- [[Wrestler/Brandon\|Brandon]] (1x)

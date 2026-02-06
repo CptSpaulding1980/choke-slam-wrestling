@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Shingo Takagi|Shingo Takagi]] (1x)
+- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)

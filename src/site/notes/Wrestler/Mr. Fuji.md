@@ -39,5 +39,5 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Dario Cueto|Dario Cueto]] (1x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (1x)
+- [[Wrestler/Dario Cueto\|Dario Cueto]] (1x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)

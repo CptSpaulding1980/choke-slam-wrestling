@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (1x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Samoa Joe|Samoa Joe]] (3x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (3x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (3x)
-- [[Wrestler/Joey Janela|Joey Janela]] (3x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (2x)
+- [[Wrestler/Samoa Joe\|Samoa Joe]] (3x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (3x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)

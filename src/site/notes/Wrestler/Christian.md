@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Daga|Daga]] (2x)
-- [[Wrestler/Texano Jr.|Texano Jr.]] (2x)
-- [[Wrestler/Rey Escorpión|Rey Escorpión]] (2x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (1x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (1x)
+- [[Wrestler/Daga\|Daga]] (2x)
+- [[Wrestler/Texano Jr.\|Texano Jr.]] (2x)
+- [[Wrestler/Rey Escorpión\|Rey Escorpión]] (2x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (1x)

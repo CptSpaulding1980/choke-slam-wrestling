@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (1x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (1x)
-- [[Wrestler/Katsuhiko Nakajima|Katsuhiko Nakajima]] (1x)
-- [[Wrestler/Wendi Richter|Wendi Richter]] (1x)
-- [[Wrestler/AJ Styles|AJ Styles]] (1x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)
+- [[Wrestler/Katsuhiko Nakajima\|Katsuhiko Nakajima]] (1x)
+- [[Wrestler/Wendi Richter\|Wendi Richter]] (1x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (1x)

@@ -43,7 +43,7 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly|Killer Kelly]] (1x)
-- [[Wrestler/Philipp Brunkovic|Philipp Brunkovic]] (1x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
-- [[Wrestler/Hendrique Delafuente|Hendrique Delafuente]] (1x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
+- [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (1x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
+- [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)

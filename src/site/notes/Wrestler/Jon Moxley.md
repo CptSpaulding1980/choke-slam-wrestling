@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2023-11-03 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Jay White|Jay White]] (7x)
-- [[Wrestler/Miro|Miro]] (6x)
-- [[Wrestler/Bret Hart|Bret Hart]] (5x)
-- [[Wrestler/Noam Dar|Noam Dar]] (4x)
-- [[Wrestler/Bull Nakano|Bull Nakano]] (4x)
+- [[Wrestler/Jay White\|Jay White]] (7x)
+- [[Wrestler/Miro\|Miro]] (6x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (5x)
+- [[Wrestler/Noam Dar\|Noam Dar]] (4x)
+- [[Wrestler/Bull Nakano\|Bull Nakano]] (4x)

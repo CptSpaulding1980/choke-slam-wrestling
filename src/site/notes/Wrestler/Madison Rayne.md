@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/KENTA|KENTA]] (8x)
-- [[Wrestler/Triple H|Triple H]] (7x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (6x)
-- [[Wrestler/Joey Janela|Joey Janela]] (6x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (6x)
+- [[Wrestler/KENTA\|KENTA]] (8x)
+- [[Wrestler/Triple H\|Triple H]] (7x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (6x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (6x)

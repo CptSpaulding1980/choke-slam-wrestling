@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rush|Rush]] (1x)
-- [[Wrestler/Randy Savage|Randy Savage]] (1x)
-- [[Wrestler/Zack Sabre Jr.|Zack Sabre Jr.]] (1x)
-- [[Wrestler/The Rock|The Rock]] (1x)
-- [[Wrestler/Gunther|Gunther]] (1x)
+- [[Wrestler/Rush\|Rush]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
+- [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (1x)
+- [[Wrestler/The Rock\|The Rock]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)

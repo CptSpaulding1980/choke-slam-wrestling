@@ -64,8 +64,8 @@ championships:
 | Choke Slam Trios Championship | 0 | 2023-10-09 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Miro|Miro]] (5x)
-- [[Wrestler/Randy Savage|Randy Savage]] (4x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (4x)
-- [[Wrestler/AJ Styles|AJ Styles]] (4x)
-- [[Wrestler/Ludwig Kaiser|Ludwig Kaiser]] (4x)
+- [[Wrestler/Miro\|Miro]] (5x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (4x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (4x)
+- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (4x)

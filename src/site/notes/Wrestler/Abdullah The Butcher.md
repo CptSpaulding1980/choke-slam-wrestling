@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (4x)
-- [[Wrestler/Tiger Mask|Tiger Mask]] (2x)
-- [[Wrestler/Pat Patterson|Pat Patterson]] (2x)
-- [[Wrestler/Jinsei Shinzaki|Jinsei Shinzaki]] (2x)
-- [[Wrestler/Mr. Perfect|Mr. Perfect]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (4x)
+- [[Wrestler/Tiger Mask\|Tiger Mask]] (2x)
+- [[Wrestler/Pat Patterson\|Pat Patterson]] (2x)
+- [[Wrestler/Jinsei Shinzaki\|Jinsei Shinzaki]] (2x)
+- [[Wrestler/Mr. Perfect\|Mr. Perfect]] (2x)

@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (1x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)

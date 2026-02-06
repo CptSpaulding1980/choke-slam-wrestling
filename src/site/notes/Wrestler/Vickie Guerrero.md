@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly|Killer Kelly]] (2x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (2x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
-- [[Wrestler/Akira Hokuto|Akira Hokuto]] (1x)
-- [[Wrestler/Alundra Blayze|Alundra Blayze]] (1x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (2x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (2x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
+- [[Wrestler/Akira Hokuto\|Akira Hokuto]] (1x)
+- [[Wrestler/Alundra Blayze\|Alundra Blayze]] (1x)

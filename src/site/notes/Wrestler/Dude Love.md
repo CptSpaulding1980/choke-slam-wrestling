@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (1x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)

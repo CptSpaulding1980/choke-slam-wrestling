@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
-- [[Wrestler/Triple H|Triple H]] (1x)
-- [[Wrestler/Rey Mysterio Jr.|Rey Mysterio Jr.]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (1x)

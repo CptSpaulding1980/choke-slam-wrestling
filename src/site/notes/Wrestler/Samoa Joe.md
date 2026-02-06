@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (4x)
-- [[Wrestler/AJ Styles|AJ Styles]] (4x)
-- [[Wrestler/Diesel|Diesel]] (4x)
-- [[Wrestler/Joey Janela|Joey Janela]] (4x)
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (4x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (4x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (4x)
+- [[Wrestler/Diesel\|Diesel]] (4x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (4x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (4x)

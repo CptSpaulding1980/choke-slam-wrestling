@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Akira Hokuto|Akira Hokuto]] (1x)
-- [[Wrestler/Alundra Blayze|Alundra Blayze]] (1x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (1x)
-- [[Wrestler/Athena|Athena]] (1x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (1x)
+- [[Wrestler/Akira Hokuto\|Akira Hokuto]] (1x)
+- [[Wrestler/Alundra Blayze\|Alundra Blayze]] (1x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
+- [[Wrestler/Athena\|Athena]] (1x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)

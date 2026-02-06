@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Daniel Bryan|Daniel Bryan]] (3x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (3x)
-- [[Wrestler/Wardlow|Wardlow]] (2x)
-- [[Wrestler/Pete Dunne|Pete Dunne]] (2x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (2x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
+- [[Wrestler/Wardlow\|Wardlow]] (2x)
+- [[Wrestler/Pete Dunne\|Pete Dunne]] (2x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)

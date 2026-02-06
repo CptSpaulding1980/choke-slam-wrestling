@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Dustin Rhodes|Dustin Rhodes]] (2x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (2x)
-- [[Wrestler/Jushin Liger|Jushin Liger]] (2x)
-- [[Wrestler/Killshot|Killshot]] (2x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (2x)
+- [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (2x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
+- [[Wrestler/Jushin Liger\|Jushin Liger]] (2x)
+- [[Wrestler/Killshot\|Killshot]] (2x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)

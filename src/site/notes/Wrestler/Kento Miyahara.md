@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (2x)
-- [[Wrestler/Bret Hart|Bret Hart]] (2x)
-- [[Wrestler/Tama Tonga|Tama Tonga]] (2x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (1x)
-- [[Wrestler/Katsuhiko Nakajima|Katsuhiko Nakajima]] (1x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (2x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
+- [[Wrestler/Tama Tonga\|Tama Tonga]] (2x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)
+- [[Wrestler/Katsuhiko Nakajima\|Katsuhiko Nakajima]] (1x)

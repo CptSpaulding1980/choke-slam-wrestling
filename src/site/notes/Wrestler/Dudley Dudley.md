@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (1x)
-- [[Wrestler/Gigi Dolin|Gigi Dolin]] (1x)
-- [[Wrestler/Ludwig Kaiser|Ludwig Kaiser]] (1x)
-- [[Wrestler/Pac|Pac]] (1x)
-- [[Wrestler/Brandon|Brandon]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (1x)
+- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (1x)
+- [[Wrestler/Pac\|Pac]] (1x)
+- [[Wrestler/Brandon\|Brandon]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (2x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (1x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
-- [[Wrestler/Chris Hero|Chris Hero]] (1x)
-- [[Wrestler/Sabu|Sabu]] (1x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (1x)
+- [[Wrestler/Sabu\|Sabu]] (1x)

@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kevin Steen|Kevin Steen]] (1x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

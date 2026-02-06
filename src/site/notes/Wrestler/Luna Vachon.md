@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Orton|Randy Orton]] (2x)
-- [[Wrestler/Samoa Joe|Samoa Joe]] (2x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (2x)
-- [[Wrestler/Big Ryck|Big Ryck]] (2x)
-- [[Wrestler/Kevin Owens|Kevin Owens]] (2x)
+- [[Wrestler/Randy Orton\|Randy Orton]] (2x)
+- [[Wrestler/Samoa Joe\|Samoa Joe]] (2x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
+- [[Wrestler/Big Ryck\|Big Ryck]] (2x)
+- [[Wrestler/Kevin Owens\|Kevin Owens]] (2x)

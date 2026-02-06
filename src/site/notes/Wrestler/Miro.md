@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 1 | 2022-12-16 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Jay White|Jay White]] (10x)
-- [[Wrestler/AJ Styles|AJ Styles]] (9x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (8x)
-- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (8x)
-- [[Wrestler/Ludwig Kaiser|Ludwig Kaiser]] (7x)
+- [[Wrestler/Jay White\|Jay White]] (10x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (9x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (8x)
+- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (8x)
+- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (7x)

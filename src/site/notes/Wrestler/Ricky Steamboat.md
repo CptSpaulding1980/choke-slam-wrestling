@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Mysterio Jr.|Rey Mysterio Jr.]] (3x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (2x)
-- [[Wrestler/Christian Cage|Christian Cage]] (2x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (3x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (2x)

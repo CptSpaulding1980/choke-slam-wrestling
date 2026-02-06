@@ -56,8 +56,8 @@ championships:
 | Choke Slam Trios Championship | 0 | 2025-08-12 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Steve Austin|Steve Austin]] (5x)
-- [[Wrestler/Kensuke Sasaki|Kensuke Sasaki]] (5x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (5x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (4x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (4x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (5x)
+- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (5x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (5x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (4x)

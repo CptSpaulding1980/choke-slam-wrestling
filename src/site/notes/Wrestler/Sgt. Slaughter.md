@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
-- [[Wrestler/Sheamus|Sheamus]] (2x)
-- [[Wrestler/Pac|Pac]] (2x)
-- [[Wrestler/Fit Finlay|Fit Finlay]] (2x)
-- [[Wrestler/Kane|Kane]] (2x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
+- [[Wrestler/Sheamus\|Sheamus]] (2x)
+- [[Wrestler/Pac\|Pac]] (2x)
+- [[Wrestler/Fit Finlay\|Fit Finlay]] (2x)
+- [[Wrestler/Kane\|Kane]] (2x)

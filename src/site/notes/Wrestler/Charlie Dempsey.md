@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kofi Kingston|Kofi Kingston]] (1x)
-- [[Wrestler/Nathan Frazer|Nathan Frazer]] (1x)
-- [[Wrestler/Tyler Bate|Tyler Bate]] (1x)
+- [[Wrestler/Kofi Kingston\|Kofi Kingston]] (1x)
+- [[Wrestler/Nathan Frazer\|Nathan Frazer]] (1x)
+- [[Wrestler/Tyler Bate\|Tyler Bate]] (1x)

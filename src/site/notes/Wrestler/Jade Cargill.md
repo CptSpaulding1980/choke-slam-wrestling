@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
-- [[Wrestler/EC3|EC3]] (1x)
-- [[Wrestler/Killer Kelly|Killer Kelly]] (1x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
-- [[Wrestler/Marius Al-Ani|Marius Al-Ani]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
+- [[Wrestler/EC3\|EC3]] (1x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
+- [[Wrestler/Marius Al-Ani\|Marius Al-Ani]] (1x)

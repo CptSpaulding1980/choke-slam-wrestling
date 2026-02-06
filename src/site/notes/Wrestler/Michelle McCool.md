@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Alundra Blayze|Alundra Blayze]] (2x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (2x)
-- [[Wrestler/Rhea Ripley|Rhea Ripley]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Alundra Blayze\|Alundra Blayze]] (2x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
+- [[Wrestler/Rhea Ripley\|Rhea Ripley]] (2x)

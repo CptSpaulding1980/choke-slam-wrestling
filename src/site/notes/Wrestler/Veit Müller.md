@@ -46,8 +46,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Teoman|Teoman]] (4x)
-- [[Wrestler/Jay Briscoe|Jay Briscoe]] (4x)
-- [[Wrestler/Mark Haskins|Mark Haskins]] (2x)
-- [[Wrestler/Rich Swann|Rich Swann]] (2x)
-- [[Wrestler/Rick Rude|Rick Rude]] (2x)
+- [[Wrestler/Teoman\|Teoman]] (4x)
+- [[Wrestler/Jay Briscoe\|Jay Briscoe]] (4x)
+- [[Wrestler/Mark Haskins\|Mark Haskins]] (2x)
+- [[Wrestler/Rich Swann\|Rich Swann]] (2x)
+- [[Wrestler/Rick Rude\|Rick Rude]] (2x)

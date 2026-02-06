@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/The Undertaker|The Undertaker]] (1x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (1x)

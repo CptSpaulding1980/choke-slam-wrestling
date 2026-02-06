@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Shingo Takagi|Shingo Takagi]] (2x)
-- [[Wrestler/Sgt. Slaughter|Sgt. Slaughter]] (2x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (2x)
+- [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] (2x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)

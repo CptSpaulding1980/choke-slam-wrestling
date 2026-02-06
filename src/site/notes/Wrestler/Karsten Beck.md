@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Miro|Miro]] (1x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (1x)
-- [[Wrestler/Fit Finlay|Fit Finlay]] (1x)
+- [[Wrestler/Miro\|Miro]] (1x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)
+- [[Wrestler/Fit Finlay\|Fit Finlay]] (1x)

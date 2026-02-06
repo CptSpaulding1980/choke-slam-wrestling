@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (5x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (5x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (5x)
-- [[Wrestler/Triple H|Triple H]] (5x)
-- [[Wrestler/Joey Janela|Joey Janela]] (5x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (5x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (5x)
+- [[Wrestler/Triple H\|Triple H]] (5x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (5x)

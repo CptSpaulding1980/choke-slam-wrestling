@@ -56,8 +56,8 @@ championships:
 | Choke Slam Trios Championship | 0 | 2023-05-30 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Grayson Waller|Grayson Waller]] (4x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (4x)
-- [[Wrestler/Brandon|Brandon]] (4x)
-- [[Wrestler/Alexa Bliss|Alexa Bliss]] (3x)
-- [[Wrestler/Bret Hart|Bret Hart]] (2x)
+- [[Wrestler/Grayson Waller\|Grayson Waller]] (4x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)
+- [[Wrestler/Brandon\|Brandon]] (4x)
+- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)

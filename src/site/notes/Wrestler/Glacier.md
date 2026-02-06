@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Dijak|Dijak]] (1x)
-- [[Wrestler/Shingo Takagi|Shingo Takagi]] (1x)
-- [[Wrestler/Jordynne Grace|Jordynne Grace]] (1x)
-- [[Wrestler/Drew Gulak|Drew Gulak]] (1x)
-- [[Wrestler/Dusty Rhodes|Dusty Rhodes]] (1x)
+- [[Wrestler/Dijak\|Dijak]] (1x)
+- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)
+- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (1x)
+- [[Wrestler/Drew Gulak\|Drew Gulak]] (1x)
+- [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] (1x)

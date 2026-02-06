@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage|Randy Savage]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)

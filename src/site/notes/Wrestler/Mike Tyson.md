@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Akira Taue|Akira Taue]] (1x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (1x)

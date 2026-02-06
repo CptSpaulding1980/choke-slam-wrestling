@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Christian Cage|Christian Cage]] (2x)
-- [[Wrestler/Bret Hart|Bret Hart]] (2x)
-- [[Wrestler/Fit Finlay|Fit Finlay]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (2x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
+- [[Wrestler/Fit Finlay\|Fit Finlay]] (2x)

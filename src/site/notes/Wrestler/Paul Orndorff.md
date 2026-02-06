@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Fenix|Rey Fenix]] (4x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (3x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (2x)
-- [[Wrestler/Kane|Kane]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (3x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
+- [[Wrestler/Kane\|Kane]] (2x)

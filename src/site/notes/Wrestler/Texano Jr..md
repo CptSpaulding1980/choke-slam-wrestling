@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (3x)
-- [[Wrestler/Daga|Daga]] (3x)
-- [[Wrestler/Taya Valkyrie|Taya Valkyrie]] (3x)
-- [[Wrestler/Rey Escorpión|Rey Escorpión]] (3x)
-- [[Wrestler/Shingo Takagi|Shingo Takagi]] (2x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
+- [[Wrestler/Daga\|Daga]] (3x)
+- [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] (3x)
+- [[Wrestler/Rey Escorpión\|Rey Escorpión]] (3x)
+- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (2x)

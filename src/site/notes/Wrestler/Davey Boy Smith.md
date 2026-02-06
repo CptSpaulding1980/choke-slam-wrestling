@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Sami Zayn|Sami Zayn]] (2x)
-- [[Wrestler/Brody King|Brody King]] (2x)
-- [[Wrestler/Kane|Kane]] (1x)
-- [[Wrestler/Jushin Liger|Jushin Liger]] (1x)
-- [[Wrestler/Austin Aries|Austin Aries]] (1x)
+- [[Wrestler/Sami Zayn\|Sami Zayn]] (2x)
+- [[Wrestler/Brody King\|Brody King]] (2x)
+- [[Wrestler/Kane\|Kane]] (1x)
+- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (1x)

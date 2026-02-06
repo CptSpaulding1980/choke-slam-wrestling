@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (3x)
-- [[Wrestler/Gigi Dolin|Gigi Dolin]] (3x)
-- [[Wrestler/Bret Hart|Bret Hart]] (2x)
-- [[Wrestler/AJ Styles|AJ Styles]] (2x)
-- [[Wrestler/Miro|Miro]] (2x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (3x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (2x)
+- [[Wrestler/Miro\|Miro]] (2x)

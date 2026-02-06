@@ -46,8 +46,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Sara Del Rey|Sara Del Rey]] (2x)
-- [[Wrestler/Sid Vicious|Sid Vicious]] (2x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (2x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
+- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)
+- [[Wrestler/Sid Vicious\|Sid Vicious]] (2x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

@@ -72,8 +72,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2025-11-18 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (12x)
-- [[Wrestler/KENTA|KENTA]] (9x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (8x)
-- [[Wrestler/Kane|Kane]] (7x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (7x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (12x)
+- [[Wrestler/KENTA\|KENTA]] (9x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (8x)
+- [[Wrestler/Kane\|Kane]] (7x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)

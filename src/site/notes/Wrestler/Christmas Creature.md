@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Finn Bálor|Finn Bálor]] (1x)
-- [[Wrestler/Joe Hendry|Joe Hendry]] (1x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (1x)
+- [[Wrestler/Finn Bálor\|Finn Bálor]] (1x)
+- [[Wrestler/Joe Hendry\|Joe Hendry]] (1x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)

@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/AJ Styles|AJ Styles]] (1x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (1x)

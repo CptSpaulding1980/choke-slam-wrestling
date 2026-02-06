@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Joey Janela|Joey Janela]] (3x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (3x)
-- [[Wrestler/Christian Cage|Christian Cage]] (3x)
-- [[Wrestler/Rey Mysterio Jr.|Rey Mysterio Jr.]] (3x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (3x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (3x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (3x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (3x)

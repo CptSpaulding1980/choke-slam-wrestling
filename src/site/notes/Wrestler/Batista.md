@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bull Nakano|Bull Nakano]] (2x)
-- [[Wrestler/Noam Dar|Noam Dar]] (2x)
-- [[Wrestler/Bret Hart|Bret Hart]] (1x)
-- [[Wrestler/Miro|Miro]] (1x)
-- [[Wrestler/Jon Moxley|Jon Moxley]] (1x)
+- [[Wrestler/Bull Nakano\|Bull Nakano]] (2x)
+- [[Wrestler/Noam Dar\|Noam Dar]] (2x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/Miro\|Miro]] (1x)
+- [[Wrestler/Jon Moxley\|Jon Moxley]] (1x)

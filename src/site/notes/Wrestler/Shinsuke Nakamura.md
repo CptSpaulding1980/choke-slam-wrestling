@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Kensuke Sasaki|Kensuke Sasaki]] (2x)
-- [[Wrestler/Jay White|Jay White]] (2x)
-- [[Wrestler/Tiger Mask|Tiger Mask]] (1x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (2x)
+- [[Wrestler/Jay White\|Jay White]] (2x)
+- [[Wrestler/Tiger Mask\|Tiger Mask]] (1x)

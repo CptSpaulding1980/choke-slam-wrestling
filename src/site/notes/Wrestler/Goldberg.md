@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Randy Savage|Randy Savage]] (2x)
-- [[Wrestler/KUSHIDA|KUSHIDA]] (2x)
-- [[Wrestler/Pac|Pac]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (2x)
+- [[Wrestler/Pac\|Pac]] (2x)

@@ -39,5 +39,5 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (1x)
-- [[Wrestler/Pascal LePas|Pascal LePas]] (1x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
+- [[Wrestler/Pascal LePas\|Pascal LePas]] (1x)

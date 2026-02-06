@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H|Triple H]] (4x)
-- [[Wrestler/Dijak|Dijak]] (3x)
-- [[Wrestler/Kevin Steen|Kevin Steen]] (2x)
-- [[Wrestler/Big Kon|Big Kon]] (2x)
-- [[Wrestler/Drew Gulak|Drew Gulak]] (2x)
+- [[Wrestler/Triple H\|Triple H]] (4x)
+- [[Wrestler/Dijak\|Dijak]] (3x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (2x)
+- [[Wrestler/Big Kon\|Big Kon]] (2x)
+- [[Wrestler/Drew Gulak\|Drew Gulak]] (2x)

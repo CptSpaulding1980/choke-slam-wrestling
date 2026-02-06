@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
-- [[Wrestler/EC3|EC3]] (1x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (1x)
-- [[Wrestler/Triple H|Triple H]] (1x)
-- [[Wrestler/Shawn Michaels|Shawn Michaels]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
+- [[Wrestler/EC3\|EC3]] (1x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)

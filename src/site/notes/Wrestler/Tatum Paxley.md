@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid|Laredo Kid]] (4x)
-- [[Wrestler/Kiana James|Kiana James]] (4x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (4x)
-- [[Wrestler/Zack Sabre Jr.|Zack Sabre Jr.]] (3x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (3x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (4x)
+- [[Wrestler/Kiana James\|Kiana James]] (4x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (4x)
+- [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (3x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (3x)

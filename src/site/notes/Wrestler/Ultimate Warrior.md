@@ -39,5 +39,5 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid|Laredo Kid]] (1x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (1x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)

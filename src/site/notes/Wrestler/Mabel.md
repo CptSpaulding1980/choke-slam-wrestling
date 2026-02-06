@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

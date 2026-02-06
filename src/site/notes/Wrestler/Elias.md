@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Arn Anderson|Arn Anderson]] (1x)
-- [[Wrestler/Eric Young|Eric Young]] (1x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (1x)
-- [[Wrestler/Paul Orndorff|Paul Orndorff]] (1x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
+- [[Wrestler/Arn Anderson\|Arn Anderson]] (1x)
+- [[Wrestler/Eric Young\|Eric Young]] (1x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
+- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

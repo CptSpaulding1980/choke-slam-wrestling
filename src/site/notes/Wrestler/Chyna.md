@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (4x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (3x)
-- [[Wrestler/Triple H|Triple H]] (3x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (3x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (3x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (3x)
+- [[Wrestler/Triple H\|Triple H]] (3x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (3x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (3x)

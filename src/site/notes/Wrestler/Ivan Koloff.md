@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (1x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (1x)

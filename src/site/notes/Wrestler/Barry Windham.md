@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Aero Star|Aero Star]] (1x)
-- [[Wrestler/Eddie Guerrero|Eddie Guerrero]] (1x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
-- [[Wrestler/Dustin Rhodes|Dustin Rhodes]] (1x)
-- [[Wrestler/Alexa Bliss|Alexa Bliss]] (1x)
+- [[Wrestler/Aero Star\|Aero Star]] (1x)
+- [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
+- [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (1x)
+- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (1x)

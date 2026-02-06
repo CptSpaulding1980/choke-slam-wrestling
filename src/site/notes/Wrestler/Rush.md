@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly|Killer Kelly]] (7x)
-- [[Wrestler/Joey Janela|Joey Janela]] (5x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (5x)
-- [[Wrestler/Christian Cage|Christian Cage]] (5x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (5x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (7x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (5x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (5x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (5x)

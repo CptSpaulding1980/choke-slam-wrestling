@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (7x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (7x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (7x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (6x)
-- [[Wrestler/KENTA|KENTA]] (6x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (7x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (7x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (6x)
+- [[Wrestler/KENTA\|KENTA]] (6x)

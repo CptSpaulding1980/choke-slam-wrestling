@@ -46,8 +46,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly|Killer Kelly]] (6x)
-- [[Wrestler/EC3|EC3]] (6x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (5x)
-- [[Wrestler/Owen Hart|Owen Hart]] (4x)
-- [[Wrestler/AJ Styles|AJ Styles]] (4x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (6x)
+- [[Wrestler/EC3\|EC3]] (6x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (5x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (4x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (4x)

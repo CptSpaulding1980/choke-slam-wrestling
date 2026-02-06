@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Roman Reigns|Roman Reigns]] (15x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (10x)
-- [[Wrestler/AJ Styles|AJ Styles]] (8x)
-- [[Wrestler/The Undertaker|The Undertaker]] (8x)
-- [[Wrestler/Triple H|Triple H]] (7x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (15x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (10x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (8x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (8x)
+- [[Wrestler/Triple H\|Triple H]] (7x)

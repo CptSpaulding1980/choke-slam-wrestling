@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Will Ospreay|Will Ospreay]] (1x)
-- [[Wrestler/El Ligero|El Ligero]] (1x)
-- [[Wrestler/Jimmy Havoc|Jimmy Havoc]] (1x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (1x)
-- [[Wrestler/Wade Barrett|Wade Barrett]] (1x)
+- [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)
+- [[Wrestler/El Ligero\|El Ligero]] (1x)
+- [[Wrestler/Jimmy Havoc\|Jimmy Havoc]] (1x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
+- [[Wrestler/Wade Barrett\|Wade Barrett]] (1x)

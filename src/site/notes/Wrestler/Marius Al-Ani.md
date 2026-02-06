@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/WALTER|WALTER]] (2x)
-- [[Wrestler/Killer Kelly|Killer Kelly]] (2x)
-- [[Wrestler/Jeff Jarrett|Jeff Jarrett]] (2x)
-- [[Wrestler/Teoman|Teoman]] (2x)
-- [[Wrestler/Veit Müller|Veit Müller]] (2x)
+- [[Wrestler/WALTER\|WALTER]] (2x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (2x)
+- [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (2x)
+- [[Wrestler/Teoman\|Teoman]] (2x)
+- [[Wrestler/Veit Müller\|Veit Müller]] (2x)

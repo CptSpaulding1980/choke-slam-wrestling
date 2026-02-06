@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly|Killer Kelly]] (6x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (5x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (5x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (5x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (4x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (6x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (5x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (5x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)

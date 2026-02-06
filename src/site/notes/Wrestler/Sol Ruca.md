@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Angélico|Angélico]] (2x)
-- [[Wrestler/Becky Lynch|Becky Lynch]] (2x)
-- [[Wrestler/Chris Hero|Chris Hero]] (2x)
-- [[Wrestler/EC3|EC3]] (2x)
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (2x)
+- [[Wrestler/Angélico\|Angélico]] (2x)
+- [[Wrestler/Becky Lynch\|Becky Lynch]] (2x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (2x)
+- [[Wrestler/EC3\|EC3]] (2x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (2x)

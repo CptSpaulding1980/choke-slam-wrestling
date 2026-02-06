@@ -56,8 +56,8 @@ championships:
 | Choke Slam Trios Championship | 1 | 2025-08-12 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (6x)
-- [[Wrestler/Wardlow|Wardlow]] (6x)
-- [[Wrestler/Triple H|Triple H]] (5x)
-- [[Wrestler/KENTA|KENTA]] (5x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (5x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (6x)
+- [[Wrestler/Wardlow\|Wardlow]] (6x)
+- [[Wrestler/Triple H\|Triple H]] (5x)
+- [[Wrestler/KENTA\|KENTA]] (5x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)

@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/nan|nan]] (1x)
+- [[Wrestler/nan\|nan]] (1x)

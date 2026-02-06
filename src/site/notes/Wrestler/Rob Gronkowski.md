@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid|Laredo Kid]] (1x)
-- [[Wrestler/Randy Savage|Randy Savage]] (1x)
-- [[Wrestler/Triple H|Triple H]] (1x)
-- [[Wrestler/KUSHIDA|KUSHIDA]] (1x)
-- [[Wrestler/Gunther|Gunther]] (1x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)

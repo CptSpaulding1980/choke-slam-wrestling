@@ -43,7 +43,7 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/William Regal|William Regal]] (1x)
-- [[Wrestler/Will Ospreay|Will Ospreay]] (1x)
-- [[Wrestler/El Ligero|El Ligero]] (1x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (1x)
+- [[Wrestler/William Regal\|William Regal]] (1x)
+- [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)
+- [[Wrestler/El Ligero\|El Ligero]] (1x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)

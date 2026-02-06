@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (4x)
-- [[Wrestler/Tiger Mask|Tiger Mask]] (2x)
-- [[Wrestler/Pat Patterson|Pat Patterson]] (2x)
-- [[Wrestler/Jinsei Shinzaki|Jinsei Shinzaki]] (2x)
-- [[Wrestler/Mr. Perfect|Mr. Perfect]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (4x)
+- [[Wrestler/Tiger Mask\|Tiger Mask]] (2x)
+- [[Wrestler/Pat Patterson\|Pat Patterson]] (2x)
+- [[Wrestler/Jinsei Shinzaki\|Jinsei Shinzaki]] (2x)
+- [[Wrestler/Mr. Perfect\|Mr. Perfect]] (2x)

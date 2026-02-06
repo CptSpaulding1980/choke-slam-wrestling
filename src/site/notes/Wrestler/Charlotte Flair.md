@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Awesome Kong|Awesome Kong]] (3x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (3x)
-- [[Wrestler/Edge|Edge]] (3x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (3x)
+- [[Wrestler/Edge\|Edge]] (3x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

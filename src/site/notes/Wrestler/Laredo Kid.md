@@ -56,8 +56,8 @@ championships:
 | Choke Slam Trios Championship | 0 | 2024-10-22 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Roman Reigns|Roman Reigns]] (12x)
-- [[Wrestler/Triple H|Triple H]] (9x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (8x)
-- [[Wrestler/KUSHIDA|KUSHIDA]] (8x)
-- [[Wrestler/The Undertaker|The Undertaker]] (8x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (12x)
+- [[Wrestler/Triple H\|Triple H]] (9x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (8x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (8x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (8x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (2x)
-- [[Wrestler/Randy Savage|Randy Savage]] (1x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (1x)
-- [[Wrestler/Bret Hart|Bret Hart]] (1x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (1x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (2x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid|Laredo Kid]] (10x)
-- [[Wrestler/The Undertaker|The Undertaker]] (8x)
-- [[Wrestler/Gunther|Gunther]] (7x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (6x)
-- [[Wrestler/Kiana James|Kiana James]] (6x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (10x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (8x)
+- [[Wrestler/Gunther\|Gunther]] (7x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (6x)
+- [[Wrestler/Kiana James\|Kiana James]] (6x)

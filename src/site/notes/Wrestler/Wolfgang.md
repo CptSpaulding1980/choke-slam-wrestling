@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (2x)
-- [[Wrestler/Rey Fenix|Rey Fenix]] (2x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Britt Baker|Britt Baker]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Britt Baker\|Britt Baker]] (1x)

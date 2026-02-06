@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/KUSHIDA|KUSHIDA]] (1x)
-- [[Wrestler/Gunther|Gunther]] (1x)
-- [[Wrestler/Dijak|Dijak]] (1x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
+- [[Wrestler/Dijak\|Dijak]] (1x)

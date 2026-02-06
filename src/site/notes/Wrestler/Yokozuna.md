@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Sara Del Rey|Sara Del Rey]] (1x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (1x)
-- [[Wrestler/Sid Vicious|Sid Vicious]] (1x)
-- [[Wrestler/Owen Hart|Owen Hart]] (1x)
-- [[Wrestler/AJ Styles|AJ Styles]] (1x)
+- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (1x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
+- [[Wrestler/Sid Vicious\|Sid Vicious]] (1x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (1x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (1x)

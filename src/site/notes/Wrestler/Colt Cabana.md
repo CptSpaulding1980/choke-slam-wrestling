@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Fabian Aichner|Fabian Aichner]] (1x)
-- [[Wrestler/Marcel Barthel|Marcel Barthel]] (1x)
-- [[Wrestler/Austin Aries|Austin Aries]] (1x)
-- [[Wrestler/Paul Orndorff|Paul Orndorff]] (1x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
+- [[Wrestler/Fabian Aichner\|Fabian Aichner]] (1x)
+- [[Wrestler/Marcel Barthel\|Marcel Barthel]] (1x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (1x)
+- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

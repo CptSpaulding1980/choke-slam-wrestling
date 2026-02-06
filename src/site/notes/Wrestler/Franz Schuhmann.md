@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage|Randy Savage]] (2x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (2x)
-- [[Wrestler/Rush|Rush]] (1x)
-- [[Wrestler/Fit Finlay|Fit Finlay]] (1x)
-- [[Wrestler/Chris Hero|Chris Hero]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
+- [[Wrestler/Rush\|Rush]] (1x)
+- [[Wrestler/Fit Finlay\|Fit Finlay]] (1x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (1x)

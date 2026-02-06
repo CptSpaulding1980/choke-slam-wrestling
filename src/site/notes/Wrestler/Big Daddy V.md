@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Ric Flair|Ric Flair]] (1x)
+- [[Wrestler/Ric Flair\|Ric Flair]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (1x)
-- [[Wrestler/Kenny Omega|Kenny Omega]] (1x)
-- [[Wrestler/Ric Flair|Ric Flair]] (1x)
-- [[Wrestler/Bret Hart|Bret Hart]] (1x)
-- [[Wrestler/CM Punk|CM Punk]] (1x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
+- [[Wrestler/Kenny Omega\|Kenny Omega]] (1x)
+- [[Wrestler/Ric Flair\|Ric Flair]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/CM Punk\|CM Punk]] (1x)

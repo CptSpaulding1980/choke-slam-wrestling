@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2020-09-07 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Diesel|Diesel]] (5x)
-- [[Wrestler/Sara Del Rey|Sara Del Rey]] (4x)
-- [[Wrestler/Angélico|Angélico]] (4x)
-- [[Wrestler/Randy Savage|Randy Savage]] (4x)
-- [[Wrestler/Joey Janela|Joey Janela]] (4x)
+- [[Wrestler/Diesel\|Diesel]] (5x)
+- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (4x)
+- [[Wrestler/Angélico\|Angélico]] (4x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (4x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (4x)

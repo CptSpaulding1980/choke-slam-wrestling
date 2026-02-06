@@ -56,8 +56,8 @@ championships:
 | Choke Slam Trios Championship | 0 | 2025-08-12 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Philipp Brunkovic|Philipp Brunkovic]] (5x)
-- [[Wrestler/Pascal LePas|Pascal LePas]] (4x)
-- [[Wrestler/Edge|Edge]] (3x)
-- [[Wrestler/Daniel Bryan|Daniel Bryan]] (2x)
-- [[Wrestler/Wardlow|Wardlow]] (2x)
+- [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)
+- [[Wrestler/Pascal LePas\|Pascal LePas]] (4x)
+- [[Wrestler/Edge\|Edge]] (3x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (2x)
+- [[Wrestler/Wardlow\|Wardlow]] (2x)

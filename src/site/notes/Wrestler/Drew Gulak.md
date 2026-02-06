@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jordynne Grace|Jordynne Grace]] (3x)
-- [[Wrestler/Jun Akiyama|Jun Akiyama]] (3x)
-- [[Wrestler/Triple H|Triple H]] (3x)
-- [[Wrestler/AJ Styles|AJ Styles]] (2x)
-- [[Wrestler/Big Kon|Big Kon]] (2x)
+- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (3x)
+- [[Wrestler/Triple H\|Triple H]] (3x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (2x)
+- [[Wrestler/Big Kon\|Big Kon]] (2x)

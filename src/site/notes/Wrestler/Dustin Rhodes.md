@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kane|Kane]] (5x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (5x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (5x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (4x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (4x)
+- [[Wrestler/Kane\|Kane]] (5x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (5x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (4x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)

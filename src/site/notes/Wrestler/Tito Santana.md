@@ -43,7 +43,7 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Fallon Henley|Fallon Henley]] (1x)
-- [[Wrestler/Triple H|Triple H]] (1x)
-- [[Wrestler/Gunther|Gunther]] (1x)
-- [[Wrestler/Randy Savage|Randy Savage]] (1x)
+- [[Wrestler/Fallon Henley\|Fallon Henley]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)

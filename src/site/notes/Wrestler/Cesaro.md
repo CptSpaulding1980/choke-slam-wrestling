@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (2x)
-- [[Wrestler/Diesel|Diesel]] (2x)
-- [[Wrestler/Kelly Klein|Kelly Klein]] (2x)
-- [[Wrestler/Angélico|Angélico]] (1x)
-- [[Wrestler/Mansoor|Mansoor]] (1x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
+- [[Wrestler/Diesel\|Diesel]] (2x)
+- [[Wrestler/Kelly Klein\|Kelly Klein]] (2x)
+- [[Wrestler/Angélico\|Angélico]] (1x)
+- [[Wrestler/Mansoor\|Mansoor]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Akira Taue|Akira Taue]] (1x)
-- [[Wrestler/KONOSUKE TAKESHITA|KONOSUKE TAKESHITA]] (1x)
-- [[Wrestler/Billy Gunn|Billy Gunn]] (1x)
-- [[Wrestler/Road Dogg|Road Dogg]] (1x)
-- [[Wrestler/Big E|Big E]] (1x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (1x)
+- [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]] (1x)
+- [[Wrestler/Billy Gunn\|Billy Gunn]] (1x)
+- [[Wrestler/Road Dogg\|Road Dogg]] (1x)
+- [[Wrestler/Big E\|Big E]] (1x)

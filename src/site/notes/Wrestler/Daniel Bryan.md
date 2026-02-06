@@ -56,8 +56,8 @@ championships:
 | Choke Slam International Championship | 3 | 2025-06-03 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Chris Jericho|Chris Jericho]] (9x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (4x)
-- [[Wrestler/Steve Austin|Steve Austin]] (4x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (4x)
-- [[Wrestler/Edge|Edge]] (3x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (9x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (4x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (4x)
+- [[Wrestler/Edge\|Edge]] (3x)

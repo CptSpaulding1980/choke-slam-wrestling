@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 4 | 2024-10-22 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage|Randy Savage]] (8x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (8x)
-- [[Wrestler/The Undertaker|The Undertaker]] (7x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (7x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (7x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (8x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (8x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (7x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (7x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (7x)

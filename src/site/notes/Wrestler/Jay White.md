@@ -56,8 +56,8 @@ championships:
 | Choke Slam International Championship | 1 | 2024-01-29 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (10x)
-- [[Wrestler/Miro|Miro]] (9x)
-- [[Wrestler/Seth Rollins|Seth Rollins]] (6x)
-- [[Wrestler/Jon Moxley|Jon Moxley]] (6x)
-- [[Wrestler/Randy Savage|Randy Savage]] (5x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (10x)
+- [[Wrestler/Miro\|Miro]] (9x)
+- [[Wrestler/Seth Rollins\|Seth Rollins]] (6x)
+- [[Wrestler/Jon Moxley\|Jon Moxley]] (6x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (5x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kurt Angle|Kurt Angle]] (1x)
-- [[Wrestler/WALTER|WALTER]] (1x)
-- [[Wrestler/Kevin Steen|Kevin Steen]] (1x)
-- [[Wrestler/Solo Sikoa|Solo Sikoa]] (1x)
-- [[Wrestler/Jimmy Uso|Jimmy Uso]] (1x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
+- [[Wrestler/WALTER\|WALTER]] (1x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
+- [[Wrestler/Solo Sikoa\|Solo Sikoa]] (1x)
+- [[Wrestler/Jimmy Uso\|Jimmy Uso]] (1x)

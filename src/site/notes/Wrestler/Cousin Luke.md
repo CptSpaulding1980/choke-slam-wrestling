@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kevin Steen|Kevin Steen]] (1x)
-- [[Wrestler/Triple H|Triple H]] (1x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (1x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)

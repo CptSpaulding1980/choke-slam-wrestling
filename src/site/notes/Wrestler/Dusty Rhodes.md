@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H|Triple H]] (6x)
-- [[Wrestler/The Undertaker|The Undertaker]] (4x)
-- [[Wrestler/AJ Styles|AJ Styles]] (4x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (4x)
-- [[Wrestler/Dijak|Dijak]] (4x)
+- [[Wrestler/Triple H\|Triple H]] (6x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (4x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (4x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (4x)
+- [[Wrestler/Dijak\|Dijak]] (4x)

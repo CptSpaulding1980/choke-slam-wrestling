@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (6x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (6x)
-- [[Wrestler/EC3|EC3]] (6x)
-- [[Wrestler/Sting|Sting]] (5x)
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (5x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (6x)
+- [[Wrestler/EC3\|EC3]] (6x)
+- [[Wrestler/Sting\|Sting]] (5x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (5x)

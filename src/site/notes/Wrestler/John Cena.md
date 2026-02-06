@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/The Undertaker|The Undertaker]] (3x)
-- [[Wrestler/Bret Hart|Bret Hart]] (3x)
-- [[Wrestler/Miro|Miro]] (2x)
-- [[Wrestler/Bull Nakano|Bull Nakano]] (2x)
-- [[Wrestler/Noam Dar|Noam Dar]] (2x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
+- [[Wrestler/Miro\|Miro]] (2x)
+- [[Wrestler/Bull Nakano\|Bull Nakano]] (2x)
+- [[Wrestler/Noam Dar\|Noam Dar]] (2x)

@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 5 | 2020-09-07 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage|Randy Savage]] (12x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (11x)
-- [[Wrestler/Jay White|Jay White]] (11x)
-- [[Wrestler/The Undertaker|The Undertaker]] (9x)
-- [[Wrestler/Diesel|Diesel]] (8x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (12x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (11x)
+- [[Wrestler/Jay White\|Jay White]] (11x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (9x)
+- [[Wrestler/Diesel\|Diesel]] (8x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (2x)
-- [[Wrestler/Bret Hart|Bret Hart]] (2x)
-- [[Wrestler/Jordynne Grace|Jordynne Grace]] (2x)
-- [[Wrestler/Kento Miyahara|Kento Miyahara]] (2x)
-- [[Wrestler/Kiana James|Kiana James]] (2x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (2x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
+- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (2x)
+- [[Wrestler/Kento Miyahara\|Kento Miyahara]] (2x)
+- [[Wrestler/Kiana James\|Kiana James]] (2x)

@@ -56,8 +56,8 @@ championships:
 | Choke Slam World Championship | 2 | 2020-06-09 | ✅ |
 
 ## Häufigste Gegner
-- [[Wrestler/Jerry Lawler|Jerry Lawler]] (4x)
-- [[Wrestler/The Undertaker|The Undertaker]] (3x)
-- [[Wrestler/Sid Vicious|Sid Vicious]] (3x)
-- [[Wrestler/AJ Styles|AJ Styles]] (3x)
-- [[Wrestler/Bret Hart|Bret Hart]] (3x)
+- [[Wrestler/Jerry Lawler\|Jerry Lawler]] (4x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (3x)
+- [[Wrestler/Sid Vicious\|Sid Vicious]] (3x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (3x)

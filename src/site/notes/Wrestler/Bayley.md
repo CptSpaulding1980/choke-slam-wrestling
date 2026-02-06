@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Awesome Kong|Awesome Kong]] (1x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)

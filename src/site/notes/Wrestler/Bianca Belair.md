@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kiana James|Kiana James]] (1x)
+- [[Wrestler/Kiana James\|Kiana James]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Colt Cabana|Colt Cabana]] (1x)
-- [[Wrestler/Jushin Liger|Jushin Liger]] (1x)
-- [[Wrestler/Austin Aries|Austin Aries]] (1x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (1x)
-- [[Wrestler/Dustin Rhodes|Dustin Rhodes]] (1x)
+- [[Wrestler/Colt Cabana\|Colt Cabana]] (1x)
+- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (1x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
+- [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (1x)

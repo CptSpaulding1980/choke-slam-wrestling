@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Epico Colón|Epico Colón]] (1x)
-- [[Wrestler/Primo Colón|Primo Colón]] (1x)
-- [[Wrestler/Glacier|Glacier]] (1x)
-- [[Wrestler/Disco Inferno|Disco Inferno]] (1x)
-- [[Wrestler/El Gigante|El Gigante]] (1x)
+- [[Wrestler/Epico Colón\|Epico Colón]] (1x)
+- [[Wrestler/Primo Colón\|Primo Colón]] (1x)
+- [[Wrestler/Glacier\|Glacier]] (1x)
+- [[Wrestler/Disco Inferno\|Disco Inferno]] (1x)
+- [[Wrestler/El Gigante\|El Gigante]] (1x)

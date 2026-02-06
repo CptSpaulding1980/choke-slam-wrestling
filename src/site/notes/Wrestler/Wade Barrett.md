@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage|Randy Savage]] (2x)
-- [[Wrestler/Pac|Pac]] (1x)
-- [[Wrestler/Kip Sabian|Kip Sabian]] (1x)
-- [[Wrestler/Doug Williams|Doug Williams]] (1x)
-- [[Wrestler/Sgt. Slaughter|Sgt. Slaughter]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
+- [[Wrestler/Pac\|Pac]] (1x)
+- [[Wrestler/Kip Sabian\|Kip Sabian]] (1x)
+- [[Wrestler/Doug Williams\|Doug Williams]] (1x)
+- [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] (1x)

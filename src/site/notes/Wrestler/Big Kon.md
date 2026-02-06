@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kiana James|Kiana James]] (3x)
-- [[Wrestler/Jordynne Grace|Jordynne Grace]] (2x)
-- [[Wrestler/Dijak|Dijak]] (2x)
-- [[Wrestler/Drew Gulak|Drew Gulak]] (2x)
-- [[Wrestler/Dusty Rhodes|Dusty Rhodes]] (2x)
+- [[Wrestler/Kiana James\|Kiana James]] (3x)
+- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (2x)
+- [[Wrestler/Dijak\|Dijak]] (2x)
+- [[Wrestler/Drew Gulak\|Drew Gulak]] (2x)
+- [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] (2x)

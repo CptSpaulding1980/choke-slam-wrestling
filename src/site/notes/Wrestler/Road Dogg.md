@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Big E|Big E]] (1x)
-- [[Wrestler/Kofi Kingston|Kofi Kingston]] (1x)
-- [[Wrestler/Mosh|Mosh]] (1x)
-- [[Wrestler/Thrasher|Thrasher]] (1x)
-- [[Wrestler/Akira Taue|Akira Taue]] (1x)
+- [[Wrestler/Big E\|Big E]] (1x)
+- [[Wrestler/Kofi Kingston\|Kofi Kingston]] (1x)
+- [[Wrestler/Mosh\|Mosh]] (1x)
+- [[Wrestler/Thrasher\|Thrasher]] (1x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (1x)

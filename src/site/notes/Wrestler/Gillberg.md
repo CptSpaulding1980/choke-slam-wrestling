@@ -43,7 +43,7 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (1x)
-- [[Wrestler/The Undertaker|The Undertaker]] (1x)
-- [[Wrestler/Triple H|Triple H]] (1x)
-- [[Wrestler/Chyna|Chyna]] (1x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)
+- [[Wrestler/Chyna\|Chyna]] (1x)

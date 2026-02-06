@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Fenix|Rey Fenix]] (2x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (2x)
-- [[Wrestler/Akira Taue|Akira Taue]] (2x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (2x)
-- [[Wrestler/Sasha Banks|Sasha Banks]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (2x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
+- [[Wrestler/Sasha Banks\|Sasha Banks]] (2x)

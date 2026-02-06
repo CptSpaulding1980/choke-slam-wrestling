@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 2 | 2025-08-12 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Daniel Bryan|Daniel Bryan]] (9x)
-- [[Wrestler/Steve Austin|Steve Austin]] (5x)
-- [[Wrestler/Edge|Edge]] (5x)
-- [[Wrestler/Wardlow|Wardlow]] (5x)
-- [[Wrestler/Jay White|Jay White]] (4x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (9x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (5x)
+- [[Wrestler/Edge\|Edge]] (5x)
+- [[Wrestler/Wardlow\|Wardlow]] (5x)
+- [[Wrestler/Jay White\|Jay White]] (4x)

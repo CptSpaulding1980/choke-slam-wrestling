@@ -46,8 +46,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid|Laredo Kid]] (5x)
-- [[Wrestler/Kiana James|Kiana James]] (4x)
-- [[Wrestler/Gunther|Gunther]] (3x)
-- [[Wrestler/Joe Hendry|Joe Hendry]] (3x)
-- [[Wrestler/Tatum Paxley|Tatum Paxley]] (3x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (5x)
+- [[Wrestler/Kiana James\|Kiana James]] (4x)
+- [[Wrestler/Gunther\|Gunther]] (3x)
+- [[Wrestler/Joe Hendry\|Joe Hendry]] (3x)
+- [[Wrestler/Tatum Paxley\|Tatum Paxley]] (3x)

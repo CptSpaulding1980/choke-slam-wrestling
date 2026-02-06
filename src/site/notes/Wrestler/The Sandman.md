@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jeff Jarrett|Jeff Jarrett]] (1x)
-- [[Wrestler/Killer Kelly|Killer Kelly]] (1x)
-- [[Wrestler/Damien Sandow|Damien Sandow]] (1x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
-- [[Wrestler/Marius Al-Ani|Marius Al-Ani]] (1x)
+- [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
+- [[Wrestler/Damien Sandow\|Damien Sandow]] (1x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
+- [[Wrestler/Marius Al-Ani\|Marius Al-Ani]] (1x)

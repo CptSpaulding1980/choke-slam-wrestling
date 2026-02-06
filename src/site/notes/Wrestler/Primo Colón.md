@@ -46,8 +46,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Drew Gulak|Drew Gulak]] (1x)
-- [[Wrestler/Dusty Rhodes|Dusty Rhodes]] (1x)
-- [[Wrestler/Dijak|Dijak]] (1x)
-- [[Wrestler/Kofi Kingston|Kofi Kingston]] (1x)
-- [[Wrestler/Epico Colón|Epico Colón]] (1x)
+- [[Wrestler/Drew Gulak\|Drew Gulak]] (1x)
+- [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] (1x)
+- [[Wrestler/Dijak\|Dijak]] (1x)
+- [[Wrestler/Kofi Kingston\|Kofi Kingston]] (1x)
+- [[Wrestler/Epico Colón\|Epico Colón]] (1x)

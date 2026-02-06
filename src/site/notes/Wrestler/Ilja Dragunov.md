@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/KUSHIDA|KUSHIDA]] (1x)
-- [[Wrestler/Consequences Creed|Consequences Creed]] (1x)
-- [[Wrestler/Chris Hero|Chris Hero]] (1x)
-- [[Wrestler/Bryan Danielson|Bryan Danielson]] (1x)
-- [[Wrestler/Tyler Bate|Tyler Bate]] (1x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
+- [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (1x)
+- [[Wrestler/Bryan Danielson\|Bryan Danielson]] (1x)
+- [[Wrestler/Tyler Bate\|Tyler Bate]] (1x)

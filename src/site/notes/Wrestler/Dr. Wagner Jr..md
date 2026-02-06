@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (5x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (5x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (5x)
-- [[Wrestler/Chris Hero|Chris Hero]] (5x)
-- [[Wrestler/Angélico|Angélico]] (4x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (5x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (5x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (5x)
+- [[Wrestler/Angélico\|Angélico]] (4x)

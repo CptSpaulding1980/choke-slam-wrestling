@@ -64,8 +64,8 @@ championships:
 | Choke Slam Womens Championship | 0 | 2025-05-07 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/The Undertaker|The Undertaker]] (8x)
-- [[Wrestler/KUSHIDA|KUSHIDA]] (6x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (6x)
-- [[Wrestler/Triple H|Triple H]] (6x)
-- [[Wrestler/Gunther|Gunther]] (6x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (8x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (6x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (6x)
+- [[Wrestler/Triple H\|Triple H]] (6x)
+- [[Wrestler/Gunther\|Gunther]] (6x)

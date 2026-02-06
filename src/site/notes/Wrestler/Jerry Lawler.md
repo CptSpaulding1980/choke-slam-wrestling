@@ -56,8 +56,8 @@ championships:
 | Choke Slam World Championship | 0 | 2020-06-08 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Orton|Randy Orton]] (4x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (3x)
-- [[Wrestler/Dalton Castle|Dalton Castle]] (2x)
-- [[Wrestler/Bret Hart|Bret Hart]] (2x)
-- [[Wrestler/AJ Styles|AJ Styles]] (2x)
+- [[Wrestler/Randy Orton\|Randy Orton]] (4x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
+- [[Wrestler/Dalton Castle\|Dalton Castle]] (2x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (2x)

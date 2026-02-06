@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (2x)
-- [[Wrestler/Bret Hart|Bret Hart]] (2x)
-- [[Wrestler/Brock Lesnar|Brock Lesnar]] (1x)
-- [[Wrestler/Kane|Kane]] (1x)
-- [[Wrestler/Sting|Sting]] (1x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (2x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
+- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (1x)
+- [[Wrestler/Kane\|Kane]] (1x)
+- [[Wrestler/Sting\|Sting]] (1x)

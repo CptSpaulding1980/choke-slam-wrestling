@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Daniel Bryan|Daniel Bryan]] (3x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (2x)
-- [[Wrestler/Charlotte Flair|Charlotte Flair]] (2x)
-- [[Wrestler/Bandido|Bandido]] (2x)
-- [[Wrestler/Pete Dunne|Pete Dunne]] (2x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
+- [[Wrestler/Charlotte Flair\|Charlotte Flair]] (2x)
+- [[Wrestler/Bandido\|Bandido]] (2x)
+- [[Wrestler/Pete Dunne\|Pete Dunne]] (2x)

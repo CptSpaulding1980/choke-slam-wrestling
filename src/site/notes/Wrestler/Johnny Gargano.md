@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Brock Lesnar|Brock Lesnar]] (1x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (1x)
-- [[Wrestler/Booker T|Booker T]] (1x)
-- [[Wrestler/Stevie Ray|Stevie Ray]] (1x)
-- [[Wrestler/Daniel Bryan|Daniel Bryan]] (1x)
+- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
+- [[Wrestler/Booker T\|Booker T]] (1x)
+- [[Wrestler/Stevie Ray\|Stevie Ray]] (1x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (1x)

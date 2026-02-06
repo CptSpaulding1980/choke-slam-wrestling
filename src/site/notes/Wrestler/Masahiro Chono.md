@@ -43,7 +43,7 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H|Triple H]] (1x)
-- [[Wrestler/Claudio Castagnoli|Claudio Castagnoli]] (1x)
-- [[Wrestler/Joe Coffey|Joe Coffey]] (1x)
-- [[Wrestler/Dijak|Dijak]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)
+- [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (1x)
+- [[Wrestler/Joe Coffey\|Joe Coffey]] (1x)
+- [[Wrestler/Dijak\|Dijak]] (1x)

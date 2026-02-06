@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Alexa Bliss|Alexa Bliss]] (5x)
-- [[Wrestler/Brandon|Brandon]] (5x)
-- [[Wrestler/Randy Savage|Randy Savage]] (4x)
-- [[Wrestler/Grayson Waller|Grayson Waller]] (4x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (4x)
+- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (5x)
+- [[Wrestler/Brandon\|Brandon]] (5x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (4x)
+- [[Wrestler/Grayson Waller\|Grayson Waller]] (4x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)

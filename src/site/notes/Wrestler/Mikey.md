@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/AJ Styles|AJ Styles]] (1x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (1x)
-- [[Wrestler/Masha Slamovich|Masha Slamovich]] (1x)
-- [[Wrestler/Dusty Rhodes|Dusty Rhodes]] (1x)
-- [[Wrestler/Kofi Kingston|Kofi Kingston]] (1x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (1x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)
+- [[Wrestler/Masha Slamovich\|Masha Slamovich]] (1x)
+- [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] (1x)
+- [[Wrestler/Kofi Kingston\|Kofi Kingston]] (1x)

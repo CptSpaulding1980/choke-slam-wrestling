@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kevin Steen|Kevin Steen]] (1x)
-- [[Wrestler/Ric Flair|Ric Flair]] (1x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
-- [[Wrestler/Rush|Rush]] (1x)
-- [[Wrestler/Hendrique Delafuente|Hendrique Delafuente]] (1x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
+- [[Wrestler/Ric Flair\|Ric Flair]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
+- [[Wrestler/Rush\|Rush]] (1x)
+- [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)

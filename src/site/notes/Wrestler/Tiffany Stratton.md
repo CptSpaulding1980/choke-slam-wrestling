@@ -56,8 +56,8 @@ championships:
 | Choke Slam Womens Championship | 0 | 2024-01-29 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Chris Hero|Chris Hero]] (1x)
-- [[Wrestler/Shawn Michaels|Shawn Michaels]] (1x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (1x)
-- [[Wrestler/Chyna|Chyna]] (1x)
-- [[Wrestler/Seth Rollins|Seth Rollins]] (1x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (1x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
+- [[Wrestler/Chyna\|Chyna]] (1x)
+- [[Wrestler/Seth Rollins\|Seth Rollins]] (1x)

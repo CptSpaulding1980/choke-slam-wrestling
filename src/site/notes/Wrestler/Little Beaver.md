@@ -39,5 +39,5 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
-- [[Wrestler/Hendrique Delafuente|Hendrique Delafuente]] (1x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
+- [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Iron Sheik|Iron Sheik]] (1x)
-- [[Wrestler/Sabu|Sabu]] (1x)
-- [[Wrestler/The Sheik|The Sheik]] (1x)
-- [[Wrestler/Muhammad Hassan|Muhammad Hassan]] (1x)
-- [[Wrestler/Fallon Henley|Fallon Henley]] (1x)
+- [[Wrestler/Iron Sheik\|Iron Sheik]] (1x)
+- [[Wrestler/Sabu\|Sabu]] (1x)
+- [[Wrestler/The Sheik\|The Sheik]] (1x)
+- [[Wrestler/Muhammad Hassan\|Muhammad Hassan]] (1x)
+- [[Wrestler/Fallon Henley\|Fallon Henley]] (1x)

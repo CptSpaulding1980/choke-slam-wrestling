@@ -64,8 +64,8 @@ championships:
 | Choke Slam Womens Championship | 0 | 2023-10-09 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage|Randy Savage]] (5x)
-- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (5x)
-- [[Wrestler/Gigi Dolin|Gigi Dolin]] (5x)
-- [[Wrestler/AJ Styles|AJ Styles]] (5x)
-- [[Wrestler/Bret Hart|Bret Hart]] (4x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (5x)
+- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (5x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (5x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (5x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (4x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Chris Jericho|Chris Jericho]] (1x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (1x)
-- [[Wrestler/Bobby Fish|Bobby Fish]] (1x)
-- [[Wrestler/Kyle O'Reilly|Kyle O'Reilly]] (1x)
-- [[Wrestler/Bret Hart|Bret Hart]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
+- [[Wrestler/Bobby Fish\|Bobby Fish]] (1x)
+- [[Wrestler/Kyle O'Reilly\|Kyle O'Reilly]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)

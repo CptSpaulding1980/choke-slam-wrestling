@@ -96,8 +96,8 @@ championships:
 | Choke Slam World Championship | 0 | 2023-12-15 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (12x)
-- [[Wrestler/Ludwig Kaiser|Ludwig Kaiser]] (9x)
-- [[Wrestler/Randy Savage|Randy Savage]] (8x)
-- [[Wrestler/AJ Styles|AJ Styles]] (7x)
-- [[Wrestler/Miro|Miro]] (7x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (12x)
+- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (9x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (8x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (7x)
+- [[Wrestler/Miro\|Miro]] (7x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Dalton Castle|Dalton Castle]] (1x)
-- [[Wrestler/Kelly Klein|Kelly Klein]] (1x)
-- [[Wrestler/Angélico|Angélico]] (1x)
-- [[Wrestler/Cesaro|Cesaro]] (1x)
-- [[Wrestler/Bret Hart|Bret Hart]] (1x)
+- [[Wrestler/Dalton Castle\|Dalton Castle]] (1x)
+- [[Wrestler/Kelly Klein\|Kelly Klein]] (1x)
+- [[Wrestler/Angélico\|Angélico]] (1x)
+- [[Wrestler/Cesaro\|Cesaro]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)

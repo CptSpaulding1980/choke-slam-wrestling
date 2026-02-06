@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jay White|Jay White]] (4x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (2x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (2x)
+- [[Wrestler/Jay White\|Jay White]] (4x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (2x)

@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2023-04-19 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Miro|Miro]] (7x)
-- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (7x)
-- [[Wrestler/Brandon|Brandon]] (6x)
-- [[Wrestler/AJ Styles|AJ Styles]] (5x)
-- [[Wrestler/Ludwig Kaiser|Ludwig Kaiser]] (5x)
+- [[Wrestler/Miro\|Miro]] (7x)
+- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (7x)
+- [[Wrestler/Brandon\|Brandon]] (6x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (5x)
+- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (5x)

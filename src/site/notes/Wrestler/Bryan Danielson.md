@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (5x)
-- [[Wrestler/Seth Rollins|Seth Rollins]] (3x)
-- [[Wrestler/Randy Savage|Randy Savage]] (3x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (3x)
-- [[Wrestler/Jay White|Jay White]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (5x)
+- [[Wrestler/Seth Rollins\|Seth Rollins]] (3x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (3x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
+- [[Wrestler/Jay White\|Jay White]] (3x)

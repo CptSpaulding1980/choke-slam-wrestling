@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Brandon|Brandon]] (1x)
-- [[Wrestler/Grayson Waller|Grayson Waller]] (1x)
-- [[Wrestler/Daniel Bryan|Daniel Bryan]] (1x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (1x)
-- [[Wrestler/Johnny Gargano|Johnny Gargano]] (1x)
+- [[Wrestler/Brandon\|Brandon]] (1x)
+- [[Wrestler/Grayson Waller\|Grayson Waller]] (1x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (1x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)
+- [[Wrestler/Johnny Gargano\|Johnny Gargano]] (1x)

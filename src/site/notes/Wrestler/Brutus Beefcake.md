@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (8x)
-- [[Wrestler/Ivelisse|Ivelisse]] (7x)
-- [[Wrestler/Christian Cage|Christian Cage]] (7x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (7x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (6x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (8x)
+- [[Wrestler/Ivelisse\|Ivelisse]] (7x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (7x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (6x)

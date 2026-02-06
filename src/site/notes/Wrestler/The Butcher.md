@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Joey Janela|Joey Janela]] (5x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (4x)
-- [[Wrestler/Christian Cage|Christian Cage]] (4x)
-- [[Wrestler/The Blade|The Blade]] (4x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (4x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (5x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (4x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (4x)
+- [[Wrestler/The Blade\|The Blade]] (4x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (4x)

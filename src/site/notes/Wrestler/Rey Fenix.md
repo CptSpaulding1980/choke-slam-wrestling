@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kurt Angle|Kurt Angle]] (7x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (7x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (6x)
-- [[Wrestler/Kane|Kane]] (6x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (6x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (7x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
+- [[Wrestler/Kane\|Kane]] (6x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (6x)

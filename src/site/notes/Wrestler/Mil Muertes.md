@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Brandon|Brandon]] (2x)
-- [[Wrestler/AJ Styles|AJ Styles]] (2x)
-- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (1x)
-- [[Wrestler/Harry Smith|Harry Smith]] (1x)
-- [[Wrestler/Donatello|Donatello]] (1x)
+- [[Wrestler/Brandon\|Brandon]] (2x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (2x)
+- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
+- [[Wrestler/Harry Smith\|Harry Smith]] (1x)
+- [[Wrestler/Donatello\|Donatello]] (1x)

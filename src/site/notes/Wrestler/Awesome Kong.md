@@ -56,8 +56,8 @@ championships:
 | Choke Slam Womens Championship | 1 | 2025-08-21 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Fenix|Rey Fenix]] (5x)
-- [[Wrestler/Joey Janela|Joey Janela]] (5x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (4x)
-- [[Wrestler/Lex Luger|Lex Luger]] (4x)
-- [[Wrestler/The Blade|The Blade]] (4x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (5x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (5x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)
+- [[Wrestler/Lex Luger\|Lex Luger]] (4x)
+- [[Wrestler/The Blade\|The Blade]] (4x)

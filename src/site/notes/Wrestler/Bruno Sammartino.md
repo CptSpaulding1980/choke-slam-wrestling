@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/KENTA|KENTA]] (2x)
-- [[Wrestler/Sgt. Slaughter|Sgt. Slaughter]] (2x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Gail Kim|Gail Kim]] (1x)
+- [[Wrestler/KENTA\|KENTA]] (2x)
+- [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Gail Kim\|Gail Kim]] (1x)

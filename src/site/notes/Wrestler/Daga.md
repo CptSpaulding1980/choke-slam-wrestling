@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/KENTA|KENTA]] (3x)
-- [[Wrestler/Rey Fenix|Rey Fenix]] (3x)
-- [[Wrestler/Texano Jr.|Texano Jr.]] (3x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (3x)
-- [[Wrestler/Taya Valkyrie|Taya Valkyrie]] (3x)
+- [[Wrestler/KENTA\|KENTA]] (3x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)
+- [[Wrestler/Texano Jr.\|Texano Jr.]] (3x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
+- [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] (3x)

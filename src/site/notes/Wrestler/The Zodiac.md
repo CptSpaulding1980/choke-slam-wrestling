@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart|Bret Hart]] (1x)
-- [[Wrestler/CM Punk|CM Punk]] (1x)
-- [[Wrestler/Miro|Miro]] (1x)
-- [[Wrestler/Thea Hail|Thea Hail]] (1x)
-- [[Wrestler/Jay White|Jay White]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/CM Punk\|CM Punk]] (1x)
+- [[Wrestler/Miro\|Miro]] (1x)
+- [[Wrestler/Thea Hail\|Thea Hail]] (1x)
+- [[Wrestler/Jay White\|Jay White]] (1x)

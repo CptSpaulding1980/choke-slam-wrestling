@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jonathan Gresham|Jonathan Gresham]] (1x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (1x)
-- [[Wrestler/Philipp Brunkovic|Philipp Brunkovic]] (1x)
-- [[Wrestler/Gigi Dolin|Gigi Dolin]] (1x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (1x)
+- [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)
+- [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (1x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (1x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)

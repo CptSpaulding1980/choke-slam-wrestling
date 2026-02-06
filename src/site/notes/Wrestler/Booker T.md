@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Grand Master Sexay|Grand Master Sexay]] (3x)
-- [[Wrestler/Rikishi|Rikishi]] (3x)
-- [[Wrestler/Scotty 2 Hotty|Scotty 2 Hotty]] (3x)
-- [[Wrestler/Dalton Castle|Dalton Castle]] (1x)
-- [[Wrestler/Kelly Klein|Kelly Klein]] (1x)
+- [[Wrestler/Grand Master Sexay\|Grand Master Sexay]] (3x)
+- [[Wrestler/Rikishi\|Rikishi]] (3x)
+- [[Wrestler/Scotty 2 Hotty\|Scotty 2 Hotty]] (3x)
+- [[Wrestler/Dalton Castle\|Dalton Castle]] (1x)
+- [[Wrestler/Kelly Klein\|Kelly Klein]] (1x)

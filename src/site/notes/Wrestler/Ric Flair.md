@@ -56,8 +56,8 @@ championships:
 | Choke Slam World Championship | 0 | 2020-06-08 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (5x)
-- [[Wrestler/Shawn Michaels|Shawn Michaels]] (4x)
-- [[Wrestler/Chris Hero|Chris Hero]] (4x)
-- [[Wrestler/EC3|EC3]] (4x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (3x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (5x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (4x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (4x)
+- [[Wrestler/EC3\|EC3]] (4x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (3x)

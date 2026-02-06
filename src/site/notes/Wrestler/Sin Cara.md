@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (2x)
-- [[Wrestler/Ricky Steamboat|Ricky Steamboat]] (2x)
-- [[Wrestler/Alberto El Patron|Alberto El Patron]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
+- [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] (2x)
+- [[Wrestler/Alberto El Patron\|Alberto El Patron]] (2x)

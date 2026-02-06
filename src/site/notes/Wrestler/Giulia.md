@@ -39,5 +39,5 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jamie Hayter|Jamie Hayter]] (1x)
-- [[Wrestler/Sasha Banks|Sasha Banks]] (1x)
+- [[Wrestler/Jamie Hayter\|Jamie Hayter]] (1x)
+- [[Wrestler/Sasha Banks\|Sasha Banks]] (1x)

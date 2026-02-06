@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage|Randy Savage]] (4x)
-- [[Wrestler/AJ Styles|AJ Styles]] (4x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (3x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (3x)
-- [[Wrestler/Kenny Omega|Kenny Omega]] (3x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (4x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (4x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (3x)
+- [[Wrestler/Kenny Omega\|Kenny Omega]] (3x)

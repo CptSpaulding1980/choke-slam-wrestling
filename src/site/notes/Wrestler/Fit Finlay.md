@@ -56,8 +56,8 @@ championships:
 | Choke Slam Trios Championship | 0 | 2025-08-12 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Edge|Edge]] (4x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (4x)
-- [[Wrestler/Wardlow|Wardlow]] (4x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (3x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
+- [[Wrestler/Edge\|Edge]] (4x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (4x)
+- [[Wrestler/Wardlow\|Wardlow]] (4x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (3x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)

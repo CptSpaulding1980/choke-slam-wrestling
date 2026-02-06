@@ -56,8 +56,8 @@ championships:
 | Choke Slam Trios Championship | 0 | 2024-10-22 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid|Laredo Kid]] (5x)
-- [[Wrestler/El Hijo del Vikingo|El Hijo del Vikingo]] (4x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (4x)
-- [[Wrestler/Bret Hart|Bret Hart]] (3x)
-- [[Wrestler/AJ Styles|AJ Styles]] (2x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (5x)
+- [[Wrestler/El Hijo del Vikingo\|El Hijo del Vikingo]] (4x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (4x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (2x)

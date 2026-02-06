@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Giant Haystacks|Giant Haystacks]] (1x)
-- [[Wrestler/Zack Sabre Jr.|Zack Sabre Jr.]] (1x)
-- [[Wrestler/Zack Gibson|Zack Gibson]] (1x)
-- [[Wrestler/Kane|Kane]] (1x)
-- [[Wrestler/Sin Cara|Sin Cara]] (1x)
+- [[Wrestler/Giant Haystacks\|Giant Haystacks]] (1x)
+- [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (1x)
+- [[Wrestler/Zack Gibson\|Zack Gibson]] (1x)
+- [[Wrestler/Kane\|Kane]] (1x)
+- [[Wrestler/Sin Cara\|Sin Cara]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (3x)
-- [[Wrestler/Sean Waltman|Sean Waltman]] (3x)
-- [[Wrestler/KUSHIDA|KUSHIDA]] (3x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (3x)
-- [[Wrestler/Davey Boy Smith|Davey Boy Smith]] (3x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
+- [[Wrestler/Sean Waltman\|Sean Waltman]] (3x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (3x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (3x)
+- [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (3x)

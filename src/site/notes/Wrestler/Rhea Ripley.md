@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kane|Kane]] (2x)
-- [[Wrestler/Ivelisse|Ivelisse]] (2x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Michelle McCool|Michelle McCool]] (2x)
+- [[Wrestler/Kane\|Kane]] (2x)
+- [[Wrestler/Ivelisse\|Ivelisse]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Michelle McCool\|Michelle McCool]] (2x)

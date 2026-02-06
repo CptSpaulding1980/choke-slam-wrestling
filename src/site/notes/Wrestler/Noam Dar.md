@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Miro|Miro]] (5x)
-- [[Wrestler/Jon Moxley|Jon Moxley]] (4x)
-- [[Wrestler/Seth Rollins|Seth Rollins]] (4x)
-- [[Wrestler/Bret Hart|Bret Hart]] (3x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (2x)
+- [[Wrestler/Miro\|Miro]] (5x)
+- [[Wrestler/Jon Moxley\|Jon Moxley]] (4x)
+- [[Wrestler/Seth Rollins\|Seth Rollins]] (4x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (2x)

@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kurt Angle|Kurt Angle]] (1x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)

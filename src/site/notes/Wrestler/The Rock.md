@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (5x)
-- [[Wrestler/Kevin Steen|Kevin Steen]] (4x)
-- [[Wrestler/The Undertaker|The Undertaker]] (3x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (3x)
-- [[Wrestler/Triple H|Triple H]] (3x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (4x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (3x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (3x)
+- [[Wrestler/Triple H\|Triple H]] (3x)

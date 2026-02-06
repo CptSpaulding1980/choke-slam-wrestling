@@ -56,8 +56,8 @@ championships:
 | Choke Slam International Championship | 4 | 2022-02-09 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Kevin Steen|Kevin Steen]] (3x)
-- [[Wrestler/Rey Mysterio Jr.|Rey Mysterio Jr.]] (2x)
-- [[Wrestler/Tommy End|Tommy End]] (2x)
-- [[Wrestler/Rush|Rush]] (1x)
-- [[Wrestler/AJ Styles|AJ Styles]] (1x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (3x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (2x)
+- [[Wrestler/Tommy End\|Tommy End]] (2x)
+- [[Wrestler/Rush\|Rush]] (1x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (1x)

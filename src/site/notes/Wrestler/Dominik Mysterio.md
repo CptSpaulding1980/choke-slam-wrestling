@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Lady Apache|Lady Apache]] (1x)
-- [[Wrestler/Wardlow|Wardlow]] (1x)
-- [[Wrestler/Akira Taue|Akira Taue]] (1x)
-- [[Wrestler/KONOSUKE TAKESHITA|KONOSUKE TAKESHITA]] (1x)
-- [[Wrestler/Adam Page|Adam Page]] (1x)
+- [[Wrestler/Lady Apache\|Lady Apache]] (1x)
+- [[Wrestler/Wardlow\|Wardlow]] (1x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (1x)
+- [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]] (1x)
+- [[Wrestler/Adam Page\|Adam Page]] (1x)

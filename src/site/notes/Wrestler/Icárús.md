@@ -46,8 +46,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Davey Boy Smith|Davey Boy Smith]] (1x)
-- [[Wrestler/Gigi Dolin|Gigi Dolin]] (1x)
-- [[Wrestler/Bull Nakano|Bull Nakano]] (1x)
-- [[Wrestler/Ikemen Jiro|Ikemen Jiro]] (1x)
-- [[Wrestler/Brandon|Brandon]] (1x)
+- [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (1x)
+- [[Wrestler/Bull Nakano\|Bull Nakano]] (1x)
+- [[Wrestler/Ikemen Jiro\|Ikemen Jiro]] (1x)
+- [[Wrestler/Brandon\|Brandon]] (1x)

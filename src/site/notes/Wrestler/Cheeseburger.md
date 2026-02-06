@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killshot|Killshot]] (1x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
-- [[Wrestler/Ivelisse|Ivelisse]] (1x)
-- [[Wrestler/Shelton Benjamin|Shelton Benjamin]] (1x)
-- [[Wrestler/Dustin Rhodes|Dustin Rhodes]] (1x)
+- [[Wrestler/Killshot\|Killshot]] (1x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
+- [[Wrestler/Ivelisse\|Ivelisse]] (1x)
+- [[Wrestler/Shelton Benjamin\|Shelton Benjamin]] (1x)
+- [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (1x)

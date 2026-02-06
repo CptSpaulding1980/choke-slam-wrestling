@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Orton|Randy Orton]] (3x)
-- [[Wrestler/Sara Del Rey|Sara Del Rey]] (3x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (3x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (3x)
-- [[Wrestler/Joey Janela|Joey Janela]] (3x)
+- [[Wrestler/Randy Orton\|Randy Orton]] (3x)
+- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (3x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (3x)

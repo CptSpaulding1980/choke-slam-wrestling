@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/nan|nan]] (1x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (1x)
-- [[Wrestler/Sting|Sting]] (1x)
-- [[Wrestler/Ace Steel|Ace Steel]] (1x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
+- [[Wrestler/nan\|nan]] (1x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
+- [[Wrestler/Sting\|Sting]] (1x)
+- [[Wrestler/Ace Steel\|Ace Steel]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

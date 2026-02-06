@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly|Killer Kelly]] (1x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (1x)
-- [[Wrestler/Rey Mysterio Jr.|Rey Mysterio Jr.]] (1x)
-- [[Wrestler/KUSHIDA|KUSHIDA]] (1x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (1x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)

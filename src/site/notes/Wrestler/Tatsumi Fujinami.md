@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Sara Del Rey|Sara Del Rey]] (2x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Tiger Mask|Tiger Mask]] (1x)
-- [[Wrestler/Pat Patterson|Pat Patterson]] (1x)
+- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Tiger Mask\|Tiger Mask]] (1x)
+- [[Wrestler/Pat Patterson\|Pat Patterson]] (1x)

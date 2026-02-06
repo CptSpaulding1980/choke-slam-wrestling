@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (4x)
-- [[Wrestler/Dusty Rhodes|Dusty Rhodes]] (4x)
-- [[Wrestler/Jun Akiyama|Jun Akiyama]] (4x)
-- [[Wrestler/Triple H|Triple H]] (4x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (3x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (4x)
+- [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] (4x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (4x)
+- [[Wrestler/Triple H\|Triple H]] (4x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (3x)

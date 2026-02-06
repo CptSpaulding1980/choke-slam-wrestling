@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (6x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (6x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (5x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (5x)
-- [[Wrestler/Rey Fenix|Rey Fenix]] (4x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)

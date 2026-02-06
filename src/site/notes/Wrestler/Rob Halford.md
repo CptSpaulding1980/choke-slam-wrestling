@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/EC3|EC3]] (1x)
-- [[Wrestler/Killer Kelly|Killer Kelly]] (1x)
-- [[Wrestler/Kevin Steen|Kevin Steen]] (1x)
-- [[Wrestler/Hendrique Delafuente|Hendrique Delafuente]] (1x)
-- [[Wrestler/Triple H|Triple H]] (1x)
+- [[Wrestler/EC3\|EC3]] (1x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
+- [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)

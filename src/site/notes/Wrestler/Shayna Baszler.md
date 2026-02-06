@@ -56,8 +56,8 @@ championships:
 | Choke Slam Womens Championship | 0 | 2022-10-02 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (1x)
-- [[Wrestler/Killer Kelly|Killer Kelly]] (1x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
-- [[Wrestler/nan|nan]] (1x)
-- [[Wrestler/Toni Storm|Toni Storm]] (1x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
+- [[Wrestler/nan\|nan]] (1x)
+- [[Wrestler/Toni Storm\|Toni Storm]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (4x)
-- [[Wrestler/Kenny Omega|Kenny Omega]] (3x)
-- [[Wrestler/Miro|Miro]] (3x)
-- [[Wrestler/AJ Styles|AJ Styles]] (2x)
-- [[Wrestler/Gigi Dolin|Gigi Dolin]] (2x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)
+- [[Wrestler/Kenny Omega\|Kenny Omega]] (3x)
+- [[Wrestler/Miro\|Miro]] (3x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (2x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (2x)

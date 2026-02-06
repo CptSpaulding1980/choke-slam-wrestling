@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (5x)
-- [[Wrestler/AJ Styles|AJ Styles]] (4x)
-- [[Wrestler/Samoa Joe|Samoa Joe]] (4x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (4x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (4x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (4x)
+- [[Wrestler/Samoa Joe\|Samoa Joe]] (4x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (4x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (4x)

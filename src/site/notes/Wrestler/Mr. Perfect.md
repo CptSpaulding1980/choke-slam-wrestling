@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Sara Del Rey|Sara Del Rey]] (2x)
-- [[Wrestler/Sid Vicious|Sid Vicious]] (2x)
-- [[Wrestler/Owen Hart|Owen Hart]] (2x)
-- [[Wrestler/Gorilla Monsoon|Gorilla Monsoon]] (2x)
-- [[Wrestler/Randy Savage|Randy Savage]] (2x)
+- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)
+- [[Wrestler/Sid Vicious\|Sid Vicious]] (2x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (2x)
+- [[Wrestler/Gorilla Monsoon\|Gorilla Monsoon]] (2x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (2x)

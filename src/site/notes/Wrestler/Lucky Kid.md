@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Claudio Castagnoli|Claudio Castagnoli]] (2x)
-- [[Wrestler/Consequences Creed|Consequences Creed]] (2x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (2x)
-- [[Wrestler/Rey Mysterio Jr.|Rey Mysterio Jr.]] (2x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (2x)
+- [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (2x)
+- [[Wrestler/Consequences Creed\|Consequences Creed]] (2x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (2x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (2x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (2x)

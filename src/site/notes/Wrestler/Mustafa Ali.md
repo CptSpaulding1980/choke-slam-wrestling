@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Consequences Creed|Consequences Creed]] (1x)
-- [[Wrestler/Jeff Jarrett|Jeff Jarrett]] (1x)
-- [[Wrestler/Rush|Rush]] (1x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (1x)
-- [[Wrestler/Christian Cage|Christian Cage]] (1x)
+- [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)
+- [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)
+- [[Wrestler/Rush\|Rush]] (1x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killshot|Killshot]] (1x)
-- [[Wrestler/Britt Baker|Britt Baker]] (1x)
-- [[Wrestler/Austin Aries|Austin Aries]] (1x)
-- [[Wrestler/Thunder Rosa|Thunder Rosa]] (1x)
-- [[Wrestler/Dustin Rhodes|Dustin Rhodes]] (1x)
+- [[Wrestler/Killshot\|Killshot]] (1x)
+- [[Wrestler/Britt Baker\|Britt Baker]] (1x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (1x)
+- [[Wrestler/Thunder Rosa\|Thunder Rosa]] (1x)
+- [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (1x)

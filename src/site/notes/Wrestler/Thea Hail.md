@@ -56,8 +56,8 @@ championships:
 | Choke Slam Trios Championship | 0 | 2024-01-29 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Miro|Miro]] (4x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (4x)
-- [[Wrestler/Laredo Kid|Laredo Kid]] (4x)
-- [[Wrestler/Bret Hart|Bret Hart]] (3x)
-- [[Wrestler/Randy Savage|Randy Savage]] (3x)
+- [[Wrestler/Miro\|Miro]] (4x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (4x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (4x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (3x)

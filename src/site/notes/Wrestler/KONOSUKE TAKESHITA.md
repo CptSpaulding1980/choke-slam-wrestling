@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Awesome Kong|Awesome Kong]] (2x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (2x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (2x)
-- [[Wrestler/Mosh|Mosh]] (1x)
-- [[Wrestler/Thrasher|Thrasher]] (1x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (2x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
+- [[Wrestler/Mosh\|Mosh]] (1x)
+- [[Wrestler/Thrasher\|Thrasher]] (1x)

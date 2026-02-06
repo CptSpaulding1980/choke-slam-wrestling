@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (6x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (6x)
-- [[Wrestler/KENTA|KENTA]] (5x)
-- [[Wrestler/Randy Savage|Randy Savage]] (5x)
-- [[Wrestler/Diesel|Diesel]] (4x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (6x)
+- [[Wrestler/KENTA\|KENTA]] (5x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (5x)
+- [[Wrestler/Diesel\|Diesel]] (4x)

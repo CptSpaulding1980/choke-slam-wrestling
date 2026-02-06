@@ -72,8 +72,8 @@ championships:
 | Choke Slam World Championship | 2 | 2022-11-17 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (11x)
-- [[Wrestler/Kevin Steen|Kevin Steen]] (8x)
-- [[Wrestler/Triple H|Triple H]] (7x)
-- [[Wrestler/Randy Savage|Randy Savage]] (7x)
-- [[Wrestler/AJ Styles|AJ Styles]] (6x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (11x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (8x)
+- [[Wrestler/Triple H\|Triple H]] (7x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (7x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (6x)

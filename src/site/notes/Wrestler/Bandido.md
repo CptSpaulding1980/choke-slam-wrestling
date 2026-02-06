@@ -56,8 +56,8 @@ championships:
 | Choke Slam Trios Championship | 0 | 2025-08-12 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Wardlow|Wardlow]] (4x)
-- [[Wrestler/Edge|Edge]] (4x)
-- [[Wrestler/Chris Jericho|Chris Jericho]] (3x)
-- [[Wrestler/Kensuke Sasaki|Kensuke Sasaki]] (3x)
-- [[Wrestler/Chris Benoit|Chris Benoit]] (3x)
+- [[Wrestler/Wardlow\|Wardlow]] (4x)
+- [[Wrestler/Edge\|Edge]] (4x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (3x)
+- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (3x)
+- [[Wrestler/Chris Benoit\|Chris Benoit]] (3x)

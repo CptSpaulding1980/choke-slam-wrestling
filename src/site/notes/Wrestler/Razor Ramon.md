@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Tommy End|Tommy End]] (3x)
-- [[Wrestler/Angélico|Angélico]] (2x)
-- [[Wrestler/Becky Lynch|Becky Lynch]] (2x)
-- [[Wrestler/Chris Hero|Chris Hero]] (2x)
-- [[Wrestler/Shawn Michaels|Shawn Michaels]] (2x)
+- [[Wrestler/Tommy End\|Tommy End]] (3x)
+- [[Wrestler/Angélico\|Angélico]] (2x)
+- [[Wrestler/Becky Lynch\|Becky Lynch]] (2x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (2x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)

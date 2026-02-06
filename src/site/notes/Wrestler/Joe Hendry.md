@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid|Laredo Kid]] (6x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (5x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (5x)
-- [[Wrestler/Randy Savage|Randy Savage]] (5x)
-- [[Wrestler/Fallon Henley|Fallon Henley]] (4x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (5x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (5x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (5x)
+- [[Wrestler/Fallon Henley\|Fallon Henley]] (4x)

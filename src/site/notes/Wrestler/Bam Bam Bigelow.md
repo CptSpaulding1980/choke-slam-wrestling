@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 1 | 2020-06-08 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Kensuke Sasaki|Kensuke Sasaki]] (5x)
-- [[Wrestler/Bret Hart|Bret Hart]] (4x)
-- [[Wrestler/Awesome Kong|Awesome Kong]] (4x)
-- [[Wrestler/Lex Luger|Lex Luger]] (4x)
-- [[Wrestler/Dalton Castle|Dalton Castle]] (3x)
+- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (5x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (4x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
+- [[Wrestler/Lex Luger\|Lex Luger]] (4x)
+- [[Wrestler/Dalton Castle\|Dalton Castle]] (3x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Chris Jericho|Chris Jericho]] (1x)
-- [[Wrestler/Fit Finlay|Fit Finlay]] (1x)
-- [[Wrestler/Kris Statlander|Kris Statlander]] (1x)
-- [[Wrestler/Kevin Steen|Kevin Steen]] (1x)
-- [[Wrestler/Koji Kanemoto|Koji Kanemoto]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
+- [[Wrestler/Fit Finlay\|Fit Finlay]] (1x)
+- [[Wrestler/Kris Statlander\|Kris Statlander]] (1x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
+- [[Wrestler/Koji Kanemoto\|Koji Kanemoto]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage|Randy Savage]] (5x)
-- [[Wrestler/Fit Finlay|Fit Finlay]] (4x)
-- [[Wrestler/Miro|Miro]] (4x)
-- [[Wrestler/Consequences Creed|Consequences Creed]] (3x)
-- [[Wrestler/Aoife Valkyrie|Aoife Valkyrie]] (3x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (5x)
+- [[Wrestler/Fit Finlay\|Fit Finlay]] (4x)
+- [[Wrestler/Miro\|Miro]] (4x)
+- [[Wrestler/Consequences Creed\|Consequences Creed]] (3x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (3x)

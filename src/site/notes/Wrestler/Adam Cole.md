@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Steve Austin|Steve Austin]] (2x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (2x)
-- [[Wrestler/Tiger Mask|Tiger Mask]] (1x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (2x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (2x)
+- [[Wrestler/Tiger Mask\|Tiger Mask]] (1x)

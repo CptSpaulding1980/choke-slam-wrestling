@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kensuke Sasaki|Kensuke Sasaki]] (3x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Steve Austin|Steve Austin]] (2x)
-- [[Wrestler/The Undertaker|The Undertaker]] (2x)
+- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (3x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (2x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (2x)

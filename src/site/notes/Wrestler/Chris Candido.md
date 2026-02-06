@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Lance Storm|Lance Storm]] (1x)
+- [[Wrestler/Lance Storm\|Lance Storm]] (1x)

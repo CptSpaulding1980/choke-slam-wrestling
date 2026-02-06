@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Pascal LePas|Pascal LePas]] (5x)
-- [[Wrestler/Hendrique Delafuente|Hendrique Delafuente]] (5x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (1x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (1x)
-- [[Wrestler/El Torito|El Torito]] (1x)
+- [[Wrestler/Pascal LePas\|Pascal LePas]] (5x)
+- [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (5x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
+- [[Wrestler/El Torito\|El Torito]] (1x)

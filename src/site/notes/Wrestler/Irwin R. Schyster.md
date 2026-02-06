@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Zack Sabre Jr.|Zack Sabre Jr.]] (1x)
-- [[Wrestler/Joe Hendry|Joe Hendry]] (1x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (1x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (1x)
-- [[Wrestler/KUSHIDA|KUSHIDA]] (1x)
+- [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (1x)
+- [[Wrestler/Joe Hendry\|Joe Hendry]] (1x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)

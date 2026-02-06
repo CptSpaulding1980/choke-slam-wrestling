@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Samoa Joe|Samoa Joe]] (1x)
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (1x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (1x)
-- [[Wrestler/Luna Vachon|Luna Vachon]] (1x)
-- [[Wrestler/Big Ryck|Big Ryck]] (1x)
+- [[Wrestler/Samoa Joe\|Samoa Joe]] (1x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (1x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
+- [[Wrestler/Luna Vachon\|Luna Vachon]] (1x)
+- [[Wrestler/Big Ryck\|Big Ryck]] (1x)

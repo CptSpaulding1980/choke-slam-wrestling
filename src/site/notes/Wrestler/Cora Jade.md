@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Gigi Dolin|Gigi Dolin]] (4x)
-- [[Wrestler/Alexa Bliss|Alexa Bliss]] (3x)
-- [[Wrestler/Miro|Miro]] (3x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (3x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (2x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (4x)
+- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (3x)
+- [[Wrestler/Miro\|Miro]] (3x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (3x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)

@@ -56,8 +56,8 @@ championships:
 | Choke Slam World Championship | 0 | 2021-01-21 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (3x)
-- [[Wrestler/Bret Hart|Bret Hart]] (2x)
-- [[Wrestler/Sid Vicious|Sid Vicious]] (2x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (2x)
-- [[Wrestler/Randy Orton|Randy Orton]] (2x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
+- [[Wrestler/Sid Vicious\|Sid Vicious]] (2x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)
+- [[Wrestler/Randy Orton\|Randy Orton]] (2x)

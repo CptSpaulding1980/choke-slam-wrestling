@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly|Killer Kelly]] (7x)
-- [[Wrestler/EC3|EC3]] (7x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (6x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (5x)
-- [[Wrestler/Kevin Steen|Kevin Steen]] (5x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (7x)
+- [[Wrestler/EC3\|EC3]] (7x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (5x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (5x)

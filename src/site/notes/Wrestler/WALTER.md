@@ -64,8 +64,8 @@ championships:
 | Choke Slam International Championship | 0 | 2022-12-16 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (4x)
-- [[Wrestler/Sting|Sting]] (4x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (3x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (3x)
-- [[Wrestler/Samoa Joe|Samoa Joe]] (2x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)
+- [[Wrestler/Sting\|Sting]] (4x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (3x)
+- [[Wrestler/Samoa Joe\|Samoa Joe]] (2x)

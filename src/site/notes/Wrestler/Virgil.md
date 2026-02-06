@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H|Triple H]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)

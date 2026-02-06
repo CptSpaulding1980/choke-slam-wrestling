@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Colt Cabana|Colt Cabana]] (1x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (1x)
-- [[Wrestler/Shelton Benjamin|Shelton Benjamin]] (1x)
-- [[Wrestler/Ivelisse|Ivelisse]] (1x)
-- [[Wrestler/Rey Fenix|Rey Fenix]] (1x)
+- [[Wrestler/Colt Cabana\|Colt Cabana]] (1x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
+- [[Wrestler/Shelton Benjamin\|Shelton Benjamin]] (1x)
+- [[Wrestler/Ivelisse\|Ivelisse]] (1x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (1x)

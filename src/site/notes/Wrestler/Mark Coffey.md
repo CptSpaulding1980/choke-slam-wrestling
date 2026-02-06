@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Britt Baker|Britt Baker]] (1x)
-- [[Wrestler/Killshot|Killshot]] (1x)
-- [[Wrestler/Jushin Liger|Jushin Liger]] (1x)
-- [[Wrestler/Austin Aries|Austin Aries]] (1x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (1x)
+- [[Wrestler/Britt Baker\|Britt Baker]] (1x)
+- [[Wrestler/Killshot\|Killshot]] (1x)
+- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (1x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)

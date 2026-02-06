@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Owen Hart|Owen Hart]] (4x)
-- [[Wrestler/Sid Vicious|Sid Vicious]] (4x)
-- [[Wrestler/Randy Savage|Randy Savage]] (4x)
-- [[Wrestler/Bret Hart|Bret Hart]] (3x)
-- [[Wrestler/Kelly Klein|Kelly Klein]] (3x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (4x)
+- [[Wrestler/Sid Vicious\|Sid Vicious]] (4x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (4x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
+- [[Wrestler/Kelly Klein\|Kelly Klein]] (3x)

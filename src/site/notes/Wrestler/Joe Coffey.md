@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H|Triple H]] (2x)
-- [[Wrestler/Gunther|Gunther]] (2x)
-- [[Wrestler/The Undertaker|The Undertaker]] (2x)
-- [[Wrestler/Angélico|Angélico]] (2x)
-- [[Wrestler/Ivelisse|Ivelisse]] (2x)
+- [[Wrestler/Triple H\|Triple H]] (2x)
+- [[Wrestler/Gunther\|Gunther]] (2x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (2x)
+- [[Wrestler/Angélico\|Angélico]] (2x)
+- [[Wrestler/Ivelisse\|Ivelisse]] (2x)

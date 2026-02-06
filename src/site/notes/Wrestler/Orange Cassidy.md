@@ -39,5 +39,5 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (1x)
-- [[Wrestler/Goldust|Goldust]] (1x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
+- [[Wrestler/Goldust\|Goldust]] (1x)

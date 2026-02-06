@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bam Bam Bigelow|Bam Bam Bigelow]] (3x)
-- [[Wrestler/Bret Hart|Bret Hart]] (3x)
-- [[Wrestler/Owen Hart|Owen Hart]] (3x)
-- [[Wrestler/AJ Styles|AJ Styles]] (3x)
-- [[Wrestler/Dr. Wagner Jr.|Dr. Wagner Jr.]] (3x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (3x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (3x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (3x)

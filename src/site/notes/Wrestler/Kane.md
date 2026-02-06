@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (9x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (7x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (7x)
-- [[Wrestler/Christian Cage|Christian Cage]] (7x)
-- [[Wrestler/Rey Fenix|Rey Fenix]] (6x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (9x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (7x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (7x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (6x)

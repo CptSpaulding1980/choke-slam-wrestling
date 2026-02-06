@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Jeff Cobb|Jeff Cobb]] (3x)
-- [[Wrestler/Abdullah The Butcher|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka|Jimmy Snuka]] (2x)
-- [[Wrestler/Owen Hart|Owen Hart]] (2x)
-- [[Wrestler/KENTA|KENTA]] (2x)
+- [[Wrestler/Jeff Cobb\|Jeff Cobb]] (3x)
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (2x)
+- [[Wrestler/KENTA\|KENTA]] (2x)

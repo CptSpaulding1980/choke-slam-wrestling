@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2022-06-28 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (7x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (6x)
-- [[Wrestler/Triple H|Triple H]] (5x)
-- [[Wrestler/Madison Rayne|Madison Rayne]] (5x)
-- [[Wrestler/Brock Lesnar|Brock Lesnar]] (5x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
+- [[Wrestler/Triple H\|Triple H]] (5x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
+- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (5x)

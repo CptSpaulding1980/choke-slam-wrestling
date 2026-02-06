@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Philipp Brunkovic|Philipp Brunkovic]] (5x)
-- [[Wrestler/Hendrique Delafuente|Hendrique Delafuente]] (4x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (1x)
-- [[Wrestler/Dink|Dink]] (1x)
-- [[Wrestler/Hornswoggle|Hornswoggle]] (1x)
+- [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)
+- [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (4x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
+- [[Wrestler/Dink\|Dink]] (1x)
+- [[Wrestler/Hornswoggle\|Hornswoggle]] (1x)

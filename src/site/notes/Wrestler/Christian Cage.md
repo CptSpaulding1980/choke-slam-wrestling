@@ -56,8 +56,8 @@ championships:
 | Choke Slam International Championship | 3 | 2021-05-18 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (9x)
-- [[Wrestler/Killer Kelly|Killer Kelly]] (8x)
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (7x)
-- [[Wrestler/Kane|Kane]] (7x)
-- [[Wrestler/Bob Backlund|Bob Backlund]] (7x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (9x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (8x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (7x)
+- [[Wrestler/Kane\|Kane]] (7x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)

@@ -56,8 +56,8 @@ championships:
 | Choke Slam Tag Team Championship | 0 | 2020-06-29 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund|Bob Backlund]] (9x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (6x)
-- [[Wrestler/Bret Hart|Bret Hart]] (6x)
-- [[Wrestler/Triple H|Triple H]] (4x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (4x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (9x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (6x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (6x)
+- [[Wrestler/Triple H\|Triple H]] (4x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)

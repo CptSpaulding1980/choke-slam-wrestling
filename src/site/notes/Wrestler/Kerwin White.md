@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Roman Reigns|Roman Reigns]] (1x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)

@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Shingo Takagi|Shingo Takagi]] (2x)
-- [[Wrestler/Cheeseburger|Cheeseburger]] (1x)
-- [[Wrestler/Al Snow|Al Snow]] (1x)
-- [[Wrestler/Mark Davis|Mark Davis]] (1x)
-- [[Wrestler/Kyle Fletcher|Kyle Fletcher]] (1x)
+- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (2x)
+- [[Wrestler/Cheeseburger\|Cheeseburger]] (1x)
+- [[Wrestler/Al Snow\|Al Snow]] (1x)
+- [[Wrestler/Mark Davis\|Mark Davis]] (1x)
+- [[Wrestler/Kyle Fletcher\|Kyle Fletcher]] (1x)

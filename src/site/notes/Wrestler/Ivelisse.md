@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (7x)
-- [[Wrestler/Brutus Beefcake|Brutus Beefcake]] (7x)
-- [[Wrestler/Hulk Hogan|Hulk Hogan]] (5x)
-- [[Wrestler/Johnny Mundo|Johnny Mundo]] (4x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (4x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (7x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (7x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (5x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (4x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)

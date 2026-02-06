@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killshot|Killshot]] (1x)
-- [[Wrestler/Britt Baker|Britt Baker]] (1x)
-- [[Wrestler/Tetsuya Naito|Tetsuya Naito]] (1x)
-- [[Wrestler/Thunder Rosa|Thunder Rosa]] (1x)
-- [[Wrestler/Christian Cage|Christian Cage]] (1x)
+- [[Wrestler/Killshot\|Killshot]] (1x)
+- [[Wrestler/Britt Baker\|Britt Baker]] (1x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
+- [[Wrestler/Thunder Rosa\|Thunder Rosa]] (1x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (1x)

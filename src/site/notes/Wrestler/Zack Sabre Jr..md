@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid|Laredo Kid]] (6x)
-- [[Wrestler/Randy Savage|Randy Savage]] (5x)
-- [[Wrestler/KUSHIDA|KUSHIDA]] (5x)
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (5x)
-- [[Wrestler/The Undertaker|The Undertaker]] (4x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (5x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (5x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (5x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (4x)

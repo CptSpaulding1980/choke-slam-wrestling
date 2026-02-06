@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (1x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)

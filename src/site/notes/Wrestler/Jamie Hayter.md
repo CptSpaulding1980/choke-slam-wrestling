@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Giulia|Giulia]] (1x)
+- [[Wrestler/Giulia\|Giulia]] (1x)

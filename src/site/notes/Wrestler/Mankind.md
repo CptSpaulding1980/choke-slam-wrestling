@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Rush|Rush]] (1x)
+- [[Wrestler/Rush\|Rush]] (1x)

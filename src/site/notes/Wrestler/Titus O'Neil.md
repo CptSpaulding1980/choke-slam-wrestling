@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Kevin Steen|Kevin Steen]] (1x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (1x)
-- [[Wrestler/Steve Austin|Steve Austin]] (1x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (1x)

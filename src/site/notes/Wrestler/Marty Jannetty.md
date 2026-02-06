@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Christian Cage|Christian Cage]] (1x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (1x)

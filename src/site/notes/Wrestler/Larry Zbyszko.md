@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/CM Punk|CM Punk]] (1x)
-- [[Wrestler/Big Van Vader|Big Van Vader]] (1x)
-- [[Wrestler/Kevin Steen|Kevin Steen]] (1x)
-- [[Wrestler/Robert Dreissker|Robert Dreissker]] (1x)
-- [[Wrestler/WALTER|WALTER]] (1x)
+- [[Wrestler/CM Punk\|CM Punk]] (1x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
+- [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
+- [[Wrestler/Robert Dreissker\|Robert Dreissker]] (1x)
+- [[Wrestler/WALTER\|WALTER]] (1x)

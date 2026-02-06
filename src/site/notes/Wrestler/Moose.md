@@ -41,6 +41,6 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Hiroshi Tanahashi|Hiroshi Tanahashi]] (1x)
-- [[Wrestler/The Undertaker|The Undertaker]] (1x)
-- [[Wrestler/Roman Reigns|Roman Reigns]] (1x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (1x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)

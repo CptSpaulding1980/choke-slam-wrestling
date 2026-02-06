@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Alexa Bliss|Alexa Bliss]] (1x)
+- [[Wrestler/Alexa Bliss\|Alexa Bliss]] (1x)

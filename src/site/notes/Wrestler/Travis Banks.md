@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly|Killer Kelly]] (1x)
-- [[Wrestler/Consequences Creed|Consequences Creed]] (1x)
-- [[Wrestler/Eddie Edwards|Eddie Edwards]] (1x)
-- [[Wrestler/Fit Finlay|Fit Finlay]] (1x)
-- [[Wrestler/Randy Savage|Randy Savage]] (1x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
+- [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)
+- [[Wrestler/Fit Finlay\|Fit Finlay]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)

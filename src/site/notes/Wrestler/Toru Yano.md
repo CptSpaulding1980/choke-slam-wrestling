@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Roman Reigns|Roman Reigns]] (2x)
-- [[Wrestler/Killer Kelly|Killer Kelly]] (2x)
-- [[Wrestler/Dalton Castle|Dalton Castle]] (2x)
-- [[Wrestler/Gunther|Gunther]] (1x)
-- [[Wrestler/Kota Ibushi|Kota Ibushi]] (1x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (2x)
+- [[Wrestler/Dalton Castle\|Dalton Castle]] (2x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
+- [[Wrestler/Kota Ibushi\|Kota Ibushi]] (1x)

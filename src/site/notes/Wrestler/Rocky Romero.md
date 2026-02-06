@@ -45,8 +45,8 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/El Dandy|El Dandy]] (1x)
-- [[Wrestler/Taz|Taz]] (1x)
-- [[Wrestler/Togi Makabe|Togi Makabe]] (1x)
-- [[Wrestler/Karl Gotch|Karl Gotch]] (1x)
-- [[Wrestler/Pat Patterson|Pat Patterson]] (1x)
+- [[Wrestler/El Dandy\|El Dandy]] (1x)
+- [[Wrestler/Taz\|Taz]] (1x)
+- [[Wrestler/Togi Makabe\|Togi Makabe]] (1x)
+- [[Wrestler/Karl Gotch\|Karl Gotch]] (1x)
+- [[Wrestler/Pat Patterson\|Pat Patterson]] (1x)

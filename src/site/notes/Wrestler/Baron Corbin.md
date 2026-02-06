@@ -37,4 +37,4 @@ championships: []
 
 
 ## Häufigste Gegner
-- [[Wrestler/Chris Jericho|Chris Jericho]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)

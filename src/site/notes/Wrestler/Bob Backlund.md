@@ -64,8 +64,8 @@ championships:
 | Choke Slam World Championship | 5 | 2021-08-23 |  |
 
 ## Häufigste Gegner
-- [[Wrestler/Big Van Vader|Big Van Vader]] (12x)
-- [[Wrestler/Kurt Angle|Kurt Angle]] (10x)
-- [[Wrestler/Shawn Michaels|Shawn Michaels]] (9x)
-- [[Wrestler/Kane|Kane]] (8x)
-- [[Wrestler/Kazuchika Okada|Kazuchika Okada]] (7x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (12x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (10x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (9x)
+- [[Wrestler/Kane\|Kane]] (8x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)

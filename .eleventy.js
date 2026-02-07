@@ -99,7 +99,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
 
   // --- Passthrough Copy ---
-  eleventyConfig.addPassthroughCopy("src/site/img/user/z_Images"); 
+  eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");

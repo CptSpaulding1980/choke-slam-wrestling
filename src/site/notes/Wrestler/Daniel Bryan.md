@@ -24,7 +24,7 @@ avg_rating: 82.44
 | 32 | 19 | 11 | 2 | 59.4% | 82.44 | 1293 |
 
 ### 📈 Elo History
-![](../img/charts/daniel-bryan_elo.png)
+<img src="/img/charts/daniel-bryan_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (9x)

@@ -24,7 +24,7 @@ avg_rating: 87.24
 | 34 | 12 | 13 | 9 | 35.3% | 87.24 | 1199 |
 
 ### 📈 Elo History
-![](../img/charts/kenta_elo.png)
+<img src="/img/charts/kenta_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (9x)

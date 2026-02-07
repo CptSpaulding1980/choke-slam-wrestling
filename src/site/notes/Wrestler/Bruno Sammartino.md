@@ -24,7 +24,7 @@ avg_rating: 78.5
 | 4 | 3 | 0 | 1 | 75.0% | 78.50 | 1241 |
 
 ### 📈 Elo History
-![](../img/charts/bruno-sammartino_elo.png)
+<img src="/img/charts/bruno-sammartino_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/KENTA\|KENTA]] (2x)

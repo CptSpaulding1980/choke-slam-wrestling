@@ -24,7 +24,7 @@ avg_rating: 77.33
 | 9 | 1 | 5 | 3 | 11.1% | 77.33 | 1143 |
 
 ### 📈 Elo History
-![](../img/charts/kairi-sane_elo.png)
+<img src="/img/charts/kairi-sane_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Ivelisse\|Ivelisse]] (3x)

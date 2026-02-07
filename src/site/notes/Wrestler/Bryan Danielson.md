@@ -24,7 +24,7 @@ avg_rating: 86.46
 | 13 | 4 | 3 | 6 | 30.8% | 86.46 | 1219 |
 
 ### 📈 Elo History
-![](../img/charts/bryan-danielson_elo.png)
+<img src="/img/charts/bryan-danielson_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (5x)

@@ -24,7 +24,7 @@ avg_rating: 85.72
 | 46 | 16 | 21 | 9 | 34.8% | 85.72 | 1160 |
 
 ### 📈 Elo History
-![](../img/charts/kane_elo.png)
+<img src="/img/charts/kane_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (9x)

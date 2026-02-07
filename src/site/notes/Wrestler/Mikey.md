@@ -24,7 +24,7 @@ avg_rating: 74.25
 | 4 | 1 | 3 | 0 | 25.0% | 74.25 | 1170 |
 
 ### 📈 Elo History
-![](../img/charts/mikey_elo.png)
+<img src="/img/charts/mikey_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)

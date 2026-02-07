@@ -24,7 +24,7 @@ avg_rating: 93.6
 | 5 | 2 | 2 | 1 | 40.0% | 93.60 | 1209 |
 
 ### 📈 Elo History
-![](../img/charts/iron-sheik_elo.png)
+<img src="/img/charts/iron-sheik_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)

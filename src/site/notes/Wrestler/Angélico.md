@@ -25,7 +25,7 @@ avg_rating: 85.37
 | 19 | 8 | 7 | 4 | 42.1% | 85.37 | 1220 |
 
 ### 📈 Elo History
-![](../img/charts/anglico_elo.png)
+<img src="/img/charts/anglico_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (6x)

@@ -24,7 +24,7 @@ avg_rating: 88.09
 | 11 | 4 | 6 | 1 | 36.4% | 88.09 | 1177 |
 
 ### 📈 Elo History
-![](../img/charts/noam-dar_elo.png)
+<img src="/img/charts/noam-dar_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (5x)

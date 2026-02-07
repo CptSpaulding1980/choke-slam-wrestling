@@ -24,7 +24,7 @@ avg_rating: 96.0
 | 3 | 0 | 3 | 0 | 0.0% | 96.00 | 1156 |
 
 ### 📈 Elo History
-![](../img/charts/kyle-oreilly_elo.png)
+<img src="/img/charts/kyle-oreilly_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

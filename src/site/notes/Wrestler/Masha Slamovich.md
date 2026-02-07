@@ -24,7 +24,7 @@ avg_rating: 77.67
 | 9 | 3 | 3 | 3 | 33.3% | 77.67 | 1195 |
 
 ### 📈 Elo History
-![](../img/charts/masha-slamovich_elo.png)
+<img src="/img/charts/masha-slamovich_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)

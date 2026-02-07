@@ -24,7 +24,7 @@ avg_rating: 90.67
 | 3 | 0 | 3 | 0 | 0.0% | 90.67 | 1153 |
 
 ### 📈 Elo History
-![](../img/charts/barry-windham_elo.png)
+<img src="/img/charts/barry-windham_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Aero Star\|Aero Star]] (1x)

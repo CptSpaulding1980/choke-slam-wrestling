@@ -24,7 +24,7 @@ avg_rating: 93.67
 | 6 | 2 | 4 | 0 | 33.3% | 93.67 | 1166 |
 
 ### 📈 Elo History
-![](../img/charts/big-e_elo.png)
+<img src="/img/charts/big-e_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

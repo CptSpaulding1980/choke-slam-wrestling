@@ -24,7 +24,7 @@ avg_rating: 98.0
 | 3 | 2 | 1 | 0 | 66.7% | 98.00 | 1212 |
 
 ### 📈 Elo History
-![](../img/charts/robert-dreissker_elo.png)
+<img src="/img/charts/robert-dreissker_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

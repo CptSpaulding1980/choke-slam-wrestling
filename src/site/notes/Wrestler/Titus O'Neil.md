@@ -24,7 +24,7 @@ avg_rating: 82.33
 | 3 | 1 | 2 | 0 | 33.3% | 82.33 | 1192 |
 
 ### 📈 Elo History
-![](../img/charts/titus-oneil_elo.png)
+<img src="/img/charts/titus-oneil_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

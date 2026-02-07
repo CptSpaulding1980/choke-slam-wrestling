@@ -24,7 +24,7 @@ avg_rating: 81.4
 | 5 | 2 | 2 | 1 | 40.0% | 81.40 | 1199 |
 
 ### 📈 Elo History
-![](../img/charts/adam-cole_elo.png)
+<img src="/img/charts/adam-cole_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

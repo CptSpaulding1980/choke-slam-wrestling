@@ -24,7 +24,7 @@ avg_rating: 79.18
 | 17 | 3 | 12 | 2 | 17.6% | 79.18 | 1095 |
 
 ### 📈 Elo History
-![](../img/charts/drew-gulak_elo.png)
+<img src="/img/charts/drew-gulak_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)

@@ -24,7 +24,7 @@ avg_rating: 89.38
 | 32 | 9 | 19 | 4 | 28.1% | 89.38 | 1064 |
 
 ### 📈 Elo History
-![](../img/charts/bam-bam-bigelow_elo.png)
+<img src="/img/charts/bam-bam-bigelow_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (5x)

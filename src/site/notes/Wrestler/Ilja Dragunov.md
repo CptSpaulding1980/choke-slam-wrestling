@@ -24,7 +24,7 @@ avg_rating: 81.75
 | 4 | 1 | 2 | 1 | 25.0% | 81.75 | 1185 |
 
 ### 📈 Elo History
-![](../img/charts/ilja-dragunov_elo.png)
+<img src="/img/charts/ilja-dragunov_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)

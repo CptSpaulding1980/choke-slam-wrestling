@@ -24,7 +24,7 @@ avg_rating: 85.5
 | 8 | 1 | 5 | 2 | 12.5% | 85.50 | 1152 |
 
 ### 📈 Elo History
-![](../img/charts/hollywood-hogan_elo.png)
+<img src="/img/charts/hollywood-hogan_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (2x)

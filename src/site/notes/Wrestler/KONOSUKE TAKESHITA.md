@@ -24,7 +24,7 @@ avg_rating: 85.67
 | 9 | 4 | 5 | 0 | 44.4% | 85.67 | 1196 |
 
 ### 📈 Elo History
-![](../img/charts/konosuke-takeshita_elo.png)
+<img src="/img/charts/konosuke-takeshita_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)

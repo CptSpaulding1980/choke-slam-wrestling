@@ -24,7 +24,7 @@ avg_rating: 87.33
 | 9 | 4 | 1 | 4 | 44.4% | 87.33 | 1250 |
 
 ### 📈 Elo History
-![](../img/charts/philipp-brunkovic_elo.png)
+<img src="/img/charts/philipp-brunkovic_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Pascal LePas\|Pascal LePas]] (5x)

@@ -24,7 +24,7 @@ avg_rating: 88.62
 | 13 | 0 | 7 | 6 | 0.0% | 88.62 | 1107 |
 
 ### 📈 Elo History
-![](../img/charts/tommy-end_elo.png)
+<img src="/img/charts/tommy-end_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)

@@ -24,7 +24,7 @@ avg_rating: 91.0
 | 3 | 2 | 1 | 0 | 66.7% | 91.00 | 1221 |
 
 ### 📈 Elo History
-![](../img/charts/irwin-r-schyster_elo.png)
+<img src="/img/charts/irwin-r-schyster_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (1x)

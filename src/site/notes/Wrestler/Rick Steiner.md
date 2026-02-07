@@ -24,7 +24,7 @@ avg_rating: 86.4
 | 5 | 2 | 2 | 1 | 40.0% | 86.40 | 1204 |
 
 ### 📈 Elo History
-![](../img/charts/rick-steiner_elo.png)
+<img src="/img/charts/rick-steiner_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

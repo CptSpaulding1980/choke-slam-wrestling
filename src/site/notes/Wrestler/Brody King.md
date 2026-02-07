@@ -24,7 +24,7 @@ avg_rating: 84.78
 | 9 | 1 | 6 | 2 | 11.1% | 84.78 | 1129 |
 
 ### 📈 Elo History
-![](../img/charts/brody-king_elo.png)
+<img src="/img/charts/brody-king_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)

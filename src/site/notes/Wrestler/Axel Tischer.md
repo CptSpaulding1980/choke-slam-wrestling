@@ -24,7 +24,7 @@ avg_rating: 80.0
 | 3 | 0 | 3 | 0 | 0.0% | 80.00 | 1152 |
 
 ### 📈 Elo History
-![](../img/charts/axel-tischer_elo.png)
+<img src="/img/charts/axel-tischer_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)

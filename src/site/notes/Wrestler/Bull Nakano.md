@@ -24,7 +24,7 @@ avg_rating: 86.05
 | 19 | 6 | 10 | 3 | 31.6% | 86.05 | 1158 |
 
 ### 📈 Elo History
-![](../img/charts/bull-nakano_elo.png)
+<img src="/img/charts/bull-nakano_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (5x)

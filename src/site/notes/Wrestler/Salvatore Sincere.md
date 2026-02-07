@@ -24,7 +24,7 @@ avg_rating: 84.33
 | 3 | 1 | 2 | 0 | 33.3% | 84.33 | 1185 |
 
 ### 📈 Elo History
-![](../img/charts/salvatore-sincere_elo.png)
+<img src="/img/charts/salvatore-sincere_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)

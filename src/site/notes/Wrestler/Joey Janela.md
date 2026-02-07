@@ -24,7 +24,7 @@ avg_rating: 89.4
 | 20 | 6 | 6 | 8 | 30.0% | 89.40 | 1182 |
 
 ### 📈 Elo History
-![](../img/charts/joey-janela_elo.png)
+<img src="/img/charts/joey-janela_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (7x)

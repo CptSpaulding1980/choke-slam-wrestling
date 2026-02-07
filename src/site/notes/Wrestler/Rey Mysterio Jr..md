@@ -24,7 +24,7 @@ avg_rating: 82.78
 | 32 | 14 | 11 | 7 | 43.8% | 82.78 | 1223 |
 
 ### 📈 Elo History
-![](../img/charts/rey-mysterio-jr_elo.png)
+<img src="/img/charts/rey-mysterio-jr_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)

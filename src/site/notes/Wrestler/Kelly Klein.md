@@ -24,7 +24,7 @@ avg_rating: 88.5
 | 6 | 0 | 2 | 4 | 0.0% | 88.50 | 1165 |
 
 ### 📈 Elo History
-![](../img/charts/kelly-klein_elo.png)
+<img src="/img/charts/kelly-klein_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (3x)

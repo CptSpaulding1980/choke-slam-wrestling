@@ -24,7 +24,7 @@ avg_rating: 80.5
 | 4 | 1 | 3 | 0 | 25.0% | 80.50 | 1177 |
 
 ### 📈 Elo History
-![](../img/charts/gillberg_elo.png)
+<img src="/img/charts/gillberg_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)

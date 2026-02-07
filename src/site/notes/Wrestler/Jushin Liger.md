@@ -24,7 +24,7 @@ avg_rating: 89.0
 | 17 | 6 | 10 | 1 | 35.3% | 89.00 | 1140 |
 
 ### 📈 Elo History
-![](../img/charts/jushin-liger_elo.png)
+<img src="/img/charts/jushin-liger_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)

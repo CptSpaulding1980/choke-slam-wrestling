@@ -24,7 +24,7 @@ avg_rating: 88.5
 | 12 | 3 | 7 | 2 | 25.0% | 88.50 | 1136 |
 
 ### 📈 Elo History
-![](../img/charts/ricky-steamboat_elo.png)
+<img src="/img/charts/ricky-steamboat_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (3x)

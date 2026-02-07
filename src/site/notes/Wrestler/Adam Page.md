@@ -24,7 +24,7 @@ avg_rating: 80.71
 | 7 | 0 | 6 | 1 | 0.0% | 80.71 | 1126 |
 
 ### 📈 Elo History
-![](../img/charts/adam-page_elo.png)
+<img src="/img/charts/adam-page_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)

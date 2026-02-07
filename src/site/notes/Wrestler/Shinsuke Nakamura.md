@@ -24,7 +24,7 @@ avg_rating: 74.5
 | 4 | 0 | 2 | 2 | 0.0% | 74.50 | 1164 |
 
 ### 📈 Elo History
-![](../img/charts/shinsuke-nakamura_elo.png)
+<img src="/img/charts/shinsuke-nakamura_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

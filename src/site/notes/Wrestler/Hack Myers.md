@@ -24,7 +24,7 @@ avg_rating: 88.0
 | 4 | 2 | 2 | 0 | 50.0% | 88.00 | 1201 |
 
 ### 📈 Elo History
-![](../img/charts/hack-myers_elo.png)
+<img src="/img/charts/hack-myers_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)

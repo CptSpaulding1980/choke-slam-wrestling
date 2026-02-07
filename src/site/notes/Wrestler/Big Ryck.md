@@ -24,7 +24,7 @@ avg_rating: 86.91
 | 11 | 3 | 4 | 4 | 27.3% | 86.91 | 1190 |
 
 ### 📈 Elo History
-![](../img/charts/big-ryck_elo.png)
+<img src="/img/charts/big-ryck_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)

@@ -24,7 +24,7 @@ avg_rating: 90.1
 | 21 | 3 | 11 | 7 | 14.3% | 90.10 | 1096 |
 
 ### 📈 Elo History
-![](../img/charts/fit-finlay_elo.png)
+<img src="/img/charts/fit-finlay_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Edge\|Edge]] (4x)

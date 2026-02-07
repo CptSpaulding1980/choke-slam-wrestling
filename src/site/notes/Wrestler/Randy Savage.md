@@ -24,7 +24,7 @@ avg_rating: 84.55
 | 82 | 41 | 30 | 11 | 50.0% | 84.55 | 1286 |
 
 ### 📈 Elo History
-![](../img/charts/randy-savage_elo.png)
+<img src="/img/charts/randy-savage_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (13x)

@@ -24,7 +24,7 @@ avg_rating: 97.0
 | 3 | 0 | 3 | 0 | 0.0% | 97.00 | 1156 |
 
 ### 📈 Elo History
-![](../img/charts/the-honky-tonk-man_elo.png)
+<img src="/img/charts/the-honky-tonk-man_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

@@ -24,7 +24,7 @@ avg_rating: 81.0
 | 3 | 0 | 3 | 0 | 0.0% | 81.00 | 1158 |
 
 ### 📈 Elo History
-![](../img/charts/christmas-creature_elo.png)
+<img src="/img/charts/christmas-creature_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Finn Bálor\|Finn Bálor]] (1x)

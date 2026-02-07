@@ -24,7 +24,7 @@ avg_rating: 85.0
 | 3 | 0 | 2 | 1 | 0.0% | 85.00 | 1171 |
 
 ### 📈 Elo History
-![](../img/charts/beer-city-bruiser_elo.png)
+<img src="/img/charts/beer-city-bruiser_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (3x)

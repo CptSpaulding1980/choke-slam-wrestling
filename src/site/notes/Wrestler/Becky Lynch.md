@@ -24,7 +24,7 @@ avg_rating: 85.0
 | 8 | 3 | 2 | 3 | 37.5% | 85.00 | 1220 |
 
 ### 📈 Elo History
-![](../img/charts/becky-lynch_elo.png)
+<img src="/img/charts/becky-lynch_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (6x)

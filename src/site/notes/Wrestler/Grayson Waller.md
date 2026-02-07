@@ -24,7 +24,7 @@ avg_rating: 89.04
 | 24 | 8 | 9 | 7 | 33.3% | 89.04 | 1180 |
 
 ### 📈 Elo History
-![](../img/charts/grayson-waller_elo.png)
+<img src="/img/charts/grayson-waller_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (7x)

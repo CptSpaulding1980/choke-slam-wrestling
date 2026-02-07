@@ -24,7 +24,7 @@ avg_rating: 78.78
 | 9 | 3 | 5 | 1 | 33.3% | 78.78 | 1173 |
 
 ### 📈 Elo History
-![](../img/charts/toru-yano_elo.png)
+<img src="/img/charts/toru-yano_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)

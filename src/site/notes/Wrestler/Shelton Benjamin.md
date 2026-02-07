@@ -24,7 +24,7 @@ avg_rating: 89.75
 | 4 | 2 | 1 | 1 | 50.0% | 89.75 | 1215 |
 
 ### 📈 Elo History
-![](../img/charts/shelton-benjamin_elo.png)
+<img src="/img/charts/shelton-benjamin_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Shingo Takagi\|Shingo Takagi]] (2x)

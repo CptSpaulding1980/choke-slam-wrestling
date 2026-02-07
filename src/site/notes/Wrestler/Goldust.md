@@ -24,7 +24,7 @@ avg_rating: 82.33
 | 3 | 2 | 1 | 0 | 66.7% | 82.33 | 1212 |
 
 ### 📈 Elo History
-![](../img/charts/goldust_elo.png)
+<img src="/img/charts/goldust_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Orange Cassidy\|Orange Cassidy]] (1x)

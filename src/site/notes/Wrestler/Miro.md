@@ -24,7 +24,7 @@ avg_rating: 87.8
 | 50 | 19 | 20 | 11 | 38.0% | 87.80 | 1171 |
 
 ### 📈 Elo History
-![](../img/charts/miro_elo.png)
+<img src="/img/charts/miro_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Jay White\|Jay White]] (10x)

@@ -24,7 +24,7 @@ avg_rating: 86.41
 | 34 | 13 | 15 | 6 | 38.2% | 86.41 | 1157 |
 
 ### 📈 Elo History
-![](../img/charts/kevin-steen_elo.png)
+<img src="/img/charts/kevin-steen_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)

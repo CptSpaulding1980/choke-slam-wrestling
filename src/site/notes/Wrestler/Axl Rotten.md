@@ -24,7 +24,7 @@ avg_rating: 91.33
 | 3 | 1 | 2 | 0 | 33.3% | 91.33 | 1185 |
 
 ### 📈 Elo History
-![](../img/charts/axl-rotten_elo.png)
+<img src="/img/charts/axl-rotten_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (1x)

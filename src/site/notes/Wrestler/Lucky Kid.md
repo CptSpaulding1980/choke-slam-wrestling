@@ -24,7 +24,7 @@ avg_rating: 94.0
 | 4 | 1 | 2 | 1 | 25.0% | 94.00 | 1182 |
 
 ### 📈 Elo History
-![](../img/charts/lucky-kid_elo.png)
+<img src="/img/charts/lucky-kid_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 86.5
 | 2 | 1 | 1 | 0 | 50.0% | 86.50 | 1195 |
 
 ### 📈 Elo History
-![](../img/charts/el-torito_elo.png)
+<img src="/img/charts/el-torito_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

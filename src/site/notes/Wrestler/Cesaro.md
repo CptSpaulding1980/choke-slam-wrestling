@@ -24,7 +24,7 @@ avg_rating: 87.31
 | 13 | 6 | 5 | 2 | 46.2% | 87.31 | 1214 |
 
 ### 📈 Elo History
-![](../img/charts/cesaro_elo.png)
+<img src="/img/charts/cesaro_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)

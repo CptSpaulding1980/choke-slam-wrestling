@@ -24,7 +24,7 @@ avg_rating: 88.5
 | 4 | 1 | 1 | 2 | 25.0% | 88.50 | 1199 |
 
 ### 📈 Elo History
-![](../img/charts/christopher-daniels_elo.png)
+<img src="/img/charts/christopher-daniels_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

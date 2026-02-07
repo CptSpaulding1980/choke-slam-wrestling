@@ -24,7 +24,7 @@ avg_rating: 84.73
 | 11 | 5 | 4 | 2 | 45.5% | 84.73 | 1231 |
 
 ### 📈 Elo History
-![](../img/charts/jeff-cobb_elo.png)
+<img src="/img/charts/jeff-cobb_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hiromu Takahashi\|Hiromu Takahashi]] (3x)

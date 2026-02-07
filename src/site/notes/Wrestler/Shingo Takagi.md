@@ -24,7 +24,7 @@ avg_rating: 83.32
 | 25 | 5 | 11 | 9 | 20.0% | 83.32 | 1129 |
 
 ### 📈 Elo History
-![](../img/charts/shingo-takagi_elo.png)
+<img src="/img/charts/shingo-takagi_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (5x)

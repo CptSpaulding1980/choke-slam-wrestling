@@ -24,7 +24,7 @@ avg_rating: 83.0
 | 4 | 2 | 1 | 1 | 50.0% | 83.00 | 1219 |
 
 ### 📈 Elo History
-![](../img/charts/drew-mcintyre_elo.png)
+<img src="/img/charts/drew-mcintyre_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)

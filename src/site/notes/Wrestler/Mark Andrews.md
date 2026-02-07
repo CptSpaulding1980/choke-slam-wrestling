@@ -24,7 +24,7 @@ avg_rating: 89.33
 | 3 | 2 | 1 | 0 | 66.7% | 89.33 | 1211 |
 
 ### 📈 Elo History
-![](../img/charts/mark-andrews_elo.png)
+<img src="/img/charts/mark-andrews_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (1x)

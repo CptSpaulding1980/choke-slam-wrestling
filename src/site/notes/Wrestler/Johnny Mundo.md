@@ -24,7 +24,7 @@ avg_rating: 86.97
 | 29 | 18 | 4 | 7 | 62.1% | 86.97 | 1377 |
 
 ### 📈 Elo History
-![](../img/charts/johnny-mundo_elo.png)
+<img src="/img/charts/johnny-mundo_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (8x)

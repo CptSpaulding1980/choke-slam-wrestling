@@ -24,7 +24,7 @@ avg_rating: 92.0
 | 3 | 1 | 2 | 0 | 33.3% | 92.00 | 1181 |
 
 ### 📈 Elo History
-![](../img/charts/mosh_elo.png)
+<img src="/img/charts/mosh_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Akira Taue\|Akira Taue]] (1x)

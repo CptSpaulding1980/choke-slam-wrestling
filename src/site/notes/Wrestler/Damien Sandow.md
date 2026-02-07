@@ -24,7 +24,7 @@ avg_rating: 80.5
 | 4 | 2 | 1 | 1 | 50.0% | 80.50 | 1219 |
 
 ### 📈 Elo History
-![](../img/charts/damien-sandow_elo.png)
+<img src="/img/charts/damien-sandow_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)

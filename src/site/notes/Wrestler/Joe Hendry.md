@@ -24,7 +24,7 @@ avg_rating: 86.25
 | 16 | 6 | 6 | 4 | 37.5% | 86.25 | 1209 |
 
 ### 📈 Elo History
-![](../img/charts/joe-hendry_elo.png)
+<img src="/img/charts/joe-hendry_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)

@@ -24,7 +24,7 @@ avg_rating: 83.21
 | 19 | 6 | 7 | 6 | 31.6% | 83.21 | 1185 |
 
 ### 📈 Elo History
-![](../img/charts/ivelisse_elo.png)
+<img src="/img/charts/ivelisse_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (7x)

@@ -24,7 +24,7 @@ avg_rating: 90.33
 | 3 | 1 | 2 | 0 | 33.3% | 90.33 | 1185 |
 
 ### 📈 Elo History
-![](../img/charts/alex-wright_elo.png)
+<img src="/img/charts/alex-wright_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)

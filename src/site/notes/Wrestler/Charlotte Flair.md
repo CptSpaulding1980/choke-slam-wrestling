@@ -24,7 +24,7 @@ avg_rating: 88.0
 | 10 | 3 | 4 | 3 | 30.0% | 88.00 | 1186 |
 
 ### 📈 Elo History
-![](../img/charts/charlotte-flair_elo.png)
+<img src="/img/charts/charlotte-flair_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)

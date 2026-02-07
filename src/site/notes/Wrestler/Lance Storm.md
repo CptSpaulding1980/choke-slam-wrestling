@@ -24,7 +24,7 @@ avg_rating: 90.0
 | 8 | 6 | 1 | 1 | 75.0% | 90.00 | 1276 |
 
 ### 📈 Elo History
-![](../img/charts/lance-storm_elo.png)
+<img src="/img/charts/lance-storm_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (3x)

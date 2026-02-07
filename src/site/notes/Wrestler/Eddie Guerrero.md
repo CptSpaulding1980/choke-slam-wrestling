@@ -24,7 +24,7 @@ avg_rating: 86.73
 | 11 | 4 | 4 | 3 | 36.4% | 86.73 | 1211 |
 
 ### 📈 Elo History
-![](../img/charts/eddie-guerrero_elo.png)
+<img src="/img/charts/eddie-guerrero_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)

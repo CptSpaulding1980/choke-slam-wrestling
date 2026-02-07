@@ -24,7 +24,7 @@ avg_rating: 83.6
 | 5 | 0 | 3 | 2 | 0.0% | 83.60 | 1154 |
 
 ### 📈 Elo History
-![](../img/charts/the-sheik_elo.png)
+<img src="/img/charts/the-sheik_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (2x)

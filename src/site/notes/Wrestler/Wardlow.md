@@ -24,7 +24,7 @@ avg_rating: 82.58
 | 26 | 9 | 13 | 4 | 34.6% | 82.58 | 1167 |
 
 ### 📈 Elo History
-![](../img/charts/wardlow_elo.png)
+<img src="/img/charts/wardlow_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Edge\|Edge]] (6x)

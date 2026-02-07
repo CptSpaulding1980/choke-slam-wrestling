@@ -24,7 +24,7 @@ avg_rating: 78.4
 | 25 | 11 | 10 | 4 | 44.0% | 78.40 | 1219 |
 
 ### 📈 Elo History
-![](../img/charts/brock-lesnar_elo.png)
+<img src="/img/charts/brock-lesnar_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Sting\|Sting]] (5x)

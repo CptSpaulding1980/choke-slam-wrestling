@@ -24,7 +24,7 @@ avg_rating: 84.5
 | 8 | 5 | 1 | 2 | 62.5% | 84.50 | 1267 |
 
 ### 📈 Elo History
-![](../img/charts/chyna_elo.png)
+<img src="/img/charts/chyna_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)

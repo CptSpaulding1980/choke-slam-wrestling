@@ -24,7 +24,7 @@ avg_rating: 86.47
 | 30 | 6 | 17 | 7 | 20.0% | 86.47 | 1069 |
 
 ### 📈 Elo History
-![](../img/charts/aoife-valkyrie_elo.png)
+<img src="/img/charts/aoife-valkyrie_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (6x)

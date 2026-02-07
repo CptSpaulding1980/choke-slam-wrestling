@@ -24,7 +24,7 @@ avg_rating: 93.67
 | 3 | 2 | 0 | 1 | 66.7% | 93.67 | 1232 |
 
 ### 📈 Elo History
-![](../img/charts/sin-cara_elo.png)
+<img src="/img/charts/sin-cara_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

@@ -24,7 +24,7 @@ avg_rating: 87.06
 | 33 | 12 | 15 | 6 | 36.4% | 87.06 | 1180 |
 
 ### 📈 Elo History
-![](../img/charts/rush_elo.png)
+<img src="/img/charts/rush_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (7x)

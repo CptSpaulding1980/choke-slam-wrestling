@@ -24,7 +24,7 @@ avg_rating: 89.6
 | 10 | 2 | 4 | 4 | 20.0% | 89.60 | 1171 |
 
 ### 📈 Elo History
-![](../img/charts/lita_elo.png)
+<img src="/img/charts/lita_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (4x)

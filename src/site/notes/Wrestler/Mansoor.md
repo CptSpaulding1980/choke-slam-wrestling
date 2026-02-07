@@ -24,7 +24,7 @@ avg_rating: 88.73
 | 11 | 4 | 6 | 1 | 36.4% | 88.73 | 1172 |
 
 ### 📈 Elo History
-![](../img/charts/mansoor_elo.png)
+<img src="/img/charts/mansoor_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (3x)

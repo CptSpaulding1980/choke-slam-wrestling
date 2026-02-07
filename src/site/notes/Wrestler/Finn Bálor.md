@@ -25,7 +25,7 @@ avg_rating: 85.61
 | 18 | 9 | 7 | 2 | 50.0% | 85.61 | 1202 |
 
 ### 📈 Elo History
-![](../img/charts/finn-blor_elo.png)
+<img src="/img/charts/finn-blor_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (5x)

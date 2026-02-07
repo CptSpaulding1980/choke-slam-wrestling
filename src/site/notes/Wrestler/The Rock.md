@@ -24,7 +24,7 @@ avg_rating: 86.0
 | 12 | 1 | 7 | 4 | 8.3% | 86.00 | 1117 |
 
 ### 📈 Elo History
-![](../img/charts/the-rock_elo.png)
+<img src="/img/charts/the-rock_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)

@@ -24,7 +24,7 @@ avg_rating: 78.0
 | 3 | 1 | 2 | 0 | 33.3% | 78.00 | 1183 |
 
 ### 📈 Elo History
-![](../img/charts/xanta-claus_elo.png)
+<img src="/img/charts/xanta-claus_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)

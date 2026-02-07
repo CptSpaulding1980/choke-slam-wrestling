@@ -24,7 +24,7 @@ avg_rating: 73.23
 | 13 | 5 | 3 | 5 | 38.5% | 73.23 | 1224 |
 
 ### 📈 Elo History
-![](../img/charts/sasha-banks_elo.png)
+<img src="/img/charts/sasha-banks_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)

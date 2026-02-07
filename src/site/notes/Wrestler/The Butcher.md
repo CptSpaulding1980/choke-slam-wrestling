@@ -24,7 +24,7 @@ avg_rating: 83.0
 | 17 | 7 | 7 | 3 | 41.2% | 83.00 | 1205 |
 
 ### 📈 Elo History
-![](../img/charts/the-butcher_elo.png)
+<img src="/img/charts/the-butcher_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (5x)

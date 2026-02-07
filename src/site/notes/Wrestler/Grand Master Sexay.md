@@ -24,7 +24,7 @@ avg_rating: 88.67
 | 3 | 2 | 1 | 0 | 66.7% | 88.67 | 1212 |
 
 ### 📈 Elo History
-![](../img/charts/grand-master-sexay_elo.png)
+<img src="/img/charts/grand-master-sexay_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Booker T\|Booker T]] (3x)

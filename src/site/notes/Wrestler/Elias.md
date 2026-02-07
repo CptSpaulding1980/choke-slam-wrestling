@@ -24,7 +24,7 @@ avg_rating: 85.0
 | 4 | 3 | 1 | 0 | 75.0% | 85.00 | 1234 |
 
 ### 📈 Elo History
-![](../img/charts/elias_elo.png)
+<img src="/img/charts/elias_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Arn Anderson\|Arn Anderson]] (1x)

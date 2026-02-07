@@ -24,7 +24,7 @@ avg_rating: 83.6
 | 10 | 3 | 5 | 2 | 30.0% | 83.60 | 1173 |
 
 ### 📈 Elo History
-![](../img/charts/jerry-lawler_elo.png)
+<img src="/img/charts/jerry-lawler_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Orton\|Randy Orton]] (4x)

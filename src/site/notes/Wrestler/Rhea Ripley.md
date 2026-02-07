@@ -24,7 +24,7 @@ avg_rating: 85.6
 | 5 | 2 | 1 | 2 | 40.0% | 85.60 | 1212 |
 
 ### 📈 Elo History
-![](../img/charts/rhea-ripley_elo.png)
+<img src="/img/charts/rhea-ripley_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kane\|Kane]] (2x)

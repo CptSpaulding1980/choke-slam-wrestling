@@ -24,7 +24,7 @@ avg_rating: 83.5
 | 10 | 3 | 6 | 1 | 30.0% | 83.50 | 1172 |
 
 ### 📈 Elo History
-![](../img/charts/tama-tonga_elo.png)
+<img src="/img/charts/tama-tonga_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (2x)

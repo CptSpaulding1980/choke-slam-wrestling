@@ -24,7 +24,7 @@ avg_rating: 82.42
 | 69 | 37 | 20 | 12 | 53.6% | 82.42 | 1303 |
 
 ### 📈 Elo History
-![](../img/charts/triple-h_elo.png)
+<img src="/img/charts/triple-h_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (11x)

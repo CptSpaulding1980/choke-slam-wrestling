@@ -24,7 +24,7 @@ avg_rating: 92.6
 | 5 | 1 | 3 | 1 | 20.0% | 92.60 | 1165 |
 
 ### 📈 Elo History
-![](../img/charts/william-regal_elo.png)
+<img src="/img/charts/william-regal_elo.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)

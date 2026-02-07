@@ -9,7 +9,7 @@ location: "Baltimore, Maryland, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
-https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png
+![[2025-10-02-s07e04-the-iron-chamber---night-2_poster.png]]
 
 # S07E04 The Iron Chamber - Night 2
 

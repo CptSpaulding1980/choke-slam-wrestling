@@ -9,7 +9,7 @@ location: "Baltimore, Maryland, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
-https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png
+![[2025-10-27-s07e05-threeway-fiasko_poster.png]]
 
 # S07E05_Threeway Fiasko
 

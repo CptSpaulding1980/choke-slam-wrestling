@@ -9,7 +9,7 @@ location: "Baltimore, Maryland, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
-https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png
+![[2026-02-05-s07e08-royal-rumble_poster.png]]
 
 # S07E08_Royal Rumble
 

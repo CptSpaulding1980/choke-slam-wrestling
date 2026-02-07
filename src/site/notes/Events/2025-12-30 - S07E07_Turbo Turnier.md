@@ -9,7 +9,7 @@ location: "San Fransisco, California, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
-https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png
+![[2025-12-30-s07e07-turbo-turnier_poster.png]]
 
 # S07E07_Turbo Turnier
 

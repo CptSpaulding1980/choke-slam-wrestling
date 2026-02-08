@@ -25,7 +25,7 @@ avg_rating: 85.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/elias_stats.png" width="200"> | **❌✅✅✅**<br>- Win vs. Kurt Angle & Elias vs. Arn Anderson & Eric Young<br>- Win vs. Kurt Angle & Elias vs. Sweet 'n Sour Elite<br>- Win vs. Kurt Angle & Elias vs. Saint Rebel Radicalz<br>- Loss vs. Kurt Angle & Elias vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Arn Anderson\|Arn Anderson]]<br>**Partner:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Best Match:** 94% vs. Kurt Angle & Elias vs. Saint Rebel Radicalz |
+| <img src="/img/charts/elias_stats.png" width="200"> | **❌✅✅✅**<br>✅ **Elias** beat Arn Anderson, Eric Young at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br>✅ **Elias** beat Dr. Wagner Jr., Paul Orndorff at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br>✅ **Elias** beat Bob Backlund, Dustin Rhodes at [[Events/2020-10-26 - S03E02_World Tag League Semi Finals \|S03E02_World Tag League Semi Finals ]] - 2020-10-26<br>❌ **Kazuchika Okada, Rey Fenix** beat Elias at [[Events/2020-10-26 - S03E02_World Tag League Finals\|S03E02_World Tag League Finals]] - 2020-10-26<br> | **Nemesis:** [[Wrestler/Arn Anderson\|Arn Anderson]]<br>**Partner:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Best Match:** 94% vs. Kurt Angle & Elias vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Arn Anderson\|Arn Anderson]] (1x)

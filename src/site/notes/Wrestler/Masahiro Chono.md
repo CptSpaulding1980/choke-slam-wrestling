@@ -25,7 +25,7 @@ avg_rating: 79.25
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/masahiro-chono_stats.png" width="200"> | **✅✅❌❌**<br>- Loss vs. B: Masahiro Chono vs. Triple H<br>- Loss vs. B: Claudio Castagnoli vs. Masahiro Chono<br>- Win vs. B: Masahiro Chono vs. Joe Coffey<br>- Win vs. B: Dijak vs. Masahiro Chono<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. B: Masahiro Chono vs. Triple H |
+| <img src="/img/charts/masahiro-chono_stats.png" width="200"> | **✅✅❌❌**<br>❌ **Triple H** beat Masahiro Chono at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br>❌ **Claudio Castagnoli** beat Masahiro Chono at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br>✅ **Masahiro Chono** beat Joe Coffey at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br>✅ **Masahiro Chono** beat Dijak at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. B: Masahiro Chono vs. Triple H |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (1x)

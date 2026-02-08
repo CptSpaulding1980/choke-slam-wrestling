@@ -25,7 +25,7 @@ avg_rating: 69.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mike-sharpe_stats.png" width="200"> | **❌**<br>- Loss vs. Iron Grappling 2: Mike Sharpe vs. Steve Austin<br> | **Nemesis:** [[Wrestler/Steve Austin\|Steve Austin]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 69% vs. Iron Grappling 2: Mike Sharpe vs. Steve Austin |
+| <img src="/img/charts/mike-sharpe_stats.png" width="200"> | **❌**<br>❌ **Steve Austin** beat Mike Sharpe at [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] - 2025-09-04<br> | **Nemesis:** [[Wrestler/Steve Austin\|Steve Austin]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 69% vs. Iron Grappling 2: Mike Sharpe vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/Steve Austin\|Steve Austin]] (1x)

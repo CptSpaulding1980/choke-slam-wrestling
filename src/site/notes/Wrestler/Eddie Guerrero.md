@@ -25,7 +25,7 @@ avg_rating: 86.73
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/eddie-guerrero_stats.png" width="200"> | **⚪️✅✅✅❌**<br>- Loss vs. Saint Rebel Radicalz vs. Batista & Eddie Guerrero<br>- Win vs. Nature Game Masters  vs. Militanter Mummenschanz<br>- Win vs. Nature Game Masters  vs. Militanter Mummenschanz<br>- Win vs. Nature Game Masters  vs. The Shield<br>- Draw vs. Thunder Queen Battle: Hulk Hogan vs. Eddie Guerrero<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Gunther\|Gunther]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
+| <img src="/img/charts/eddie-guerrero_stats.png" width="200"> | **⚪️✅✅✅❌**<br>❌ **Roman Reigns, Tetsuya Naito** beat Eddie Guerrero at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br>✅ **Eddie Guerrero** beat Jay White, Jonathan Gresham, Hulk Hogan at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>✅ **Eddie Guerrero** beat Bret Hart, CM Punk, Miro at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>✅ **Eddie Guerrero** beat Jon Moxley, Roman Reigns, Seth Rollins at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>⚪️ **Eddie Guerrero** drew with nan at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Gunther\|Gunther]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)

@@ -25,7 +25,7 @@ avg_rating: 89.12
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/chris-benoit_stats.png" width="200"> | **✅⚪️❌✅❌**<br>- Loss vs. Chris Benoit vs. Tommaso Ciampa vs. Roman Reigns<br>- Win vs. Chris Benoit vs. Edge vs. Steve Austin<br>- Loss vs. Chris Benoit vs. Daniel Bryan vs. Sasha Banks<br>- Draw vs. Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido<br>- Win vs. 1/8 Finals: Bandido vs. Chris Benoit<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/chris-benoit_stats.png" width="200"> | **✅⚪️❌✅❌**<br>❌ **Roman Reigns** beat Chris Benoit at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>✅ **Chris Benoit** beat Edge, Steve Austin at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>❌ **Daniel Bryan** beat Chris Benoit at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>⚪️ **Chris Benoit** drew with nan at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>✅ **Chris Benoit** beat Bandido at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Edge\|Edge]] (3x)

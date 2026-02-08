@@ -25,7 +25,7 @@ avg_rating: 82.58
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/wardlow_stats.png" width="200"> | **❌❌✅⚪️⚪️**<br>- Draw vs. Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite<br>- Draw vs. Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz<br>- Win vs. Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz<br>- Loss vs. Bret Hart & Owen Hart vs. Militanter Mummenschanz<br>- Loss vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/wardlow_stats.png" width="200"> | **❌❌✅⚪️⚪️**<br>⚪️ **Wardlow** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>⚪️ **Wardlow** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>✅ **Wardlow** beat Dominik Mysterio, Finn Bálor at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Bret Hart, Owen Hart** beat Wardlow at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Brock Lesnar, Chris Jericho** beat Wardlow at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Edge\|Edge]] (6x)

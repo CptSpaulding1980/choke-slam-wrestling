@@ -25,7 +25,7 @@ avg_rating: 81.75
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ilja-dragunov_stats.png" width="200"> | **❌⚪️✅❌**<br>- Loss vs. EC3 vs. Ilja Dragunov<br>- Win vs. Ilja Dragunov vs. Rey Mysterio Jr.<br>- Draw vs. Consequences Creed vs. Chris Hero vs. Ilja Dragunov vs. Bryan Danielson vs. Tyler Bate<br>- Loss vs. <85 kg: Ilja Dragunov vs. KUSHIDA <br> | **Nemesis:** [[Wrestler/KUSHIDA\|KUSHIDA]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 89% vs. <85 kg: Ilja Dragunov vs. KUSHIDA  |
+| <img src="/img/charts/ilja-dragunov_stats.png" width="200"> | **❌⚪️✅❌**<br>❌ **EC3** beat Ilja Dragunov at [[Events/2021-12-28 - S04E05_UFC\|S04E05_UFC]] - 2021-12-28<br>✅ **Ilja Dragunov** beat Rey Mysterio Jr. at [[Events/2021-12-28 - S04E05_UFC\|S04E05_UFC]] - 2021-12-28<br>⚪️ **Ilja Dragunov** drew with nan at [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] - 2021-11-01<br>❌ **KUSHIDA** beat Ilja Dragunov at [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|S04E04_Admiral Lordevans Rules!]] - 2021-10-17<br> | **Nemesis:** [[Wrestler/KUSHIDA\|KUSHIDA]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 89% vs. <85 kg: Ilja Dragunov vs. KUSHIDA  |
 
 ## Häufigste Gegner
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)

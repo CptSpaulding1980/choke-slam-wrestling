@@ -25,7 +25,7 @@ avg_rating: 82.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/wade-barrett_stats.png" width="200"> | **❌✅❌✅✅**<br>- Win vs. Alex Wright vs. Wade Barrett<br>- Win vs. Miro vs. Wade Barrett<br>- Loss vs. Randy Savage vs. Wade Barrett<br>- Win vs. Carat First Round: William Regal vs. Wade Barrett<br>- Loss vs. Carat Second Round: Randy Savage vs. Wade Barrett<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 90% vs. Carat First Round: William Regal vs. Wade Barrett |
+| <img src="/img/charts/wade-barrett_stats.png" width="200"> | **❌✅❌✅✅**<br>✅ **Wade Barrett** beat Alex Wright at [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] - 2023-04-03<br>✅ **Wade Barrett** beat Miro at [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] - 2023-04-03<br>❌ **Randy Savage** beat Wade Barrett at [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] - 2023-04-03<br>✅ **Wade Barrett** beat William Regal at [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] - 2023-03-29<br>❌ **Randy Savage** beat Wade Barrett at [[Events/2023-03-29 - S05E03_Europa - Day 2\|S05E03_Europa - Day 2]] - 2023-03-29<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 90% vs. Carat First Round: William Regal vs. Wade Barrett |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (2x)

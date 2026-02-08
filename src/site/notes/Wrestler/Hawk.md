@@ -25,7 +25,7 @@ avg_rating: 82.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/hawk_stats.png" width="200"> | **⚪️❌❌⚪️✅**<br>- Win vs. Ridge Holland & Brody King vs. Hulk Hogan & Hawk<br>- Draw vs. Hulk Hogan & Hawk vs. Davey Boy Smith & Sami Zayn<br>- Loss vs. Hulk Hogan & Hawk vs. Brandon & Miro<br>- Loss vs. Sami Zayn vs. Davey Boy Smith vs. Brody King vs. Ridge Holland vs. Hawk vs. Hulk Hogan<br>- Draw vs. Gigi Dolin vs. Grayson Waller vs. Davey Boy Smith vs. Hulk Hogan vs. Sami Zayn vs. Hawk vs. Ridge Holland<br> | **Nemesis:** [[Wrestler/Ridge Holland\|Ridge Holland]]<br>**Partner:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Best Match:** 92% vs. Hulk Hogan & Hawk vs. Brandon & Miro |
+| <img src="/img/charts/hawk_stats.png" width="200"> | **⚪️❌❌⚪️✅**<br>✅ **Hawk** beat Ridge Holland, Brody King at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br>⚪️ **Hawk** drew with nan at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br>❌ **Brandon, Miro** beat Hawk at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br>❌ **Brody King** beat Hawk at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br>⚪️ **Hawk** drew with nan at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br> | **Nemesis:** [[Wrestler/Ridge Holland\|Ridge Holland]]<br>**Partner:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Best Match:** 92% vs. Hulk Hogan & Hawk vs. Brandon & Miro |
 
 ## Häufigste Gegner
 - [[Wrestler/Ridge Holland\|Ridge Holland]] (2x)

@@ -25,7 +25,7 @@ avg_rating: 89.04
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/grayson-waller_stats.png" width="200"> | **❌❌⚪️✅❌**<br>- Loss vs. Choke Slam Tag Team Championship: Bret Hart & Jon Moxley vs. Saint Rebel Radicalz<br>- Win vs. Dune (2 vs 4 Handicap): Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Draw vs. Dune (2 vs 4 Handicap): Saint Rebel Radicalz vs. Militanter Mummenschanz<br>- Loss vs. Saint Rebel Radicalz vs. Sweet 'n Sour Elite<br>- Loss vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Brandon\|Brandon]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/grayson-waller_stats.png" width="200"> | **❌❌⚪️✅❌**<br>❌ **Bret Hart, Jon Moxley** beat Grayson Waller at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br>✅ **Grayson Waller** beat Jay White, Jonathan Gresham at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br>⚪️ **Grayson Waller** drew with AJ Styles, CM Punk, Miro, Thea Hail at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br>❌ **Jon Moxley, Seth Rollins** beat Grayson Waller at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br>❌ **Jon Moxley, Seth Rollins** beat Grayson Waller at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Brandon\|Brandon]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (7x)

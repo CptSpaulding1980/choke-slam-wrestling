@@ -25,7 +25,7 @@ avg_rating: 78.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/xanta-claus_stats.png" width="200"> | **❌✅❌**<br>- Loss vs. KUSHIDA vs. Xanta Claus<br>- Win vs. Tatum Paxley vs. Xanta Claus<br>- Loss vs. Tetsuya Naito vs. Xanta Claus<br> | **Nemesis:** [[Wrestler/KUSHIDA\|KUSHIDA]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 81% vs. Tatum Paxley vs. Xanta Claus |
+| <img src="/img/charts/xanta-claus_stats.png" width="200"> | **❌✅❌**<br>❌ **KUSHIDA** beat Xanta Claus at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br>✅ **Xanta Claus** beat Tatum Paxley at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br>❌ **Tetsuya Naito** beat Xanta Claus at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br> | **Nemesis:** [[Wrestler/KUSHIDA\|KUSHIDA]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 81% vs. Tatum Paxley vs. Xanta Claus |
 
 ## Häufigste Gegner
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)

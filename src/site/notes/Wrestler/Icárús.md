@@ -26,7 +26,7 @@ avg_rating: 96.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/icrs_stats.png" width="200"> | **⚪️**<br>- Draw vs. Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús <br> | **Nemesis:** [[Wrestler/Davey Boy Smith\|Davey Boy Smith]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 96% vs. Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  |
+| <img src="/img/charts/icrs_stats.png" width="200"> | **⚪️**<br>⚪️ **Icárús** drew with nan at [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] - 2023-04-03<br> | **Nemesis:** [[Wrestler/Davey Boy Smith\|Davey Boy Smith]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 96% vs. Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  |
 
 ## Häufigste Gegner
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)

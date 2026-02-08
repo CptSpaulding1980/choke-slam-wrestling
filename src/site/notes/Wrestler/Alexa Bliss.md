@@ -25,7 +25,7 @@ avg_rating: 87.38
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/alexa-bliss_stats.png" width="200"> | **❌✅✅❌❌**<br>- Loss vs. Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c)<br>- Loss vs. AJ Styles vs. Saint Rebel Radicalz<br>- Win vs. Randy Savage vs. Saint Rebel Radicalz<br>- Win vs. Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c)<br>- Loss vs. Saint Rebel Radicalz vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/alexa-bliss_stats.png" width="200"> | **❌✅✅❌❌**<br>❌ **Tiffany Stratton** beat Alexa Bliss at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **AJ Styles** beat Alexa Bliss at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br>✅ **Alexa Bliss** beat Randy Savage at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br>✅ **Alexa Bliss** beat Shayna Baszler at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br>❌ **Jon Moxley, Seth Rollins** beat Alexa Bliss at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (5x)

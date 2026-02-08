@@ -25,7 +25,7 @@ avg_rating: 74.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/till-lindemann_stats.png" width="200"> | **✅❌✅**<br>- Win vs. Militanter Mummenschanz vs. Till Lindemann, James Hetfield, & Rob Halford<br>- Loss vs. Sweet 'n Sour Elite vs. Till Lindemann, James Hetfield, & Rob Halford<br>- Win vs. Saint Rebel Radicalz vs. Till Lindemann, James Hetfield, & Rob Halford<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/James Hetfield\|James Hetfield]]<br>**Best Match:** 80% vs. Militanter Mummenschanz vs. Till Lindemann, James Hetfield, & Rob Halford |
+| <img src="/img/charts/till-lindemann_stats.png" width="200"> | **✅❌✅**<br>✅ **Till Lindemann** beat EC3, Killer Kelly, Kevin Steen at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>❌ **Hendrique Delafuente, Triple H, Big Van Vader** beat Till Lindemann at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>✅ **Till Lindemann** beat Aoife Valkyrie, Shawn Michaels, Chris Hero at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/James Hetfield\|James Hetfield]]<br>**Best Match:** 80% vs. Militanter Mummenschanz vs. Till Lindemann, James Hetfield, & Rob Halford |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

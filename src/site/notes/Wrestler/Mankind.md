@@ -25,7 +25,7 @@ avg_rating: 79.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mankind_stats.png" width="200"> | **❌**<br>- Loss vs. Me, Myself and I - Duo (Hendrik)<br> | **Nemesis:** [[Wrestler/Rush\|Rush]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 79% vs. Me, Myself and I - Duo (Hendrik) |
+| <img src="/img/charts/mankind_stats.png" width="200"> | **❌**<br>❌ **Rush** beat Mankind at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Rush\|Rush]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 79% vs. Me, Myself and I - Duo (Hendrik) |
 
 ## Häufigste Gegner
 - [[Wrestler/Rush\|Rush]] (1x)

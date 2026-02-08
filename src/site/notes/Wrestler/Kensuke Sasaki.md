@@ -25,7 +25,7 @@ avg_rating: 86.84
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kensuke-sasaki_stats.png" width="200"> | **✅✅✅❌✅**<br>- Win vs. Kensuke Sasaki vs. Lady Apache vs. Bandido<br>- Loss vs. Wardlow vs. Kensuke Sasaki vs. Jay White<br>- Win vs. Bam Bam Bigelow vs. Kensuke Sasaki vs. Bret Hart<br>- Win vs. Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c)<br>- Win vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Wardlow\|Wardlow]]<br>**Partner:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/kensuke-sasaki_stats.png" width="200"> | **✅✅✅❌✅**<br>✅ **Kensuke Sasaki** beat Lady Apache, Bandido at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>❌ **Wardlow** beat Kensuke Sasaki at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>✅ **Kensuke Sasaki** beat Bam Bam Bigelow, Bret Hart at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>✅ **Kensuke Sasaki** beat Daniel Bryan, Wardlow at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>✅ **Kensuke Sasaki** beat Daniel Bryan, Lex Luger, Wardlow at [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] - 2025-10-02<br> | **Nemesis:** [[Wrestler/Wardlow\|Wardlow]]<br>**Partner:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Wardlow\|Wardlow]] (6x)

@@ -25,7 +25,7 @@ avg_rating: 100.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mikey-whipwreck_stats.png" width="200"> | **❌**<br>- Loss vs. Hardcore Title Tournament Semi Finals<br> | **Nemesis:** [[Wrestler/Alexa Bliss\|Alexa Bliss]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 100% vs. Hardcore Title Tournament Semi Finals |
+| <img src="/img/charts/mikey-whipwreck_stats.png" width="200"> | **❌**<br>❌ **Alexa Bliss** beat Mikey Whipwreck at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br> | **Nemesis:** [[Wrestler/Alexa Bliss\|Alexa Bliss]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 100% vs. Hardcore Title Tournament Semi Finals |
 
 ## Häufigste Gegner
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (1x)

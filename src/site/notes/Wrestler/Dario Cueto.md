@@ -25,7 +25,7 @@ avg_rating: 60.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dario-cueto_stats.png" width="200"> | **⚪️**<br>- Draw vs. Interview Segment /w Dario Cueto & Mr. Fuji<br> | **Nemesis:** [[Wrestler/Mr. Fuji\|Mr. Fuji]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 60% vs. Interview Segment /w Dario Cueto & Mr. Fuji |
+| <img src="/img/charts/dario-cueto_stats.png" width="200"> | **⚪️**<br>⚪️ **Dario Cueto** drew with nan at [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] - 2023-04-19<br> | **Nemesis:** [[Wrestler/Mr. Fuji\|Mr. Fuji]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 60% vs. Interview Segment /w Dario Cueto & Mr. Fuji |
 
 ## Häufigste Gegner
 - [[Wrestler/Mr. Fuji\|Mr. Fuji]] (1x)

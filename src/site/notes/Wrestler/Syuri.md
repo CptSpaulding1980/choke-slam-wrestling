@@ -25,7 +25,7 @@ avg_rating: 67.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/syuri_stats.png" width="200"> | **❌**<br>- Loss vs. Womens Quarter Finals: Sasha Banks vs. Syuri<br> | **Nemesis:** [[Wrestler/Sasha Banks\|Sasha Banks]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 67% vs. Womens Quarter Finals: Sasha Banks vs. Syuri |
+| <img src="/img/charts/syuri_stats.png" width="200"> | **❌**<br>❌ **Sasha Banks** beat Syuri at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br> | **Nemesis:** [[Wrestler/Sasha Banks\|Sasha Banks]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 67% vs. Womens Quarter Finals: Sasha Banks vs. Syuri |
 
 ## Häufigste Gegner
 - [[Wrestler/Sasha Banks\|Sasha Banks]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 91.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jimmy-uso_stats.png" width="200"> | **⚪️**<br>- Draw vs. Exhibition 2 - Bloodier than the Line<br> | **Nemesis:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 91% vs. Exhibition 2 - Bloodier than the Line |
+| <img src="/img/charts/jimmy-uso_stats.png" width="200"> | **⚪️**<br>⚪️ **Jimmy Uso** drew with nan at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 91% vs. Exhibition 2 - Bloodier than the Line |
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 88.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/universo-2000_stats.png" width="200"> | **❌**<br>- Loss vs. Inferno en el Ring: Austin Aries vs. Randy Savage vs. Hulk Hogan vs. Universo 2000<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Austin Aries\|Austin Aries]]<br>**Best Match:** 88% vs. Inferno en el Ring: Austin Aries vs. Randy Savage vs. Hulk Hogan vs. Universo 2000 |
+| <img src="/img/charts/universo-2000_stats.png" width="200"> | **❌**<br>❌ **Randy Savage** beat Universo 2000 at [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] - 2023-08-22<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Austin Aries\|Austin Aries]]<br>**Best Match:** 88% vs. Inferno en el Ring: Austin Aries vs. Randy Savage vs. Hulk Hogan vs. Universo 2000 |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)

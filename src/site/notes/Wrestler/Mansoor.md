@@ -25,7 +25,7 @@ avg_rating: 88.73
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mansoor_stats.png" width="200"> | **✅❌✅❌❌**<br>- Loss vs. Drew Gulak & Mansoor vs. Diesel & AJ Styles<br>- Loss vs. Mansoor & Mustafa Ali vs. Militanter Mummenschanz<br>- Win vs. Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite<br>- Loss vs. Mansoor & Mustafa Ali vs. Saint Rebel Radicalz<br>- Win vs. KENTA vs. Mansoor<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Mustafa Ali\|Mustafa Ali]]<br>**Best Match:** 100% vs. Angélico & Mansoor vs. Militanter Mummenschanz |
+| <img src="/img/charts/mansoor_stats.png" width="200"> | **✅❌✅❌❌**<br>❌ **Diesel, AJ Styles** beat Mansoor at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br>❌ **Consequences Creed, Jeff Jarrett** beat Mansoor at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>✅ **Mansoor** beat Rush, Eddie Edwards at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>❌ **Christian Cage, Randy Savage** beat Mansoor at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>✅ **Mansoor** beat KENTA at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Mustafa Ali\|Mustafa Ali]]<br>**Best Match:** 100% vs. Angélico & Mansoor vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (3x)

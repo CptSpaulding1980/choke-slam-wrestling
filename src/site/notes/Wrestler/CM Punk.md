@@ -25,7 +25,7 @@ avg_rating: 86.13
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/cm-punk_stats.png" width="200"> | **❌❌⚪️⚪️✅**<br>- Win vs. Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles<br>- Draw vs. Royal Rumble<br>- Draw vs. Big Van Vader Memorial Battle Royal<br>- Loss vs. Nature Game Masters  vs. Militanter Mummenschanz<br>- Loss vs. Killshot, Edge, & KENTA vs. Militanter Mummenschanz<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Thea Hail\|Thea Hail]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/cm-punk_stats.png" width="200"> | **❌❌⚪️⚪️✅**<br>✅ **CM Punk** beat Kiana James, Laredo Kid, The Rock, Roman Reigns at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **CM Punk** drew with nan at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **CM Punk** drew with nan at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **Bryan Danielson, Eddie Guerrero, Gunther** beat CM Punk at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **Killshot, Edge, KENTA** beat CM Punk at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Thea Hail\|Thea Hail]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)

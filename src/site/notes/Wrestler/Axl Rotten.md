@@ -25,7 +25,7 @@ avg_rating: 91.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/axl-rotten_stats.png" width="200"> | **❌✅❌**<br>- Loss vs. Axl Rotten & Ian Rotten vs. Miro & Sabu<br>- Win vs. Axl Rotten & Ian Rotten vs. Bull Nakano & Rob Van Dam<br>- Loss vs. Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Ian Rotten\|Ian Rotten]]<br>**Best Match:** 99% vs. Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer |
+| <img src="/img/charts/axl-rotten_stats.png" width="200"> | **❌✅❌**<br>❌ **Miro, Sabu** beat Axl Rotten at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>✅ **Axl Rotten** beat Bull Nakano, Rob Van Dam at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>❌ **Hulk Hogan, Tommy Dreamer** beat Axl Rotten at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Ian Rotten\|Ian Rotten]]<br>**Best Match:** 99% vs. Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer |
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (1x)

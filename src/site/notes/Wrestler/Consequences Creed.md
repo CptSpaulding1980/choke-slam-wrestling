@@ -25,7 +25,7 @@ avg_rating: 83.07
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/consequences-creed_stats.png" width="200"> | **❌❌✅⚪️✅**<br>- Win vs. Consequences Creed vs. Chris Hero vs. Ilja Dragunov vs. Bryan Danielson vs. Tyler Bate<br>- Draw vs. The Greatest Royal Rumble<br>- Win vs. Mansoor & Mustafa Ali vs. Militanter Mummenschanz<br>- Loss vs. <95 kg: Consequences Creed vs. Kota Ibushi<br>- Loss vs. <95 kg: Consequences Creed vs. Rush<br> | **Nemesis:** [[Wrestler/Eddie Edwards\|Eddie Edwards]]<br>**Partner:** [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]]<br>**Best Match:** 99% vs. Saint Rebel Radicalz vs. Militanter Mummenschanz |
+| <img src="/img/charts/consequences-creed_stats.png" width="200"> | **❌❌✅⚪️✅**<br>✅ **Consequences Creed** beat nan at [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] - 2021-11-01<br>⚪️ **Consequences Creed** drew with nan at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>✅ **Consequences Creed** beat Mansoor, Mustafa Ali at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>❌ **Kota Ibushi** beat Consequences Creed at [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|S04E04_Admiral Lordevans Rules!]] - 2021-10-17<br>❌ **Rush** beat Consequences Creed at [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|S04E04_Admiral Lordevans Rules!]] - 2021-10-17<br> | **Nemesis:** [[Wrestler/Eddie Edwards\|Eddie Edwards]]<br>**Partner:** [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]]<br>**Best Match:** 99% vs. Saint Rebel Radicalz vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (3x)

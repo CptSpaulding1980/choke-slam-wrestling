@@ -25,7 +25,7 @@ avg_rating: 92.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/timothy-thatcher_stats.png" width="200"> | **⚪️✅❌✅**<br>- Win vs. Killshot vs. Timothy Thatcher<br>- Loss vs. Thunder Rosa vs. Timothy Thatcher<br>- Win vs. Bob Backlund vs. Timothy Thatcher<br>- Draw vs. Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega<br> | **Nemesis:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Bob Backlund vs. Timothy Thatcher |
+| <img src="/img/charts/timothy-thatcher_stats.png" width="200"> | **⚪️✅❌✅**<br>✅ **Timothy Thatcher** beat Killshot at [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] - 2020-10-13<br>❌ **Thunder Rosa** beat Timothy Thatcher at [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] - 2020-10-13<br>✅ **Timothy Thatcher** beat Bob Backlund at [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] - 2020-10-13<br>⚪️ **Timothy Thatcher** drew with nan at [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] - 2020-06-08<br> | **Nemesis:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Bob Backlund vs. Timothy Thatcher |
 
 ## Häufigste Gegner
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (1x)

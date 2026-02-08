@@ -25,7 +25,7 @@ avg_rating: 87.31
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/cesaro_stats.png" width="200"> | **⚪️❌✅✅❌**<br>- Loss vs. Kane vs. Cesaro <br>- Win vs. Tetsuya Naito vs. Cesaro <br>- Win vs. Cesaro  vs. Jushin Liger<br>- Loss vs. Cesaro  vs. Bob Backlund<br>- Draw vs. Andre the Giant Memorial Battle Royal<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Angélico\|Angélico]]<br>**Best Match:** 100% vs. Angélico & Mansoor vs. Militanter Mummenschanz |
+| <img src="/img/charts/cesaro_stats.png" width="200"> | **⚪️❌✅✅❌**<br>❌ **Kane** beat Cesaro at [[Events/2021-03-09 - S03E06_Swiss Bliss - Return of the King\|S03E06_Swiss Bliss - Return of the King]] - 2021-03-09<br>✅ **Cesaro** beat Tetsuya Naito at [[Events/2021-03-09 - S03E06_Swiss Bliss - A New Hope\|S03E06_Swiss Bliss - A New Hope]] - 2021-03-09<br>✅ **Cesaro** beat Jushin Liger at [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] - 2021-02-25<br>❌ **Bob Backlund** beat Cesaro at [[Events/2021-02-25 - S03E06_Swiss Bliss - Tokyo Drift\|S03E06_Swiss Bliss - Tokyo Drift]] - 2021-02-25<br>⚪️ **Cesaro** drew with nan at [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] - 2020-09-07<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Angélico\|Angélico]]<br>**Best Match:** 100% vs. Angélico & Mansoor vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)

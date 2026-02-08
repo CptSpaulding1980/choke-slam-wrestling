@@ -25,7 +25,7 @@ avg_rating: 93.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ethan-page_stats.png" width="200"> | **✅⚪️❌**<br>- Loss vs. Elimination Chamber<br>- Draw vs. Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c)<br>- Win vs. Exhibition 1 - Cage Match<br> | **Nemesis:** [[Wrestler/nan\|nan]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 98% vs. Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) |
+| <img src="/img/charts/ethan-page_stats.png" width="200"> | **✅⚪️❌**<br>❌ **Sean Waltman** beat Ethan Page at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br>⚪️ **Ethan Page** drew with nan at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>✅ **Ethan Page** beat nan at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/nan\|nan]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 98% vs. Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/nan\|nan]] (1x)

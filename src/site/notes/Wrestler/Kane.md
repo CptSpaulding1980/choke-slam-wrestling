@@ -25,7 +25,7 @@ avg_rating: 85.72
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kane_stats.png" width="200"> | **❌⚪️❌❌❌**<br>- Loss vs. AJ Styles vs. Kane<br>- Loss vs. Hollywood Hogan vs. Kane<br>- Loss vs. Jon Moxley vs. Kane<br>- Draw vs. Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c)<br>- Loss vs. Choke Slam World Championship: Kane vs. Bob Backlund (c)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Jushin Liger\|Jushin Liger]]<br>**Best Match:** 100% vs. Iron Man: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/kane_stats.png" width="200"> | **❌⚪️❌❌❌**<br>❌ **AJ Styles** beat Kane at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>❌ **Hollywood Hogan** beat Kane at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>❌ **Jon Moxley** beat Kane at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>⚪️ **Kane** drew with nan at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>❌ **Bob Backlund** beat Kane at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Jushin Liger\|Jushin Liger]]<br>**Best Match:** 100% vs. Iron Man: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (9x)

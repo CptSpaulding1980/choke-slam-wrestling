@@ -25,7 +25,7 @@ avg_rating: 84.7
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sami-zayn_stats.png" width="200"> | **⚪️⚪️⚪️✅⚪️**<br>- Draw vs. Reveal Rumble<br>- Win vs. Path of God vs. André The Giant & Sami Zayn<br>- Draw vs. Rumble<br>- Draw vs. Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King<br>- Draw vs. Hulk Hogan & Hawk vs. Davey Boy Smith & Sami Zayn<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Davey Boy Smith\|Davey Boy Smith]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/sami-zayn_stats.png" width="200"> | **⚪️⚪️⚪️✅⚪️**<br>⚪️ **Sami Zayn** drew with nan at [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] - 2025-06-03<br>✅ **Sami Zayn** beat KUSHIDA, Hiroshi Tanahashi at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br>⚪️ **Sami Zayn** drew with nan at [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] - 2024-02-15<br>⚪️ **Sami Zayn** drew with nan at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br>⚪️ **Sami Zayn** drew with nan at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Davey Boy Smith\|Davey Boy Smith]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)

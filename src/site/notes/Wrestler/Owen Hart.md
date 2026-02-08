@@ -25,7 +25,7 @@ avg_rating: 90.71
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/owen-hart_stats.png" width="200"> | **✅✅✅✅✅**<br>- Win vs. Bret Hart & Owen Hart vs. Sweet 'n Sour Elite<br>- Win vs. Bret Hart & Owen Hart vs. Militanter Mummenschanz<br>- Win vs. Bret Hart & Owen Hart vs. Sweet 'n Sour Elite<br>- Win vs. Dalton Castle & Dr. Wagner Jr. vs. Bret Hart & Owen Hart<br>- Win vs. Bret Hart & Owen Hart vs. Dudes with Attitudes<br> | **Nemesis:** [[Wrestler/Diesel\|Diesel]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 98% vs. Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/owen-hart_stats.png" width="200"> | **✅✅✅✅✅**<br>✅ **Owen Hart** beat Adam Page, Steve Austin at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Owen Hart** beat Lady Apache, Wardlow at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Owen Hart** beat Akira Taue, KONOSUKE TAKESHITA at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Owen Hart** beat Dalton Castle, Dr. Wagner Jr. at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br>✅ **Owen Hart** beat Diesel, Shawn Michaels at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br> | **Nemesis:** [[Wrestler/Diesel\|Diesel]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 98% vs. Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Diesel\|Diesel]] (5x)

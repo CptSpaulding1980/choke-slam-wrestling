@@ -25,7 +25,7 @@ avg_rating: 83.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/anthony-bowens_stats.png" width="200"> | **❌❌❌**<br>- Loss vs. Militanter Mummenschanz vs. Max Caster & Anthony Bowens<br>- Loss vs. Sweet 'n Sour Elite vs. Max Caster & Anthony Bowens<br>- Loss vs. Saint Rebel Radicalz vs. Max Caster & Anthony Bowens<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Max Caster\|Max Caster]]<br>**Best Match:** 89% vs. Militanter Mummenschanz vs. Max Caster & Anthony Bowens |
+| <img src="/img/charts/anthony-bowens_stats.png" width="200"> | **❌❌❌**<br>❌ **Bob Backlund, EC3** beat Anthony Bowens at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>❌ **Big Van Vader, Triple H** beat Anthony Bowens at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>❌ **Shawn Michaels, Sting** beat Anthony Bowens at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Max Caster\|Max Caster]]<br>**Best Match:** 89% vs. Militanter Mummenschanz vs. Max Caster & Anthony Bowens |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

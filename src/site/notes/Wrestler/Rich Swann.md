@@ -25,7 +25,7 @@ avg_rating: 95.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/rich-swann_stats.png" width="200"> | **⚪️**<br>- Draw vs. Andre The Giant Memorial Battle Royal<br> | **Nemesis:** [[Wrestler/Teoman\|Teoman]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 95% vs. Andre The Giant Memorial Battle Royal |
+| <img src="/img/charts/rich-swann_stats.png" width="200"> | **⚪️**<br>⚪️ **Rich Swann** drew with nan at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br> | **Nemesis:** [[Wrestler/Teoman\|Teoman]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 95% vs. Andre The Giant Memorial Battle Royal |
 
 ## Häufigste Gegner
 - [[Wrestler/Teoman\|Teoman]] (2x)

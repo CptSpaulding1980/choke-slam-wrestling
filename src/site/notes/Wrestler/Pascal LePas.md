@@ -25,7 +25,7 @@ avg_rating: 92.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/pascal-lepas_stats.png" width="200"> | **❌❌⚪️⚪️⚪️**<br>- Draw vs. Oerel Bardahl<br>- Draw vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente<br>- Draw vs. What if... Battle Royal<br>- Loss vs. Saint Rebel Radicalz vs. Dink  & Hornswoggle<br>- Loss vs. Threeway Fiasko<br> | **Nemesis:** [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]]<br>**Partner:** [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]]<br>**Best Match:** 100% vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente |
+| <img src="/img/charts/pascal-lepas_stats.png" width="200"> | **❌❌⚪️⚪️⚪️**<br>⚪️ **Pascal LePas** drew with nan at [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] - 2025-08-21<br>⚪️ **Pascal LePas** drew with nan at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>⚪️ **Pascal LePas** drew with nan at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br>❌ **Dink, Hornswoggle** beat Pascal LePas at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br>❌ **Philipp Brunkovic** beat Pascal LePas at [[Events/2022-06-28 - S04E09_Royal Rumble\|S04E09_Royal Rumble]] - 2022-06-28<br> | **Nemesis:** [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]]<br>**Partner:** [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]]<br>**Best Match:** 100% vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente |
 
 ## Häufigste Gegner
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)

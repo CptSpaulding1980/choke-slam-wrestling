@@ -25,7 +25,7 @@ avg_rating: 92.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/road-dogg_stats.png" width="200"> | **❌❌✅**<br>- Win vs. Billy Gunn & Road Dogg vs. Big E & Kofi Kingston<br>- Loss vs. Mosh & Thrasher vs. Billy Gunn & Road Dogg<br>- Loss vs. Billy Gunn & Road Dogg vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Big E\|Big E]]<br>**Partner:** [[Wrestler/Billy Gunn\|Billy Gunn]]<br>**Best Match:** 94% vs. Billy Gunn & Road Dogg vs. Big E & Kofi Kingston |
+| <img src="/img/charts/road-dogg_stats.png" width="200"> | **❌❌✅**<br>✅ **Road Dogg** beat Big E, Kofi Kingston at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Mosh, Thrasher** beat Road Dogg at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Akira Taue, KONOSUKE TAKESHITA** beat Road Dogg at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br> | **Nemesis:** [[Wrestler/Big E\|Big E]]<br>**Partner:** [[Wrestler/Billy Gunn\|Billy Gunn]]<br>**Best Match:** 94% vs. Billy Gunn & Road Dogg vs. Big E & Kofi Kingston |
 
 ## Häufigste Gegner
 - [[Wrestler/Big E\|Big E]] (1x)

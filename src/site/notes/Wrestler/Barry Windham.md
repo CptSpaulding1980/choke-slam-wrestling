@@ -25,7 +25,7 @@ avg_rating: 90.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/barry-windham_stats.png" width="200"> | **❌❌❌**<br>- Loss vs. War Games: Saint Rebel Radicalz vs. Four Horsemen<br>- Loss vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim<br>- Loss vs. Barry Windham & Gail Kim vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Aero Star\|Aero Star]]<br>**Partner:** [[Wrestler/Gail Kim\|Gail Kim]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
+| <img src="/img/charts/barry-windham_stats.png" width="200"> | **❌❌❌**<br>❌ **Alexa Bliss, Brandon, Hulk Hogan, Seth Rollins** beat Barry Windham at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br>❌ **Aero Star, Eddie Guerrero** beat Barry Windham at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br>❌ **Bob Backlund, Dustin Rhodes** beat Barry Windham at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br> | **Nemesis:** [[Wrestler/Aero Star\|Aero Star]]<br>**Partner:** [[Wrestler/Gail Kim\|Gail Kim]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
 
 ## Häufigste Gegner
 - [[Wrestler/Aero Star\|Aero Star]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 83.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/drew-mcintyre_stats.png" width="200"> | **❌✅✅⚪️**<br>- Draw vs. Greatest Rumble ever<br>- Win vs. Britt Baker vs. Drew McIntyre<br>- Win vs. Tetsuya Naito vs. Drew McIntyre<br>- Loss vs. Kazuchika Okada vs. Drew McIntyre<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Tetsuya Naito vs. Drew McIntyre |
+| <img src="/img/charts/drew-mcintyre_stats.png" width="200"> | **❌✅✅⚪️**<br>⚪️ **Drew McIntyre** drew with nan at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br>✅ **Drew McIntyre** beat Britt Baker at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br>✅ **Drew McIntyre** beat Tetsuya Naito at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br>❌ **Kazuchika Okada** beat Drew McIntyre at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Tetsuya Naito vs. Drew McIntyre |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)

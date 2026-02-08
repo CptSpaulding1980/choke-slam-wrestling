@@ -25,7 +25,7 @@ avg_rating: 86.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/the-rock_stats.png" width="200"> | **❌✅⚪️❌❌**<br>- Loss vs. The Rock vs. Zack Sabre Jr.<br>- Loss vs. Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles<br>- Draw vs. Royal Rumble<br>- Win vs. Mystery vs. Cactus Jack<br>- Loss vs. Roman Reigns vs. Mystery<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Best Match:** 99% vs. Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin |
+| <img src="/img/charts/the-rock_stats.png" width="200"> | **❌✅⚪️❌❌**<br>❌ **Zack Sabre Jr.** beat The Rock at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>❌ **Thea Hail, Miro, CM Punk, AJ Styles** beat The Rock at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **The Rock** drew with nan at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>✅ **The Rock** beat Cactus Jack at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br>❌ **Roman Reigns** beat The Rock at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Best Match:** 99% vs. Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)

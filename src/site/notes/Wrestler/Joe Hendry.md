@@ -25,7 +25,7 @@ avg_rating: 86.25
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/joe-hendry_stats.png" width="200"> | **✅⚪️✅⚪️❌**<br>- Loss vs. Sweet 'n Sour Elite vs. Diesel & Randy Savage<br>- Draw vs. Sheik Invitational Rumble incl. Sabu<br>- Win vs. I got 4 on it<br>- Draw vs. Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c)<br>- Win vs. Handicap: Sweet 'n Sour Elite (Hendry & Paxley) vs. Bandido<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]<br>**Best Match:** 99% vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz |
+| <img src="/img/charts/joe-hendry_stats.png" width="200"> | **✅⚪️✅⚪️❌**<br>❌ **Diesel, Randy Savage** beat Joe Hendry at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br>⚪️ **Joe Hendry** drew with nan at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br>✅ **Joe Hendry** beat Finn Bálor, Fallon Henley, KUSHIDA, Randy Savage at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br>⚪️ **Joe Hendry** drew with nan at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br>✅ **Joe Hendry** beat Bandido at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]<br>**Best Match:** 99% vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)

@@ -25,7 +25,7 @@ avg_rating: 75.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dude-love_stats.png" width="200"> | **❌**<br>- Loss vs. Me, Myself and I - Tre (Hendrik)<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 75% vs. Me, Myself and I - Tre (Hendrik) |
+| <img src="/img/charts/dude-love_stats.png" width="200"> | **❌**<br>❌ **Big Van Vader** beat Dude Love at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 75% vs. Me, Myself and I - Tre (Hendrik) |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)

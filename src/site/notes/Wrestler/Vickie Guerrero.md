@@ -25,7 +25,7 @@ avg_rating: 81.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/vickie-guerrero_stats.png" width="200"> | **✅❌❌⚪️**<br>- Draw vs. Womens Royal Rumble<br>- Loss vs. Killer Kelly vs. Vickie Guerrero & Teddy Long<br>- Loss vs. Madison Rayne vs. Vickie Guerrero & Teddy Long<br>- Win vs. Aoife Valkyrie vs. Vickie Guerrero & Teddy Long<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Teddy Long\|Teddy Long]]<br>**Best Match:** 88% vs. Womens Royal Rumble |
+| <img src="/img/charts/vickie-guerrero_stats.png" width="200"> | **✅❌❌⚪️**<br>⚪️ **Vickie Guerrero** drew with nan at [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] - 2023-02-22<br>❌ **Killer Kelly** beat Vickie Guerrero at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>❌ **Madison Rayne** beat Vickie Guerrero at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>✅ **Vickie Guerrero** beat Aoife Valkyrie at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Teddy Long\|Teddy Long]]<br>**Best Match:** 88% vs. Womens Royal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (2x)

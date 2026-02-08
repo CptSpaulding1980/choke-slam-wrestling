@@ -25,7 +25,7 @@ avg_rating: 86.56
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/eddie-edwards_stats.png" width="200"> | **✅❌⚪️✅✅**<br>- Win vs. Militanter Mummenschanz vs. Nature Game Masters <br>- Win vs. Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters <br>- Draw vs. What if... Battle Royal<br>- Loss vs. Gruesome Fighting: Taz vs. Eddie Edwards<br>- Win vs. Jerry Lynn vs. Eddie Edwards<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Kenny Omega\|Kenny Omega]]<br>**Best Match:** 100% vs. Carat First Round: Pac vs. Eddie Edwards |
+| <img src="/img/charts/eddie-edwards_stats.png" width="200"> | **✅❌⚪️✅✅**<br>✅ **Eddie Edwards** beat Beer City Bruiser, Bryan Danielson, Cora Jade at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br>✅ **Eddie Edwards** beat Gunther, Cora Jade, Beer City Bruiser, Eddie Guerrero at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br>⚪️ **Eddie Edwards** drew with nan at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br>❌ **Taz** beat Eddie Edwards at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>✅ **Eddie Edwards** beat Jerry Lynn at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Kenny Omega\|Kenny Omega]]<br>**Best Match:** 100% vs. Carat First Round: Pac vs. Eddie Edwards |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (5x)

@@ -25,7 +25,7 @@ avg_rating: 88.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/razor-ramon_stats.png" width="200"> | **⚪️❌⚪️**<br>- Draw vs. Big Van Vader Memorial Battle Royal<br>- Loss vs. Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br> | **Nemesis:** [[Wrestler/Tommy End\|Tommy End]]<br>**Partner:** [[Wrestler/Sol Ruca\|Sol Ruca]]<br>**Best Match:** 91% vs. Big Van Vader Memorial Battle Royal |
+| <img src="/img/charts/razor-ramon_stats.png" width="200"> | **⚪️❌⚪️**<br>⚪️ **Razor Ramon** drew with nan at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **Angélico, Becky Lynch, Chris Hero, Shawn Michaels** beat Razor Ramon at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>⚪️ **Razor Ramon** drew with nan at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br> | **Nemesis:** [[Wrestler/Tommy End\|Tommy End]]<br>**Partner:** [[Wrestler/Sol Ruca\|Sol Ruca]]<br>**Best Match:** 91% vs. Big Van Vader Memorial Battle Royal |
 
 ## Häufigste Gegner
 - [[Wrestler/Tommy End\|Tommy End]] (3x)

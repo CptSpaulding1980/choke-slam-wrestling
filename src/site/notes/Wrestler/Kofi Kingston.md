@@ -25,7 +25,7 @@ avg_rating: 87.44
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kofi-kingston_stats.png" width="200"> | **❌⚪️✅❌❌**<br>- Loss vs. Billy Gunn & Road Dogg vs. Big E & Kofi Kingston<br>- Loss vs. Big E & Kofi Kingston vs. Sweet 'n Sour Elite<br>- Win vs. Big E & Kofi Kingston vs. Mosh & Thrasher<br>- Draw vs. Reveal Rumble<br>- Loss vs. Charlie Dempsey vs. Kofi Kingston<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Big E\|Big E]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/kofi-kingston_stats.png" width="200"> | **❌⚪️✅❌❌**<br>❌ **Road Dogg, Billy Gunn** beat Kofi Kingston at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Akira Taue, KONOSUKE TAKESHITA** beat Kofi Kingston at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>✅ **Kofi Kingston** beat Mosh, Thrasher at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>⚪️ **Kofi Kingston** drew with nan at [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] - 2025-06-03<br>❌ **Charlie Dempsey** beat Kofi Kingston at [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] - 2024-04-10<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Big E\|Big E]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (4x)

@@ -25,7 +25,7 @@ avg_rating: 89.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sol-ruca_stats.png" width="200"> | **⚪️❌❌**<br>- Loss vs. Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c)<br>- Loss vs. Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br> | **Nemesis:** [[Wrestler/Angélico\|Angélico]]<br>**Partner:** [[Wrestler/Razor Ramon\|Razor Ramon]]<br>**Best Match:** 94% vs. Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) |
+| <img src="/img/charts/sol-ruca_stats.png" width="200"> | **⚪️❌❌**<br>❌ **Tiffany Stratton** beat Sol Ruca at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **Angélico, Becky Lynch, Chris Hero, Shawn Michaels** beat Sol Ruca at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>⚪️ **Sol Ruca** drew with nan at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br> | **Nemesis:** [[Wrestler/Angélico\|Angélico]]<br>**Partner:** [[Wrestler/Razor Ramon\|Razor Ramon]]<br>**Best Match:** 94% vs. Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Angélico\|Angélico]] (2x)

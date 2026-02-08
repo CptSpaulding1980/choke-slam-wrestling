@@ -25,7 +25,7 @@ avg_rating: 100.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/matanza-cueto_stats.png" width="200"> | **⚪️**<br>- Draw vs. Aztec Warfare<br> | **Nemesis:** [[Wrestler/Pac\|Pac]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Aztec Warfare |
+| <img src="/img/charts/matanza-cueto_stats.png" width="200"> | **⚪️**<br>⚪️ **Matanza Cueto** drew with nan at [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] - 2023-04-19<br> | **Nemesis:** [[Wrestler/Pac\|Pac]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Aztec Warfare |
 
 ## Häufigste Gegner
 - [[Wrestler/Pac\|Pac]] (1x)

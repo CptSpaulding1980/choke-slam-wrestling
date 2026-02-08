@@ -25,7 +25,7 @@ avg_rating: 77.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/giant-gonzalez_stats.png" width="200"> | **❌❌✅**<br>- Win vs. Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash<br>- Loss vs. Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash<br>- Loss vs. Streetball: Saint Rebel Radicalz vs. Giant Gonzalez, Jade Cargill & Kevin Nash<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Jade Cargill\|Jade Cargill]]<br>**Best Match:** 85% vs. Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash |
+| <img src="/img/charts/giant-gonzalez_stats.png" width="200"> | **❌❌✅**<br>✅ **Giant Gonzalez** beat Bob Backlund, EC3, Killer Kelly at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br>❌ **Madison Rayne, Marius Al-Ani, Rush** beat Giant Gonzalez at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br>❌ **Chris Hero, Christian Cage, Rey Mysterio Jr.** beat Giant Gonzalez at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Jade Cargill\|Jade Cargill]]<br>**Best Match:** 85% vs. Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

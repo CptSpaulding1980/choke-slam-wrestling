@@ -25,7 +25,7 @@ avg_rating: 85.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/beer-city-bruiser_stats.png" width="200"> | **⚪️❌❌**<br>- Loss vs. Militanter Mummenschanz vs. Nature Game Masters <br>- Loss vs. Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters <br>- Draw vs. What if... Battle Royal<br> | **Nemesis:** [[Wrestler/Eddie Edwards\|Eddie Edwards]]<br>**Partner:** [[Wrestler/Cora Jade\|Cora Jade]]<br>**Best Match:** 94% vs. What if... Battle Royal |
+| <img src="/img/charts/beer-city-bruiser_stats.png" width="200"> | **⚪️❌❌**<br>❌ **Bret Hart, Eddie Edwards, Gigi Dolin** beat Beer City Bruiser at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br>❌ **AJ Styles, Gigi Dolin, Miro, Eddie Edwards** beat Beer City Bruiser at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br>⚪️ **Beer City Bruiser** drew with nan at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br> | **Nemesis:** [[Wrestler/Eddie Edwards\|Eddie Edwards]]<br>**Partner:** [[Wrestler/Cora Jade\|Cora Jade]]<br>**Best Match:** 94% vs. What if... Battle Royal |
 
 ## Häufigste Gegner
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (3x)

@@ -25,7 +25,7 @@ avg_rating: 94.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dr-hh_stats.png" width="200"> | **⚪️**<br>- Draw vs. What if... Battle Royal<br> | **Nemesis:** [[Wrestler/Jonathan Gresham\|Jonathan Gresham]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 94% vs. What if... Battle Royal |
+| <img src="/img/charts/dr-hh_stats.png" width="200"> | **⚪️**<br>⚪️ **Dr. HH** drew with nan at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br> | **Nemesis:** [[Wrestler/Jonathan Gresham\|Jonathan Gresham]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 94% vs. What if... Battle Royal |
 
 ## Häufigste Gegner
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)

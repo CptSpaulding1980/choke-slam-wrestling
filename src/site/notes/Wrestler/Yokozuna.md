@@ -25,7 +25,7 @@ avg_rating: 95.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/yokozuna_stats.png" width="200"> | **⚪️**<br>- Draw vs. Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair<br> | **Nemesis:** [[Wrestler/Sara Del Rey\|Sara Del Rey]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 95% vs. Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair |
+| <img src="/img/charts/yokozuna_stats.png" width="200"> | **⚪️**<br>⚪️ **Yokozuna** drew with nan at [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] - 2020-06-08<br> | **Nemesis:** [[Wrestler/Sara Del Rey\|Sara Del Rey]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 95% vs. Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair |
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (1x)

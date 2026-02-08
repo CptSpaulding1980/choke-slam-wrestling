@@ -25,7 +25,7 @@ avg_rating: 80.38
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/joe-coffey_stats.png" width="200"> | **❌✅✅❌❌**<br>- Loss vs. Sweet 'n Sour Elite vs. Path of God<br>- Loss vs. Angelico & Ivelisse vs. Path of God<br>- Win vs. Path of God vs. Sweet 'n Sour Elite<br>- Win vs. Joe Coffey vs. Hammerstone vs. Sara Del Rey<br>- Loss vs. Angelico, Ivelisse vs. Path of God<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Kairi Sane\|Kairi Sane]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang |
+| <img src="/img/charts/joe-coffey_stats.png" width="200"> | **❌✅✅❌❌**<br>❌ **Gunther, The Undertaker** beat Joe Coffey at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Angélico, Ivelisse** beat Joe Coffey at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Joe Coffey** beat Ryusuke Taguchi, Tatum Paxley at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Joe Coffey** beat Hammerstone, Sara Del Rey at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Angélico, Ivelisse** beat Joe Coffey at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Kairi Sane\|Kairi Sane]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (2x)

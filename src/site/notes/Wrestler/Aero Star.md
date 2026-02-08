@@ -25,7 +25,7 @@ avg_rating: 98.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/aero-star_stats.png" width="200"> | **❌✅❌**<br>- Loss vs. Trios League Final: Aero Star, Drago & Rey Fenix vs. Militanter Mummenschanz<br>- Win vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim<br>- Loss vs. Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Barry Windham\|Barry Windham]]<br>**Partner:** [[Wrestler/Eddie Guerrero\|Eddie Guerrero]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
+| <img src="/img/charts/aero-star_stats.png" width="200"> | **❌✅❌**<br>❌ **Bret Hart, Eddie Edwards, Miro** beat Aero Star at [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] - 2023-04-19<br>✅ **Aero Star** beat Barry Windham, Gail Kim at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br>❌ **Bob Backlund, Dustin Rhodes** beat Aero Star at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br> | **Nemesis:** [[Wrestler/Barry Windham\|Barry Windham]]<br>**Partner:** [[Wrestler/Eddie Guerrero\|Eddie Guerrero]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
 
 ## Häufigste Gegner
 - [[Wrestler/Barry Windham\|Barry Windham]] (1x)

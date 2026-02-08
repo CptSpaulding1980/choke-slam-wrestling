@@ -25,7 +25,7 @@ avg_rating: 81.17
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jun-akiyama_stats.png" width="200"> | **❌❌✅✅❌**<br>- Loss vs. Cody Rhodes & Oba Femi vs. Saint Rebel Radicalz<br>- Win vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Win vs. Saint Rebel Radicalz vs.Saint Rebel Radicalz<br>- Loss vs. Choke Slam Trios Champiosnhip - : Los Jinetes del Aire vs. Jun Akiyama, Roman Reigns, & Triple H<br>- Loss vs. North West Division: Jun Akiyama vs. Goldberg<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Best Match:** 100% vs. Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H |
+| <img src="/img/charts/jun-akiyama_stats.png" width="200"> | **❌❌✅✅❌**<br>❌ **Cody Rhodes, Oba Femi** beat Jun Akiyama at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Jun Akiyama** beat Adam Page, Steve Austin at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Jun Akiyama** beat Awesome Kong, Edge at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Laredo Kid, Myzteziz Jr., El Hijo del Vikingo** beat Jun Akiyama at [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] - 2024-10-22<br>❌ **Goldberg** beat Jun Akiyama at [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] - 2024-07-19<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Best Match:** 100% vs. Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (6x)

@@ -25,7 +25,7 @@ avg_rating: 86.17
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/samoa-joe_stats.png" width="200"> | **⚪️⚪️✅✅❌**<br>- Loss vs. Choke Slam World Championship: Samoa Joe vs. Roman Reigns (c)<br>- Win vs. Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe<br>- Win vs. Royal Rumble<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br>- Draw vs. The Greatest Royal Rumble<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 95% vs. Choke Slam World Championship: Samoa Joe vs. Ric Flair (c) |
+| <img src="/img/charts/samoa-joe_stats.png" width="200"> | **⚪️⚪️✅✅❌**<br>❌ **Roman Reigns** beat Samoa Joe at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br>✅ **Samoa Joe** beat Tatum Paxley, Joe Hendry, The Undertaker, Gunther at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>✅ **Samoa Joe** beat nan at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **Samoa Joe** drew with nan at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>⚪️ **Samoa Joe** drew with nan at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 95% vs. Choke Slam World Championship: Samoa Joe vs. Ric Flair (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (4x)

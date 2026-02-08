@@ -25,7 +25,7 @@ avg_rating: 88.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/el-ligero_stats.png" width="200"> | **⚪️**<br>- Draw vs. William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada<br> | **Nemesis:** [[Wrestler/William Regal\|William Regal]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 88% vs. William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada |
+| <img src="/img/charts/el-ligero_stats.png" width="200"> | **⚪️**<br>⚪️ **El Ligero** drew with nan at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br> | **Nemesis:** [[Wrestler/William Regal\|William Regal]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 88% vs. William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada |
 
 ## Häufigste Gegner
 - [[Wrestler/William Regal\|William Regal]] (1x)

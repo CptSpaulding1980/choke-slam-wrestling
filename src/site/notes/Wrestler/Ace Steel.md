@@ -25,7 +25,7 @@ avg_rating: 97.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ace-steel_stats.png" width="200"> | **✅⚪️**<br>- Draw vs. Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c)<br>- Win vs. Exhibition 3 - Backstage Brawl<br> | **Nemesis:** [[Wrestler/nan\|nan]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 98% vs. Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) |
+| <img src="/img/charts/ace-steel_stats.png" width="200"> | **✅⚪️**<br>⚪️ **Ace Steel** drew with nan at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>✅ **Ace Steel** beat nan at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/nan\|nan]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 98% vs. Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/nan\|nan]] (1x)

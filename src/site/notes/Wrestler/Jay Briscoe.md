@@ -25,7 +25,7 @@ avg_rating: 88.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jay-briscoe_stats.png" width="200"> | **⚪️⚪️✅**<br>- Win vs. Ludwig Kaiser vs. Jay Briscoe<br>- Draw vs. Andre The Giant Memorial Battle Royal<br>- Draw vs. Andre The Giant Memorial Battle Royal<br> | **Nemesis:** [[Wrestler/Teoman\|Teoman]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 95% vs. Andre The Giant Memorial Battle Royal |
+| <img src="/img/charts/jay-briscoe_stats.png" width="200"> | **⚪️⚪️✅**<br>✅ **Jay Briscoe** beat Ludwig Kaiser at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br>⚪️ **Jay Briscoe** drew with nan at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>⚪️ **Jay Briscoe** drew with nan at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br> | **Nemesis:** [[Wrestler/Teoman\|Teoman]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 95% vs. Andre The Giant Memorial Battle Royal |
 
 ## Häufigste Gegner
 - [[Wrestler/Teoman\|Teoman]] (4x)

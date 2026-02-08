@@ -25,7 +25,7 @@ avg_rating: 89.11
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/akira-taue_stats.png" width="200"> | **✅✅❌✅❌**<br>- Loss vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Win vs. Sweet 'n Sour Elite vs. Finn Bálor & Dominik Mysterio<br>- Loss vs. Bret Hart & Owen Hart vs. Sweet 'n Sour Elite<br>- Win vs. Mosh & Thrasher vs. Sweet 'n Sour Elite<br>- Win vs. Big E & Kofi Kingston vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/akira-taue_stats.png" width="200"> | **✅✅❌✅❌**<br>❌ **Awesome Kong, Edge** beat Akira Taue at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Akira Taue** beat Finn Bálor, Dominik Mysterio at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Bret Hart, Owen Hart** beat Akira Taue at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Akira Taue** beat Mosh, Thrasher at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>✅ **Akira Taue** beat Big E, Kofi Kingston at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)

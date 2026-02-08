@@ -25,7 +25,7 @@ avg_rating: 84.76
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **✅✅✅✅❌**<br>- Loss vs. Cody Rhodes & Oba Femi vs. Saint Rebel Radicalz<br>- Win vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Win vs. Saint Rebel Radicalz vs.Saint Rebel Radicalz<br>- Win vs. Viking Raiders vs. Saint Rebel Radicalz<br>- Win vs. War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
+| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **✅✅✅✅❌**<br>❌ **Cody Rhodes, Oba Femi** beat Kazuchika Okada at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Kazuchika Okada** beat Adam Page, Steve Austin at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Kazuchika Okada** beat Awesome Kong, Edge at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Kazuchika Okada** beat Erik, Ivar at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>✅ **Kazuchika Okada** beat Lady Apache, Daniel Bryan, Jay White, Wardlow at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (12x)

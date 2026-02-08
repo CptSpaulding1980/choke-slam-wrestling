@@ -25,7 +25,7 @@ avg_rating: 84.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/shawn-daivari_stats.png" width="200"> | **⚪️**<br>- Draw vs. Sheik Invitational Rumble incl. Sabu<br> | **Nemesis:** [[Wrestler/Iron Sheik\|Iron Sheik]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 84% vs. Sheik Invitational Rumble incl. Sabu |
+| <img src="/img/charts/shawn-daivari_stats.png" width="200"> | **⚪️**<br>⚪️ **Shawn Daivari** drew with nan at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br> | **Nemesis:** [[Wrestler/Iron Sheik\|Iron Sheik]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 84% vs. Sheik Invitational Rumble incl. Sabu |
 
 ## Häufigste Gegner
 - [[Wrestler/Iron Sheik\|Iron Sheik]] (1x)

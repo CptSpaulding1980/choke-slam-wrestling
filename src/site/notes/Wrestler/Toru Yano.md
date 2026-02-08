@@ -25,7 +25,7 @@ avg_rating: 78.78
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/toru-yano_stats.png" width="200"> | **❌✅❌❌✅**<br>- Win vs. Killer Kelly & Dalton Castle vs. Path of God<br>- Loss vs. Path of God vs. Path of God<br>- Loss vs. Toru Yano vs. Tetsuya Naito vs. Tatum Paxley<br>- Win vs. Path of God vs. Killer Kelly & Dalton Castle<br>- Loss vs. Path of God vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Best Match:** 91% vs. Path of God vs. Killer Kelly & Dalton Castle |
+| <img src="/img/charts/toru-yano_stats.png" width="200"> | **❌✅❌❌✅**<br>✅ **Toru Yano** beat Killer Kelly, Dalton Castle at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **KUSHIDA, Randy Savage** beat Toru Yano at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **The Undertaker** beat Toru Yano at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Toru Yano** beat Killer Kelly, Dalton Castle at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Roman Reigns, Triple H** beat Toru Yano at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Best Match:** 91% vs. Path of God vs. Killer Kelly & Dalton Castle |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)

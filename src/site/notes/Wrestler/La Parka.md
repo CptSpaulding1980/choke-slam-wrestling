@@ -25,7 +25,7 @@ avg_rating: 85.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/la-parka_stats.png" width="200"> | **⚪️**<br>- Draw vs. Oerel Bardahl<br> | **Nemesis:** [[Wrestler/Omos\|Omos]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 85% vs. Oerel Bardahl |
+| <img src="/img/charts/la-parka_stats.png" width="200"> | **⚪️**<br>⚪️ **La Parka** drew with nan at [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] - 2025-08-21<br> | **Nemesis:** [[Wrestler/Omos\|Omos]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 85% vs. Oerel Bardahl |
 
 ## Häufigste Gegner
 - [[Wrestler/Omos\|Omos]] (1x)

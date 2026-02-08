@@ -25,7 +25,7 @@ avg_rating: 83.75
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/franz-schuhmann_stats.png" width="200"> | **⚪️❌❌✅**<br>- Win vs. Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner<br>- Loss vs. Saint Rebel Radicalz vs. Franz Schuhmann & Sting<br>- Loss vs. Bob Backlund vs. Franz Schuhmann<br>- Draw vs. Humble Rumble<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Rick Steiner\|Rick Steiner]]<br>**Best Match:** 92% vs. Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner |
+| <img src="/img/charts/franz-schuhmann_stats.png" width="200"> | **⚪️❌❌✅**<br>✅ **Franz Schuhmann** beat Rush, Fit Finlay at [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] - 2021-08-23<br>❌ **Randy Savage, Chris Hero** beat Franz Schuhmann at [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] - 2021-08-23<br>❌ **Bob Backlund** beat Franz Schuhmann at [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] - 2021-08-23<br>⚪️ **Franz Schuhmann** drew with nan at [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] - 2021-08-23<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Rick Steiner\|Rick Steiner]]<br>**Best Match:** 92% vs. Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (2x)

@@ -25,7 +25,7 @@ avg_rating: 95.14
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/marius-al-ani_stats.png" width="200"> | **❌✅❌✅⚪️**<br>- Draw vs. Andre The Giant Memorial Battle Royal<br>- Win vs. Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite<br>- Loss vs. Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Win vs. Loser leaves Town (Cage):Jeff Jarrett vs. Marius Al-Ani vs. Larry Zbyszko<br>- Loss vs. Sweet 'n Sour Elite vs. Robert Dreissker & WALTER<br> | **Nemesis:** [[Wrestler/WALTER\|WALTER]]<br>**Partner:** [[Wrestler/Madison Rayne\|Madison Rayne]]<br>**Best Match:** 101% vs. Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/marius-al-ani_stats.png" width="200"> | **❌✅❌✅⚪️**<br>⚪️ **Marius Al-Ani** drew with nan at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>✅ **Marius Al-Ani** beat Killer Kelly, Jeff Jarrett at [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] - 2022-02-09<br>❌ **Christian Cage, Steve Austin** beat Marius Al-Ani at [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] - 2022-02-09<br>✅ **Marius Al-Ani** beat Jeff Jarrett, Larry Zbyszko at [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] - 2022-02-09<br>❌ **Robert Dreissker, WALTER** beat Marius Al-Ani at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br> | **Nemesis:** [[Wrestler/WALTER\|WALTER]]<br>**Partner:** [[Wrestler/Madison Rayne\|Madison Rayne]]<br>**Best Match:** 101% vs. Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/WALTER\|WALTER]] (2x)

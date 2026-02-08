@@ -25,7 +25,7 @@ avg_rating: 88.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bea-priestley_stats.png" width="200"> | **⚪️**<br>- Draw vs. Womens Royal Rumble<br> | **Nemesis:** [[Wrestler/Akira Hokuto\|Akira Hokuto]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 88% vs. Womens Royal Rumble |
+| <img src="/img/charts/bea-priestley_stats.png" width="200"> | **⚪️**<br>⚪️ **Bea Priestley** drew with nan at [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] - 2023-02-22<br> | **Nemesis:** [[Wrestler/Akira Hokuto\|Akira Hokuto]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 88% vs. Womens Royal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Akira Hokuto\|Akira Hokuto]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 71.2
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ryusuke-taguchi_stats.png" width="200"> | **❌❌❌✅❌**<br>- Loss vs. Sweet 'n Sour Elite vs. Sweet 'n Sour Elite<br>- Win vs. Randy Savage vs. Sara Del Rey vs. Ryusuke Taguchi<br>- Loss vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Loss vs. Path of God vs. Sweet 'n Sour Elite<br>- Loss vs. Saint Rebel Radicalz vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Sara Del Rey\|Sara Del Rey]]<br>**Partner:** [[Wrestler/Tatum Paxley\|Tatum Paxley]]<br>**Best Match:** 80% vs. Sweet 'n Sour Elite vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/ryusuke-taguchi_stats.png" width="200"> | **❌❌❌✅❌**<br>❌ **Hammerstone, Zack Sabre Jr.** beat Ryusuke Taguchi at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Ryusuke Taguchi** beat Randy Savage, Sara Del Rey at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Laredo Kid, Tetsuya Naito** beat Ryusuke Taguchi at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Joe Coffey, Kairi Sane** beat Ryusuke Taguchi at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Kiana James, Sara Del Rey** beat Ryusuke Taguchi at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br> | **Nemesis:** [[Wrestler/Sara Del Rey\|Sara Del Rey]]<br>**Partner:** [[Wrestler/Tatum Paxley\|Tatum Paxley]]<br>**Best Match:** 80% vs. Sweet 'n Sour Elite vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)

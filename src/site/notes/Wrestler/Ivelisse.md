@@ -25,7 +25,7 @@ avg_rating: 83.21
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ivelisse_stats.png" width="200"> | **⚪️✅❌✅❌**<br>- Loss vs. Angelico & Ivelisse vs. Claudio Castagnoli & Pac<br>- Win vs. Angelico & Ivelisse vs. Path of God<br>- Loss vs. Saint Rebel Radicalz vs. Angelico, Ivelisse<br>- Win vs. Angelico, Ivelisse vs. Path of God<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/The Blade\|The Blade]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
+| <img src="/img/charts/ivelisse_stats.png" width="200"> | **⚪️✅❌✅❌**<br>❌ **Claudio Castagnoli, Pac** beat Ivelisse at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Ivelisse** beat Joe Coffey, Kairi Sane at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Roman Reigns, Triple H** beat Ivelisse at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Ivelisse** beat Joe Coffey, Kairi Sane at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>⚪️ **Ivelisse** drew with nan at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/The Blade\|The Blade]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (7x)

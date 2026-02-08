@@ -25,7 +25,7 @@ avg_rating: 81.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dink_stats.png" width="200"> | **✅**<br>- Win vs. Saint Rebel Radicalz vs. Dink  & Hornswoggle<br> | **Nemesis:** [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]]<br>**Partner:** [[Wrestler/Hornswoggle\|Hornswoggle]]<br>**Best Match:** 81% vs. Saint Rebel Radicalz vs. Dink  & Hornswoggle |
+| <img src="/img/charts/dink_stats.png" width="200"> | **✅**<br>✅ **Dink** beat Aoife Valkyrie, Pascal LePas at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]]<br>**Partner:** [[Wrestler/Hornswoggle\|Hornswoggle]]<br>**Best Match:** 81% vs. Saint Rebel Radicalz vs. Dink  & Hornswoggle |
 
 ## Häufigste Gegner
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)

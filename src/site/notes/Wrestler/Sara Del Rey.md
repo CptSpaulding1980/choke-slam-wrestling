@@ -25,7 +25,7 @@ avg_rating: 84.85
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sara-del-rey_stats.png" width="200"> | **❌❌✅❌❌**<br>- Loss vs. Saint Rebel Radicalz vs. Path of God<br>- Loss vs. Randy Savage vs. Sara Del Rey vs. Ryusuke Taguchi<br>- Win vs. Saint Rebel Radicalz vs. Saint Rebel Radicalz<br>- Loss vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Loss vs. Joe Coffey vs. Hammerstone vs. Sara Del Rey<br> | **Nemesis:** [[Wrestler/Owen Hart\|Owen Hart]]<br>**Partner:** [[Wrestler/Kiana James\|Kiana James]]<br>**Best Match:** 98% vs. Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/sara-del-rey_stats.png" width="200"> | **❌❌✅❌❌**<br>❌ **KUSHIDA, Randy Savage** beat Sara Del Rey at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Ryusuke Taguchi** beat Sara Del Rey at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Sara Del Rey** beat Roman Reigns, Triple H at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Gunther, The Undertaker** beat Sara Del Rey at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Joe Coffey** beat Sara Del Rey at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br> | **Nemesis:** [[Wrestler/Owen Hart\|Owen Hart]]<br>**Partner:** [[Wrestler/Kiana James\|Kiana James]]<br>**Best Match:** 98% vs. Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Owen Hart\|Owen Hart]] (4x)

@@ -25,7 +25,7 @@ avg_rating: 86.83
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/hulk-hogan_stats.png" width="200"> | **❌✅❌❌❌**<br>- Loss vs. Nature Game Masters  vs. Militanter Mummenschanz<br>- Loss vs. Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c)<br>- Loss vs. Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c)<br>- Win vs. Diesel vs. Hulk Hogan<br>- Loss vs. Big Van Vader vs. Hulk Hogan<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Brandon\|Brandon]]<br>**Best Match:** 105% vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  |
+| <img src="/img/charts/hulk-hogan_stats.png" width="200"> | **❌✅❌❌❌**<br>❌ **Bryan Danielson, Eddie Guerrero, Gunther** beat Hulk Hogan at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **Bret Hart, Miro, Thea Hail** beat Hulk Hogan at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **Roman Reigns** beat Hulk Hogan at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>✅ **Hulk Hogan** beat Diesel at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>❌ **Big Van Vader** beat Hulk Hogan at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Brandon\|Brandon]]<br>**Best Match:** 105% vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (12x)

@@ -25,7 +25,7 @@ avg_rating: 84.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/salvatore-sincere_stats.png" width="200"> | **✅❌❌**<br>- Loss vs. Jushin Liger vs. Salvatore Sincere<br>- Loss vs. Austin Aries vs. Salvatore Sincere<br>- Win vs. Bob Backlund vs. Salvatore Sincere<br> | **Nemesis:** [[Wrestler/Jushin Liger\|Jushin Liger]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 86% vs. Jushin Liger vs. Salvatore Sincere |
+| <img src="/img/charts/salvatore-sincere_stats.png" width="200"> | **✅❌❌**<br>❌ **Jushin Liger** beat Salvatore Sincere at [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] - 2021-01-21<br>❌ **Austin Aries** beat Salvatore Sincere at [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] - 2021-01-21<br>✅ **Salvatore Sincere** beat Bob Backlund at [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] - 2021-01-21<br> | **Nemesis:** [[Wrestler/Jushin Liger\|Jushin Liger]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 86% vs. Jushin Liger vs. Salvatore Sincere |
 
 ## Häufigste Gegner
 - [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)

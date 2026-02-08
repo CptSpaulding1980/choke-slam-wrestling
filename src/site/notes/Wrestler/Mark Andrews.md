@@ -25,7 +25,7 @@ avg_rating: 89.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mark-andrews_stats.png" width="200"> | **✅✅❌**<br>- Loss vs. Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster<br>- Win vs. Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster<br>- Win vs. Saint Rebel Radicalz vs. Mark Andrews & Flash Morgan Webster<br> | **Nemesis:** [[Wrestler/Killshot\|Killshot]]<br>**Partner:** [[Wrestler/Flash Morgan Webster\|Flash Morgan Webster]]<br>**Best Match:** 94% vs. Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster |
+| <img src="/img/charts/mark-andrews_stats.png" width="200"> | **✅✅❌**<br>❌ **Killshot, Britt Baker** beat Mark Andrews at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br>✅ **Mark Andrews** beat Austin Aries, Thunder Rosa at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br>✅ **Mark Andrews** beat Dustin Rhodes, Gail Kim at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br> | **Nemesis:** [[Wrestler/Killshot\|Killshot]]<br>**Partner:** [[Wrestler/Flash Morgan Webster\|Flash Morgan Webster]]<br>**Best Match:** 94% vs. Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster |
 
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (1x)

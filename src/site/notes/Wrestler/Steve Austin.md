@@ -25,7 +25,7 @@ avg_rating: 85.24
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/steve-austin_stats.png" width="200"> | **❌❌❌❌❌**<br>- Loss vs. Bret Hart & Owen Hart vs. Sweet 'n Sour Elite<br>- Loss vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Loss vs. Dominik Mysterio & Finn Bálor vs. Sweet 'n Sour Elite<br>- Loss vs. War Games 2: Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Loss vs. War Games 3: Militanter Mummenschanz vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
+| <img src="/img/charts/steve-austin_stats.png" width="200"> | **❌❌❌❌❌**<br>❌ **Bret Hart, Owen Hart** beat Steve Austin at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Jun Akiyama, Kazuchika Okada** beat Steve Austin at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Dominik Mysterio, Finn Bálor** beat Steve Austin at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Awesome Kong, Brock Lesnar, Chris Jericho, Kazuchika Okada** beat Steve Austin at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Daniel Bryan, Jay White, Lady Apache, Wardlow** beat Steve Austin at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (7x)

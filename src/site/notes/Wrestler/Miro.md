@@ -25,7 +25,7 @@ avg_rating: 87.8
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/miro_stats.png" width="200"> | **⚪️❌⚪️⚪️✅**<br>- Win vs. Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles<br>- Draw vs. Royal Rumble<br>- Draw vs. Trios Royal Rumble<br>- Loss vs. Nature Game Masters  vs. Militanter Mummenschanz<br>- Draw vs. Los Jinetes del Aire vs. Militanter Mummenschanz<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/miro_stats.png" width="200"> | **⚪️❌⚪️⚪️✅**<br>✅ **Miro** beat Kiana James, Laredo Kid, The Rock, Roman Reigns at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **Miro** drew with nan at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **Miro** drew with nan at [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] - 2024-04-10<br>❌ **Bryan Danielson, Eddie Guerrero, Gunther** beat Miro at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>⚪️ **Miro** drew with nan at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Jay White\|Jay White]] (10x)

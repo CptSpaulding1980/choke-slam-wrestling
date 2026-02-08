@@ -25,7 +25,7 @@ avg_rating: 86.2
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sexy-star_stats.png" width="200"> | **✅❌⚪️⚪️⚪️**<br>- Draw vs. Womens Royal Rumble<br>- Draw vs. The Greatest Royal Rumble<br>- Draw vs. Andre the Giant Memorial Battle Royal<br>- Loss vs. Diesel vs. The Undertaker vs. Bret Hart vs. Owen Hart vs. Bam Bam Bigelow vs. Sexy Star<br>- Win vs. Kings Court vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Kelly Klein\|Kelly Klein]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 93% vs. Diesel vs. The Undertaker vs. Bret Hart vs. Owen Hart vs. Bam Bam Bigelow vs. Sexy Star |
+| <img src="/img/charts/sexy-star_stats.png" width="200"> | **✅❌⚪️⚪️⚪️**<br>⚪️ **Sexy Star** drew with nan at [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] - 2023-02-22<br>⚪️ **Sexy Star** drew with nan at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>⚪️ **Sexy Star** drew with nan at [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] - 2020-09-07<br>❌ **Bret Hart** beat Sexy Star at [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] - 2020-06-29<br>✅ **Sexy Star** beat Booker T, King Corbin, Jerry Lawler, Sheamus at [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] - 2020-06-29<br> | **Nemesis:** [[Wrestler/Kelly Klein\|Kelly Klein]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 93% vs. Diesel vs. The Undertaker vs. Bret Hart vs. Owen Hart vs. Bam Bam Bigelow vs. Sexy Star |
 
 ## Häufigste Gegner
 - [[Wrestler/Kelly Klein\|Kelly Klein]] (3x)

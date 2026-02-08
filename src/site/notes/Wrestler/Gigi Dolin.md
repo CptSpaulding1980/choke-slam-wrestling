@@ -25,7 +25,7 @@ avg_rating: 91.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/gigi-dolin_stats.png" width="200"> | **⚪️✅❌❌❌**<br>- Loss vs. Militanter Mummenschanz vs. Sweet 'n Sour Elite<br>- Loss vs. Saint Rebel Radicalz vs. Militanter Mummenschanz<br>- Loss vs. 2 out 3 Falls Trios: Militanter Mummenschanz vs. Sweet 'n Sour Elite<br>- Win vs. 2 out 3 Falls Trios: Saint Rebel Radicalz vs. Militanter Mummenschanz<br>- Draw vs. Cibernetico<br> | **Nemesis:** [[Wrestler/Alexa Bliss\|Alexa Bliss]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 104% vs. Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano |
+| <img src="/img/charts/gigi-dolin_stats.png" width="200"> | **⚪️✅❌❌❌**<br>❌ **Jay White, Ludwig Kaiser, Noam Dar** beat Gigi Dolin at [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] - 2023-08-22<br>❌ **Hulk Hogan, Jon Moxley, Seth Rollins** beat Gigi Dolin at [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] - 2023-08-22<br>❌ **Bull Nakano, Jay White, Jonathan Gresham** beat Gigi Dolin at [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] - 2023-08-22<br>✅ **Gigi Dolin** beat Alexa Bliss, Jon Moxley, Seth Rollins at [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] - 2023-08-22<br>⚪️ **Gigi Dolin** drew with nan at [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] - 2023-08-22<br> | **Nemesis:** [[Wrestler/Alexa Bliss\|Alexa Bliss]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 104% vs. Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano |
 
 ## Häufigste Gegner
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (5x)

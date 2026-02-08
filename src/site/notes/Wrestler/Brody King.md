@@ -25,7 +25,7 @@ avg_rating: 84.78
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/brody-king_stats.png" width="200"> | **⚪️⚪️❌❌❌**<br>- Loss vs. Hardcore Title Tournament Semi Finals<br>- Loss vs. Barb Wire: Terry Funk vs. Brody King<br>- Loss vs. Sweet 'n Sour Elite vs. Bobby Eaton & Dusty Rhodes<br>- Draw vs. Aztec Warfare<br>- Draw vs. Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Ridge Holland\|Ridge Holland]]<br>**Best Match:** 102% vs. Hardcore Title Tournament Semi Finals |
+| <img src="/img/charts/brody-king_stats.png" width="200"> | **⚪️⚪️❌❌❌**<br>❌ **Bret Hart** beat Brody King at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>❌ **Terry Funk** beat Brody King at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>❌ **Bobby Eaton, Dusty Rhodes** beat Brody King at [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] - 2023-05-30<br>⚪️ **Brody King** drew with nan at [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] - 2023-04-19<br>⚪️ **Brody King** drew with nan at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Ridge Holland\|Ridge Holland]]<br>**Best Match:** 102% vs. Hardcore Title Tournament Semi Finals |
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)

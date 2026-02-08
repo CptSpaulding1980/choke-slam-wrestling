@@ -25,7 +25,7 @@ avg_rating: 86.46
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bryan-danielson_stats.png" width="200"> | **❌✅✅✅⚪️**<br>- Draw vs. Reveal Rumble<br>- Win vs. Nature Game Masters  vs. Militanter Mummenschanz<br>- Win vs. Nature Game Masters  vs. Militanter Mummenschanz<br>- Win vs. Nature Game Masters  vs. The Shield<br>- Loss vs. Guardians of the Galaxy 2<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Eddie Guerrero\|Eddie Guerrero]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/bryan-danielson_stats.png" width="200"> | **❌✅✅✅⚪️**<br>⚪️ **Bryan Danielson** drew with nan at [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] - 2025-06-03<br>✅ **Bryan Danielson** beat Jay White, Jonathan Gresham, Hulk Hogan at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>✅ **Bryan Danielson** beat Bret Hart, CM Punk, Miro at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>✅ **Bryan Danielson** beat Jon Moxley, Roman Reigns, Seth Rollins at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **Jon Moxley, Seth Rollins, Bret Hart, Miro** beat Bryan Danielson at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Eddie Guerrero\|Eddie Guerrero]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (5x)

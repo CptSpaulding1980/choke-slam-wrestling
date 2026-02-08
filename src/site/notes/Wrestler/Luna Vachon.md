@@ -25,7 +25,7 @@ avg_rating: 91.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/luna-vachon_stats.png" width="200"> | **⚪️❌⚪️⚪️**<br>- Draw vs. Womens Royal Rumble<br>- Draw vs. The Greatest Royal Rumble<br>- Loss vs. Saint Rebel Radicalz vs. Randy Orton & Mansoor<br>- Draw vs. Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega<br> | **Nemesis:** [[Wrestler/Randy Orton\|Randy Orton]]<br>**Partner:** [[Wrestler/Big Ryck\|Big Ryck]]<br>**Best Match:** 93% vs. Saint Rebel Radicalz vs. Randy Orton & Mansoor |
+| <img src="/img/charts/luna-vachon_stats.png" width="200"> | **⚪️❌⚪️⚪️**<br>⚪️ **Luna Vachon** drew with nan at [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] - 2023-02-22<br>⚪️ **Luna Vachon** drew with nan at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>❌ **Randy Orton, Mansoor** beat Luna Vachon at [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] - 2020-06-08<br>⚪️ **Luna Vachon** drew with nan at [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] - 2020-06-08<br> | **Nemesis:** [[Wrestler/Randy Orton\|Randy Orton]]<br>**Partner:** [[Wrestler/Big Ryck\|Big Ryck]]<br>**Best Match:** 93% vs. Saint Rebel Radicalz vs. Randy Orton & Mansoor |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Orton\|Randy Orton]] (2x)

@@ -25,7 +25,7 @@ avg_rating: 83.75
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jeff-hardy_stats.png" width="200"> | **✅✅✅❌**<br>- Loss vs. Fly like an Eagle<br>- Win vs. Fly like an Eagle<br>- Win vs. Fly like an Eagle<br>- Win vs. Me, Myself and I - Duo (Pascal)<br> | **Nemesis:** [[Wrestler/Shawn Michaels\|Shawn Michaels]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 94% vs. Fly like an Eagle |
+| <img src="/img/charts/jeff-hardy_stats.png" width="200"> | **✅✅✅❌**<br>❌ **Finn Bálor** beat Jeff Hardy at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br>✅ **Jeff Hardy** beat Zack Sabre Jr. at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br>✅ **Jeff Hardy** beat Tetsuya Naito at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br>✅ **Jeff Hardy** beat Shawn Michaels at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Shawn Michaels\|Shawn Michaels]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 94% vs. Fly like an Eagle |
 
 ## Häufigste Gegner
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)

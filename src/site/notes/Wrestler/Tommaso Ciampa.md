@@ -25,7 +25,7 @@ avg_rating: 93.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/tommaso-ciampa_stats.png" width="200"> | **❌✅❌✅❌**<br>- Loss vs. Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz<br>- Win vs. Johnny Gargano & Tommaso Ciampa vs. Sweet 'n Sour Elite<br>- Loss vs. Johnny Gargano & Tommaso Ciampa vs.Militanter Mummenschanz<br>- Win vs. Barbed Wire Match: Adam Page vs. Edge vs. Jay White vs. Tommaso Ciampa<br>- Loss vs. Chris Benoit vs. Tommaso Ciampa vs. Roman Reigns<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Johnny Gargano\|Johnny Gargano]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
+| <img src="/img/charts/tommaso-ciampa_stats.png" width="200"> | **❌✅❌✅❌**<br>❌ **Brock Lesnar, Chris Jericho** beat Tommaso Ciampa at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Tommaso Ciampa** beat Booker T, Stevie Ray at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Daniel Bryan, Hiroshi Tanahashi** beat Tommaso Ciampa at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Tommaso Ciampa** beat Edge, Jay White, Adam Page at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Roman Reigns** beat Tommaso Ciampa at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Johnny Gargano\|Johnny Gargano]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Jay White\|Jay White]] (4x)

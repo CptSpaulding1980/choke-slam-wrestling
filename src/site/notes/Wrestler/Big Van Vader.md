@@ -25,7 +25,7 @@ avg_rating: 83.34
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/big-van-vader_stats.png" width="200"> | **⚪️⚪️✅✅❌**<br>- Loss vs. Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes<br>- Win vs. Path of God vs. Big Van Vader, Madison Rayne, & Triple H<br>- Win vs. Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe<br>- Draw vs. Royal Rumble<br>- Draw vs. Royal Rumble<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Triple H\|Triple H]]<br>**Best Match:** 101% vs. World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker |
+| <img src="/img/charts/big-van-vader_stats.png" width="200"> | **⚪️⚪️✅✅❌**<br>❌ **Diesel, Shawn Michaels** beat Big Van Vader at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br>✅ **Big Van Vader** beat Fallon Henley, Finn Bálor, KUSHIDA at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>✅ **Big Van Vader** beat Tatum Paxley, Joe Hendry, The Undertaker, Gunther at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **Big Van Vader** drew with nan at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **Big Van Vader** drew with nan at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Triple H\|Triple H]]<br>**Best Match:** 101% vs. World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (11x)

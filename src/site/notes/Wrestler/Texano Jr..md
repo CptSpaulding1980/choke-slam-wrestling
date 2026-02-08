@@ -25,7 +25,7 @@ avg_rating: 89.11
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/texano-jr_stats.png" width="200"> | **✅❌❌❌✅**<br>- Win vs. Saint Rebel Radicalz vs. Rey Escorpión & Texano Jr.<br>- Loss vs. Militanter Mummenschanz vs. Daga , Texano Jr. & Rey Escorpión<br>- Loss vs. Sweet 'n Sour Elite vs. Daga , Texano Jr. & Rey Escorpión<br>- Loss vs. Militanter Mummenschanz vs. Mexicans<br>- Win vs. Sweet 'n Sour Elite vs. Mexicans<br> | **Nemesis:** [[Wrestler/Johnny Mundo\|Johnny Mundo]]<br>**Partner:** [[Wrestler/Rey Escorpión\|Rey Escorpión]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
+| <img src="/img/charts/texano-jr_stats.png" width="200"> | **✅❌❌❌✅**<br>✅ **Texano Jr.** beat Shingo Takagi, Kazuchika Okada at [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] - 2021-04-15<br>❌ **Edge, KENTA, Killshot** beat Texano Jr. at [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] - 2021-04-15<br>❌ **Christian, The Blade, The Butcher** beat Texano Jr. at [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] - 2021-04-15<br>❌ **Joey Janela, Madison Rayne, Kane, Edge** beat Texano Jr. at [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] - 2021-04-15<br>✅ **Texano Jr.** beat Ivelisse, Tetsuya Naito, The Blade, The Butcher at [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] - 2021-04-15<br> | **Nemesis:** [[Wrestler/Johnny Mundo\|Johnny Mundo]]<br>**Partner:** [[Wrestler/Rey Escorpión\|Rey Escorpión]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
 
 ## Häufigste Gegner
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)

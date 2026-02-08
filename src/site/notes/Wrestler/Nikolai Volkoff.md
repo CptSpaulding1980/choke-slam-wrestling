@@ -25,7 +25,7 @@ avg_rating: 97.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/nikolai-volkoff_stats.png" width="200"> | **❌**<br>- Loss vs. Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Orange Cassidy\|Orange Cassidy]]<br>**Best Match:** 97% vs. Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff |
+| <img src="/img/charts/nikolai-volkoff_stats.png" width="200"> | **❌**<br>❌ **Tetsuya Naito** beat Nikolai Volkoff at [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] - 2021-06-30<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Orange Cassidy\|Orange Cassidy]]<br>**Best Match:** 97% vs. Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)

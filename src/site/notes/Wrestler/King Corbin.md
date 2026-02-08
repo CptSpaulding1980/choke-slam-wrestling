@@ -25,7 +25,7 @@ avg_rating: 74.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/king-corbin_stats.png" width="200"> | **❌❌✅**<br>- Win vs. Kings Court vs. Mummenschanz<br>- Loss vs. Kings Court vs. Sweet 'n Sour Elite<br>- Loss vs. Kings Court vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Dalton Castle\|Dalton Castle]]<br>**Partner:** [[Wrestler/Booker T\|Booker T]]<br>**Best Match:** 77% vs. Kings Court vs. Saint Rebel Radicalz |
+| <img src="/img/charts/king-corbin_stats.png" width="200"> | **❌❌✅**<br>✅ **King Corbin** beat Dalton Castle, Kelly Klein, Angélico, Cesaro at [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] - 2020-06-29<br>❌ **Bret Hart, AJ Styles, Dr. Wagner Jr., Sid Vicious** beat King Corbin at [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] - 2020-06-29<br>❌ **Sexy Star, Big Van Vader, Randy Orton, Bam Bam Bigelow** beat King Corbin at [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] - 2020-06-29<br> | **Nemesis:** [[Wrestler/Dalton Castle\|Dalton Castle]]<br>**Partner:** [[Wrestler/Booker T\|Booker T]]<br>**Best Match:** 77% vs. Kings Court vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Dalton Castle\|Dalton Castle]] (1x)

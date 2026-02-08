@@ -25,7 +25,7 @@ avg_rating: 94.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/lucky-kid_stats.png" width="200"> | **❌✅❌⚪️**<br>- Draw vs. The Greatest Royal Rumble<br>- Loss vs. Sweet 'n Sour Elite vs. Sweet 'n Sour Elite<br>- Win vs. Militanter Mummenschanz vs. Sweet 'n Sour Elite<br>- Loss vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]]<br>**Partner:** [[Wrestler/Akira Hokuto\|Akira Hokuto]]<br>**Best Match:** 97% vs. Sweet 'n Sour Elite vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/lucky-kid_stats.png" width="200"> | **❌✅❌⚪️**<br>⚪️ **Lucky Kid** drew with nan at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>❌ **Eddie Edwards, Fit Finlay** beat Lucky Kid at [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] - 2021-09-06<br>✅ **Lucky Kid** beat Claudio Castagnoli, Consequences Creed at [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] - 2021-08-23<br>❌ **Aoife Valkyrie, Rey Mysterio Jr.** beat Lucky Kid at [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] - 2021-08-23<br> | **Nemesis:** [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]]<br>**Partner:** [[Wrestler/Akira Hokuto\|Akira Hokuto]]<br>**Best Match:** 97% vs. Sweet 'n Sour Elite vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (2x)

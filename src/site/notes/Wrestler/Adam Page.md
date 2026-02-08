@@ -25,7 +25,7 @@ avg_rating: 80.71
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/adam-page_stats.png" width="200"> | **❌❌❌❌❌**<br>- Loss vs. Bret Hart & Owen Hart vs. Sweet 'n Sour Elite<br>- Loss vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Loss vs. Dominik Mysterio & Finn Bálor vs. Sweet 'n Sour Elite<br>- Loss vs. War Games 2: Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Loss vs. War Games 3: Militanter Mummenschanz vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Steve Austin\|Steve Austin]]<br>**Best Match:** 93% vs. Exhibition 1 - Cage Match |
+| <img src="/img/charts/adam-page_stats.png" width="200"> | **❌❌❌❌❌**<br>❌ **Bret Hart, Owen Hart** beat Adam Page at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Jun Akiyama, Kazuchika Okada** beat Adam Page at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Dominik Mysterio, Finn Bálor** beat Adam Page at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Awesome Kong, Brock Lesnar, Chris Jericho, Kazuchika Okada** beat Adam Page at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Daniel Bryan, Jay White, Lady Apache, Wardlow** beat Adam Page at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Steve Austin\|Steve Austin]]<br>**Best Match:** 93% vs. Exhibition 1 - Cage Match |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)

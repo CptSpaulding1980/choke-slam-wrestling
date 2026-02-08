@@ -25,7 +25,7 @@ avg_rating: 100.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/el-terrible_stats.png" width="200"> | **⚪️**<br>- Draw vs. Cibernetico<br> | **Nemesis:** [[Wrestler/Gigi Dolin\|Gigi Dolin]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Cibernetico |
+| <img src="/img/charts/el-terrible_stats.png" width="200"> | **⚪️**<br>⚪️ **El Terrible** drew with nan at [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] - 2023-08-22<br> | **Nemesis:** [[Wrestler/Gigi Dolin\|Gigi Dolin]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Cibernetico |
 
 ## Häufigste Gegner
 - [[Wrestler/Gigi Dolin\|Gigi Dolin]] (1x)

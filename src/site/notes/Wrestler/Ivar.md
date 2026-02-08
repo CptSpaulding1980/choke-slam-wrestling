@@ -25,7 +25,7 @@ avg_rating: 79.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ivar_stats.png" width="200"> | **❌✅❌**<br>- Loss vs. Viking Raiders vs. Saint Rebel Radicalz<br>- Win vs. Undisputed Era vs. Viking Raiders<br>- Loss vs. Militanter Mummenschanz vs. Viking Raiders<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Erik\|Erik]]<br>**Best Match:** 90% vs. Undisputed Era vs. Viking Raiders |
+| <img src="/img/charts/ivar_stats.png" width="200"> | **❌✅❌**<br>❌ **Chris Jericho, Kazuchika Okada** beat Ivar at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>✅ **Ivar** beat Bobby Fish, Kyle O'Reilly at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Bret Hart, Daniel Bryan** beat Ivar at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Erik\|Erik]]<br>**Best Match:** 90% vs. Undisputed Era vs. Viking Raiders |
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 87.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/philipp-brunkovic_stats.png" width="200"> | **✅✅⚪️⚪️⚪️**<br>- Draw vs. Oerel Bardahl<br>- Draw vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente<br>- Draw vs. What if... Battle Royal<br>- Win vs. EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson<br>- Win vs. Shawn Michaels & Logan Paul vs. Militanter Mummenschanz<br> | **Nemesis:** [[Wrestler/Pascal LePas\|Pascal LePas]]<br>**Partner:** [[Wrestler/EC3\|EC3]]<br>**Best Match:** 100% vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente |
+| <img src="/img/charts/philipp-brunkovic_stats.png" width="200"> | **✅✅⚪️⚪️⚪️**<br>⚪️ **Philipp Brunkovic** drew with nan at [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] - 2025-08-21<br>⚪️ **Philipp Brunkovic** drew with nan at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>⚪️ **Philipp Brunkovic** drew with nan at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br>✅ **Philipp Brunkovic** beat Triple H, Iron Mike Tyson at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>✅ **Philipp Brunkovic** beat Shawn Michaels, Logan Paul at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br> | **Nemesis:** [[Wrestler/Pascal LePas\|Pascal LePas]]<br>**Partner:** [[Wrestler/EC3\|EC3]]<br>**Best Match:** 100% vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente |
 
 ## Häufigste Gegner
 - [[Wrestler/Pascal LePas\|Pascal LePas]] (5x)

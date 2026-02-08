@@ -25,7 +25,7 @@ avg_rating: 89.75
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/shelton-benjamin_stats.png" width="200"> | **✅❌✅⚪️**<br>- Draw vs. Andre the Giant Memorial Battle Royal<br>- Win vs. Mark Davis & Kyle Fletcher vs. Sweet 'n Sour Elite<br>- Loss vs. Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi<br>- Win vs. Sweet 'n Sour Elite vs. Cheeseburger & Al Snow<br> | **Nemesis:** [[Wrestler/Shingo Takagi\|Shingo Takagi]]<br>**Partner:** [[Wrestler/Ivelisse\|Ivelisse]]<br>**Best Match:** 100% vs. Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi |
+| <img src="/img/charts/shelton-benjamin_stats.png" width="200"> | **✅❌✅⚪️**<br>⚪️ **Shelton Benjamin** drew with nan at [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] - 2021-06-30<br>✅ **Shelton Benjamin** beat Mark Davis, Kyle Fletcher at [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] - 2021-04-10<br>❌ **Shingo Takagi** beat Shelton Benjamin at [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] - 2021-04-10<br>✅ **Shelton Benjamin** beat Cheeseburger, Al Snow at [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] - 2021-02-25<br> | **Nemesis:** [[Wrestler/Shingo Takagi\|Shingo Takagi]]<br>**Partner:** [[Wrestler/Ivelisse\|Ivelisse]]<br>**Best Match:** 100% vs. Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi |
 
 ## Häufigste Gegner
 - [[Wrestler/Shingo Takagi\|Shingo Takagi]] (2x)

@@ -25,7 +25,7 @@ avg_rating: 92.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/gorilla-monsoon_stats.png" width="200"> | **⚪️⚪️**<br>- Draw vs. Greatest Rumble ever<br>- Draw vs. Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair<br> | **Nemesis:** [[Wrestler/Sara Del Rey\|Sara Del Rey]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 95% vs. Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair |
+| <img src="/img/charts/gorilla-monsoon_stats.png" width="200"> | **⚪️⚪️**<br>⚪️ **Gorilla Monsoon** drew with nan at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br>⚪️ **Gorilla Monsoon** drew with nan at [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] - 2020-06-08<br> | **Nemesis:** [[Wrestler/Sara Del Rey\|Sara Del Rey]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 95% vs. Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair |
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)

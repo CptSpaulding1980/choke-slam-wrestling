@@ -25,7 +25,7 @@ avg_rating: 77.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/oz_stats.png" width="200"> | **⚪️**<br>- Draw vs. The Undertaker vs. Oz<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 77% vs. The Undertaker vs. Oz |
+| <img src="/img/charts/oz_stats.png" width="200"> | **⚪️**<br>⚪️ **Oz** drew with nan at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 77% vs. The Undertaker vs. Oz |
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (1x)

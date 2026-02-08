@@ -25,7 +25,7 @@ avg_rating: 73.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ron-simmons_stats.png" width="200"> | **❌**<br>- Loss vs. Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Jim Duggan\|Jim Duggan]]<br>**Best Match:** 73% vs. Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski |
+| <img src="/img/charts/ron-simmons_stats.png" width="200"> | **❌**<br>❌ **Laredo Kid, Randy Savage, Triple H** beat Ron Simmons at [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] - 2024-07-19<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Jim Duggan\|Jim Duggan]]<br>**Best Match:** 73% vs. Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)

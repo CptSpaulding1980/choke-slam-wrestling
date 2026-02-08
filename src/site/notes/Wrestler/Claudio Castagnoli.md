@@ -25,7 +25,7 @@ avg_rating: 82.56
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/claudio-castagnoli_stats.png" width="200"> | **✅❌✅✅✅**<br>- Win vs. Angelico & Ivelisse vs. Claudio Castagnoli & Pac<br>- Win vs. Claudio Castagnoli & Pac vs. Killer Kelly & Dalton Castle<br>- Win vs. Path of God vs. Claudio Castagnoli & Pac<br>- Loss vs. Claudio Castagnoli & Pac vs. Sweet 'n Sour Elite<br>- Win vs. B: Claudio Castagnoli vs. Masahiro Chono<br> | **Nemesis:** [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]]<br>**Partner:** [[Wrestler/Pac\|Pac]]<br>**Best Match:** 99% vs. Saint Rebel Radicalz vs. Militanter Mummenschanz |
+| <img src="/img/charts/claudio-castagnoli_stats.png" width="200"> | **✅❌✅✅✅**<br>✅ **Claudio Castagnoli** beat Angélico, Ivelisse at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Claudio Castagnoli** beat Killer Kelly, Dalton Castle at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Claudio Castagnoli** beat KUSHIDA, Randy Savage at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Gunther, The Undertaker** beat Claudio Castagnoli at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Claudio Castagnoli** beat Masahiro Chono at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br> | **Nemesis:** [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]]<br>**Partner:** [[Wrestler/Pac\|Pac]]<br>**Best Match:** 99% vs. Saint Rebel Radicalz vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (4x)

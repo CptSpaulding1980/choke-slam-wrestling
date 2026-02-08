@@ -26,7 +26,7 @@ avg_rating: 85.61
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/finn-blor_stats.png" width="200"> | **❌❌✅❌❌**<br>- Loss vs. Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz<br>- Loss vs. Sweet 'n Sour Elite vs. Finn Bálor & Dominik Mysterio<br>- Win vs. Dominik Mysterio & Finn Bálor vs. Sweet 'n Sour Elite<br>- Loss vs. Choke Slam International Championship: Bret Hart vs. Finn Bálor vs. The Undertaker vs. Randy Savage<br>- Loss vs. I got 4 on it<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Fallon Henley\|Fallon Henley]]<br>**Best Match:** 99% vs. Saint Rebel Radicalz vs. Finn Bálor & The Undertaker |
+| <img src="/img/charts/finn-blor_stats.png" width="200"> | **❌❌✅❌❌**<br>❌ **Lady Apache, Wardlow** beat Finn Bálor at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Akira Taue, KONOSUKE TAKESHITA** beat Finn Bálor at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Finn Bálor** beat Adam Page, Steve Austin at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Bret Hart** beat Finn Bálor at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br>❌ **Joe Hendry, Zack Sabre Jr., Gunther, The Undertaker** beat Finn Bálor at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Fallon Henley\|Fallon Henley]]<br>**Best Match:** 99% vs. Saint Rebel Radicalz vs. Finn Bálor & The Undertaker |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (5x)

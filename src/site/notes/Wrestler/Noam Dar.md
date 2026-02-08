@@ -25,7 +25,7 @@ avg_rating: 88.09
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/noam-dar_stats.png" width="200"> | **❌❌✅✅⚪️**<br>- Draw vs. AJ Styles vs. Sweet 'n Sour Elite<br>- Win vs. Hulk Hogan vs. Sweet 'n Sour Elite<br>- Win vs. Guardians of the Galaxy 1<br>- Loss vs. Guardians of the Galaxy 2<br>- Loss vs. Guardians of the Galaxy 3<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/noam-dar_stats.png" width="200"> | **❌❌✅✅⚪️**<br>⚪️ **Noam Dar** drew with nan at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br>✅ **Noam Dar** beat Hulk Hogan at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br>✅ **Noam Dar** beat Jon Moxley, Seth Rollins, Batista, John Cena at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br>❌ **Jon Moxley, Seth Rollins, Bret Hart, Miro** beat Noam Dar at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br>❌ **Bret Hart, Miro, John Cena, Batista** beat Noam Dar at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (5x)

@@ -25,7 +25,7 @@ avg_rating: 92.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/xavier-woods_stats.png" width="200"> | **❌❌✅**<br>- Win vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods<br>- Loss vs. Sweet 'n Sour Elite vs. Big E, Kofi Kingston, & Xavier Woods<br>- Loss vs. Saint Rebel Radicalz vs. Big E, Kofi Kingston, & Xavier Woods<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Big E\|Big E]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods |
+| <img src="/img/charts/xavier-woods_stats.png" width="200"> | **❌❌✅**<br>✅ **Xavier Woods** beat EC3, Kevin Steen, Ric Flair at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>❌ **Rush, Hendrique Delafuente, Triple H** beat Xavier Woods at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>❌ **Chris Hero, Kurt Angle, Aoife Valkyrie** beat Xavier Woods at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Big E\|Big E]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

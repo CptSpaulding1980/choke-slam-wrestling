@@ -25,7 +25,7 @@ avg_rating: 93.62
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/taya-valkyrie_stats.png" width="200"> | **❌✅❌✅❌**<br>- Loss vs. Militanter Mummenschanz vs. Daga  & Taya Valkyrie<br>- Win vs. Saint Rebel Radicalz vs. Daga , Johnny Mundo & Taya Valkyrie<br>- Loss vs. Militanter Mummenschanz vs. Mexicans<br>- Win vs. Sweet 'n Sour Elite vs. Mexicans<br>- Loss vs. Saint Rebel Radicalz vs. Mexicans<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Daga\|Daga]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
+| <img src="/img/charts/taya-valkyrie_stats.png" width="200"> | **❌✅❌✅❌**<br>❌ **Edge, KENTA** beat Taya Valkyrie at [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] - 2021-04-15<br>✅ **Taya Valkyrie** beat Bob Backlund, Kazuchika Okada, Rey Fenix at [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] - 2021-04-15<br>❌ **Joey Janela, Madison Rayne, Kane, Edge** beat Taya Valkyrie at [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] - 2021-04-15<br>✅ **Taya Valkyrie** beat Ivelisse, Tetsuya Naito, The Blade, The Butcher at [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] - 2021-04-15<br>❌ **Dustin Rhodes, Bob Backlund, Rey Fenix, Gail Kim** beat Taya Valkyrie at [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] - 2021-04-15<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Daga\|Daga]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)

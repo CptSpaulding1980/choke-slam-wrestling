@@ -25,7 +25,7 @@ avg_rating: 80.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/tatum-paxley_stats.png" width="200"> | **⚪️❌❌❌✅**<br>- Win vs. Handicap: Sweet 'n Sour Elite (Hendry & Paxley) vs. Bandido<br>- Loss vs. Sweet 'n Sour Elite vs. Cactus Jack & Sheamus<br>- Loss vs. Sweet 'n Sour Elite vs. Bob Backlund, Kazuchika Okada, & Rey Fenix<br>- Loss vs. Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe<br>- Draw vs. Royal Rumble<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Ryusuke Taguchi\|Ryusuke Taguchi]]<br>**Best Match:** 97% vs. Finn Bálor vs. Tatum Paxley vs. Triple H |
+| <img src="/img/charts/tatum-paxley_stats.png" width="200"> | **⚪️❌❌❌✅**<br>✅ **Tatum Paxley** beat Bandido at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br>❌ **Cactus Jack, Sheamus** beat Tatum Paxley at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br>❌ **Bob Backlund, Kazuchika Okada, Rey Fenix** beat Tatum Paxley at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>❌ **Big Ryck, Chyna, Big Van Vader, Samoa Joe** beat Tatum Paxley at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **Tatum Paxley** drew with nan at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Ryusuke Taguchi\|Ryusuke Taguchi]]<br>**Best Match:** 97% vs. Finn Bálor vs. Tatum Paxley vs. Triple H |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (4x)

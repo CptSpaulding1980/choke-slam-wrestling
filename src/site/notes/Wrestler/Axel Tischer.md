@@ -25,7 +25,7 @@ avg_rating: 80.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/axel-tischer_stats.png" width="200"> | **❌❌❌**<br>- Loss vs. Davey Boy Smith vs. Axel Tischer<br>- Loss vs. Ludwig Kaiser vs. Axel Tischer<br>- Loss vs. Grayson Waller vs. Axel Tischer<br> | **Nemesis:** [[Wrestler/Davey Boy Smith\|Davey Boy Smith]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 83% vs. Grayson Waller vs. Axel Tischer |
+| <img src="/img/charts/axel-tischer_stats.png" width="200"> | **❌❌❌**<br>❌ **Davey Boy Smith** beat Axel Tischer at [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] - 2023-03-29<br>❌ **Ludwig Kaiser** beat Axel Tischer at [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] - 2023-03-29<br>❌ **Grayson Waller** beat Axel Tischer at [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] - 2023-03-29<br> | **Nemesis:** [[Wrestler/Davey Boy Smith\|Davey Boy Smith]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 83% vs. Grayson Waller vs. Axel Tischer |
 
 ## Häufigste Gegner
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)

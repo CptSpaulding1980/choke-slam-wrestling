@@ -25,7 +25,7 @@ avg_rating: 90.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mustafa-ali_stats.png" width="200"> | **❌✅❌**<br>- Loss vs. Mansoor & Mustafa Ali vs. Militanter Mummenschanz<br>- Win vs. Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite<br>- Loss vs. Mansoor & Mustafa Ali vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Consequences Creed\|Consequences Creed]]<br>**Partner:** [[Wrestler/Mansoor\|Mansoor]]<br>**Best Match:** 97% vs. Mansoor & Mustafa Ali vs. Saint Rebel Radicalz |
+| <img src="/img/charts/mustafa-ali_stats.png" width="200"> | **❌✅❌**<br>❌ **Consequences Creed, Jeff Jarrett** beat Mustafa Ali at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>✅ **Mustafa Ali** beat Rush, Eddie Edwards at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>❌ **Christian Cage, Randy Savage** beat Mustafa Ali at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br> | **Nemesis:** [[Wrestler/Consequences Creed\|Consequences Creed]]<br>**Partner:** [[Wrestler/Mansoor\|Mansoor]]<br>**Best Match:** 97% vs. Mansoor & Mustafa Ali vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)

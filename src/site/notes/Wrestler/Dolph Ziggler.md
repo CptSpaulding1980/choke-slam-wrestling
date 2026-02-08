@@ -25,7 +25,7 @@ avg_rating: 84.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dolph-ziggler_stats.png" width="200"> | **❌✅⚪️**<br>- Draw vs. Greatest Rumble ever<br>- Win vs. Dolph Ziggler & Rey Mysterio Jr. vs. Militanter Mummenschanz<br>- Loss vs. Saint Rebel Radicalz vs. Dolph Ziggler & Rey Mysterio Jr.<br> | **Nemesis:** [[Wrestler/Kane\|Kane]]<br>**Partner:** [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
+| <img src="/img/charts/dolph-ziggler_stats.png" width="200"> | **❌✅⚪️**<br>⚪️ **Dolph Ziggler** drew with nan at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br>✅ **Dolph Ziggler** beat Kane, Jushin Liger at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br>❌ **Kazuchika Okada, Rey Fenix** beat Dolph Ziggler at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br> | **Nemesis:** [[Wrestler/Kane\|Kane]]<br>**Partner:** [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
 
 ## Häufigste Gegner
 - [[Wrestler/Kane\|Kane]] (2x)

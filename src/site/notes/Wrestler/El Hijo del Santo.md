@@ -25,7 +25,7 @@ avg_rating: 81.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/el-hijo-del-santo_stats.png" width="200"> | **❌✅❌**<br>- Loss vs. Mascara contra Caballera: AJ Styles vs. El Hijo del Santo (w/Dr. HH)<br>- Win vs. Mascara contra Caballera: Jonathan Gresham vs. El Hijo del Santo (w/Dr. HH)<br>- Loss vs. Mascara contra Caballera: Jon Moxley vs. El Hijo del Santo (w/Dr. HH)<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 91% vs. Mascara contra Caballera: AJ Styles vs. El Hijo del Santo (w/Dr. HH) |
+| <img src="/img/charts/el-hijo-del-santo_stats.png" width="200"> | **❌✅❌**<br>❌ **AJ Styles** beat El Hijo del Santo at [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] - 2023-08-22<br>✅ **El Hijo del Santo** beat Jonathan Gresham at [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] - 2023-08-22<br>❌ **Jon Moxley** beat El Hijo del Santo at [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] - 2023-08-22<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 91% vs. Mascara contra Caballera: AJ Styles vs. El Hijo del Santo (w/Dr. HH) |
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)

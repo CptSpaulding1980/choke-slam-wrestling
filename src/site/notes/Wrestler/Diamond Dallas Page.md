@@ -25,7 +25,7 @@ avg_rating: 93.75
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/diamond-dallas-page_stats.png" width="200"> | **✅❌⚪️✅**<br>- Win vs. Militanter Mummenschanz vs. Dean Malenko & Diamond Dallas Page<br>- Draw vs. Exhibition 1 - Cage Match<br>- Loss vs. Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz<br>- Win vs. Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Killshot\|Killshot]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 100% vs. Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz |
+| <img src="/img/charts/diamond-dallas-page_stats.png" width="200"> | **✅❌⚪️✅**<br>✅ **Diamond Dallas Page** beat Eddie Edwards, Gigi Dolin at [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] - 2023-05-30<br>⚪️ **Diamond Dallas Page** drew with nan at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br>❌ **Killshot, Britt Baker** beat Diamond Dallas Page at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br>✅ **Diamond Dallas Page** beat Tetsuya Naito, Thunder Rosa at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br> | **Nemesis:** [[Wrestler/Killshot\|Killshot]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 100% vs. Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (1x)

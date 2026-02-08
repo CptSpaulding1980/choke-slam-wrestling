@@ -25,7 +25,7 @@ avg_rating: 85.6
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/akira-hokuto_stats.png" width="200"> | **❌✅❌❌⚪️**<br>- Draw vs. Womens Royal Rumble<br>- Loss vs. Sin Cara vs. Aoife Valkyrie vs. Killer Kelly vs. Akira Hokuto<br>- Loss vs. Akira Hokuto vs. Big Van Vader<br>- Win vs. Militanter Mummenschanz vs. Sweet 'n Sour Elite<br>- Loss vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]]<br>**Partner:** [[Wrestler/Lucky Kid\|Lucky Kid]]<br>**Best Match:** 94% vs. Militanter Mummenschanz vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/akira-hokuto_stats.png" width="200"> | **❌✅❌❌⚪️**<br>⚪️ **Akira Hokuto** drew with nan at [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] - 2023-02-22<br>❌ **Sin Cara** beat Akira Hokuto at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>❌ **Big Van Vader** beat Akira Hokuto at [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] - 2021-09-06<br>✅ **Akira Hokuto** beat Claudio Castagnoli, Consequences Creed at [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] - 2021-08-23<br>❌ **Aoife Valkyrie, Rey Mysterio Jr.** beat Akira Hokuto at [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] - 2021-08-23<br> | **Nemesis:** [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]]<br>**Partner:** [[Wrestler/Lucky Kid\|Lucky Kid]]<br>**Best Match:** 94% vs. Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (2x)

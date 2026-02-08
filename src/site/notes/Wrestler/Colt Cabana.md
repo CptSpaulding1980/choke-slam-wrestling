@@ -25,7 +25,7 @@ avg_rating: 93.8
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/colt-cabana_stats.png" width="200"> | **❌✅❌❌❌**<br>- Loss vs. Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz<br>- Loss vs. Killshot vs. Colt Cabana vs. Tetsuya Naito vs. Shelton Benjamin vs. Bob Backlund vs. Shingo Takagi<br>- Loss vs. Militanter Mummenschanz vs. Imperium<br>- Win vs. Sweet 'n Sour Elite vs. Militanter Mummenschanz<br>- Loss vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Fabian Aichner\|Fabian Aichner]]<br>**Partner:** [[Wrestler/Killshot\|Killshot]]<br>**Best Match:** 100% vs. Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz |
+| <img src="/img/charts/colt-cabana_stats.png" width="200"> | **❌✅❌❌❌**<br>❌ **Mark Davis, Kyle Fletcher** beat Colt Cabana at [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] - 2021-04-10<br>❌ **Shingo Takagi** beat Colt Cabana at [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] - 2021-04-10<br>❌ **Fabian Aichner, Marcel Barthel** beat Colt Cabana at [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] - 2021-01-21<br>✅ **Colt Cabana** beat Austin Aries, Paul Orndorff at [[Events/2021-01-21 - S03E05_Ireland\|S03E05_Ireland]] - 2021-01-21<br>❌ **Bob Backlund, Rey Fenix** beat Colt Cabana at [[Events/2021-01-21 - S03E05_Ireland\|S03E05_Ireland]] - 2021-01-21<br> | **Nemesis:** [[Wrestler/Fabian Aichner\|Fabian Aichner]]<br>**Partner:** [[Wrestler/Killshot\|Killshot]]<br>**Best Match:** 100% vs. Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Fabian Aichner\|Fabian Aichner]] (1x)

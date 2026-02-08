@@ -25,7 +25,7 @@ avg_rating: 83.45
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/john-cena_stats.png" width="200"> | **❌❌⚪️❌✅**<br>- Win vs. Fallon Henley vs. John Cena<br>- Loss vs. The Undertaker vs. John Cena<br>- Draw vs. Kiana James vs. John Cena<br>- Loss vs. Guardians of the Galaxy 1<br>- Loss vs. Guardians of the Galaxy 2<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Batista\|Batista]]<br>**Best Match:** 99% vs. Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin |
+| <img src="/img/charts/john-cena_stats.png" width="200"> | **❌❌⚪️❌✅**<br>✅ **John Cena** beat Fallon Henley at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br>❌ **The Undertaker** beat John Cena at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br>⚪️ **John Cena** drew with nan at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br>❌ **Bret Hart, Miro, Bull Nakano, Noam Dar** beat John Cena at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br>❌ **Jon Moxley, Seth Rollins, Bret Hart, Miro** beat John Cena at [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] - 2023-11-03<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Batista\|Batista]]<br>**Best Match:** 99% vs. Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (3x)

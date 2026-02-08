@@ -25,7 +25,7 @@ avg_rating: 79.18
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/drew-gulak_stats.png" width="200"> | **❌❌✅❌❌**<br>- Loss vs. Drew Gulak & Mansoor vs. Diesel & AJ Styles<br>- Loss vs. South West Division: Drew Gulak vs. The Undertaker<br>- Win vs. South West Division: Kairi Sane vs. Drew Gulak<br>- Loss vs. South West Division: Drew Gulak vs. Triple H<br>- Loss vs. Drew Gulak vs. Larry Zbyszko<br> | **Nemesis:** [[Wrestler/Jordynne Grace\|Jordynne Grace]]<br>**Partner:** [[Wrestler/Masha Slamovich\|Masha Slamovich]]<br>**Best Match:** 93% vs. Rumble |
+| <img src="/img/charts/drew-gulak_stats.png" width="200"> | **❌❌✅❌❌**<br>❌ **Diesel, AJ Styles** beat Drew Gulak at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br>❌ **The Undertaker** beat Drew Gulak at [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] - 2024-07-19<br>✅ **Drew Gulak** beat Kairi Sane at [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] - 2024-07-19<br>❌ **Triple H** beat Drew Gulak at [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] - 2024-07-19<br>❌ **Larry Zbyszko** beat Drew Gulak at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br> | **Nemesis:** [[Wrestler/Jordynne Grace\|Jordynne Grace]]<br>**Partner:** [[Wrestler/Masha Slamovich\|Masha Slamovich]]<br>**Best Match:** 93% vs. Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)

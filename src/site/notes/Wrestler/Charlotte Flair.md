@@ -25,7 +25,7 @@ avg_rating: 88.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/charlotte-flair_stats.png" width="200"> | **⚪️❌✅✅❌**<br>- Loss vs. Lady Apache vs. Jay White vs. Bandido vs. Charlotte Flair vs. Chris Jericho vs. Edge<br>- Win vs. Womens Quarter Finals: Charlotte Flair vs. Lady Apache<br>- Win vs. Womens Semi Finals: Awesome Kong vs. Charlotte Flair<br>- Loss vs. Queen of the Ring Final: Charlotte Flair vs. Sasha Banks<br>- Draw vs. Reveal Rumble<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Fit Finlay\|Fit Finlay]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/charlotte-flair_stats.png" width="200"> | **⚪️❌✅✅❌**<br>❌ **Lady Apache** beat Charlotte Flair at [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] - 2025-10-02<br>✅ **Charlotte Flair** beat Lady Apache at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br>✅ **Charlotte Flair** beat Awesome Kong at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br>❌ **Sasha Banks** beat Charlotte Flair at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br>⚪️ **Charlotte Flair** drew with nan at [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] - 2025-06-03<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Fit Finlay\|Fit Finlay]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)

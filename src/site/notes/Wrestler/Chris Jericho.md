@@ -25,7 +25,7 @@ avg_rating: 82.56
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/chris-jericho_stats.png" width="200"> | **✅✅✅⚪️⚪️**<br>- Draw vs. Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz<br>- Draw vs. Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz<br>- Win vs. Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz<br>- Win vs. Saint Rebel Radicalz vs. Saint Rebel Radicalz<br>- Win vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/chris-jericho_stats.png" width="200"> | **✅✅✅⚪️⚪️**<br>⚪️ **Chris Jericho** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>⚪️ **Chris Jericho** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>✅ **Chris Jericho** beat Johnny Gargano, Tommaso Ciampa at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Chris Jericho** beat Awesome Kong, Edge at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Chris Jericho** beat Lady Apache, Wardlow at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (9x)

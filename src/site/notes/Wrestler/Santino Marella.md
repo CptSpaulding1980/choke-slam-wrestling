@@ -25,7 +25,7 @@ avg_rating: 87.75
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/santino-marella_stats.png" width="200"> | **❌✅❌⚪️**<br>- Draw vs. Greatest Rumble ever<br>- Loss vs. Killshot   vs. Santino Marella<br>- Win vs. Thunder Rosa vs. Santino Marella<br>- Loss vs. Kazuchika Okada vs. Santino Marella<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 97% vs. Kazuchika Okada vs. Santino Marella |
+| <img src="/img/charts/santino-marella_stats.png" width="200"> | **❌✅❌⚪️**<br>⚪️ **Santino Marella** drew with nan at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br>❌ **Killshot** beat Santino Marella at [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] - 2021-01-21<br>✅ **Santino Marella** beat Thunder Rosa at [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] - 2021-01-21<br>❌ **Kazuchika Okada** beat Santino Marella at [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] - 2021-01-21<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 97% vs. Kazuchika Okada vs. Santino Marella |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)

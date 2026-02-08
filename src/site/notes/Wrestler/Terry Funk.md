@@ -25,7 +25,7 @@ avg_rating: 84.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/terry-funk_stats.png" width="200"> | **⚪️❌✅✅**<br>- Win vs. Barb Wire: Terry Funk vs. AJ Styles<br>- Win vs. Barb Wire: Terry Funk vs. Brody King<br>- Loss vs. Barb Wire: Terry Funk vs. Kenny Omega<br>- Draw vs. Greatest Rumble ever<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Barb Wire: Terry Funk vs. Kenny Omega |
+| <img src="/img/charts/terry-funk_stats.png" width="200"> | **⚪️❌✅✅**<br>✅ **Terry Funk** beat AJ Styles at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>✅ **Terry Funk** beat Brody King at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>❌ **Kenny Omega** beat Terry Funk at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>⚪️ **Terry Funk** drew with nan at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Barb Wire: Terry Funk vs. Kenny Omega |
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

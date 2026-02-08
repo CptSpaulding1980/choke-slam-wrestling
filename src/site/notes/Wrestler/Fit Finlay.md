@@ -25,7 +25,7 @@ avg_rating: 90.1
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/fit-finlay_stats.png" width="200"> | **⚪️❌✅❌⚪️**<br>- Draw vs. Oerel Bardahl<br>- Loss vs. Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns<br>- Win vs. Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Los Jinetes del Aire (c)<br>- Loss vs. Choke Slam Trios Championship: Militanter Mummenschanz vs. Sweet 'n Sour Elite (c)<br>- Draw vs. Reveal Rumble<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Charlotte Flair\|Charlotte Flair]]<br>**Best Match:** 102% vs. Bob Backlund vs. Fit Finlay |
+| <img src="/img/charts/fit-finlay_stats.png" width="200"> | **⚪️❌✅❌⚪️**<br>⚪️ **Fit Finlay** drew with nan at [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] - 2025-08-21<br>❌ **Roman Reigns** beat Fit Finlay at [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] - 2025-08-21<br>✅ **Fit Finlay** beat El Hijo del Vikingo, Myzteziz Jr., Laredo Kid at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br>❌ **Daniel Bryan, Lex Luger, Wardlow** beat Fit Finlay at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br>⚪️ **Fit Finlay** drew with nan at [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] - 2025-06-03<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Charlotte Flair\|Charlotte Flair]]<br>**Best Match:** 102% vs. Bob Backlund vs. Fit Finlay |
 
 ## Häufigste Gegner
 - [[Wrestler/Edge\|Edge]] (4x)

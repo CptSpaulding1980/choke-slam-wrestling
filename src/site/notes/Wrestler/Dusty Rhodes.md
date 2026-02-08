@@ -25,7 +25,7 @@ avg_rating: 84.22
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dusty-rhodes_stats.png" width="200"> | **❌✅⚪️❌❌**<br>- Loss vs. AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi<br>- Loss vs. Path of God vs. Sweet 'n Sour Elite<br>- Draw vs. Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. AJ Styles vs. Dusty Rhodes vs. Hiroshi Tanahashi vs. Triple H<br>- Win vs. Drew Gulak vs. Dusty Rhodes<br>- Loss vs. Dusty Rhodes vs. Dijak<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Drew Gulak\|Drew Gulak]]<br>**Best Match:** 104% vs. Roman Reigns vs. Dusty Rhodes |
+| <img src="/img/charts/dusty-rhodes_stats.png" width="200"> | **❌✅⚪️❌❌**<br>❌ **Hiroshi Tanahashi** beat Dusty Rhodes at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br>❌ **Gunther, The Undertaker** beat Dusty Rhodes at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br>⚪️ **Dusty Rhodes** drew with nan at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br>✅ **Dusty Rhodes** beat Drew Gulak at [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] - 2024-04-10<br>❌ **Dijak** beat Dusty Rhodes at [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] - 2024-04-10<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Drew Gulak\|Drew Gulak]]<br>**Best Match:** 104% vs. Roman Reigns vs. Dusty Rhodes |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (6x)

@@ -25,7 +25,7 @@ avg_rating: 75.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/charlie-dempsey_stats.png" width="200"> | **❌❌✅**<br>- Win vs. Charlie Dempsey vs. Kofi Kingston<br>- Loss vs. Nathan Frazer vs. Charlie Dempsey<br>- Loss vs. Charlie Dempsey vs. Tyler Bate<br> | **Nemesis:** [[Wrestler/Kofi Kingston\|Kofi Kingston]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 79% vs. Charlie Dempsey vs. Kofi Kingston |
+| <img src="/img/charts/charlie-dempsey_stats.png" width="200"> | **❌❌✅**<br>✅ **Charlie Dempsey** beat Kofi Kingston at [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] - 2024-04-10<br>❌ **Nathan Frazer** beat Charlie Dempsey at [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] - 2024-04-10<br>❌ **Tyler Bate** beat Charlie Dempsey at [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] - 2024-04-10<br> | **Nemesis:** [[Wrestler/Kofi Kingston\|Kofi Kingston]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 79% vs. Charlie Dempsey vs. Kofi Kingston |
 
 ## Häufigste Gegner
 - [[Wrestler/Kofi Kingston\|Kofi Kingston]] (1x)

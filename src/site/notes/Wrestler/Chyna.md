@@ -25,7 +25,7 @@ avg_rating: 84.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/chyna_stats.png" width="200"> | **✅✅✅⚪️✅**<br>- Win vs. Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe<br>- Draw vs. Royal Rumble<br>- Win vs. Nature Game Masters  vs. Spirit Squad<br>- Win vs. Chyna vs. Gillberg & The Gobbledy Gooker<br>- Win vs. VF3: Big Van Vader, Madison Rayne, & Triple H vs. Chyna, Seth Rollins, & Big Ryck<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Big Ryck\|Big Ryck]]<br>**Best Match:** 98% vs. Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins |
+| <img src="/img/charts/chyna_stats.png" width="200"> | **✅✅✅⚪️✅**<br>✅ **Chyna** beat Tatum Paxley, Joe Hendry, The Undertaker, Gunther at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **Chyna** drew with nan at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>✅ **Chyna** beat Johnny, Kenny, Mikey, Nicky at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br>✅ **Chyna** beat Gillberg, The Gobbledy Gooker at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br>✅ **Chyna** beat Big Van Vader, Madison Rayne, Triple H at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Big Ryck\|Big Ryck]]<br>**Best Match:** 98% vs. Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)

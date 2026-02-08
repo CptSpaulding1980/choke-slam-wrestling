@@ -25,7 +25,7 @@ avg_rating: 79.6
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kento-miyahara_stats.png" width="200"> | **⚪️✅✅❌❌**<br>- Loss vs. A: Kazuchika Okada vs. Kento Miyahara<br>- Loss vs. A: Kento Miyahara vs. Hiroshi Tanahashi<br>- Win vs. A: Kento Miyahara vs. Tama Tonga<br>- Win vs. A: Kento Miyahara vs. Bret Hart<br>- Draw vs. Rumble<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 93% vs. Rumble |
+| <img src="/img/charts/kento-miyahara_stats.png" width="200"> | **⚪️✅✅❌❌**<br>❌ **Kazuchika Okada** beat Kento Miyahara at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br>❌ **Hiroshi Tanahashi** beat Kento Miyahara at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br>✅ **Kento Miyahara** beat Tama Tonga at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br>✅ **Kento Miyahara** beat Bret Hart at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br>⚪️ **Kento Miyahara** drew with nan at [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] - 2024-02-15<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 93% vs. Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (2x)

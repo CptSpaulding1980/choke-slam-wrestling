@@ -25,7 +25,7 @@ avg_rating: 93.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/marty-jannetty_stats.png" width="200"> | **❌**<br>- Loss vs. Jeff Jarrett & Killer Kelly vs. The Rockers vs. Christian Cage &.Tetsuya Naito (c)<br> | **Nemesis:** [[Wrestler/Christian Cage\|Christian Cage]]<br>**Partner:** [[Wrestler/Jeff Jarrett\|Jeff Jarrett]]<br>**Best Match:** 93% vs. Jeff Jarrett & Killer Kelly vs. The Rockers vs. Christian Cage &.Tetsuya Naito (c) |
+| <img src="/img/charts/marty-jannetty_stats.png" width="200"> | **❌**<br>❌ **Christian Cage** beat Marty Jannetty at [[Events/2022-02-21 - S04E08_Fan Favourites\|S04E08_Fan Favourites]] - 2022-02-21<br> | **Nemesis:** [[Wrestler/Christian Cage\|Christian Cage]]<br>**Partner:** [[Wrestler/Jeff Jarrett\|Jeff Jarrett]]<br>**Best Match:** 93% vs. Jeff Jarrett & Killer Kelly vs. The Rockers vs. Christian Cage &.Tetsuya Naito (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Christian Cage\|Christian Cage]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 82.42
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/triple-h_stats.png" width="200"> | **❌✅❌⚪️✅**<br>- Win vs. Path of God vs. Big Van Vader, Madison Rayne, & Triple H<br>- Draw vs. Royal Rumble<br>- Loss vs. Finn Bálor vs. Tatum Paxley vs. Triple H<br>- Win vs. Saint Rebel Radicalz vs. Saint Rebel Radicalz<br>- Loss vs. Saint Rebel Radicalz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 101% vs. Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H |
+| <img src="/img/charts/triple-h_stats.png" width="200"> | **❌✅❌⚪️✅**<br>✅ **Triple H** beat Fallon Henley, Finn Bálor, KUSHIDA at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **Triple H** drew with nan at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>❌ **Finn Bálor** beat Triple H at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br>✅ **Triple H** beat Laredo Kid, Tetsuya Naito at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Kiana James, Sara Del Rey** beat Triple H at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 101% vs. Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H |
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (11x)

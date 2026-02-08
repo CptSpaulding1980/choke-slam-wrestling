@@ -25,7 +25,7 @@ avg_rating: 84.72
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/edge_stats.png" width="200"> | **❌❌✅⚪️⚪️**<br>- Draw vs. Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz<br>- Draw vs. Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz<br>- Win vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Loss vs. Saint Rebel Radicalz vs. Saint Rebel Radicalz<br>- Loss vs. Saint Rebel Radicalz vs.Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/KENTA\|KENTA]]<br>**Best Match:** 100% vs. Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada |
+| <img src="/img/charts/edge_stats.png" width="200"> | **❌❌✅⚪️⚪️**<br>⚪️ **Edge** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>⚪️ **Edge** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>✅ **Edge** beat Akira Taue, KONOSUKE TAKESHITA at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Brock Lesnar, Chris Jericho** beat Edge at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Jun Akiyama, Kazuchika Okada** beat Edge at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/KENTA\|KENTA]]<br>**Best Match:** 100% vs. Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (6x)

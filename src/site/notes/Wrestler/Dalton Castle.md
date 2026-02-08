@@ -25,7 +25,7 @@ avg_rating: 85.85
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dalton-castle_stats.png" width="200"> | **⚪️❌❌❌❌**<br>- Loss vs. Dalton Castle & Dr. Wagner Jr. vs. Bret Hart & Owen Hart<br>- Loss vs. Killer Kelly & Dalton Castle vs. Path of God<br>- Loss vs. Claudio Castagnoli & Pac vs. Killer Kelly & Dalton Castle<br>- Loss vs. Path of God vs. Killer Kelly & Dalton Castle<br>- Draw vs. Dalton Castle & Killer Kelly vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Cesaro\|Cesaro]]<br>**Best Match:** 100% vs. Choke Slam Tag Team Championship: Dalton Castle & Dr. Wagner Jr. vs. Saint Rebel Radicalz (c) |
+| <img src="/img/charts/dalton-castle_stats.png" width="200"> | **⚪️❌❌❌❌**<br>❌ **Bret Hart, Owen Hart** beat Dalton Castle at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br>❌ **Hiroshi Tanahashi, Toru Yano** beat Dalton Castle at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Claudio Castagnoli, Pac** beat Dalton Castle at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Hiroshi Tanahashi, Toru Yano** beat Dalton Castle at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>⚪️ **Dalton Castle** drew with nan at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Cesaro\|Cesaro]]<br>**Best Match:** 100% vs. Choke Slam Tag Team Championship: Dalton Castle & Dr. Wagner Jr. vs. Saint Rebel Radicalz (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)

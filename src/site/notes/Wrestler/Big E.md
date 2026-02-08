@@ -25,7 +25,7 @@ avg_rating: 93.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/big-e_stats.png" width="200"> | **❌✅✅❌❌**<br>- Loss vs. Billy Gunn & Road Dogg vs. Big E & Kofi Kingston<br>- Loss vs. Big E & Kofi Kingston vs. Sweet 'n Sour Elite<br>- Win vs. Big E & Kofi Kingston vs. Mosh & Thrasher<br>- Win vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods<br>- Loss vs. Sweet 'n Sour Elite vs. Big E, Kofi Kingston, & Xavier Woods<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Kofi Kingston\|Kofi Kingston]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods |
+| <img src="/img/charts/big-e_stats.png" width="200"> | **❌✅✅❌❌**<br>❌ **Road Dogg, Billy Gunn** beat Big E at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Akira Taue, KONOSUKE TAKESHITA** beat Big E at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>✅ **Big E** beat Mosh, Thrasher at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>✅ **Big E** beat EC3, Kevin Steen, Ric Flair at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>❌ **Rush, Hendrique Delafuente, Triple H** beat Big E at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Kofi Kingston\|Kofi Kingston]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 87.09
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/pete-dunne_stats.png" width="200"> | **✅⚪️❌❌❌**<br>- Loss vs. Bret Hart vs. Pete Dunne vs. Akira Taue<br>- Loss vs. Bandido vs. Sasha Banks vs. Pete Dunne<br>- Loss vs. Edge vs. Awesome Kong vs. Pete Dunne<br>- Draw vs. Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido<br>- Win vs. Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 101% vs. Bret Hart vs. Pete Dunne vs. Akira Taue |
+| <img src="/img/charts/pete-dunne_stats.png" width="200"> | **✅⚪️❌❌❌**<br>❌ **Akira Taue** beat Pete Dunne at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>❌ **Sasha Banks** beat Pete Dunne at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>❌ **Awesome Kong** beat Pete Dunne at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>⚪️ **Pete Dunne** drew with nan at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>✅ **Pete Dunne** beat Rey Fenix, Penta El Zero Miedo, Pac at [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] - 2025-10-02<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 101% vs. Bret Hart vs. Pete Dunne vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)

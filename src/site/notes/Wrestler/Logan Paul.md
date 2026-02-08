@@ -25,7 +25,7 @@ avg_rating: 90.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/logan-paul_stats.png" width="200"> | **❌❌**<br>- Loss vs. Triple H & Iron Mike Tyson vs. Shawn Michaels & Logan Paul<br>- Loss vs. Shawn Michaels & Logan Paul vs. Militanter Mummenschanz<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Shawn Michaels\|Shawn Michaels]]<br>**Best Match:** 91% vs. Shawn Michaels & Logan Paul vs. Militanter Mummenschanz |
+| <img src="/img/charts/logan-paul_stats.png" width="200"> | **❌❌**<br>❌ **Triple H, Iron Mike Tyson** beat Logan Paul at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>❌ **EC3, Philipp Brunkovic** beat Logan Paul at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Shawn Michaels\|Shawn Michaels]]<br>**Best Match:** 91% vs. Shawn Michaels & Logan Paul vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (1x)

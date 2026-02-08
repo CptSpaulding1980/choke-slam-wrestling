@@ -25,7 +25,7 @@ avg_rating: 81.4
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/adam-cole_stats.png" width="200"> | **⚪️✅❌✅❌**<br>- Loss vs. AJ Styles vs. Adam Cole<br>- Win vs. Militanter Mummenschanz vs. Adam Cole & Britt Baker<br>- Loss vs. Sweet 'n Sour Elite vs. Adam Cole & Britt Baker<br>- Win vs. Saint Rebel Radicalz vs. Adam Cole & Britt Baker<br>- Draw vs. Greatest Rumble ever<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Britt Baker\|Britt Baker]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
+| <img src="/img/charts/adam-cole_stats.png" width="200"> | **⚪️✅❌✅❌**<br>❌ **AJ Styles** beat Adam Cole at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br>✅ **Adam Cole** beat Kevin Steen, Killer Kelly at [[Events/2022-02-21 - S04E08_Fan Favourites\|S04E08_Fan Favourites]] - 2022-02-21<br>❌ **Rush, Madison Rayne** beat Adam Cole at [[Events/2022-02-21 - S04E08_Fan Favourites\|S04E08_Fan Favourites]] - 2022-02-21<br>✅ **Adam Cole** beat Aoife Valkyrie, Steve Austin at [[Events/2022-02-21 - S04E08_Fan Favourites\|S04E08_Fan Favourites]] - 2022-02-21<br>⚪️ **Adam Cole** drew with nan at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Britt Baker\|Britt Baker]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

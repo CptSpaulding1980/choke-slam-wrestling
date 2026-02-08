@@ -25,7 +25,7 @@ avg_rating: 82.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bobby-eaton_stats.png" width="200"> | **⚪️✅**<br>- Win vs. Sweet 'n Sour Elite vs. Bobby Eaton & Dusty Rhodes<br>- Draw vs. Greatest Rumble ever<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Dusty Rhodes\|Dusty Rhodes]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
+| <img src="/img/charts/bobby-eaton_stats.png" width="200"> | **⚪️✅**<br>✅ **Bobby Eaton** beat Bull Nakano, Brody King at [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] - 2023-05-30<br>⚪️ **Bobby Eaton** drew with nan at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Dusty Rhodes\|Dusty Rhodes]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

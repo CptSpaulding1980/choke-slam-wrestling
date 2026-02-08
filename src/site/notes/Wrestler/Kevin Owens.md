@@ -25,7 +25,7 @@ avg_rating: 91.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kevin-owens_stats.png" width="200"> | **⚪️⚪️⚪️**<br>- Draw vs. The Greatest Royal Rumble<br>- Draw vs. Greatest Rumble ever<br>- Draw vs. Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega<br> | **Nemesis:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega |
+| <img src="/img/charts/kevin-owens_stats.png" width="200"> | **⚪️⚪️⚪️**<br>⚪️ **Kevin Owens** drew with nan at [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] - 2021-10-17<br>⚪️ **Kevin Owens** drew with nan at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br>⚪️ **Kevin Owens** drew with nan at [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] - 2020-06-08<br> | **Nemesis:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega |
 
 ## Häufigste Gegner
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (3x)

@@ -25,7 +25,7 @@ avg_rating: 77.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kairi-sane_stats.png" width="200"> | **⚪️❌✅❌❌**<br>- Loss vs. Sweet 'n Sour Elite vs. Path of God<br>- Loss vs. Angelico & Ivelisse vs. Path of God<br>- Win vs. Path of God vs. Sweet 'n Sour Elite<br>- Loss vs. Angelico, Ivelisse vs. Path of God<br>- Draw vs. Banana Rumble<br> | **Nemesis:** [[Wrestler/Ivelisse\|Ivelisse]]<br>**Partner:** [[Wrestler/Joe Coffey\|Joe Coffey]]<br>**Best Match:** 88% vs. Womens Royal Rumble |
+| <img src="/img/charts/kairi-sane_stats.png" width="200"> | **⚪️❌✅❌❌**<br>❌ **Gunther, The Undertaker** beat Kairi Sane at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Angélico, Ivelisse** beat Kairi Sane at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>✅ **Kairi Sane** beat Ryusuke Taguchi, Tatum Paxley at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Angélico, Ivelisse** beat Kairi Sane at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>⚪️ **Kairi Sane** drew with nan at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br> | **Nemesis:** [[Wrestler/Ivelisse\|Ivelisse]]<br>**Partner:** [[Wrestler/Joe Coffey\|Joe Coffey]]<br>**Best Match:** 88% vs. Womens Royal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Ivelisse\|Ivelisse]] (3x)

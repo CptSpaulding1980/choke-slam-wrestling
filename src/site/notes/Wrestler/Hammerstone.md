@@ -25,7 +25,7 @@ avg_rating: 82.4
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/hammerstone_stats.png" width="200"> | **⚪️❌❌❌✅**<br>- Win vs. Sweet 'n Sour Elite vs. Sweet 'n Sour Elite<br>- Loss vs. Sweet 'n Sour Elite vs. Sweet 'n Sour Elite<br>- Loss vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Loss vs. Joe Coffey vs. Hammerstone vs. Sara Del Rey<br>- Draw vs. Dalton Castle & Killer Kelly vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Ryusuke Taguchi\|Ryusuke Taguchi]]<br>**Partner:** [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]<br>**Best Match:** 95% vs. Joe Coffey vs. Hammerstone vs. Sara Del Rey |
+| <img src="/img/charts/hammerstone_stats.png" width="200"> | **⚪️❌❌❌✅**<br>✅ **Hammerstone** beat Ryusuke Taguchi, Tatum Paxley at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Gunther, The Undertaker** beat Hammerstone at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Tetsuya Naito, Laredo Kid** beat Hammerstone at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>❌ **Joe Coffey** beat Hammerstone at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br>⚪️ **Hammerstone** drew with nan at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br> | **Nemesis:** [[Wrestler/Ryusuke Taguchi\|Ryusuke Taguchi]]<br>**Partner:** [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]<br>**Best Match:** 95% vs. Joe Coffey vs. Hammerstone vs. Sara Del Rey |
 
 ## Häufigste Gegner
 - [[Wrestler/Ryusuke Taguchi\|Ryusuke Taguchi]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 105.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/rusev_stats.png" width="200"> | **❌**<br>- Loss vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev <br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Best Match:** 105% vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  |
+| <img src="/img/charts/rusev_stats.png" width="200"> | **❌**<br>❌ **Hulk Hogan** beat Rusev at [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] - 2021-06-30<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Best Match:** 105% vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  |
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 74.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/vladimir-kozlov_stats.png" width="200"> | **❌**<br>- Loss vs. Dan Koloff HC Tournament: Rey Fenix vs. Kota Ibushi vs. Vladimir Kozlov<br> | **Nemesis:** [[Wrestler/Kota Ibushi\|Kota Ibushi]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 74% vs. Dan Koloff HC Tournament: Rey Fenix vs. Kota Ibushi vs. Vladimir Kozlov |
+| <img src="/img/charts/vladimir-kozlov_stats.png" width="200"> | **❌**<br>❌ **Kota Ibushi** beat Vladimir Kozlov at [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] - 2021-06-30<br> | **Nemesis:** [[Wrestler/Kota Ibushi\|Kota Ibushi]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 74% vs. Dan Koloff HC Tournament: Rey Fenix vs. Kota Ibushi vs. Vladimir Kozlov |
 
 ## Häufigste Gegner
 - [[Wrestler/Kota Ibushi\|Kota Ibushi]] (1x)

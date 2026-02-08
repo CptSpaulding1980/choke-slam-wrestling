@@ -25,7 +25,7 @@ avg_rating: 94.23
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/walter_stats.png" width="200"> | **✅✅⚪️✅❌**<br>- Loss vs. Choke Slam Hardcore Championship: Miro vs. Ludwig Kaiser vs. Hulk Hogan vs. WALTER<br>- Win vs. Choke Slam Hardcore Championship: Randy Savage vs. Brody King vs. WALTER (c)<br>- Draw vs. Andre The Giant Memorial Battle Royal<br>- Win vs. Hardcore Title Tournament: WALTER vs. Sting<br>- Win vs. Hardcore Title Tournament Finals - Hardcore Championship: WALTER vs. Lance Storm (c)<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Robert Dreissker\|Robert Dreissker]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
+| <img src="/img/charts/walter_stats.png" width="200"> | **✅✅⚪️✅❌**<br>❌ **Hulk Hogan** beat WALTER at [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] - 2023-02-22<br>✅ **WALTER** beat Randy Savage, Brody King at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br>⚪️ **WALTER** drew with nan at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>✅ **WALTER** beat Sting at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>✅ **WALTER** beat Lance Storm at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Robert Dreissker\|Robert Dreissker]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)

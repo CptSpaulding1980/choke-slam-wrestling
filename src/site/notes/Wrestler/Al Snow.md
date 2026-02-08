@@ -25,7 +25,7 @@ avg_rating: 86.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/al-snow_stats.png" width="200"> | **❌❌❌**<br>- Loss vs. Militanter Mummenschanz vs. Cheeseburger & Al Snow<br>- Loss vs. Sweet 'n Sour Elite vs. Cheeseburger & Al Snow<br>- Loss vs. Saint Rebel Radicalz vs. Cheeseburger & Al Snow<br> | **Nemesis:** [[Wrestler/Killshot\|Killshot]]<br>**Partner:** [[Wrestler/Cheeseburger\|Cheeseburger]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Cheeseburger & Al Snow |
+| <img src="/img/charts/al-snow_stats.png" width="200"> | **❌❌❌**<br>❌ **Killshot, Madison Rayne** beat Al Snow at [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] - 2021-02-25<br>❌ **Ivelisse, Shelton Benjamin** beat Al Snow at [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] - 2021-02-25<br>❌ **Dustin Rhodes, Rey Fenix** beat Al Snow at [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] - 2021-02-25<br> | **Nemesis:** [[Wrestler/Killshot\|Killshot]]<br>**Partner:** [[Wrestler/Cheeseburger\|Cheeseburger]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Cheeseburger & Al Snow |
 
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 95.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ivan-koloff_stats.png" width="200"> | **❌**<br>- Loss vs. Dan Koloff HC Tournament: Christian Cage vs. Johnny Mundo vs. Ivan Koloff <br> | **Nemesis:** [[Wrestler/Johnny Mundo\|Johnny Mundo]]<br>**Partner:** [[Wrestler/Christian Cage\|Christian Cage]]<br>**Best Match:** 95% vs. Dan Koloff HC Tournament: Christian Cage vs. Johnny Mundo vs. Ivan Koloff  |
+| <img src="/img/charts/ivan-koloff_stats.png" width="200"> | **❌**<br>❌ **Johnny Mundo** beat Ivan Koloff at [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] - 2021-06-30<br> | **Nemesis:** [[Wrestler/Johnny Mundo\|Johnny Mundo]]<br>**Partner:** [[Wrestler/Christian Cage\|Christian Cage]]<br>**Best Match:** 95% vs. Dan Koloff HC Tournament: Christian Cage vs. Johnny Mundo vs. Ivan Koloff  |
 
 ## Häufigste Gegner
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (1x)

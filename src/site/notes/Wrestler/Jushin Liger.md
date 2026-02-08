@@ -25,7 +25,7 @@ avg_rating: 89.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jushin-liger_stats.png" width="200"> | **❌❌✅❌⚪️**<br>- Draw vs. Andre the Giant Memorial Battle Royal<br>- Loss vs. Jushin Liger vs. KENTA<br>- Win vs. Jushin Liger vs. Austin Aries<br>- Loss vs. Cesaro  vs. Jushin Liger<br>- Loss vs. Jushin Liger vs. Gail Kim<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 102% vs. Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix |
+| <img src="/img/charts/jushin-liger_stats.png" width="200"> | **❌❌✅❌⚪️**<br>⚪️ **Jushin Liger** drew with nan at [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] - 2021-06-30<br>❌ **KENTA** beat Jushin Liger at [[Events/2021-03-09 - S03E06_Swiss Bliss - Return of the King\|S03E06_Swiss Bliss - Return of the King]] - 2021-03-09<br>✅ **Jushin Liger** beat Austin Aries at [[Events/2021-03-09 - S03E06_Swiss Bliss - A New Hope\|S03E06_Swiss Bliss - A New Hope]] - 2021-03-09<br>❌ **Cesaro** beat Jushin Liger at [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] - 2021-02-25<br>❌ **Gail Kim** beat Jushin Liger at [[Events/2021-02-25 - S03E06_Swiss Bliss - Tokyo Drift\|S03E06_Swiss Bliss - Tokyo Drift]] - 2021-02-25<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 102% vs. Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix |
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)

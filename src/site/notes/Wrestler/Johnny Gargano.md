@@ -25,7 +25,7 @@ avg_rating: 91.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/johnny-gargano_stats.png" width="200"> | **❌✅❌**<br>- Loss vs. Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz<br>- Win vs. Johnny Gargano & Tommaso Ciampa vs. Sweet 'n Sour Elite<br>- Loss vs. Johnny Gargano & Tommaso Ciampa vs.Militanter Mummenschanz<br> | **Nemesis:** [[Wrestler/Brock Lesnar\|Brock Lesnar]]<br>**Partner:** [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]]<br>**Best Match:** 94% vs. Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz |
+| <img src="/img/charts/johnny-gargano_stats.png" width="200"> | **❌✅❌**<br>❌ **Brock Lesnar, Chris Jericho** beat Johnny Gargano at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>✅ **Johnny Gargano** beat Booker T, Stevie Ray at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Daniel Bryan, Hiroshi Tanahashi** beat Johnny Gargano at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br> | **Nemesis:** [[Wrestler/Brock Lesnar\|Brock Lesnar]]<br>**Partner:** [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]]<br>**Best Match:** 94% vs. Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Brock Lesnar\|Brock Lesnar]] (1x)

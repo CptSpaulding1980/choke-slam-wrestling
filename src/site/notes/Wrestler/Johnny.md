@@ -25,7 +25,7 @@ avg_rating: 74.25
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/johnny_stats.png" width="200"> | **❌❌✅❌**<br>- Loss vs. Path of God vs. Spirit Squad<br>- Win vs. Sweet 'n Sour Elite vs. Spirit Squad<br>- Loss vs. Saint Rebel Radicalz vs. Spirit Squad<br>- Loss vs. Nature Game Masters  vs. Spirit Squad<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Kenny\|Kenny]]<br>**Best Match:** 86% vs. Sweet 'n Sour Elite vs. Spirit Squad |
+| <img src="/img/charts/johnny_stats.png" width="200"> | **❌❌✅❌**<br>❌ **AJ Styles, Hiroshi Tanahashi, Masha Slamovich, Dusty Rhodes** beat Johnny at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br>✅ **Johnny** beat Kofi Kingston, Shingo Takagi, Jordynne Grace, The Undertaker at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br>❌ **Triple H, Roman Reigns, Big Kon, Kiana James** beat Johnny at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br>❌ **Will Ospreay, Trent Seven, Chyna, Damian Priest** beat Johnny at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Kenny\|Kenny]]<br>**Best Match:** 86% vs. Sweet 'n Sour Elite vs. Spirit Squad |
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)

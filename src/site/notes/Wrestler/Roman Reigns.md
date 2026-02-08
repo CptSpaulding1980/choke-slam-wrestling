@@ -25,7 +25,7 @@ avg_rating: 87.48
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/roman-reigns_stats.png" width="200"> | **✅✅❌❌✅**<br>- Win vs. Chris Benoit vs. Tommaso Ciampa vs. Roman Reigns<br>- Loss vs. Akira Taue vs. Roman Reigns vs. Daniel Bryan<br>- Loss vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns<br>- Win vs. Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c)<br>- Win vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
+| <img src="/img/charts/roman-reigns_stats.png" width="200"> | **✅✅❌❌✅**<br>✅ **Roman Reigns** beat Chris Benoit, Tommaso Ciampa at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>❌ **Akira Taue** beat Roman Reigns at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>❌ **Jay White** beat Roman Reigns at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>✅ **Roman Reigns** beat Daniel Bryan, Wardlow at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br>✅ **Roman Reigns** beat Daniel Bryan, Lex Luger, Wardlow at [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] - 2025-10-02<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (14x)

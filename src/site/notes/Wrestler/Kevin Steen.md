@@ -25,7 +25,7 @@ avg_rating: 86.41
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kevin-steen_stats.png" width="200"> | **⚪️❌✅✅❌**<br>- Loss vs. Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c)<br>- Win vs. 1/8 Finals: Kevin Steen vs. Roman Reigns<br>- Win vs. Quarter Finals: Kevin Steen vs. Kensuke Sasaki<br>- Loss vs. Semi Finals: Kevin Steen vs. Lex Luger<br>- Draw vs. Reveal Rumble<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Best Match:** 102% vs. 1/8 Finals: Kevin Steen vs. Roman Reigns |
+| <img src="/img/charts/kevin-steen_stats.png" width="200"> | **⚪️❌✅✅❌**<br>❌ **Steve Austin** beat Kevin Steen at [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] - 2025-10-02<br>✅ **Kevin Steen** beat Roman Reigns at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br>✅ **Kevin Steen** beat Kensuke Sasaki at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br>❌ **Lex Luger** beat Kevin Steen at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br>⚪️ **Kevin Steen** drew with nan at [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] - 2025-06-03<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Best Match:** 102% vs. 1/8 Finals: Kevin Steen vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)

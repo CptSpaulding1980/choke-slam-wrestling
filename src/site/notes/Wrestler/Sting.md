@@ -25,7 +25,7 @@ avg_rating: 85.65
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sting_stats.png" width="200"> | **⚪️❌✅⚪️✅**<br>- Win vs. Sweet 'n Sour Elite vs. Kurt Angle & Sting<br>- Draw vs. Royal Rumble<br>- Win vs. Sting vs. Jon Moxley<br>- Loss vs. Brock Lesnar vs. Sting<br>- Draw vs. Sting vs. Hollywood Hogan<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Best Match:** 102% vs. Sting vs. Brock Lesnar |
+| <img src="/img/charts/sting_stats.png" width="200"> | **⚪️❌✅⚪️✅**<br>✅ **Sting** beat Joe Hendry, Zack Sabre Jr. at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **Sting** drew with nan at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>✅ **Sting** beat Jon Moxley at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>❌ **Brock Lesnar** beat Sting at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>⚪️ **Sting** drew with nan at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Best Match:** 102% vs. Sting vs. Brock Lesnar |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)

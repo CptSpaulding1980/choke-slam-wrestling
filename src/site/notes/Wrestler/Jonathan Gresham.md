@@ -25,7 +25,7 @@ avg_rating: 85.92
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jonathan-gresham_stats.png" width="200"> | **❌❌❌⚪️❌**<br>- Loss vs. Path of God vs. Jonathan Gresham & Jay White<br>- Draw vs. Big Van Vader Memorial Battle Royal<br>- Loss vs. Nature Game Masters  vs. Militanter Mummenschanz<br>- Loss vs. Jay White vs. Jonathan Gresham vs. KENTA vs. Edge vs. Bret Hart vs. Miro<br>- Loss vs. Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair<br> | **Nemesis:** [[Wrestler/Brandon\|Brandon]]<br>**Partner:** [[Wrestler/Jay White\|Jay White]]<br>**Best Match:** 102% vs. Grayson Waller vs. Jonathan Gresham vs. Miro |
+| <img src="/img/charts/jonathan-gresham_stats.png" width="200"> | **❌❌❌⚪️❌**<br>❌ **KUSHIDA, Randy Savage** beat Jonathan Gresham at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>⚪️ **Jonathan Gresham** drew with nan at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **Bryan Danielson, Eddie Guerrero, Gunther** beat Jonathan Gresham at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **Jay White** beat Jonathan Gresham at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br>❌ **Bob Backlund** beat Jonathan Gresham at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br> | **Nemesis:** [[Wrestler/Brandon\|Brandon]]<br>**Partner:** [[Wrestler/Jay White\|Jay White]]<br>**Best Match:** 102% vs. Grayson Waller vs. Jonathan Gresham vs. Miro |
 
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (8x)

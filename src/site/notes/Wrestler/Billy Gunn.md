@@ -25,7 +25,7 @@ avg_rating: 94.25
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/billy-gunn_stats.png" width="200"> | **⚪️❌❌✅**<br>- Win vs. Billy Gunn & Road Dogg vs. Big E & Kofi Kingston<br>- Loss vs. Mosh & Thrasher vs. Billy Gunn & Road Dogg<br>- Loss vs. Billy Gunn & Road Dogg vs. Sweet 'n Sour Elite<br>- Draw vs. Reveal Rumble<br> | **Nemesis:** [[Wrestler/Kofi Kingston\|Kofi Kingston]]<br>**Partner:** [[Wrestler/Road Dogg\|Road Dogg]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/billy-gunn_stats.png" width="200"> | **⚪️❌❌✅**<br>✅ **Billy Gunn** beat Big E, Kofi Kingston at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Mosh, Thrasher** beat Billy Gunn at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Akira Taue, KONOSUKE TAKESHITA** beat Billy Gunn at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>⚪️ **Billy Gunn** drew with nan at [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] - 2025-06-03<br> | **Nemesis:** [[Wrestler/Kofi Kingston\|Kofi Kingston]]<br>**Partner:** [[Wrestler/Road Dogg\|Road Dogg]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Kofi Kingston\|Kofi Kingston]] (2x)

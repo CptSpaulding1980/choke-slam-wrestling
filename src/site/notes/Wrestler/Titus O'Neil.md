@@ -25,7 +25,7 @@ avg_rating: 82.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/titus-oneil_stats.png" width="200"> | **✅❌❌**<br>- Loss vs. Beat the Clock: Kevin Steen vs. Titus O'Neil<br>- Loss vs. Beat the Clock: Big Van Vader vs. Titus O'Neil<br>- Win vs. Beat the Clock: Steve Austin vs. Titus O'Neil<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 88% vs. Beat the Clock: Steve Austin vs. Titus O'Neil |
+| <img src="/img/charts/titus-oneil_stats.png" width="200"> | **✅❌❌**<br>❌ **Kevin Steen** beat Titus O'Neil at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br>❌ **Big Van Vader** beat Titus O'Neil at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br>✅ **Titus O'Neil** beat Steve Austin at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 88% vs. Beat the Clock: Steve Austin vs. Titus O'Neil |
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

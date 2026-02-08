@@ -25,7 +25,7 @@ avg_rating: 85.25
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/wolfgang_stats.png" width="200"> | **✅❌✅⚪️**<br>- Draw vs. Greatest Rumble ever<br>- Win vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang<br>- Loss vs. Sweet 'n Sour Elite vs. Joe Coffey, Mark Coffey & Wolfgang<br>- Win vs. Saint Rebel Radicalz vs. Joe Coffey, Mark Coffey & Wolfgang<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Joe Coffey\|Joe Coffey]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang |
+| <img src="/img/charts/wolfgang_stats.png" width="200"> | **✅❌✅⚪️**<br>⚪️ **Wolfgang** drew with nan at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br>✅ **Wolfgang** beat Britt Baker, Killshot, Jushin Liger at [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] - 2020-12-28<br>❌ **Austin Aries, Tetsuya Naito, Dr. Wagner Jr.** beat Wolfgang at [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] - 2020-12-28<br>✅ **Wolfgang** beat Bob Backlund, Gail Kim, Rey Fenix at [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] - 2020-12-28<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Joe Coffey\|Joe Coffey]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)

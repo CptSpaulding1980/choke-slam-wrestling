@@ -25,7 +25,7 @@ avg_rating: 74.25
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/disco-inferno_stats.png" width="200"> | **✅⚪️✅❌**<br>- Loss vs. Sweet 'n Sour Elite vs. Glacier , Disco Inferno, & El Gigante<br>- Win vs. Path of God vs. Glacier , Disco Inferno, & El Gigante<br>- Draw vs. Saint Rebel Radicalz vs. Glacier , Disco Inferno, & El Gigante<br>- Win vs. Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante<br> | **Nemesis:** [[Wrestler/Dijak\|Dijak]]<br>**Partner:** [[Wrestler/Glacier\|Glacier]]<br>**Best Match:** 85% vs. Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante |
+| <img src="/img/charts/disco-inferno_stats.png" width="200"> | **✅⚪️✅❌**<br>❌ **Dijak, Shingo Takagi, Jordynne Grace** beat Disco Inferno at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br>✅ **Disco Inferno** beat Drew Gulak, Dusty Rhodes, Masha Slamovich at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br>⚪️ **Disco Inferno** drew with nan at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br>✅ **Disco Inferno** beat Brooks Jensen, Damian Priest, Trent Seven at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br> | **Nemesis:** [[Wrestler/Dijak\|Dijak]]<br>**Partner:** [[Wrestler/Glacier\|Glacier]]<br>**Best Match:** 85% vs. Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante |
 
 ## Häufigste Gegner
 - [[Wrestler/Dijak\|Dijak]] (1x)

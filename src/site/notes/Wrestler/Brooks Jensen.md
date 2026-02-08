@@ -25,7 +25,7 @@ avg_rating: 81.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/brooks-jensen_stats.png" width="200"> | **❌❌**<br>- Loss vs. Nature Game Masters  vs. Los Matadores<br>- Loss vs. Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante<br> | **Nemesis:** [[Wrestler/Epico Colón\|Epico Colón]]<br>**Partner:** [[Wrestler/Damian Priest\|Damian Priest]]<br>**Best Match:** 85% vs. Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante |
+| <img src="/img/charts/brooks-jensen_stats.png" width="200"> | **❌❌**<br>❌ **Epico Colón, Primo Colón** beat Brooks Jensen at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br>❌ **Glacier, Disco Inferno, El Gigante** beat Brooks Jensen at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br> | **Nemesis:** [[Wrestler/Epico Colón\|Epico Colón]]<br>**Partner:** [[Wrestler/Damian Priest\|Damian Priest]]<br>**Best Match:** 85% vs. Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante |
 
 ## Häufigste Gegner
 - [[Wrestler/Epico Colón\|Epico Colón]] (1x)

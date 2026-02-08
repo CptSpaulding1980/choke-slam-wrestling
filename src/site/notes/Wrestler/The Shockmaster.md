@@ -25,7 +25,7 @@ avg_rating: 100.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/the-shockmaster_stats.png" width="200"> | **❌**<br>- Loss vs. Shingo Takagi vs. R-Truth vs. The Shockmaster vs. Max Moon<br> | **Nemesis:** [[Wrestler/Shingo Takagi\|Shingo Takagi]]<br>**Partner:** [[Wrestler/R-Truth\|R-Truth]]<br>**Best Match:** 100% vs. Shingo Takagi vs. R-Truth vs. The Shockmaster vs. Max Moon |
+| <img src="/img/charts/the-shockmaster_stats.png" width="200"> | **❌**<br>❌ **Shingo Takagi** beat The Shockmaster at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br> | **Nemesis:** [[Wrestler/Shingo Takagi\|Shingo Takagi]]<br>**Partner:** [[Wrestler/R-Truth\|R-Truth]]<br>**Best Match:** 100% vs. Shingo Takagi vs. R-Truth vs. The Shockmaster vs. Max Moon |
 
 ## Häufigste Gegner
 - [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)

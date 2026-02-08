@@ -25,7 +25,7 @@ avg_rating: 79.36
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/cora-jade_stats.png" width="200"> | **❌⚪️⚪️❌❌**<br>- Loss vs. Militanter Mummenschanz vs. Nature Game Masters <br>- Loss vs. Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters <br>- Draw vs. What if... Battle Royal<br>- Draw vs. Womens Royal Rumble<br>- Loss vs. Alexa Bliss vs. Cora Jade<br> | **Nemesis:** [[Wrestler/Gigi Dolin\|Gigi Dolin]]<br>**Partner:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Best Match:** 94% vs. What if... Battle Royal |
+| <img src="/img/charts/cora-jade_stats.png" width="200"> | **❌⚪️⚪️❌❌**<br>❌ **Bret Hart, Eddie Edwards, Gigi Dolin** beat Cora Jade at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br>❌ **AJ Styles, Gigi Dolin, Miro, Eddie Edwards** beat Cora Jade at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br>⚪️ **Cora Jade** drew with nan at [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] - 2023-07-30<br>⚪️ **Cora Jade** drew with nan at [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] - 2023-02-22<br>❌ **Alexa Bliss** beat Cora Jade at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br> | **Nemesis:** [[Wrestler/Gigi Dolin\|Gigi Dolin]]<br>**Partner:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Best Match:** 94% vs. What if... Battle Royal |
 
 ## Häufigste Gegner
 - [[Wrestler/Gigi Dolin\|Gigi Dolin]] (4x)

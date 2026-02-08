@@ -25,7 +25,7 @@ avg_rating: 80.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/damien-sandow_stats.png" width="200"> | **✅❌⚪️✅**<br>- Win vs. Tag Team Roulette - Sweet 'n Sour Elite vs. El Profesor (Bobby Heenan & Damien Sandow)<br>- Draw vs. Beach-Volleyball: Militanter Mummenschanz vs. Damien Sandow & The Sandman<br>- Loss vs. Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman<br>- Win vs. Beach-Volleyball: Saint Rebel Radicalz vs. Damien Sandow & The Sandman<br> | **Nemesis:** [[Wrestler/Jeff Jarrett\|Jeff Jarrett]]<br>**Partner:** [[Wrestler/The Sandman\|The Sandman]]<br>**Best Match:** 99% vs. Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman |
+| <img src="/img/charts/damien-sandow_stats.png" width="200"> | **✅❌⚪️✅**<br>✅ **Damien Sandow** beat Big Van Vader, Triple H at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br>⚪️ **Damien Sandow** drew with nan at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br>❌ **Madison Rayne, Marius Al-Ani** beat Damien Sandow at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br>✅ **Damien Sandow** beat Christian Cage, Larry Zbyszko at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br> | **Nemesis:** [[Wrestler/Jeff Jarrett\|Jeff Jarrett]]<br>**Partner:** [[Wrestler/The Sandman\|The Sandman]]<br>**Best Match:** 99% vs. Beach-Volleyball: Sweet 'n Sour Elite vs. Damien Sandow & The Sandman |
 
 ## Häufigste Gegner
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)

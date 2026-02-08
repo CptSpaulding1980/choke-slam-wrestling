@@ -25,7 +25,7 @@ avg_rating: 73.23
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sasha-banks_stats.png" width="200"> | **❌❌✅⚪️⚪️**<br>- Draw vs. Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz<br>- Draw vs. Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite<br>- Win vs. Steel Cage: Brock Lesnar vs. Sasha Banks<br>- Loss vs. Steel Cage: Wardlow vs. Sasha Banks<br>- Loss vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 100% vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks |
+| <img src="/img/charts/sasha-banks_stats.png" width="200"> | **❌❌✅⚪️⚪️**<br>⚪️ **Sasha Banks** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>⚪️ **Sasha Banks** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>✅ **Sasha Banks** beat Brock Lesnar at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Wardlow** beat Sasha Banks at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Daniel Bryan** beat Sasha Banks at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 100% vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks |
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)

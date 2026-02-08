@@ -25,7 +25,7 @@ avg_rating: 73.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mascarit-sagrada_stats.png" width="200"> | **❌**<br>- Loss vs. Militanter Mummenschanz vs. EL Torito & Mascarit Sagrada<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/El Torito\|El Torito]]<br>**Best Match:** 73% vs. Militanter Mummenschanz vs. EL Torito & Mascarit Sagrada |
+| <img src="/img/charts/mascarit-sagrada_stats.png" width="200"> | **❌**<br>❌ **Killer Kelly, Philipp Brunkovic** beat Mascarit Sagrada at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/El Torito\|El Torito]]<br>**Best Match:** 73% vs. Militanter Mummenschanz vs. EL Torito & Mascarit Sagrada |
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

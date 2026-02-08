@@ -25,7 +25,7 @@ avg_rating: 94.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/tensai_stats.png" width="200"> | **❌**<br>- Loss vs. Triple H vs. Virgil vs. The Renegade vs. Tensai<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Virgil\|Virgil]]<br>**Best Match:** 94% vs. Triple H vs. Virgil vs. The Renegade vs. Tensai |
+| <img src="/img/charts/tensai_stats.png" width="200"> | **❌**<br>❌ **Triple H** beat Tensai at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Virgil\|Virgil]]<br>**Best Match:** 94% vs. Triple H vs. Virgil vs. The Renegade vs. Tensai |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (1x)

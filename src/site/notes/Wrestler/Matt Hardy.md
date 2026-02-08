@@ -25,7 +25,7 @@ avg_rating: 84.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/matt-hardy_stats.png" width="200"> | **✅**<br>- Win vs. Sheik Invitational Rumble incl. Sabu<br> | **Nemesis:** [[Wrestler/nan\|nan]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 84% vs. Sheik Invitational Rumble incl. Sabu |
+| <img src="/img/charts/matt-hardy_stats.png" width="200"> | **✅**<br>✅ **Matt Hardy** beat nan at [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] - 2025-05-07<br> | **Nemesis:** [[Wrestler/nan\|nan]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 84% vs. Sheik Invitational Rumble incl. Sabu |
 
 ## Häufigste Gegner
 - [[Wrestler/nan\|nan]] (1x)

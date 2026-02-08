@@ -25,7 +25,7 @@ avg_rating: 82.6
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/will-ospreay_stats.png" width="200"> | **❌✅❌❌⚪️**<br>- Draw vs. Reveal Rumble<br>- Loss vs. D: Will Ospreay vs. Roman Reigns<br>- Loss vs. D: Kota Ibushi vs. Will Ospreay<br>- Win vs. D: Toru Yano vs. Will Ospreay<br>- Loss vs. D: Gunther vs. Will Ospreay<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/will-ospreay_stats.png" width="200"> | **❌✅❌❌⚪️**<br>⚪️ **Will Ospreay** drew with nan at [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] - 2025-06-03<br>❌ **Roman Reigns** beat Will Ospreay at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br>❌ **Kota Ibushi** beat Will Ospreay at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br>✅ **Will Ospreay** beat Toru Yano at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br>❌ **Gunther** beat Will Ospreay at [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] - 2024-09-09<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)

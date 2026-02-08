@@ -25,7 +25,7 @@ avg_rating: 87.38
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jay-white_stats.png" width="200"> | **✅❌❌✅❌**<br>- Loss vs. War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz<br>- Win vs. War Games 3: Militanter Mummenschanz vs. Sweet 'n Sour Elite<br>- Loss vs. Barbed Wire Match: Adam Page vs. Edge vs. Jay White vs. Tommaso Ciampa<br>- Loss vs. Choke Slam World Championship: Jay White vs. Steve Austin (c)<br>- Win vs. Jay White vs. Awesome Kong vs. Steve Austin<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Jonathan Gresham\|Jonathan Gresham]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
+| <img src="/img/charts/jay-white_stats.png" width="200"> | **✅❌❌✅❌**<br>❌ **Brock Lesnar, Chris Jericho, Awesome Kong, Kazuchika Okada** beat Jay White at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>✅ **Jay White** beat Adam Page, Akira Taue, Steve Austin, KONOSUKE TAKESHITA at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Tommaso Ciampa** beat Jay White at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Steve Austin** beat Jay White at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>✅ **Jay White** beat Awesome Kong, Steve Austin at [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] - 2025-10-27<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Jonathan Gresham\|Jonathan Gresham]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (10x)

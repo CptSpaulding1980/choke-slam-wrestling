@@ -25,7 +25,7 @@ avg_rating: 98.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/robert-dreissker_stats.png" width="200"> | **✅✅❌**<br>- Loss vs. Militanter Mummenschanz vs. Robert Dreissker & WALTER<br>- Win vs. Sweet 'n Sour Elite vs. Robert Dreissker & WALTER<br>- Win vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/WALTER\|WALTER]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
+| <img src="/img/charts/robert-dreissker_stats.png" width="200"> | **✅✅❌**<br>❌ **Killer Kelly, Jeff Jarrett** beat Robert Dreissker at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br>✅ **Robert Dreissker** beat Marius Al-Ani, Madison Rayne at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br>✅ **Robert Dreissker** beat Chris Hero, Larry Zbyszko at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/WALTER\|WALTER]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

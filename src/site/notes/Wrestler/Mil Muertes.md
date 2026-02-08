@@ -25,7 +25,7 @@ avg_rating: 94.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mil-muertes_stats.png" width="200"> | **⚪️⚪️**<br>- Draw vs. Aztec Warfare<br>- Draw vs. Mens Royal Rumble<br> | **Nemesis:** [[Wrestler/Brandon\|Brandon]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Aztec Warfare |
+| <img src="/img/charts/mil-muertes_stats.png" width="200"> | **⚪️⚪️**<br>⚪️ **Mil Muertes** drew with nan at [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] - 2023-04-19<br>⚪️ **Mil Muertes** drew with nan at [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] - 2023-02-22<br> | **Nemesis:** [[Wrestler/Brandon\|Brandon]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Aztec Warfare |
 
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (2x)

@@ -25,7 +25,7 @@ avg_rating: 92.6
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/william-regal_stats.png" width="200"> | **⚪️✅❌❌❌**<br>- Loss vs. 1/8 Finals: Kensuke Sasaki vs. William Regal<br>- Loss vs. William Regal vs. Jonathan Gresham<br>- Loss vs. Carat First Round: William Regal vs. Wade Barrett<br>- Win vs. Loser Round: Tommy End vs. William Regal<br>- Draw vs. William Regal vs. Will Ospreay vs. El Ligero vs. Jimmy Havoc vs. Kazuchika Okada<br> | **Nemesis:** [[Wrestler/Will Ospreay\|Will Ospreay]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. William Regal vs. Jonathan Gresham |
+| <img src="/img/charts/william-regal_stats.png" width="200"> | **⚪️✅❌❌❌**<br>❌ **Kensuke Sasaki** beat William Regal at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br>❌ **Jonathan Gresham** beat William Regal at [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] - 2023-04-03<br>❌ **Wade Barrett** beat William Regal at [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] - 2023-03-29<br>✅ **William Regal** beat Tommy End at [[Events/2023-03-29 - S05E03_Europa - Day 2\|S05E03_Europa - Day 2]] - 2023-03-29<br>⚪️ **William Regal** drew with nan at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br> | **Nemesis:** [[Wrestler/Will Ospreay\|Will Ospreay]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. William Regal vs. Jonathan Gresham |
 
 ## Häufigste Gegner
 - [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)

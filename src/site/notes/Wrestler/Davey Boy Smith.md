@@ -25,7 +25,7 @@ avg_rating: 89.45
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/davey-boy-smith_stats.png" width="200"> | **⚪️⚪️❌✅⚪️**<br>- Draw vs. Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús <br>- Win vs. Davey Boy Smith vs. Axel Tischer<br>- Loss vs. Brandon vs. Davey Boy Smith vs. Randy Savage<br>- Draw vs. Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King<br>- Draw vs. Hulk Hogan & Hawk vs. Davey Boy Smith & Sami Zayn<br> | **Nemesis:** [[Wrestler/Sami Zayn\|Sami Zayn]]<br>**Partner:** [[Wrestler/Dynamite Kid\|Dynamite Kid]]<br>**Best Match:** 102% vs. Brandon vs. Davey Boy Smith vs. Randy Savage |
+| <img src="/img/charts/davey-boy-smith_stats.png" width="200"> | **⚪️⚪️❌✅⚪️**<br>⚪️ **Davey Boy Smith** drew with nan at [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] - 2023-04-03<br>✅ **Davey Boy Smith** beat Axel Tischer at [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] - 2023-03-29<br>❌ **Randy Savage** beat Davey Boy Smith at [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] - 2023-02-22<br>⚪️ **Davey Boy Smith** drew with nan at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br>⚪️ **Davey Boy Smith** drew with nan at [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] - 2022-12-16<br> | **Nemesis:** [[Wrestler/Sami Zayn\|Sami Zayn]]<br>**Partner:** [[Wrestler/Dynamite Kid\|Dynamite Kid]]<br>**Best Match:** 102% vs. Brandon vs. Davey Boy Smith vs. Randy Savage |
 
 ## Häufigste Gegner
 - [[Wrestler/Sami Zayn\|Sami Zayn]] (2x)

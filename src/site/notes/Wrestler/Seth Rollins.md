@@ -25,7 +25,7 @@ avg_rating: 88.21
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/seth-rollins_stats.png" width="200"> | **❌❌❌✅✅**<br>- Win vs. Drew Gulak vs. Seth Rollins<br>- Win vs. AJ Styles vs. Seth Rollins<br>- Loss vs. Nature Game Masters  vs. The Shield<br>- Loss vs. Los Jinetes del Aire vs. The Shield<br>- Loss vs. Seth Rollins vs. Shingo Takagi<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Jon Moxley\|Jon Moxley]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/seth-rollins_stats.png" width="200"> | **❌❌❌✅✅**<br>✅ **Seth Rollins** beat Drew Gulak at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br>✅ **Seth Rollins** beat AJ Styles at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br>❌ **Bryan Danielson, Eddie Guerrero, Gunther** beat Seth Rollins at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **El Hijo del Vikingo, Laredo Kid, Myzteziz Jr.** beat Seth Rollins at [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] - 2024-01-29<br>❌ **Shingo Takagi** beat Seth Rollins at [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] - 2023-12-15<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Jon Moxley\|Jon Moxley]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (8x)

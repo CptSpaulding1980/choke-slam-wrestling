@@ -25,7 +25,7 @@ avg_rating: 79.73
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jon-moxley_stats.png" width="200"> | **❌❌⚪️⚪️⚪️**<br>- Draw vs. Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz<br>- Draw vs. Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite<br>- Draw vs. Casino Royale: Lady Apache vs. Jon Moxley vs. Brock Lesnar<br>- Loss vs. Jon Moxley vs. Hiroshi Tanahashi<br>- Loss vs. Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Bret Hart & Jon Moxley(c)<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/jon-moxley_stats.png" width="200"> | **❌❌⚪️⚪️⚪️**<br>⚪️ **Jon Moxley** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>⚪️ **Jon Moxley** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>⚪️ **Jon Moxley** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br>❌ **Hiroshi Tanahashi** beat Jon Moxley at [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] - 2025-01-16<br>❌ **Gunther, The Undertaker** beat Jon Moxley at [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] - 2024-10-22<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Jay White\|Jay White]] (7x)

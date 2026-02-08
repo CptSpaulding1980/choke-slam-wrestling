@@ -25,7 +25,7 @@ avg_rating: 89.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/viscera_stats.png" width="200"> | **❌**<br>- Loss vs. Me, Myself and I - Uno (Philipp)<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 89% vs. Me, Myself and I - Uno (Philipp) |
+| <img src="/img/charts/viscera_stats.png" width="200"> | **❌**<br>❌ **Kevin Steen** beat Viscera at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 89% vs. Me, Myself and I - Uno (Philipp) |
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

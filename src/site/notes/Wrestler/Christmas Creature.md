@@ -25,7 +25,7 @@ avg_rating: 81.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/christmas-creature_stats.png" width="200"> | **❌❌❌**<br>- Loss vs. Finn Bálor vs. Christmas Creature<br>- Loss vs. Joe Hendry vs. Christmas Creature<br>- Loss vs. Roman Reigns vs. Christmas Creature<br> | **Nemesis:** [[Wrestler/Finn Bálor\|Finn Bálor]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Roman Reigns vs. Christmas Creature |
+| <img src="/img/charts/christmas-creature_stats.png" width="200"> | **❌❌❌**<br>❌ **Finn Bálor** beat Christmas Creature at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br>❌ **Joe Hendry** beat Christmas Creature at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br>❌ **Roman Reigns** beat Christmas Creature at [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] - 2024-12-27<br> | **Nemesis:** [[Wrestler/Finn Bálor\|Finn Bálor]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Roman Reigns vs. Christmas Creature |
 
 ## Häufigste Gegner
 - [[Wrestler/Finn Bálor\|Finn Bálor]] (1x)

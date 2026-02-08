@@ -25,7 +25,7 @@ avg_rating: 81.88
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/larry-zbyszko_stats.png" width="200"> | **✅⚪️❌✅⚪️**<br>- Draw vs. Masha Slamovich vs. Larry Zbyszko<br>- Win vs. Jordynne Grace vs. Larry Zbyszko<br>- Loss vs. Roman Reigns vs. Larry Zbyszko<br>- Draw vs. AJ Styles vs. Larry Zbyszko<br>- Win vs. Tama Tonga vs. Larry Zbyszko<br> | **Nemesis:** [[Wrestler/CM Punk\|CM Punk]]<br>**Partner:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
+| <img src="/img/charts/larry-zbyszko_stats.png" width="200"> | **✅⚪️❌✅⚪️**<br>⚪️ **Larry Zbyszko** drew with nan at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br>✅ **Larry Zbyszko** beat Jordynne Grace at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br>❌ **Roman Reigns** beat Larry Zbyszko at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br>⚪️ **Larry Zbyszko** drew with nan at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br>✅ **Larry Zbyszko** beat Tama Tonga at [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] - 2024-05-27<br> | **Nemesis:** [[Wrestler/CM Punk\|CM Punk]]<br>**Partner:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
 
 ## Häufigste Gegner
 - [[Wrestler/CM Punk\|CM Punk]] (1x)

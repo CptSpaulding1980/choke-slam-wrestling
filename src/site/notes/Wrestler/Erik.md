@@ -25,7 +25,7 @@ avg_rating: 79.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/erik_stats.png" width="200"> | **❌✅❌**<br>❌ **Chris Jericho, Kazuchika Okada** beat Erik at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>✅ **Erik** beat Bobby Fish, Kyle O'Reilly at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Bret Hart, Daniel Bryan** beat Erik at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Ivar\|Ivar]]<br>**Best Match:** 90% vs. Undisputed Era vs. Viking Raiders |
+| <img src="/img/charts/erik_stats.png" width="200"> | **❌✅❌**<br>**Loss:** Viking Raiders vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Win:** Undisputed Era vs. Viking Raiders in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Militanter Mummenschanz vs. Viking Raiders in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Ivar\|Ivar]]<br>**Best Match:** 90% vs. Undisputed Era vs. Viking Raiders |
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)

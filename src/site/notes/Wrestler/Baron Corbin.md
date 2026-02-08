@@ -25,7 +25,7 @@ avg_rating: 96.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/baron-corbin_stats.png" width="200"> | **❌**<br>❌ **Chris Jericho** beat Baron Corbin at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 96% vs. 1/8 Finlay: Chris Jericho vs. Baron Corbin |
+| <img src="/img/charts/baron-corbin_stats.png" width="200"> | **❌**<br>**Loss:** 1/8 Finlay: Chris Jericho vs. Baron Corbin in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 96% vs. 1/8 Finlay: Chris Jericho vs. Baron Corbin |
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)

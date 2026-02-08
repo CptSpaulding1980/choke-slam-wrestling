@@ -25,7 +25,7 @@ avg_rating: 85.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/tommy-dreamer_stats.png" width="200"> | **⚪️❌✅**<br>✅ **Tommy Dreamer** beat Axl Rotten, Ian Rotten at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>❌ **Big Van Vader** beat Tommy Dreamer at [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] - 2021-08-23<br>⚪️ **Tommy Dreamer** drew with nan at [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] - 2021-08-23<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Best Match:** 99% vs. Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer |
+| <img src="/img/charts/tommy-dreamer_stats.png" width="200"> | **⚪️❌✅**<br>**Win:** Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Loss:** Big Van Vader vs. Tommy Dreamer in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br>**Draw:** Humble Rumble in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Best Match:** 99% vs. Axl Rotten & Ian Rotten vs. Hulk Hogan & Tommy Dreamer |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)

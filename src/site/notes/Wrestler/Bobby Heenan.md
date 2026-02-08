@@ -25,7 +25,7 @@ avg_rating: 75.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bobby-heenan_stats.png" width="200"> | **✅**<br>✅ **Bobby Heenan** beat Big Van Vader, Triple H at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Damien Sandow\|Damien Sandow]]<br>**Best Match:** 75% vs. Tag Team Roulette - Sweet 'n Sour Elite vs. El Profesor (Bobby Heenan & Damien Sandow) |
+| <img src="/img/charts/bobby-heenan_stats.png" width="200"> | **✅**<br>**Win:** Tag Team Roulette - Sweet 'n Sour Elite vs. El Profesor (Bobby Heenan & Damien Sandow) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Damien Sandow\|Damien Sandow]]<br>**Best Match:** 75% vs. Tag Team Roulette - Sweet 'n Sour Elite vs. El Profesor (Bobby Heenan & Damien Sandow) |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)

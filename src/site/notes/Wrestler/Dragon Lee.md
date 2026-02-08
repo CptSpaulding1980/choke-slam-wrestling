@@ -25,7 +25,7 @@ avg_rating: 83.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dragon-lee_stats.png" width="200"> | **❌⚪️**<br>⚪️ **Dragon Lee** drew with nan at [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] - 2024-02-15<br>❌ **Rey Mysterio Jr.** beat Dragon Lee at [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|S04E04_Admiral Lordevans Rules!]] - 2021-10-17<br> | **Nemesis:** [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 93% vs. Rumble |
+| <img src="/img/charts/dragon-lee_stats.png" width="200"> | **❌⚪️**<br>**Draw:** Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)<br>**Loss:** <75 kg: Rey Mysterio Jr. vs. Dragon Lee in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|S04E04_Admiral Lordevans Rules!]] (2021-10-17)<br> | **Nemesis:** [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 93% vs. Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 85.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ultimate-warrior_stats.png" width="200"> | **✅**<br>✅ **Ultimate Warrior** beat Laredo Kid, Roman Reigns at [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] - 2025-03-03<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Jeff Cobb\|Jeff Cobb]]<br>**Best Match:** 85% vs. Saint Rebel Radicalz vs. Jeff Cobb & Ultimate Warrior |
+| <img src="/img/charts/ultimate-warrior_stats.png" width="200"> | **✅**<br>**Win:** Saint Rebel Radicalz vs. Jeff Cobb & Ultimate Warrior in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Jeff Cobb\|Jeff Cobb]]<br>**Best Match:** 85% vs. Saint Rebel Radicalz vs. Jeff Cobb & Ultimate Warrior |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)

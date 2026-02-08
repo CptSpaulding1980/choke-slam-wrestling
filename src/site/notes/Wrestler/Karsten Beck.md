@@ -25,7 +25,7 @@ avg_rating: 65.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/karsten-beck_stats.png" width="200"> | **⚪️**<br>⚪️ **Karsten Beck** drew with nan at [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] - 2023-04-03<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 65% vs. Interview Segment |
+| <img src="/img/charts/karsten-beck_stats.png" width="200"> | **⚪️**<br>**Draw:** Interview Segment in [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] (2023-04-03)<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 65% vs. Interview Segment |
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (1x)

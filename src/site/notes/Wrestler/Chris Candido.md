@@ -25,7 +25,7 @@ avg_rating: 95.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/chris-candido_stats.png" width="200"> | **❌**<br>❌ **Lance Storm** beat Chris Candido at [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] - 2022-02-09<br> | **Nemesis:** [[Wrestler/Lance Storm\|Lance Storm]]<br>**Partner:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Best Match:** 95% vs. Choke Slam Apple Championship: Kevin Steen vs. Rush vs. Rey Mysterio Jr. vs. AJ Styles (c) vs. Chris Candido vs. Lance Storm |
+| <img src="/img/charts/chris-candido_stats.png" width="200"> | **❌**<br>**Loss:** Choke Slam Apple Championship: Kevin Steen vs. Rush vs. Rey Mysterio Jr. vs. AJ Styles (c) vs. Chris Candido vs. Lance Storm in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br> | **Nemesis:** [[Wrestler/Lance Storm\|Lance Storm]]<br>**Partner:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Best Match:** 95% vs. Choke Slam Apple Championship: Kevin Steen vs. Rush vs. Rey Mysterio Jr. vs. AJ Styles (c) vs. Chris Candido vs. Lance Storm |
 
 ## Häufigste Gegner
 - [[Wrestler/Lance Storm\|Lance Storm]] (1x)

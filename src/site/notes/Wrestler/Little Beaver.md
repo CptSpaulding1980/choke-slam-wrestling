@@ -25,7 +25,7 @@ avg_rating: 100.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/little-beaver_stats.png" width="200"> | **✅**<br>✅ **Little Beaver** beat Madison Rayne, Hendrique Delafuente at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Madison Rayne\|Madison Rayne]]<br>**Partner:** [[Wrestler/El Torito\|El Torito]]<br>**Best Match:** 100% vs. Sweet 'n Sour Elite vs. EL Torito & Little Beaver |
+| <img src="/img/charts/little-beaver_stats.png" width="200"> | **✅**<br>**Win:** Sweet 'n Sour Elite vs. EL Torito & Little Beaver in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Madison Rayne\|Madison Rayne]]<br>**Partner:** [[Wrestler/El Torito\|El Torito]]<br>**Best Match:** 100% vs. Sweet 'n Sour Elite vs. EL Torito & Little Beaver |
 
 ## Häufigste Gegner
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)

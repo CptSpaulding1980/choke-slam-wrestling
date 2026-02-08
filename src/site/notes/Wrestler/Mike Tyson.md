@@ -25,7 +25,7 @@ avg_rating: 81.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mike-tyson_stats.png" width="200"> | **✅**<br>✅ **Mike Tyson** beat Akira Taue at [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] - 2025-09-04<br> | **Nemesis:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 81% vs. Iron Grappling: Mike Tyson vs. Akira Taue |
+| <img src="/img/charts/mike-tyson_stats.png" width="200"> | **✅**<br>**Win:** Iron Grappling: Mike Tyson vs. Akira Taue in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] (2025-09-04)<br> | **Nemesis:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 81% vs. Iron Grappling: Mike Tyson vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Akira Taue\|Akira Taue]] (1x)

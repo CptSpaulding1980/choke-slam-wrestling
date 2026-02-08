@@ -25,7 +25,7 @@ avg_rating: 91.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/iron-mike-tyson_stats.png" width="200"> | **✅❌**<br>❌ **EC3, Philipp Brunkovic** beat Iron Mike Tyson at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br>✅ **Iron Mike Tyson** beat Shawn Michaels, Logan Paul at [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] - 2022-11-17<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Triple H\|Triple H]]<br>**Best Match:** 94% vs. EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson |
+| <img src="/img/charts/iron-mike-tyson_stats.png" width="200"> | **✅❌**<br>**Loss:** EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Win:** Triple H & Iron Mike Tyson vs. Shawn Michaels & Logan Paul in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Triple H\|Triple H]]<br>**Best Match:** 94% vs. EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

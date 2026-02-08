@@ -25,7 +25,7 @@ avg_rating: 72.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/brother-nero_stats.png" width="200"> | **✅**<br>✅ **Brother Nero** beat Chris Hero at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 72% vs. Me, Myself and I - Uno (Pascal) |
+| <img src="/img/charts/brother-nero_stats.png" width="200"> | **✅**<br>**Win:** Me, Myself and I - Uno (Pascal) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 72% vs. Me, Myself and I - Uno (Pascal) |
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Hero\|Chris Hero]] (1x)

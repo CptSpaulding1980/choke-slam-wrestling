@@ -25,7 +25,7 @@ avg_rating: 97.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/nick-jackson_stats.png" width="200"> | **⚪️**<br>⚪️ **Nick Jackson** drew with nan at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/CM Punk\|CM Punk]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 97% vs. Exhibition 3 - Backstage Brawl |
+| <img src="/img/charts/nick-jackson_stats.png" width="200"> | **⚪️**<br>**Draw:** Exhibition 3 - Backstage Brawl in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/CM Punk\|CM Punk]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 97% vs. Exhibition 3 - Backstage Brawl |
 
 ## Häufigste Gegner
 - [[Wrestler/CM Punk\|CM Punk]] (1x)

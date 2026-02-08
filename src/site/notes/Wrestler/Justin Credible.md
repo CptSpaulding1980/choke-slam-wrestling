@@ -25,7 +25,7 @@ avg_rating: 102.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/justin-credible_stats.png" width="200"> | **❌**<br>❌ **Bret Hart** beat Justin Credible at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Brody King\|Brody King]]<br>**Best Match:** 102% vs. Hardcore Title Tournament Semi Finals |
+| <img src="/img/charts/justin-credible_stats.png" width="200"> | **❌**<br>**Loss:** Hardcore Title Tournament Semi Finals in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Brody King\|Brody King]]<br>**Best Match:** 102% vs. Hardcore Title Tournament Semi Finals |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

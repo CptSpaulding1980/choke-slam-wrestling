@@ -25,7 +25,7 @@ avg_rating: 80.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/the-shark_stats.png" width="200"> | **❌❌**<br>❌ **Bret Hart, CM Punk, Miro, Thea Hail** beat The Shark at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br>❌ **Jay White, Jonathan Gresham, Ludwig Kaiser, Randy Savage** beat The Shark at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Kamala\|Kamala]]<br>**Best Match:** 85% vs. War Games: Militanter Mummenschanz vs. Dungeon of Doom |
+| <img src="/img/charts/the-shark_stats.png" width="200"> | **❌❌**<br>**Loss:** War Games: Militanter Mummenschanz vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br>**Loss:** War Games: Sweet 'n Sour Elite vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Kamala\|Kamala]]<br>**Best Match:** 85% vs. War Games: Militanter Mummenschanz vs. Dungeon of Doom |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

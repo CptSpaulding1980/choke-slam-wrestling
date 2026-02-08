@@ -25,7 +25,7 @@ avg_rating: 81.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/meng_stats.png" width="200"> | **⚪️❌❌**<br>❌ **Bret Hart, CM Punk, Miro, Thea Hail** beat Meng at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br>❌ **Jay White, Jonathan Gresham, Ludwig Kaiser, Randy Savage** beat Meng at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br>⚪️ **Meng** drew with nan at [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] - 2023-05-30<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Kamala\|Kamala]]<br>**Best Match:** 85% vs. War Games: Militanter Mummenschanz vs. Dungeon of Doom |
+| <img src="/img/charts/meng_stats.png" width="200"> | **⚪️❌❌**<br>**Loss:** War Games: Militanter Mummenschanz vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br>**Loss:** War Games: Sweet 'n Sour Elite vs. Dungeon of Doom in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br>**Draw:** Saint Rebel Radicalz vs. Meng & Ric Flair in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Kamala\|Kamala]]<br>**Best Match:** 85% vs. War Games: Militanter Mummenschanz vs. Dungeon of Doom |
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)

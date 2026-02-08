@@ -25,7 +25,7 @@ avg_rating: 86.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dean-malenko_stats.png" width="200"> | **⚪️✅**<br>✅ **Dean Malenko** beat Eddie Edwards, Gigi Dolin at [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] - 2023-05-30<br>⚪️ **Dean Malenko** drew with nan at [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] - 2021-05-18<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Diamond Dallas Page\|Diamond Dallas Page]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
+| <img src="/img/charts/dean-malenko_stats.png" width="200"> | **⚪️✅**<br>**Win:** Militanter Mummenschanz vs. Dean Malenko & Diamond Dallas Page in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Diamond Dallas Page\|Diamond Dallas Page]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

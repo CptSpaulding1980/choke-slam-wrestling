@@ -25,7 +25,7 @@ avg_rating: 95.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/isaac-yankem_stats.png" width="200"> | **❌**<br>❌ **Will Ospreay** beat Isaac Yankem at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br> | **Nemesis:** [[Wrestler/Will Ospreay\|Will Ospreay]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 95% vs. Will Ospreay vs. Isaac Yankem |
+| <img src="/img/charts/isaac-yankem_stats.png" width="200"> | **❌**<br>**Loss:** Will Ospreay vs. Isaac Yankem in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br> | **Nemesis:** [[Wrestler/Will Ospreay\|Will Ospreay]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 95% vs. Will Ospreay vs. Isaac Yankem |
 
 ## Häufigste Gegner
 - [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)

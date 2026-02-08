@@ -25,7 +25,7 @@ avg_rating: 88.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/grand-master-sexay_stats.png" width="200"> | **❌✅✅**<br>✅ **Grand Master Sexay** beat Killer Kelly, Ric Flair, Booker T at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>✅ **Grand Master Sexay** beat Madison Rayne, Rush, Booker T at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>❌ **Kurt Angle, Shawn Michaels, Booker T** beat Grand Master Sexay at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br> | **Nemesis:** [[Wrestler/Booker T\|Booker T]]<br>**Partner:** [[Wrestler/Rikishi\|Rikishi]]<br>**Best Match:** 99% vs. Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty |
+| <img src="/img/charts/grand-master-sexay_stats.png" width="200"> | **❌✅✅**<br>**Win:** Killer Kelly, Ric Flair, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Win:** Madison Rayne, Rush, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br> | **Nemesis:** [[Wrestler/Booker T\|Booker T]]<br>**Partner:** [[Wrestler/Rikishi\|Rikishi]]<br>**Best Match:** 99% vs. Kurt Angle, Shawn Michaels, & Booker T vs. Grand Master Sexay, Rikishi , & Scotty 2 Hotty |
 
 ## Häufigste Gegner
 - [[Wrestler/Booker T\|Booker T]] (3x)

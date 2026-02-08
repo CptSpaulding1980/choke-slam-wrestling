@@ -25,7 +25,7 @@ avg_rating: 80.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mr-fuji_stats.png" width="200"> | **⚪️❌**<br>❌ **Hulk Hogan** beat Mr. Fuji at [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] - 2023-10-09<br>⚪️ **Mr. Fuji** drew with nan at [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] - 2023-04-19<br> | **Nemesis:** [[Wrestler/Dario Cueto\|Dario Cueto]]<br>**Partner:** [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]]<br>**Best Match:** 101% vs. Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) |
+| <img src="/img/charts/mr-fuji_stats.png" width="200"> | **⚪️❌**<br>**Loss:** Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br>**Draw:** Interview Segment /w Dario Cueto & Mr. Fuji in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)<br> | **Nemesis:** [[Wrestler/Dario Cueto\|Dario Cueto]]<br>**Partner:** [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]]<br>**Best Match:** 101% vs. Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Dario Cueto\|Dario Cueto]] (1x)

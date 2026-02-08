@@ -25,7 +25,7 @@ avg_rating: 88.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/hack-myers_stats.png" width="200"> | **✅✅❌❌**<br>❌ **Bob Backlund** beat Hack Myers at [[Events/2022-02-21 - S04E08_Fan Favourites\|S04E08_Fan Favourites]] - 2022-02-21<br>❌ **Christian Cage** beat Hack Myers at [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] - 2022-02-09<br>✅ **Hack Myers** beat Madison Rayne at [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] - 2022-02-09<br>✅ **Hack Myers** beat Bob Backlund at [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] - 2022-02-09<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 97% vs. Choke Slam World Championship: Big Van Vader vs. Hack Myers vs. Bob Backlund (c) |
+| <img src="/img/charts/hack-myers_stats.png" width="200"> | **✅✅❌❌**<br>**Loss:** Choke Slam World Championship: Big Van Vader vs. Hack Myers vs. Bob Backlund (c) in [[Events/2022-02-21 - S04E08_Fan Favourites\|S04E08_Fan Favourites]] (2022-02-21)<br>**Loss:** Hack Myers vs. Christian Cage in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Win:** Hack Myers vs. Madison Rayne in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Win:** Hack Myers vs. Bob Backlund in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 97% vs. Choke Slam World Championship: Big Van Vader vs. Hack Myers vs. Bob Backlund (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)

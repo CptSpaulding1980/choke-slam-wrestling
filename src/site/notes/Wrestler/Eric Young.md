@@ -25,7 +25,7 @@ avg_rating: 81.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/eric-young_stats.png" width="200"> | **✅❌**<br>❌ **Kurt Angle, Elias** beat Eric Young at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br>✅ **Eric Young** beat Dr. Wagner Jr., Paul Orndorff at [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] - 2020-10-26<br> | **Nemesis:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Partner:** [[Wrestler/Arn Anderson\|Arn Anderson]]<br>**Best Match:** 85% vs. Arn Anderson & Eric Young vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/eric-young_stats.png" width="200"> | **✅❌**<br>**Loss:** Kurt Angle & Elias vs. Arn Anderson & Eric Young in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br>**Win:** Arn Anderson & Eric Young vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br> | **Nemesis:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Partner:** [[Wrestler/Arn Anderson\|Arn Anderson]]<br>**Best Match:** 85% vs. Arn Anderson & Eric Young vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)

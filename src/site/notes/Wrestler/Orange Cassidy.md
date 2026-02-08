@@ -25,7 +25,7 @@ avg_rating: 87.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/orange-cassidy_stats.png" width="200"> | **❌❌**<br>❌ **Goldust** beat Orange Cassidy at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br>❌ **Tetsuya Naito** beat Orange Cassidy at [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] - 2021-06-30<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Nikolai Volkoff\|Nikolai Volkoff]]<br>**Best Match:** 97% vs. Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff |
+| <img src="/img/charts/orange-cassidy_stats.png" width="200"> | **❌❌**<br>**Loss:** 1/8 Finals: Orange Cassidy vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Loss:** Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Nikolai Volkoff\|Nikolai Volkoff]]<br>**Best Match:** 97% vs. Dan Koloff HC Tournament: Tetsuya Naito vs. Orange Cassidy vs. Nikolai Volkoff |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)

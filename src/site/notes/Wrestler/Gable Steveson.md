@@ -25,7 +25,7 @@ avg_rating: 80.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/gable-steveson_stats.png" width="200"> | **✅**<br>✅ **Gable Steveson** beat KUSHIDA, Gunther, Dijak at [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] - 2024-07-19<br> | **Nemesis:** [[Wrestler/KUSHIDA\|KUSHIDA]]<br>**Partner:** [[Wrestler/Jim Duggan\|Jim Duggan]]<br>**Best Match:** 80% vs. Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski |
+| <img src="/img/charts/gable-steveson_stats.png" width="200"> | **✅**<br>**Win:** Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br> | **Nemesis:** [[Wrestler/KUSHIDA\|KUSHIDA]]<br>**Partner:** [[Wrestler/Jim Duggan\|Jim Duggan]]<br>**Best Match:** 80% vs. Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski |
 
 ## Häufigste Gegner
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)

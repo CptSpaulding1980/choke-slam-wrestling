@@ -25,7 +25,7 @@ avg_rating: 83.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mark-coffey_stats.png" width="200"> | **✅❌✅**<br>✅ **Mark Coffey** beat Britt Baker, Killshot, Jushin Liger at [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] - 2020-12-28<br>❌ **Austin Aries, Tetsuya Naito, Dr. Wagner Jr.** beat Mark Coffey at [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] - 2020-12-28<br>✅ **Mark Coffey** beat Bob Backlund, Gail Kim, Rey Fenix at [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] - 2020-12-28<br> | **Nemesis:** [[Wrestler/Britt Baker\|Britt Baker]]<br>**Partner:** [[Wrestler/Joe Coffey\|Joe Coffey]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang |
+| <img src="/img/charts/mark-coffey_stats.png" width="200"> | **✅❌✅**<br>**Win:** Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br>**Loss:** Sweet 'n Sour Elite vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br>**Win:** Saint Rebel Radicalz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br> | **Nemesis:** [[Wrestler/Britt Baker\|Britt Baker]]<br>**Partner:** [[Wrestler/Joe Coffey\|Joe Coffey]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang |
 
 ## Häufigste Gegner
 - [[Wrestler/Britt Baker\|Britt Baker]] (1x)

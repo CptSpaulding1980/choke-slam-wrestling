@@ -25,7 +25,7 @@ avg_rating: 57.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/big-daddy-v_stats.png" width="200"> | **❌**<br>❌ **Ric Flair** beat Big Daddy V at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/Ric Flair\|Ric Flair]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 57% vs. Me, Myself and I - Tre (Philipp) |
+| <img src="/img/charts/big-daddy-v_stats.png" width="200"> | **❌**<br>**Loss:** Me, Myself and I - Tre (Philipp) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Ric Flair\|Ric Flair]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 57% vs. Me, Myself and I - Tre (Philipp) |
 
 ## Häufigste Gegner
 - [[Wrestler/Ric Flair\|Ric Flair]] (1x)

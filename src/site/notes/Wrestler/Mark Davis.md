@@ -25,7 +25,7 @@ avg_rating: 92.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mark-davis_stats.png" width="200"> | **✅❌✅**<br>✅ **Mark Davis** beat Colt Cabana, Madison Rayne at [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] - 2021-04-10<br>❌ **Shelton Benjamin, Ivelisse** beat Mark Davis at [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] - 2021-04-10<br>✅ **Mark Davis** beat Rey Fenix, Dustin Rhodes at [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] - 2021-04-10<br> | **Nemesis:** [[Wrestler/Colt Cabana\|Colt Cabana]]<br>**Partner:** [[Wrestler/Kyle Fletcher\|Kyle Fletcher]]<br>**Best Match:** 100% vs. Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz |
+| <img src="/img/charts/mark-davis_stats.png" width="200"> | **✅❌✅**<br>**Win:** Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] (2021-04-10)<br>**Loss:** Mark Davis & Kyle Fletcher vs. Sweet 'n Sour Elite in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] (2021-04-10)<br>**Win:** Mark Davis & Kyle Fletcher vs. Saint Rebel Radicalz in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] (2021-04-10)<br> | **Nemesis:** [[Wrestler/Colt Cabana\|Colt Cabana]]<br>**Partner:** [[Wrestler/Kyle Fletcher\|Kyle Fletcher]]<br>**Best Match:** 100% vs. Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Colt Cabana\|Colt Cabana]] (1x)

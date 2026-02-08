@@ -25,7 +25,7 @@ avg_rating: 89.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kwang_stats.png" width="200"> | **❌**<br>❌ **AJ Styles** beat Kwang at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Repo Man\|Repo Man]]<br>**Best Match:** 89% vs. AJ Styles vs. Repo Man vs. Kwang vs. Eugene  |
+| <img src="/img/charts/kwang_stats.png" width="200"> | **❌**<br>**Loss:** AJ Styles vs. Repo Man vs. Kwang vs. Eugene  in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Repo Man\|Repo Man]]<br>**Best Match:** 89% vs. AJ Styles vs. Repo Man vs. Kwang vs. Eugene  |
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)

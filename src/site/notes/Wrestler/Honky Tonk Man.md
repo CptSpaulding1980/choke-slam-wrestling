@@ -25,7 +25,7 @@ avg_rating: 96.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/honky-tonk-man_stats.png" width="200"> | **⚪️**<br>⚪️ **Honky Tonk Man** drew with nan at [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|S03E09_USA - Day 2 - Don't stop the Count]] - 2021-05-10<br> | **Nemesis:** [[Wrestler/Joey Janela\|Joey Janela]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 96% vs. Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fenix vs. Pat Patterson vs. Honky Tonk Man |
+| <img src="/img/charts/honky-tonk-man_stats.png" width="200"> | **⚪️**<br>**Draw:** Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fenix vs. Pat Patterson vs. Honky Tonk Man in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|S03E09_USA - Day 2 - Don't stop the Count]] (2021-05-10)<br> | **Nemesis:** [[Wrestler/Joey Janela\|Joey Janela]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 96% vs. Choke Slam Apple Championship: Joey Janela vs. Kane vs. Christian Cage vs. Brutus Beefcake vs. Bob Backlund vs. Rey Fenix vs. Pat Patterson vs. Honky Tonk Man |
 
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (1x)

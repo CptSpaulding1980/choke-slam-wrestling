@@ -25,7 +25,7 @@ avg_rating: 95.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/oba-femi_stats.png" width="200"> | **❌❌✅**<br>✅ **Oba Femi** beat Jun Akiyama, Kazuchika Okada at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Daniel Bryan, Hiroshi Tanahashi** beat Oba Femi at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br>❌ **Booker T, Stevie Ray** beat Oba Femi at [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] - 2025-12-30<br> | **Nemesis:** [[Wrestler/Jun Akiyama\|Jun Akiyama]]<br>**Partner:** [[Wrestler/Cody Rhodes\|Cody Rhodes]]<br>**Best Match:** 99% vs. Cody Rhodes & Oba Femi vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/oba-femi_stats.png" width="200"> | **❌❌✅**<br>**Win:** Cody Rhodes & Oba Femi vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Cody Rhodes & Oba Femi vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Cody Rhodes & Oba Femi vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Jun Akiyama\|Jun Akiyama]]<br>**Partner:** [[Wrestler/Cody Rhodes\|Cody Rhodes]]<br>**Best Match:** 99% vs. Cody Rhodes & Oba Femi vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Jun Akiyama\|Jun Akiyama]] (1x)

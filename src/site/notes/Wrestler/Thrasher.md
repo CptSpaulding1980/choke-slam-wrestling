@@ -25,7 +25,7 @@ avg_rating: 92.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/thrasher_stats.png" width="200"> | **❌✅❌**<br>❌ **Akira Taue, KONOSUKE TAKESHITA** beat Thrasher at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>✅ **Thrasher** beat Billy Gunn, Road Dogg at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br>❌ **Big E, Kofi Kingston** beat Thrasher at [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] - 2025-11-18<br> | **Nemesis:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Partner:** [[Wrestler/Mosh\|Mosh]]<br>**Best Match:** 94% vs. Big E & Kofi Kingston vs. Mosh & Thrasher |
+| <img src="/img/charts/thrasher_stats.png" width="200"> | **❌✅❌**<br>**Loss:** Mosh & Thrasher vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Win:** Mosh & Thrasher vs. Billy Gunn & Road Dogg in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Big E & Kofi Kingston vs. Mosh & Thrasher in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br> | **Nemesis:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Partner:** [[Wrestler/Mosh\|Mosh]]<br>**Best Match:** 94% vs. Big E & Kofi Kingston vs. Mosh & Thrasher |
 
 ## Häufigste Gegner
 - [[Wrestler/Akira Taue\|Akira Taue]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 94.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kerwin-white_stats.png" width="200"> | **❌**<br>❌ **Roman Reigns** beat Kerwin White at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 94% vs. Roman Reigns vs. Kerwin White |
+| <img src="/img/charts/kerwin-white_stats.png" width="200"> | **❌**<br>**Loss:** Roman Reigns vs. Kerwin White in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 94% vs. Roman Reigns vs. Kerwin White |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)

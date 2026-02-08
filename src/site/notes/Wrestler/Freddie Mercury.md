@@ -25,7 +25,7 @@ avg_rating: 97.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/freddie-mercury_stats.png" width="200"> | **❌❌❌**<br>❌ **Kevin Steen, Ric Flair, Bob Backlund** beat Freddie Mercury at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>❌ **Rush, Hendrique Delafuente, Madison Rayne** beat Freddie Mercury at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>❌ **Chris Hero, Sting, Kurt Angle** beat Freddie Mercury at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/The Honky Tonk Man\|The Honky Tonk Man]]<br>**Best Match:** 97% vs. Apple Gauntlet 1 |
+| <img src="/img/charts/freddie-mercury_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Apple Gauntlet 3 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/The Honky Tonk Man\|The Honky Tonk Man]]<br>**Best Match:** 97% vs. Apple Gauntlet 1 |
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

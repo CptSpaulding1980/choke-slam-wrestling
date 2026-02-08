@@ -25,7 +25,7 @@ avg_rating: 84.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dudley-dudley_stats.png" width="200"> | **✅❌❌**<br>❌ **Bret Hart, Gigi Dolin** beat Dudley Dudley at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>❌ **Ludwig Kaiser, Pac** beat Dudley Dudley at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br>✅ **Dudley Dudley** beat Brandon, Alexa Bliss at [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] - 2023-06-26<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]]<br>**Best Match:** 100% vs. Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz |
+| <img src="/img/charts/dudley-dudley_stats.png" width="200"> | **✅❌❌**<br>**Loss:** Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Loss:** Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Win:** Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]]<br>**Best Match:** 100% vs. Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

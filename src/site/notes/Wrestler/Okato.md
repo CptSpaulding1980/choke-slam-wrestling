@@ -25,7 +25,7 @@ avg_rating: 66.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/okato_stats.png" width="200"> | **❌**<br>❌ **Hiroshi Tanahashi** beat Okato at [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] - 2024-03-07<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 66% vs. Hiroshi Tanahashi vs. Okato |
+| <img src="/img/charts/okato_stats.png" width="200"> | **❌**<br>**Loss:** Hiroshi Tanahashi vs. Okato in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 66% vs. Hiroshi Tanahashi vs. Okato |
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)

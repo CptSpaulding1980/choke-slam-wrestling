@@ -25,7 +25,7 @@ avg_rating: 78.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/darby-allin_stats.png" width="200"> | **❌❌❌**<br>❌ **Bob Backlund** beat Darby Allin at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br>❌ **Triple H** beat Darby Allin at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br>❌ **Rey Mysterio Jr.** beat Darby Allin at [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] - 2022-01-26<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 96% vs. Skateboard II: Bob Backlund vs. Darby Allin |
+| <img src="/img/charts/darby-allin_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Skateboard II: Bob Backlund vs. Darby Allin in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Loss:** Skateboard II: Triple H vs. Darby Allin in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Loss:** Skateboard II: Rey Mysterio Jr. vs. Darby Allin in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 96% vs. Skateboard II: Bob Backlund vs. Darby Allin |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

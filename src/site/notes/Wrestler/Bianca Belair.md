@@ -25,7 +25,7 @@ avg_rating: 103.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bianca-belair_stats.png" width="200"> | **❌**<br>❌ **Kiana James** beat Bianca Belair at [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] - 2024-04-10<br> | **Nemesis:** [[Wrestler/Kiana James\|Kiana James]]<br>**Partner:** [[Wrestler/Masha Slamovich\|Masha Slamovich]]<br>**Best Match:** 103% vs. Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair |
+| <img src="/img/charts/bianca-belair_stats.png" width="200"> | **❌**<br>**Loss:** Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] (2024-04-10)<br> | **Nemesis:** [[Wrestler/Kiana James\|Kiana James]]<br>**Partner:** [[Wrestler/Masha Slamovich\|Masha Slamovich]]<br>**Best Match:** 103% vs. Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair |
 
 ## Häufigste Gegner
 - [[Wrestler/Kiana James\|Kiana James]] (1x)

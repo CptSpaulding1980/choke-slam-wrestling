@@ -25,7 +25,7 @@ avg_rating: 78.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/marcel-barthel_stats.png" width="200"> | **❌✅✅**<br>✅ **Marcel Barthel** beat Colt Cabana, Jushin Liger at [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] - 2021-01-21<br>✅ **Marcel Barthel** beat Austin Aries, Dr. Wagner Jr. at [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] - 2021-01-21<br>❌ **Dustin Rhodes, Rey Fenix** beat Marcel Barthel at [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] - 2021-01-21<br> | **Nemesis:** [[Wrestler/Colt Cabana\|Colt Cabana]]<br>**Partner:** [[Wrestler/Fabian Aichner\|Fabian Aichner]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Imperium |
+| <img src="/img/charts/marcel-barthel_stats.png" width="200"> | **❌✅✅**<br>**Win:** Militanter Mummenschanz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)<br>**Win:** Sweet 'n Sour Elite vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)<br>**Loss:** Saint Rebel Radicalz vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)<br> | **Nemesis:** [[Wrestler/Colt Cabana\|Colt Cabana]]<br>**Partner:** [[Wrestler/Fabian Aichner\|Fabian Aichner]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Imperium |
 
 ## Häufigste Gegner
 - [[Wrestler/Colt Cabana\|Colt Cabana]] (1x)

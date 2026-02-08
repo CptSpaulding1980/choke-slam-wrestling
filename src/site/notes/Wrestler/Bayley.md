@@ -25,7 +25,7 @@ avg_rating: 69.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bayley_stats.png" width="200"> | **❌**<br>❌ **Awesome Kong** beat Bayley at [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] - 2025-08-12<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 69% vs. Womens Quarter Finals: Bayley vs. Awesome Kong |
+| <img src="/img/charts/bayley_stats.png" width="200"> | **❌**<br>**Loss:** Womens Quarter Finals: Bayley vs. Awesome Kong in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 69% vs. Womens Quarter Finals: Bayley vs. Awesome Kong |
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)

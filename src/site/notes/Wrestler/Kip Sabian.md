@@ -25,7 +25,7 @@ avg_rating: 74.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kip-sabian_stats.png" width="200"> | **⚪️**<br>⚪️ **Kip Sabian** drew with nan at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br> | **Nemesis:** [[Wrestler/Wade Barrett\|Wade Barrett]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 74% vs. Wade Barrett vs. Pac vs. Kip Sabian vs. Doug Williams vs. Sgt. Slaughter |
+| <img src="/img/charts/kip-sabian_stats.png" width="200"> | **⚪️**<br>**Draw:** Wade Barrett vs. Pac vs. Kip Sabian vs. Doug Williams vs. Sgt. Slaughter in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)<br> | **Nemesis:** [[Wrestler/Wade Barrett\|Wade Barrett]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 74% vs. Wade Barrett vs. Pac vs. Kip Sabian vs. Doug Williams vs. Sgt. Slaughter |
 
 ## Häufigste Gegner
 - [[Wrestler/Wade Barrett\|Wade Barrett]] (1x)

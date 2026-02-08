@@ -25,7 +25,7 @@ avg_rating: 85.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/omos_stats.png" width="200"> | **⚪️**<br>⚪️ **Omos** drew with nan at [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] - 2025-08-21<br> | **Nemesis:** [[Wrestler/Wardlow\|Wardlow]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 85% vs. Oerel Bardahl |
+| <img src="/img/charts/omos_stats.png" width="200"> | **⚪️**<br>**Draw:** Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br> | **Nemesis:** [[Wrestler/Wardlow\|Wardlow]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 85% vs. Oerel Bardahl |
 
 ## Häufigste Gegner
 - [[Wrestler/Wardlow\|Wardlow]] (1x)

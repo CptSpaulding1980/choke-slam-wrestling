@@ -25,7 +25,7 @@ avg_rating: 88.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/donatello_stats.png" width="200"> | **⚪️**<br>⚪️ **Donatello** drew with nan at [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] - 2023-02-22<br> | **Nemesis:** [[Wrestler/Brandon\|Brandon]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 88% vs. Mens Royal Rumble |
+| <img src="/img/charts/donatello_stats.png" width="200"> | **⚪️**<br>**Draw:** Mens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)<br> | **Nemesis:** [[Wrestler/Brandon\|Brandon]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 88% vs. Mens Royal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (1x)

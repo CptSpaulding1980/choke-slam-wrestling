@@ -25,7 +25,7 @@ avg_rating: 92.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/cameron-grimes_stats.png" width="200"> | **⚪️**<br>⚪️ **Cameron Grimes** drew with nan at [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] - 2020-06-08<br> | **Nemesis:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega |
+| <img src="/img/charts/cameron-grimes_stats.png" width="200"> | **⚪️**<br>**Draw:** Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)<br> | **Nemesis:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega |
 
 ## Häufigste Gegner
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (1x)

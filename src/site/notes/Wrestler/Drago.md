@@ -25,7 +25,7 @@ avg_rating: 96.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/drago_stats.png" width="200"> | **❌**<br>❌ **Bret Hart, Eddie Edwards, Miro** beat Drago at [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] - 2023-04-19<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Aero Star\|Aero Star]]<br>**Best Match:** 96% vs. Trios League Final: Aero Star, Drago & Rey Fenix vs. Militanter Mummenschanz |
+| <img src="/img/charts/drago_stats.png" width="200"> | **❌**<br>**Loss:** Trios League Final: Aero Star, Drago & Rey Fenix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Aero Star\|Aero Star]]<br>**Best Match:** 96% vs. Trios League Final: Aero Star, Drago & Rey Fenix vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

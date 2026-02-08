@@ -25,7 +25,7 @@ avg_rating: 74.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/vince-mcmahon_stats.png" width="200"> | **❌**<br>❌ **Kazuchika Okada** beat Vince McMahon at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 74% vs. Choke Slam World Championship: Vince McMahon vs. Kazuchika Okada (c) |
+| <img src="/img/charts/vince-mcmahon_stats.png" width="200"> | **❌**<br>**Loss:** Choke Slam World Championship: Vince McMahon vs. Kazuchika Okada (c) in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 74% vs. Choke Slam World Championship: Vince McMahon vs. Kazuchika Okada (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)

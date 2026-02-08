@@ -25,7 +25,7 @@ avg_rating: 87.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jbl_stats.png" width="200"> | **❌**<br>❌ **EC3, Eddie Edwards** beat JBL at [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] - 2022-11-07<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Ted DiBiase\|Ted DiBiase]]<br>**Best Match:** 87% vs. Tag Team Roulette - Militanter Mummenschanz vs. Honey Money (JBL & Ted DiBiase) |
+| <img src="/img/charts/jbl_stats.png" width="200"> | **❌**<br>**Loss:** Tag Team Roulette - Militanter Mummenschanz vs. Honey Money (JBL & Ted DiBiase) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Ted DiBiase\|Ted DiBiase]]<br>**Best Match:** 87% vs. Tag Team Roulette - Militanter Mummenschanz vs. Honey Money (JBL & Ted DiBiase) |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

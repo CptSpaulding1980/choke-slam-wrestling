@@ -25,7 +25,7 @@ avg_rating: 90.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/alex-wright_stats.png" width="200"> | **✅❌❌**<br>❌ **Wade Barrett** beat Alex Wright at [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] - 2023-04-03<br>❌ **Jonathan Gresham** beat Alex Wright at [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] - 2023-03-29<br>✅ **Alex Wright** beat Alexa Bliss at [[Events/2023-03-29 - S05E03_Europa - Day 2\|S05E03_Europa - Day 2]] - 2023-03-29<br> | **Nemesis:** [[Wrestler/Jonathan Gresham\|Jonathan Gresham]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Loser Round: Alexa Bliss vs. Alex Wright |
+| <img src="/img/charts/alex-wright_stats.png" width="200"> | **✅❌❌**<br>**Loss:** Alex Wright vs. Wade Barrett in [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] (2023-04-03)<br>**Loss:** Carat First Round: Alex Wright vs. Jonathan Gresham in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)<br>**Win:** Loser Round: Alexa Bliss vs. Alex Wright in [[Events/2023-03-29 - S05E03_Europa - Day 2\|S05E03_Europa - Day 2]] (2023-03-29)<br> | **Nemesis:** [[Wrestler/Jonathan Gresham\|Jonathan Gresham]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Loser Round: Alexa Bliss vs. Alex Wright |
 
 ## Häufigste Gegner
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)

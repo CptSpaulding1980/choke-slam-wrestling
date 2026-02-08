@@ -25,7 +25,7 @@ avg_rating: 0.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/karl-gotch_stats.png" width="200"> | **⚪️**<br>⚪️ **Karl Gotch** drew with nan at [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] - 2026-02-05<br> | **Nemesis:** [[Wrestler/El Dandy\|El Dandy]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 0% vs. Royal Rumble |
+| <img src="/img/charts/karl-gotch_stats.png" width="200"> | **⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-02-05)<br> | **Nemesis:** [[Wrestler/El Dandy\|El Dandy]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 0% vs. Royal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/El Dandy\|El Dandy]] (1x)

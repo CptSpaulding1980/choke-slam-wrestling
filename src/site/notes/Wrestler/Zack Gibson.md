@@ -25,7 +25,7 @@ avg_rating: 86.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/zack-gibson_stats.png" width="200"> | **⚪️**<br>⚪️ **Zack Gibson** drew with nan at [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] - 2020-12-29<br> | **Nemesis:** [[Wrestler/Giant Haystacks\|Giant Haystacks]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 86% vs. Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane |
+| <img src="/img/charts/zack-gibson_stats.png" width="200"> | **⚪️**<br>**Draw:** Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)<br> | **Nemesis:** [[Wrestler/Giant Haystacks\|Giant Haystacks]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 86% vs. Giant Haystacks vs. Zack Sabre Jr. vs. Zack Gibson vs. Jack Gallagher vs. Kane |
 
 ## Häufigste Gegner
 - [[Wrestler/Giant Haystacks\|Giant Haystacks]] (1x)

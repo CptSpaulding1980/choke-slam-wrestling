@@ -25,7 +25,7 @@ avg_rating: 74.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/rob-halford_stats.png" width="200"> | **✅❌✅**<br>✅ **Rob Halford** beat EC3, Killer Kelly, Kevin Steen at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>❌ **Hendrique Delafuente, Triple H, Big Van Vader** beat Rob Halford at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br>✅ **Rob Halford** beat Aoife Valkyrie, Shawn Michaels, Chris Hero at [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] - 2022-10-02<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Till Lindemann\|Till Lindemann]]<br>**Best Match:** 80% vs. Militanter Mummenschanz vs. Till Lindemann, James Hetfield, & Rob Halford |
+| <img src="/img/charts/rob-halford_stats.png" width="200"> | **✅❌✅**<br>**Win:** Militanter Mummenschanz vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Sweet 'n Sour Elite vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Win:** Saint Rebel Radicalz vs. Till Lindemann, James Hetfield, & Rob Halford in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Till Lindemann\|Till Lindemann]]<br>**Best Match:** 80% vs. Militanter Mummenschanz vs. Till Lindemann, James Hetfield, & Rob Halford |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

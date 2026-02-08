@@ -23,8 +23,8 @@ avg_rating: 86.67
 |---|---|---|---|---|---|---|
 | 3 | 0 | 3 | 0 | 0.0% | 86.67 | 1154 |
 
-### 📈 Elo History
-<img src="/img/charts/al-snow_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/al-snow_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (1x)

@@ -23,6 +23,9 @@ avg_rating: 94.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 94.00 | 1185 |
 
+### 📊 Record
+<img src="/img/charts/kerwin-white_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)
 

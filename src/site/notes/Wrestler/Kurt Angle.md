@@ -23,8 +23,8 @@ avg_rating: 88.24
 |---|---|---|---|---|---|---|
 | 42 | 16 | 15 | 11 | 38.1% | 88.24 | 1252 |
 
-### 📈 Elo History
-<img src="/img/charts/kurt-angle_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/kurt-angle_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (10x)

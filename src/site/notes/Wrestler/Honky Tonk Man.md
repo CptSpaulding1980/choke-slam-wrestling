@@ -23,6 +23,9 @@ avg_rating: 96.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 96.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/honky-tonk-man_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (1x)
 - [[Wrestler/Kane\|Kane]] (1x)

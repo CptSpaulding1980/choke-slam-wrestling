@@ -23,6 +23,9 @@ avg_rating: 100.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 100.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/kris-statlander_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
 - [[Wrestler/Fit Finlay\|Fit Finlay]] (1x)

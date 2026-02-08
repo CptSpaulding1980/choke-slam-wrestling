@@ -23,8 +23,8 @@ avg_rating: 83.67
 |---|---|---|---|---|---|---|
 | 3 | 0 | 3 | 0 | 0.0% | 83.67 | 1158 |
 
-### 📈 Elo History
-<img src="/img/charts/anthony-bowens_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/anthony-bowens_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

@@ -23,8 +23,8 @@ avg_rating: 74.25
 |---|---|---|---|---|---|---|
 | 4 | 2 | 1 | 1 | 50.0% | 74.25 | 1214 |
 
-### 📈 Elo History
-<img src="/img/charts/disco-inferno_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/disco-inferno_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Dijak\|Dijak]] (1x)

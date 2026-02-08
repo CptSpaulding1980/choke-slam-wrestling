@@ -23,8 +23,8 @@ avg_rating: 92.33
 |---|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 92.33 | 1183 |
 
-### 📈 Elo History
-<img src="/img/charts/road-dogg_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/road-dogg_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Big E\|Big E]] (1x)

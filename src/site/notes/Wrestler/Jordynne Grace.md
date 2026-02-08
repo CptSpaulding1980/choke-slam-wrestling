@@ -23,8 +23,8 @@ avg_rating: 83.83
 |---|---|---|---|---|---|---|
 | 12 | 3 | 6 | 3 | 25.0% | 83.83 | 1161 |
 
-### 📈 Elo History
-<img src="/img/charts/jordynne-grace_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/jordynne-grace_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kiana James\|Kiana James]] (4x)

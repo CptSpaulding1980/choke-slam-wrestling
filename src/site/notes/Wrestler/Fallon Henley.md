@@ -23,8 +23,8 @@ avg_rating: 79.08
 |---|---|---|---|---|---|---|
 | 12 | 4 | 6 | 2 | 33.3% | 79.08 | 1158 |
 
-### 📈 Elo History
-<img src="/img/charts/fallon-henley_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/fallon-henley_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kiana James\|Kiana James]] (5x)

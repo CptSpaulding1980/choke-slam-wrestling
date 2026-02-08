@@ -23,6 +23,9 @@ avg_rating: 78.0
 |---|---|---|---|---|---|---|
 | 2 | 1 | 0 | 1 | 50.0% | 78.00 | 1215 |
 
+### 📊 Record
+<img src="/img/charts/tatsumi-fujinami_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

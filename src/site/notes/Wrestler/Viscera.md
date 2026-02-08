@@ -23,6 +23,9 @@ avg_rating: 89.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 89.00 | 1181 |
 
+### 📊 Record
+<img src="/img/charts/viscera_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
 

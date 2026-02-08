@@ -23,8 +23,8 @@ avg_rating: 92.5
 |---|---|---|---|---|---|---|
 | 4 | 2 | 1 | 1 | 50.0% | 92.50 | 1215 |
 
-### 📈 Elo History
-<img src="/img/charts/timothy-thatcher_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/timothy-thatcher_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (1x)

@@ -23,6 +23,9 @@ avg_rating: 105.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 105.00 | 1183 |
 
+### 📊 Record
+<img src="/img/charts/rusev_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
 

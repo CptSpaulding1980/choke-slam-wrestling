@@ -23,8 +23,8 @@ avg_rating: 82.8
 |---|---|---|---|---|---|---|
 | 15 | 7 | 4 | 4 | 46.7% | 82.80 | 1252 |
 
-### 📈 Elo History
-<img src="/img/charts/tyler-bate_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/tyler-bate_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bryan Danielson\|Bryan Danielson]] (4x)

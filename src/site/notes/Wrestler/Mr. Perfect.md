@@ -23,6 +23,9 @@ avg_rating: 94.33
 |---|---|---|---|---|---|---|
 | 3 | 0 | 1 | 2 | 0.0% | 94.33 | 1185 |
 
+### 📊 Record
+<img src="/img/charts/mr-perfect_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)
 - [[Wrestler/Sid Vicious\|Sid Vicious]] (2x)

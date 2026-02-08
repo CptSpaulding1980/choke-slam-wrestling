@@ -23,8 +23,8 @@ avg_rating: 88.67
 |---|---|---|---|---|---|---|
 | 3 | 2 | 1 | 0 | 66.7% | 88.67 | 1212 |
 
-### 📈 Elo History
-<img src="/img/charts/rikishi_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/rikishi_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Booker T\|Booker T]] (3x)

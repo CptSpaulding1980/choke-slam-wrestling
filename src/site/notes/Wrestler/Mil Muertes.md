@@ -23,6 +23,9 @@ avg_rating: 94.0
 |---|---|---|---|---|---|---|
 | 2 | 0 | 0 | 2 | 0.0% | 94.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/mil-muertes_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (2x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (2x)

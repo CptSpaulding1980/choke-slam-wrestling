@@ -23,8 +23,8 @@ avg_rating: 81.0
 |---|---|---|---|---|---|---|
 | 3 | 2 | 1 | 0 | 66.7% | 81.00 | 1210 |
 
-### 📈 Elo History
-<img src="/img/charts/killian-dain_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/killian-dain_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)

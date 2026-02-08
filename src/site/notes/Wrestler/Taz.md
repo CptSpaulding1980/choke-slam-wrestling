@@ -23,8 +23,8 @@ avg_rating: 59.25
 |---|---|---|---|---|---|---|
 | 4 | 3 | 0 | 1 | 75.0% | 59.25 | 1249 |
 
-### 📈 Elo History
-<img src="/img/charts/taz_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/taz_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)

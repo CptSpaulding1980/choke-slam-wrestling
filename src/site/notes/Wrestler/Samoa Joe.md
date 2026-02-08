@@ -23,8 +23,8 @@ avg_rating: 86.17
 |---|---|---|---|---|---|---|
 | 12 | 2 | 6 | 4 | 16.7% | 86.17 | 1137 |
 
-### 📈 Elo History
-<img src="/img/charts/samoa-joe_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/samoa-joe_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (4x)

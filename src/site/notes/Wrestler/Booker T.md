@@ -23,8 +23,8 @@ avg_rating: 86.6
 |---|---|---|---|---|---|---|
 | 10 | 3 | 7 | 0 | 30.0% | 86.60 | 1150 |
 
-### 📈 Elo History
-<img src="/img/charts/booker-t_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/booker-t_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Grand Master Sexay\|Grand Master Sexay]] (3x)

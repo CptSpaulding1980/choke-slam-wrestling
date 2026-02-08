@@ -23,6 +23,9 @@ avg_rating: 65.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 65.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/karsten-beck_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (1x)
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)

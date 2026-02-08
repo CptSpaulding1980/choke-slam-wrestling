@@ -23,8 +23,8 @@ avg_rating: 80.19
 |---|---|---|---|---|---|---|
 | 16 | 7 | 7 | 2 | 43.8% | 80.19 | 1197 |
 
-### 📈 Elo History
-<img src="/img/charts/lady-apache_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/lady-apache_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)

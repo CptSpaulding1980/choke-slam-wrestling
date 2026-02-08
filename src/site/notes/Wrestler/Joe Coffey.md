@@ -23,8 +23,8 @@ avg_rating: 80.38
 |---|---|---|---|---|---|---|
 | 13 | 5 | 7 | 1 | 38.5% | 80.38 | 1179 |
 
-### 📈 Elo History
-<img src="/img/charts/joe-coffey_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/joe-coffey_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (2x)

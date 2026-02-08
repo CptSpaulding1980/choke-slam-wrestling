@@ -24,6 +24,9 @@ avg_rating: 85.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 85.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/ciberntico_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Omos\|Omos]] (1x)
 - [[Wrestler/Wardlow\|Wardlow]] (1x)

@@ -23,8 +23,8 @@ avg_rating: 89.33
 |---|---|---|---|---|---|---|
 | 3 | 2 | 1 | 0 | 66.7% | 89.33 | 1211 |
 
-### 📈 Elo History
-<img src="/img/charts/flash-morgan-webster_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/flash-morgan-webster_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (1x)

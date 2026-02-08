@@ -23,8 +23,8 @@ avg_rating: 80.33
 |---|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 80.33 | 1193 |
 
-### 📈 Elo History
-<img src="/img/charts/rob-gronkowski_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/rob-gronkowski_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)

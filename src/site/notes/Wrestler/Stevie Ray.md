@@ -23,8 +23,8 @@ avg_rating: 90.0
 |---|---|---|---|---|---|---|
 | 4 | 1 | 3 | 0 | 25.0% | 90.00 | 1176 |
 
-### 📈 Elo History
-<img src="/img/charts/stevie-ray_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/stevie-ray_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (1x)

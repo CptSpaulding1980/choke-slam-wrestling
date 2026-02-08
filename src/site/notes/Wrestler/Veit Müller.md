@@ -24,6 +24,9 @@ avg_rating: 95.0
 |---|---|---|---|---|---|---|
 | 2 | 0 | 0 | 2 | 0.0% | 95.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/veit-mller_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Teoman\|Teoman]] (4x)
 - [[Wrestler/Jay Briscoe\|Jay Briscoe]] (4x)

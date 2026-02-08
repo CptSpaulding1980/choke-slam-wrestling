@@ -23,8 +23,8 @@ avg_rating: 80.5
 |---|---|---|---|---|---|---|
 | 4 | 2 | 2 | 0 | 50.0% | 80.50 | 1181 |
 
-### 📈 Elo History
-<img src="/img/charts/shayna-baszler_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/shayna-baszler_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)

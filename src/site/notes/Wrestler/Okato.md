@@ -23,6 +23,9 @@ avg_rating: 66.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 66.00 | 1186 |
 
+### 📊 Record
+<img src="/img/charts/okato_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)
 

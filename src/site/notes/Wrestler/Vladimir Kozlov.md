@@ -23,6 +23,9 @@ avg_rating: 74.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 74.00 | 1182 |
 
+### 📊 Record
+<img src="/img/charts/vladimir-kozlov_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Kota Ibushi\|Kota Ibushi]] (1x)
 

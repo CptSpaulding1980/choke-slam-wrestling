@@ -23,6 +23,9 @@ avg_rating: 88.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 88.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/jimmy-havoc_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/William Regal\|William Regal]] (1x)
 - [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)

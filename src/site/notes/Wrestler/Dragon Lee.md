@@ -23,6 +23,9 @@ avg_rating: 83.5
 |---|---|---|---|---|---|---|
 | 2 | 0 | 1 | 1 | 0.0% | 83.50 | 1185 |
 
+### 📊 Record
+<img src="/img/charts/dragon-lee_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (1x)
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)

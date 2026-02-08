@@ -23,6 +23,9 @@ avg_rating: 60.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 60.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/dario-cueto_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Mr. Fuji\|Mr. Fuji]] (1x)
 

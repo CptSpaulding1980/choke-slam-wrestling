@@ -23,6 +23,9 @@ avg_rating: 100.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 100.00 | 1182 |
 
+### 📊 Record
+<img src="/img/charts/mikey-whipwreck_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (1x)
 

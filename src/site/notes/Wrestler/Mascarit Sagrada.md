@@ -23,6 +23,9 @@ avg_rating: 73.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 73.00 | 1180 |
 
+### 📊 Record
+<img src="/img/charts/mascarit-sagrada_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (1x)

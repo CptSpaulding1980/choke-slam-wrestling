@@ -23,8 +23,8 @@ avg_rating: 94.25
 |---|---|---|---|---|---|---|
 | 4 | 1 | 2 | 1 | 25.0% | 94.25 | 1183 |
 
-### 📈 Elo History
-<img src="/img/charts/billy-gunn_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/billy-gunn_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kofi Kingston\|Kofi Kingston]] (2x)

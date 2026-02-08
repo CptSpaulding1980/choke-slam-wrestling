@@ -23,6 +23,9 @@ avg_rating: 86.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 86.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/zack-gibson_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Giant Haystacks\|Giant Haystacks]] (1x)
 - [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (1x)

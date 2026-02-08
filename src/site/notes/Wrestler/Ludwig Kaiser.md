@@ -23,8 +23,8 @@ avg_rating: 82.81
 |---|---|---|---|---|---|---|
 | 26 | 10 | 9 | 7 | 38.5% | 82.81 | 1222 |
 
-### 📈 Elo History
-<img src="/img/charts/ludwig-kaiser_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/ludwig-kaiser_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (10x)

@@ -24,8 +24,8 @@ avg_rating: 87.1
 |---|---|---|---|---|---|---|
 | 10 | 3 | 4 | 3 | 30.0% | 87.10 | 1189 |
 
-### 📈 Elo History
-<img src="/img/charts/rey-escorpin_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/rey-escorpin_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Texano Jr.\|Texano Jr.]] (3x)

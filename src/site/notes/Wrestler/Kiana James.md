@@ -23,8 +23,8 @@ avg_rating: 85.19
 |---|---|---|---|---|---|---|
 | 32 | 11 | 13 | 8 | 34.4% | 85.19 | 1175 |
 
-### 📈 Elo History
-<img src="/img/charts/kiana-james_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/kiana-james_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (8x)

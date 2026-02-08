@@ -23,8 +23,8 @@ avg_rating: 86.56
 |---|---|---|---|---|---|---|
 | 27 | 10 | 9 | 8 | 37.0% | 86.56 | 1212 |
 
-### 📈 Elo History
-<img src="/img/charts/eddie-edwards_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/eddie-edwards_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (5x)

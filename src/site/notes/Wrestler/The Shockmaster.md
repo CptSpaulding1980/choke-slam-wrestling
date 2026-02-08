@@ -23,6 +23,9 @@ avg_rating: 100.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 100.00 | 1180 |
 
+### 📊 Record
+<img src="/img/charts/the-shockmaster_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)
 

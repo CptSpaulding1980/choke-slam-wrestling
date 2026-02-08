@@ -23,8 +23,8 @@ avg_rating: 85.31
 |---|---|---|---|---|---|---|
 | 32 | 14 | 13 | 5 | 43.8% | 85.31 | 1242 |
 
-### 📈 Elo History
-<img src="/img/charts/chris-hero_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/chris-hero_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (7x)

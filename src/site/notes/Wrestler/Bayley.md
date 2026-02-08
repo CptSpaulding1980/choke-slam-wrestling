@@ -23,6 +23,9 @@ avg_rating: 69.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 69.00 | 1182 |
 
+### 📊 Record
+<img src="/img/charts/bayley_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)
 

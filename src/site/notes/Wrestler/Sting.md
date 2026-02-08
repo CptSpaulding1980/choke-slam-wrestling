@@ -23,8 +23,8 @@ avg_rating: 85.65
 |---|---|---|---|---|---|---|
 | 23 | 9 | 7 | 7 | 39.1% | 85.65 | 1234 |
 
-### 📈 Elo History
-<img src="/img/charts/sting_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/sting_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)

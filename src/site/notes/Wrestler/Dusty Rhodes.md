@@ -23,8 +23,8 @@ avg_rating: 84.22
 |---|---|---|---|---|---|---|
 | 18 | 5 | 8 | 5 | 27.8% | 84.22 | 1154 |
 
-### 📈 Elo History
-<img src="/img/charts/dusty-rhodes_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/dusty-rhodes_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (6x)

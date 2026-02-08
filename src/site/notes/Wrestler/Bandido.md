@@ -23,8 +23,8 @@ avg_rating: 84.61
 |---|---|---|---|---|---|---|
 | 18 | 3 | 11 | 4 | 16.7% | 84.61 | 1100 |
 
-### 📈 Elo History
-<img src="/img/charts/bandido_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/bandido_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Wardlow\|Wardlow]] (4x)

@@ -23,6 +23,9 @@ avg_rating: 79.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 79.00 | 1183 |
 
+### 📊 Record
+<img src="/img/charts/mankind_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Rush\|Rush]] (1x)
 

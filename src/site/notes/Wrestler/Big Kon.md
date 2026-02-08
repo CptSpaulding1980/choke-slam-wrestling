@@ -23,8 +23,8 @@ avg_rating: 75.43
 |---|---|---|---|---|---|---|
 | 7 | 2 | 3 | 2 | 28.6% | 75.43 | 1190 |
 
-### 📈 Elo History
-<img src="/img/charts/big-kon_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/big-kon_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kiana James\|Kiana James]] (3x)

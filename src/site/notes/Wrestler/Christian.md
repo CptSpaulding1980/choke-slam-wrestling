@@ -23,8 +23,8 @@ avg_rating: 96.0
 |---|---|---|---|---|---|---|
 | 3 | 1 | 1 | 1 | 33.3% | 96.00 | 1208 |
 
-### 📈 Elo History
-<img src="/img/charts/christian_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/christian_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Daga\|Daga]] (2x)

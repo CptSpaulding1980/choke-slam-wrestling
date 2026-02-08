@@ -23,6 +23,9 @@ avg_rating: 92.5
 |---|---|---|---|---|---|---|
 | 2 | 0 | 0 | 2 | 0.0% | 92.50 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/gorilla-monsoon_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)
 - [[Wrestler/Sid Vicious\|Sid Vicious]] (2x)

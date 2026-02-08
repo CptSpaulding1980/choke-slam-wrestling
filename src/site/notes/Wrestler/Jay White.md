@@ -23,8 +23,8 @@ avg_rating: 87.38
 |---|---|---|---|---|---|---|
 | 47 | 17 | 24 | 6 | 36.2% | 87.38 | 1111 |
 
-### 📈 Elo History
-<img src="/img/charts/jay-white_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/jay-white_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (10x)

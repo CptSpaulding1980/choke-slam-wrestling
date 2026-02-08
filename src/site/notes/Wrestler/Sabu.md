@@ -23,8 +23,8 @@ avg_rating: 88.75
 |---|---|---|---|---|---|---|
 | 8 | 3 | 3 | 2 | 37.5% | 88.75 | 1209 |
 
-### 📈 Elo History
-<img src="/img/charts/sabu_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/sabu_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (3x)

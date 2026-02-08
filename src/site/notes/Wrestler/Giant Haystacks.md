@@ -23,6 +23,9 @@ avg_rating: 86.0
 |---|---|---|---|---|---|---|
 | 1 | 1 | 0 | 0 | 100.0% | 86.00 | 1212 |
 
+### 📊 Record
+<img src="/img/charts/giant-haystacks_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/nan\|nan]] (1x)
 

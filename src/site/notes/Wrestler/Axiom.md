@@ -23,8 +23,8 @@ avg_rating: 76.67
 |---|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 76.67 | 1191 |
 
-### 📈 Elo History
-<img src="/img/charts/axiom_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/axiom_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)

@@ -23,8 +23,8 @@ avg_rating: 82.5
 |---|---|---|---|---|---|---|
 | 4 | 1 | 2 | 1 | 25.0% | 82.50 | 1185 |
 
-### 📈 Elo History
-<img src="/img/charts/damian-priest_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/damian-priest_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

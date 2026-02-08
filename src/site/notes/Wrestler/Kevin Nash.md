@@ -23,8 +23,8 @@ avg_rating: 84.33
 |---|---|---|---|---|---|---|
 | 6 | 1 | 3 | 2 | 16.7% | 84.33 | 1171 |
 
-### 📈 Elo History
-<img src="/img/charts/kevin-nash_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/kevin-nash_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (3x)

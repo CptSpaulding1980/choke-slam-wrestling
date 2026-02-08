@@ -24,6 +24,9 @@ avg_rating: 92.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 92.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/pentagn-jr_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (1x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (1x)

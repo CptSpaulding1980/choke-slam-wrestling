@@ -23,6 +23,9 @@ avg_rating: 81.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 81.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/travis-banks_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
 - [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)

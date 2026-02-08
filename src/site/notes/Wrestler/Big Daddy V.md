@@ -23,6 +23,9 @@ avg_rating: 57.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 57.00 | 1184 |
 
+### 📊 Record
+<img src="/img/charts/big-daddy-v_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Ric Flair\|Ric Flair]] (1x)
 

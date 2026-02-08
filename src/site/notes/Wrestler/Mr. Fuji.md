@@ -23,6 +23,9 @@ avg_rating: 80.5
 |---|---|---|---|---|---|---|
 | 2 | 0 | 1 | 1 | 0.0% | 80.50 | 1188 |
 
+### 📊 Record
+<img src="/img/charts/mr-fuji_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Dario Cueto\|Dario Cueto]] (1x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)

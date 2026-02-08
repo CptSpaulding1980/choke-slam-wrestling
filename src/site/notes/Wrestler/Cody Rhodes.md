@@ -23,8 +23,8 @@ avg_rating: 90.6
 |---|---|---|---|---|---|---|
 | 5 | 1 | 3 | 1 | 20.0% | 90.60 | 1182 |
 
-### 📈 Elo History
-<img src="/img/charts/cody-rhodes_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/cody-rhodes_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

@@ -23,8 +23,8 @@ avg_rating: 88.21
 |---|---|---|---|---|---|---|
 | 33 | 18 | 12 | 3 | 54.5% | 88.21 | 1224 |
 
-### 📈 Elo History
-<img src="/img/charts/seth-rollins_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/seth-rollins_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (8x)

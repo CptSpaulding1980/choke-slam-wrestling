@@ -23,8 +23,8 @@ avg_rating: 80.0
 |---|---|---|---|---|---|---|
 | 16 | 2 | 11 | 3 | 12.5% | 80.00 | 1072 |
 
-### 📈 Elo History
-<img src="/img/charts/tatum-paxley_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/tatum-paxley_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (4x)

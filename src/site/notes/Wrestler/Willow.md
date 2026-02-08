@@ -23,6 +23,9 @@ avg_rating: 81.0
 |---|---|---|---|---|---|---|
 | 1 | 1 | 0 | 0 | 100.0% | 81.00 | 1218 |
 
+### 📊 Record
+<img src="/img/charts/willow_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
 

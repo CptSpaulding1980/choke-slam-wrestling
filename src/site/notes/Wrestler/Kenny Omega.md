@@ -23,8 +23,8 @@ avg_rating: 87.52
 |---|---|---|---|---|---|---|
 | 33 | 13 | 11 | 9 | 39.4% | 87.52 | 1253 |
 
-### 📈 Elo History
-<img src="/img/charts/kenny-omega_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/kenny-omega_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (5x)

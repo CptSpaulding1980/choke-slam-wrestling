@@ -23,8 +23,8 @@ avg_rating: 82.56
 |---|---|---|---|---|---|---|
 | 16 | 8 | 6 | 2 | 50.0% | 82.56 | 1243 |
 
-### 📈 Elo History
-<img src="/img/charts/claudio-castagnoli_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/claudio-castagnoli_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (4x)

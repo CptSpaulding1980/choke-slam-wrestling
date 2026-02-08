@@ -23,8 +23,8 @@ avg_rating: 88.79
 |---|---|---|---|---|---|---|
 | 14 | 4 | 5 | 5 | 28.6% | 88.79 | 1191 |
 
-### 📈 Elo History
-<img src="/img/charts/hendrique-delafuente_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/hendrique-delafuente_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)

@@ -23,6 +23,9 @@ avg_rating: 91.0
 |---|---|---|---|---|---|---|
 | 3 | 0 | 0 | 3 | 0.0% | 91.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/kevin-owens_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (3x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)

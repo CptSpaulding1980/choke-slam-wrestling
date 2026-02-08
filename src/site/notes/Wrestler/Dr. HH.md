@@ -23,6 +23,9 @@ avg_rating: 94.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 94.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/dr-hh_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)

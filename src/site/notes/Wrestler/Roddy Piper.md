@@ -23,6 +23,9 @@ avg_rating: 81.5
 |---|---|---|---|---|---|---|
 | 2 | 0 | 1 | 1 | 0.0% | 81.50 | 1186 |
 
+### 📊 Record
+<img src="/img/charts/roddy-piper_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

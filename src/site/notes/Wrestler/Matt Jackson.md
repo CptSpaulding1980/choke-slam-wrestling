@@ -23,6 +23,9 @@ avg_rating: 97.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 97.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/matt-jackson_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/CM Punk\|CM Punk]] (1x)
 - [[Wrestler/Ace Steel\|Ace Steel]] (1x)

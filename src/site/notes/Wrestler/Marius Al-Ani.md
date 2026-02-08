@@ -23,8 +23,8 @@ avg_rating: 95.14
 |---|---|---|---|---|---|---|
 | 7 | 4 | 2 | 1 | 57.1% | 95.14 | 1232 |
 
-### 📈 Elo History
-<img src="/img/charts/marius-al-ani_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/marius-al-ani_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/WALTER\|WALTER]] (2x)

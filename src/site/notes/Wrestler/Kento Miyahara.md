@@ -23,8 +23,8 @@ avg_rating: 79.6
 |---|---|---|---|---|---|---|
 | 5 | 2 | 2 | 1 | 40.0% | 79.60 | 1212 |
 
-### 📈 Elo History
-<img src="/img/charts/kento-miyahara_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/kento-miyahara_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (2x)

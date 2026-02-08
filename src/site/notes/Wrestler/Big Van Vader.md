@@ -23,8 +23,8 @@ avg_rating: 83.34
 |---|---|---|---|---|---|---|
 | 62 | 33 | 19 | 10 | 53.2% | 83.34 | 1313 |
 
-### 📈 Elo History
-<img src="/img/charts/big-van-vader_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/big-van-vader_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (11x)

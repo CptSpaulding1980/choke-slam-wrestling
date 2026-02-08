@@ -23,8 +23,8 @@ avg_rating: 91.0
 |---|---|---|---|---|---|---|
 | 19 | 6 | 7 | 6 | 31.6% | 91.00 | 1179 |
 
-### 📈 Elo History
-<img src="/img/charts/gigi-dolin_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/gigi-dolin_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (5x)

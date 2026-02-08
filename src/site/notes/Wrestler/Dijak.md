@@ -23,8 +23,8 @@ avg_rating: 82.61
 |---|---|---|---|---|---|---|
 | 23 | 7 | 13 | 3 | 30.4% | 82.61 | 1144 |
 
-### 📈 Elo History
-<img src="/img/charts/dijak_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/dijak_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (4x)

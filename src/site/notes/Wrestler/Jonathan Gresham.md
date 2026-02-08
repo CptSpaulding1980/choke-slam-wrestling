@@ -23,8 +23,8 @@ avg_rating: 85.92
 |---|---|---|---|---|---|---|
 | 38 | 12 | 17 | 9 | 31.6% | 85.92 | 1121 |
 
-### 📈 Elo History
-<img src="/img/charts/jonathan-gresham_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/jonathan-gresham_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (8x)

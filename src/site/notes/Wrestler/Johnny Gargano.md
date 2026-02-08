@@ -23,8 +23,8 @@ avg_rating: 91.0
 |---|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 91.00 | 1191 |
 
-### 📈 Elo History
-<img src="/img/charts/johnny-gargano_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/johnny-gargano_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Brock Lesnar\|Brock Lesnar]] (1x)

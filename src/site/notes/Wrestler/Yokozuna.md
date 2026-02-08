@@ -23,6 +23,9 @@ avg_rating: 95.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 95.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/yokozuna_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (1x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)

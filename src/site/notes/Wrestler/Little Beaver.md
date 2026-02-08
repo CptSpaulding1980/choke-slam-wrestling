@@ -23,6 +23,9 @@ avg_rating: 100.0
 |---|---|---|---|---|---|---|
 | 1 | 1 | 0 | 0 | 100.0% | 100.00 | 1215 |
 
+### 📊 Record
+<img src="/img/charts/little-beaver_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
 - [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)

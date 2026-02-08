@@ -23,8 +23,8 @@ avg_rating: 81.5
 |---|---|---|---|---|---|---|
 | 6 | 1 | 5 | 0 | 16.7% | 81.50 | 1144 |
 
-### 📈 Elo History
-<img src="/img/charts/buh-buh-ray-dudley_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/buh-buh-ray-dudley_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

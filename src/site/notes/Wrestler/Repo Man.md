@@ -23,6 +23,9 @@ avg_rating: 89.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 89.00 | 1188 |
 
+### 📊 Record
+<img src="/img/charts/repo-man_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
 

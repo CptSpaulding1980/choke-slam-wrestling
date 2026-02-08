@@ -23,8 +23,8 @@ avg_rating: 84.75
 |---|---|---|---|---|---|---|
 | 4 | 1 | 1 | 2 | 25.0% | 84.75 | 1200 |
 
-### 📈 Elo History
-<img src="/img/charts/toni-storm_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/toni-storm_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

@@ -23,6 +23,9 @@ avg_rating: 91.0
 |---|---|---|---|---|---|---|
 | 4 | 0 | 1 | 3 | 0.0% | 91.00 | 1184 |
 
+### 📊 Record
+<img src="/img/charts/luna-vachon_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Randy Orton\|Randy Orton]] (2x)
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (2x)

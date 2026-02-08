@@ -23,6 +23,9 @@ avg_rating: 96.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 96.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/dover_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)
 - [[Wrestler/Gigi Dolin\|Gigi Dolin]] (1x)

@@ -23,6 +23,9 @@ avg_rating: 94.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 94.00 | 1187 |
 
+### 📊 Record
+<img src="/img/charts/virgil_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (1x)
 

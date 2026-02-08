@@ -23,6 +23,9 @@ avg_rating: 84.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 84.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/muhammad-hassan_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Iron Sheik\|Iron Sheik]] (1x)
 - [[Wrestler/Sabu\|Sabu]] (1x)

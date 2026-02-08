@@ -23,8 +23,8 @@ avg_rating: 79.75
 |---|---|---|---|---|---|---|
 | 4 | 1 | 3 | 0 | 25.0% | 79.75 | 1168 |
 
-### 📈 Elo History
-<img src="/img/charts/arn-anderson_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/arn-anderson_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)

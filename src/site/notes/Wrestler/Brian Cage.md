@@ -23,6 +23,9 @@ avg_rating: 94.33
 |---|---|---|---|---|---|---|
 | 3 | 0 | 0 | 3 | 0.0% | 94.33 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/brian-cage_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

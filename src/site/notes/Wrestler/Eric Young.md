@@ -23,8 +23,8 @@ avg_rating: 81.5
 |---|---|---|---|---|---|---|
 | 2 | 1 | 1 | 0 | 50.0% | 81.50 | 1196 |
 
-### 📈 Elo History
-<img src="/img/charts/eric-young_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/eric-young_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)

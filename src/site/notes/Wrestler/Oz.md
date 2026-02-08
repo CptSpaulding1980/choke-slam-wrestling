@@ -23,6 +23,9 @@ avg_rating: 77.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 77.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/oz_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (1x)
 

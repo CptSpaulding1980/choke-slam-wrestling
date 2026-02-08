@@ -24,8 +24,8 @@ avg_rating: 78.0
 |---|---|---|---|---|---|---|
 | 5 | 3 | 1 | 1 | 60.0% | 78.00 | 1230 |
 
-### 📈 Elo History
-<img src="/img/charts/epico-coln_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/epico-coln_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Drew Gulak\|Drew Gulak]] (1x)

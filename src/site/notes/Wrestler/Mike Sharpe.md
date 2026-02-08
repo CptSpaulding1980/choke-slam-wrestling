@@ -23,6 +23,9 @@ avg_rating: 69.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 69.00 | 1179 |
 
+### 📊 Record
+<img src="/img/charts/mike-sharpe_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Steve Austin\|Steve Austin]] (1x)
 

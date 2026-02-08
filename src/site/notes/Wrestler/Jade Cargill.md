@@ -23,8 +23,8 @@ avg_rating: 84.0
 |---|---|---|---|---|---|---|
 | 4 | 1 | 3 | 0 | 25.0% | 84.00 | 1169 |
 
-### 📈 Elo History
-<img src="/img/charts/jade-cargill_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/jade-cargill_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

@@ -23,8 +23,8 @@ avg_rating: 88.88
 |---|---|---|---|---|---|---|
 | 8 | 1 | 2 | 5 | 12.5% | 88.88 | 1187 |
 
-### 📈 Elo History
-<img src="/img/charts/sgt-slaughter_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/sgt-slaughter_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)

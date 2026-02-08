@@ -23,6 +23,9 @@ avg_rating: 88.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 88.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/harry-smith_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (1x)
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)

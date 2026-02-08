@@ -23,8 +23,8 @@ avg_rating: 81.17
 |---|---|---|---|---|---|---|
 | 24 | 8 | 10 | 6 | 33.3% | 81.17 | 1158 |
 
-### 📈 Elo History
-<img src="/img/charts/jun-akiyama_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/jun-akiyama_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (6x)

@@ -23,8 +23,8 @@ avg_rating: 92.0
 |---|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 92.00 | 1181 |
 
-### 📈 Elo History
-<img src="/img/charts/thrasher_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/thrasher_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Akira Taue\|Akira Taue]] (1x)

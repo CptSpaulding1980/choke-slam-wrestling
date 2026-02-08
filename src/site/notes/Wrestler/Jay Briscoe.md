@@ -23,6 +23,9 @@ avg_rating: 88.0
 |---|---|---|---|---|---|---|
 | 3 | 1 | 0 | 2 | 33.3% | 88.00 | 1217 |
 
+### 📊 Record
+<img src="/img/charts/jay-briscoe_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Teoman\|Teoman]] (4x)
 - [[Wrestler/Veit Müller\|Veit Müller]] (4x)

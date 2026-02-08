@@ -23,8 +23,8 @@ avg_rating: 85.87
 |---|---|---|---|---|---|---|
 | 31 | 13 | 10 | 8 | 41.9% | 85.87 | 1201 |
 
-### 📈 Elo History
-<img src="/img/charts/brandon_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/brandon_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (8x)

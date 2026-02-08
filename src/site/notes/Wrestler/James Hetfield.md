@@ -23,8 +23,8 @@ avg_rating: 74.67
 |---|---|---|---|---|---|---|
 | 3 | 2 | 1 | 0 | 66.7% | 74.67 | 1212 |
 
-### 📈 Elo History
-<img src="/img/charts/james-hetfield_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/james-hetfield_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

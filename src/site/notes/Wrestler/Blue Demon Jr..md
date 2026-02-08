@@ -23,6 +23,9 @@ avg_rating: 100.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 100.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/blue-demon-jr_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Pac\|Pac]] (1x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)

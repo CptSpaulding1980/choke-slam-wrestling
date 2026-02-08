@@ -23,6 +23,9 @@ avg_rating: 93.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 93.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/frankie-kazarian_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (1x)

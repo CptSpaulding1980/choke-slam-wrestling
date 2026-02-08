@@ -23,8 +23,8 @@ avg_rating: 74.5
 |---|---|---|---|---|---|---|
 | 4 | 2 | 2 | 0 | 50.0% | 74.50 | 1211 |
 
-### 📈 Elo History
-<img src="/img/charts/nathan-frazer_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/nathan-frazer_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (2x)

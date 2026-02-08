@@ -23,8 +23,8 @@ avg_rating: 87.48
 |---|---|---|---|---|---|---|
 | 86 | 45 | 28 | 13 | 52.3% | 87.48 | 1291 |
 
-### 📈 Elo History
-<img src="/img/charts/roman-reigns_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/roman-reigns_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (14x)

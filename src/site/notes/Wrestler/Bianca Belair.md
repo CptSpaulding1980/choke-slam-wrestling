@@ -23,6 +23,9 @@ avg_rating: 103.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 103.00 | 1184 |
 
+### 📊 Record
+<img src="/img/charts/bianca-belair_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Kiana James\|Kiana James]] (1x)
 

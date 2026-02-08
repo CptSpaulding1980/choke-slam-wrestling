@@ -23,8 +23,8 @@ avg_rating: 82.0
 |---|---|---|---|---|---|---|
 | 4 | 2 | 1 | 1 | 50.0% | 82.00 | 1208 |
 
-### 📈 Elo History
-<img src="/img/charts/scott-steiner_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/scott-steiner_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

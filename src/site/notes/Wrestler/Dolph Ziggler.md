@@ -23,8 +23,8 @@ avg_rating: 84.33
 |---|---|---|---|---|---|---|
 | 3 | 1 | 1 | 1 | 33.3% | 84.33 | 1203 |
 
-### 📈 Elo History
-<img src="/img/charts/dolph-ziggler_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/dolph-ziggler_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Kane\|Kane]] (2x)

@@ -23,8 +23,8 @@ avg_rating: 84.72
 |---|---|---|---|---|---|---|
 | 40 | 15 | 16 | 9 | 37.5% | 84.72 | 1176 |
 
-### 📈 Elo History
-<img src="/img/charts/edge_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/edge_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (6x)

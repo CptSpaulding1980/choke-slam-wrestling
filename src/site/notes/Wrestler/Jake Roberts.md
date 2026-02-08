@@ -23,6 +23,9 @@ avg_rating: 93.0
 |---|---|---|---|---|---|---|
 | 2 | 0 | 1 | 1 | 0.0% | 93.00 | 1183 |
 
+### 📊 Record
+<img src="/img/charts/jake-roberts_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

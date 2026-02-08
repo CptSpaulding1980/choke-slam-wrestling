@@ -23,6 +23,9 @@ avg_rating: 95.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 95.00 | 1184 |
 
+### 📊 Record
+<img src="/img/charts/isaac-yankem_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)
 

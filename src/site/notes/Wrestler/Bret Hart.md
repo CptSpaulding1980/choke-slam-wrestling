@@ -23,8 +23,8 @@ avg_rating: 89.05
 |---|---|---|---|---|---|---|
 | 88 | 37 | 38 | 13 | 42.0% | 89.05 | 1183 |
 
-### 📈 Elo History
-<img src="/img/charts/bret-hart_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/bret-hart_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (12x)

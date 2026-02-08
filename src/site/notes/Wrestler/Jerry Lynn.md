@@ -23,8 +23,8 @@ avg_rating: 92.5
 |---|---|---|---|---|---|---|
 | 6 | 2 | 3 | 1 | 33.3% | 92.50 | 1199 |
 
-### 📈 Elo History
-<img src="/img/charts/jerry-lynn_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/jerry-lynn_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (2x)

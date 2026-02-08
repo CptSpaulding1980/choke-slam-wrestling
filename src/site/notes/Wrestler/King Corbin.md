@@ -23,8 +23,8 @@ avg_rating: 74.67
 |---|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 74.67 | 1188 |
 
-### 📈 Elo History
-<img src="/img/charts/king-corbin_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/king-corbin_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Dalton Castle\|Dalton Castle]] (1x)

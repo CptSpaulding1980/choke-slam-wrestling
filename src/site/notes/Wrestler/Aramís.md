@@ -24,6 +24,9 @@ avg_rating: 100.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 100.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/arams_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Gigi Dolin\|Gigi Dolin]] (1x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)

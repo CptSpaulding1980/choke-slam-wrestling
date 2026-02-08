@@ -23,8 +23,8 @@ avg_rating: 81.5
 |---|---|---|---|---|---|---|
 | 4 | 1 | 2 | 1 | 25.0% | 81.50 | 1171 |
 
-### 📈 Elo History
-<img src="/img/charts/vickie-guerrero_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/vickie-guerrero_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (2x)

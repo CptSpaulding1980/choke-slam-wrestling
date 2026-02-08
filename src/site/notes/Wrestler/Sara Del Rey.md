@@ -23,8 +23,8 @@ avg_rating: 84.85
 |---|---|---|---|---|---|---|
 | 13 | 2 | 6 | 5 | 15.4% | 84.85 | 1145 |
 
-### 📈 Elo History
-<img src="/img/charts/sara-del-rey_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/sara-del-rey_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Owen Hart\|Owen Hart]] (4x)

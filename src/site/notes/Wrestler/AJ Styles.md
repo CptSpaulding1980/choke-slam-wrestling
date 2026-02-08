@@ -23,8 +23,8 @@ avg_rating: 84.09
 |---|---|---|---|---|---|---|
 | 75 | 33 | 23 | 19 | 44.0% | 84.09 | 1258 |
 
-### 📈 Elo History
-<img src="/img/charts/aj-styles_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/aj-styles_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (10x)

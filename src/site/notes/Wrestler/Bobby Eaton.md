@@ -23,6 +23,9 @@ avg_rating: 82.5
 |---|---|---|---|---|---|---|
 | 2 | 1 | 0 | 1 | 50.0% | 82.50 | 1214 |
 
+### 📊 Record
+<img src="/img/charts/bobby-eaton_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

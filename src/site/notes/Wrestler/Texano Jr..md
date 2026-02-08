@@ -23,8 +23,8 @@ avg_rating: 89.11
 |---|---|---|---|---|---|---|
 | 9 | 2 | 4 | 3 | 22.2% | 89.11 | 1173 |
 
-### 📈 Elo History
-<img src="/img/charts/texano-jr_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/texano-jr_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)

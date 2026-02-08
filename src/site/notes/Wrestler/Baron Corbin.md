@@ -23,6 +23,9 @@ avg_rating: 96.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 96.00 | 1186 |
 
+### 📊 Record
+<img src="/img/charts/baron-corbin_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
 

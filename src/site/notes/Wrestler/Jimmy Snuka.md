@@ -23,6 +23,9 @@ avg_rating: 90.0
 |---|---|---|---|---|---|---|
 | 2 | 0 | 0 | 2 | 0.0% | 90.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/jimmy-snuka_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (4x)
 - [[Wrestler/Tiger Mask\|Tiger Mask]] (2x)

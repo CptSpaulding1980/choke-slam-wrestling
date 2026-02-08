@@ -23,8 +23,8 @@ avg_rating: 89.11
 |---|---|---|---|---|---|---|
 | 18 | 7 | 11 | 0 | 38.9% | 89.11 | 1167 |
 
-### 📈 Elo History
-<img src="/img/charts/akira-taue_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/akira-taue_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)

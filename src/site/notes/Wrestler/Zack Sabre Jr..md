@@ -23,8 +23,8 @@ avg_rating: 86.63
 |---|---|---|---|---|---|---|
 | 27 | 9 | 13 | 5 | 33.3% | 86.63 | 1149 |
 
-### 📈 Elo History
-<img src="/img/charts/zack-sabre-jr_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/zack-sabre-jr_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)

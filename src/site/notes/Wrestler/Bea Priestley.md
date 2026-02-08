@@ -23,6 +23,9 @@ avg_rating: 88.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 88.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/bea-priestley_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Akira Hokuto\|Akira Hokuto]] (1x)
 - [[Wrestler/Alundra Blayze\|Alundra Blayze]] (1x)

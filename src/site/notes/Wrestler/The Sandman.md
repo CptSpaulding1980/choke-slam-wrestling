@@ -23,8 +23,8 @@ avg_rating: 86.67
 |---|---|---|---|---|---|---|
 | 6 | 2 | 3 | 1 | 33.3% | 86.67 | 1187 |
 
-### 📈 Elo History
-<img src="/img/charts/the-sandman_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/the-sandman_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)

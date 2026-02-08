@@ -23,6 +23,9 @@ avg_rating: 96.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 96.00 | 1184 |
 
+### 📊 Record
+<img src="/img/charts/drago_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)

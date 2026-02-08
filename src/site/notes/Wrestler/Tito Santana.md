@@ -23,8 +23,8 @@ avg_rating: 73.75
 |---|---|---|---|---|---|---|
 | 4 | 1 | 3 | 0 | 25.0% | 73.75 | 1175 |
 
-### 📈 Elo History
-<img src="/img/charts/tito-santana_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/tito-santana_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Fallon Henley\|Fallon Henley]] (1x)

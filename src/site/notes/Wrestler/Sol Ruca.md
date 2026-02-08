@@ -23,8 +23,8 @@ avg_rating: 89.0
 |---|---|---|---|---|---|---|
 | 3 | 0 | 2 | 1 | 0.0% | 89.00 | 1165 |
 
-### 📈 Elo History
-<img src="/img/charts/sol-ruca_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/sol-ruca_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Angélico\|Angélico]] (2x)

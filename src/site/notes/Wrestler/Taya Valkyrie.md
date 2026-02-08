@@ -23,8 +23,8 @@ avg_rating: 93.62
 |---|---|---|---|---|---|---|
 | 8 | 2 | 3 | 3 | 25.0% | 93.62 | 1190 |
 
-### 📈 Elo History
-<img src="/img/charts/taya-valkyrie_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/taya-valkyrie_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)

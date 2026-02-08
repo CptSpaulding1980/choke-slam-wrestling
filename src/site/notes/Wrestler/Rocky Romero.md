@@ -23,6 +23,9 @@ avg_rating: 0.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 0.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/rocky-romero_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/El Dandy\|El Dandy]] (1x)
 - [[Wrestler/Taz\|Taz]] (1x)

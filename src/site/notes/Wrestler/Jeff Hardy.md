@@ -23,8 +23,8 @@ avg_rating: 83.75
 |---|---|---|---|---|---|---|
 | 4 | 3 | 1 | 0 | 75.0% | 83.75 | 1227 |
 
-### 📈 Elo History
-<img src="/img/charts/jeff-hardy_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/jeff-hardy_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)

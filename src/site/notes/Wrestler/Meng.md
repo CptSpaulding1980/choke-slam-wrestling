@@ -23,8 +23,8 @@ avg_rating: 81.0
 |---|---|---|---|---|---|---|
 | 3 | 0 | 2 | 1 | 0.0% | 81.00 | 1170 |
 
-### 📈 Elo History
-<img src="/img/charts/meng_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/meng_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)

@@ -23,6 +23,9 @@ avg_rating: 81.0
 |---|---|---|---|---|---|---|
 | 1 | 1 | 0 | 0 | 100.0% | 81.00 | 1213 |
 
+### 📊 Record
+<img src="/img/charts/hornswoggle_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
 - [[Wrestler/Pascal LePas\|Pascal LePas]] (1x)

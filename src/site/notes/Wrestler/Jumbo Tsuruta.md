@@ -23,6 +23,9 @@ avg_rating: 90.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 90.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/jumbo-tsuruta_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

@@ -23,8 +23,8 @@ avg_rating: 81.8
 |---|---|---|---|---|---|---|
 | 5 | 0 | 3 | 2 | 0.0% | 81.80 | 1152 |
 
-### 📈 Elo History
-<img src="/img/charts/ridge-holland_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/ridge-holland_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (2x)

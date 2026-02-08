@@ -23,8 +23,8 @@ avg_rating: 82.6
 |---|---|---|---|---|---|---|
 | 10 | 3 | 3 | 4 | 30.0% | 82.60 | 1199 |
 
-### 📈 Elo History
-<img src="/img/charts/will-ospreay_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/will-ospreay_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)

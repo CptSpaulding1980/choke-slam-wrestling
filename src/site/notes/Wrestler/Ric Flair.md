@@ -23,8 +23,8 @@ avg_rating: 88.19
 |---|---|---|---|---|---|---|
 | 21 | 6 | 10 | 5 | 28.6% | 88.19 | 1136 |
 
-### 📈 Elo History
-<img src="/img/charts/ric-flair_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/ric-flair_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (5x)

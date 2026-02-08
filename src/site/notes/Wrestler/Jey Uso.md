@@ -23,6 +23,9 @@ avg_rating: 91.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 91.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/jey-uso_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
 - [[Wrestler/WALTER\|WALTER]] (1x)

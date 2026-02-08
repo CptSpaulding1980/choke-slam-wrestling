@@ -23,8 +23,8 @@ avg_rating: 92.33
 |---|---|---|---|---|---|---|
 | 6 | 4 | 2 | 0 | 66.7% | 92.33 | 1230 |
 
-### 📈 Elo History
-<img src="/img/charts/dynamite-kid_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/dynamite-kid_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Angélico\|Angélico]] (1x)

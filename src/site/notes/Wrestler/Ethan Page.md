@@ -23,8 +23,8 @@ avg_rating: 93.67
 |---|---|---|---|---|---|---|
 | 3 | 1 | 1 | 1 | 33.3% | 93.67 | 1188 |
 
-### 📈 Elo History
-<img src="/img/charts/ethan-page_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/ethan-page_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/nan\|nan]] (1x)

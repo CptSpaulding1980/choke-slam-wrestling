@@ -23,8 +23,8 @@ avg_rating: 95.33
 |---|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 95.33 | 1195 |
 
-### 📈 Elo History
-<img src="/img/charts/oba-femi_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/oba-femi_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Jun Akiyama\|Jun Akiyama]] (1x)

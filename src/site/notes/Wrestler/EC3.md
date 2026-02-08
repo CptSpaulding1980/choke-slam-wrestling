@@ -23,8 +23,8 @@ avg_rating: 84.46
 |---|---|---|---|---|---|---|
 | 24 | 12 | 7 | 5 | 50.0% | 84.46 | 1252 |
 
-### 📈 Elo History
-<img src="/img/charts/ec3_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/ec3_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Hero\|Chris Hero]] (7x)

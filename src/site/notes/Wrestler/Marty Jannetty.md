@@ -23,6 +23,9 @@ avg_rating: 93.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 93.00 | 1188 |
 
+### 📊 Record
+<img src="/img/charts/marty-jannetty_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Christian Cage\|Christian Cage]] (1x)
 

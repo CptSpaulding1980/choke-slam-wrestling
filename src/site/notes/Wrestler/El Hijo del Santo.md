@@ -23,8 +23,8 @@ avg_rating: 81.0
 |---|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 81.00 | 1189 |
 
-### 📈 Elo History
-<img src="/img/charts/el-hijo-del-santo_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/el-hijo-del-santo_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)

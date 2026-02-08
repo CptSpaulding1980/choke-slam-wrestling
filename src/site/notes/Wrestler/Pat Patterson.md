@@ -23,6 +23,9 @@ avg_rating: 62.0
 |---|---|---|---|---|---|---|
 | 3 | 0 | 0 | 3 | 0.0% | 62.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/pat-patterson_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (2x)
 - [[Wrestler/Kane\|Kane]] (2x)

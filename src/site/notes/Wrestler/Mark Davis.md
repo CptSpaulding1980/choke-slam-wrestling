@@ -23,8 +23,8 @@ avg_rating: 92.67
 |---|---|---|---|---|---|---|
 | 3 | 2 | 1 | 0 | 66.7% | 92.67 | 1215 |
 
-### 📈 Elo History
-<img src="/img/charts/mark-davis_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/mark-davis_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Colt Cabana\|Colt Cabana]] (1x)

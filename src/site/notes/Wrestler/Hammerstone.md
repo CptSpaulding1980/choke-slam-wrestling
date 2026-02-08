@@ -23,8 +23,8 @@ avg_rating: 82.4
 |---|---|---|---|---|---|---|
 | 5 | 1 | 3 | 1 | 20.0% | 82.40 | 1170 |
 
-### 📈 Elo History
-<img src="/img/charts/hammerstone_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/hammerstone_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Ryusuke Taguchi\|Ryusuke Taguchi]] (1x)

@@ -23,8 +23,8 @@ avg_rating: 90.11
 |---|---|---|---|---|---|---|
 | 9 | 1 | 5 | 3 | 11.1% | 90.11 | 1143 |
 
-### 📈 Elo History
-<img src="/img/charts/daga_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/daga_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/KENTA\|KENTA]] (3x)

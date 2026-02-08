@@ -23,6 +23,9 @@ avg_rating: 75.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 75.00 | 1186 |
 
+### 📊 Record
+<img src="/img/charts/dude-love_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
 

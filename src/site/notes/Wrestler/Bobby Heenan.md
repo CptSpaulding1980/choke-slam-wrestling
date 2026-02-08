@@ -23,6 +23,9 @@ avg_rating: 75.0
 |---|---|---|---|---|---|---|
 | 1 | 1 | 0 | 0 | 100.0% | 75.00 | 1218 |
 
+### 📊 Record
+<img src="/img/charts/bobby-heenan_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
 - [[Wrestler/Triple H\|Triple H]] (1x)

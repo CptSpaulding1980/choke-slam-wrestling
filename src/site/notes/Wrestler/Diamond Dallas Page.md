@@ -23,8 +23,8 @@ avg_rating: 93.75
 |---|---|---|---|---|---|---|
 | 4 | 2 | 1 | 1 | 50.0% | 93.75 | 1213 |
 
-### 📈 Elo History
-<img src="/img/charts/diamond-dallas-page_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/diamond-dallas-page_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Killshot\|Killshot]] (1x)

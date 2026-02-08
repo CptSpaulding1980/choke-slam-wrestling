@@ -23,8 +23,8 @@ avg_rating: 91.5
 |---|---|---|---|---|---|---|
 | 2 | 1 | 1 | 0 | 50.0% | 91.50 | 1200 |
 
-### 📈 Elo History
-<img src="/img/charts/iron-mike-tyson_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/iron-mike-tyson_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

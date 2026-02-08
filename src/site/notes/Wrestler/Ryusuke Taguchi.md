@@ -23,8 +23,8 @@ avg_rating: 71.2
 |---|---|---|---|---|---|---|
 | 5 | 1 | 4 | 0 | 20.0% | 71.20 | 1153 |
 
-### 📈 Elo History
-<img src="/img/charts/ryusuke-taguchi_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/ryusuke-taguchi_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (2x)

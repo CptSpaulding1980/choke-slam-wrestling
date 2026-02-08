@@ -23,6 +23,9 @@ avg_rating: 102.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 102.00 | 1187 |
 
+### 📊 Record
+<img src="/img/charts/mike-awesome_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
 

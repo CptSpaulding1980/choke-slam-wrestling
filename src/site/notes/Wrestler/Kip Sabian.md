@@ -23,6 +23,9 @@ avg_rating: 74.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 0 | 1 | 0.0% | 74.00 | 1200 |
 
+### 📊 Record
+<img src="/img/charts/kip-sabian_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Wade Barrett\|Wade Barrett]] (1x)
 - [[Wrestler/Pac\|Pac]] (1x)

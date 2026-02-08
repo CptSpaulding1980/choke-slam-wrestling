@@ -23,8 +23,8 @@ avg_rating: 84.7
 |---|---|---|---|---|---|---|
 | 10 | 1 | 2 | 7 | 10.0% | 84.70 | 1189 |
 
-### 📈 Elo History
-<img src="/img/charts/sami-zayn_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/sami-zayn_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)

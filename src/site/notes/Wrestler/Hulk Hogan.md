@@ -23,8 +23,8 @@ avg_rating: 86.83
 |---|---|---|---|---|---|---|
 | 71 | 34 | 25 | 12 | 47.9% | 86.83 | 1251 |
 
-### 📈 Elo History
-<img src="/img/charts/hulk-hogan_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/hulk-hogan_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (12x)

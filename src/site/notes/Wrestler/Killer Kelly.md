@@ -23,8 +23,8 @@ avg_rating: 82.71
 |---|---|---|---|---|---|---|
 | 41 | 11 | 22 | 8 | 26.8% | 82.71 | 1051 |
 
-### 📈 Elo History
-<img src="/img/charts/killer-kelly_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/killer-kelly_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Christian Cage\|Christian Cage]] (8x)

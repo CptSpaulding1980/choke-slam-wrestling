@@ -23,8 +23,8 @@ avg_rating: 82.47
 |---|---|---|---|---|---|---|
 | 15 | 3 | 8 | 4 | 20.0% | 82.47 | 1122 |
 
-### 📈 Elo History
-<img src="/img/charts/the-blade_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/the-blade_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (4x)

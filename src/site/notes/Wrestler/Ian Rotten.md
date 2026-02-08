@@ -23,8 +23,8 @@ avg_rating: 91.33
 |---|---|---|---|---|---|---|
 | 3 | 1 | 2 | 0 | 33.3% | 91.33 | 1185 |
 
-### 📈 Elo History
-<img src="/img/charts/ian-rotten_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/ian-rotten_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (1x)

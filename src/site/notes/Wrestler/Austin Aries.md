@@ -23,8 +23,8 @@ avg_rating: 86.43
 |---|---|---|---|---|---|---|
 | 21 | 6 | 13 | 2 | 28.6% | 86.43 | 1124 |
 
-### 📈 Elo History
-<img src="/img/charts/austin-aries_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/austin-aries_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (2x)

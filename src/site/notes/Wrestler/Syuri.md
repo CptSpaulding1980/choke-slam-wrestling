@@ -23,6 +23,9 @@ avg_rating: 67.0
 |---|---|---|---|---|---|---|
 | 1 | 0 | 1 | 0 | 0.0% | 67.00 | 1185 |
 
+### 📊 Record
+<img src="/img/charts/syuri_stats.png" width="100%">
+
 ## Häufigste Gegner
 - [[Wrestler/Sasha Banks\|Sasha Banks]] (1x)
 

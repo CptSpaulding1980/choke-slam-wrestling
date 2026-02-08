@@ -23,8 +23,8 @@ avg_rating: 81.14
 |---|---|---|---|---|---|---|
 | 7 | 3 | 3 | 1 | 42.9% | 81.14 | 1211 |
 
-### 📈 Elo History
-<img src="/img/charts/goldberg_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/goldberg_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)

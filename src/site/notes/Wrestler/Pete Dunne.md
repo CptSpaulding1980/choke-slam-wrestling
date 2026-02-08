@@ -23,8 +23,8 @@ avg_rating: 87.09
 |---|---|---|---|---|---|---|
 | 11 | 5 | 5 | 1 | 45.5% | 87.09 | 1198 |
 
-### 📈 Elo History
-<img src="/img/charts/pete-dunne_elo.png" width="100%">
+### 📊 Record
+<img src="/img/charts/pete-dunne_stats.png" width="100%">
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)

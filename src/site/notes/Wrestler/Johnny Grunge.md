@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 3
 wins: 0
 losses: 3
-elo: 1156
 draws: 0
 win_percent: 0.0
 avg_rating: 81.33
@@ -16,15 +15,17 @@ avg_rating: 81.33
 
 # Johnny Grunge
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Johnny_Grunge.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1156</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Johnny_Grunge.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 3 | 0 | 3 | 0 | 0.0% | 81.33 | 1156 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 3 | 0 | 3 | 0 | 0.0% | 81.33 |
 
-### 📊 Record
-<img src="/img/charts/johnny-grunge_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/johnny-grunge_stats.png" width="200"> | **❌❌❌**<br>- Loss vs. Johnny Grunge & Rocco Rock vs. Militanter Mummenschanz<br>- Loss vs. Johnny Grunge & Rocco Rock vs. Sweet 'n Sour Elite<br>- Loss vs. Johnny Grunge & Rocco Rock vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Rocco Rock\|Rocco Rock]]<br>**Best Match:** 95% vs. Johnny Grunge & Rocco Rock vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (1x)
@@ -35,11 +36,6 @@ avg_rating: 81.33
 
 ## Häufigste Partner
 - [[Wrestler/Rocco Rock\|Rocco Rock]] (3x)
-
-## Letzte 5 Matches
-- 2023-06-26: [[Wrestler/Johnny Grunge\|Johnny Grunge]] & [[Wrestler/Rocco Rock\|Rocco Rock]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ❌ Loss, 95%
-- 2023-06-26: [[Wrestler/Johnny Grunge\|Johnny Grunge]] & [[Wrestler/Rocco Rock\|Rocco Rock]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ❌ Loss, 76%
-- 2023-06-26: [[Wrestler/Johnny Grunge\|Johnny Grunge]] & [[Wrestler/Rocco Rock\|Rocco Rock]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ❌ Loss, 73%
 
 ## Top Matches
 - 95%: [[Wrestler/Johnny Grunge\|Johnny Grunge]] & [[Wrestler/Rocco Rock\|Rocco Rock]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)

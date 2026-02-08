@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 33
 wins: 18
 losses: 12
-elo: 1224
 draws: 3
 win_percent: 54.5
 avg_rating: 88.21
@@ -16,15 +15,17 @@ avg_rating: 88.21
 
 # Seth Rollins
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Seth_Rollins.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 98kg<br><b>Finisher:</b> Kingslayer<br><b>Elo Rating:</b> 1224</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Seth_Rollins.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 98kg<br><b>Finisher:</b> Kingslayer</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 33 | 18 | 12 | 3 | 54.5% | 88.21 | 1224 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 33 | 18 | 12 | 3 | 54.5% | 88.21 |
 
-### 📊 Record
-<img src="/img/charts/seth-rollins_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/seth-rollins_stats.png" width="200"> | **❌❌❌✅✅**<br>- Win vs. Drew Gulak vs. Seth Rollins<br>- Win vs. AJ Styles vs. Seth Rollins<br>- Loss vs. Nature Game Masters  vs. The Shield<br>- Loss vs. Los Jinetes del Aire vs. The Shield<br>- Loss vs. Seth Rollins vs. Shingo Takagi<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Jon Moxley\|Jon Moxley]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (8x)
@@ -39,13 +40,6 @@ avg_rating: 88.21
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (3x)
 - [[Wrestler/Brandon\|Brandon]] (3x)
-
-## Letzte 5 Matches
-- 2024-05-27: [[Wrestler/Drew Gulak\|Drew Gulak]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] — ✅ Win, 88%
-- 2024-05-27: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] — ✅ Win, 84%
-- 2024-01-29: Nature Game Masters  vs. The Shield in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — ❌ Loss, 81%
-- 2024-01-29: Los Jinetes del Aire vs. The Shield in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — ❌ Loss, 81%
-- 2023-12-15: [[Wrestler/Seth Rollins\|Seth Rollins]] vs. [[Wrestler/Shingo Takagi\|Shingo Takagi]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 65%
 
 ## Top Matches
 - 103%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

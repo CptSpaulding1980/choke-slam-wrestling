@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 10
 wins: 3
 losses: 3
-elo: 1199
 draws: 4
 win_percent: 30.0
 avg_rating: 82.6
@@ -16,15 +15,17 @@ avg_rating: 82.6
 
 # Will Ospreay
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Will_Ospreay.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 105kg<br><b>Finisher:</b> Storm Breaker<br><b>Elo Rating:</b> 1199</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Will_Ospreay.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 105kg<br><b>Finisher:</b> Storm Breaker</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 10 | 3 | 3 | 4 | 30.0% | 82.60 | 1199 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 10 | 3 | 3 | 4 | 30.0% | 82.60 |
 
-### 📊 Record
-<img src="/img/charts/will-ospreay_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/will-ospreay_stats.png" width="200"> | **❌✅❌❌⚪️**<br>- Draw vs. Reveal Rumble<br>- Loss vs. D: Will Ospreay vs. Roman Reigns<br>- Loss vs. D: Kota Ibushi vs. Will Ospreay<br>- Win vs. D: Toru Yano vs. Will Ospreay<br>- Loss vs. D: Gunther vs. Will Ospreay<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
@@ -37,13 +38,6 @@ avg_rating: 82.6
 - [[Wrestler/Trent Seven\|Trent Seven]] (1x)
 - [[Wrestler/Chyna\|Chyna]] (1x)
 - [[Wrestler/Damian Priest\|Damian Priest]] (1x)
-
-## Letzte 5 Matches
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] — 🤝 Draw, 100%
-- 2024-09-09: D: [[Wrestler/Will Ospreay\|Will Ospreay]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — ❌ Loss, 57%
-- 2024-09-09: D: [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Will Ospreay\|Will Ospreay]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — ❌ Loss, 83%
-- 2024-09-09: D: [[Wrestler/Toru Yano\|Toru Yano]] vs. [[Wrestler/Will Ospreay\|Will Ospreay]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — ✅ Win, 86%
-- 2024-09-09: D: [[Wrestler/Gunther\|Gunther]] vs. [[Wrestler/Will Ospreay\|Will Ospreay]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — ❌ Loss, 58%
 
 ## Top Matches
 - 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)

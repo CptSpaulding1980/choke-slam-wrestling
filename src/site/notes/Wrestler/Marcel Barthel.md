@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 3
 wins: 2
 losses: 1
-elo: 1212
 draws: 0
 win_percent: 66.7
 avg_rating: 78.33
@@ -16,15 +15,17 @@ avg_rating: 78.33
 
 # Marcel Barthel
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Marcel_Barthel.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1212</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Marcel_Barthel.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 3 | 2 | 1 | 0 | 66.7% | 78.33 | 1212 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 3 | 2 | 1 | 0 | 66.7% | 78.33 |
 
-### 📊 Record
-<img src="/img/charts/marcel-barthel_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/marcel-barthel_stats.png" width="200"> | **❌✅✅**<br>- Win vs. Militanter Mummenschanz vs. Imperium<br>- Win vs. Sweet 'n Sour Elite vs. Imperium<br>- Loss vs. Saint Rebel Radicalz vs. Imperium<br> | **Nemesis:** [[Wrestler/Colt Cabana\|Colt Cabana]]<br>**Partner:** [[Wrestler/Fabian Aichner\|Fabian Aichner]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Imperium |
 
 ## Häufigste Gegner
 - [[Wrestler/Colt Cabana\|Colt Cabana]] (1x)
@@ -35,11 +36,6 @@ avg_rating: 78.33
 
 ## Häufigste Partner
 - [[Wrestler/Fabian Aichner\|Fabian Aichner]] (3x)
-
-## Letzte 5 Matches
-- 2021-01-21: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ✅ Win, 96%
-- 2021-01-21: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ✅ Win, 71%
-- 2021-01-21: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ❌ Loss, 68%
 
 ## Top Matches
 - 96%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Imperium in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)

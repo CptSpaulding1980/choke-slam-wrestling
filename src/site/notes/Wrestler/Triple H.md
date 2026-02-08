@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 69
 wins: 37
 losses: 20
-elo: 1303
 draws: 12
 win_percent: 53.6
 avg_rating: 82.42
@@ -16,15 +15,17 @@ avg_rating: 82.42
 
 # Triple H
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Triple_H.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 116kg<br><b>Finisher:</b> Pedigree<br><b>Elo Rating:</b> 1303</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Triple_H.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 116kg<br><b>Finisher:</b> Pedigree</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 69 | 37 | 20 | 12 | 53.6% | 82.42 | 1303 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 69 | 37 | 20 | 12 | 53.6% | 82.42 |
 
-### 📊 Record
-<img src="/img/charts/triple-h_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/triple-h_stats.png" width="200"> | **❌✅❌⚪️✅**<br>- Win vs. Path of God vs. Big Van Vader, Madison Rayne, & Triple H<br>- Draw vs. Royal Rumble<br>- Loss vs. Finn Bálor vs. Tatum Paxley vs. Triple H<br>- Win vs. Saint Rebel Radicalz vs. Saint Rebel Radicalz<br>- Loss vs. Saint Rebel Radicalz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 101% vs. Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H |
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (11x)
@@ -39,13 +40,6 @@ avg_rating: 82.42
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (6x)
 - [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (3x)
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)
-
-## Letzte 5 Matches
-- 2025-01-16: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]], [[Wrestler/Madison Rayne\|Madison Rayne]], & [[Wrestler/Triple H\|Triple H]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ✅ Win, 62%
-- 2025-01-16: [[Royal Rumble]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — 🤝 Draw, 89%
-- 2024-12-27: [[Wrestler/Finn Bálor\|Finn Bálor]] vs. [[Wrestler/Tatum Paxley\|Tatum Paxley]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] — ❌ Loss, 97%
-- 2024-10-22: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ✅ Win, 71%
-- 2024-10-22: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ❌ Loss, 84%
 
 ## Top Matches
 - 101%: [[Hell in a Cell]]: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)

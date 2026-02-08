@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 4
 wins: 1
 losses: 2
-elo: 1186
 draws: 1
 win_percent: 25.0
 avg_rating: 87.75
@@ -16,15 +15,17 @@ avg_rating: 87.75
 
 # Santino Marella
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Santino_Marella.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 106kg<br><b>Finisher:</b> Cobra<br><b>Elo Rating:</b> 1186</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Santino_Marella.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 106kg<br><b>Finisher:</b> Cobra</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 4 | 1 | 2 | 1 | 25.0% | 87.75 | 1186 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 4 | 1 | 2 | 1 | 25.0% | 87.75 |
 
-### 📊 Record
-<img src="/img/charts/santino-marella_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/santino-marella_stats.png" width="200"> | **❌✅❌⚪️**<br>- Draw vs. Greatest Rumble ever<br>- Loss vs. Killshot   vs. Santino Marella<br>- Win vs. Thunder Rosa vs. Santino Marella<br>- Loss vs. Kazuchika Okada vs. Santino Marella<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 97% vs. Kazuchika Okada vs. Santino Marella |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
@@ -32,12 +33,6 @@ avg_rating: 87.75
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
 - [[Wrestler/Killshot\|Killshot]] (1x)
 - [[Wrestler/Thunder Rosa\|Thunder Rosa]] (1x)
-
-## Letzte 5 Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 🤝 Draw, 90%
-- 2021-01-21: [[Wrestler/Killshot\|Killshot]]   vs. [[Wrestler/Santino Marella\|Santino Marella]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ❌ Loss, 89%
-- 2021-01-21: [[Wrestler/Thunder Rosa\|Thunder Rosa]] vs. [[Wrestler/Santino Marella\|Santino Marella]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ✅ Win, 75%
-- 2021-01-21: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Santino Marella\|Santino Marella]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ❌ Loss, 97%
 
 ## Top Matches
 - 97%: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Santino Marella\|Santino Marella]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)

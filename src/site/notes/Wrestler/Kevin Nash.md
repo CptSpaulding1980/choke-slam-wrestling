@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 6
 wins: 1
 losses: 3
-elo: 1171
 draws: 2
 win_percent: 16.7
 avg_rating: 84.33
@@ -16,15 +15,17 @@ avg_rating: 84.33
 
 # Kevin Nash
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kevin_Nash.png" width="280"></td><td><b>Height:</b> 208cm<br><b>Weight:</b> 149kg<br><b>Finisher:</b> Jackknife Powerbomb<br><b>Elo Rating:</b> 1171</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kevin_Nash.png" width="280"></td><td><b>Height:</b> 208cm<br><b>Weight:</b> 149kg<br><b>Finisher:</b> Jackknife Powerbomb</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 6 | 1 | 3 | 2 | 16.7% | 84.33 | 1171 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 6 | 1 | 3 | 2 | 16.7% | 84.33 |
 
-### 📊 Record
-<img src="/img/charts/kevin-nash_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/kevin-nash_stats.png" width="200"> | **⚪️❌❌✅❌**<br>- Loss vs. Jonathan Gresham & Miro vs. Booker T & Kevin Nash<br>- Win vs. Streetball: Militanter Mummenschanz vs. Giant Gonzalez, Jade Cargill & Kevin Nash<br>- Loss vs. Streetball: Sweet 'n Sour Elite vs. Giant Gonzalez, Jade Cargill & Kevin Nash<br>- Loss vs. Streetball: Saint Rebel Radicalz vs. Giant Gonzalez, Jade Cargill & Kevin Nash<br>- Draw vs. The Greatest Royal Rumble<br> | **Nemesis:** [[Wrestler/Joey Janela\|Joey Janela]]<br>**Partner:** [[Wrestler/Giant Gonzalez\|Giant Gonzalez]]<br>**Best Match:** 92% vs. Jonathan Gresham & Miro vs. Booker T & Kevin Nash |
 
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (3x)
@@ -37,13 +38,6 @@ avg_rating: 84.33
 - [[Wrestler/Giant Gonzalez\|Giant Gonzalez]] (3x)
 - [[Wrestler/Jade Cargill\|Jade Cargill]] (3x)
 - [[Wrestler/Booker T\|Booker T]] (1x)
-
-## Letzte 5 Matches
-- 2023-05-30: [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] & [[Wrestler/Miro\|Miro]] vs. [[Wrestler/Booker T\|Booker T]] & [[Wrestler/Kevin Nash\|Kevin Nash]] in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] — ❌ Loss, 92%
-- 2022-01-26: Streetball: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Giant Gonzalez\|Giant Gonzalez]], [[Wrestler/Jade Cargill\|Jade Cargill]] & [[Wrestler/Kevin Nash\|Kevin Nash]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] — ✅ Win, 78%
-- 2022-01-26: Streetball: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Giant Gonzalez\|Giant Gonzalez]], [[Wrestler/Jade Cargill\|Jade Cargill]] & [[Wrestler/Kevin Nash\|Kevin Nash]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] — ❌ Loss, 85%
-- 2022-01-26: Streetball: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Giant Gonzalez\|Giant Gonzalez]], [[Wrestler/Jade Cargill\|Jade Cargill]] & [[Wrestler/Kevin Nash\|Kevin Nash]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] — ❌ Loss, 70%
-- 2021-10-17: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] — 🤝 Draw, 91%
 
 ## Top Matches
 - 92%: [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] & [[Wrestler/Miro\|Miro]] vs. [[Wrestler/Booker T\|Booker T]] & [[Wrestler/Kevin Nash\|Kevin Nash]] in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)

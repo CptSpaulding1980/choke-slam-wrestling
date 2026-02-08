@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 12
 wins: 2
 losses: 6
-elo: 1137
 draws: 4
 win_percent: 16.7
 avg_rating: 86.17
@@ -16,15 +15,17 @@ avg_rating: 86.17
 
 # Samoa Joe
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Samoa_Joe.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 128kg<br><b>Finisher:</b> Coquina Clutch<br><b>Elo Rating:</b> 1137</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Samoa_Joe.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 128kg<br><b>Finisher:</b> Coquina Clutch</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 12 | 2 | 6 | 4 | 16.7% | 86.17 | 1137 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 12 | 2 | 6 | 4 | 16.7% | 86.17 |
 
-### 📊 Record
-<img src="/img/charts/samoa-joe_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/samoa-joe_stats.png" width="200"> | **⚪️⚪️✅✅❌**<br>- Loss vs. Choke Slam World Championship: Samoa Joe vs. Roman Reigns (c)<br>- Win vs. Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe<br>- Win vs. Royal Rumble<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br>- Draw vs. The Greatest Royal Rumble<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 95% vs. Choke Slam World Championship: Samoa Joe vs. Ric Flair (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (4x)
@@ -39,13 +40,6 @@ avg_rating: 86.17
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
 - [[Wrestler/Randy Orton\|Randy Orton]] (2x)
 - [[Wrestler/Chyna\|Chyna]] (1x)
-
-## Letzte 5 Matches
-- 2025-05-07: [[Choke Slam World Championship]]: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] (c) in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ❌ Loss, 68%
-- 2025-01-16: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Big Ryck\|Big Ryck]], [[Wrestler/Chyna\|Chyna]], [[Wrestler/Big Van Vader\|Big Van Vader]], & [[Wrestler/Samoa Joe\|Samoa Joe]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ✅ Win, 85%
-- 2025-01-16: [[Royal Rumble]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ✅ Win, 89%
-- 2023-12-15: [[Wrestler/EC3\|EC3]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sting\|Sting]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 88%
-- 2021-10-17: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] — 🤝 Draw, 91%
 
 ## Top Matches
 - 95%: [[Choke Slam World Championship]]: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Ric Flair\|Ric Flair]] (c) in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)

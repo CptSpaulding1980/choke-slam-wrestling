@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 32
 wins: 19
 losses: 11
-elo: 1293
 draws: 2
 win_percent: 59.4
 avg_rating: 82.44
@@ -16,15 +15,17 @@ avg_rating: 82.44
 
 # Daniel Bryan
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Daniel_Bryan.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1293</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Daniel_Bryan.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 32 | 19 | 11 | 2 | 59.4% | 82.44 | 1293 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 32 | 19 | 11 | 2 | 59.4% | 82.44 |
 
-### 📊 Record
-<img src="/img/charts/daniel-bryan_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/daniel-bryan_stats.png" width="200"> | **✅✅✅⚪️⚪️**<br>- Draw vs. Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite<br>- Draw vs. Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz<br>- Win vs. Sweet 'n Sour Elite vs. Militanter Mummenschanz<br>- Win vs. Cody Rhodes & Oba Femi vs. Militanter Mummenschanz<br>- Win vs. Johnny Gargano & Tommaso Ciampa vs.Militanter Mummenschanz<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 100% vs. Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (9x)
@@ -39,13 +40,6 @@ avg_rating: 82.44
 - [[Wrestler/Bret Hart\|Bret Hart]] (3x)
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (3x)
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
-
-## Letzte 5 Matches
-- 2026-02-05: Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] — 🤝 Draw, 0%
-- 2026-02-05: Submission Match: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] — 🤝 Draw, 0%
-- 2025-12-30: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 95%
-- 2025-12-30: [[Wrestler/Cody Rhodes\|Cody Rhodes]] & [[Wrestler/Oba Femi\|Oba Femi]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 91%
-- 2025-12-30: [[Wrestler/Johnny Gargano\|Johnny Gargano]] & [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs.[[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 89%
 
 ## Top Matches
 - 100%: [[Choke Slam World Championship]]: [[Wrestler/Chris Jericho\|Chris Jericho]] vs. [[Wrestler/Daniel Bryan\|Daniel Bryan]] vs. [[Wrestler/Lex Luger\|Lex Luger]] vs. [[Wrestler/Kevin Steen\|Kevin Steen]] vs. [[Wrestler/Steve Austin\|Steve Austin]] vs.  [[Wrestler/Roman Reigns\|Roman Reigns]] (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)

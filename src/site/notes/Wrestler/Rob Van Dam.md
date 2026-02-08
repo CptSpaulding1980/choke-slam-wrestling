@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 2
 wins: 0
 losses: 1
-elo: 1184
 draws: 1
 win_percent: 0.0
 avg_rating: 88.5
@@ -16,15 +15,17 @@ avg_rating: 88.5
 
 # Rob Van Dam
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rob_Van_Dam.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 107kg<br><b>Finisher:</b> Five Star Frog Splash<br><b>Elo Rating:</b> 1184</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rob_Van_Dam.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 107kg<br><b>Finisher:</b> Five Star Frog Splash</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 2 | 0 | 1 | 1 | 0.0% | 88.50 | 1184 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 2 | 0 | 1 | 1 | 0.0% | 88.50 |
 
-### 📊 Record
-<img src="/img/charts/rob-van-dam_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/rob-van-dam_stats.png" width="200"> | **⚪️❌**<br>- Loss vs. Axl Rotten & Ian Rotten vs. Bull Nakano & Rob Van Dam<br>- Draw vs. Greatest Rumble ever<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Bull Nakano\|Bull Nakano]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
 
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
@@ -35,10 +36,6 @@ avg_rating: 88.5
 
 ## Häufigste Partner
 - [[Wrestler/Bull Nakano\|Bull Nakano]] (1x)
-
-## Letzte 5 Matches
-- 2023-06-26: [[Wrestler/Axl Rotten\|Axl Rotten]] & [[Wrestler/Ian Rotten\|Ian Rotten]] vs. [[Wrestler/Bull Nakano\|Bull Nakano]] & [[Wrestler/Rob Van Dam\|Rob Van Dam]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ❌ Loss, 87%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 🤝 Draw, 90%
 
 ## Top Matches
 - 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)

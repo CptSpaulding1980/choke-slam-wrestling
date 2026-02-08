@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 46
 wins: 16
 losses: 21
-elo: 1160
 draws: 9
 win_percent: 34.8
 avg_rating: 85.72
@@ -16,15 +15,17 @@ avg_rating: 85.72
 
 # Kane
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kane.png" width="280"></td><td><b>Height:</b> 213cm<br><b>Weight:</b> 147kg<br><b>Finisher:</b> High Angle Chokeslam<br><b>Elo Rating:</b> 1160</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kane.png" width="280"></td><td><b>Height:</b> 213cm<br><b>Weight:</b> 147kg<br><b>Finisher:</b> High Angle Chokeslam</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 46 | 16 | 21 | 9 | 34.8% | 85.72 | 1160 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 46 | 16 | 21 | 9 | 34.8% | 85.72 |
 
-### 📊 Record
-<img src="/img/charts/kane_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/kane_stats.png" width="200"> | **❌⚪️❌❌❌**<br>- Loss vs. AJ Styles vs. Kane<br>- Loss vs. Hollywood Hogan vs. Kane<br>- Loss vs. Jon Moxley vs. Kane<br>- Draw vs. Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c)<br>- Loss vs. Choke Slam World Championship: Kane vs. Bob Backlund (c)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Jushin Liger\|Jushin Liger]]<br>**Best Match:** 100% vs. Iron Man: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (9x)
@@ -39,13 +40,6 @@ avg_rating: 85.72
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
 - [[Wrestler/KENTA\|KENTA]] (3x)
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (3x)
-
-## Letzte 5 Matches
-- 2023-12-15: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Kane\|Kane]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 72%
-- 2023-12-15: [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Kane\|Kane]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 82%
-- 2023-12-15: [[Wrestler/Jon Moxley\|Jon Moxley]] vs. [[Wrestler/Kane\|Kane]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 83%
-- 2022-11-17: [[Choke Slam World Championship]] Elimination Chamber: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Ethan Page\|Ethan Page]] vs. [[Wrestler/Ace Steel\|Ace Steel]] vs. [[Wrestler/Kane\|Kane]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] — 🤝 Draw, 98%
-- 2022-10-02: [[Choke Slam World Championship]]: [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] — ❌ Loss, 69%
 
 ## Top Matches
 - 100%: [[Iron Man]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)

@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 4
 wins: 2
 losses: 1
-elo: 1213
 draws: 1
 win_percent: 50.0
 avg_rating: 85.25
@@ -16,15 +15,17 @@ avg_rating: 85.25
 
 # Wolfgang
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wolfgang.png" width="280"></td><td><b>Height:</b> 186cm<br><b>Weight:</b> 113kg<br><b>Finisher:</b> The Howling<br><b>Elo Rating:</b> 1213</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wolfgang.png" width="280"></td><td><b>Height:</b> 186cm<br><b>Weight:</b> 113kg<br><b>Finisher:</b> The Howling</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 4 | 2 | 1 | 1 | 50.0% | 85.25 | 1213 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 4 | 2 | 1 | 1 | 50.0% | 85.25 |
 
-### 📊 Record
-<img src="/img/charts/wolfgang_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/wolfgang_stats.png" width="200"> | **✅❌✅⚪️**<br>- Draw vs. Greatest Rumble ever<br>- Win vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang<br>- Loss vs. Sweet 'n Sour Elite vs. Joe Coffey, Mark Coffey & Wolfgang<br>- Win vs. Saint Rebel Radicalz vs. Joe Coffey, Mark Coffey & Wolfgang<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Joe Coffey\|Joe Coffey]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
@@ -36,12 +37,6 @@ avg_rating: 85.25
 ## Häufigste Partner
 - [[Wrestler/Joe Coffey\|Joe Coffey]] (3x)
 - [[Wrestler/Mark Coffey\|Mark Coffey]] (3x)
-
-## Letzte 5 Matches
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 🤝 Draw, 90%
-- 2020-12-28: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Joe Coffey\|Joe Coffey]], [[Wrestler/Mark Coffey\|Mark Coffey]] & [[Wrestler/Wolfgang\|Wolfgang]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] — ✅ Win, 96%
-- 2020-12-28: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Joe Coffey\|Joe Coffey]], [[Wrestler/Mark Coffey\|Mark Coffey]] & [[Wrestler/Wolfgang\|Wolfgang]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] — ❌ Loss, 74%
-- 2020-12-28: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Joe Coffey\|Joe Coffey]], [[Wrestler/Mark Coffey\|Mark Coffey]] & [[Wrestler/Wolfgang\|Wolfgang]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] — ✅ Win, 81%
 
 ## Top Matches
 - 96%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Joe Coffey\|Joe Coffey]], [[Wrestler/Mark Coffey\|Mark Coffey]] & [[Wrestler/Wolfgang\|Wolfgang]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)

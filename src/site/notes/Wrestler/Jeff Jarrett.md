@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 24
 wins: 7
 losses: 14
-elo: 1113
 draws: 3
 win_percent: 29.2
 avg_rating: 87.71
@@ -16,15 +15,17 @@ avg_rating: 87.71
 
 # Jeff Jarrett
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jeff_Jarrett.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1113</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jeff_Jarrett.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 24 | 7 | 14 | 3 | 29.2% | 87.71 | 1113 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 24 | 7 | 14 | 3 | 29.2% | 87.71 |
 
-### 📊 Record
-<img src="/img/charts/jeff-jarrett_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/jeff-jarrett_stats.png" width="200"> | **❌❌❌❌⚪️**<br>- Draw vs. Reveal Rumble<br>- Loss vs. Apple Gauntlet 1<br>- Loss vs. Apple Gauntlet 2<br>- Loss vs. Apple Gauntlet 3<br>- Loss vs. Jeff Jarrett & Killer Kelly vs. The Rockers vs. Christian Cage &.Tetsuya Naito (c)<br> | **Nemesis:** [[Wrestler/Christian Cage\|Christian Cage]]<br>**Partner:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Best Match:** 101% vs. Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Christian Cage\|Christian Cage]] (6x)
@@ -39,13 +40,6 @@ avg_rating: 87.71
 - [[Wrestler/The Honky Tonk Man\|The Honky Tonk Man]] (3x)
 - [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)
 - [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] (1x)
-
-## Letzte 5 Matches
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] — 🤝 Draw, 100%
-- 2022-10-02: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] — ❌ Loss, 97%
-- 2022-10-02: Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] — ❌ Loss, 97%
-- 2022-10-02: Apple Gauntlet 3 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] — ❌ Loss, 97%
-- 2022-02-21: [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] & [[Wrestler/Killer Kelly\|Killer Kelly]] vs. The Rockers vs. [[Wrestler/Christian Cage\|Christian Cage]] &.[[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (c) in [[Events/2022-02-21 - S04E08_Fan Favourites\|S04E08_Fan Favourites]] — ❌ Loss, 93%
 
 ## Top Matches
 - 101%: Trash TV: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)

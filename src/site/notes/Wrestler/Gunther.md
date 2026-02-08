@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 48
 wins: 24
 losses: 15
-elo: 1302
 draws: 9
 win_percent: 50.0
 avg_rating: 82.69
@@ -16,15 +15,17 @@ avg_rating: 82.69
 
 # Gunther
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Gunther.png" width="280"></td><td><b>Height:</b> 195cm<br><b>Weight:</b> 149kg<br><b>Finisher:</b> Powerbomb<br><b>Elo Rating:</b> 1302</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Gunther.png" width="280"></td><td><b>Height:</b> 195cm<br><b>Weight:</b> 149kg<br><b>Finisher:</b> Powerbomb</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 48 | 24 | 15 | 9 | 50.0% | 82.69 | 1302 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 48 | 24 | 15 | 9 | 50.0% | 82.69 |
 
-### 📊 Record
-<img src="/img/charts/gunther_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/gunther_stats.png" width="200"> | **✅⚪️❌✅✅**<br>- Win vs. Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Gunther & The Undertaker (c)<br>- Win vs. Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Gunther & The Undertaker (c)<br>- Loss vs. Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Gunther & The Undertaker (c)<br>- Draw vs. Sheik Invitational Rumble incl. Sabu<br>- Win vs. Choke Slam Tag Team Championship: Path of God vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Best Match:** 100% vs. Thunder Queen Battle: Saint Rebel Radicalz vs. Nature Game Masters  |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (8x)
@@ -39,13 +40,6 @@ avg_rating: 82.69
 - [[Wrestler/Joe Hendry\|Joe Hendry]] (5x)
 - [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (4x)
 - [[Wrestler/Bryan Danielson\|Bryan Danielson]] (3x)
-
-## Letzte 5 Matches
-- 2025-08-12: [[Choke Slam Tag Team Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]] (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ✅ Win, 84%
-- 2025-08-12: [[Choke Slam Tag Team Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]] (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ✅ Win, 90%
-- 2025-08-12: [[Choke Slam Tag Team Championship]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]] (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ❌ Loss, 84%
-- 2025-05-07: Sheik Invitational Rumble incl. [[Wrestler/Sabu\|Sabu]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — 🤝 Draw, 84%
-- 2025-05-07: [[Choke Slam Tag Team Championship]]: [[Teams/Path of God\|Path of God]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ✅ Win, 90%
 
 ## Top Matches
 - 100%: Thunder Queen Battle: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)

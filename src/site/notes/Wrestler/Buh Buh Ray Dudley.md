@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 6
 wins: 1
 losses: 5
-elo: 1144
 draws: 0
 win_percent: 16.7
 avg_rating: 81.5
@@ -16,15 +15,17 @@ avg_rating: 81.5
 
 # Buh Buh Ray Dudley
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Buh_Buh_Ray_Dudley.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1144</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Buh_Buh_Ray_Dudley.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 6 | 1 | 5 | 0 | 16.7% | 81.50 | 1144 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 6 | 1 | 5 | 0 | 16.7% | 81.50 |
 
-### 📊 Record
-<img src="/img/charts/buh-buh-ray-dudley_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/buh-buh-ray-dudley_stats.png" width="200"> | **❌❌✅❌❌**<br>- Loss vs. Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz<br>- Loss vs. Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Sweet 'n Sour Elite<br>- Win vs. Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Saint Rebel Radicalz<br>- Loss vs. Tables: Random, Random, & Random vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley<br>- Loss vs. Tables: Sweet 'n Sour Elite vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Big Dick Dudley\|Big Dick Dudley]]<br>**Best Match:** 100% vs. Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)
@@ -37,13 +38,6 @@ avg_rating: 81.5
 - [[Wrestler/Big Dick Dudley\|Big Dick Dudley]] (3x)
 - [[Wrestler/D-Von Dudley\|D-Von Dudley]] (3x)
 - [[Wrestler/Dudley Dudley\|Dudley Dudley]] (3x)
-
-## Letzte 5 Matches
-- 2023-06-26: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ❌ Loss, 100%
-- 2023-06-26: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ❌ Loss, 80%
-- 2023-06-26: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ✅ Win, 73%
-- 2022-02-09: [[Tables]]: Random, Random, & Random vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] — ❌ Loss, 51%
-- 2022-02-09: [[Tables]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] — ❌ Loss, 86%
 
 ## Top Matches
 - 100%: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)

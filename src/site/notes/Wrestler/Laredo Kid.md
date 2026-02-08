@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 42
 wins: 14
 losses: 19
-elo: 1106
 draws: 9
 win_percent: 33.3
 avg_rating: 84.24
@@ -16,15 +15,17 @@ avg_rating: 84.24
 
 # Laredo Kid
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Laredo_Kid.png" width="280"></td><td><b>Height:</b> 171cm<br><b>Weight:</b> 81kg<br><b>Finisher:</b> Laredo Fly<br><b>Elo Rating:</b> 1106</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Laredo_Kid.png" width="280"></td><td><b>Height:</b> 171cm<br><b>Weight:</b> 81kg<br><b>Finisher:</b> Laredo Fly</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 42 | 14 | 19 | 9 | 33.3% | 84.24 | 1106 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 42 | 14 | 19 | 9 | 33.3% | 84.24 |
 
-### 📊 Record
-<img src="/img/charts/laredo-kid_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/laredo-kid_stats.png" width="200"> | **❌✅✅❌❌**<br>- Loss vs. Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Los Jinetes del Aire (c)<br>- Loss vs. I got 4 on it<br>- Win vs. Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c)<br>- Win vs. Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c)<br>- Loss vs. Saint Rebel Radicalz vs. Jeff Cobb & Ultimate Warrior<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 100% vs. Cibernetico |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (12x)
@@ -39,13 +40,6 @@ avg_rating: 84.24
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (6x)
 - [[Wrestler/El Hijo del Vikingo\|El Hijo del Vikingo]] (5x)
 - [[Wrestler/Myzteziz Jr.\|Myzteziz Jr.]] (5x)
-
-## Letzte 5 Matches
-- 2025-08-12: [[Choke Slam Trios Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Los Jinetes del Aire (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ❌ Loss, 92%
-- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ❌ Loss, 89%
-- 2025-03-03: [[Choke Slam Trios Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]]  vs. Los Jinetes del Aire vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ✅ Win, 98%
-- 2025-03-03: [[Choke Slam Trios Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]]  vs. Los Jinetes del Aire vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ✅ Win, 98%
-- 2025-03-03: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Jeff Cobb\|Jeff Cobb]] & [[Wrestler/Ultimate Warrior\|Ultimate Warrior]] in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ❌ Loss, 85%
 
 ## Top Matches
 - 100%: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)

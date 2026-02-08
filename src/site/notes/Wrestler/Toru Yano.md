@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 9
 wins: 3
 losses: 5
-elo: 1173
 draws: 1
 win_percent: 33.3
 avg_rating: 78.78
@@ -16,15 +15,17 @@ avg_rating: 78.78
 
 # Toru Yano
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Toru_Yano.png" width="280"></td><td><b>Height:</b> 186cm<br><b>Weight:</b> 115kg<br><b>Finisher:</b> Jumping Powerbomb<br><b>Elo Rating:</b> 1173</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Toru_Yano.png" width="280"></td><td><b>Height:</b> 186cm<br><b>Weight:</b> 115kg<br><b>Finisher:</b> Jumping Powerbomb</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 9 | 3 | 5 | 1 | 33.3% | 78.78 | 1173 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 9 | 3 | 5 | 1 | 33.3% | 78.78 |
 
-### 📊 Record
-<img src="/img/charts/toru-yano_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/toru-yano_stats.png" width="200"> | **❌✅❌❌✅**<br>- Win vs. Killer Kelly & Dalton Castle vs. Path of God<br>- Loss vs. Path of God vs. Path of God<br>- Loss vs. Toru Yano vs. Tetsuya Naito vs. Tatum Paxley<br>- Win vs. Path of God vs. Killer Kelly & Dalton Castle<br>- Loss vs. Path of God vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Best Match:** 91% vs. Path of God vs. Killer Kelly & Dalton Castle |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
@@ -36,13 +37,6 @@ avg_rating: 78.78
 ## Häufigste Partner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (4x)
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
-
-## Letzte 5 Matches
-- 2024-10-22: [[Wrestler/Killer Kelly\|Killer Kelly]] & [[Wrestler/Dalton Castle\|Dalton Castle]] vs. [[Teams/Path of God\|Path of God]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ✅ Win, 66%
-- 2024-10-22: [[Teams/Path of God\|Path of God]] vs. [[Teams/Path of God\|Path of God]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ❌ Loss, 73%
-- 2024-10-22: [[Wrestler/Toru Yano\|Toru Yano]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. Tatum Paxley in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ❌ Loss, 87%
-- 2024-10-22: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Killer Kelly\|Killer Kelly]] & [[Wrestler/Dalton Castle\|Dalton Castle]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ✅ Win, 91%
-- 2024-10-22: [[Teams/Path of God\|Path of God]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ❌ Loss, 73%
 
 ## Top Matches
 - 91%: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Killer Kelly\|Killer Kelly]] & [[Wrestler/Dalton Castle\|Dalton Castle]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)

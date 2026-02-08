@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 16
 wins: 4
 losses: 9
-elo: 1129
 draws: 3
 win_percent: 25.0
 avg_rating: 87.44
@@ -16,15 +15,17 @@ avg_rating: 87.44
 
 # Kofi Kingston
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kofi_Kingston.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1129</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kofi_Kingston.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 16 | 4 | 9 | 3 | 25.0% | 87.44 | 1129 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 16 | 4 | 9 | 3 | 25.0% | 87.44 |
 
-### 📊 Record
-<img src="/img/charts/kofi-kingston_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/kofi-kingston_stats.png" width="200"> | **❌⚪️✅❌❌**<br>- Loss vs. Billy Gunn & Road Dogg vs. Big E & Kofi Kingston<br>- Loss vs. Big E & Kofi Kingston vs. Sweet 'n Sour Elite<br>- Win vs. Big E & Kofi Kingston vs. Mosh & Thrasher<br>- Draw vs. Reveal Rumble<br>- Loss vs. Charlie Dempsey vs. Kofi Kingston<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Big E\|Big E]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (4x)
@@ -39,13 +40,6 @@ avg_rating: 87.44
 - [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)
 - [[Wrestler/Dijak\|Dijak]] (2x)
 - [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)
-
-## Letzte 5 Matches
-- 2025-11-18: [[Wrestler/Billy Gunn\|Billy Gunn]] & [[Wrestler/Road Dogg\|Road Dogg]] vs. [[Wrestler/Big E\|Big E]] & [[Wrestler/Kofi Kingston\|Kofi Kingston]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ❌ Loss, 94%
-- 2025-11-18: [[Wrestler/Big E\|Big E]] & [[Wrestler/Kofi Kingston\|Kofi Kingston]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ❌ Loss, 97%
-- 2025-11-18: [[Wrestler/Big E\|Big E]] & [[Wrestler/Kofi Kingston\|Kofi Kingston]] vs. [[Wrestler/Mosh\|Mosh]] & [[Wrestler/Thrasher\|Thrasher]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ✅ Win, 94%
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] — 🤝 Draw, 100%
-- 2024-04-10: [[Wrestler/Charlie Dempsey\|Charlie Dempsey]] vs. [[Wrestler/Kofi Kingston\|Kofi Kingston]] in [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — ❌ Loss, 79%
 
 ## Top Matches
 - 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)

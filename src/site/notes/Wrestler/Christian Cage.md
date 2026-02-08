@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 37
 wins: 18
 losses: 11
-elo: 1267
 draws: 8
 win_percent: 48.6
 avg_rating: 85.08
@@ -16,15 +15,17 @@ avg_rating: 85.08
 
 # Christian Cage
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Christian_Cage.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 96kg<br><b>Finisher:</b> Killswitch<br><b>Elo Rating:</b> 1267</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Christian_Cage.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 96kg<br><b>Finisher:</b> Killswitch</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 37 | 18 | 11 | 8 | 48.6% | 85.08 | 1267 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 37 | 18 | 11 | 8 | 48.6% | 85.08 |
 
-### 📊 Record
-<img src="/img/charts/christian-cage_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/christian-cage_stats.png" width="200"> | **⚪️⚪️⚪️❌✅**<br>- Win vs. Big Van Vader Memorial Battle Royal<br>- Loss vs. Christian Cage, The Blade, & The Butcher vs. Big Van Vader, Madison Rayne, & Triple H<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br>- Draw vs. Exhibition 1 - Cage Match<br>- Draw vs. Choke Slam Tag Team Championship<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 99% vs. Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (9x)
@@ -39,13 +40,6 @@ avg_rating: 85.08
 - [[Wrestler/Steve Austin\|Steve Austin]] (2x)
 - [[Wrestler/Ivan Koloff\|Ivan Koloff]] (1x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)
-
-## Letzte 5 Matches
-- 2024-01-29: Big Van Vader Memorial [[Battle Royal]] in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — ✅ Win, 91%
-- 2023-12-15: [[Wrestler/Christian Cage\|Christian Cage]], [[Wrestler/The Blade\|The Blade]], & [[Wrestler/The Butcher\|The Butcher]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]], [[Wrestler/Madison Rayne\|Madison Rayne]], & [[Wrestler/Triple H\|Triple H]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 66%
-- 2023-12-15: [[Wrestler/EC3\|EC3]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sting\|Sting]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 88%
-- 2022-11-07: Exhibition 1 - Cage Match in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] — 🤝 Draw, 93%
-- 2022-06-28: [[Choke Slam Tag Team Championship]] in [[Events/2022-06-28 - S04E09_Royal Rumble\|S04E09_Royal Rumble]] — 🤝 Draw, 71%
 
 ## Top Matches
 - 99%: Money in the Bank: [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Awesome Kong\|Awesome Kong]] vs. [[Wrestler/Christian Cage\|Christian Cage]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Randy Savage\|Randy Savage]] vs. Dusty Rhodes in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)

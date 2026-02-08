@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 30
 wins: 8
 losses: 17
-elo: 1111
 draws: 5
 win_percent: 26.7
 avg_rating: 90.03
@@ -16,15 +15,17 @@ avg_rating: 90.03
 
 # Shawn Michaels
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shawn_Michaels.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Sweet Chin Music<br><b>Elo Rating:</b> 1111</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shawn_Michaels.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Sweet Chin Music</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 30 | 8 | 17 | 5 | 26.7% | 90.03 | 1111 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 30 | 8 | 17 | 5 | 26.7% | 90.03 |
 
-### 📊 Record
-<img src="/img/charts/shawn-michaels_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/shawn-michaels_stats.png" width="200"> | **❌⚪️❌❌✅**<br>- Win vs. Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes<br>- Loss vs. Bret Hart & Owen Hart vs. Dudes with Attitudes<br>- Loss vs. Saint Rebel Radicalz vs. Dudes with Attitudes<br>- Draw vs. Big Van Vader Memorial Battle Royal<br>- Loss vs. Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Best Match:** 99% vs. Choke Slam Tag Team Championship: Shawn Michaels & Triple H vs. Bam Bam Bigelow & Big Van Vader (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (9x)
@@ -39,13 +40,6 @@ avg_rating: 90.03
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (5x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (3x)
 - [[Wrestler/Triple H\|Triple H]] (2x)
-
-## Letzte 5 Matches
-- 2025-05-07: [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Big Van Vader\|Big Van Vader]] vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ✅ Win, 88%
-- 2025-05-07: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ❌ Loss, 94%
-- 2025-01-16: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Dudes with Attitudes in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ❌ Loss, 89%
-- 2024-01-29: Big Van Vader Memorial [[Battle Royal]] in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — 🤝 Draw, 91%
-- 2023-12-15: [[Wrestler/Shawn Michaels\|Shawn Michaels]] vs. [[Wrestler/Diesel\|Diesel]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Ric Flair\|Ric Flair]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 93%
 
 ## Top Matches
 - 99%: [[Choke Slam Tag Team Championship]]: [[Wrestler/Shawn Michaels\|Shawn Michaels]] & [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Big Van Vader\|Big Van Vader]] (c) in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)

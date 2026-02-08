@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 31
 wins: 13
 losses: 10
-elo: 1201
 draws: 8
 win_percent: 41.9
 avg_rating: 85.87
@@ -16,15 +15,17 @@ avg_rating: 85.87
 
 # Brandon
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brandon.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1201</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brandon.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 31 | 13 | 10 | 8 | 41.9% | 85.87 | 1201 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 31 | 13 | 10 | 8 | 41.9% | 85.87 |
 
-### 📊 Record
-<img src="/img/charts/brandon_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/brandon_stats.png" width="200"> | **✅❌❌⚪️✅**<br>- Win vs. Money in the Bank No Ladder Match<br>- Draw vs. Big Van Vader Memorial Battle Royal<br>- Loss vs. Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c)<br>- Loss vs. Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels<br>- Win vs. Dune (2 vs 4 Handicap): Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Grayson Waller\|Grayson Waller]]<br>**Best Match:** 104% vs. Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano |
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (8x)
@@ -39,13 +40,6 @@ avg_rating: 85.87
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (4x)
 - [[Wrestler/Miro\|Miro]] (3x)
 - [[Wrestler/Kenny Omega\|Kenny Omega]] (3x)
-
-## Letzte 5 Matches
-- 2024-01-29: Money in the Bank No [[Ladder]] Match in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — ✅ Win, 90%
-- 2024-01-29: Big Van Vader Memorial [[Battle Royal]] in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — 🤝 Draw, 91%
-- 2024-01-29: [[Choke Slam Trios Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — ❌ Loss, 96%
-- 2023-12-15: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Angélico\|Angélico]], [[Wrestler/Becky Lynch\|Becky Lynch]], [[Wrestler/Chris Hero\|Chris Hero]], & [[Wrestler/Shawn Michaels\|Shawn Michaels]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 85%
-- 2023-11-03: Dune (2 vs 4 Handicap): [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] — ✅ Win, 86%
 
 ## Top Matches
 - 104%: Alternate Three Way: [[Wrestler/Gigi Dolin\|Gigi Dolin]] vs. [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Bull Nakano\|Bull Nakano]] in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)

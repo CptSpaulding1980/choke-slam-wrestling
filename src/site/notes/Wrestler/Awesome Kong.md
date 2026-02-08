@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 35
 wins: 16
 losses: 14
-elo: 1203
 draws: 5
 win_percent: 45.7
 avg_rating: 83.29
@@ -16,15 +15,17 @@ avg_rating: 83.29
 
 # Awesome Kong
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Awesome_Kong.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1203</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Awesome_Kong.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 35 | 16 | 14 | 5 | 45.7% | 83.29 | 1203 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 35 | 16 | 14 | 5 | 45.7% | 83.29 |
 
-### 📊 Record
-<img src="/img/charts/awesome-kong_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/awesome-kong_stats.png" width="200"> | **✅✅❌❌✅**<br>- Win vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Loss vs. Saint Rebel Radicalz vs. Saint Rebel Radicalz<br>- Loss vs. Saint Rebel Radicalz vs.Saint Rebel Radicalz<br>- Win vs. War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz<br>- Win vs. War Games 2: Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 83.29
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (4x)
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
 - [[Wrestler/KENTA\|KENTA]] (3x)
-
-## Letzte 5 Matches
-- 2025-12-30: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 87%
-- 2025-12-30: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 68%
-- 2025-12-30: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs.[[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 91%
-- 2025-11-18: War Games: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ✅ Win, 69%
-- 2025-11-18: War Games 2: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ✅ Win, 53%
 
 ## Top Matches
 - 101%: Submission: [[Wrestler/Awesome Kong\|Awesome Kong]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)

@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 71
 wins: 51
 losses: 16
-elo: 1459
 draws: 4
 win_percent: 71.8
 avg_rating: 84.76
@@ -16,15 +15,17 @@ avg_rating: 84.76
 
 # Kazuchika Okada
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kazuchika_Okada.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 107kg<br><b>Finisher:</b> Rainmaker<br><b>Elo Rating:</b> 1459</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kazuchika_Okada.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 107kg<br><b>Finisher:</b> Rainmaker</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 71 | 51 | 16 | 4 | 71.8% | 84.76 | 1459 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 71 | 51 | 16 | 4 | 71.8% | 84.76 |
 
-### 📊 Record
-<img src="/img/charts/kazuchika-okada_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **✅✅✅✅❌**<br>- Loss vs. Cody Rhodes & Oba Femi vs. Saint Rebel Radicalz<br>- Win vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Win vs. Saint Rebel Radicalz vs.Saint Rebel Radicalz<br>- Win vs. Viking Raiders vs. Saint Rebel Radicalz<br>- Win vs. War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (12x)
@@ -39,13 +40,6 @@ avg_rating: 84.76
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (6x)
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (4x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (3x)
-
-## Letzte 5 Matches
-- 2025-12-30: [[Wrestler/Cody Rhodes\|Cody Rhodes]] & [[Wrestler/Oba Femi\|Oba Femi]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 96%
-- 2025-12-30: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 93%
-- 2025-12-30: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs.[[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 91%
-- 2025-11-18: Viking Raiders vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ✅ Win, 59%
-- 2025-11-18: War Games: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ✅ Win, 69%
 
 ## Top Matches
 - 105%: [[Choke Slam World Championship]] (vacant): [[Wrestler/Kurt Angle\|Kurt Angle]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] (2020-10-13)

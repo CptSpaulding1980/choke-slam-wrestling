@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 32
 wins: 9
 losses: 19
-elo: 1064
 draws: 4
 win_percent: 28.1
 avg_rating: 89.38
@@ -16,15 +15,17 @@ avg_rating: 89.38
 
 # Bam Bam Bigelow
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bam_Bam_Bigelow.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 177kg<br><b>Finisher:</b> Nuclear Splash<br><b>Elo Rating:</b> 1064</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bam_Bam_Bigelow.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 177kg<br><b>Finisher:</b> Nuclear Splash</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 32 | 9 | 19 | 4 | 28.1% | 89.38 | 1064 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 32 | 9 | 19 | 4 | 28.1% | 89.38 |
 
-### 📊 Record
-<img src="/img/charts/bam-bam-bigelow_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/bam-bam-bigelow_stats.png" width="200"> | **❌✅❌❌❌**<br>- Loss vs. Edge vs. Wardlow vs. Bam Bam Bigelow<br>- Loss vs. Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho<br>- Loss vs. Bam Bam Bigelow vs. Kensuke Sasaki vs. Bret Hart<br>- Win vs. Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido<br>- Loss vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 100% vs. Choke Slam Tag Team Championship: Dalton Castle & Dr. Wagner Jr. vs. Saint Rebel Radicalz (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 89.38
 - [[Wrestler/Akira Taue\|Akira Taue]] (4x)
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (2x)
 - [[Wrestler/Big Ryck\|Big Ryck]] (2x)
-
-## Letzte 5 Matches
-- 2025-10-27: [[Wrestler/Edge\|Edge]] vs. [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ❌ Loss, 95%
-- 2025-10-27: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Chris Jericho\|Chris Jericho]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ❌ Loss, 99%
-- 2025-10-27: [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] vs. [[Wrestler/Bret Hart\|Bret Hart]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ❌ Loss, 95%
-- 2025-10-27: [[Wrestler/Pete Dunne\|Pete Dunne]] vs. [[Wrestler/Chris Benoit\|Chris Benoit]] vs. [[Wrestler/Sasha Banks\|Sasha Banks]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Edge\|Edge]] vs. [[Wrestler/Bandido\|Bandido]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ✅ Win, 71%
-- 2025-10-02: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ❌ Loss, 88%
 
 ## Top Matches
 - 100%: [[Choke Slam Tag Team Championship]]: [[Wrestler/Dalton Castle\|Dalton Castle]] & [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)

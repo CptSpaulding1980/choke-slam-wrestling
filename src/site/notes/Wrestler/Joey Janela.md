@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 20
 wins: 6
 losses: 6
-elo: 1182
 draws: 8
 win_percent: 30.0
 avg_rating: 89.4
@@ -16,15 +15,17 @@ avg_rating: 89.4
 
 # Joey Janela
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Joey_Janela.png" width="280"></td><td><b>Height:</b> 173cm<br><b>Weight:</b> 84kg<br><b>Finisher:</b> Package Piledriver<br><b>Elo Rating:</b> 1182</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Joey_Janela.png" width="280"></td><td><b>Height:</b> 173cm<br><b>Weight:</b> 84kg<br><b>Finisher:</b> Package Piledriver</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 20 | 6 | 6 | 8 | 30.0% | 89.40 | 1182 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 20 | 6 | 6 | 8 | 30.0% | 89.40 |
 
-### 📊 Record
-<img src="/img/charts/joey-janela_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/joey-janela_stats.png" width="200"> | **⚪️⚪️⚪️✅⚪️**<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br>- Win vs. Sweet 'n Sour Elite vs. Joey Janela, Madison Rayne, Kane, & Edge<br>- Draw vs. Royal Rumble Match<br>- Draw vs. The Greatest Royal Rumble<br>- Draw vs. The Greatest Royal Rumble<br> | **Nemesis:** [[Wrestler/Johnny Mundo\|Johnny Mundo]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
 
 ## Häufigste Gegner
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (7x)
@@ -39,13 +40,6 @@ avg_rating: 89.4
 - [[Wrestler/Edge\|Edge]] (2x)
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
 - [[Wrestler/KENTA\|KENTA]] (1x)
-
-## Letzte 5 Matches
-- 2023-12-15: [[Wrestler/EC3\|EC3]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sting\|Sting]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 88%
-- 2022-07-24: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Joey Janela\|Joey Janela]], [[Wrestler/Madison Rayne\|Madison Rayne]], [[Wrestler/Kane\|Kane]], & [[Wrestler/Edge\|Edge]] in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] — ✅ Win, 84%
-- 2022-07-24: [[Royal Rumble]] Match in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] — 🤝 Draw, 92%
-- 2021-10-17: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] — 🤝 Draw, 91%
-- 2021-10-17: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] — 🤝 Draw, 91%
 
 ## Top Matches
 - 100%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)

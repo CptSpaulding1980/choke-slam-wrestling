@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 10
 wins: 3
 losses: 5
-elo: 1173
 draws: 2
 win_percent: 30.0
 avg_rating: 83.6
@@ -16,15 +15,17 @@ avg_rating: 83.6
 
 # Jerry Lawler
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jerry_Lawler.png" width="280"></td><td><b>Height:</b> 184cm<br><b>Weight:</b> 108kg<br><b>Finisher:</b> Jumping Piledriver<br><b>Elo Rating:</b> 1173</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jerry_Lawler.png" width="280"></td><td><b>Height:</b> 184cm<br><b>Weight:</b> 108kg<br><b>Finisher:</b> Jumping Piledriver</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 10 | 3 | 5 | 2 | 30.0% | 83.60 | 1173 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 10 | 3 | 5 | 2 | 30.0% | 83.60 |
 
-### 📊 Record
-<img src="/img/charts/jerry-lawler_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/jerry-lawler_stats.png" width="200"> | **✅⚪️⚪️❌✅**<br>- Win vs. 1/8 Finals: Jerry Lawler vs. Bam Bam Bigelow<br>- Loss vs. Quarter Finals: Goldust vs. Jerry Lawler<br>- Draw vs. Big Van Vader Memorial Battle Royal<br>- Draw vs. Greatest Rumble ever<br>- Win vs. Kings Court vs. Mummenschanz<br> | **Nemesis:** [[Wrestler/Randy Orton\|Randy Orton]]<br>**Partner:** [[Wrestler/King Corbin\|King Corbin]]<br>**Best Match:** 92% vs. Choke Slam World Championship: Randy Orton vs. Jerry Lawler (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Orton\|Randy Orton]] (4x)
@@ -37,13 +38,6 @@ avg_rating: 83.6
 - [[Wrestler/King Corbin\|King Corbin]] (3x)
 - [[Wrestler/Booker T\|Booker T]] (3x)
 - [[Wrestler/Sheamus\|Sheamus]] (3x)
-
-## Letzte 5 Matches
-- 2025-08-12: 1/8 Finals: [[Wrestler/Jerry Lawler\|Jerry Lawler]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ✅ Win, 91%
-- 2025-08-12: Quarter Finals: [[Wrestler/Goldust\|Goldust]] vs. [[Wrestler/Jerry Lawler\|Jerry Lawler]] in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ❌ Loss, 84%
-- 2024-01-29: Big Van Vader Memorial [[Battle Royal]] in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — 🤝 Draw, 91%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 🤝 Draw, 90%
-- 2020-06-29: Kings Court vs. Mummenschanz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] — ✅ Win, 71%
 
 ## Top Matches
 - 92%: [[Choke Slam World Championship]]: [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Jerry Lawler\|Jerry Lawler]] (c) in [[Events/2020-06-10 - S02E10_Dubai - After Show Cash In 2\|S02E10_Dubai - After Show Cash In 2]] (2020-06-10)

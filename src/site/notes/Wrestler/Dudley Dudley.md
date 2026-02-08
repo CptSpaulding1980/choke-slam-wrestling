@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 3
 wins: 1
 losses: 2
-elo: 1190
 draws: 0
 win_percent: 33.3
 avg_rating: 84.33
@@ -16,15 +15,17 @@ avg_rating: 84.33
 
 # Dudley Dudley
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dudley_Dudley.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1190</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dudley_Dudley.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 3 | 1 | 2 | 0 | 33.3% | 84.33 | 1190 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 3 | 1 | 2 | 0 | 33.3% | 84.33 |
 
-### 📊 Record
-<img src="/img/charts/dudley-dudley_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/dudley-dudley_stats.png" width="200"> | **✅❌❌**<br>- Loss vs. Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz<br>- Loss vs. Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Sweet 'n Sour Elite<br>- Win vs. Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]]<br>**Best Match:** 100% vs. Steel Cage: Buh Buh Ray Dudley & Dudley Dudley vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
@@ -35,11 +36,6 @@ avg_rating: 84.33
 
 ## Häufigste Partner
 - [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] (3x)
-
-## Letzte 5 Matches
-- 2023-06-26: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ❌ Loss, 100%
-- 2023-06-26: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ❌ Loss, 80%
-- 2023-06-26: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ✅ Win, 73%
 
 ## Top Matches
 - 100%: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)

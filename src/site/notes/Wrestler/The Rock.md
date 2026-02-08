@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 12
 wins: 1
 losses: 7
-elo: 1117
 draws: 4
 win_percent: 8.3
 avg_rating: 86.0
@@ -16,15 +15,17 @@ avg_rating: 86.0
 
 # The Rock
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Rock.png" width="280"></td><td><b>Height:</b> 196cm<br><b>Weight:</b> 118kg<br><b>Finisher:</b> Bottom Drop<br><b>Elo Rating:</b> 1117</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Rock.png" width="280"></td><td><b>Height:</b> 196cm<br><b>Weight:</b> 118kg<br><b>Finisher:</b> Bottom Drop</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 12 | 1 | 7 | 4 | 8.3% | 86.00 | 1117 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 12 | 1 | 7 | 4 | 8.3% | 86.00 |
 
-### 📊 Record
-<img src="/img/charts/the-rock_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/the-rock_stats.png" width="200"> | **❌✅⚪️❌❌**<br>- Loss vs. The Rock vs. Zack Sabre Jr.<br>- Loss vs. Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles<br>- Draw vs. Royal Rumble<br>- Win vs. Mystery vs. Cactus Jack<br>- Loss vs. Roman Reigns vs. Mystery<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Best Match:** 99% vs. Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 86.0
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (1x)
 - [[Wrestler/Christian Cage\|Christian Cage]] (1x)
 - [[Wrestler/Kiana James\|Kiana James]] (1x)
-
-## Letzte 5 Matches
-- 2025-01-16: [[Wrestler/The Rock\|The Rock]] vs. [[Wrestler/Zack Sabre\|Zack Sabre]] Jr. in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ❌ Loss, 93%
-- 2025-01-16: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Thea Hail\|Thea Hail]], [[Wrestler/Miro\|Miro]], [[Wrestler/CM Punk\|CM Punk]], & [[Wrestler/AJ Styles\|AJ Styles]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ❌ Loss, 77%
-- 2025-01-16: [[Royal Rumble]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — 🤝 Draw, 89%
-- 2024-12-27: Mystery vs. [[Wrestler/Cactus Jack\|Cactus Jack]] in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] — ✅ Win, 60%
-- 2024-01-29: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. Mystery in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — ❌ Loss, 95%
 
 ## Top Matches
 - 99%: [[Wrestler/Cesaro\|Cesaro]]  vs. [[Wrestler/Dalton Castle\|Dalton Castle]] vs. [[Wrestler/Diesel\|Diesel]] vs. [[Wrestler/Kelly Klein\|Kelly Klein]] vs. [[Wrestler/The Undertaker\|The Undertaker]]  vs. [[Wrestler/The Rock\|The Rock]] vs. [[Wrestler/John Cena\|John Cena]] vs. [[Wrestler/Steve Austin\|Steve Austin]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)

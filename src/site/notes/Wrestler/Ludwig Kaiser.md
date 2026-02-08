@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 26
 wins: 10
 losses: 9
-elo: 1222
 draws: 7
 win_percent: 38.5
 avg_rating: 82.81
@@ -16,15 +15,17 @@ avg_rating: 82.81
 
 # Ludwig Kaiser
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ludwig_Kaiser.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 85kg<br><b>Finisher:</b> Landungsbrücken<br><b>Elo Rating:</b> 1222</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ludwig_Kaiser.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 85kg<br><b>Finisher:</b> Landungsbrücken</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 26 | 10 | 9 | 7 | 38.5% | 82.81 | 1222 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 26 | 10 | 9 | 7 | 38.5% | 82.81 |
 
-### 📊 Record
-<img src="/img/charts/ludwig-kaiser_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/ludwig-kaiser_stats.png" width="200"> | **⚪️❌✅❌⚪️**<br>- Draw vs. Money in the Bank No Ladder Match<br>- Loss vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite<br>- Win vs. VF1: Chris Hero, Shawn Michaels, & Aoife Valkyrie vs. Sweet 'n Sour Elite<br>- Loss vs. HF2: Sweet 'n Sour Elite vs. Chyna, Seth Rollins, & Big Ryck<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Noam Dar\|Noam Dar]]<br>**Best Match:** 101% vs. Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (10x)
@@ -39,13 +40,6 @@ avg_rating: 82.81
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (4x)
 - [[Wrestler/Jay White\|Jay White]] (4x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (3x)
-
-## Letzte 5 Matches
-- 2024-01-29: Money in the Bank No [[Ladder]] Match in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — 🤝 Draw, 90%
-- 2024-01-29: Los Jinetes del Aire vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — ❌ Loss, 66%
-- 2023-12-15: VF1: [[Wrestler/Chris Hero\|Chris Hero]], [[Wrestler/Shawn Michaels\|Shawn Michaels]], & [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 75%
-- 2023-12-15: HF2: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Chyna\|Chyna]], [[Wrestler/Seth Rollins\|Seth Rollins]], & [[Wrestler/Big Ryck\|Big Ryck]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 81%
-- 2023-12-15: [[Wrestler/EC3\|EC3]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sting\|Sting]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 88%
 
 ## Top Matches
 - 101%: [[Elimination Chamber - Choke Slam World Championship]]: [[Wrestler/Mr. Fuji\|Mr. Fuji]] vs. [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] vs. [[Wrestler/Scott Steiner\|Scott Steiner]] vs. [[Wrestler/Austin Aries\|Austin Aries]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

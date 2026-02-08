@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 88
 wins: 37
 losses: 38
-elo: 1183
 draws: 13
 win_percent: 42.0
 avg_rating: 89.05
@@ -16,15 +15,17 @@ avg_rating: 89.05
 
 # Bret Hart
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bret_Hart.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 107kg<br><b>Finisher:</b> Sharpshooter<br><b>Elo Rating:</b> 1183</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bret_Hart.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 107kg<br><b>Finisher:</b> Sharpshooter</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 88 | 37 | 38 | 13 | 42.0% | 89.05 | 1183 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 88 | 37 | 38 | 13 | 42.0% | 89.05 |
 
-### 📊 Record
-<img src="/img/charts/bret-hart_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/bret-hart_stats.png" width="200"> | **❌✅✅✅✅**<br>- Win vs. Bret Hart & Owen Hart vs. Sweet 'n Sour Elite<br>- Win vs. Bret Hart & Owen Hart vs. Militanter Mummenschanz<br>- Win vs. Bret Hart & Owen Hart vs. Sweet 'n Sour Elite<br>- Win vs. Undisputed Era (Bobby Fish & Kyle O'Reilly) vs. Militanter Mummenschanz<br>- Loss vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (12x)
@@ -39,13 +40,6 @@ avg_rating: 89.05
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (6x)
 - [[Wrestler/CM Punk\|CM Punk]] (6x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (5x)
-
-## Letzte 5 Matches
-- 2025-12-30: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 88%
-- 2025-12-30: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 88%
-- 2025-12-30: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 97%
-- 2025-11-18: Undisputed Era ([[Wrestler/Bobby Fish\|Bobby Fish]] & [[Wrestler/Kyle O'Reilly\|Kyle O'Reilly]]) vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ✅ Win, 100%
-- 2025-11-18: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ❌ Loss, 95%
 
 ## Top Matches
 - 103%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 8
 wins: 1
 losses: 5
-elo: 1152
 draws: 2
 win_percent: 12.5
 avg_rating: 85.5
@@ -16,15 +15,17 @@ avg_rating: 85.5
 
 # Hollywood Hogan
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hollywood_Hogan.png" width="280"></td><td><b>Height:</b> 201cm<br><b>Weight:</b> 125kg<br><b>Finisher:</b> Hollywood Leg Drop<br><b>Elo Rating:</b> 1152</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hollywood_Hogan.png" width="280"></td><td><b>Height:</b> 201cm<br><b>Weight:</b> 125kg<br><b>Finisher:</b> Hollywood Leg Drop</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 8 | 1 | 5 | 2 | 12.5% | 85.50 | 1152 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 8 | 1 | 5 | 2 | 12.5% | 85.50 |
 
-### 📊 Record
-<img src="/img/charts/hollywood-hogan_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/hollywood-hogan_stats.png" width="200"> | **❌❌⚪️✅❌**<br>- Loss vs. Brock Lesnar vs. Hollywood Hogan<br>- Win vs. Hollywood Hogan vs. Kane<br>- Draw vs. Sting vs. Hollywood Hogan<br>- Loss vs. 1/4 Finale: Hollywood Hogan vs. Hulk Hogan<br>- Loss vs. Roman Reigns vs. Seth Rollins vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Lita<br> | **Nemesis:** [[Wrestler/Brutus Beefcake\|Brutus Beefcake]]<br>**Partner:** [[Wrestler/Brutus Beefcake\|Brutus Beefcake]]<br>**Best Match:** 100% vs. Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita |
 
 ## Häufigste Gegner
 - [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (2x)
@@ -39,13 +40,6 @@ avg_rating: 85.5
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (1x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
 - [[Wrestler/Lita\|Lita]] (1x)
-
-## Letzte 5 Matches
-- 2023-12-15: [[Wrestler/Brock Lesnar\|Brock Lesnar]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 88%
-- 2023-12-15: [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Kane\|Kane]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 82%
-- 2023-12-15: [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 58%
-- 2023-12-15: 1/4 Finale: [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 83%
-- 2023-12-15: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Lita\|Lita]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 99%
 
 ## Top Matches
 - 100%: [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] vs. [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Lita\|Lita]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)

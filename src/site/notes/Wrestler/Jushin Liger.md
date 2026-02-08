@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 17
 wins: 6
 losses: 10
-elo: 1140
 draws: 1
 win_percent: 35.3
 avg_rating: 89.0
@@ -16,15 +15,17 @@ avg_rating: 89.0
 
 # Jushin Liger
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jushin_Liger.png" width="280"></td><td><b>Height:</b> 170cm<br><b>Weight:</b> 95kg<br><b>Finisher:</b> Delayed Vertical Brainbuster<br><b>Elo Rating:</b> 1140</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jushin_Liger.png" width="280"></td><td><b>Height:</b> 170cm<br><b>Weight:</b> 95kg<br><b>Finisher:</b> Delayed Vertical Brainbuster</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 17 | 6 | 10 | 1 | 35.3% | 89.00 | 1140 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 17 | 6 | 10 | 1 | 35.3% | 89.00 |
 
-### 📊 Record
-<img src="/img/charts/jushin-liger_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/jushin-liger_stats.png" width="200"> | **❌❌✅❌⚪️**<br>- Draw vs. Andre the Giant Memorial Battle Royal<br>- Loss vs. Jushin Liger vs. KENTA<br>- Win vs. Jushin Liger vs. Austin Aries<br>- Loss vs. Cesaro  vs. Jushin Liger<br>- Loss vs. Jushin Liger vs. Gail Kim<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 102% vs. Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix |
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
@@ -39,13 +40,6 @@ avg_rating: 89.0
 - [[Wrestler/Killshot\|Killshot]] (3x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
-
-## Letzte 5 Matches
-- 2021-06-30: Andre the Giant Memorial [[Battle Royal]] in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 🤝 Draw, 89%
-- 2021-03-09: [[Wrestler/Jushin Liger\|Jushin Liger]] vs. [[Wrestler/KENTA\|KENTA]] in [[Events/2021-03-09 - S03E06_Swiss Bliss - Return of the King\|S03E06_Swiss Bliss - Return of the King]] — ❌ Loss, 82%
-- 2021-03-09: [[Wrestler/Jushin Liger\|Jushin Liger]] vs. [[Wrestler/Austin Aries\|Austin Aries]] in [[Events/2021-03-09 - S03E06_Swiss Bliss - A New Hope\|S03E06_Swiss Bliss - A New Hope]] — ✅ Win, 91%
-- 2021-02-25: [[Wrestler/Cesaro\|Cesaro]]  vs. [[Wrestler/Jushin Liger\|Jushin Liger]] in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] — ❌ Loss, 85%
-- 2021-02-25: [[Wrestler/Jushin Liger\|Jushin Liger]] vs. [[Wrestler/Gail Kim\|Gail Kim]] in [[Events/2021-02-25 - S03E06_Swiss Bliss - Tokyo Drift\|S03E06_Swiss Bliss - Tokyo Drift]] — ❌ Loss, 82%
 
 ## Top Matches
 - 102%: [[Wrestler/Jushin Liger\|Jushin Liger]] vs. [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Wrestler/Rey Fenix\|Rey Fenix]] in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] (2020-10-13)

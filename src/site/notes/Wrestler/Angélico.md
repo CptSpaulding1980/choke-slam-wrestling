@@ -9,7 +9,6 @@ img: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download
 matches: 19
 wins: 8
 losses: 7
-elo: 1220
 draws: 4
 win_percent: 42.1
 avg_rating: 85.37
@@ -17,15 +16,17 @@ avg_rating: 85.37
 
 # Angélico
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Angélico.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 90kg<br><b>Finisher:</b> Fall of the Angels<br><b>Elo Rating:</b> 1220</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Angélico.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 90kg<br><b>Finisher:</b> Fall of the Angels</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 19 | 8 | 7 | 4 | 42.1% | 85.37 | 1220 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 19 | 8 | 7 | 4 | 42.1% | 85.37 |
 
-### 📊 Record
-<img src="/img/charts/anglico_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/anglico_stats.png" width="200"> | **⚪️✅❌✅❌**<br>- Loss vs. Angelico & Ivelisse vs. Claudio Castagnoli & Pac<br>- Win vs. Angelico & Ivelisse vs. Path of God<br>- Loss vs. Saint Rebel Radicalz vs. Angelico, Ivelisse<br>- Win vs. Angelico, Ivelisse vs. Path of God<br>- Draw vs. Money in the Bank No Ladder Match<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Becky Lynch\|Becky Lynch]]<br>**Best Match:** 100% vs. Angélico & Mansoor vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (6x)
@@ -40,13 +41,6 @@ avg_rating: 85.37
 - [[Wrestler/Ivelisse\|Ivelisse]] (4x)
 - [[Wrestler/Cesaro\|Cesaro]] (3x)
 - [[Wrestler/Dalton Castle\|Dalton Castle]] (3x)
-
-## Letzte 5 Matches
-- 2024-10-22: Angelico & [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] & [[Wrestler/Pac\|Pac]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ❌ Loss, 88%
-- 2024-10-22: Angelico & [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Teams/Path of God\|Path of God]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ✅ Win, 77%
-- 2024-10-22: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Angelico, [[Wrestler/Ivelisse\|Ivelisse]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ❌ Loss, 88%
-- 2024-10-22: Angelico, [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Teams/Path of God\|Path of God]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ✅ Win, 86%
-- 2024-01-29: Money in the Bank No [[Ladder]] Match in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — 🤝 Draw, 90%
 
 ## Top Matches
 - 100%: [[Wrestler/Angélico\|Angélico]] & [[Wrestler/Mansoor\|Mansoor]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)

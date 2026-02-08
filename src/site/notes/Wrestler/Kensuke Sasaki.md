@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 25
 wins: 13
 losses: 9
-elo: 1244
 draws: 3
 win_percent: 52.0
 avg_rating: 86.84
@@ -16,15 +15,17 @@ avg_rating: 86.84
 
 # Kensuke Sasaki
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kensuke_Sasaki.png" width="280"></td><td><b>Height:</b> 180cm<br><b>Weight:</b> 115kg<br><b>Finisher:</b> Northern Lights Bomb<br><b>Elo Rating:</b> 1244</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kensuke_Sasaki.png" width="280"></td><td><b>Height:</b> 180cm<br><b>Weight:</b> 115kg<br><b>Finisher:</b> Northern Lights Bomb</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 25 | 13 | 9 | 3 | 52.0% | 86.84 | 1244 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 25 | 13 | 9 | 3 | 52.0% | 86.84 |
 
-### 📊 Record
-<img src="/img/charts/kensuke-sasaki_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/kensuke-sasaki_stats.png" width="200"> | **✅✅✅❌✅**<br>- Win vs. Kensuke Sasaki vs. Lady Apache vs. Bandido<br>- Loss vs. Wardlow vs. Kensuke Sasaki vs. Jay White<br>- Win vs. Bam Bam Bigelow vs. Kensuke Sasaki vs. Bret Hart<br>- Win vs. Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c)<br>- Win vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Wardlow\|Wardlow]]<br>**Partner:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Wardlow\|Wardlow]] (6x)
@@ -39,13 +40,6 @@ avg_rating: 86.84
 - [[Wrestler/Jay White\|Jay White]] (2x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)
-
-## Letzte 5 Matches
-- 2025-10-27: [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] vs. [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Bandido\|Bandido]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ✅ Win, 99%
-- 2025-10-27: [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] vs. [[Wrestler/Jay White\|Jay White]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ❌ Loss, 91%
-- 2025-10-27: [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] vs. [[Wrestler/Bret Hart\|Bret Hart]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ✅ Win, 95%
-- 2025-10-27: [[Choke Slam Tag Team Championship]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] (c) in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ✅ Win, 93%
-- 2025-10-02: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ✅ Win, 88%
 
 ## Top Matches
 - 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)

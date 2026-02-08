@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 8
 wins: 3
 losses: 2
-elo: 1212
 draws: 3
 win_percent: 37.5
 avg_rating: 91.75
@@ -16,15 +15,17 @@ avg_rating: 91.75
 
 # Sid Vicious
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sid_Vicious.png" width="280"></td><td><b>Height:</b> 205cm<br><b>Weight:</b> 144kg<br><b>Finisher:</b> Powerbomb<br><b>Elo Rating:</b> 1212</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sid_Vicious.png" width="280"></td><td><b>Height:</b> 205cm<br><b>Weight:</b> 144kg<br><b>Finisher:</b> Powerbomb</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 8 | 3 | 2 | 3 | 37.5% | 91.75 | 1212 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 8 | 3 | 2 | 3 | 37.5% | 91.75 |
 
-### 📊 Record
-<img src="/img/charts/sid-vicious_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/sid-vicious_stats.png" width="200"> | **✅✅⚪️⚪️⚪️**<br>- Draw vs. The Greatest Royal Rumble<br>- Draw vs. Greatest Rumble ever<br>- Draw vs. Andre the Giant Memorial Battle Royal<br>- Win vs. Sid Vicious vs. Hulk Hogan<br>- Win vs. Kings Court vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Randy Orton\|Randy Orton]]<br>**Partner:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Best Match:** 101% vs. World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Orton\|Randy Orton]] (3x)
@@ -38,13 +39,6 @@ avg_rating: 91.75
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
-
-## Letzte 5 Matches
-- 2021-10-17: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] — 🤝 Draw, 91%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 🤝 Draw, 90%
-- 2020-09-07: Andre the Giant Memorial [[Battle Royal]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] — 🤝 Draw, 82%
-- 2020-09-07: [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] — ✅ Win, 99%
-- 2020-06-29: Kings Court vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] — ✅ Win, 76%
 
 ## Top Matches
 - 101%: [[World Title]] #1 Contender Elimination Match: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/The Undertaker\|The Undertaker]] in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)

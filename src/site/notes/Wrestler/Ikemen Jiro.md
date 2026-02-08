@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 8
 wins: 5
 losses: 2
-elo: 1242
 draws: 1
 win_percent: 62.5
 avg_rating: 83.88
@@ -16,15 +15,17 @@ avg_rating: 83.88
 
 # Ikemen Jiro
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ikemen_Jiro.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1242</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ikemen_Jiro.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 8 | 5 | 2 | 1 | 62.5% | 83.88 | 1242 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 8 | 5 | 2 | 1 | 62.5% | 83.88 |
 
-### 📊 Record
-<img src="/img/charts/ikemen-jiro_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/ikemen-jiro_stats.png" width="200"> | **✅✅⚪️✅✅**<br>- Win vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Win vs. Eight Man Tag: Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Draw vs. What if... Battle Royal<br>- Win vs. Johnny Grunge & Rocco Rock vs. Sweet 'n Sour Elite<br>- Win vs. Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Militanter Mummenschanz (vacant)<br> | **Nemesis:** [[Wrestler/Grayson Waller\|Grayson Waller]]<br>**Partner:** [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]]<br>**Best Match:** 96% vs. Davey Boy Smith vs. Gigi Dolin vs. Bull Nakano vs. Ikemen Jiro vs. Brandon vs. Grayson Waller vs. Dover  vs. Icárús  |
 
 ## Häufigste Gegner
 - [[Wrestler/Grayson Waller\|Grayson Waller]] (4x)
@@ -38,13 +39,6 @@ avg_rating: 83.88
 - [[Wrestler/Bull Nakano\|Bull Nakano]] (3x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (3x)
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
-
-## Letzte 5 Matches
-- 2023-07-30: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] — ✅ Win, 90%
-- 2023-07-30: Eight Man Tag: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] — ✅ Win, 70%
-- 2023-07-30: What if... [[Battle Royal]] in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] — 🤝 Draw, 94%
-- 2023-06-26: [[Wrestler/Johnny Grunge\|Johnny Grunge]] & [[Wrestler/Rocco Rock\|Rocco Rock]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ✅ Win, 76%
-- 2023-05-30: [[Choke Slam Trios Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] (vacant) in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] — ✅ Win, 89%
 
 ## Top Matches
 - 96%: [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] vs. [[Wrestler/Gigi Dolin\|Gigi Dolin]] vs. [[Wrestler/Bull Nakano\|Bull Nakano]] vs. [[Wrestler/Ikemen Jiro\|Ikemen Jiro]] vs. [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Grayson Waller\|Grayson Waller]] vs. [[Wrestler/Dover\|Dover]]  vs. [[Wrestler/Icárús\|Icárús]]  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] (2023-04-03)

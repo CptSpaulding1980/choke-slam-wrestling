@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 18
 wins: 7
 losses: 11
-elo: 1167
 draws: 0
 win_percent: 38.9
 avg_rating: 89.11
@@ -16,15 +15,17 @@ avg_rating: 89.11
 
 # Akira Taue
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 118kg<br><b>Finisher:</b> Nodowa Otoshi<br><b>Elo Rating:</b> 1167</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 118kg<br><b>Finisher:</b> Nodowa Otoshi</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 18 | 7 | 11 | 0 | 38.9% | 89.11 | 1167 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 18 | 7 | 11 | 0 | 38.9% | 89.11 |
 
-### 📊 Record
-<img src="/img/charts/akira-taue_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/akira-taue_stats.png" width="200"> | **✅✅❌✅❌**<br>- Loss vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Win vs. Sweet 'n Sour Elite vs. Finn Bálor & Dominik Mysterio<br>- Loss vs. Bret Hart & Owen Hart vs. Sweet 'n Sour Elite<br>- Win vs. Mosh & Thrasher vs. Sweet 'n Sour Elite<br>- Win vs. Big E & Kofi Kingston vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
@@ -39,13 +40,6 @@ avg_rating: 89.11
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (4x)
 - [[Wrestler/Adam Page\|Adam Page]] (2x)
 - [[Wrestler/Wardlow\|Wardlow]] (1x)
-
-## Letzte 5 Matches
-- 2025-12-30: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 87%
-- 2025-12-30: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Finn Bálor\|Finn Bálor]] & [[Wrestler/Dominik Mysterio\|Dominik Mysterio]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 91%
-- 2025-12-30: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 97%
-- 2025-11-18: [[Wrestler/Mosh\|Mosh]] & [[Wrestler/Thrasher\|Thrasher]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ✅ Win, 93%
-- 2025-11-18: [[Wrestler/Big E\|Big E]] & [[Wrestler/Kofi Kingston\|Kofi Kingston]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ✅ Win, 97%
 
 ## Top Matches
 - 104%: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Akira Taue\|Akira Taue]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)

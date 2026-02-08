@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 32
 wins: 11
 losses: 19
-elo: 1105
 draws: 2
 win_percent: 34.4
 avg_rating: 86.53
@@ -16,15 +15,17 @@ avg_rating: 86.53
 
 # Lex Luger
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lex_Luger.png" width="280"></td><td><b>Height:</b> 197cm<br><b>Weight:</b> 125kg<br><b>Finisher:</b> Torture Rack<br><b>Elo Rating:</b> 1105</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lex_Luger.png" width="280"></td><td><b>Height:</b> 197cm<br><b>Weight:</b> 125kg<br><b>Finisher:</b> Torture Rack</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 32 | 11 | 19 | 2 | 34.4% | 86.53 | 1105 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 32 | 11 | 19 | 2 | 34.4% | 86.53 |
 
-### 📊 Record
-<img src="/img/charts/lex-luger_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/lex-luger_stats.png" width="200"> | **❌✅❌❌❌**<br>- Loss vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br>- Loss vs. Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz<br>- Loss vs. Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c)<br>- Win vs. Trios League: Sweet 'n Sour Elite vs. Militanter Mummenschanz<br>- Loss vs. Last Man Standing: Lex Luger vs. Roman Reigns<br> | **Nemesis:** [[Wrestler/Steve Austin\|Steve Austin]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Lex Luger & Kurt Angle |
 
 ## Häufigste Gegner
 - [[Wrestler/Steve Austin\|Steve Austin]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 86.53
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (6x)
 - [[Wrestler/Wardlow\|Wardlow]] (6x)
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
-
-## Letzte 5 Matches
-- 2025-10-02: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ❌ Loss, 88%
-- 2025-10-02: [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]], [[Wrestler/Pac\|Pac]] & [[Wrestler/Rey Fenix\|Rey Fenix]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ❌ Loss, 80%
-- 2025-10-02: [[Choke Slam World Championship]]: [[Wrestler/Chris Jericho\|Chris Jericho]] vs. [[Wrestler/Daniel Bryan\|Daniel Bryan]] vs. [[Wrestler/Lex Luger\|Lex Luger]] vs. [[Wrestler/Kevin Steen\|Kevin Steen]] vs. [[Wrestler/Steve Austin\|Steve Austin]] vs.  [[Wrestler/Roman Reigns\|Roman Reigns]] (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ❌ Loss, 100%
-- 2025-09-04: Trios League: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] — ✅ Win, 90%
-- 2025-09-04: [[Last Man Standing]]: [[Wrestler/Lex Luger\|Lex Luger]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] — ❌ Loss, 86%
 
 ## Top Matches
 - 100%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Lex Luger\|Lex Luger]] & [[Wrestler/Kurt Angle\|Kurt Angle]] in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|S03E09_USA - Day 1 - Cool, Cooler, Icecold]] (2021-04-29)

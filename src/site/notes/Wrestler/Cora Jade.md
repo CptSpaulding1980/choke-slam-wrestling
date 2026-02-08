@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 11
 wins: 1
 losses: 7
-elo: 1116
 draws: 3
 win_percent: 9.1
 avg_rating: 79.36
@@ -16,15 +15,17 @@ avg_rating: 79.36
 
 # Cora Jade
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cora_Jade.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1116</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cora_Jade.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 11 | 1 | 7 | 3 | 9.1% | 79.36 | 1116 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 11 | 1 | 7 | 3 | 9.1% | 79.36 |
 
-### 📊 Record
-<img src="/img/charts/cora-jade_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/cora-jade_stats.png" width="200"> | **❌⚪️⚪️❌❌**<br>- Loss vs. Militanter Mummenschanz vs. Nature Game Masters <br>- Loss vs. Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters <br>- Draw vs. What if... Battle Royal<br>- Draw vs. Womens Royal Rumble<br>- Loss vs. Alexa Bliss vs. Cora Jade<br> | **Nemesis:** [[Wrestler/Gigi Dolin\|Gigi Dolin]]<br>**Partner:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Best Match:** 94% vs. What if... Battle Royal |
 
 ## Häufigste Gegner
 - [[Wrestler/Gigi Dolin\|Gigi Dolin]] (4x)
@@ -39,13 +40,6 @@ avg_rating: 79.36
 - [[Wrestler/Bryan Danielson\|Bryan Danielson]] (1x)
 - [[Wrestler/Gunther\|Gunther]] (1x)
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
-
-## Letzte 5 Matches
-- 2023-07-30: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] — ❌ Loss, 81%
-- 2023-07-30: Eight Man Tag: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] — ❌ Loss, 80%
-- 2023-07-30: What if... [[Battle Royal]] in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] — 🤝 Draw, 94%
-- 2023-02-22: Womens [[Royal Rumble]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] — 🤝 Draw, 88%
-- 2022-12-16: [[Wrestler/Alexa Bliss\|Alexa Bliss]] vs. [[Wrestler/Cora Jade\|Cora Jade]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] — ❌ Loss, 80%
 
 ## Top Matches
 - 94%: What if... [[Battle Royal]] in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)

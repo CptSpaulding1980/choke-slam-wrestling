@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 14
 wins: 4
 losses: 5
-elo: 1191
 draws: 5
 win_percent: 28.6
 avg_rating: 88.79
@@ -16,15 +15,17 @@ avg_rating: 88.79
 
 # Hendrique Delafuente
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1191</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 14 | 4 | 5 | 5 | 28.6% | 88.79 | 1191 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 14 | 4 | 5 | 5 | 28.6% | 88.79 |
 
-### 📊 Record
-<img src="/img/charts/hendrique-delafuente_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/hendrique-delafuente_stats.png" width="200"> | **⚪️❌✅⚪️⚪️**<br>- Draw vs. Oerel Bardahl<br>- Draw vs. Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c)<br>- Win vs. Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Los Jinetes del Aire (c)<br>- Loss vs. Choke Slam Trios Championship: Militanter Mummenschanz vs. Sweet 'n Sour Elite (c)<br>- Draw vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente<br> | **Nemesis:** [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]]<br>**Partner:** [[Wrestler/Rush\|Rush]]<br>**Best Match:** 100% vs. Sweet 'n Sour Elite vs. EL Torito & Little Beaver |
 
 ## Häufigste Gegner
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 88.79
 - [[Wrestler/Triple H\|Triple H]] (3x)
 - [[Wrestler/Bandido\|Bandido]] (2x)
 - [[Wrestler/Fit Finlay\|Fit Finlay]] (2x)
-
-## Letzte 5 Matches
-- 2025-08-21: Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] — 🤝 Draw, 85%
-- 2025-08-21: [[Choke Slam Womens Championship]]: [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] vs. [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Awesome Kong\|Awesome Kong]] vs. vs. [[Wrestler/Sasha Banks\|Sasha Banks]] vs. [[Wrestler/Kiana James\|Kiana James]] (c) in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] — 🤝 Draw, 94%
-- 2025-08-12: [[Choke Slam Trios Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Los Jinetes del Aire (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ✅ Win, 92%
-- 2025-08-12: [[Choke Slam Trios Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ❌ Loss, 92%
-- 2023-12-15: Interview Segment /w [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] & [[Wrestler/Pascal LePas\|Pascal LePas]] & [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 100%
 
 ## Top Matches
 - 100%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. EL Torito & [[Wrestler/Little Beaver\|Little Beaver]] in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)

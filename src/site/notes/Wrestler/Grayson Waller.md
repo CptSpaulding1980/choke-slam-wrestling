@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 24
 wins: 8
 losses: 9
-elo: 1180
 draws: 7
 win_percent: 33.3
 avg_rating: 89.04
@@ -16,15 +15,17 @@ avg_rating: 89.04
 
 # Grayson Waller
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Grayson_Waller.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1180</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Grayson_Waller.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 24 | 8 | 9 | 7 | 33.3% | 89.04 | 1180 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 24 | 8 | 9 | 7 | 33.3% | 89.04 |
 
-### 📊 Record
-<img src="/img/charts/grayson-waller_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/grayson-waller_stats.png" width="200"> | **❌❌⚪️✅❌**<br>- Loss vs. Choke Slam Tag Team Championship: Bret Hart & Jon Moxley vs. Saint Rebel Radicalz<br>- Win vs. Dune (2 vs 4 Handicap): Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Draw vs. Dune (2 vs 4 Handicap): Saint Rebel Radicalz vs. Militanter Mummenschanz<br>- Loss vs. Saint Rebel Radicalz vs. Sweet 'n Sour Elite<br>- Loss vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Brandon\|Brandon]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (7x)
@@ -39,13 +40,6 @@ avg_rating: 89.04
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
 - [[Wrestler/Gigi Dolin\|Gigi Dolin]] (1x)
 - [[Wrestler/Jay White\|Jay White]] (1x)
-
-## Letzte 5 Matches
-- 2023-11-03: [[Choke Slam Tag Team Championship]]: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Jon Moxley\|Jon Moxley]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] — ❌ Loss, 94%
-- 2023-11-03: Dune (2 vs 4 Handicap): [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] — ✅ Win, 86%
-- 2023-11-03: Dune (2 vs 4 Handicap): [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] — 🤝 Draw, 73%
-- 2023-10-09: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] — ❌ Loss, 99%
-- 2023-10-09: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] — ❌ Loss, 103%
 
 ## Top Matches
 - 103%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

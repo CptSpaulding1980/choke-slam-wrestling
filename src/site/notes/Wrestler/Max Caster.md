@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 3
 wins: 0
 losses: 3
-elo: 1158
 draws: 0
 win_percent: 0.0
 avg_rating: 83.67
@@ -16,15 +15,17 @@ avg_rating: 83.67
 
 # Max Caster
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Max_Caster.png" width="280"></td><td><b>Height:</b> 189cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Mic Drop<br><b>Elo Rating:</b> 1158</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Max_Caster.png" width="280"></td><td><b>Height:</b> 189cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Mic Drop</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 3 | 0 | 3 | 0 | 0.0% | 83.67 | 1158 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 3 | 0 | 3 | 0 | 0.0% | 83.67 |
 
-### 📊 Record
-<img src="/img/charts/max-caster_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/max-caster_stats.png" width="200"> | **❌❌❌**<br>- Loss vs. Militanter Mummenschanz vs. Max Caster & Anthony Bowens<br>- Loss vs. Sweet 'n Sour Elite vs. Max Caster & Anthony Bowens<br>- Loss vs. Saint Rebel Radicalz vs. Max Caster & Anthony Bowens<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Anthony Bowens\|Anthony Bowens]]<br>**Best Match:** 89% vs. Militanter Mummenschanz vs. Max Caster & Anthony Bowens |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
@@ -35,11 +36,6 @@ avg_rating: 83.67
 
 ## Häufigste Partner
 - [[Wrestler/Anthony Bowens\|Anthony Bowens]] (3x)
-
-## Letzte 5 Matches
-- 2022-10-02: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] — ❌ Loss, 89%
-- 2022-10-02: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] — ❌ Loss, 86%
-- 2022-10-02: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] — ❌ Loss, 76%
 
 ## Top Matches
 - 89%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)

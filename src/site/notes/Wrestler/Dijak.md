@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 23
 wins: 7
 losses: 13
-elo: 1144
 draws: 3
 win_percent: 30.4
 avg_rating: 82.61
@@ -16,15 +15,17 @@ avg_rating: 82.61
 
 # Dijak
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dijak.png" width="280"></td><td><b>Height:</b> 201cm<br><b>Weight:</b> 123kg<br><b>Finisher:</b> Feast Your Eyes<br><b>Elo Rating:</b> 1144</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dijak.png" width="280"></td><td><b>Height:</b> 201cm<br><b>Weight:</b> 123kg<br><b>Finisher:</b> Feast Your Eyes</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 23 | 7 | 13 | 3 | 30.4% | 82.61 | 1144 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 23 | 7 | 13 | 3 | 30.4% | 82.61 |
 
-### 📊 Record
-<img src="/img/charts/dijak_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/dijak_stats.png" width="200"> | **❌❌❌❌✅**<br>- Win vs. B: Joe Coffey vs. Dijak<br>- Loss vs. B: Dijak vs. Triple H<br>- Loss vs. B: Claudio Castagnoli vs. Dijak<br>- Loss vs. B: Dijak vs. Masahiro Chono<br>- Loss vs. South East Division: Hiroshi Tanahashi vs. Dijak<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Jordynne Grace\|Jordynne Grace]]<br>**Best Match:** 98% vs. Dijak vs. Kofi Kingston |
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (4x)
@@ -39,13 +40,6 @@ avg_rating: 82.61
 - [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
 - [[Wrestler/Gunther\|Gunther]] (1x)
-
-## Letzte 5 Matches
-- 2024-09-09: B: [[Wrestler/Joe Coffey\|Joe Coffey]] vs. [[Wrestler/Dijak\|Dijak]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — ✅ Win, 78%
-- 2024-09-09: B: [[Wrestler/Dijak\|Dijak]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — ❌ Loss, 85%
-- 2024-09-09: B: [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] vs. [[Wrestler/Dijak\|Dijak]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — ❌ Loss, 78%
-- 2024-09-09: B: [[Wrestler/Dijak\|Dijak]] vs. [[Wrestler/Masahiro Chono\|Masahiro Chono]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — ❌ Loss, 83%
-- 2024-07-19: South East Division: [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs. [[Wrestler/Dijak\|Dijak]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] — ❌ Loss, 66%
 
 ## Top Matches
 - 98%: [[Wrestler/Dijak\|Dijak]] vs. [[Wrestler/Kofi Kingston\|Kofi Kingston]] in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)

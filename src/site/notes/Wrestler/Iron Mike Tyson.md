@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 2
 wins: 1
 losses: 1
-elo: 1200
 draws: 0
 win_percent: 50.0
 avg_rating: 91.5
@@ -16,15 +15,17 @@ avg_rating: 91.5
 
 # Iron Mike Tyson
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Iron_Mike_Tyson.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1200</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Iron_Mike_Tyson.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 2 | 1 | 1 | 0 | 50.0% | 91.50 | 1200 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 2 | 1 | 1 | 0 | 50.0% | 91.50 |
 
-### 📊 Record
-<img src="/img/charts/iron-mike-tyson_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/iron-mike-tyson_stats.png" width="200"> | **✅❌**<br>- Loss vs. EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson<br>- Win vs. Triple H & Iron Mike Tyson vs. Shawn Michaels & Logan Paul<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Triple H\|Triple H]]<br>**Best Match:** 94% vs. EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)
@@ -34,10 +35,6 @@ avg_rating: 91.5
 
 ## Häufigste Partner
 - [[Wrestler/Triple H\|Triple H]] (2x)
-
-## Letzte 5 Matches
-- 2022-11-17: [[Wrestler/EC3\|EC3]] & [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] vs. [[Wrestler/Triple H\|Triple H]] & [[Wrestler/Iron Mike Tyson\|Iron Mike Tyson]] in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] — ❌ Loss, 94%
-- 2022-11-17: [[Wrestler/Triple H\|Triple H]] & [[Wrestler/Iron Mike Tyson\|Iron Mike Tyson]] vs. [[Wrestler/Shawn Michaels\|Shawn Michaels]] & [[Wrestler/Logan Paul\|Logan Paul]] in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] — ✅ Win, 89%
 
 ## Top Matches
 - 94%: [[Wrestler/EC3\|EC3]] & [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] vs. [[Wrestler/Triple H\|Triple H]] & [[Wrestler/Iron Mike Tyson\|Iron Mike Tyson]] in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)

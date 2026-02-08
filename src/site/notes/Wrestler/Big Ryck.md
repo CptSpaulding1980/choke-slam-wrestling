@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 11
 wins: 3
 losses: 4
-elo: 1190
 draws: 4
 win_percent: 27.3
 avg_rating: 86.91
@@ -16,15 +15,17 @@ avg_rating: 86.91
 
 # Big Ryck
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Ryck.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1190</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Ryck.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 11 | 3 | 4 | 4 | 27.3% | 86.91 | 1190 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 11 | 3 | 4 | 4 | 27.3% | 86.91 |
 
-### 📊 Record
-<img src="/img/charts/big-ryck_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/big-ryck_stats.png" width="200"> | **❌✅✅⚪️✅**<br>- Win vs. Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe<br>- Draw vs. Royal Rumble<br>- Win vs. VF3: Big Van Vader, Madison Rayne, & Triple H vs. Chyna, Seth Rollins, & Big Ryck<br>- Win vs. HF2: Sweet 'n Sour Elite vs. Chyna, Seth Rollins, & Big Ryck<br>- Loss vs. Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Chyna\|Chyna]]<br>**Best Match:** 98% vs. Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 86.91
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (3x)
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (3x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
-
-## Letzte 5 Matches
-- 2025-01-16: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Big Ryck\|Big Ryck]], [[Wrestler/Chyna\|Chyna]], [[Wrestler/Big Van Vader\|Big Van Vader]], & [[Wrestler/Samoa Joe\|Samoa Joe]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ✅ Win, 85%
-- 2025-01-16: [[Royal Rumble]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — 🤝 Draw, 89%
-- 2023-12-15: VF3: [[Wrestler/Big Van Vader\|Big Van Vader]], [[Wrestler/Madison Rayne\|Madison Rayne]], & [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Chyna\|Chyna]], [[Wrestler/Seth Rollins\|Seth Rollins]], & [[Wrestler/Big Ryck\|Big Ryck]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 76%
-- 2023-12-15: HF2: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Chyna\|Chyna]], [[Wrestler/Seth Rollins\|Seth Rollins]], & [[Wrestler/Big Ryck\|Big Ryck]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 81%
-- 2023-12-15: Finale: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Ryck\|Big Ryck]], [[Wrestler/Chyna\|Chyna]] & [[Wrestler/Seth Rollins\|Seth Rollins]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 98%
 
 ## Top Matches
 - 98%: Finale: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Ryck\|Big Ryck]], [[Wrestler/Chyna\|Chyna]] & [[Wrestler/Seth Rollins\|Seth Rollins]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)

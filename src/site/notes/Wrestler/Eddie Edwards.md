@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 27
 wins: 10
 losses: 9
-elo: 1212
 draws: 8
 win_percent: 37.0
 avg_rating: 86.56
@@ -16,15 +15,17 @@ avg_rating: 86.56
 
 # Eddie Edwards
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Eddie_Edwards.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 97kg<br><b>Finisher:</b> Achilles Hold<br><b>Elo Rating:</b> 1212</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Eddie_Edwards.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 97kg<br><b>Finisher:</b> Achilles Hold</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 27 | 10 | 9 | 8 | 37.0% | 86.56 | 1212 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 27 | 10 | 9 | 8 | 37.0% | 86.56 |
 
-### 📊 Record
-<img src="/img/charts/eddie-edwards_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/eddie-edwards_stats.png" width="200"> | **✅❌⚪️✅✅**<br>- Win vs. Militanter Mummenschanz vs. Nature Game Masters <br>- Win vs. Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters <br>- Draw vs. What if... Battle Royal<br>- Loss vs. Gruesome Fighting: Taz vs. Eddie Edwards<br>- Win vs. Jerry Lynn vs. Eddie Edwards<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Kenny Omega\|Kenny Omega]]<br>**Best Match:** 100% vs. Carat First Round: Pac vs. Eddie Edwards |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 86.56
 - [[Wrestler/Miro\|Miro]] (3x)
 - [[Wrestler/Gigi Dolin\|Gigi Dolin]] (3x)
 - [[Wrestler/Fit Finlay\|Fit Finlay]] (1x)
-
-## Letzte 5 Matches
-- 2023-07-30: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] — ✅ Win, 81%
-- 2023-07-30: Eight Man Tag: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] — ✅ Win, 80%
-- 2023-07-30: What if... [[Battle Royal]] in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] — 🤝 Draw, 94%
-- 2023-06-26: Gruesome Fighting: [[Wrestler/Taz\|Taz]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ❌ Loss, 83%
-- 2023-06-26: [[Wrestler/Jerry Lynn\|Jerry Lynn]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ✅ Win, 87%
 
 ## Top Matches
 - 100%: Carat First Round: [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)

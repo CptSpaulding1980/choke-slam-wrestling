@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 33
 wins: 12
 losses: 15
-elo: 1180
 draws: 6
 win_percent: 36.4
 avg_rating: 87.06
@@ -16,15 +15,17 @@ avg_rating: 87.06
 
 # Rush
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rush.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Rush Driver<br><b>Elo Rating:</b> 1180</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rush.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Rush Driver</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 33 | 12 | 15 | 6 | 36.4% | 87.06 | 1180 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 33 | 12 | 15 | 6 | 36.4% | 87.06 |
 
-### 📊 Record
-<img src="/img/charts/rush_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/rush_stats.png" width="200"> | **⚪️⚪️❌❌❌**<br>- Loss vs. Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair<br>- Loss vs. Roman Reigns vs. Seth Rollins vs. Tommy End vs. Rush vs. Bret Hart vs. Miro<br>- Loss vs. Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br>- Draw vs. Andre The Giant Memorial Battle Royal<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Madison Rayne\|Madison Rayne]]<br>**Best Match:** 101% vs. Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (7x)
@@ -39,13 +40,6 @@ avg_rating: 87.06
 - [[Wrestler/Marius Al-Ani\|Marius Al-Ani]] (3x)
 - [[Wrestler/Tommy End\|Tommy End]] (3x)
 - [[Wrestler/Triple H\|Triple H]] (2x)
-
-## Letzte 5 Matches
-- 2023-12-15: [[Wrestler/Shawn Michaels\|Shawn Michaels]] vs. [[Wrestler/Diesel\|Diesel]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Ric Flair\|Ric Flair]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 93%
-- 2023-12-15: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Miro\|Miro]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 92%
-- 2023-12-15: [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] vs. [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Lita\|Lita]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 99%
-- 2023-12-15: [[Wrestler/EC3\|EC3]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sting\|Sting]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 88%
-- 2022-11-17: Andre The Giant Memorial [[Battle Royal]] in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] — 🤝 Draw, 95%
 
 ## Top Matches
 - 101%: Trash TV: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)

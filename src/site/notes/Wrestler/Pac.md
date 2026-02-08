@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 23
 wins: 11
 losses: 8
-elo: 1240
 draws: 4
 win_percent: 47.8
 avg_rating: 86.74
@@ -16,15 +15,17 @@ avg_rating: 86.74
 
 # Pac
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pac.png" width="280"></td><td><b>Height:</b> 169cm<br><b>Weight:</b> 93kg<br><b>Finisher:</b> The Brutalizer<br><b>Elo Rating:</b> 1240</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pac.png" width="280"></td><td><b>Height:</b> 169cm<br><b>Weight:</b> 93kg<br><b>Finisher:</b> The Brutalizer</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 23 | 11 | 8 | 4 | 47.8% | 86.74 | 1240 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 23 | 11 | 8 | 4 | 47.8% | 86.74 |
 
-### 📊 Record
-<img src="/img/charts/pac_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/pac_stats.png" width="200"> | **✅❌❌✅❌**<br>- Loss vs. Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac<br>- Win vs. Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz<br>- Loss vs. Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo<br>- Loss vs. Saint Rebel Radicalz vs. Pac, Penta El Zero Miedo & Rey Fenix<br>- Win vs. Angelico & Ivelisse vs. Claudio Castagnoli & Pac<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]]<br>**Best Match:** 100% vs. Carat First Round: Pac vs. Eddie Edwards |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (4x)
@@ -39,13 +40,6 @@ avg_rating: 86.74
 - [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] (4x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
 - [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (1x)
-
-## Letzte 5 Matches
-- 2025-10-02: [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Trent Seven\|Trent Seven]] & [[Wrestler/Tyler Bate\|Tyler Bate]] vs. [[Wrestler/Rey Fenix\|Rey Fenix]], [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] & [[Wrestler/Pac\|Pac]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ❌ Loss, 87%
-- 2025-10-02: [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]], [[Wrestler/Pac\|Pac]] & [[Wrestler/Rey Fenix\|Rey Fenix]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ✅ Win, 80%
-- 2025-09-04: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Pac\|Pac]], [[Wrestler/Rey Fenix\|Rey Fenix]], & [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] — ❌ Loss, 93%
-- 2025-09-04: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Pac\|Pac]], [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] & [[Wrestler/Rey Fenix\|Rey Fenix]] in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] — ❌ Loss, 92%
-- 2024-10-22: Angelico & [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] & [[Wrestler/Pac\|Pac]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ✅ Win, 88%
 
 ## Top Matches
 - 100%: Carat First Round: [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)

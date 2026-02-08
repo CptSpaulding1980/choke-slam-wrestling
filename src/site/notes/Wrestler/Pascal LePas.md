@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 6
 wins: 0
 losses: 2
-elo: 1170
 draws: 4
 win_percent: 0.0
 avg_rating: 92.0
@@ -16,15 +15,17 @@ avg_rating: 92.0
 
 # Pascal LePas
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1170</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 6 | 0 | 2 | 4 | 0.0% | 92.00 | 1170 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 6 | 0 | 2 | 4 | 0.0% | 92.00 |
 
-### 📊 Record
-<img src="/img/charts/pascal-lepas_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/pascal-lepas_stats.png" width="200"> | **❌❌⚪️⚪️⚪️**<br>- Draw vs. Oerel Bardahl<br>- Draw vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente<br>- Draw vs. What if... Battle Royal<br>- Loss vs. Saint Rebel Radicalz vs. Dink  & Hornswoggle<br>- Loss vs. Threeway Fiasko<br> | **Nemesis:** [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]]<br>**Partner:** [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]]<br>**Best Match:** 100% vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente |
 
 ## Häufigste Gegner
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)
@@ -36,13 +37,6 @@ avg_rating: 92.0
 ## Häufigste Partner
 - [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
-
-## Letzte 5 Matches
-- 2025-08-21: Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] — 🤝 Draw, 85%
-- 2023-12-15: Interview Segment /w [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] & [[Wrestler/Pascal LePas\|Pascal LePas]] & [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 100%
-- 2023-07-30: What if... [[Battle Royal]] in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] — 🤝 Draw, 94%
-- 2022-11-07: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Dink\|Dink]]  & [[Wrestler/Hornswoggle\|Hornswoggle]] in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] — ❌ Loss, 81%
-- 2022-06-28: Threeway Fiasko in [[Events/2022-06-28 - S04E09_Royal Rumble\|S04E09_Royal Rumble]] — ❌ Loss, 93%
 
 ## Top Matches
 - 100%: Interview Segment /w [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] & [[Wrestler/Pascal LePas\|Pascal LePas]] & [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)

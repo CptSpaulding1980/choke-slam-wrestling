@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 16
 wins: 7
 losses: 7
-elo: 1197
 draws: 2
 win_percent: 43.8
 avg_rating: 80.19
@@ -16,15 +15,17 @@ avg_rating: 80.19
 
 # Lady Apache
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1197</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 16 | 7 | 7 | 2 | 43.8% | 80.19 | 1197 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 16 | 7 | 7 | 2 | 43.8% | 80.19 |
 
-### 📊 Record
-<img src="/img/charts/lady-apache_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/lady-apache_stats.png" width="200"> | **❌❌❌✅⚪️**<br>- Draw vs. Casino Royale: Lady Apache vs. Jon Moxley vs. Brock Lesnar<br>- Win vs. Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz<br>- Loss vs. Bret Hart & Owen Hart vs. Militanter Mummenschanz<br>- Loss vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br>- Loss vs. War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
@@ -39,13 +40,6 @@ avg_rating: 80.19
 - [[Wrestler/Jay White\|Jay White]] (2x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (1x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (1x)
-
-## Letzte 5 Matches
-- 2026-02-05: Casino Royale: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Jon Moxley\|Jon Moxley]] vs. [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] — 🤝 Draw, 0%
-- 2025-12-30: [[Wrestler/Dominik Mysterio\|Dominik Mysterio]] & [[Wrestler/Finn Bálor\|Finn Bálor]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 99%
-- 2025-12-30: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 88%
-- 2025-12-30: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 83%
-- 2025-11-18: War Games: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ❌ Loss, 69%
 
 ## Top Matches
 - 104%: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Akira Taue\|Akira Taue]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)

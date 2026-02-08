@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 3
 wins: 2
 losses: 1
-elo: 1215
 draws: 0
 win_percent: 66.7
 avg_rating: 92.67
@@ -16,15 +15,17 @@ avg_rating: 92.67
 
 # Mark Davis
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mark_Davis.png" width="280"></td><td><b>Height:</b> 194cm<br><b>Weight:</b> 114kg<br><b>Finisher:</b> Nonuse<br><b>Elo Rating:</b> 1215</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mark_Davis.png" width="280"></td><td><b>Height:</b> 194cm<br><b>Weight:</b> 114kg<br><b>Finisher:</b> Nonuse</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 3 | 2 | 1 | 0 | 66.7% | 92.67 | 1215 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 3 | 2 | 1 | 0 | 66.7% | 92.67 |
 
-### 📊 Record
-<img src="/img/charts/mark-davis_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/mark-davis_stats.png" width="200"> | **✅❌✅**<br>- Win vs. Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz<br>- Loss vs. Mark Davis & Kyle Fletcher vs. Sweet 'n Sour Elite<br>- Win vs. Mark Davis & Kyle Fletcher vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Colt Cabana\|Colt Cabana]]<br>**Partner:** [[Wrestler/Kyle Fletcher\|Kyle Fletcher]]<br>**Best Match:** 100% vs. Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Colt Cabana\|Colt Cabana]] (1x)
@@ -35,11 +36,6 @@ avg_rating: 92.67
 
 ## Häufigste Partner
 - [[Wrestler/Kyle Fletcher\|Kyle Fletcher]] (3x)
-
-## Letzte 5 Matches
-- 2021-04-10: [[Wrestler/Mark Davis\|Mark Davis]] & [[Wrestler/Kyle Fletcher\|Kyle Fletcher]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] — ✅ Win, 100%
-- 2021-04-10: [[Wrestler/Mark Davis\|Mark Davis]] & [[Wrestler/Kyle Fletcher\|Kyle Fletcher]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] — ❌ Loss, 78%
-- 2021-04-10: [[Wrestler/Mark Davis\|Mark Davis]] & [[Wrestler/Kyle Fletcher\|Kyle Fletcher]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] — ✅ Win, 100%
 
 ## Top Matches
 - 100%: [[Wrestler/Mark Davis\|Mark Davis]] & [[Wrestler/Kyle Fletcher\|Kyle Fletcher]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] (2021-04-10)

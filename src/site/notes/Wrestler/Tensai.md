@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 1
 wins: 0
 losses: 1
-elo: 1187
 draws: 0
 win_percent: 0.0
 avg_rating: 94.0
@@ -16,15 +15,17 @@ avg_rating: 94.0
 
 # Tensai
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tensai.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1187</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tensai.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 1 | 0 | 1 | 0 | 0.0% | 94.00 | 1187 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 1 | 0 | 1 | 0 | 0.0% | 94.00 |
 
-### 📊 Record
-<img src="/img/charts/tensai_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/tensai_stats.png" width="200"> | **❌**<br>- Loss vs. Triple H vs. Virgil vs. The Renegade vs. Tensai<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Virgil\|Virgil]]<br>**Best Match:** 94% vs. Triple H vs. Virgil vs. The Renegade vs. Tensai |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (1x)
@@ -32,9 +33,6 @@ avg_rating: 94.0
 ## Häufigste Partner
 - [[Wrestler/Virgil\|Virgil]] (1x)
 - [[Wrestler/The Renegade\|The Renegade]] (1x)
-
-## Letzte 5 Matches
-- 2024-03-07: [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Virgil\|Virgil]] vs. [[Wrestler/The Renegade\|The Renegade]] vs. [[Wrestler/Tensai\|Tensai]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ❌ Loss, 94%
 
 ## Top Matches
 - 94%: [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Virgil\|Virgil]] vs. [[Wrestler/The Renegade\|The Renegade]] vs. [[Wrestler/Tensai\|Tensai]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)

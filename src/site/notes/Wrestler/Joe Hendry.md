@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 16
 wins: 6
 losses: 6
-elo: 1209
 draws: 4
 win_percent: 37.5
 avg_rating: 86.25
@@ -16,15 +15,17 @@ avg_rating: 86.25
 
 # Joe Hendry
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Joe_Hendry.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 104kg<br><b>Finisher:</b> Freak Of Nature<br><b>Elo Rating:</b> 1209</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Joe_Hendry.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 104kg<br><b>Finisher:</b> Freak Of Nature</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 16 | 6 | 6 | 4 | 37.5% | 86.25 | 1209 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 16 | 6 | 6 | 4 | 37.5% | 86.25 |
 
-### 📊 Record
-<img src="/img/charts/joe-hendry_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/joe-hendry_stats.png" width="200"> | **✅⚪️✅⚪️❌**<br>- Loss vs. Sweet 'n Sour Elite vs. Diesel & Randy Savage<br>- Draw vs. Sheik Invitational Rumble incl. Sabu<br>- Win vs. I got 4 on it<br>- Draw vs. Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c)<br>- Win vs. Handicap: Sweet 'n Sour Elite (Hendry & Paxley) vs. Bandido<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]<br>**Best Match:** 99% vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)
@@ -38,13 +39,6 @@ avg_rating: 86.25
 - [[Wrestler/Gunther\|Gunther]] (5x)
 - [[Wrestler/Tatum Paxley\|Tatum Paxley]] (4x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (3x)
-
-## Letzte 5 Matches
-- 2025-05-07: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Diesel\|Diesel]] & [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ❌ Loss, 69%
-- 2025-05-07: Sheik Invitational Rumble incl. [[Wrestler/Sabu\|Sabu]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — 🤝 Draw, 84%
-- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ✅ Win, 73%
-- 2025-03-03: [[Choke Slam Trios Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]]  vs. Los Jinetes del Aire vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — 🤝 Draw, 98%
-- 2025-03-03: Handicap: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] (Hendry & Paxley) vs. [[Wrestler/Bandido\|Bandido]] in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ✅ Win, 75%
 
 ## Top Matches
 - 99%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)

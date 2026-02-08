@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 26
 wins: 9
 losses: 13
-elo: 1167
 draws: 4
 win_percent: 34.6
 avg_rating: 82.58
@@ -16,15 +15,17 @@ avg_rating: 82.58
 
 # Wardlow
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wardlow.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 121kg<br><b>Finisher:</b> Powerbomb<br><b>Elo Rating:</b> 1167</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wardlow.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 121kg<br><b>Finisher:</b> Powerbomb</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 26 | 9 | 13 | 4 | 34.6% | 82.58 | 1167 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 26 | 9 | 13 | 4 | 34.6% | 82.58 |
 
-### 📊 Record
-<img src="/img/charts/wardlow_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/wardlow_stats.png" width="200"> | **❌❌✅⚪️⚪️**<br>- Draw vs. Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite<br>- Draw vs. Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz<br>- Win vs. Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz<br>- Loss vs. Bret Hart & Owen Hart vs. Militanter Mummenschanz<br>- Loss vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Edge\|Edge]] (6x)
@@ -39,13 +40,6 @@ avg_rating: 82.58
 - [[Wrestler/Lady Apache\|Lady Apache]] (5x)
 - [[Wrestler/Jay White\|Jay White]] (4x)
 - [[Wrestler/Edge\|Edge]] (2x)
-
-## Letzte 5 Matches
-- 2026-02-05: Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] — 🤝 Draw, 0%
-- 2026-02-05: Submission Match: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] — 🤝 Draw, 0%
-- 2025-12-30: [[Wrestler/Dominik Mysterio\|Dominik Mysterio]] & [[Wrestler/Finn Bálor\|Finn Bálor]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 99%
-- 2025-12-30: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 88%
-- 2025-12-30: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 83%
 
 ## Top Matches
 - 104%: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Akira Taue\|Akira Taue]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)

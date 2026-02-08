@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 26
 wins: 9
 losses: 13
-elo: 1145
 draws: 4
 win_percent: 34.6
 avg_rating: 87.38
@@ -16,15 +15,17 @@ avg_rating: 87.38
 
 # Alexa Bliss
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Alexa_Bliss.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1145</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Alexa_Bliss.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 26 | 9 | 13 | 4 | 34.6% | 87.38 | 1145 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 26 | 9 | 13 | 4 | 34.6% | 87.38 |
 
-### 📊 Record
-<img src="/img/charts/alexa-bliss_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/alexa-bliss_stats.png" width="200"> | **❌✅✅❌❌**<br>- Loss vs. Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c)<br>- Loss vs. AJ Styles vs. Saint Rebel Radicalz<br>- Win vs. Randy Savage vs. Saint Rebel Radicalz<br>- Win vs. Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c)<br>- Loss vs. Saint Rebel Radicalz vs. Sweet 'n Sour Elite<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 87.38
 - [[Wrestler/Grayson Waller\|Grayson Waller]] (4x)
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (3x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (2x)
-
-## Letzte 5 Matches
-- 2024-01-29: [[Choke Slam Womens Championship]]: [[Wrestler/Sol Ruca\|Sol Ruca]] & [[Wrestler/Thea Hail\|Thea Hail]] vs. [[Wrestler/Tiffany Stratton\|Tiffany Stratton]] & [[Wrestler/Alexa Bliss\|Alexa Bliss]] (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — ❌ Loss, 94%
-- 2023-11-03: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] — ❌ Loss, 72%
-- 2023-11-03: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] — ✅ Win, 70%
-- 2023-10-09: [[Choke Slam Womens Championship]]: [[Wrestler/Shayna Baszler\|Shayna Baszler]] vs. [[Wrestler/Alexa Bliss\|Alexa Bliss]] (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] — ✅ Win, 67%
-- 2023-10-09: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] — ❌ Loss, 99%
 
 ## Top Matches
 - 103%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 62
 wins: 33
 losses: 20
-elo: 1327
 draws: 9
 win_percent: 53.2
 avg_rating: 84.34
@@ -16,15 +15,17 @@ avg_rating: 84.34
 
 # The Undertaker
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Undertaker.png" width="280"></td><td><b>Height:</b> 209cm<br><b>Weight:</b> 140kg<br><b>Finisher:</b> Tombstone Piledriver<br><b>Elo Rating:</b> 1327</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Undertaker.png" width="280"></td><td><b>Height:</b> 209cm<br><b>Weight:</b> 140kg<br><b>Finisher:</b> Tombstone Piledriver</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 62 | 33 | 20 | 9 | 53.2% | 84.34 | 1327 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 62 | 33 | 20 | 9 | 53.2% | 84.34 |
 
-### 📊 Record
-<img src="/img/charts/the-undertaker_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/the-undertaker_stats.png" width="200"> | **⚪️❌❌✅✅**<br>- Win vs. Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Gunther & The Undertaker (c)<br>- Win vs. Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Gunther & The Undertaker (c)<br>- Loss vs. Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Gunther & The Undertaker (c)<br>- Loss vs. Choke Slam International Championship: Bret Hart vs. Finn Bálor vs. The Undertaker vs. Randy Savage<br>- Draw vs. Sheik Invitational Rumble incl. Sabu<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Gunther\|Gunther]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (11x)
@@ -39,13 +40,6 @@ avg_rating: 84.34
 - [[Wrestler/Randy Savage\|Randy Savage]] (3x)
 - [[Wrestler/Joe Hendry\|Joe Hendry]] (3x)
 - [[Wrestler/Sid Vicious\|Sid Vicious]] (2x)
-
-## Letzte 5 Matches
-- 2025-08-12: [[Choke Slam Tag Team Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]] (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ✅ Win, 84%
-- 2025-08-12: [[Choke Slam Tag Team Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]] (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ✅ Win, 90%
-- 2025-08-12: [[Choke Slam Tag Team Championship]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]] (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] — ❌ Loss, 84%
-- 2025-05-07: [[Choke Slam International Championship]]: [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Finn Bálor\|Finn Bálor]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ❌ Loss, 85%
-- 2025-05-07: Sheik Invitational Rumble incl. [[Wrestler/Sabu\|Sabu]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — 🤝 Draw, 84%
 
 ## Top Matches
 - 105%: [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)

@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 24
 wins: 8
 losses: 10
-elo: 1158
 draws: 6
 win_percent: 33.3
 avg_rating: 81.17
@@ -16,15 +15,17 @@ avg_rating: 81.17
 
 # Jun Akiyama
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jun_Akiyama.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 110kg<br><b>Finisher:</b> Wrist Clutch Explode<br><b>Elo Rating:</b> 1158</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jun_Akiyama.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 110kg<br><b>Finisher:</b> Wrist Clutch Explode</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 24 | 8 | 10 | 6 | 33.3% | 81.17 | 1158 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 24 | 8 | 10 | 6 | 33.3% | 81.17 |
 
-### 📊 Record
-<img src="/img/charts/jun-akiyama_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/jun-akiyama_stats.png" width="200"> | **❌❌✅✅❌**<br>- Loss vs. Cody Rhodes & Oba Femi vs. Saint Rebel Radicalz<br>- Win vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz<br>- Win vs. Saint Rebel Radicalz vs.Saint Rebel Radicalz<br>- Loss vs. Choke Slam Trios Champiosnhip - : Los Jinetes del Aire vs. Jun Akiyama, Roman Reigns, & Triple H<br>- Loss vs. North West Division: Jun Akiyama vs. Goldberg<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Best Match:** 100% vs. Jun Akiyama vs. Kiana James vs. Laredo Kid vs. Roman Reigns vs. Triple H |
 
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (6x)
@@ -39,13 +40,6 @@ avg_rating: 81.17
 - [[Wrestler/Big Kon\|Big Kon]] (2x)
 - [[Wrestler/Kiana James\|Kiana James]] (2x)
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
-
-## Letzte 5 Matches
-- 2025-12-30: [[Wrestler/Cody Rhodes\|Cody Rhodes]] & [[Wrestler/Oba Femi\|Oba Femi]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ❌ Loss, 96%
-- 2025-12-30: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 93%
-- 2025-12-30: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs.[[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 91%
-- 2024-10-22: Choke Slam Trios Champiosnhip - : Los Jinetes del Aire vs. [[Wrestler/Jun Akiyama\|Jun Akiyama]], [[Wrestler/Roman Reigns\|Roman Reigns]], & [[Wrestler/Triple H\|Triple H]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] — ❌ Loss, 84%
-- 2024-07-19: North West Division: [[Wrestler/Jun Akiyama\|Jun Akiyama]] vs. [[Wrestler/Goldberg\|Goldberg]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] — ❌ Loss, 55%
 
 ## Top Matches
 - 100%: [[Wrestler/Jun Akiyama\|Jun Akiyama]] vs. [[Wrestler/Kiana James\|Kiana James]] vs. [[Wrestler/Laredo Kid\|Laredo Kid]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)

@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 43
 wins: 18
 losses: 16
-elo: 1179
 draws: 9
 win_percent: 41.9
 avg_rating: 89.3
@@ -16,15 +15,17 @@ avg_rating: 89.3
 
 # Rey Fenix
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rey_Fenix.png" width="280"></td><td><b>Height:</b> 179cm<br><b>Weight:</b> 80kg<br><b>Finisher:</b> Black Fire Driver<br><b>Elo Rating:</b> 1179</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rey_Fenix.png" width="280"></td><td><b>Height:</b> 179cm<br><b>Weight:</b> 80kg<br><b>Finisher:</b> Black Fire Driver</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 43 | 18 | 16 | 9 | 41.9% | 89.30 | 1179 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 43 | 18 | 16 | 9 | 41.9% | 89.30 |
 
-### 📊 Record
-<img src="/img/charts/rey-fenix_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/rey-fenix_stats.png" width="200"> | **✅❌❌✅❌**<br>- Loss vs. Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac<br>- Win vs. Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz<br>- Loss vs. Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo<br>- Loss vs. Saint Rebel Radicalz vs. Pac, Penta El Zero Miedo & Rey Fenix<br>- Win vs. Sweet 'n Sour Elite vs. Bob Backlund, Kazuchika Okada, & Rey Fenix<br> | **Nemesis:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Partner:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Best Match:** 102% vs. Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix |
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (7x)
@@ -39,13 +40,6 @@ avg_rating: 89.3
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (9x)
 - [[Wrestler/Pac\|Pac]] (4x)
 - [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] (4x)
-
-## Letzte 5 Matches
-- 2025-10-02: [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Trent Seven\|Trent Seven]] & [[Wrestler/Tyler Bate\|Tyler Bate]] vs. [[Wrestler/Rey Fenix\|Rey Fenix]], [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] & [[Wrestler/Pac\|Pac]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ❌ Loss, 87%
-- 2025-10-02: [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]], [[Wrestler/Pac\|Pac]] & [[Wrestler/Rey Fenix\|Rey Fenix]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ✅ Win, 80%
-- 2025-09-04: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Pac\|Pac]], [[Wrestler/Rey Fenix\|Rey Fenix]], & [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] — ❌ Loss, 93%
-- 2025-09-04: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Pac\|Pac]], [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] & [[Wrestler/Rey Fenix\|Rey Fenix]] in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] — ❌ Loss, 92%
-- 2025-01-16: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]], [[Wrestler/Kazuchika Okada\|Kazuchika Okada]], & [[Wrestler/Rey Fenix\|Rey Fenix]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ✅ Win, 88%
 
 ## Top Matches
 - 102%: [[Wrestler/Jushin Liger\|Jushin Liger]] vs. [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Wrestler/Rey Fenix\|Rey Fenix]] in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] (2020-10-13)

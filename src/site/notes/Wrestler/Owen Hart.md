@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 21
 wins: 12
 losses: 5
-elo: 1302
 draws: 4
 win_percent: 57.1
 avg_rating: 90.71
@@ -16,15 +15,17 @@ avg_rating: 90.71
 
 # Owen Hart
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Owen_Hart.png" width="280"></td><td><b>Height:</b> 179cm<br><b>Weight:</b> 104kg<br><b>Finisher:</b> Sharpshooter<br><b>Elo Rating:</b> 1302</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Owen_Hart.png" width="280"></td><td><b>Height:</b> 179cm<br><b>Weight:</b> 104kg<br><b>Finisher:</b> Sharpshooter</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 21 | 12 | 5 | 4 | 57.1% | 90.71 | 1302 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 21 | 12 | 5 | 4 | 57.1% | 90.71 |
 
-### 📊 Record
-<img src="/img/charts/owen-hart_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/owen-hart_stats.png" width="200"> | **✅✅✅✅✅**<br>- Win vs. Bret Hart & Owen Hart vs. Sweet 'n Sour Elite<br>- Win vs. Bret Hart & Owen Hart vs. Militanter Mummenschanz<br>- Win vs. Bret Hart & Owen Hart vs. Sweet 'n Sour Elite<br>- Win vs. Dalton Castle & Dr. Wagner Jr. vs. Bret Hart & Owen Hart<br>- Win vs. Bret Hart & Owen Hart vs. Dudes with Attitudes<br> | **Nemesis:** [[Wrestler/Diesel\|Diesel]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 98% vs. Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Diesel\|Diesel]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 90.71
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (2x)
 - [[Wrestler/The Butcher\|The Butcher]] (2x)
 - [[Wrestler/Diesel\|Diesel]] (1x)
-
-## Letzte 5 Matches
-- 2025-12-30: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 88%
-- 2025-12-30: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 88%
-- 2025-12-30: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 97%
-- 2025-05-07: [[Wrestler/Dalton Castle\|Dalton Castle]] & [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ✅ Win, 86%
-- 2025-05-07: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ✅ Win, 94%
 
 ## Top Matches
 - 98%: [[Wrestler/Mansoor\|Mansoor]] & [[Wrestler/Sara Del Rey\|Sara Del Rey]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)

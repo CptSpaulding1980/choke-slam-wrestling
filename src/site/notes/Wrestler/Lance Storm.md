@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 8
 wins: 6
 losses: 1
-elo: 1276
 draws: 1
 win_percent: 75.0
 avg_rating: 90.0
@@ -16,15 +15,17 @@ avg_rating: 90.0
 
 # Lance Storm
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lance_Storm.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 105kg<br><b>Finisher:</b> Canadian Maple Leaf<br><b>Elo Rating:</b> 1276</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lance_Storm.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 105kg<br><b>Finisher:</b> Canadian Maple Leaf</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 8 | 6 | 1 | 1 | 75.0% | 90.00 | 1276 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 8 | 6 | 1 | 1 | 75.0% | 90.00 |
 
-### 📊 Record
-<img src="/img/charts/lance-storm_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/lance-storm_stats.png" width="200"> | **✅✅❌✅⚪️**<br>- Draw vs. Reveal Rumble<br>- Win vs. Hardcore Title Tournament: Eddie Edwards vs. Lance Storm<br>- Loss vs. Hardcore Title Tournament Finals - Hardcore Championship: WALTER vs. Lance Storm (c)<br>- Win vs. Choke Slam Apple Championship: Kevin Steen vs. Chris Hero vs. Tommy End vs. Lance Storm<br>- Win vs. Choke Slam Apple Championship: Rey Mysterio Jr. vs. Lance Storm<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Hardcore Title Tournament Finals - Hardcore Championship: WALTER vs. Lance Storm (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (3x)
@@ -32,13 +33,6 @@ avg_rating: 90.0
 - [[Wrestler/Tommy End\|Tommy End]] (2x)
 - [[Wrestler/Rush\|Rush]] (1x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
-
-## Letzte 5 Matches
-- 2025-06-03: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] — 🤝 Draw, 100%
-- 2022-11-17: [[Hardcore Title]] Tournament: [[Wrestler/Eddie Edwards\|Eddie Edwards]] vs. [[Wrestler/Lance Storm\|Lance Storm]] in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] — ✅ Win, 79%
-- 2022-11-17: [[Hardcore Title Tournament Finals - Hardcore Championship]]: [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Lance Storm\|Lance Storm]] (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] — ❌ Loss, 100%
-- 2022-06-28: [[Choke Slam Apple Championship]]: [[Wrestler/Kevin Steen\|Kevin Steen]] vs. [[Wrestler/Chris Hero\|Chris Hero]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Lance Storm\|Lance Storm]] in [[Events/2022-06-28 - S04E09_Royal Rumble\|S04E09_Royal Rumble]] — ✅ Win, 79%
-- 2022-02-21: [[Choke Slam Apple Championship]]: [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/Lance Storm\|Lance Storm]] in [[Events/2022-02-21 - S04E08_Fan Favourites\|S04E08_Fan Favourites]] — ✅ Win, 97%
 
 ## Top Matches
 - 100%: [[Hardcore Title Tournament Finals - Hardcore Championship]]: [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Lance Storm\|Lance Storm]] (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)

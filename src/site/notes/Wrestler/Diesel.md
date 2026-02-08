@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 32
 wins: 14
 losses: 13
-elo: 1258
 draws: 5
 win_percent: 43.8
 avg_rating: 87.19
@@ -16,15 +15,17 @@ avg_rating: 87.19
 
 # Diesel
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Diesel.png" width="280"></td><td><b>Height:</b> 210cm<br><b>Weight:</b> 135kg<br><b>Finisher:</b> Jacknife Powerbomb<br><b>Elo Rating:</b> 1258</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Diesel.png" width="280"></td><td><b>Height:</b> 210cm<br><b>Weight:</b> 135kg<br><b>Finisher:</b> Jacknife Powerbomb</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 32 | 14 | 13 | 5 | 43.8% | 87.19 | 1258 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 32 | 14 | 13 | 5 | 43.8% | 87.19 |
 
-### 📊 Record
-<img src="/img/charts/diesel_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/diesel_stats.png" width="200"> | **✅✅❌✅✅**<br>- Win vs. Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes<br>- Win vs. Sweet 'n Sour Elite vs. Diesel & Randy Savage<br>- Loss vs. Bret Hart & Owen Hart vs. Dudes with Attitudes<br>- Win vs. Saint Rebel Radicalz vs. Path of God<br>- Win vs. Drew Gulak & Mansoor vs. Diesel & AJ Styles<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Shawn Michaels\|Shawn Michaels]]<br>**Best Match:** 99% vs. Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (8x)
@@ -39,13 +40,6 @@ avg_rating: 87.19
 - [[Wrestler/Randy Savage\|Randy Savage]] (4x)
 - [[Wrestler/Cesaro\|Cesaro]] (2x)
 - [[Wrestler/Angélico\|Angélico]] (2x)
-
-## Letzte 5 Matches
-- 2025-05-07: [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Big Van Vader\|Big Van Vader]] vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ✅ Win, 88%
-- 2025-05-07: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Diesel\|Diesel]] & [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ✅ Win, 69%
-- 2025-05-07: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ❌ Loss, 94%
-- 2025-05-07: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Path of God\|Path of God]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ✅ Win, 82%
-- 2025-05-07: [[Wrestler/Drew Gulak\|Drew Gulak]] & [[Wrestler/Mansoor\|Mansoor]] vs. [[Wrestler/Diesel\|Diesel]] & [[Wrestler/AJ Styles\|AJ Styles]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ✅ Win, 92%
 
 ## Top Matches
 - 99%: [[Wrestler/Cesaro\|Cesaro]]  vs. [[Wrestler/Dalton Castle\|Dalton Castle]] vs. [[Wrestler/Diesel\|Diesel]] vs. [[Wrestler/Kelly Klein\|Kelly Klein]] vs. [[Wrestler/The Undertaker\|The Undertaker]]  vs. [[Wrestler/The Rock\|The Rock]] vs. [[Wrestler/John Cena\|John Cena]] vs. [[Wrestler/Steve Austin\|Steve Austin]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)

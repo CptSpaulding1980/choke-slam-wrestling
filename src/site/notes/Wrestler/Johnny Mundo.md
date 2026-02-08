@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 29
 wins: 18
 losses: 4
-elo: 1377
 draws: 7
 win_percent: 62.1
 avg_rating: 86.97
@@ -16,15 +15,17 @@ avg_rating: 86.97
 
 # Johnny Mundo
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Johnny_Mundo.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1377</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Johnny_Mundo.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 29 | 18 | 4 | 7 | 62.1% | 86.97 | 1377 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 29 | 18 | 4 | 7 | 62.1% | 86.97 |
 
-### 📊 Record
-<img src="/img/charts/johnny-mundo_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/johnny-mundo_stats.png" width="200"> | **✅✅✅⚪️⚪️**<br>- Draw vs. Aztec Warfare<br>- Draw vs. The Greatest Royal Rumble<br>- Win vs. Dan Koloff HC Tournament: Johnny Mundo (w/The Miz) vs. Hulk Hogan (w/Jimmy Hart)<br>- Win vs. Dan Koloff HC Tournament 1/2 Finals: Johnny Mundo (w/The Miz) vs. Tetsuya Naito<br>- Win vs. Dan Koloff HC Tournament Finals:Johnny Mundo vs. Jeff Cobb<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/KENTA\|KENTA]]<br>**Best Match:** 101% vs. Choke Slam World Championship: Johnny Mundo vs. Kazuchika Okada vs. Tetsuya Naito (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (8x)
@@ -39,13 +40,6 @@ avg_rating: 86.97
 - [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] (3x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
 - [[Wrestler/Texano Jr.\|Texano Jr.]] (2x)
-
-## Letzte 5 Matches
-- 2023-04-19: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] — 🤝 Draw, 100%
-- 2021-10-17: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] — 🤝 Draw, 91%
-- 2021-07-26: Dan Koloff HC Tournament: [[Wrestler/Johnny Mundo\|Johnny Mundo]] (T/[[Wrestler/he Miz\|he Miz]]) vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] (J/[[Wrestler/immy Hart\|immy Hart]]) in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] — ✅ Win, 77%
-- 2021-07-26: Dan Koloff HC Tournament 1/2 Finals: [[Wrestler/Johnny Mundo\|Johnny Mundo]] (T/[[Wrestler/he Miz\|he Miz]]) vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] — ✅ Win, 77%
-- 2021-07-26: Dan Koloff HC Tournament Finals:[[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Jeff Cobb\|Jeff Cobb]] in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] — ✅ Win, 76%
 
 ## Top Matches
 - 101%: [[Choke Slam World Championship]]: [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (c) in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)

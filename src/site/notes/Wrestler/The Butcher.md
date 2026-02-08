@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 17
 wins: 7
 losses: 7
-elo: 1205
 draws: 3
 win_percent: 41.2
 avg_rating: 83.0
@@ -16,15 +15,17 @@ avg_rating: 83.0
 
 # The Butcher
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Butcher.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1205</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Butcher.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 17 | 7 | 7 | 3 | 41.2% | 83.00 | 1205 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 17 | 7 | 7 | 3 | 41.2% | 83.00 |
 
-### 📊 Record
-<img src="/img/charts/the-butcher_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/the-butcher_stats.png" width="200"> | **✅❌✅⚪️❌**<br>- Loss vs. Christian Cage, The Blade, & The Butcher vs. Big Van Vader, Madison Rayne, & Triple H<br>- Draw vs. The Greatest Royal Rumble<br>- Win vs. Dan Koloff HC Tournament: The Butcher vs. Kota Ibushi (w/Mr. Fuji)<br>- Loss vs. Dan Koloff HC Tournament 1/2 Finals: Jeff Cobb (w/Edge) vs. The Butcher<br>- Win vs. Dan Koloff HC Tournament: Hiromu Takahashi vs. The Butcher vs. André The Giant<br> | **Nemesis:** [[Wrestler/Joey Janela\|Joey Janela]]<br>**Partner:** [[Wrestler/The Blade\|The Blade]]<br>**Best Match:** 99% vs. Bob Backlund & Jeff Cobb vs. The Butcher & Kazuchika Okada |
 
 ## Häufigste Gegner
 - [[Wrestler/Joey Janela\|Joey Janela]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 83.0
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (3x)
 - [[Wrestler/Owen Hart\|Owen Hart]] (2x)
 - [[Wrestler/Christian\|Christian]] (1x)
-
-## Letzte 5 Matches
-- 2023-12-15: [[Wrestler/Christian Cage\|Christian Cage]], [[Wrestler/The Blade\|The Blade]], & [[Wrestler/The Butcher\|The Butcher]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]], [[Wrestler/Madison Rayne\|Madison Rayne]], & [[Wrestler/Triple H\|Triple H]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 66%
-- 2021-10-17: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] — 🤝 Draw, 91%
-- 2021-07-26: Dan Koloff HC Tournament: [[Wrestler/The Butcher\|The Butcher]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] (M/[[Wrestler/r. Fuji\|r. Fuji]]) in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] — ✅ Win, 87%
-- 2021-07-26: Dan Koloff HC Tournament 1/2 Finals: [[Wrestler/Jeff Cobb\|Jeff Cobb]] (E/[[Wrestler/dge\|dge]]) vs. [[Wrestler/The Butcher\|The Butcher]] in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] — ❌ Loss, 88%
-- 2021-06-30: Dan Koloff HC Tournament: [[Wrestler/Hiromu Takahashi\|Hiromu Takahashi]] vs. [[Wrestler/The Butcher\|The Butcher]] vs. [[Wrestler/André The Giant\|André The Giant]] in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — ✅ Win, 81%
 
 ## Top Matches
 - 99%: [[Wrestler/Bob Backlund\|Bob Backlund]] & [[Wrestler/Jeff Cobb\|Jeff Cobb]] vs. [[Wrestler/The Butcher\|The Butcher]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)

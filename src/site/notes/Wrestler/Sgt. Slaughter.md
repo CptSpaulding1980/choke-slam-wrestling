@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 8
 wins: 1
 losses: 2
-elo: 1187
 draws: 5
 win_percent: 12.5
 avg_rating: 88.88
@@ -16,15 +15,17 @@ avg_rating: 88.88
 
 # Sgt. Slaughter
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sgt._Slaughter.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 141kg<br><b>Finisher:</b> Cobra Clutch<br><b>Elo Rating:</b> 1187</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sgt._Slaughter.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 141kg<br><b>Finisher:</b> Cobra Clutch</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 8 | 1 | 2 | 5 | 12.5% | 88.88 | 1187 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 8 | 1 | 2 | 5 | 12.5% | 88.88 |
 
-### 📊 Record
-<img src="/img/charts/sgt-slaughter_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/sgt-slaughter_stats.png" width="200"> | **❌❌⚪️⚪️⚪️**<br>- Draw vs. Andre the Giant Memorial Battle Royal<br>- Draw vs. Greatest Rumble ever<br>- Draw vs. Iron Man: Militanter Mummenschanz vs. Sweet 'n Sour Elite<br>- Loss vs. Iron Man: Saint Rebel Radicalz vs. Sweet 'n Sour Elite<br>- Loss vs. Sgt. Slaughter vs. Bruno Sammartino<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 100% vs. Iron Man: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
@@ -35,13 +36,6 @@ avg_rating: 88.88
 
 ## Häufigste Partner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
-
-## Letzte 5 Matches
-- 2021-06-30: Andre the Giant Memorial [[Battle Royal]] in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] — 🤝 Draw, 89%
-- 2021-05-18: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] — 🤝 Draw, 90%
-- 2021-01-21: [[Iron Man]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — 🤝 Draw, 100%
-- 2021-01-21: [[Iron Man]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ❌ Loss, 100%
-- 2021-01-21: [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] vs. [[Wrestler/Bruno Sammartino\|Bruno Sammartino]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] — ❌ Loss, 69%
 
 ## Top Matches
 - 100%: [[Iron Man]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)

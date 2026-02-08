@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 30
 wins: 8
 losses: 18
-elo: 1073
 draws: 4
 win_percent: 26.7
 avg_rating: 84.6
@@ -16,15 +15,17 @@ avg_rating: 84.6
 
 # Dr. Wagner Jr.
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dr._Wagner_Jr..png" width="280"></td><td><b>Height:</b> 177cm<br><b>Weight:</b> 98kg<br><b>Finisher:</b> Wagner Driver<br><b>Elo Rating:</b> 1073</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dr._Wagner_Jr..png" width="280"></td><td><b>Height:</b> 177cm<br><b>Weight:</b> 98kg<br><b>Finisher:</b> Wagner Driver</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 30 | 8 | 18 | 4 | 26.7% | 84.60 | 1073 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 30 | 8 | 18 | 4 | 26.7% | 84.60 |
 
-### 📊 Record
-<img src="/img/charts/dr-wagner-jr_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/dr-wagner-jr_stats.png" width="200"> | **⚪️✅❌❌❌**<br>- Loss vs. Dalton Castle & Dr. Wagner Jr. vs. Bret Hart & Owen Hart<br>- Loss vs. Path of God vs. Dr. Wagner Jr., Doug Williams, Bret Hart, & Brock Lesnar<br>- Loss vs. Saint Rebel Radicalz vs. Dr. Wagner Jr., Doug William & Lita<br>- Win vs. Sweet 'n Sour Elite vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 102% vs. Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 84.6
 - [[Wrestler/AJ Styles\|AJ Styles]] (4x)
 - [[Wrestler/Paul Orndorff\|Paul Orndorff]] (4x)
 - [[Wrestler/Austin Aries\|Austin Aries]] (4x)
-
-## Letzte 5 Matches
-- 2025-05-07: [[Wrestler/Dalton Castle\|Dalton Castle]] & [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ❌ Loss, 86%
-- 2025-01-16: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr., [[Wrestler/Doug Williams\|Doug Williams]], [[Wrestler/Bret Hart\|Bret Hart]], & [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ❌ Loss, 76%
-- 2023-12-15: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr., Doug William & [[Wrestler/Lita\|Lita]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 65%
-- 2023-12-15: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Doug Williams\|Doug Williams]], [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr., [[Wrestler/Bret Hart\|Bret Hart]], & [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 86%
-- 2023-12-15: [[Wrestler/EC3\|EC3]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sting\|Sting]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 88%
 
 ## Top Matches
 - 102%: [[Wrestler/Jushin Liger\|Jushin Liger]] vs. [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Wrestler/Rey Fenix\|Rey Fenix]] in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] (2020-10-13)

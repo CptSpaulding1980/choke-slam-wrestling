@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 32
 wins: 14
 losses: 13
-elo: 1242
 draws: 5
 win_percent: 43.8
 avg_rating: 85.31
@@ -16,15 +15,17 @@ avg_rating: 85.31
 
 # Chris Hero
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chris_Hero.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 123kg<br><b>Finisher:</b> KO<br><b>Elo Rating:</b> 1242</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chris_Hero.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 123kg<br><b>Finisher:</b> KO</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 32 | 14 | 13 | 5 | 43.8% | 85.31 | 1242 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 32 | 14 | 13 | 5 | 43.8% | 85.31 |
 
-### 📊 Record
-<img src="/img/charts/chris-hero_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/chris-hero_stats.png" width="200"> | **✅✅❌❌✅**<br>- Win vs. EC3, Killer Kelly & Kevin Steen vs. Becky Lynch, Chris Hero & Angélico<br>- Loss vs. VF1: Chris Hero, Shawn Michaels, & Aoife Valkyrie vs. Sweet 'n Sour Elite<br>- Loss vs. VF4: Bob Backlund, Kazuchika Okada, & Rey Fenix vs. Becky Lynch, Chris Hero, & Angélico<br>- Win vs. Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels<br>- Win vs. Militanter Mummenschanz vs. Aoife Valkyrie, Kurt Angle, Shawn Michaels, & Chris Hero<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (7x)
@@ -39,13 +40,6 @@ avg_rating: 85.31
 - [[Wrestler/Becky Lynch\|Becky Lynch]] (5x)
 - [[Wrestler/Angélico\|Angélico]] (5x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)
-
-## Letzte 5 Matches
-- 2023-12-15: [[Wrestler/EC3\|EC3]], [[Wrestler/Killer Kelly\|Killer Kelly]] & [[Wrestler/Kevin Steen\|Kevin Steen]] vs. [[Wrestler/Becky Lynch\|Becky Lynch]], [[Wrestler/Chris Hero\|Chris Hero]] & [[Wrestler/Angélico\|Angélico]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 65%
-- 2023-12-15: VF1: [[Wrestler/Chris Hero\|Chris Hero]], [[Wrestler/Shawn Michaels\|Shawn Michaels]], & [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 75%
-- 2023-12-15: VF4: [[Wrestler/Bob Backlund\|Bob Backlund]], [[Wrestler/Kazuchika Okada\|Kazuchika Okada]], & [[Wrestler/Rey Fenix\|Rey Fenix]] vs. [[Wrestler/Becky Lynch\|Becky Lynch]], [[Wrestler/Chris Hero\|Chris Hero]], & [[Wrestler/Angélico\|Angélico]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 78%
-- 2023-12-15: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Angélico\|Angélico]], [[Wrestler/Becky Lynch\|Becky Lynch]], [[Wrestler/Chris Hero\|Chris Hero]], & [[Wrestler/Shawn Michaels\|Shawn Michaels]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 85%
-- 2023-12-15: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]], [[Wrestler/Kurt Angle\|Kurt Angle]], [[Wrestler/Shawn Michaels\|Shawn Michaels]], & [[Wrestler/Chris Hero\|Chris Hero]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 89%
 
 ## Top Matches
 - 100%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & [[Wrestler/WALTER\|WALTER]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)

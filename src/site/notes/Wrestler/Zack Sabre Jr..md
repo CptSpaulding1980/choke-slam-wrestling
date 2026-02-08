@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 27
 wins: 9
 losses: 13
-elo: 1149
 draws: 5
 win_percent: 33.3
 avg_rating: 86.63
@@ -16,15 +15,17 @@ avg_rating: 86.63
 
 # Zack Sabre Jr.
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Zack_Sabre_Jr..png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 85kg<br><b>Finisher:</b> European Clutch<br><b>Elo Rating:</b> 1149</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Zack_Sabre_Jr..png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 85kg<br><b>Finisher:</b> European Clutch</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 27 | 9 | 13 | 5 | 33.3% | 86.63 | 1149 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 27 | 9 | 13 | 5 | 33.3% | 86.63 |
 
-### 📊 Record
-<img src="/img/charts/zack-sabre-jr_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/zack-sabre-jr_stats.png" width="200"> | **❌❌❌✅❌**<br>- Loss vs. Sweet 'n Sour Elite vs. Diesel & Randy Savage<br>- Win vs. I got 4 on it<br>- Loss vs. Fly like an Eagle<br>- Loss vs. Submission Vision: Hiroshi Tanahashi vs. Zack Sabre Jr.<br>- Loss vs. Submission Vision: Bret Hart vs. Zack Sabre Jr.<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Joe Hendry\|Joe Hendry]]<br>**Best Match:** 100% vs. Kenny Omega vs. Zack Sabre Jr. |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)
@@ -39,13 +40,6 @@ avg_rating: 86.63
 - [[Wrestler/Hammerstone\|Hammerstone]] (3x)
 - [[Wrestler/Tatum Paxley\|Tatum Paxley]] (2x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (2x)
-
-## Letzte 5 Matches
-- 2025-05-07: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Diesel\|Diesel]] & [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — ❌ Loss, 69%
-- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ✅ Win, 73%
-- 2025-03-03: Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ❌ Loss, 79%
-- 2025-03-03: Submission Vision: [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs. [[Wrestler/Zack Sabre\|Zack Sabre]] Jr. in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ❌ Loss, 97%
-- 2025-03-03: Submission Vision: [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Zack Sabre\|Zack Sabre]] Jr. in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ❌ Loss, 84%
 
 ## Top Matches
 - 100%: [[Wrestler/Kenny Omega\|Kenny Omega]] vs. [[Wrestler/Zack Sabre\|Zack Sabre]] Jr. in [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] (2023-04-03)

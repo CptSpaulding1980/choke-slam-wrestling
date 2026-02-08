@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 5
 wins: 0
 losses: 3
-elo: 1152
 draws: 2
 win_percent: 0.0
 avg_rating: 81.8
@@ -16,15 +15,17 @@ avg_rating: 81.8
 
 # Ridge Holland
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ridge_Holland.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1152</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ridge_Holland.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 5 | 0 | 3 | 2 | 0.0% | 81.80 | 1152 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 5 | 0 | 3 | 2 | 0.0% | 81.80 |
 
-### 📊 Record
-<img src="/img/charts/ridge-holland_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/ridge-holland_stats.png" width="200"> | **⚪️❌❌❌⚪️**<br>- Draw vs. Davey Boy Smith & Sami Zayn vs. Ridge Holland & Brody King<br>- Loss vs. Ridge Holland & Brody King vs. Hulk Hogan & Hawk<br>- Loss vs. Ridge Holland & Brody King vs. Eddie Edwards & Kenny Omega<br>- Loss vs. Sami Zayn vs. Davey Boy Smith vs. Brody King vs. Ridge Holland vs. Hawk vs. Hulk Hogan<br>- Draw vs. Gigi Dolin vs. Grayson Waller vs. Davey Boy Smith vs. Hulk Hogan vs. Sami Zayn vs. Hawk vs. Ridge Holland<br> | **Nemesis:** [[Wrestler/Davey Boy Smith\|Davey Boy Smith]]<br>**Partner:** [[Wrestler/Brody King\|Brody King]]<br>**Best Match:** 97% vs. Ridge Holland & Brody King vs. Eddie Edwards & Kenny Omega |
 
 ## Häufigste Gegner
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (2x)
@@ -39,13 +40,6 @@ avg_rating: 81.8
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)
 - [[Wrestler/Hawk\|Hawk]] (1x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
-
-## Letzte 5 Matches
-- 2022-12-16: [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] & [[Wrestler/Sami Zayn\|Sami Zayn]] vs. [[Wrestler/Ridge Holland\|Ridge Holland]] & [[Wrestler/Brody King\|Brody King]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] — 🤝 Draw, 79%
-- 2022-12-16: [[Wrestler/Ridge Holland\|Ridge Holland]] & [[Wrestler/Brody King\|Brody King]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] & [[Wrestler/Hawk\|Hawk]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] — ❌ Loss, 76%
-- 2022-12-16: [[Wrestler/Ridge Holland\|Ridge Holland]] & [[Wrestler/Brody King\|Brody King]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] & [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] — ❌ Loss, 97%
-- 2022-12-16: [[Wrestler/Sami Zayn\|Sami Zayn]] vs. [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] vs. [[Wrestler/Brody King\|Brody King]] vs. [[Wrestler/Ridge Holland\|Ridge Holland]] vs. [[Wrestler/Hawk\|Hawk]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] — ❌ Loss, 73%
-- 2022-12-16: [[Wrestler/Gigi Dolin\|Gigi Dolin]] vs. [[Wrestler/Grayson Waller\|Grayson Waller]] vs. [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/Sami Zayn\|Sami Zayn]] vs. [[Wrestler/Hawk\|Hawk]] vs. [[Wrestler/Ridge Holland\|Ridge Holland]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] — 🤝 Draw, 84%
 
 ## Top Matches
 - 97%: [[Wrestler/Ridge Holland\|Ridge Holland]] & [[Wrestler/Brody King\|Brody King]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] & [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] (2022-12-16)

@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 1
 wins: 1
 losses: 0
-elo: 1215
 draws: 0
 win_percent: 100.0
 avg_rating: 81.0
@@ -16,21 +15,20 @@ avg_rating: 81.0
 
 # Mike Tyson
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mike_Tyson.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1215</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mike_Tyson.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 1 | 1 | 0 | 0 | 100.0% | 81.00 | 1215 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 1 | 1 | 0 | 0 | 100.0% | 81.00 |
 
-### 📊 Record
-<img src="/img/charts/mike-tyson_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/mike-tyson_stats.png" width="200"> | **✅**<br>- Win vs. Iron Grappling: Mike Tyson vs. Akira Taue<br> | **Nemesis:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 81% vs. Iron Grappling: Mike Tyson vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Akira Taue\|Akira Taue]] (1x)
-
-## Letzte 5 Matches
-- 2025-09-04: Iron Grappling: [[Wrestler/Mike Tyson\|Mike Tyson]] vs. [[Wrestler/Akira Taue\|Akira Taue]] in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] — ✅ Win, 81%
 
 ## Top Matches
 - 81%: Iron Grappling: [[Wrestler/Mike Tyson\|Mike Tyson]] vs. [[Wrestler/Akira Taue\|Akira Taue]] in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] (2025-09-04)

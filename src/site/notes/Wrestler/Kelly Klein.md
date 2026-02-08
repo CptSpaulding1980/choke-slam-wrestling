@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 6
 wins: 0
 losses: 2
-elo: 1165
 draws: 4
 win_percent: 0.0
 avg_rating: 88.5
@@ -16,15 +15,17 @@ avg_rating: 88.5
 
 # Kelly Klein
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kelly_Klein.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1165</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kelly_Klein.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 6 | 0 | 2 | 4 | 0.0% | 88.50 | 1165 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 6 | 0 | 2 | 4 | 0.0% | 88.50 |
 
-### 📊 Record
-<img src="/img/charts/kelly-klein_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/kelly-klein_stats.png" width="200"> | **❌❌⚪️⚪️⚪️**<br>- Draw vs. Womens Royal Rumble<br>- Draw vs. The Greatest Royal Rumble<br>- Draw vs. Andre the Giant Memorial Battle Royal<br>- Loss vs. Kings Court vs. Mummenschanz<br>- Loss vs. Angélico & Mansoor vs. Militanter Mummenschanz<br> | **Nemesis:** [[Wrestler/Sara Del Rey\|Sara Del Rey]]<br>**Partner:** [[Wrestler/Cesaro\|Cesaro]]<br>**Best Match:** 100% vs. Angélico & Mansoor vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (3x)
@@ -37,13 +38,6 @@ avg_rating: 88.5
 - [[Wrestler/Cesaro\|Cesaro]] (2x)
 - [[Wrestler/Dalton Castle\|Dalton Castle]] (1x)
 - [[Wrestler/Angélico\|Angélico]] (1x)
-
-## Letzte 5 Matches
-- 2023-02-22: Womens [[Royal Rumble]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] — 🤝 Draw, 88%
-- 2021-10-17: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] — 🤝 Draw, 91%
-- 2020-09-07: Andre the Giant Memorial [[Battle Royal]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] — 🤝 Draw, 82%
-- 2020-06-29: Kings Court vs. Mummenschanz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] — ❌ Loss, 71%
-- 2020-06-08: [[Wrestler/Angélico\|Angélico]] & [[Wrestler/Mansoor\|Mansoor]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] — ❌ Loss, 100%
 
 ## Top Matches
 - 100%: [[Wrestler/Angélico\|Angélico]] & [[Wrestler/Mansoor\|Mansoor]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)

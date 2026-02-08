@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 3
 wins: 0
 losses: 3
-elo: 1154
 draws: 0
 win_percent: 0.0
 avg_rating: 78.67
@@ -16,15 +15,17 @@ avg_rating: 78.67
 
 # Big Dick Dudley
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Dick_Dudley.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1154</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Dick_Dudley.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 3 | 0 | 3 | 0 | 0.0% | 78.67 | 1154 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 3 | 0 | 3 | 0 | 0.0% | 78.67 |
 
-### 📊 Record
-<img src="/img/charts/big-dick-dudley_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/big-dick-dudley_stats.png" width="200"> | **❌❌❌**<br>- Loss vs. Tables: Random, Random, & Random vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley<br>- Loss vs. Tables: Sweet 'n Sour Elite vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley<br>- Loss vs. Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]]<br>**Best Match:** 99% vs. Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)
@@ -36,11 +37,6 @@ avg_rating: 78.67
 ## Häufigste Partner
 - [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] (3x)
 - [[Wrestler/D-Von Dudley\|D-Von Dudley]] (3x)
-
-## Letzte 5 Matches
-- 2022-02-09: [[Tables]]: Random, Random, & Random vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] — ❌ Loss, 51%
-- 2022-02-09: [[Tables]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] — ❌ Loss, 86%
-- 2022-02-09: [[Tables]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] — ❌ Loss, 99%
 
 ## Top Matches
 - 99%: [[Tables]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)

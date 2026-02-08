@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 30
 wins: 15
 losses: 10
-elo: 1240
 draws: 5
 win_percent: 50.0
 avg_rating: 79.73
@@ -16,15 +15,17 @@ avg_rating: 79.73
 
 # Jon Moxley
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jon_Moxley.png" width="280"></td><td><b>Height:</b> 189cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Paradigm Shift<br><b>Elo Rating:</b> 1240</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jon_Moxley.png" width="280"></td><td><b>Height:</b> 189cm<br><b>Weight:</b> 102kg<br><b>Finisher:</b> Paradigm Shift</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 30 | 15 | 10 | 5 | 50.0% | 79.73 | 1240 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 30 | 15 | 10 | 5 | 50.0% | 79.73 |
 
-### 📊 Record
-<img src="/img/charts/jon-moxley_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/jon-moxley_stats.png" width="200"> | **❌❌⚪️⚪️⚪️**<br>- Draw vs. Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz<br>- Draw vs. Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite<br>- Draw vs. Casino Royale: Lady Apache vs. Jon Moxley vs. Brock Lesnar<br>- Loss vs. Jon Moxley vs. Hiroshi Tanahashi<br>- Loss vs. Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Bret Hart & Jon Moxley(c)<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Jay White\|Jay White]] (7x)
@@ -39,13 +40,6 @@ avg_rating: 79.73
 - [[Wrestler/Bret Hart\|Bret Hart]] (4x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (2x)
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (2x)
-
-## Letzte 5 Matches
-- 2026-02-05: Submission: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vsSaint Rebel Radiclaz in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] — 🤝 Draw, 0%
-- 2026-02-05: Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] — 🤝 Draw, 0%
-- 2026-02-05: Casino Royale: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Jon Moxley\|Jon Moxley]] vs. [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] — 🤝 Draw, 0%
-- 2025-01-16: [[Wrestler/Jon Moxley\|Jon Moxley]] vs. [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ❌ Loss, 98%
-- 2024-10-22: [[Choke Slam Tag Team Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Jon Moxley\|Jon Moxley]](c) in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] — ❌ Loss, 94%
 
 ## Top Matches
 - 103%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

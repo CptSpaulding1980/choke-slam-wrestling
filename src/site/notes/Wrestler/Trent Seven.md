@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 9
 wins: 6
 losses: 3
-elo: 1249
 draws: 0
 win_percent: 66.7
 avg_rating: 83.67
@@ -16,15 +15,17 @@ avg_rating: 83.67
 
 # Trent Seven
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Trent_Seven.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 98kg<br><b>Finisher:</b> Seven Stars Lariet<br><b>Elo Rating:</b> 1249</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Trent_Seven.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 98kg<br><b>Finisher:</b> Seven Stars Lariet</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 9 | 6 | 3 | 0 | 66.7% | 83.67 | 1249 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 9 | 6 | 3 | 0 | 66.7% | 83.67 |
 
-### 📊 Record
-<img src="/img/charts/trent-seven_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/trent-seven_stats.png" width="200"> | **✅✅✅✅✅**<br>- Win vs. Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac<br>- Win vs. Trios League: Saint Rebel Radicalz vs. British Strong Style<br>- Win vs. Militanter Mummenschanz vs. Pete Dunne, Tyler Bate & Trent Seven<br>- Win vs. Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate<br>- Win vs. Nature Game Masters  vs. Spirit Squad<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Pete Dunne\|Pete Dunne]]<br>**Best Match:** 95% vs. Sweet 'n Sour Elite vs. Pete Dunne, Trent Seven & Tyler Bate |
 
 ## Häufigste Gegner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
@@ -39,13 +40,6 @@ avg_rating: 83.67
 - [[Wrestler/Damian Priest\|Damian Priest]] (2x)
 - [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)
 - [[Wrestler/Chyna\|Chyna]] (1x)
-
-## Letzte 5 Matches
-- 2025-10-02: [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Trent Seven\|Trent Seven]] & [[Wrestler/Tyler Bate\|Tyler Bate]] vs. [[Wrestler/Rey Fenix\|Rey Fenix]], [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] & [[Wrestler/Pac\|Pac]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ✅ Win, 87%
-- 2025-09-04: Trios League: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. British Strong Style in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] — ✅ Win, 77%
-- 2025-09-04: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Tyler Bate\|Tyler Bate]] & [[Wrestler/Trent Seven\|Trent Seven]] in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] — ✅ Win, 89%
-- 2025-09-04: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Trent Seven\|Trent Seven]] & [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] — ✅ Win, 82%
-- 2024-03-07: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] — ✅ Win, 77%
 
 ## Top Matches
 - 95%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Trent Seven\|Trent Seven]] & [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)

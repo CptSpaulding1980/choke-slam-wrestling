@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 53
 wins: 32
 losses: 13
-elo: 1350
 draws: 8
 win_percent: 60.4
 avg_rating: 82.36
@@ -16,15 +15,17 @@ avg_rating: 82.36
 
 # Hiroshi Tanahashi
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hiroshi_Tanahashi.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 101kg<br><b>Finisher:</b> High Fly Flow<br><b>Elo Rating:</b> 1350</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hiroshi_Tanahashi.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 101kg<br><b>Finisher:</b> High Fly Flow</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 53 | 32 | 13 | 8 | 60.4% | 82.36 | 1350 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 53 | 32 | 13 | 8 | 60.4% | 82.36 |
 
-### 📊 Record
-<img src="/img/charts/hiroshi-tanahashi_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/hiroshi-tanahashi_stats.png" width="200"> | **⚪️⚪️✅✅✅**<br>- Win vs. Sweet 'n Sour Elite vs. Militanter Mummenschanz<br>- Win vs. Cody Rhodes & Oba Femi vs. Militanter Mummenschanz<br>- Win vs. Johnny Gargano & Tommaso Ciampa vs.Militanter Mummenschanz<br>- Draw vs. Sheik Invitational Rumble incl. Sabu<br>- Draw vs. Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Toru Yano\|Toru Yano]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (15x)
@@ -39,13 +40,6 @@ avg_rating: 82.36
 - [[Wrestler/Finn Bálor\|Finn Bálor]] (3x)
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (3x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (3x)
-
-## Letzte 5 Matches
-- 2025-12-30: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 95%
-- 2025-12-30: [[Wrestler/Cody Rhodes\|Cody Rhodes]] & [[Wrestler/Oba Femi\|Oba Femi]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 91%
-- 2025-12-30: [[Wrestler/Johnny Gargano\|Johnny Gargano]] & [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs.[[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 89%
-- 2025-05-07: Sheik Invitational Rumble incl. [[Wrestler/Sabu\|Sabu]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — 🤝 Draw, 84%
-- 2025-03-03: [[Choke Slam Trios Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]]  vs. Los Jinetes del Aire vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — 🤝 Draw, 98%
 
 ## Top Matches
 - 105%: [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)

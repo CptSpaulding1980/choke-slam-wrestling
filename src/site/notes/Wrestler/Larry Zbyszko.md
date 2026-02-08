@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 16
 wins: 7
 losses: 5
-elo: 1239
 draws: 4
 win_percent: 43.8
 avg_rating: 81.88
@@ -16,15 +15,17 @@ avg_rating: 81.88
 
 # Larry Zbyszko
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Larry_Zbyszko.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1239</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Larry_Zbyszko.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 16 | 7 | 5 | 4 | 43.8% | 81.88 | 1239 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 16 | 7 | 5 | 4 | 43.8% | 81.88 |
 
-### 📊 Record
-<img src="/img/charts/larry-zbyszko_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/larry-zbyszko_stats.png" width="200"> | **✅⚪️❌✅⚪️**<br>- Draw vs. Masha Slamovich vs. Larry Zbyszko<br>- Win vs. Jordynne Grace vs. Larry Zbyszko<br>- Loss vs. Roman Reigns vs. Larry Zbyszko<br>- Draw vs. AJ Styles vs. Larry Zbyszko<br>- Win vs. Tama Tonga vs. Larry Zbyszko<br> | **Nemesis:** [[Wrestler/CM Punk\|CM Punk]]<br>**Partner:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
 
 ## Häufigste Gegner
 - [[Wrestler/CM Punk\|CM Punk]] (1x)
@@ -37,13 +38,6 @@ avg_rating: 81.88
 - [[Wrestler/Chris Hero\|Chris Hero]] (1x)
 - [[Wrestler/Christian Cage\|Christian Cage]] (1x)
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)
-
-## Letzte 5 Matches
-- 2024-05-27: [[Wrestler/Masha Slamovich\|Masha Slamovich]] vs. [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] — 🤝 Draw, 58%
-- 2024-05-27: [[Wrestler/Jordynne Grace\|Jordynne Grace]] vs. [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] — ✅ Win, 77%
-- 2024-05-27: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] — ❌ Loss, 78%
-- 2024-05-27: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] — 🤝 Draw, 79%
-- 2024-05-27: [[Wrestler/Tama Tonga\|Tama Tonga]] vs. [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] — ✅ Win, 81%
 
 ## Top Matches
 - 100%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & [[Wrestler/WALTER\|WALTER]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)

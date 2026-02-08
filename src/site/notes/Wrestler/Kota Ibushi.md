@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 12
 wins: 5
 losses: 3
-elo: 1237
 draws: 4
 win_percent: 41.7
 avg_rating: 84.75
@@ -16,15 +15,17 @@ avg_rating: 84.75
 
 # Kota Ibushi
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kota_Ibushi.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 93kg<br><b>Finisher:</b> Kamigoye<br><b>Elo Rating:</b> 1237</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kota_Ibushi.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 93kg<br><b>Finisher:</b> Kamigoye</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 12 | 5 | 3 | 4 | 41.7% | 84.75 | 1237 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 12 | 5 | 3 | 4 | 41.7% | 84.75 |
 
-### 📊 Record
-<img src="/img/charts/kota-ibushi_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/kota-ibushi_stats.png" width="200"> | **⚪️❌⚪️⚪️✅**<br>- Win vs. D: Kota Ibushi vs. Will Ospreay<br>- Draw vs. D: Toru Yano vs. Kota Ibushi<br>- Draw vs. D: Gunther vs. Kota Ibushi<br>- Loss vs. D: Roman Reigns vs. Kota Ibushi<br>- Draw vs. Asuka vs. Rey Mysterio Jr. vs. KUSHIDA  vs. Kota Ibushi vs. Kazuchika Okada vs. Bryan Danielson vs. Tyler Bate<br> | **Nemesis:** [[Wrestler/Christian Cage\|Christian Cage]]<br>**Partner:** [[Wrestler/Joey Janela\|Joey Janela]]<br>**Best Match:** 99% vs. Choke Slam Tag Team Championship: Joey Janela vs. Kane vs. Bob Backlund vs. Kota Ibushi vs. Christian Cage vs. Tetsuya Naito |
 
 ## Häufigste Gegner
 - [[Wrestler/Christian Cage\|Christian Cage]] (3x)
@@ -38,13 +39,6 @@ avg_rating: 84.75
 - [[Wrestler/Kane\|Kane]] (1x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
-
-## Letzte 5 Matches
-- 2024-09-09: D: [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Will Ospreay\|Will Ospreay]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — ✅ Win, 83%
-- 2024-09-09: D: [[Wrestler/Toru Yano\|Toru Yano]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — 🤝 Draw, 85%
-- 2024-09-09: D: [[Wrestler/Gunther\|Gunther]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — 🤝 Draw, 80%
-- 2024-09-09: D: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] — ❌ Loss, 92%
-- 2021-11-01: [[Wrestler/Asuka\|Asuka]] vs. [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/KUSHIDA\|KUSHIDA]]  vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Bryan Danielson\|Bryan Danielson]] vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] — 🤝 Draw, 99%
 
 ## Top Matches
 - 99%: [[Choke Slam Tag Team Championship]]: [[Wrestler/Joey Janela\|Joey Janela]] vs. [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Christian Cage\|Christian Cage]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)

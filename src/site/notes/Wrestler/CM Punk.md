@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 23
 wins: 7
 losses: 9
-elo: 1173
 draws: 7
 win_percent: 30.4
 avg_rating: 86.13
@@ -16,15 +15,17 @@ avg_rating: 86.13
 
 # CM Punk
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CM_Punk.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 99kg<br><b>Finisher:</b> Go 2 Sleep<br><b>Elo Rating:</b> 1173</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CM_Punk.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 99kg<br><b>Finisher:</b> Go 2 Sleep</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 23 | 7 | 9 | 7 | 30.4% | 86.13 | 1173 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 23 | 7 | 9 | 7 | 30.4% | 86.13 |
 
-### 📊 Record
-<img src="/img/charts/cm-punk_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/cm-punk_stats.png" width="200"> | **❌❌⚪️⚪️✅**<br>- Win vs. Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles<br>- Draw vs. Royal Rumble<br>- Draw vs. Big Van Vader Memorial Battle Royal<br>- Loss vs. Nature Game Masters  vs. Militanter Mummenschanz<br>- Loss vs. Killshot, Edge, & KENTA vs. Militanter Mummenschanz<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Thea Hail\|Thea Hail]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
@@ -39,13 +40,6 @@ avg_rating: 86.13
 - [[Wrestler/Bret Hart\|Bret Hart]] (6x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (3x)
 - [[Wrestler/Owen Hart\|Owen Hart]] (1x)
-
-## Letzte 5 Matches
-- 2025-01-16: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Thea Hail\|Thea Hail]], [[Wrestler/Miro\|Miro]], [[Wrestler/CM Punk\|CM Punk]], & [[Wrestler/AJ Styles\|AJ Styles]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ✅ Win, 77%
-- 2025-01-16: [[Royal Rumble]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — 🤝 Draw, 89%
-- 2024-01-29: Big Van Vader Memorial [[Battle Royal]] in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — 🤝 Draw, 91%
-- 2024-01-29: Nature Game Masters  vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — ❌ Loss, 92%
-- 2023-12-15: [[Wrestler/Killshot\|Killshot]], [[Wrestler/Edge\|Edge]], & [[Wrestler/KENTA\|KENTA]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 64%
 
 ## Top Matches
 - 103%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 86
 wins: 45
 losses: 28
-elo: 1291
 draws: 13
 win_percent: 52.3
 avg_rating: 87.48
@@ -16,15 +15,17 @@ avg_rating: 87.48
 
 # Roman Reigns
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Roman_Reigns.png" width="280"></td><td><b>Height:</b> 190cm<br><b>Weight:</b> 121kg<br><b>Finisher:</b> Spear<br><b>Elo Rating:</b> 1291</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Roman_Reigns.png" width="280"></td><td><b>Height:</b> 190cm<br><b>Weight:</b> 121kg<br><b>Finisher:</b> Spear</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 86 | 45 | 28 | 13 | 52.3% | 87.48 | 1291 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 86 | 45 | 28 | 13 | 52.3% | 87.48 |
 
-### 📊 Record
-<img src="/img/charts/roman-reigns_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/roman-reigns_stats.png" width="200"> | **✅✅❌❌✅**<br>- Win vs. Chris Benoit vs. Tommaso Ciampa vs. Roman Reigns<br>- Loss vs. Akira Taue vs. Roman Reigns vs. Daniel Bryan<br>- Loss vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns<br>- Win vs. Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c)<br>- Win vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (14x)
@@ -39,13 +40,6 @@ avg_rating: 87.48
 - [[Wrestler/Triple H\|Triple H]] (6x)
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
-
-## Letzte 5 Matches
-- 2025-10-27: [[Wrestler/Chris Benoit\|Chris Benoit]] vs. [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ✅ Win, 97%
-- 2025-10-27: [[Wrestler/Akira Taue\|Akira Taue]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Daniel Bryan\|Daniel Bryan]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ❌ Loss, 100%
-- 2025-10-27: [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ❌ Loss, 107%
-- 2025-10-27: [[Choke Slam Tag Team Championship]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] (c) in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] — ✅ Win, 93%
-- 2025-10-02: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] — ✅ Win, 88%
 
 ## Top Matches
 - 107%: [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)

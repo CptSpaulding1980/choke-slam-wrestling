@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 14
 wins: 4
 losses: 6
-elo: 1161
 draws: 4
 win_percent: 28.6
 avg_rating: 84.0
@@ -16,15 +15,17 @@ avg_rating: 84.0
 
 # Thea Hail
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Thea_Hail.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1161</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Thea_Hail.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 14 | 4 | 6 | 4 | 28.6% | 84.00 | 1161 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 14 | 4 | 6 | 4 | 28.6% | 84.00 |
 
-### 📊 Record
-<img src="/img/charts/thea-hail_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/thea-hail_stats.png" width="200"> | **⚪️❌⚪️⚪️✅**<br>- Win vs. Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles<br>- Draw vs. Royal Rumble<br>- Draw vs. Trios Royal Rumble<br>- Loss vs. Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c)<br>- Draw vs. Los Jinetes del Aire vs. Militanter Mummenschanz<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (4x)
@@ -39,13 +40,6 @@ avg_rating: 84.0
 - [[Wrestler/Bret Hart\|Bret Hart]] (4x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (3x)
 - [[Wrestler/Alexa Bliss\|Alexa Bliss]] (2x)
-
-## Letzte 5 Matches
-- 2025-01-16: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Thea Hail\|Thea Hail]], [[Wrestler/Miro\|Miro]], [[Wrestler/CM Punk\|CM Punk]], & [[Wrestler/AJ Styles\|AJ Styles]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ✅ Win, 77%
-- 2025-01-16: [[Royal Rumble]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — 🤝 Draw, 89%
-- 2024-04-10: Trios [[Royal Rumble]] in [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] — 🤝 Draw, 93%
-- 2024-01-29: [[Choke Slam Womens Championship]]: [[Wrestler/Sol Ruca\|Sol Ruca]] & [[Wrestler/Thea Hail\|Thea Hail]] vs. [[Wrestler/Tiffany Stratton\|Tiffany Stratton]] & [[Wrestler/Alexa Bliss\|Alexa Bliss]] (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — ❌ Loss, 94%
-- 2024-01-29: Los Jinetes del Aire vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] — 🤝 Draw, 55%
 
 ## Top Matches
 - 103%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

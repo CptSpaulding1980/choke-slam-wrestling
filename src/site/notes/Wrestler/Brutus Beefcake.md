@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 16
 wins: 3
 losses: 4
-elo: 1195
 draws: 9
 win_percent: 18.8
 avg_rating: 89.5
@@ -16,15 +15,17 @@ avg_rating: 89.5
 
 # Brutus Beefcake
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brutus_Beefcake.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1195</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brutus_Beefcake.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 16 | 3 | 4 | 9 | 18.8% | 89.50 | 1195 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 16 | 3 | 4 | 9 | 18.8% | 89.50 |
 
-### 📊 Record
-<img src="/img/charts/brutus-beefcake_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/brutus-beefcake_stats.png" width="200"> | **⚪️⚪️❌❌✅**<br>- Win vs. Roman Reigns vs. Seth Rollins vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Lita<br>- Loss vs. Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair<br>- Loss vs. Diesel vs. Shawn Michaels vs. Brutus Beefcake vs. Hollywood Hogan vs. Bret Hart vs. Miro<br>- Draw vs. Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Best Match:** 100% vs. Pre Show: Brutus Beefcake vs. Jeff Cobb |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (8x)
@@ -39,13 +40,6 @@ avg_rating: 89.5
 - [[Wrestler/Jay White\|Jay White]] (1x)
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (1x)
 - [[Wrestler/Ric Flair\|Ric Flair]] (1x)
-
-## Letzte 5 Matches
-- 2023-12-15: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Lita\|Lita]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ✅ Win, 99%
-- 2023-12-15: [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Ric Flair\|Ric Flair]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 92%
-- 2023-12-15: [[Wrestler/Diesel\|Diesel]] vs. [[Wrestler/Shawn Michaels\|Shawn Michaels]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Miro\|Miro]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 82%
-- 2023-12-15: [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] vs. [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Lita\|Lita]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 100%
-- 2023-12-15: [[Wrestler/EC3\|EC3]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sting\|Sting]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 88%
 
 ## Top Matches
 - 100%: Pre Show: [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Jeff Cobb\|Jeff Cobb]] in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)

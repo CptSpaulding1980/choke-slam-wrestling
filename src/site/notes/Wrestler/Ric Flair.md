@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 21
 wins: 6
 losses: 10
-elo: 1136
 draws: 5
 win_percent: 28.6
 avg_rating: 88.19
@@ -16,15 +15,17 @@ avg_rating: 88.19
 
 # Ric Flair
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ric_Flair.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 111kg<br><b>Finisher:</b> F4LL (S) 1<br><b>Elo Rating:</b> 1136</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ric_Flair.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 111kg<br><b>Finisher:</b> F4LL (S) 1</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 21 | 6 | 10 | 5 | 28.6% | 88.19 | 1136 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 21 | 6 | 10 | 5 | 28.6% | 88.19 |
 
-### 📊 Record
-<img src="/img/charts/ric-flair_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/ric-flair_stats.png" width="200"> | **⚪️❌❌❌❌**<br>- Loss vs. Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair<br>- Loss vs. Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair<br>- Loss vs. Roman Reigns vs. Seth Rollins vs. Edge vs. KENTA vs. Bob Backlund vs. Ric Flair<br>- Loss vs. Finals:Bob Backlund vs. Ric Flair vs. Bret Hart vs. Miro vs. Jay White vs. Jonathan Gresham<br>- Draw vs. EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 88.19
 - [[Wrestler/EC3\|EC3]] (2x)
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (2x)
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (2x)
-
-## Letzte 5 Matches
-- 2023-12-15: [[Wrestler/Shawn Michaels\|Shawn Michaels]] vs. [[Wrestler/Diesel\|Diesel]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Ric Flair\|Ric Flair]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 93%
-- 2023-12-15: [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Ric Flair\|Ric Flair]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 92%
-- 2023-12-15: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] vs. [[Wrestler/Edge\|Edge]] vs. [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Ric Flair\|Ric Flair]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 96%
-- 2023-12-15: Finals:[[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Ric Flair\|Ric Flair]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Miro\|Miro]] vs. [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — ❌ Loss, 96%
-- 2023-12-15: [[Wrestler/EC3\|EC3]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sting\|Sting]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] — 🤝 Draw, 88%
 
 ## Top Matches
 - 99%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Big E\|Big E]], [[Wrestler/Kofi Kingston\|Kofi Kingston]], & [[Wrestler/Xavier Woods\|Xavier Woods]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)

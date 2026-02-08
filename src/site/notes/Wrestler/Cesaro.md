@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 13
 wins: 6
 losses: 5
-elo: 1214
 draws: 2
 win_percent: 46.2
 avg_rating: 87.31
@@ -16,15 +15,17 @@ avg_rating: 87.31
 
 # Cesaro
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cesaro.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1214</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cesaro.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 13 | 6 | 5 | 2 | 46.2% | 87.31 | 1214 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 13 | 6 | 5 | 2 | 46.2% | 87.31 |
 
-### 📊 Record
-<img src="/img/charts/cesaro_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/cesaro_stats.png" width="200"> | **⚪️❌✅✅❌**<br>- Loss vs. Kane vs. Cesaro <br>- Win vs. Tetsuya Naito vs. Cesaro <br>- Win vs. Cesaro  vs. Jushin Liger<br>- Loss vs. Cesaro  vs. Bob Backlund<br>- Draw vs. Andre the Giant Memorial Battle Royal<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Angélico\|Angélico]]<br>**Best Match:** 100% vs. Angélico & Mansoor vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
@@ -38,13 +39,6 @@ avg_rating: 87.31
 - [[Wrestler/Dalton Castle\|Dalton Castle]] (3x)
 - [[Wrestler/Kelly Klein\|Kelly Klein]] (2x)
 - [[Wrestler/Diesel\|Diesel]] (2x)
-
-## Letzte 5 Matches
-- 2021-03-09: [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Cesaro\|Cesaro]]  in [[Events/2021-03-09 - S03E06_Swiss Bliss - Return of the King\|S03E06_Swiss Bliss - Return of the King]] — ❌ Loss, 88%
-- 2021-03-09: [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Cesaro\|Cesaro]]  in [[Events/2021-03-09 - S03E06_Swiss Bliss - A New Hope\|S03E06_Swiss Bliss - A New Hope]] — ✅ Win, 91%
-- 2021-02-25: [[Wrestler/Cesaro\|Cesaro]]  vs. [[Wrestler/Jushin Liger\|Jushin Liger]] in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] — ✅ Win, 85%
-- 2021-02-25: [[Wrestler/Cesaro\|Cesaro]]  vs. [[Wrestler/Bob Backlund\|Bob Backlund]] in [[Events/2021-02-25 - S03E06_Swiss Bliss - Tokyo Drift\|S03E06_Swiss Bliss - Tokyo Drift]] — ❌ Loss, 93%
-- 2020-09-07: Andre the Giant Memorial [[Battle Royal]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] — 🤝 Draw, 82%
 
 ## Top Matches
 - 100%: [[Wrestler/Angélico\|Angélico]] & [[Wrestler/Mansoor\|Mansoor]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)

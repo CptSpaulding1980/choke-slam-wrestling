@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 8
 wins: 3
 losses: 3
-elo: 1209
 draws: 2
 win_percent: 37.5
 avg_rating: 88.75
@@ -16,15 +15,17 @@ avg_rating: 88.75
 
 # Sabu
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sabu.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 107kg<br><b>Finisher:</b> Arabian Facebuster<br><b>Elo Rating:</b> 1209</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sabu.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 107kg<br><b>Finisher:</b> Arabian Facebuster</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 8 | 3 | 3 | 2 | 37.5% | 88.75 | 1209 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 8 | 3 | 3 | 2 | 37.5% | 88.75 |
 
-### 📊 Record
-<img src="/img/charts/sabu_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/sabu_stats.png" width="200"> | **✅✅❌✅⚪️**<br>- Draw vs. Sheik Invitational Rumble incl. Sabu<br>- Win vs. Axl Rotten & Ian Rotten vs. Miro & Sabu<br>- Loss vs. Tag Team Roulette - Saint Rebel Radicalz vs. ChokeSlam Legends (Jake Roberts & Sabu)<br>- Win vs. Exploding Landmine Deathmatch: Big Van Vader vs. Sabu<br>- Win vs. Exploding Landmine Death - Semi Final: Sabu vs. Triple H<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Iron Sheik\|Iron Sheik]]<br>**Best Match:** 100% vs. Choke Slam Tag Team Championship: Sabu  & Iron Sheik vs. Bam Bam Bigelow & Big Van Vader (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (3x)
@@ -37,13 +38,6 @@ avg_rating: 88.75
 - [[Wrestler/Iron Sheik\|Iron Sheik]] (1x)
 - [[Wrestler/Jake Roberts\|Jake Roberts]] (1x)
 - [[Wrestler/Miro\|Miro]] (1x)
-
-## Letzte 5 Matches
-- 2025-05-07: Sheik Invitational Rumble incl. [[Wrestler/Sabu\|Sabu]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] — 🤝 Draw, 84%
-- 2023-06-26: [[Wrestler/Axl Rotten\|Axl Rotten]] & [[Wrestler/Ian Rotten\|Ian Rotten]] vs. [[Wrestler/Miro\|Miro]] & [[Wrestler/Sabu\|Sabu]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] — ✅ Win, 88%
-- 2022-11-07: Tag Team Roulette - [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. ChokeSlam Legends ([[Wrestler/Jake Roberts\|Jake Roberts]] & [[Wrestler/Sabu\|Sabu]]) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] — ❌ Loss, 96%
-- 2022-02-09: Exploding Landmine Deathmatch: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sabu\|Sabu]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] — ✅ Win, 81%
-- 2022-02-09: Exploding Landmine Death - Semi Final: [[Wrestler/Sabu\|Sabu]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] — ✅ Win, 82%
 
 ## Top Matches
 - 100%: [[Choke Slam Tag Team Championship]]: [[Wrestler/Sabu\|Sabu]]  & [[Wrestler/Iron Sheik\|Iron Sheik]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Big Van Vader\|Big Van Vader]] (c) in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)

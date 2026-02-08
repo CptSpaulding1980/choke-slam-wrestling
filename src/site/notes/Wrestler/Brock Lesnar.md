@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 25
 wins: 11
 losses: 10
-elo: 1219
 draws: 4
 win_percent: 44.0
 avg_rating: 78.4
@@ -16,15 +15,17 @@ avg_rating: 78.4
 
 # Brock Lesnar
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brock_Lesnar.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 130kg<br><b>Finisher:</b> Large Rolling DDT<br><b>Elo Rating:</b> 1219</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brock_Lesnar.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 130kg<br><b>Finisher:</b> Large Rolling DDT</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 25 | 11 | 10 | 4 | 44.0% | 78.40 | 1219 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 25 | 11 | 10 | 4 | 44.0% | 78.40 |
 
-### 📊 Record
-<img src="/img/charts/brock-lesnar_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/brock-lesnar_stats.png" width="200"> | **❌✅✅✅⚪️**<br>- Draw vs. Casino Royale: Lady Apache vs. Jon Moxley vs. Brock Lesnar<br>- Win vs. Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz<br>- Win vs. Saint Rebel Radicalz vs. Saint Rebel Radicalz<br>- Win vs. Militanter Mummenschanz vs. Saint Rebel Radicalz<br>- Loss vs. Steel Cage: Brock Lesnar vs. Sasha Banks<br> | **Nemesis:** [[Wrestler/Sting\|Sting]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 102% vs. Sting vs. Brock Lesnar |
 
 ## Häufigste Gegner
 - [[Wrestler/Sting\|Sting]] (5x)
@@ -39,13 +40,6 @@ avg_rating: 78.4
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (3x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (3x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
-
-## Letzte 5 Matches
-- 2026-02-05: Casino Royale: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Jon Moxley\|Jon Moxley]] vs. [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] — 🤝 Draw, 0%
-- 2025-12-30: [[Wrestler/Johnny Gargano\|Johnny Gargano]] & [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 94%
-- 2025-12-30: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 68%
-- 2025-12-30: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] — ✅ Win, 83%
-- 2025-11-18: [[Steel Cage]]: [[Wrestler/Brock Lesnar\|Brock Lesnar]] vs. [[Wrestler/Sasha Banks\|Sasha Banks]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] — ❌ Loss, 89%
 
 ## Top Matches
 - 102%: [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)

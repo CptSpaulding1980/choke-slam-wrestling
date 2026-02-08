@@ -8,7 +8,6 @@ img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/
 matches: 32
 wins: 15
 losses: 11
-elo: 1232
 draws: 6
 win_percent: 46.9
 avg_rating: 80.66
@@ -16,15 +15,17 @@ avg_rating: 80.66
 
 # KUSHIDA
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/KUSHIDA.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A<br><b>Elo Rating:</b> 1232</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/KUSHIDA.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
-| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating | Elo |
-|---|---|---|---|---|---|---|
-| 32 | 15 | 11 | 6 | 46.9% | 80.66 | 1232 |
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 32 | 15 | 11 | 6 | 46.9% | 80.66 |
 
-### 📊 Record
-<img src="/img/charts/kushida_stats.png" width="100%">
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/kushida_stats.png" width="200"> | **✅❌⚪️✅❌**<br>- Loss vs. I got 4 on it<br>- Win vs. I got 4 on it<br>- Draw vs. Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c)<br>- Loss vs. Path of God vs. André The Giant & Sami Zayn<br>- Win vs. Path of God vs. Jonathan Gresham & Jay White<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Best Match:** 99% vs. Asuka vs. Rey Mysterio Jr. vs. KUSHIDA  vs. Kota Ibushi vs. Kazuchika Okada vs. Bryan Danielson vs. Tyler Bate |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (10x)
@@ -39,13 +40,6 @@ avg_rating: 80.66
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (3x)
 - [[Wrestler/Fallon Henley\|Fallon Henley]] (3x)
 - [[Wrestler/Gunther\|Gunther]] (1x)
-
-## Letzte 5 Matches
-- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ❌ Loss, 73%
-- 2025-03-03: I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ✅ Win, 89%
-- 2025-03-03: [[Choke Slam Trios Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]]  vs. Los Jinetes del Aire vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — 🤝 Draw, 98%
-- 2025-03-03: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/André The Giant\|André The Giant]] & [[Wrestler/Sami Zayn\|Sami Zayn]] in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] — ❌ Loss, 63%
-- 2025-01-16: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] & [[Wrestler/Jay White\|Jay White]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] — ✅ Win, 52%
 
 ## Top Matches
 - 99%: [[Wrestler/Asuka\|Asuka]] vs. [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/KUSHIDA\|KUSHIDA]]  vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Bryan Danielson\|Bryan Danielson]] vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)

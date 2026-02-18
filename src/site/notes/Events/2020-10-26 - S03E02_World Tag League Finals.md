@@ -19,7 +19,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Wrestler/Kurt Angle\|Kurt Angle]] & [[Wrestler/Elias\|Elias]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] | Kazuchika Okada beat Kurt Angle in 20 Min 7 Sec with a RING OUT | 20:07 | 87★ | 87 |
+| 1 |  | [[Wrestler/Kurt Angle\|Kurt Angle]] & [[Wrestler/Elias\|Elias]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] | Kazuchika Okada beat Kurt Angle in 20 Min 7 Sec with a RING OUT | 20:07 | ★★★★ | 87 |
 
 ## Links
 - [[Events\|📅 Alle Events]]

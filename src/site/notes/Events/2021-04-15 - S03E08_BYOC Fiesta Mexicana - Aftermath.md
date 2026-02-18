@@ -19,7 +19,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Choke Slam World Championship]]: [[Wrestler/Joey Janela\|Joey Janela]] vs. [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) | Johnny Mundo won a triple threat match against Joey Janela & Kazuchika Okada in  19:28 | 19:28 | 93★ | 93 |
+| 1 |  | [[Choke Slam World Championship]]: [[Wrestler/Joey Janela\|Joey Janela]] vs. [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) | Johnny Mundo won a triple threat match against Joey Janela & Kazuchika Okada in  19:28 | 19:28 | ★★★★½ | 93 |
 
 ## Links
 - [[Events\|📅 Alle Events]]

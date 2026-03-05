@@ -15,7 +15,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 **Venue:** Cow Palace - San Fransisco, California, USA
 
-<img src="/img/posters/2025-12-30-s07e07-turbo-turnier_poster.png" width="100%">
+<img src="/img/posters/2025-12-30-s07e07-turbo-turnier_poster.png" width="250">
 
 ## Matches
 

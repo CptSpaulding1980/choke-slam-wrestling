@@ -7,10 +7,10 @@ tags:
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png
 matches: 16
 wins: 7
-losses: 7
-draws: 2
+losses: 8
+draws: 1
 win_percent: 43.8
-avg_rating: 80.19
+avg_rating: 86.19
 ---
 
 # Lady Apache
@@ -20,12 +20,12 @@ avg_rating: 80.19
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 16 | 7 | 7 | 2 | 43.8% | 80.19 |
+| 16 | 7 | 8 | 1 | 43.8% | 86.19 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/lady-apache_stats.png" width="200"> | **❌❌❌✅⚪️**<br>**Draw:** Casino Royale: Lady Apache vs. Jon Moxley vs. Brock Lesnar in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-02-05)<br>**Win:** Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Bret Hart & Owen Hart vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/lady-apache_stats.png" width="200"> | **❌❌❌✅❌**<br>**Loss:** Casino Royale: Lady Apache vs. Steve Austin vs. Brock Lesnar in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Bret Hart & Owen Hart vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
@@ -36,14 +36,14 @@ avg_rating: 80.19
 
 ## Häufigste Partner
 - [[Wrestler/Wardlow\|Wardlow]] (5x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (2x)
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (2x)
 - [[Wrestler/Jay White\|Jay White]] (2x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (1x)
-- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (1x)
 
 ## Top Matches
 - 104%: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Akira Taue\|Akira Taue]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)
 - 99%: [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] vs. [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Bandido\|Bandido]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)
 - 99%: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Chris Jericho\|Chris Jericho]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)
 - 99%: [[Wrestler/Dominik Mysterio\|Dominik Mysterio]] & [[Wrestler/Finn Bálor\|Finn Bálor]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)
-- 94%: [[Choke Slam Womens Championship]]: [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] vs. [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Awesome Kong\|Awesome Kong]] vs. vs. [[Wrestler/Sasha Banks\|Sasha Banks]] vs. [[Wrestler/Kiana James\|Kiana James]] (c) in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)
+- 96%: Casino Royale: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Steve Austin\|Steve Austin]] vs. [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)

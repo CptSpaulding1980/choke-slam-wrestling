@@ -5,12 +5,12 @@ title: Edge
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Edge.png
-matches: 40
+matches: 43
 wins: 15
-losses: 16
-draws: 9
-win_percent: 37.5
-avg_rating: 84.72
+losses: 18
+draws: 10
+win_percent: 34.9
+avg_rating: 82.91
 ---
 
 # Edge
@@ -20,23 +20,23 @@ avg_rating: 84.72
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 40 | 15 | 16 | 9 | 37.5% | 84.72 |
+| 43 | 15 | 18 | 10 | 34.9% | 82.91 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/edge_stats.png" width="200"> | **❌❌✅⚪️⚪️**<br>**Draw:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-02-05)<br>**Draw:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-02-05)<br>**Win:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Saint Rebel Radicalz vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Saint Rebel Radicalz vs.Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/KENTA\|KENTA]]<br>**Best Match:** 100% vs. Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada |
+| <img src="/img/charts/edge_stats.png" width="200"> | **⚪️⚪️⚪️❌❌**<br>**Loss:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Phlipps Filler: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/KENTA\|KENTA]]<br>**Best Match:** 100% vs. Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart\|Bret Hart]] (6x)
-- [[Wrestler/Wardlow\|Wardlow]] (6x)
-- [[Wrestler/Triple H\|Triple H]] (5x)
-- [[Wrestler/KENTA\|KENTA]] (5x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (7x)
+- [[Wrestler/Wardlow\|Wardlow]] (7x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (6x)
+- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (6x)
 
 ## Häufigste Partner
 - [[Wrestler/KENTA\|KENTA]] (10x)
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (6x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (8x)
 - [[Wrestler/Killshot\|Killshot]] (5x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
 - [[Wrestler/Joey Janela\|Joey Janela]] (2x)

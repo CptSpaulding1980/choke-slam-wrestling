@@ -5,12 +5,12 @@ title: Hiroshi Tanahashi
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hiroshi_Tanahashi.png
-matches: 53
-wins: 32
+matches: 58
+wins: 34
 losses: 13
-draws: 8
-win_percent: 60.4
-avg_rating: 82.36
+draws: 11
+win_percent: 58.6
+avg_rating: 81.05
 ---
 
 # Hiroshi Tanahashi
@@ -20,19 +20,19 @@ avg_rating: 82.36
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 53 | 32 | 13 | 8 | 60.4% | 82.36 |
+| 58 | 34 | 13 | 11 | 58.6% | 81.05 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/hiroshi-tanahashi_stats.png" width="200"> | **⚪️⚪️✅✅✅**<br>**Win:** Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Win:** Cody Rhodes & Oba Femi vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Win:** Johnny Gargano & Tommaso Ciampa vs.Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Draw:** Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Draw:** Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Toru Yano\|Toru Yano]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
+| <img src="/img/charts/hiroshi-tanahashi_stats.png" width="200"> | **⚪️✅⚪️✅⚪️**<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Iron Man: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Toru Yano\|Toru Yano]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (15x)
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (10x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (9x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (8x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (8x)
-- [[Wrestler/Triple H\|Triple H]] (7x)
 
 ## Häufigste Partner
 - [[Wrestler/Toru Yano\|Toru Yano]] (4x)

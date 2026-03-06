@@ -5,12 +5,12 @@ title: Steve Austin
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Steve_Austin.png
-matches: 37
+matches: 40
 wins: 9
-losses: 25
-draws: 3
-win_percent: 24.3
-avg_rating: 85.24
+losses: 26
+draws: 5
+win_percent: 22.5
+avg_rating: 81.25
 ---
 
 # Steve Austin
@@ -20,26 +20,26 @@ avg_rating: 85.24
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 37 | 9 | 25 | 3 | 24.3% | 85.24 |
+| 40 | 9 | 26 | 5 | 22.5% | 81.25 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/steve-austin_stats.png" width="200"> | **❌❌❌❌❌**<br>**Loss:** Bret Hart & Owen Hart vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Dominik Mysterio & Finn Bálor vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** War Games 2: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** War Games 3: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
+| <img src="/img/charts/steve-austin_stats.png" width="200"> | **❌❌⚪️⚪️❌**<br>**Loss:** Casino Royale: Lady Apache vs. Steve Austin vs. Brock Lesnar in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Phlipps Filler: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Loss:** Bret Hart & Owen Hart vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (7x)
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (5x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (7x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (6x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (5x)
-- [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)
+- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (5x)
 
 ## Häufigste Partner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (6x)
 - [[Wrestler/Akira Taue\|Akira Taue]] (6x)
 - [[Wrestler/Adam Page\|Adam Page]] (5x)
 - [[Wrestler/Christian Cage\|Christian Cage]] (2x)
-- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
+- [[Wrestler/Lady Apache\|Lady Apache]] (2x)
 
 ## Top Matches
 - 100%: Pre Show: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Steve Austin\|Steve Austin]] in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)

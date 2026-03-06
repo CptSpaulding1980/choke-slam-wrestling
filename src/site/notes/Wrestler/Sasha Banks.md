@@ -6,11 +6,11 @@ tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sasha_Banks.png
 matches: 13
-wins: 5
+wins: 7
 losses: 3
-draws: 5
-win_percent: 38.5
-avg_rating: 73.23
+draws: 3
+win_percent: 53.8
+avg_rating: 86.38
 ---
 
 # Sasha Banks
@@ -20,12 +20,12 @@ avg_rating: 73.23
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 13 | 5 | 3 | 5 | 38.5% | 73.23 |
+| 13 | 7 | 3 | 3 | 53.8% | 86.38 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sasha-banks_stats.png" width="200"> | **❌❌✅⚪️⚪️**<br>**Draw:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-02-05)<br>**Draw:** Submission Match: Militanter Mummenschanv. sSweet 'n Sour Elite in [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-02-05)<br>**Win:** Steel Cage: Brock Lesnar vs. Sasha Banks in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Steel Cage: Wardlow vs. Sasha Banks in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Chris Jericho vs. Daniel Bryan vs. Sasha Banks in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 100% vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks |
+| <img src="/img/charts/sasha-banks_stats.png" width="200"> | **❌❌✅✅✅**<br>**Win:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Steel Cage: Brock Lesnar vs. Sasha Banks in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Steel Cage: Wardlow vs. Sasha Banks in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Chris Jericho vs. Daniel Bryan vs. Sasha Banks in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Jon Moxley\|Jon Moxley]]<br>**Best Match:** 100% vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks |
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
@@ -35,6 +35,7 @@ avg_rating: 73.23
 - [[Wrestler/Pete Dunne\|Pete Dunne]] (2x)
 
 ## Häufigste Partner
+- [[Wrestler/Jon Moxley\|Jon Moxley]] (2x)
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
 - [[Wrestler/Chris Benoit\|Chris Benoit]] (1x)
 

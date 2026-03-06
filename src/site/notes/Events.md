@@ -8,7 +8,7 @@ title: Events
 
 | Date | Event | Matches |
 |---|---|---|
-| 2026-02-05 | [[Events/2026-02-05 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] | 5 |
+| 2026-03-03 | [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] | 14 |
 | 2025-12-30 | [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] | 18 |
 | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] | 22 |
 | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] | 23 |

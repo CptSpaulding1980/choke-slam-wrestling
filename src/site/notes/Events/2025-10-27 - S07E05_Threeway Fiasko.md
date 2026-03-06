@@ -6,7 +6,7 @@ date: "2025-10-27"
 promotion: "Choke Slam Wrestling"
 venue: "1st Mariner Arena"
 location: "Baltimore, Maryland, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
+image: "{{ site.baseurl }}/img/posters/2025-10-27-s07e05-threeway-fiasko_poster.png"
 ---
 
 # <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E05_Threeway Fiasko**
@@ -15,7 +15,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
 
-<img src="/img/posters/2025-10-27-s07e05-threeway-fiasko_poster.png" width="300">
+<img src="/img/posters/2025-10-27-s07e05-threeway-fiasko_poster.png" width="250">
 
 ## Matches
 

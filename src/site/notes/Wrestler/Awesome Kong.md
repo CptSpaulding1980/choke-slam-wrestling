@@ -5,12 +5,12 @@ title: Awesome Kong
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Awesome_Kong.png
-matches: 35
+matches: 39
 wins: 16
-losses: 14
-draws: 5
-win_percent: 45.7
-avg_rating: 83.29
+losses: 15
+draws: 8
+win_percent: 41.0
+avg_rating: 83.67
 ---
 
 # Awesome Kong
@@ -20,19 +20,19 @@ avg_rating: 83.29
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 35 | 16 | 14 | 5 | 45.7% | 83.29 |
+| 39 | 16 | 15 | 8 | 41.0% | 83.67 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/awesome-kong_stats.png" width="200"> | **✅✅❌❌✅**<br>**Win:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Saint Rebel Radicalz vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Saint Rebel Radicalz vs.Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Win:** War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Win:** War Games 2: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
+| <img src="/img/charts/awesome-kong_stats.png" width="200"> | **✅❌⚪️⚪️⚪️**<br>**Draw:** Iron Man Match: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Iron Man: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Loss:** Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
 
 ## Häufigste Gegner
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (5x)
 - [[Wrestler/Joey Janela\|Joey Janela]] (5x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (5x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)
-- [[Wrestler/Lex Luger\|Lex Luger]] (4x)
-- [[Wrestler/The Blade\|The Blade]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Kane\|Kane]] (4x)

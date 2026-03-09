@@ -15,6 +15,8 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
 
+<img src="/img/posters/2026-03-03-s07e08-royal-rumble_poster.jpg" width="250">
+
 ## Matches
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |

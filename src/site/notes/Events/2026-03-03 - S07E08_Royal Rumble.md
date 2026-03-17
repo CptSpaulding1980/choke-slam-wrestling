@@ -15,8 +15,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
 
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S07E08_Royal.Rumble.jpg" width="250">
-
 ## Matches
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |

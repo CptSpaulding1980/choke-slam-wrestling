@@ -28,13 +28,13 @@
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png" alt="Akira Taue">
     <span>Akira Taue</span>
   </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bam-bam-bigelow" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bam_Bam_Bigelow.png" alt="Bam Bam Bigelow">
-    <span>Bam Bam Bigelow</span>
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/jon-moxley" class="champ-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jon_Moxley.png" alt="Jon Moxley">
+    <span>Jon Moxley</span>
   </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bandido" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bandido.png" alt="Bandido">
-    <span>Bandido</span>
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/konosuke-takeshita" class="champ-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/KONOSUKE_TAKESHITA.png" alt="Konosuke Takeshita">
+    <span>Konosuke Takeshita</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/sasha-banks" class="champ-card">
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sasha_Banks.png" alt="Sasha Banks">

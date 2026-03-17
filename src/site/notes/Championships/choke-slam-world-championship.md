@@ -24,4 +24,4 @@ title: Choke Slam World Championship
 | [[Wrestler/Big Van Vader\|Big Van Vader]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 2023-05-30 | 194 | 2 |
 | [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 2024-01-29 | 244 | 3 |
 | [[Wrestler/Roman Reigns\|Roman Reigns]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 2025-10-02 | 612 | 4 |
-| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | Current | ongoing | 2 |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | Current | ongoing | 3 |

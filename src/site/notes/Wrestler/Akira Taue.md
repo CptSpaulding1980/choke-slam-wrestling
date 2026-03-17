@@ -7,10 +7,10 @@ tags:
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png
 matches: 24
 wins: 7
-losses: 12
-draws: 5
+losses: 14
+draws: 3
 win_percent: 29.2
-avg_rating: 80.75
+avg_rating: 86.83
 ---
 
 # Akira Taue
@@ -20,26 +20,26 @@ avg_rating: 80.75
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 24 | 7 | 12 | 5 | 29.2% | 80.75 |
+| 24 | 7 | 14 | 3 | 29.2% | 86.83 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/akira-taue_stats.png" width="200"> | **⚪️⚪️⚪️❌⚪️**<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Loss:** Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Iron Man Match: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/akira-taue_stats.png" width="200"> | **❌⚪️⚪️❌⚪️**<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Iron Man Match: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (6x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (5x)
-- [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] (5x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (4x)
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (4x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (5x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (4x)
+- [[Wrestler/Wardlow\|Wardlow]] (3x)
 
 ## Häufigste Partner
 - [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]] (9x)
-- [[Wrestler/Steve Austin\|Steve Austin]] (6x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (8x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (4x)
+- [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] (3x)
 - [[Wrestler/Adam Page\|Adam Page]] (2x)
-- [[Wrestler/Wardlow\|Wardlow]] (1x)
 
 ## Top Matches
 - 104%: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Akira Taue\|Akira Taue]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)

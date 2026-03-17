@@ -5,12 +5,12 @@ title: Will Ospreay
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Will_Ospreay.png
-matches: 10
-wins: 3
+matches: 11
+wins: 4
 losses: 3
 draws: 4
-win_percent: 30.0
-avg_rating: 82.6
+win_percent: 36.4
+avg_rating: 83.45
 ---
 
 # Will Ospreay
@@ -20,12 +20,12 @@ avg_rating: 82.6
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 10 | 3 | 3 | 4 | 30.0% | 82.60 |
+| 11 | 4 | 3 | 4 | 36.4% | 83.45 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/will-ospreay_stats.png" width="200"> | **❌✅❌❌⚪️**<br>**Draw:** Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)<br>**Loss:** D: Will Ospreay vs. Roman Reigns in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br>**Loss:** D: Kota Ibushi vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br>**Win:** D: Toru Yano vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br>**Loss:** D: Gunther vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/will-ospreay_stats.png" width="200"> | **✅❌❌⚪️✅**<br>**Win:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)<br>**Loss:** D: Will Ospreay vs. Roman Reigns in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br>**Loss:** D: Kota Ibushi vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br>**Win:** D: Toru Yano vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
@@ -43,5 +43,5 @@ avg_rating: 82.6
 - 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)
 - 95%: [[Wrestler/Will Ospreay\|Will Ospreay]] vs. [[Wrestler/Isaac Yankem\|Isaac Yankem]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
 - 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
+- 92%: [[Royal Rumble]] in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)
 - 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
-- 88%: [[Wrestler/William Regal\|William Regal]] vs. [[Wrestler/Will Ospreay\|Will Ospreay]] vs. [[Wrestler/El Ligero\|El Ligero]] vs. [[Wrestler/Jimmy Havoc\|Jimmy Havoc]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)

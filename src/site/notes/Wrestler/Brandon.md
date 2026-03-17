@@ -27,6 +27,11 @@ avg_rating: 85.87
 |:---:|---|---|
 | <img src="/img/charts/brandon_stats.png" width="200"> | **✅❌❌⚪️✅**<br>**Win:** Money in the Bank No Ladder Match in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Draw:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Saint Rebel Radicalz vs. Angélico, Becky Lynch, Chris Hero, & Shawn Michaels in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Dune (2 vs 4 Handicap): Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Grayson Waller\|Grayson Waller]]<br>**Best Match:** 104% vs. Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano |
 
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 2023-10-09 | [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] | 132 | 0 |
+
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (8x)
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (7x)

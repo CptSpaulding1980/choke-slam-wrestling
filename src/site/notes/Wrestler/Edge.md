@@ -6,11 +6,11 @@ tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Edge.png
 matches: 43
-wins: 15
-losses: 18
-draws: 10
-win_percent: 34.9
-avg_rating: 82.91
+wins: 17
+losses: 19
+draws: 7
+win_percent: 39.5
+avg_rating: 88.7
 ---
 
 # Edge
@@ -20,23 +20,30 @@ avg_rating: 82.91
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 43 | 15 | 18 | 10 | 34.9% | 82.91 |
+| 43 | 17 | 19 | 7 | 39.5% | 88.70 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/edge_stats.png" width="200"> | **⚪️⚪️⚪️❌❌**<br>**Loss:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Phlipps Filler: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/KENTA\|KENTA]]<br>**Best Match:** 100% vs. Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada |
+> [!WARNING] **Current Choke Slam Trios Championship**
+
+| <img src="/img/charts/edge_stats.png" width="200"> | **✅❌✅❌❌**<br>**Loss:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Philipps Filler: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Choke Slam World Trios Championship: Pete Dunne, Trent Seven & Tyler Bate vs. Kensuke Sasaki, Edge & Roman Reigns (c)  in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/KENTA\|KENTA]]<br>**Best Match:** 100% vs. Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada |
+
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | Heute | - | ongoing | 0 |
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (7x)
 - [[Wrestler/Wardlow\|Wardlow]] (7x)
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (6x)
-- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (6x)
+- [[Wrestler/Triple H\|Triple H]] (5x)
+- [[Wrestler/KENTA\|KENTA]] (5x)
+- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
 
 ## Häufigste Partner
 - [[Wrestler/KENTA\|KENTA]] (10x)
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (8x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (10x)
 - [[Wrestler/Killshot\|Killshot]] (5x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
 - [[Wrestler/Joey Janela\|Joey Janela]] (2x)

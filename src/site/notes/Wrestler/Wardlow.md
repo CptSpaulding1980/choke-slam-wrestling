@@ -5,12 +5,12 @@ title: Wardlow
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wardlow.png
-matches: 27
-wins: 10
+matches: 28
+wins: 12
 losses: 14
-draws: 3
-win_percent: 37.0
-avg_rating: 85.93
+draws: 2
+win_percent: 42.9
+avg_rating: 88.14
 ---
 
 # Wardlow
@@ -20,12 +20,12 @@ avg_rating: 85.93
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 27 | 10 | 14 | 3 | 37.0% | 85.93 |
+| 28 | 12 | 14 | 2 | 42.9% | 88.14 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/wardlow_stats.png" width="200"> | **❌✅⚪️✅❌**<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Bret Hart & Owen Hart vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/wardlow_stats.png" width="200"> | **✅✅✅✅❌**<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Edge\|Edge]] (7x)
@@ -35,7 +35,7 @@ avg_rating: 85.93
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (4x)
 
 ## Häufigste Partner
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (12x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (14x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (6x)
 - [[Wrestler/Lady Apache\|Lady Apache]] (5x)
 - [[Wrestler/Jay White\|Jay White]] (4x)

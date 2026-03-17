@@ -5,12 +5,12 @@ title: CM Punk
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CM_Punk.png
-matches: 23
+matches: 24
 wins: 7
 losses: 9
-draws: 7
-win_percent: 30.4
-avg_rating: 86.13
+draws: 8
+win_percent: 29.2
+avg_rating: 86.38
 ---
 
 # CM Punk
@@ -20,19 +20,19 @@ avg_rating: 86.13
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 23 | 7 | 9 | 7 | 30.4% | 86.13 |
+| 24 | 7 | 9 | 8 | 29.2% | 86.38 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/cm-punk_stats.png" width="200"> | **❌❌⚪️⚪️✅**<br>**Win:** Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Killshot, Edge, & KENTA vs. Militanter Mummenschanz in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Thea Hail\|Thea Hail]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/cm-punk_stats.png" width="200"> | **❌⚪️⚪️✅⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Thea Hail\|Thea Hail]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (6x)
+- [[Wrestler/Diesel\|Diesel]] (5x)
 - [[Wrestler/KENTA\|KENTA]] (5x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (5x)
-- [[Wrestler/Diesel\|Diesel]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Thea Hail\|Thea Hail]] (7x)

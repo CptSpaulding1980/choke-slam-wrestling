@@ -5,12 +5,12 @@ title: Cameron Grimes
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cameron_Grimes.png
-matches: 2
+matches: 1
 wins: 0
 losses: 0
-draws: 2
+draws: 1
 win_percent: 0.0
-avg_rating: 46.0
+avg_rating: 92.0
 ---
 
 # Cameron Grimes
@@ -20,20 +20,19 @@ avg_rating: 46.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 2 | 0 | 0 | 2 | 0.0% | 46.00 |
+| 1 | 0 | 0 | 1 | 0.0% | 92.00 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/cameron-grimes_stats.png" width="200"> | **⚪️⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)<br> | **Nemesis:** [[Wrestler/Big Ryck\|Big Ryck]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega |
+| <img src="/img/charts/cameron-grimes_stats.png" width="200"> | **⚪️**<br>**Draw:** Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)<br> | **Nemesis:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega |
 
 ## Häufigste Gegner
-- [[Wrestler/Big Ryck\|Big Ryck]] (2x)
-- [[Wrestler/Velveteen Dream\|Velveteen Dream]] (2x)
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (1x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (1x)
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
+- [[Wrestler/Luna Vachon\|Luna Vachon]] (1x)
+- [[Wrestler/Big Ryck\|Big Ryck]] (1x)
 
 ## Top Matches
 - 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
-- 0%: [[Royal Rumble]] in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)

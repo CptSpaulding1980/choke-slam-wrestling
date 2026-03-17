@@ -5,12 +5,12 @@ title: Diesel
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Diesel.png
-matches: 32
+matches: 33
 wins: 14
 losses: 13
-draws: 5
-win_percent: 43.8
-avg_rating: 87.19
+draws: 6
+win_percent: 42.4
+avg_rating: 87.33
 ---
 
 # Diesel
@@ -20,19 +20,19 @@ avg_rating: 87.19
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 32 | 14 | 13 | 5 | 43.8% | 87.19 |
+| 33 | 14 | 13 | 6 | 42.4% | 87.33 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/diesel_stats.png" width="200"> | **✅✅❌✅✅**<br>**Win:** Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Sweet 'n Sour Elite vs. Diesel & Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Bret Hart & Owen Hart vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Saint Rebel Radicalz vs. Path of God in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Shawn Michaels\|Shawn Michaels]]<br>**Best Match:** 99% vs. Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin |
+| <img src="/img/charts/diesel_stats.png" width="200"> | **✅❌✅✅⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Sweet 'n Sour Elite vs. Diesel & Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Bret Hart & Owen Hart vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Saint Rebel Radicalz vs. Path of God in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Shawn Michaels\|Shawn Michaels]]<br>**Best Match:** 99% vs. Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (8x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (6x)
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (6x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
-- [[Wrestler/Owen Hart\|Owen Hart]] (5x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
 
 ## Häufigste Partner
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (7x)

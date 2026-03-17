@@ -27,6 +27,11 @@ avg_rating: 84.34
 |:---:|---|---|
 | <img src="/img/charts/the-undertaker_stats.png" width="200"> | **⚪️❌❌✅✅**<br>**Win:** Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Loss:** Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Loss:** Choke Slam International Championship: Bret Hart vs. Finn Bálor vs. The Undertaker vs. Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Draw:** Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Gunther\|Gunther]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
 
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2025-05-07 | [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 97 | 2 |
+
 ## Häufigste Gegner
 - [[Wrestler/Triple H\|Triple H]] (11x)
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (10x)

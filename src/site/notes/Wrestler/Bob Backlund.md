@@ -27,6 +27,12 @@ avg_rating: 89.02
 |:---:|---|---|
 | <img src="/img/charts/bob-backlund_stats.png" width="200"> | **❌✅✅⚪️✅**<br>**Win:** Sweet 'n Sour Elite vs. Bob Backlund, Kazuchika Okada, & Rey Fenix in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Dijak vs. Bob Backlund in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br>**Win:** Drew Gulak vs. Bob Backlund in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br>**Loss:** Tama Tonga vs. Bob Backlund in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  |
 
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2021-08-23 | [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 451 | 5 |
+| [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | 2021-05-18 | [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] | 8 | 0 |
+
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (12x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (10x)

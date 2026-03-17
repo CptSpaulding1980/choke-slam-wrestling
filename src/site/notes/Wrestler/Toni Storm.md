@@ -27,6 +27,11 @@ avg_rating: 84.75
 |:---:|---|---|
 | <img src="/img/charts/toni-storm_stats.png" width="200"> | **⚪️⚪️✅❌**<br>**Loss:** Choke Slam Womens Championship: Alexa Bliss vs. Toni Storm (c) in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)<br>**Win:** Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)<br>**Draw:** Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
 
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-womens-championship\|Choke Slam Womens Championship]] | 2023-03-29 | [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] | 2023-04-19 | [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] | 21 | 0 |
+
 ## Häufigste Gegner
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)

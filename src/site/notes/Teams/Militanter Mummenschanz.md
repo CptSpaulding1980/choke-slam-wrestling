@@ -28,17 +28,17 @@
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Daniel_Bryan.png" alt="Daniel Bryan">
     <span>Daniel Bryan</span>
   </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/jay-white" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jay_White.png" alt="Jay White">
-    <span>Jay White</span>
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bret-hart" class="champ-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bret_Hart.png" alt="Bret Hart">
+    <span>Bret Hart</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/lady-apache" class="champ-card">
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png" alt="Lady Apache">
     <span>Lady Apache</span>
   </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/lex-luger" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lex_Luger.png" alt="Lex Luger">
-    <span>Lex Luger</span>
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/hiroshi-tanahashi" class="champ-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hiroshi_Tanahashi.png" alt="Hiroshi Tanahashi">
+    <span>Hiroshi Tanahashi</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/wardlow" class="champ-card">
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wardlow.png" alt="Wardlow">

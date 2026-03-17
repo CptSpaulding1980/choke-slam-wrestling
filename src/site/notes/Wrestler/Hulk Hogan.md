@@ -27,6 +27,12 @@ avg_rating: 86.83
 |:---:|---|---|
 | <img src="/img/charts/hulk-hogan_stats.png" width="200"> | **❌✅❌❌❌**<br>**Loss:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Win:** Diesel vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Big Van Vader vs. Hulk Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Brandon\|Brandon]]<br>**Best Match:** 105% vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  |
 
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | 2023-10-09 | [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|2023-10-09 - S05E09_Survivor Series - War Games]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 112 | 0 |
+| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 244 | 3 |
+
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (12x)
 - [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (9x)

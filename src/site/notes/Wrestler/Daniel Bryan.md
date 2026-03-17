@@ -5,12 +5,12 @@ title: Daniel Bryan
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Daniel_Bryan.png
-matches: 33
-wins: 20
+matches: 34
+wins: 22
 losses: 12
-draws: 1
-win_percent: 60.6
-avg_rating: 85.18
+draws: 0
+win_percent: 64.7
+avg_rating: 87.03
 ---
 
 # Daniel Bryan
@@ -20,25 +20,32 @@ avg_rating: 85.18
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 33 | 20 | 12 | 1 | 60.6% | 85.18 |
+| 34 | 22 | 12 | 0 | 64.7% | 87.03 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/daniel-bryan_stats.png" width="200"> | **✅✅⚪️✅❌**<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Win:** Cody Rhodes & Oba Femi vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 100% vs. Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
+| <img src="/img/charts/daniel-bryan_stats.png" width="200"> | **✅✅✅✅❌**<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 100% vs. Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
+
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | 67 | 0 |
+| [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 0 | 0 |
+| [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | 2025-06-03 | [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 79 | 1 |
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (10x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (5x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
-- [[Wrestler/Steve Austin\|Steve Austin]] (4x)
 - [[Wrestler/Edge\|Edge]] (4x)
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (4x)
 
 ## Häufigste Partner
-- [[Wrestler/Wardlow\|Wardlow]] (12x)
+- [[Wrestler/Wardlow\|Wardlow]] (14x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (7x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
-- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (5x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (5x)
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (2x)
 
 ## Top Matches

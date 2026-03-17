@@ -27,6 +27,11 @@ avg_rating: 85.65
 |:---:|---|---|
 | <img src="/img/charts/sting_stats.png" width="200"> | **⚪️❌✅⚪️✅**<br>**Win:** Sweet 'n Sour Elite vs. Kurt Angle & Sting in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Sting vs. Jon Moxley in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Brock Lesnar vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** Sting vs. Hollywood Hogan in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Best Match:** 102% vs. Sting vs. Brock Lesnar |
 
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2022-06-28 | [[Events/2022-06-28 - S04E09_Royal Rumble\|2022-06-28 - S04E09_Royal Rumble]] | 2022-12-16 | [[Events/2022-12-16 - S05E01_King of the Ring\|2022-12-16 - S05E01_King of the Ring]] | 171 | 0 |
+
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)

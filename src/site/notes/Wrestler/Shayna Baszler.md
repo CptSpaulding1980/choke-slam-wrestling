@@ -27,6 +27,11 @@ avg_rating: 80.5
 |:---:|---|---|
 | <img src="/img/charts/shayna-baszler_stats.png" width="200"> | **✅✅❌❌**<br>**Loss:** Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br>**Loss:** Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)<br>**Win:** Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)<br>**Win:** Choke Slam Womens Championship: Aoife Valkyrie vs. Killer Kelly vs. Madison Rayne vs. Shayna Baszler in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br> | **Nemesis:** [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 90% vs. Choke Slam Womens Championship: Toni Storm vs. Shayna Baszler (c) |
 
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-womens-championship\|Choke Slam Womens Championship]] | 2022-10-02 | [[Events/2022-10-02 - S04E11_Musik\|2022-10-02 - S04E11_Musik]] | 2023-03-29 | [[Events/2023-03-29 - S05E03_Europa - Day 1\|2023-03-29 - S05E03_Europa - Day 1]] | 178 | 0 |
+
 ## Häufigste Gegner
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

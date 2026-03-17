@@ -36,13 +36,13 @@
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Edge.png" alt="Edge">
     <span>Edge</span>
   </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/kensuke-sasaki" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kensuke_Sasaki.png" alt="Kensuke Sasaki">
-    <span>Kensuke Sasaki</span>
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/brock-lesnar" class="champ-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brock_Lesnar.png" alt="Brock Lesnar">
+    <span>Brock Lesnar</span>
   </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/roman-reigns" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Roman_Reigns.png" alt="Roman Reigns">
-    <span>Roman Reigns</span>
+  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/kazuchika-okada" class="champ-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kazuchika_Okada.png" alt="Kazuchika Okada">
+    <span>Kazuchika Okada</span>
   </a>
 </div>
 

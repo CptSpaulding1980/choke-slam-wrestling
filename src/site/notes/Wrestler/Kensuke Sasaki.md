@@ -5,12 +5,12 @@ title: Kensuke Sasaki
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kensuke_Sasaki.png
-matches: 25
-wins: 13
+matches: 26
+wins: 14
 losses: 9
 draws: 3
-win_percent: 52.0
-avg_rating: 86.84
+win_percent: 53.8
+avg_rating: 87.15
 ---
 
 # Kensuke Sasaki
@@ -20,12 +20,17 @@ avg_rating: 86.84
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 25 | 13 | 9 | 3 | 52.0% | 86.84 |
+| 26 | 14 | 9 | 3 | 53.8% | 87.15 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kensuke-sasaki_stats.png" width="200"> | **✅✅✅❌✅**<br>**Win:** Kensuke Sasaki vs. Lady Apache vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Wardlow vs. Kensuke Sasaki vs. Jay White in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Win:** Bam Bam Bigelow vs. Kensuke Sasaki vs. Bret Hart in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Win:** Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c) in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Win:** Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)<br> | **Nemesis:** [[Wrestler/Wardlow\|Wardlow]]<br>**Partner:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/kensuke-sasaki_stats.png" width="200"> | **✅✅❌✅✅**<br>**Win:** Choke Slam World Trios Championship: Pete Dunne, Trent Seven & Tyler Bate vs. Kensuke Sasaki, Edge & Roman Reigns (c)  in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Kensuke Sasaki vs. Lady Apache vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Wardlow vs. Kensuke Sasaki vs. Jay White in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Win:** Bam Bam Bigelow vs. Kensuke Sasaki vs. Bret Hart in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Win:** Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c) in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br> | **Nemesis:** [[Wrestler/Wardlow\|Wardlow]]<br>**Partner:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Best Match:** 100% vs. Reveal Rumble |
+
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] | 22 | 0 |
 
 ## Häufigste Gegner
 - [[Wrestler/Wardlow\|Wardlow]] (6x)
@@ -35,15 +40,15 @@ avg_rating: 86.84
 - [[Wrestler/Steve Austin\|Steve Austin]] (3x)
 
 ## Häufigste Partner
-- [[Wrestler/Roman Reigns\|Roman Reigns]] (6x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (7x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
 - [[Wrestler/Jay White\|Jay White]] (2x)
+- [[Wrestler/Edge\|Edge]] (2x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
 
 ## Top Matches
 - 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)
 - 99%: [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] vs. [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Bandido\|Bandido]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)
 - 97%: 1/8 Finals: [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] vs. [[Wrestler/William Regal\|William Regal]] in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)
 - 95%: [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] vs. [[Wrestler/Bret Hart\|Bret Hart]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)
-- 93%: 1/4 Finals: [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)
+- 95%: [[Choke Slam World Trios Championship]]: [[Wrestler/Pete Dunne\|Pete Dunne]], [[Wrestler/Trent Seven\|Trent Seven]] & [[Wrestler/Tyler Bate\|Tyler Bate]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]], [[Wrestler/Edge\|Edge]] & [[Wrestler/Roman Reigns\|Roman Reigns]] (c)  in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)

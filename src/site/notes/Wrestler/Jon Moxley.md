@@ -7,10 +7,10 @@ tags:
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jon_Moxley.png
 matches: 31
 wins: 17
-losses: 10
-draws: 4
+losses: 12
+draws: 2
 win_percent: 54.8
-avg_rating: 82.68
+avg_rating: 87.39
 ---
 
 # Jon Moxley
@@ -20,19 +20,19 @@ avg_rating: 82.68
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 31 | 17 | 10 | 4 | 54.8% | 82.68 |
+| 31 | 17 | 12 | 2 | 54.8% | 87.39 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jon-moxley_stats.png" width="200"> | **❌⚪️⚪️✅✅**<br>**Win:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Phlipps Filler: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Loss:** Jon Moxley vs. Hiroshi Tanahashi in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/jon-moxley_stats.png" width="200"> | **❌❌❌✅✅**<br>**Win:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Jon Moxley vs. Hiroshi Tanahashi in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Jay White\|Jay White]] (7x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (6x)
 - [[Wrestler/Miro\|Miro]] (6x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (5x)
-- [[Wrestler/Edge\|Edge]] (5x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)
+- [[Wrestler/Edge\|Edge]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (16x)

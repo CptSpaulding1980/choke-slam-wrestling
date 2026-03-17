@@ -5,12 +5,12 @@ title: Tetsuya Naito
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tetsuya_Naito.png
-matches: 68
+matches: 69
 wins: 26
 losses: 31
-draws: 11
-win_percent: 38.2
-avg_rating: 85.71
+draws: 12
+win_percent: 37.7
+avg_rating: 85.8
 ---
 
 # Tetsuya Naito
@@ -20,12 +20,18 @@ avg_rating: 85.71
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 68 | 26 | 31 | 11 | 38.2% | 85.71 |
+| 69 | 26 | 31 | 12 | 37.7% | 85.80 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/tetsuya-naito_stats.png" width="200"> | **⚪️❌❌❌✅**<br>**Win:** Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Saint Rebel Radicalz vs. Path of God in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Draw:** Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
+| <img src="/img/charts/tetsuya-naito_stats.png" width="200"> | **❌❌❌✅⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Saint Rebel Radicalz vs. Path of God in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
+
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2021-05-18 | [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] | 2021-06-15 | [[Events/2021-06-15 - S03E11_Sûper Canada!\|2021-06-15 - S03E11_Sûper Canada!]] | 28 | 0 |
+| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | 2021-07-26 | [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] | 77 | 2 |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (12x)

@@ -27,6 +27,11 @@ avg_rating: 86.97
 |:---:|---|---|
 | <img src="/img/charts/johnny-mundo_stats.png" width="200"> | **✅✅✅⚪️⚪️**<br>**Draw:** Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Win:** Dan Koloff HC Tournament: Johnny Mundo (w/The Miz) vs. Hulk Hogan (w/Jimmy Hart) in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] (2021-07-26)<br>**Win:** Dan Koloff HC Tournament 1/2 Finals: Johnny Mundo (w/The Miz) vs. Tetsuya Naito in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] (2021-07-26)<br>**Win:** Dan Koloff HC Tournament Finals:Johnny Mundo vs. Jeff Cobb in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] (2021-07-26)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/KENTA\|KENTA]]<br>**Best Match:** 101% vs. Choke Slam World Championship: Johnny Mundo vs. Kazuchika Okada vs. Tetsuya Naito (c) |
 
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2021-04-15 | [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath\|2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath]] | 2021-05-10 | [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count]] | 25 | 0 |
+
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (8x)
 - [[Wrestler/Joey Janela\|Joey Janela]] (8x)

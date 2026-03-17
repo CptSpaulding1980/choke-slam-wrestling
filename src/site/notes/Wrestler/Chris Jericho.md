@@ -5,12 +5,12 @@ title: Chris Jericho
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chris_Jericho.png
-matches: 35
-wins: 18
-losses: 12
-draws: 5
-win_percent: 51.4
-avg_rating: 80.51
+matches: 34
+wins: 19
+losses: 13
+draws: 2
+win_percent: 55.9
+avg_rating: 87.41
 ---
 
 # Chris Jericho
@@ -20,24 +20,35 @@ avg_rating: 80.51
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 35 | 18 | 12 | 5 | 51.4% | 80.51 |
+| 34 | 19 | 13 | 2 | 55.9% | 87.41 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/chris-jericho_stats.png" width="200"> | **⚪️⚪️⚪️❌❌**<br>**Loss:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Phlipps Filler: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Draw:** Philipps Filler: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 100% vs. Reveal Rumble |
+> [!WARNING] **Current Choke Slam Tag Team Championship**
+
+> [!WARNING] **Current Choke Slam International Championship**
+
+| <img src="/img/charts/chris-jericho_stats.png" width="200"> | **✅❌✅❌❌**<br>**Loss:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Philipps Filler: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 100% vs. Reveal Rumble |
+
+## Championship Historie
+| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
+|---|---|---|---|---|---|---|
+| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] | Heute | - | ongoing | 0 |
+| [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | Heute | - | ongoing | 0 |
+| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 9 | 0 |
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (10x)
-- [[Wrestler/Steve Austin\|Steve Austin]] (7x)
-- [[Wrestler/Edge\|Edge]] (6x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (6x)
 - [[Wrestler/Wardlow\|Wardlow]] (6x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)
+- [[Wrestler/Jay White\|Jay White]] (4x)
+- [[Wrestler/Lady Apache\|Lady Apache]] (4x)
 
 ## Häufigste Partner
-- [[Wrestler/Edge\|Edge]] (8x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (6x)
-- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (5x)
+- [[Wrestler/Edge\|Edge]] (10x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (8x)
+- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (7x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
 

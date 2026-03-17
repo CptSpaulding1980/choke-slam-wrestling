@@ -5,12 +5,12 @@ title: Big Ryck
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Ryck.png
-matches: 12
+matches: 11
 wins: 3
 losses: 4
-draws: 5
-win_percent: 25.0
-avg_rating: 79.67
+draws: 4
+win_percent: 27.3
+avg_rating: 86.91
 ---
 
 # Big Ryck
@@ -20,12 +20,12 @@ avg_rating: 79.67
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 12 | 3 | 4 | 5 | 25.0% | 79.67 |
+| 11 | 3 | 4 | 4 | 27.3% | 86.91 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/big-ryck_stats.png" width="200"> | **✅✅⚪️✅⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-03-03 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-03)<br>**Win:** Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** VF3: Big Van Vader, Madison Rayne, & Triple H vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** HF2: Sweet 'n Sour Elite vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Chyna\|Chyna]]<br>**Best Match:** 98% vs. Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins |
+| <img src="/img/charts/big-ryck_stats.png" width="200"> | **❌✅✅⚪️✅**<br>**Win:** Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** VF3: Big Van Vader, Madison Rayne, & Triple H vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** HF2: Sweet 'n Sour Elite vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Chyna\|Chyna]]<br>**Best Match:** 98% vs. Finale: Saint Rebel Radicalz vs. Big Ryck, Chyna & Seth Rollins |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)

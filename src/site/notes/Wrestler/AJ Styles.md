@@ -27,11 +27,6 @@ avg_rating: 84.09
 |:---:|---|---|
 | <img src="/img/charts/aj-styles_stats.png" width="200"> | **⚪️⚪️✅⚪️✅**<br>**Win:** Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Draw:** Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** AJ Styles vs. Larry Zbyszko in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 102% vs. Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | 2021-11-01 | [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II]] | 2022-02-09 | [[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]] | 100 | 0 |
-
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (10x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (9x)

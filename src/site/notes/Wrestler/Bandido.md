@@ -27,11 +27,6 @@ avg_rating: 84.61
 |:---:|---|---|
 | <img src="/img/charts/bandido_stats.png" width="200"> | **❌⚪️❌❌❌**<br>**Loss:** Kensuke Sasaki vs. Lady Apache vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Bandido vs. Sasha Banks vs. Pete Dunne in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Bandido vs. Chris Jericho vs. Steve Austin in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Draw:** Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Lady Apache vs. Jay White vs. Bandido vs. Charlotte Flair vs. Chris Jericho vs. Edge in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)<br> | **Nemesis:** [[Wrestler/Wardlow\|Wardlow]]<br>**Partner:** [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 0 | 0 |
-
 ## Häufigste Gegner
 - [[Wrestler/Wardlow\|Wardlow]] (4x)
 - [[Wrestler/Edge\|Edge]] (4x)

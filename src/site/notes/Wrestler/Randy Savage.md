@@ -27,11 +27,6 @@ avg_rating: 84.55
 |:---:|---|---|
 | <img src="/img/charts/randy-savage_stats.png" width="200"> | **❌✅❌✅✅**<br>**Win:** Sweet 'n Sour Elite vs. Diesel & Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Saint Rebel Radicalz vs. Path of God in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Choke Slam International Championship: Bret Hart vs. Finn Bálor vs. The Undertaker vs. Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Tag Team Championship #1 Cont. Finals in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Choke Slam Tag Team Championship: Path of God vs. Sweet 'n Sour Elite in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/KUSHIDA\|KUSHIDA]]<br>**Best Match:** 104% vs. Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2021-07-26 | [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] | 2021-08-23 | [[Events/2021-08-23 - S04E01_90's\|2021-08-23 - S04E01_90's]] | 28 | 0 |
-
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (13x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (9x)

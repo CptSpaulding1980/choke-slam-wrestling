@@ -27,11 +27,6 @@ avg_rating: 84.88
 |:---:|---|---|
 | <img src="/img/charts/sheamus_stats.png" width="200"> | **✅❌✅⚪️✅**<br>**Win:** Sweet 'n Sour Elite vs. Cactus Jack & Sheamus in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Win:** Choke Slam World Championship: Sheamus  vs. Kazuchika Okada (c) in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)<br>**Loss:** Choke Slam World Championship: Kazuchika Okada vs. Sheamus (c) in [[Events/2021-01-21 - S03E05_Ireland\|S03E05_Ireland]] (2021-01-21)<br>**Win:** Killshot vs. Bob Backlund vs. Sgt. Slaughter vs. Sheamus  vs. Finn Bálor in [[Events/2020-12-28 - S03E03_Battle of Britain - Pre Show\|S03E03_Battle of Britain - Pre Show]] (2020-12-28)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/King Corbin\|King Corbin]]<br>**Best Match:** 100% vs. Choke Slam World Championship: Kazuchika Okada vs. Sheamus (c) |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2021-01-21 | [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] | 2021-01-21 | [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] | 0 | 0 |
-
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (3x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (2x)

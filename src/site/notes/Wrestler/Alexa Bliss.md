@@ -27,11 +27,6 @@ avg_rating: 87.38
 |:---:|---|---|
 | <img src="/img/charts/alexa-bliss_stats.png" width="200"> | **❌✅✅❌❌**<br>**Loss:** Choke Slam Womens Championship: Sol Ruca & Thea Hail vs. Tiffany Stratton & Alexa Bliss (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** AJ Styles vs. Saint Rebel Radicalz in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Win:** Randy Savage vs. Saint Rebel Radicalz in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Win:** Choke Slam Womens Championship: Shayna Baszler vs. Alexa Bliss (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br>**Loss:** Saint Rebel Radicalz vs. Sweet 'n Sour Elite in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-womens-championship\|Choke Slam Womens Championship]] | 2023-04-19 | [[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 285 | 1 |
-
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (5x)
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (5x)

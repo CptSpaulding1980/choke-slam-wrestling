@@ -27,13 +27,6 @@ avg_rating: 87.03
 |:---:|---|---|
 | <img src="/img/charts/daniel-bryan_stats.png" width="200"> | **✅✅✅✅❌**<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 100% vs. Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | 67 | 0 |
-| [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 0 | 0 |
-| [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | 2025-06-03 | [[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 79 | 1 |
-
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (10x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (5x)

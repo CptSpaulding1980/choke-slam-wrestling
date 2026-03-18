@@ -27,12 +27,6 @@ avg_rating: 84.68
 |:---:|---|---|
 | <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **✅❌⚪️⚪️⚪️**<br>**Draw:** Iron Man Match: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Iron Man: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2021-01-21 | [[Events/2021-01-21 - S03E05_Ireland\|2021-01-21 - S03E05_Ireland]] | 2021-04-15 | [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath\|2021-04-15 - S03E08_BYOC Fiesta Mexicana - Aftermath]] | 84 | 1 |
-| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 2021-01-21 | [[Events/2021-01-21 - S03E04_Clash of Colosseum\|2021-01-21 - S03E04_Clash of Colosseum]] | 100 | 1 |
-
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (12x)
 - [[Wrestler/KENTA\|KENTA]] (9x)

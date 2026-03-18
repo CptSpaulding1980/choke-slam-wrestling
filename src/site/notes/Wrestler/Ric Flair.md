@@ -27,11 +27,6 @@ avg_rating: 88.19
 |:---:|---|---|
 | <img src="/img/charts/ric-flair_stats.png" width="200"> | **⚪️❌❌❌❌**<br>**Loss:** Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Roman Reigns vs. Seth Rollins vs. Edge vs. KENTA vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Finals:Bob Backlund vs. Ric Flair vs. Bret Hart vs. Miro vs. Jay White vs. Jonathan Gresham in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 0 | 0 |
-
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (5x)
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (4x)

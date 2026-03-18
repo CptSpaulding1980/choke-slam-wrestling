@@ -27,11 +27,6 @@ avg_rating: 87.38
 |:---:|---|---|
 | <img src="/img/charts/jay-white_stats.png" width="200"> | **✅❌❌✅❌**<br>**Loss:** War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Win:** War Games 3: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Barbed Wire Match: Adam Page vs. Edge vs. Jay White vs. Tommaso Ciampa in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Choke Slam World Championship: Jay White vs. Steve Austin (c) in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Win:** Jay White vs. Awesome Kong vs. Steve Austin in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Jonathan Gresham\|Jonathan Gresham]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 2024-09-09 | [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past]] | 224 | 1 |
-
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (10x)
 - [[Wrestler/Miro\|Miro]] (9x)

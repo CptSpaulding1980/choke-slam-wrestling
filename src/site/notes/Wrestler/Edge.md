@@ -25,14 +25,7 @@ avg_rating: 88.7
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-> [!WARNING] **Current Choke Slam Trios Championship**
-
 | <img src="/img/charts/edge_stats.png" width="200"> | **✅❌✅❌❌**<br>**Loss:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Philipps Filler: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Choke Slam World Trios Championship: Pete Dunne, Trent Seven & Tyler Bate vs. Kensuke Sasaki, Edge & Roman Reigns (c)  in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/KENTA\|KENTA]]<br>**Best Match:** 100% vs. Edge vs. KENTA vs. Kenny Omega vs. Christian vs. Dustin Rhodes vs. Kazuchika Okada |
-
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | Heute | - | ongoing | 0 |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (7x)

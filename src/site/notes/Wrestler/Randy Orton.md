@@ -27,11 +27,6 @@ avg_rating: 89.31
 |:---:|---|---|
 | <img src="/img/charts/randy-orton_stats.png" width="200"> | **✅✅❌⚪️⚪️**<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Loss:** Randy Orton vs. Hulk Hogan in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br>**Win:** Saint Rebel Radicalz collide - Choke Slam World Championship: Big Van Vader  vs. Randy Orton (c) in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br>**Win:** Mr. Perfect vs. Randy Orton in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br> | **Nemesis:** [[Wrestler/Jerry Lawler\|Jerry Lawler]]<br>**Partner:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Best Match:** 100% vs. Threeway Fiasko im Käfig - Cage Match: The Undertaker vs. Sid Vicious vs. Randy Orton |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2020-06-09 | [[Events/2020-06-09 - S02E10_Dubai - After Show Cash In\|2020-06-09 - S02E10_Dubai - After Show Cash In]] | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|2020-10-13 - S03E01_Choke Slam Carat Gold]] | 126 | 2 |
-
 ## Häufigste Gegner
 - [[Wrestler/Jerry Lawler\|Jerry Lawler]] (4x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (3x)

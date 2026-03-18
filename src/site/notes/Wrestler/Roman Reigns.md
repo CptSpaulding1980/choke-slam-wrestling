@@ -27,11 +27,6 @@ avg_rating: 87.56
 |:---:|---|---|
 | <img src="/img/charts/roman-reigns_stats.png" width="200"> | **✅❌❌✅✅**<br>**Win:** Choke Slam World Trios Championship: Pete Dunne, Trent Seven & Tyler Bate vs. Kensuke Sasaki, Edge & Roman Reigns (c)  in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Chris Benoit vs. Tommaso Ciampa vs. Roman Reigns in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Akira Taue vs. Roman Reigns vs. Daniel Bryan in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Jay White vs. Tommaso Ciampa vs. Roman Reigns in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Win:** Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c) in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]] | 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]] | 612 | 4 |
-
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (14x)
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (12x)

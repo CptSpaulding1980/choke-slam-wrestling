@@ -25,18 +25,7 @@ avg_rating: 87.41
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-> [!WARNING] **Current Choke Slam Tag Team Championship**
-
-> [!WARNING] **Current Choke Slam International Championship**
-
 | <img src="/img/charts/chris-jericho_stats.png" width="200"> | **✅❌✅❌❌**<br>**Loss:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Philipps Filler: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 100% vs. Reveal Rumble |
-
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]] | Heute | - | ongoing | 0 |
-| [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]] | Heute | - | ongoing | 0 |
-| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 9 | 0 |
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (10x)

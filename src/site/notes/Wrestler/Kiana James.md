@@ -27,12 +27,6 @@ avg_rating: 85.19
 |:---:|---|---|
 | <img src="/img/charts/kiana-james_stats.png" width="200"> | **❌❌❌✅⚪️**<br>**Draw:** Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Win:** Choke Slam Womens Championship: Fallon Henley vs. Kiana James in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Choke Slam Womens Championship: Fallon Henley vs. Kiana James (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Best Match:** 103% vs. Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-womens-championship\|Choke Slam Womens Championship]] | 2025-05-07 | [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]] | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]] | 106 | 0 |
-| [[Championships/choke-slam-womens-championship\|Choke Slam Womens Championship]] | 2024-04-10 | [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]] | 2025-03-03 | [[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]] | 327 | 0 |
-
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (8x)
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (6x)

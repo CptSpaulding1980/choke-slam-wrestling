@@ -27,12 +27,6 @@ avg_rating: 83.34
 |:---:|---|---|
 | <img src="/img/charts/big-van-vader_stats.png" width="200"> | **⚪️⚪️✅✅❌**<br>**Loss:** Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Path of God vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Sweet 'n Sour Elite vs. Big Ryck, Chyna, Big Van Vader, & Samoa Joe in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Triple H\|Triple H]]<br>**Best Match:** 101% vs. World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker |
 
-## Championship Historie
-| Titel | Gewinn | Event | Verlust | Event | Tage | Defenses |
-|---|---|---|---|---|---|---|
-| [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | 2022-11-17 | [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]] | 2023-05-30 | [[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]] | 194 | 2 |
-| [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | 2020-06-08 | [[Events/2020-06-08 - S02E10_Dubai\|2020-06-08 - S02E10_Dubai]] | 2020-06-29 | [[Events/2020-06-29 - S02E11_Shortcut to Mania\|2020-06-29 - S02E11_Shortcut to Mania]] | 21 | 1 |
-
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (11x)
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (8x)

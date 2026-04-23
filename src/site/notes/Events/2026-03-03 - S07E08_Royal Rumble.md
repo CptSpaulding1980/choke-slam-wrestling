@@ -9,7 +9,7 @@ location: "Baltimore, Maryland, USA"
 image: "{{ site.baseurl }}/img/posters/2026-03-03-s07e08-royal-rumble_poster.png"
 ---
 
-# <img src="{{ site.baseurl }}/img/posters/2026-03-03-s07e08-royal-rumble_poster.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E08_Royal Rumble**
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E08_Royal Rumble**
 
 **Date:** 2026-03-03
 

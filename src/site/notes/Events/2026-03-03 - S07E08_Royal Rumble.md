@@ -6,14 +6,16 @@ date: "2026-03-03"
 promotion: "Choke Slam Wrestling"
 venue: "1st Mariner Arena"
 location: "Baltimore, Maryland, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
+image: "{{ site.baseurl }}/img/posters/2026-03-03-s07e08-royal-rumble_poster.png"
 ---
 
-# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E08_Royal Rumble**
+# <img src="{{ site.baseurl }}/img/posters/2026-03-03-s07e08-royal-rumble_poster.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E08_Royal Rumble**
 
 **Date:** 2026-03-03
 
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
+
+<img src="/img/posters/2026-03-03-s07e08-royal-rumble_poster.png" width="250">
 
 ## Matches
 

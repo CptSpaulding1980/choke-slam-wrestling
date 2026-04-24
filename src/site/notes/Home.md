@@ -31,11 +31,11 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 ## 🏆 Aktuelle Champions
 | | Titel | Champion |
 |---|---|---|
-| 👥 | [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | **[[Wrestler/Chris Jericho|Chris Jericho]] & [[Wrestler/Kazuchika Okada|Kazuchika Okada]]** |
-| 🏆 | [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | **[[Wrestler/Steve Austin|Steve Austin]]** |
-| 🏆 | [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | **[[Wrestler/Chris Jericho|Chris Jericho]]** |
-| 👩 | [[Championships/choke-slam-womens-championship\|Choke Slam Womens Championship]] | **[[Wrestler/Awesome Kong|Awesome Kong]]** |
-| 👪 | [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | **[[Wrestler/Edge|Edge]] & [[Wrestler/Kensuke Sasaki|Kensuke Sasaki]] & [[Wrestler/Roman Reigns|Roman Reigns]]** |
+| 👥 | [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | **[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]** |
+| 🏆 | [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | **[[Wrestler/Steve Austin\|Steve Austin]]** |
+| 🏆 | [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | **[[Wrestler/Chris Jericho\|Chris Jericho]]** |
+| 👩 | [[Championships/choke-slam-womens-championship\|Choke Slam Womens Championship]] | **[[Wrestler/Awesome Kong\|Awesome Kong]]** |
+| 👪 | [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | **[[Wrestler/Edge\|Edge]] & [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]** |
 
 ## 🔥 Top Performer 2026
 | Wrestler | Siege |

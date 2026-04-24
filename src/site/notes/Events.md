@@ -8,6 +8,7 @@ title: Events
 
 | Date | Event | Matches |
 |---|---|---|
+| 2026-04-14 | [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] | 25 |
 | 2026-03-16 | [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] | 16 |
 | 2025-12-30 | [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] | 18 |
 | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] | 22 |

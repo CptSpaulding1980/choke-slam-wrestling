@@ -22,11 +22,11 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 ## 📅 Die letzten Events
 | Datum | Show | Main Event |
 |---|---|---|
+| 2026-04-14 | [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] | Eddie Kingston vs. Steve Austin |
 | 2026-03-16 | [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] | Royal Rumble |
 | 2025-12-30 | [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] | Militanter Mummenschanz vs. Saint Rebel Radicalz |
 | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] | Choke Slam World Championship: Jay White vs. Steve Austin (c) |
 | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] | Choke Slam World Championship: Lady Apache vs. Steve Austin (c) |
-| 2025-10-02 | [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] | Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
 
 ## 🏆 Aktuelle Champions
 | | Titel | Champion |
@@ -40,11 +40,11 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 ## 🔥 Top Performer 2026
 | Wrestler | Siege |
 |---|---|
+| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 6 |
+| [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 6 |
+| [[Wrestler/Wardlow\|Wardlow]] | 4 |
 | [[Wrestler/Bret Hart\|Bret Hart]] | 4 |
-| [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 4 |
-| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 3 |
-| [[Wrestler/Wardlow\|Wardlow]] | 3 |
-| [[Wrestler/Jon Moxley\|Jon Moxley]] | 2 |
+| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 4 |
 
 ---
 ### 🧭 Navigation

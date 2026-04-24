@@ -5,12 +5,12 @@ title: Daniel Bryan
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Daniel_Bryan.png
-matches: 34
-wins: 22
+matches: 38
+wins: 25
 losses: 12
-draws: 0
-win_percent: 64.7
-avg_rating: 87.03
+draws: 1
+win_percent: 65.8
+avg_rating: 83.97
 ---
 
 # Daniel Bryan
@@ -20,19 +20,19 @@ avg_rating: 87.03
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 34 | 22 | 12 | 0 | 64.7% | 87.03 |
+| 38 | 25 | 12 | 1 | 65.8% | 83.97 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/daniel-bryan_stats.png" width="200"> | **✅✅✅✅❌**<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Submission Match: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 100% vs. Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
+| <img src="/img/charts/daniel-bryan_stats.png" width="200"> | **❌⚪️✅✅✅**<br>**Win:** Akira Taue vs. Daniel Bryan in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Brock Lesnar vs. Daniel Bryan in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Chris Jericho vs. Daniel Bryan in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Daniel Bryan vs. Kazuchika Okada in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 100% vs. Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
 
 ## Häufigste Gegner
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (10x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (11x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (5x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (5x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
 - [[Wrestler/Edge\|Edge]] (4x)
-- [[Wrestler/Roman Reigns\|Roman Reigns]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Wardlow\|Wardlow]] (14x)

@@ -5,12 +5,12 @@ title: Konosuke Takeshita
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Konosuke_Takeshita.png
-matches: 7
+matches: 12
 wins: 0
-losses: 3
-draws: 4
+losses: 5
+draws: 7
 win_percent: 0.0
-avg_rating: 81.71
+avg_rating: 65.25
 ---
 
 # Konosuke Takeshita
@@ -20,16 +20,16 @@ avg_rating: 81.71
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 7 | 0 | 3 | 4 | 0.0% | 81.71 |
+| 12 | 0 | 5 | 7 | 0.0% | 65.25 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/konosuke-takeshita_stats.png" width="200"> | **❌⚪️⚪️❌⚪️**<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Iron Man Match: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Best Match:** 93% vs. Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/konosuke-takeshita_stats.png" width="200"> | **⚪️⚪️❌❌⚪️**<br>**Draw:** Bret Hart vs. Konosuke Takeshita in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Eddie Kingston vs. Konosuke Takeshita in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Konosuke Takeshita vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Konosuke Takeshita vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Lighttube Landmine Match: Lady Apache vs. Edge vs. Takashi Sasaki in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Best Match:** 93% vs. Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
-- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (4x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (4x)
 - [[Wrestler/Akira Taue\|Akira Taue]] (3x)
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (3x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
@@ -44,4 +44,4 @@ avg_rating: 81.71
 - 92%: [[Royal Rumble]] in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)
 - 90%: [[Iron Man]] Match: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)
 - 83%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)
-- 76%: Philipps Filler: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)
+- 77%: [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] vs. [[Wrestler/Steve Austin\|Steve Austin]] in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)

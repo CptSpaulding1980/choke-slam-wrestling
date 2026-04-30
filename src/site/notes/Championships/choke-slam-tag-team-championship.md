@@ -44,7 +44,7 @@ title: Choke Slam Tag Team Championship
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Edge\|Edge]]</td><td>1</td><td>0</td><td>9 Tage</td><td>9 Tage</td></tr>
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>0</td><td>22 Tage</td><td>22 Tage</td></tr>
-<tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>1</td><td>0</td><td>162 Tage</td><td>162 Tage</td></tr>
+<tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>1</td><td>0</td><td>164 Tage</td><td>164 Tage</td></tr>
 </tbody>
 </table>
 

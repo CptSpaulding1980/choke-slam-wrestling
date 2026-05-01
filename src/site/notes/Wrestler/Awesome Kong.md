@@ -31,8 +31,8 @@ avg_rating: 83.66
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (5x)
 - [[Wrestler/Joey Janela\|Joey Janela]] (5x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (5x)
 - [[Wrestler/Akira Taue\|Akira Taue]] (5x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Kane\|Kane]] (4x)

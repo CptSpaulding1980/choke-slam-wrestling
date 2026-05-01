@@ -30,7 +30,7 @@ avg_rating: 82.4
 ## Häufigste Gegner
 - [[Wrestler/Ryusuke Taguchi\|Ryusuke Taguchi]] (1x)
 - [[Wrestler/Tatum Paxley\|Tatum Paxley]] (1x)
-- [[Wrestler/Gunther\|Gunther]] (1x)
+- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (1x)
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 

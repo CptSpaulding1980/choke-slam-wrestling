@@ -44,6 +44,6 @@ avg_rating: 86.91
 ## Top Matches
 - 98%: Finale: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Ryck\|Big Ryck]], [[Wrestler/Chyna\|Chyna]] & [[Wrestler/Seth Rollins\|Seth Rollins]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)
 - 93%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Randy Orton\|Randy Orton]] & [[Wrestler/Mansoor\|Mansoor]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
-- 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
+- 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. WALTER vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 91%: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)
 - 89%: [[Royal Rumble]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)

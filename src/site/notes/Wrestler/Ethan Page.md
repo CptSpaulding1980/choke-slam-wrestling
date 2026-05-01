@@ -41,6 +41,6 @@ avg_rating: 93.67
 - [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (1x)
 
 ## Top Matches
-- 98%: [[Choke Slam World Championship]] Elimination Chamber: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Ethan Page\|Ethan Page]] vs. [[Wrestler/Ace Steel\|Ace Steel]] vs. [[Wrestler/Kane\|Kane]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)
+- 98%: [[Choke Slam World Championship]] Elimination Chamber: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Ethan Page\|Ethan Page]] vs. [[Wrestler/Ace Steel\|Ace Steel]] vs. [[Wrestler/Kane\|Kane]] vs. WALTER vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)
 - 93%: Exhibition 1 - Cage Match in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)
 - 90%: Elimination Chamber in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)

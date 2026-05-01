@@ -26,7 +26,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 5 |  | C: [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/Laredo Kid\|Laredo Kid]] | Rey Mysterio Jr. battled Laredo Kid to a  time limit draw | 30:00 | ★★★★½ | 92 |
 | 6 |  | C: [[Wrestler/KUSHIDA\|KUSHIDA]] vs. [[Wrestler/The Undertaker\|The Undertaker]] | The Undertaker beat KUSHIDA in 19 Min 43 Sec with a Dragon Sleeper | 19:43 | ★★★½ | 76 |
 | 7 |  | D: [[Wrestler/Will Ospreay\|Will Ospreay]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] | Roman Reigns beat Will Ospreay in 2 Min 58 Sec with a RING OUT | 2:58 | ★½ | 57 |
-| 8 |  | D: [[Wrestler/Toru Yano\|Toru Yano]] vs. [[Wrestler/Gunther\|Gunther]] | Toru Yano beat Gunther in 14 Min 54 Sec with a DQ | 14:54 | ★★ | 62 |
+| 8 |  | D: [[Wrestler/Toru Yano\|Toru Yano]] vs. Gunther | Toru Yano beat Gunther in 14 Min 54 Sec with a DQ | 14:54 | ★★ | 62 |
 | 9 |  | A: [[Wrestler/Kento Miyahara\|Kento Miyahara]] vs. [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | Hiroshi Tanahashi beat Kento Miyahara in 13 Min 44 Sec with a High Fly Flow | 13:44 | ★★★★ | 85 |
 | 10 |  | A: [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | Kazuchika Okada beat Bret Hart in 18 Min 39 Sec with a Cobra Hold | 18:39 | ★★★★¼ | 90 |
 | 11 |  | B: [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Joe Coffey\|Joe Coffey]] | Joe Coffey beat Triple H in 13 Min 46 Sec with a RING OUT | 13:46 | ★★ | 60 |
@@ -42,7 +42,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 21 |  | C: [[Wrestler/KUSHIDA\|KUSHIDA]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | Kensuke Sasaki beat KUSHIDA in 18 Min 28 Sec with a Strangle Hold Gamma | 18:28 | ★★★¾ | 83 |
 | 22 |  | C: [[Wrestler/Laredo Kid\|Laredo Kid]] vs. [[Wrestler/The Undertaker\|The Undertaker]] | The Undertaker beat Laredo Kid in 13 Min 26 Sec with a Backslide | 13:26 | ★★★¼ | 74 |
 | 23 |  | D: [[Wrestler/Toru Yano\|Toru Yano]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] | Toru Yano battled Kota Ibushi to a  time limit draw | 30:00 | ★★★★ | 85 |
-| 24 |  | D: [[Wrestler/Gunther\|Gunther]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] | Gunther beat Roman Reigns in 19 Min 33 Sec with a Deadlift German Suplex | 19:33 | ★★★★¼ | 88 |
+| 24 |  | D: Gunther vs. [[Wrestler/Roman Reigns\|Roman Reigns]] | Gunther beat Roman Reigns in 19 Min 33 Sec with a Deadlift German Suplex | 19:33 | ★★★★¼ | 88 |
 | 25 |  | A. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | Kazuchika Okada beat Hiroshi Tanahashi in 11 Min 56 Sec with a Cobra Hold | 11:56 | ★★★¼ | 75 |
 | 26 |  | A: [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Tama Tonga\|Tama Tonga]] | Tama Tonga beat Bret Hart in 17 Min 36 Sec with a Vertical Double Arm DDT | 17:36 | ★★★¾ | 81 |
 | 27 |  | B: [[Wrestler/Masahiro Chono\|Masahiro Chono]] vs. [[Wrestler/Joe Coffey\|Joe Coffey]] | Masahiro Chono beat Joe Coffey in 15 Min 24 Sec with a Front Kick | 15:24 | ★★★¾ | 83 |
@@ -50,16 +50,16 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 29 |  | C: [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] vs. [[Wrestler/The Undertaker\|The Undertaker]] | The Undertaker beat Kensuke Sasaki in 12 Min 41 Sec with a Triangle Scissors | 12:41 | ★★★¼ | 75 |
 | 30 |  | C: [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/KUSHIDA\|KUSHIDA]] | Rey Mysterio Jr. beat KUSHIDA in 8 Min 46 Sec with a High Angle Huracanrana | 8:46 | ★ | 50 |
 | 31 |  | D: [[Wrestler/Toru Yano\|Toru Yano]] vs. [[Wrestler/Will Ospreay\|Will Ospreay]] | Will Ospreay beat Toru Yano in 24 Min 48 Sec with a Storm Driver '93 | 24:48 | ★★★★ | 86 |
-| 32 |  | D: [[Wrestler/Gunther\|Gunther]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] | Gunther battled Kota Ibushi to a  time limit draw | 30:00 | ★★★¾ | 80 |
+| 32 |  | D: Gunther vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] | Gunther battled Kota Ibushi to a  time limit draw | 30:00 | ★★★¾ | 80 |
 | 33 |  | A: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Tama Tonga\|Tama Tonga]] | Kazuchika Okada beat Tama Tonga in 14 Min 17 Sec with a Cobra Hold | 14:17 | ★★ | 61 |
 | 34 |  | A: [[Wrestler/Kento Miyahara\|Kento Miyahara]] vs. [[Wrestler/Bret Hart\|Bret Hart]] | Kento Miyahara beat Bret Hart in 9 Min 34 Sec with a Package German Suplex | 9:34 | ★★½ | 64 |
 | 35 |  | B: [[Wrestler/Dijak\|Dijak]] vs. [[Wrestler/Masahiro Chono\|Masahiro Chono]] | Masahiro Chono beat Dijak in 17 Min 15 Sec with a Front Kick | 17:15 | ★★★¾ | 83 |
 | 36 |  | B: [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] | Claudio Castagnoli beat Triple H in 24 Min 5 Sec with a Sharpshooter | 24:05 | ★★★¾ | 83 |
 | 37 |  | C: [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. | The Undertaker beat Rey Mysterio Jr. in 7 Min 17 Sec with a RING OUT | 7:17 | DUD | 45 |
 | 38 |  | C: [[Wrestler/Laredo Kid\|Laredo Kid]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | Laredo Kid beat Kensuke Sasaki in 16 Min 26 Sec with a Phoenix Splash | 16:26 | ★★★¼ | 74 |
-| 39 |  | D: [[Wrestler/Gunther\|Gunther]] vs. [[Wrestler/Will Ospreay\|Will Ospreay]] | Gunther beat Will Ospreay in 11 Min 8 Sec with a Deadlift German Suplex | 11:08 | ★½ | 58 |
+| 39 |  | D: Gunther vs. [[Wrestler/Will Ospreay\|Will Ospreay]] | Gunther beat Will Ospreay in 11 Min 8 Sec with a Deadlift German Suplex | 11:08 | ★½ | 58 |
 | 40 |  | D: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] | Roman Reigns beat Kota Ibushi in 9 Min 51 Sec with a Spear | 9:51 | ★★★★½ | 92 |
-| 41 |  | 1/4 Finals: [[Wrestler/Gunther\|Gunther]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | Kazuchika Okada beat Gunther in 15 Min 52 Sec with a Cobra Hold | 15:52 | ★★★ | 70 |
+| 41 |  | 1/4 Finals: Gunther vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | Kazuchika Okada beat Gunther in 15 Min 52 Sec with a Cobra Hold | 15:52 | ★★★ | 70 |
 | 42 |  | 1/4 Finals: [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Triple H\|Triple H]] | The Undertaker beat Triple H in 19 Min 37 Sec with a Triangle Scissors | 19:37 | ★★★½ | 78 |
 | 43 |  | 1/4 Finals: [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] vs. [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] | Kensuke Sasaki beat Claudio Castagnoli in 16 Min 49 Sec with a Northern Lights Bomb | 16:49 | ★★★★½ | 93 |
 | 44 |  | 1/4 Finals: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | Hiroshi Tanahashi beat Roman Reigns in 13 Min 21 Sec with a High Fly Flow | 13:21 | ★★★★ | 85 |

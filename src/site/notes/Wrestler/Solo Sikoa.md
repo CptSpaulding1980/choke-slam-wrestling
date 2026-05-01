@@ -29,7 +29,7 @@ avg_rating: 91.0
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
-- [[Wrestler/WALTER\|WALTER]] (1x)
+- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
 - [[Wrestler/Jey Uso\|Jey Uso]] (1x)
 - [[Wrestler/Jimmy Uso\|Jimmy Uso]] (1x)

@@ -30,9 +30,9 @@ avg_rating: 87.56
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (14x)
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (12x)
+- [[Wrestler/GUNTHER\|GUNTHER]] (9x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (9x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (8x)
-- [[Wrestler/Triple H\|Triple H]] (8x)
 
 ## Häufigste Partner
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (8x)

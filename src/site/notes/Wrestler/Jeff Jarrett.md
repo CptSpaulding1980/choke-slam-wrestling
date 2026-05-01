@@ -45,5 +45,5 @@ avg_rating: 87.71
 - 101%: Trash TV: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)
 - 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)
 - 98%: [[Wrestler/Consequences Creed\|Consequences Creed]] vs. [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)
-- 98%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & [[Wrestler/WALTER\|WALTER]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
+- 98%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
 - 97%: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)

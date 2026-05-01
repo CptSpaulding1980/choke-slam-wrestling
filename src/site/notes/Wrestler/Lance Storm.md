@@ -35,7 +35,7 @@ avg_rating: 90.0
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
 
 ## Top Matches
-- 100%: [[Hardcore Title Tournament Finals - Hardcore Championship]]: [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Lance Storm\|Lance Storm]] (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)
+- 100%: [[Hardcore Title Tournament Finals - Hardcore Championship]]: WALTER vs. [[Wrestler/Lance Storm\|Lance Storm]] (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)
 - 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)
 - 97%: [[Choke Slam Apple Championship]]: [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/Lance Storm\|Lance Storm]] in [[Events/2022-02-21 - S04E08_Fan Favourites\|S04E08_Fan Favourites]] (2022-02-21)
 - 95%: [[Choke Slam Apple Championship]]: [[Wrestler/Kevin Steen\|Kevin Steen]] vs. [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/AJ Styles\|AJ Styles]] (c) vs. [[Wrestler/Chris Candido\|Chris Candido]] vs. [[Wrestler/Lance Storm\|Lance Storm]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)

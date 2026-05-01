@@ -25,14 +25,14 @@ avg_rating: 90.1
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/fit-finlay_stats.png" width="200"> | **⚪️❌✅❌⚪️**<br>**Draw:** Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Loss:** Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Win:** Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Los Jinetes del Aire (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Sweet 'n Sour Elite (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Draw:** Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Charlotte Flair\|Charlotte Flair]]<br>**Best Match:** 102% vs. Bob Backlund vs. Fit Finlay |
+| <img src="/img/charts/fit-finlay_stats.png" width="200"> | **⚪️❌✅❌⚪️**<br>**Draw:** Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Loss:** Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Win:** Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Los Jinetes del Aire (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Sweet 'n Sour Elite (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Draw:** Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Charlotte Flair\|Charlotte Flair]]<br>**Best Match:** 102% vs. Bob Backlund vs. Fit Finlay |
 
 ## Häufigste Gegner
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (5x)
 - [[Wrestler/Edge\|Edge]] (4x)
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (4x)
 - [[Wrestler/Wardlow\|Wardlow]] (4x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (3x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
 
 ## Häufigste Partner
 - [[Wrestler/Charlotte Flair\|Charlotte Flair]] (2x)

@@ -37,8 +37,8 @@ avg_rating: 79.36
 ## Häufigste Partner
 - [[Wrestler/AJ Styles\|AJ Styles]] (3x)
 - [[Wrestler/Beer City Bruiser\|Beer City Bruiser]] (2x)
-- [[Wrestler/Bryan Danielson\|Bryan Danielson]] (1x)
-- [[Wrestler/Gunther\|Gunther]] (1x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (1x)
+- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
 
 ## Top Matches

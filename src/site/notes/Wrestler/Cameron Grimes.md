@@ -35,4 +35,4 @@ avg_rating: 92.0
 - [[Wrestler/Big Ryck\|Big Ryck]] (1x)
 
 ## Top Matches
-- 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
+- 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. WALTER vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)

@@ -24,7 +24,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 3 |  | [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] vs. [[Wrestler/Randy Savage\|Randy Savage]] | Randy Savage won a triple threat match against Brandon & Davey Boy Smith in  30:10 | 30:10 | ★★★★★ | 102 |
 | 4 | Royal Rumble | Womens [[Royal Rumble]] | Shayna Baszler won a 28 wrestler Royal Rumble in  70:29 | 70:29 | ★★★★¼ | 88 |
 | 5 | Battle Royal, Tag Team | [[Tag Team Title]] [[Battle Royal]] | Hulk Hogan won a 8 wrestler battle royale in  126:50 | 126:50 | ★★★★¾ | 98 |
-| 6 | Hardcore | [[Choke Slam Hardcore Championship]]: [[Wrestler/Miro\|Miro]] vs. [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/WALTER\|WALTER]] | Hulk Hogan won a four-corners match against Miro, Ludwig Kaiser, &WALTER in  76:46 | 76:46 | ★★★★¾ | 99 |
+| 6 | Hardcore | [[Choke Slam Hardcore Championship]]: [[Wrestler/Miro\|Miro]] vs. [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. WALTER | Hulk Hogan won a four-corners match against Miro, Ludwig Kaiser, &WALTER in  76:46 | 76:46 | ★★★★¾ | 99 |
 | 7 |  | [[Wrestler/Eddie Edwards\|Eddie Edwards]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] | Eddie Edwards battled Big Van Vader to a  time limit draw | 20:00 | ★★★★¼ | 90 |
 | 8 |  | [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] | Randy Savage beat Big Van Vader in 9 Min 36 Sec with a Macho Flying Elbow Drop | 9:36 | ★★★½ | 77 |
 | 9 |  | [[Wrestler/Kenny Omega\|Kenny Omega]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] | Big Van Vader beat Kenny Omega in 17 Min 42 Sec with a RING OUT | 17:42 | ★★★★★ | 100 |

@@ -32,7 +32,7 @@ avg_rating: 90.6
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
 - [[Wrestler/Jon Moxley\|Jon Moxley]] (2x)
-- [[Wrestler/Tiger Mask\|Tiger Mask]] (1x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Oba Femi\|Oba Femi]] (3x)

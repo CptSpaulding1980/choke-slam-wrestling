@@ -32,7 +32,7 @@ avg_rating: 85.19
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (6x)
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (6x)
 - [[Wrestler/Triple H\|Triple H]] (6x)
-- [[Wrestler/Gunther\|Gunther]] (6x)
+- [[Wrestler/GUNTHER\|GUNTHER]] (6x)
 
 ## Häufigste Partner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (7x)

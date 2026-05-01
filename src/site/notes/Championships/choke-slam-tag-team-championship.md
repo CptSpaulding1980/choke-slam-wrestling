@@ -19,7 +19,7 @@ title: Choke Slam Tag Team Championship
 <tr><td><strong>Vakante Phasen</strong></td><td>2</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Christian Cage\|Christian Cage]] & [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (2x)</td></tr>
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Jon Moxley\|Jon Moxley]] (354 Tage)</td></tr>
-<tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]] (2 Verteidigungen)</td></tr>
+<tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/GUNTHER\|GUNTHER]] & [[Wrestler/The Undertaker\|The Undertaker]] (2 Verteidigungen)</td></tr>
 </tbody>
 </table>
 
@@ -40,7 +40,7 @@ title: Choke Slam Tag Team Championship
 <tr><td>[[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>1</td><td>0</td><td>56 Tage</td><td>56 Tage</td></tr>
 <tr><td>[[Wrestler/Grayson Waller\|Grayson Waller]] & [[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>1</td><td>0</td><td>198 Tage</td><td>198 Tage</td></tr>
 <tr><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Jon Moxley\|Jon Moxley]]</td><td>1</td><td>0</td><td>354 Tage</td><td>354 Tage</td></tr>
-<tr><td>[[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]]</td><td>1</td><td>2</td><td>294 Tage</td><td>294 Tage</td></tr>
+<tr><td>[[Wrestler/GUNTHER\|GUNTHER]] & [[Wrestler/The Undertaker\|The Undertaker]]</td><td>1</td><td>2</td><td>294 Tage</td><td>294 Tage</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Edge\|Edge]]</td><td>1</td><td>0</td><td>9 Tage</td><td>9 Tage</td></tr>
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>0</td><td>22 Tage</td><td>22 Tage</td></tr>
@@ -67,7 +67,7 @@ title: Choke Slam Tag Team Championship
 <tr><td>[[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>2023-02-22</td><td>[[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]]</td><td>2023-04-19</td><td>56 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Grayson Waller\|Grayson Waller]] & [[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>2023-04-19</td><td>[[Events/2023-04-19 - S05E04_Lucha Underground\|2023-04-19 - S05E04_Lucha Underground]]</td><td>2023-11-03</td><td>198 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Jon Moxley\|Jon Moxley]]</td><td>2023-11-03</td><td>[[Events/2023-11-03 - S05E10_Batze\|2023-11-03 - S05E10_Batze]]</td><td>2024-10-22</td><td>354 Tage</td><td>0</td></tr>
-<tr><td>[[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]]</td><td>2024-10-22</td><td>[[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]]</td><td>2025-08-12</td><td>294 Tage</td><td>2</td></tr>
+<tr><td>[[Wrestler/GUNTHER\|GUNTHER]] & [[Wrestler/The Undertaker\|The Undertaker]]</td><td>2024-10-22</td><td>[[Events/2024-10-22 - S06E07_Turbo Turnier\|2024-10-22 - S06E07_Turbo Turnier]]</td><td>2025-08-12</td><td>294 Tage</td><td>2</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Edge\|Edge]]</td><td>2025-08-12</td><td>[[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]]</td><td>2025-08-21</td><td>9 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>2025-08-21</td><td>[[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]</td><td>2025-10-27</td><td>67 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>2025-10-27</td><td>[[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]</td><td>2025-11-18</td><td>22 Tage</td><td>0</td></tr>

@@ -43,7 +43,7 @@ avg_rating: 85.65
 
 ## Top Matches
 - 102%: [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)
-- 98%: [[Choke Slam World Championship]] Elimination Chamber: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Ethan Page\|Ethan Page]] vs. [[Wrestler/Ace Steel\|Ace Steel]] vs. [[Wrestler/Kane\|Kane]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)
+- 98%: [[Choke Slam World Championship]] Elimination Chamber: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Ethan Page\|Ethan Page]] vs. [[Wrestler/Ace Steel\|Ace Steel]] vs. [[Wrestler/Kane\|Kane]] vs. WALTER vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)
 - 97%: Apple Gauntlet 3 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)
 - 95%: Andre The Giant Memorial [[Battle Royal]] in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)
-- 95%: [[Hardcore Title]] Tournament: [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Sting\|Sting]] in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)
+- 95%: [[Hardcore Title]] Tournament: WALTER vs. [[Wrestler/Sting\|Sting]] in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)

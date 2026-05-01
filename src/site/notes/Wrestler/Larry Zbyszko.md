@@ -32,7 +32,7 @@ avg_rating: 81.88
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
 - [[Wrestler/Robert Dreissker\|Robert Dreissker]] (1x)
-- [[Wrestler/WALTER\|WALTER]] (1x)
+- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Chris Hero\|Chris Hero]] (1x)
@@ -40,7 +40,7 @@ avg_rating: 81.88
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)
 
 ## Top Matches
-- 100%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & [[Wrestler/WALTER\|WALTER]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
+- 100%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
 - 97%: SWA: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
 - 94%: Loser leaves Town (Cage):[[Wrestler/Jeff Jarrett\|Jeff Jarrett]] vs. [[Wrestler/Marius Al-Ani\|Marius Al-Ani]] vs. [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)
 - 91%: Beach-Volleyball: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Damien Sandow\|Damien Sandow]] & [[Wrestler/The Sandman\|The Sandman]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)

@@ -36,7 +36,7 @@ avg_rating: 86.25
 
 ## Häufigste Partner
 - [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (9x)
-- [[Wrestler/Gunther\|Gunther]] (5x)
+- [[Wrestler/GUNTHER\|GUNTHER]] (5x)
 - [[Wrestler/Tatum Paxley\|Tatum Paxley]] (4x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (3x)
 

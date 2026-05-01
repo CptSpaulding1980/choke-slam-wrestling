@@ -45,5 +45,5 @@ avg_rating: 87.8
 - 103%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)
 - 102%: [[Wrestler/Grayson Waller\|Grayson Waller]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] vs. [[Wrestler/Miro\|Miro]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
 - 100%: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)
-- 99%: [[Choke Slam Hardcore Championship]]: [[Wrestler/Miro\|Miro]] vs. [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/WALTER\|WALTER]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
+- 99%: [[Choke Slam Hardcore Championship]]: [[Wrestler/Miro\|Miro]] vs. [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. WALTER in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
 - 99%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

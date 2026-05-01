@@ -32,7 +32,7 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Bob Backlund\|Bob Backlund]]</td><td>1</td><td>0</td><td>8 Tage</td><td>8 Tage</td></tr>
 <tr><td>[[Wrestler/Christian Cage\|Christian Cage]]</td><td>1</td><td>1</td><td>111 Tage</td><td>111 Tage</td></tr>
 <tr><td>[[Wrestler/Lance Storm\|Lance Storm]]</td><td>1</td><td>0</td><td>281 Tage</td><td>281 Tage</td></tr>
-<tr><td>[[Wrestler/WALTER\|WALTER]]</td><td>1</td><td>1</td><td>97 Tage</td><td>97 Tage</td></tr>
+<tr><td>[[Wrestler/GUNTHER\|GUNTHER]]</td><td>1</td><td>1</td><td>97 Tage</td><td>97 Tage</td></tr>
 <tr><td>[[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>1</td><td>0</td><td>124 Tage</td><td>124 Tage</td></tr>
 <tr><td>[[Wrestler/Jay White\|Jay White]]</td><td>1</td><td>1</td><td>224 Tage</td><td>224 Tage</td></tr>
 <tr><td>[[Wrestler/Randy Savage\|Randy Savage]]</td><td>1</td><td>0</td><td>240 Tage</td><td>240 Tage</td></tr>
@@ -51,7 +51,7 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Christian Cage\|Christian Cage]]</td><td>2021-05-18</td><td>[[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]]</td><td>2021-09-06</td><td>111 Tage</td><td>1</td></tr>
 <tr><td>[[Wrestler/AJ Styles\|AJ Styles]]</td><td>2021-09-06</td><td>[[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|2021-09-06 - S04E02_Money in the Bank (Season 4)]]</td><td>2022-02-09</td><td>156 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Lance Storm\|Lance Storm]]</td><td>2022-02-09</td><td>[[Events/2022-02-09 - S04E07_Extreme\|2022-02-09 - S04E07_Extreme]]</td><td>2022-11-17</td><td>281 Tage</td><td>0</td></tr>
-<tr><td>[[Wrestler/WALTER\|WALTER]]</td><td>2022-11-17</td><td>[[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]]</td><td>2023-02-22</td><td>97 Tage</td><td>1</td></tr>
+<tr><td>[[Wrestler/GUNTHER\|GUNTHER]]</td><td>2022-11-17</td><td>[[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]]</td><td>2023-02-22</td><td>97 Tage</td><td>1</td></tr>
 <tr><td>[[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>2023-02-22</td><td>[[Events/2023-02-22 - S05E02_Royal Rumble\|2023-02-22 - S05E02_Royal Rumble]]</td><td>2023-06-26</td><td>124 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Bret Hart\|Bret Hart]]</td><td>2023-06-26</td><td>[[Events/2023-06-26 - S05E06_ECSW\|2023-06-26 - S05E06_ECSW]]</td><td>2024-01-29</td><td>217 Tage</td><td>1</td></tr>
 <tr><td>[[Wrestler/Jay White\|Jay White]]</td><td>2024-01-29</td><td>[[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]]</td><td>2024-09-09</td><td>224 Tage</td><td>1</td></tr>

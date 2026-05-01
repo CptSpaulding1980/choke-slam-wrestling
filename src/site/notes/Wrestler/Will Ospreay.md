@@ -29,10 +29,10 @@ avg_rating: 83.45
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
+- [[Wrestler/GUNTHER\|GUNTHER]] (3x)
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (2x)
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)
 - [[Wrestler/Kevin Owens\|Kevin Owens]] (2x)
-- [[Wrestler/WALTER\|WALTER]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Trent Seven\|Trent Seven]] (1x)
@@ -42,6 +42,6 @@ avg_rating: 83.45
 ## Top Matches
 - 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)
 - 95%: [[Wrestler/Will Ospreay\|Will Ospreay]] vs. [[Wrestler/Isaac Yankem\|Isaac Yankem]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
-- 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. [[Wrestler/WALTER\|WALTER]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
+- 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. WALTER vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 92%: [[Royal Rumble]] in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)
 - 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)

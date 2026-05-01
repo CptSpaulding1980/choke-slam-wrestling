@@ -44,6 +44,6 @@ avg_rating: 82.71
 ## Top Matches
 - 103%: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Killer Kelly\|Killer Kelly]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] in [[Events/2021-10-17 - S04E03_Saudia Arabia - Aftermath\|S04E03_Saudia Arabia - Aftermath]] (2021-10-17)
 - 101%: Trash TV: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)
-- 98%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & [[Wrestler/WALTER\|WALTER]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
+- 98%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
 - 95%: Andre The Giant Memorial [[Battle Royal]] in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)
 - 94%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)

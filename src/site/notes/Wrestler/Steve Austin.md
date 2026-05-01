@@ -25,12 +25,12 @@ avg_rating: 84.22
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/steve-austin_stats.png" width="200"> | **❌✅✅⚪️❌**<br>**Loss:** Steve Austin vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Bret Hart vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Konosuke Takeshita vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Eddie Kingston vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Semi Finals: Daniel Bryan vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
+| <img src="/img/charts/steve-austin_stats.png" width="200"> | **❌✅✅⚪️❌**<br>**Loss:** Steve Austin vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Bret Hart vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Konosuke Takeshita vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Eddie Kingston vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Semi Finals: Daniel Bryan vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
 
 ## Häufigste Gegner
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (8x)
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (7x)
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (6x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (6x)
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (5x)
 

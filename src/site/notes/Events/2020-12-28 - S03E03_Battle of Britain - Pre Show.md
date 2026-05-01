@@ -19,7 +19,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Wrestler/Killshot\|Killshot]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] vs. [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Finn Bálor\|Finn Bálor]] | Sheamus  won a 5 wrestler battle royale in  19:54 | 19:54 | ★★★★½ | 95 |
+| 1 |  | Killshot vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] vs. [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Finn Bálor\|Finn Bálor]] | Sheamus  won a 5 wrestler battle royale in  19:54 | 19:54 | ★★★★½ | 95 |
 
 ## Links
 - [[Events\|📅 Alle Events]]

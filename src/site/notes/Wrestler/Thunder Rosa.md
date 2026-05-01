@@ -29,7 +29,7 @@ avg_rating: 89.7
 
 ## Häufigste Gegner
 - [[Wrestler/Britt Baker\|Britt Baker]] (2x)
-- [[Wrestler/Killshot\|Killshot]] (2x)
+- [[Wrestler/Swerve Strickland\|Swerve Strickland]] (2x)
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
 - [[Wrestler/Kane\|Kane]] (1x)
 - [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)

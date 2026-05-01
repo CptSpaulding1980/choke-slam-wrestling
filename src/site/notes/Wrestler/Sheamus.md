@@ -42,7 +42,7 @@ avg_rating: 84.88
 
 ## Top Matches
 - 100%: [[Choke Slam World Championship]]: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Sheamus\|Sheamus]] (c) in [[Events/2021-01-21 - S03E05_Ireland\|S03E05_Ireland]] (2021-01-21)
-- 95%: [[Wrestler/Killshot\|Killshot]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] vs. [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Finn Bálor\|Finn Bálor]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Pre Show\|S03E03_Battle of Britain - Pre Show]] (2020-12-28)
+- 95%: Killshot vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] vs. [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Finn Bálor\|Finn Bálor]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Pre Show\|S03E03_Battle of Britain - Pre Show]] (2020-12-28)
 - 95%: [[Choke Slam World Championship]]: [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
 - 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
 - 77%: Kings Court vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)

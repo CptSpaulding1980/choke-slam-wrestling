@@ -19,7 +19,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 |  | [[Wrestler/Killshot\|Killshot]]   vs. [[Wrestler/Santino Marella\|Santino Marella]] | Killshot   beat Santino Marella in 9 Min 57 Sec with a Swerve Stomp | 9:57 | ★★★★¼ | 89 |
+| 1 |  | Killshot   vs. [[Wrestler/Santino Marella\|Santino Marella]] | Killshot   beat Santino Marella in 9 Min 57 Sec with a Swerve Stomp | 9:57 | ★★★★¼ | 89 |
 | 2 |  | [[Wrestler/Thunder Rosa\|Thunder Rosa]] vs. [[Wrestler/Santino Marella\|Santino Marella]] | Santino Marella beat Thunder Rosa in 8 Min 25 Sec with a Cobra | 8:25 | ★★★¼ | 75 |
 | 3 |  | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Santino Marella\|Santino Marella]] | Kazuchika Okada beat Santino Marella in 13 Min 45 Sec with a German Suplex | 13:45 | ★★★★¾ | 97 |
 | 4 |  | [[Wrestler/Jushin Liger\|Jushin Liger]] vs. [[Wrestler/Salvatore Sincere\|Salvatore Sincere]] | Jushin Liger beat Salvatore Sincere in 11 Min 28 Sec with a Stepping Shoutei | 11:28 | ★★★★ | 86 |

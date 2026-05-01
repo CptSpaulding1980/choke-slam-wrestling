@@ -25,10 +25,10 @@ avg_rating: 93.75
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/diamond-dallas-page_stats.png" width="200"> | **✅❌⚪️✅**<br>**Win:** Militanter Mummenschanz vs. Dean Malenko & Diamond Dallas Page in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)<br>**Draw:** Exhibition 1 - Cage Match in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br>**Loss:** Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br>**Win:** Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br> | **Nemesis:** [[Wrestler/Killshot\|Killshot]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 100% vs. Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz |
+| <img src="/img/charts/diamond-dallas-page_stats.png" width="200"> | **✅❌⚪️✅**<br>**Win:** Militanter Mummenschanz vs. Dean Malenko & Diamond Dallas Page in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)<br>**Draw:** Exhibition 1 - Cage Match in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br>**Loss:** Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br>**Win:** Bam Bam Bigelow & Diamond Dallas Page vs. Sweet 'n Sour Elite in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br> | **Nemesis:** [[Wrestler/Swerve Strickland\|Swerve Strickland]]<br>**Partner:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Best Match:** 100% vs. Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
-- [[Wrestler/Killshot\|Killshot]] (1x)
+- [[Wrestler/Swerve Strickland\|Swerve Strickland]] (1x)
 - [[Wrestler/Britt Baker\|Britt Baker]] (1x)
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 - [[Wrestler/Thunder Rosa\|Thunder Rosa]] (1x)

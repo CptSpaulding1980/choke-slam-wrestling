@@ -37,7 +37,7 @@ avg_rating: 89.28
 ## Häufigste Partner
 - [[Wrestler/KENTA\|KENTA]] (10x)
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (10x)
-- [[Wrestler/Killshot\|Killshot]] (5x)
+- [[Wrestler/Swerve Strickland\|Swerve Strickland]] (5x)
 - [[Wrestler/Wardlow\|Wardlow]] (4x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
 

@@ -29,7 +29,7 @@ avg_rating: 83.67
 
 ## Häufigste Gegner
 - [[Wrestler/Britt Baker\|Britt Baker]] (1x)
-- [[Wrestler/Killshot\|Killshot]] (1x)
+- [[Wrestler/Swerve Strickland\|Swerve Strickland]] (1x)
 - [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
 - [[Wrestler/Austin Aries\|Austin Aries]] (1x)
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)

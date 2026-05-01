@@ -38,4 +38,4 @@ avg_rating: 92.5
 - 100%: [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Timothy Thatcher\|Timothy Thatcher]] in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] (2020-10-13)
 - 97%: [[Wrestler/Thunder Rosa\|Thunder Rosa]] vs. [[Wrestler/Timothy Thatcher\|Timothy Thatcher]] in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] (2020-10-13)
 - 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. WALTER vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
-- 81%: [[Wrestler/Killshot\|Killshot]] vs. [[Wrestler/Timothy Thatcher\|Timothy Thatcher]] in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] (2020-10-13)
+- 81%: Killshot vs. [[Wrestler/Timothy Thatcher\|Timothy Thatcher]] in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] (2020-10-13)

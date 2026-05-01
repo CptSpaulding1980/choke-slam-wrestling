@@ -25,10 +25,10 @@ avg_rating: 89.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mark-andrews_stats.png" width="200"> | **✅✅❌**<br>**Loss:** Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)<br>**Win:** Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)<br>**Win:** Saint Rebel Radicalz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)<br> | **Nemesis:** [[Wrestler/Killshot\|Killshot]]<br>**Partner:** [[Wrestler/Flash Morgan Webster\|Flash Morgan Webster]]<br>**Best Match:** 94% vs. Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster |
+| <img src="/img/charts/mark-andrews_stats.png" width="200"> | **✅✅❌**<br>**Loss:** Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)<br>**Win:** Sweet 'n Sour Elite vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)<br>**Win:** Saint Rebel Radicalz vs. Mark Andrews & Flash Morgan Webster in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)<br> | **Nemesis:** [[Wrestler/Swerve Strickland\|Swerve Strickland]]<br>**Partner:** [[Wrestler/Flash Morgan Webster\|Flash Morgan Webster]]<br>**Best Match:** 94% vs. Militanter Mummenschanz vs. Mark Andrews & Flash Morgan Webster |
 
 ## Häufigste Gegner
-- [[Wrestler/Killshot\|Killshot]] (1x)
+- [[Wrestler/Swerve Strickland\|Swerve Strickland]] (1x)
 - [[Wrestler/Britt Baker\|Britt Baker]] (1x)
 - [[Wrestler/Austin Aries\|Austin Aries]] (1x)
 - [[Wrestler/Thunder Rosa\|Thunder Rosa]] (1x)

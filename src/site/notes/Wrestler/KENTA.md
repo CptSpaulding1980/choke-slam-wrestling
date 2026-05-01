@@ -36,7 +36,7 @@ avg_rating: 87.24
 
 ## Häufigste Partner
 - [[Wrestler/Edge\|Edge]] (10x)
-- [[Wrestler/Killshot\|Killshot]] (5x)
+- [[Wrestler/Swerve Strickland\|Swerve Strickland]] (5x)
 - [[Wrestler/Johnny Mundo\|Johnny Mundo]] (4x)
 - [[Wrestler/Kane\|Kane]] (3x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)

@@ -37,7 +37,7 @@ avg_rating: 89.0
 ## Häufigste Partner
 - [[Wrestler/Kane\|Kane]] (6x)
 - [[Wrestler/Britt Baker\|Britt Baker]] (3x)
-- [[Wrestler/Killshot\|Killshot]] (3x)
+- [[Wrestler/Swerve Strickland\|Swerve Strickland]] (3x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
 

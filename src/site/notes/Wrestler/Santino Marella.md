@@ -31,11 +31,11 @@ avg_rating: 87.75
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
 - [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
-- [[Wrestler/Killshot\|Killshot]] (1x)
+- [[Wrestler/Swerve Strickland\|Swerve Strickland]] (1x)
 - [[Wrestler/Thunder Rosa\|Thunder Rosa]] (1x)
 
 ## Top Matches
 - 97%: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Santino Marella\|Santino Marella]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
 - 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
-- 89%: [[Wrestler/Killshot\|Killshot]]   vs. [[Wrestler/Santino Marella\|Santino Marella]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
+- 89%: Killshot   vs. [[Wrestler/Santino Marella\|Santino Marella]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
 - 75%: [[Wrestler/Thunder Rosa\|Thunder Rosa]] vs. [[Wrestler/Santino Marella\|Santino Marella]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)

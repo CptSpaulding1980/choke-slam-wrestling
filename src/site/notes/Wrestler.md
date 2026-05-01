@@ -262,7 +262,6 @@ tags: [index, wrestler]
 | [[Wrestler/Kiana James\|Kiana James]] | 32 | 11 | 13 | 8 | 34.4% | 85.19 |
 | [[Wrestler/Killer Kelly\|Killer Kelly]] | 41 | 11 | 22 | 8 | 26.8% | 82.71 |
 | [[Wrestler/Killian Dain\|Killian Dain]] | 3 | 2 | 1 | 0 | 66.7% | 81.00 |
-| [[Wrestler/Killshot\|Killshot]] | 25 | 10 | 9 | 6 | 40.0% | 85.56 |
 | [[Wrestler/King Corbin\|King Corbin]] | 3 | 1 | 2 | 0 | 33.3% | 74.67 |
 | [[Wrestler/Kip Sabian\|Kip Sabian]] | 1 | 0 | 0 | 1 | 0.0% | 74.00 |
 | [[Wrestler/Kofi Kingston\|Kofi Kingston]] | 16 | 4 | 9 | 3 | 25.0% | 87.44 |
@@ -427,6 +426,7 @@ tags: [index, wrestler]
 | [[Wrestler/Steve Austin\|Steve Austin]] | 46 | 12 | 30 | 4 | 26.1% | 84.22 |
 | [[Wrestler/Stevie Ray\|Stevie Ray]] | 4 | 1 | 3 | 0 | 25.0% | 90.00 |
 | [[Wrestler/Sting\|Sting]] | 23 | 9 | 7 | 7 | 39.1% | 85.65 |
+| [[Wrestler/Swerve Strickland\|Swerve Strickland]] | 25 | 10 | 9 | 6 | 40.0% | 85.56 |
 | [[Wrestler/Syuri\|Syuri]] | 1 | 0 | 1 | 0 | 0.0% | 67.00 |
 | [[Wrestler/TAKA Michinoku\|TAKA Michinoku]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
 | [[Wrestler/Takashi Sasaki\|Takashi Sasaki]] | 1 | 1 | 0 | 0 | 100.0% | 100.00 |

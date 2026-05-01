@@ -36,7 +36,7 @@ avg_rating: 86.63
 
 ## Häufigste Partner
 - [[Wrestler/Joe Hendry\|Joe Hendry]] (9x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (4x)
+- [[Wrestler/Gunther\|Gunther]] (4x)
 - [[Wrestler/Hammerstone\|Hammerstone]] (3x)
 - [[Wrestler/Tatum Paxley\|Tatum Paxley]] (2x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (2x)

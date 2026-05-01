@@ -42,7 +42,7 @@ avg_rating: 88.5
 - [[Wrestler/Alberto El Patron\|Alberto El Patron]] (1x)
 
 ## Top Matches
-- 99%: [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] vs. [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] vs. Bryan Danielson vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)
+- 99%: [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] vs. [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] vs. [[Wrestler/Bryan Danielson\|Bryan Danielson]] vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)
 - 98%: Apple Money in the Bank Match in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)
 - 98%: [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] vs. [[Wrestler/CM Punk\|CM Punk]]  in [[Events/2021-12-28 - S04E05_UFC\|S04E05_UFC]] (2021-12-28)
 - 93%: [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] vs. [[Wrestler/Cesaro\|Cesaro]]  in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)

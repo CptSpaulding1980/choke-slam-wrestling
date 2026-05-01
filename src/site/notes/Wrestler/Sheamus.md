@@ -38,7 +38,7 @@ avg_rating: 84.88
 - [[Wrestler/King Corbin\|King Corbin]] (3x)
 - [[Wrestler/Booker T\|Booker T]] (3x)
 - [[Wrestler/Jerry Lawler\|Jerry Lawler]] (3x)
-- [[Wrestler/Mick Foley\|Mick Foley]] (1x)
+- [[Wrestler/Cactus Jack\|Cactus Jack]] (1x)
 
 ## Top Matches
 - 100%: [[Choke Slam World Championship]]: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Sheamus\|Sheamus]] (c) in [[Events/2021-01-21 - S03E05_Ireland\|S03E05_Ireland]] (2021-01-21)

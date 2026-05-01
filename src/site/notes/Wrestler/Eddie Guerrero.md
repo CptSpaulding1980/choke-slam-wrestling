@@ -25,7 +25,7 @@ avg_rating: 86.73
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/eddie-guerrero_stats.png" width="200"> | **⚪️✅✅✅❌**<br>**Loss:** Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Win:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Win:** Nature Game Masters  vs. The Shield in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Draw:** Thunder Queen Battle: Hulk Hogan vs. Eddie Guerrero in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/GUNTHER\|GUNTHER]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
+| <img src="/img/charts/eddie-guerrero_stats.png" width="200"> | **⚪️✅✅✅❌**<br>**Loss:** Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Win:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Win:** Nature Game Masters  vs. The Shield in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Draw:** Thunder Queen Battle: Hulk Hogan vs. Eddie Guerrero in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br> | **Nemesis:** [[Wrestler/Hulk Hogan\|Hulk Hogan]]<br>**Partner:** [[Wrestler/Gunther\|Gunther]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
 
 ## Häufigste Gegner
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)
@@ -35,8 +35,8 @@ avg_rating: 86.73
 - [[Wrestler/Gigi Dolin\|Gigi Dolin]] (2x)
 
 ## Häufigste Partner
-- [[Wrestler/GUNTHER\|GUNTHER]] (5x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
+- [[Wrestler/Gunther\|Gunther]] (5x)
+- [[Wrestler/Bryan Danielson\|Bryan Danielson]] (3x)
 - [[Wrestler/Aero Star\|Aero Star]] (2x)
 - [[Wrestler/Cora Jade\|Cora Jade]] (1x)
 - [[Wrestler/Beer City Bruiser\|Beer City Bruiser]] (1x)

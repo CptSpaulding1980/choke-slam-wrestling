@@ -25,7 +25,7 @@ avg_rating: 98.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/robert-dreissker_stats.png" width="200"> | **✅✅❌**<br>**Loss:** Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Win:** Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Win:** Saint Rebel Radicalz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/GUNTHER\|GUNTHER]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
+| <img src="/img/charts/robert-dreissker_stats.png" width="200"> | **✅✅❌**<br>**Loss:** Militanter Mummenschanz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Win:** Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Win:** Saint Rebel Radicalz vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Gunther\|Gunther]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
@@ -35,7 +35,7 @@ avg_rating: 98.0
 - [[Wrestler/Chris Hero\|Chris Hero]] (1x)
 
 ## Häufigste Partner
-- [[Wrestler/GUNTHER\|GUNTHER]] (3x)
+- [[Wrestler/Gunther\|Gunther]] (3x)
 
 ## Top Matches
 - 100%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)

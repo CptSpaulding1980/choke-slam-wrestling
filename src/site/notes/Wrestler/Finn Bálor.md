@@ -31,7 +31,7 @@ avg_rating: 85.61
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (5x)
 - [[Wrestler/Kiana James\|Kiana James]] (4x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (3x)
+- [[Wrestler/Gunther\|Gunther]] (3x)
 - [[Wrestler/Joe Hendry\|Joe Hendry]] (3x)
 - [[Wrestler/Tatum Paxley\|Tatum Paxley]] (3x)
 

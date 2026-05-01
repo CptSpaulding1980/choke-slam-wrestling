@@ -32,7 +32,7 @@ avg_rating: 81.88
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
 - [[Wrestler/Robert Dreissker\|Robert Dreissker]] (1x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Chris Hero\|Chris Hero]] (1x)

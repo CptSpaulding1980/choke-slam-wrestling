@@ -1,10 +1,10 @@
 ---
 dg-publish: 'true'
 permalink: /wrestler/gunther/
-title: GUNTHER
+title: Gunther
 tags:
 - wrestler
-img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/GUNTHER.png
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Gunther.png
 matches: 61
 wins: 30
 losses: 18
@@ -13,11 +13,11 @@ win_percent: 49.2
 avg_rating: 85.15
 ---
 
-# GUNTHER
+# Gunther
 
-> ℹ️ **Auch bekannt als:** WALTER, Gunther
+> ℹ️ **Auch bekannt als:** WALTER
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/GUNTHER.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Gunther.png" width="280"></td><td><b>Height:</b> 195cm<br><b>Weight:</b> 149kg<br><b>Finisher:</b> Powerbomb</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

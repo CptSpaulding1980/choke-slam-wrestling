@@ -30,7 +30,7 @@ avg_rating: 80.66
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (10x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (8x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (8x)
+- [[Wrestler/Gunther\|Gunther]] (8x)
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (6x)
 - [[Wrestler/Kiana James\|Kiana James]] (6x)
 
@@ -39,10 +39,10 @@ avg_rating: 80.66
 - [[Wrestler/Finn Bálor\|Finn Bálor]] (4x)
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (3x)
 - [[Wrestler/Fallon Henley\|Fallon Henley]] (3x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
 
 ## Top Matches
-- 99%: [[Wrestler/Asuka\|Asuka]] vs. [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/KUSHIDA\|KUSHIDA]]  vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. Bryan Danielson vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)
+- 99%: [[Wrestler/Asuka\|Asuka]] vs. [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/KUSHIDA\|KUSHIDA]]  vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Bryan Danielson\|Bryan Danielson]] vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)
 - 98%: [[Choke Slam Trios Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]]  vs. Los Jinetes del Aire vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)
 - 97%: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Irwin R. Schyster\|Irwin R. Schyster]] & [[Wrestler/Ted DiBiase\|Ted DiBiase]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)
 - 94%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Path of God\|Path of God]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)

@@ -29,7 +29,7 @@ avg_rating: 84.55
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (13x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (10x)
+- [[Wrestler/Gunther\|Gunther]] (10x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (9x)
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (9x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (8x)

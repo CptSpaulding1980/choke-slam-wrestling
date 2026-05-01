@@ -30,9 +30,9 @@ avg_rating: 88.0
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (3x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
 - [[Wrestler/Edge\|Edge]] (3x)
 - [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Fit Finlay\|Fit Finlay]] (2x)

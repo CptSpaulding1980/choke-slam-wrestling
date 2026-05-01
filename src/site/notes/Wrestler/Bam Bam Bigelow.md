@@ -32,7 +32,7 @@ avg_rating: 89.38
 - [[Wrestler/Bret Hart\|Bret Hart]] (4x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (4x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (4x)
+- [[Wrestler/Dalton Castle\|Dalton Castle]] (3x)
 
 ## Häufigste Partner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)

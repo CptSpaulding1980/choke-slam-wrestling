@@ -35,7 +35,7 @@ avg_rating: 87.5
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
 
 ## Top Matches
-- 99%: [[Wrestler/Asuka\|Asuka]] vs. [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/KUSHIDA\|KUSHIDA]]  vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. Bryan Danielson vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)
+- 99%: [[Wrestler/Asuka\|Asuka]] vs. [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/KUSHIDA\|KUSHIDA]]  vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Bryan Danielson\|Bryan Danielson]] vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)
 - 90%: < 70 kg: [[Wrestler/Asuka\|Asuka]] vs. Killer Kelly in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|S04E04_Admiral Lordevans Rules!]] (2021-10-17)
 - 82%: < 70 kg: [[Wrestler/Asuka\|Asuka]] vs. [[Wrestler/Killer Kelly\|Killer Kelly]] in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|S04E04_Admiral Lordevans Rules!]] (2021-10-17)
 - 79%: < 70 kg: [[Wrestler/Asuka\|Asuka]] vs. [[Wrestler/Madison Rayne\|Madison Rayne]] in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|S04E04_Admiral Lordevans Rules!]] (2021-10-17)

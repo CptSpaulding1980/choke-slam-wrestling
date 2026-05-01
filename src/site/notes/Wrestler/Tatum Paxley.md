@@ -37,7 +37,7 @@ avg_rating: 80.0
 ## Häufigste Partner
 - [[Wrestler/Ryusuke Taguchi\|Ryusuke Taguchi]] (4x)
 - [[Wrestler/Joe Hendry\|Joe Hendry]] (4x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (3x)
+- [[Wrestler/Gunther\|Gunther]] (3x)
 - [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (2x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (2x)
 

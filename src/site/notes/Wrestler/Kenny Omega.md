@@ -29,7 +29,7 @@ avg_rating: 87.52
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (5x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (4x)
+- [[Wrestler/Gunther\|Gunther]] (4x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (4x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (4x)

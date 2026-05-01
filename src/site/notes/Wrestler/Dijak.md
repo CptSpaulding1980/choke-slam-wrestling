@@ -39,7 +39,7 @@ avg_rating: 82.61
 - [[Wrestler/Kofi Kingston\|Kofi Kingston]] (2x)
 - [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
 
 ## Top Matches
 - 98%: [[Wrestler/Dijak\|Dijak]] vs. [[Wrestler/Kofi Kingston\|Kofi Kingston]] in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)

@@ -30,9 +30,9 @@ avg_rating: 87.33
 ## Häufigste Gegner
 - [[Wrestler/Pascal LePas\|Pascal LePas]] (5x)
 - [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (5x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (2x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
+- [[Wrestler/El Torito\|El Torito]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/EC3\|EC3]] (2x)

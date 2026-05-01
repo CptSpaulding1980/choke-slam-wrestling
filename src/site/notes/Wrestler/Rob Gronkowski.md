@@ -32,7 +32,7 @@ avg_rating: 80.33
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)
 - [[Wrestler/Triple H\|Triple H]] (1x)
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Jim Duggan\|Jim Duggan]] (3x)
@@ -42,5 +42,5 @@ avg_rating: 80.33
 
 ## Top Matches
 - 88%: Pro Bowl 3: [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]], [[Wrestler/The Undertaker\|The Undertaker]] & [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Moose\|Moose]], [[Wrestler/Jim Duggan\|Jim Duggan]] & [[Wrestler/Rob Gronkowski\|Rob Gronkowski]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
-- 80%: Pro Bowl 2: [[Wrestler/KUSHIDA\|KUSHIDA]], Gunther & [[Wrestler/Dijak\|Dijak]] vs. [[Wrestler/Gable Steveson\|Gable Steveson]], [[Wrestler/Jim Duggan\|Jim Duggan]] & [[Wrestler/Rob Gronkowski\|Rob Gronkowski]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
+- 80%: Pro Bowl 2: [[Wrestler/KUSHIDA\|KUSHIDA]], [[Wrestler/Gunther\|Gunther]] & [[Wrestler/Dijak\|Dijak]] vs. [[Wrestler/Gable Steveson\|Gable Steveson]], [[Wrestler/Jim Duggan\|Jim Duggan]] & [[Wrestler/Rob Gronkowski\|Rob Gronkowski]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
 - 73%: Pro Bowl 1: [[Wrestler/Laredo Kid\|Laredo Kid]], [[Wrestler/Randy Savage\|Randy Savage]] & [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Jim Duggan\|Jim Duggan]], [[Wrestler/Ron Simmons\|Ron Simmons]] & [[Wrestler/Rob Gronkowski\|Rob Gronkowski]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)

@@ -25,10 +25,10 @@ avg_rating: 95.14
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/marius-al-ani_stats.png" width="200"> | **❌✅❌✅⚪️**<br>**Draw:** Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Win:** Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Loss:** Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Win:** Loser leaves Town (Cage):Jeff Jarrett vs. Marius Al-Ani vs. Larry Zbyszko in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Loss:** Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br> | **Nemesis:** [[Wrestler/GUNTHER\|GUNTHER]]<br>**Partner:** [[Wrestler/Madison Rayne\|Madison Rayne]]<br>**Best Match:** 101% vs. Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/marius-al-ani_stats.png" width="200"> | **❌✅❌✅⚪️**<br>**Draw:** Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Win:** Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Loss:** Trash TV: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Win:** Loser leaves Town (Cage):Jeff Jarrett vs. Marius Al-Ani vs. Larry Zbyszko in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Loss:** Sweet 'n Sour Elite vs. Robert Dreissker & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br> | **Nemesis:** [[Wrestler/Gunther\|Gunther]]<br>**Partner:** [[Wrestler/Madison Rayne\|Madison Rayne]]<br>**Best Match:** 101% vs. Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
-- [[Wrestler/GUNTHER\|GUNTHER]] (2x)
+- [[Wrestler/Gunther\|Gunther]] (2x)
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (2x)
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (2x)
 - [[Wrestler/Teoman\|Teoman]] (2x)

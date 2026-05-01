@@ -29,7 +29,7 @@ avg_rating: 91.0
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)
 - [[Wrestler/Solo Sikoa\|Solo Sikoa]] (1x)
 - [[Wrestler/Jimmy Uso\|Jimmy Uso]] (1x)

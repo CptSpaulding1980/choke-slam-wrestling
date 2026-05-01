@@ -36,8 +36,8 @@ avg_rating: 85.0
 
 ## Häufigste Partner
 - [[Wrestler/Cora Jade\|Cora Jade]] (2x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (1x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
+- [[Wrestler/Bryan Danielson\|Bryan Danielson]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
 
 ## Top Matches

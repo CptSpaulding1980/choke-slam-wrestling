@@ -29,7 +29,7 @@ avg_rating: 80.0
 
 ## Häufigste Gegner
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (1x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
 - [[Wrestler/Dijak\|Dijak]] (1x)
 
 ## Häufigste Partner
@@ -37,4 +37,4 @@ avg_rating: 80.0
 - [[Wrestler/Rob Gronkowski\|Rob Gronkowski]] (1x)
 
 ## Top Matches
-- 80%: Pro Bowl 2: [[Wrestler/KUSHIDA\|KUSHIDA]], Gunther & [[Wrestler/Dijak\|Dijak]] vs. [[Wrestler/Gable Steveson\|Gable Steveson]], [[Wrestler/Jim Duggan\|Jim Duggan]] & [[Wrestler/Rob Gronkowski\|Rob Gronkowski]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
+- 80%: Pro Bowl 2: [[Wrestler/KUSHIDA\|KUSHIDA]], [[Wrestler/Gunther\|Gunther]] & [[Wrestler/Dijak\|Dijak]] vs. [[Wrestler/Gable Steveson\|Gable Steveson]], [[Wrestler/Jim Duggan\|Jim Duggan]] & [[Wrestler/Rob Gronkowski\|Rob Gronkowski]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)

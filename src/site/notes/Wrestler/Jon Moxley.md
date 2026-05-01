@@ -31,8 +31,8 @@ avg_rating: 87.56
 - [[Wrestler/Jay White\|Jay White]] (7x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (6x)
 - [[Wrestler/Miro\|Miro]] (6x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (5x)
 - [[Wrestler/Edge\|Edge]] (5x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (16x)

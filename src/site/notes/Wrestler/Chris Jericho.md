@@ -28,7 +28,7 @@ avg_rating: 85.79
 | <img src="/img/charts/chris-jericho_stats.png" width="200"> | **❌❌✅❌❌**<br>**Loss:** Chris Jericho vs. Kazuchika Okada in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Brock Lesnar vs. Chris Jericho in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Chris Jericho vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Chris Jericho vs. Daniel Bryan in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (13x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (11x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (6x)
 - [[Wrestler/Wardlow\|Wardlow]] (6x)
 - [[Wrestler/Jay White\|Jay White]] (4x)

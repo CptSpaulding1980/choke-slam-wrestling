@@ -29,7 +29,7 @@ avg_rating: 83.45
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
-- [[Wrestler/GUNTHER\|GUNTHER]] (3x)
+- [[Wrestler/Gunther\|Gunther]] (3x)
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (2x)
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)
 - [[Wrestler/Kevin Owens\|Kevin Owens]] (2x)

@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PWI 500 – Choke Slam Wrestling</title>
+<style>
+:root {
+    --bg: #0a0a0a; --card: #111; --border: #222;
+    --text: #ddd; --muted: #888; --accent: #e63946;
+    --gold: #f4a261; --green: #2a9d8f; --blue: #457b9d;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.6;
+}
+.container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+header {
+    text-align: center; padding: 60px 20px 40px;
+    background: linear-gradient(135deg, #1a1a2e, #16213e);
+    border-bottom: 3px solid var(--accent);
+}
+header h1 { font-size: 2.5em; color: var(--accent); }
+header p { color: var(--muted); margin-top: 8px; }
+.meta { 
+    display: flex; justify-content: center; gap: 40px; 
+    margin-top: 20px; flex-wrap: wrap;
+}
+.meta-item { text-align: center; }
+.meta-num { font-size: 1.8em; font-weight: bold; color: var(--gold); }
+.meta-label { font-size: 0.85em; color: var(--muted); }
+section { margin: 50px 0; }
+h2 {
+    font-size: 1.5em; border-bottom: 2px solid var(--accent);
+    padding-bottom: 8px; margin-bottom: 20px;
+}
+table {
+    width: 100%; border-collapse: collapse; font-size: 0.92em;
+}
+th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--border); }
+th { background: #1a1a1a; color: var(--accent); font-weight: 600; position: sticky; top: 0; }
+tr:hover { background: #1a1a1a; }
+.rank { font-weight: bold; color: var(--gold); width: 40px; text-align: center; }
+.top3 { background: #1a1a2e; }
+.top3 td { border-bottom: 1px solid #333; }
+.champ-card {
+    display: inline-block; background: var(--card); border: 1px solid var(--border);
+    border-radius: 8px; padding: 15px; margin: 8px; min-width: 220px;
+}
+.champ-card h4 { color: var(--gold); margin-bottom: 5px; }
+.champ-card .holder { font-size: 1.2em; }
+.champ-card .bonus { color: var(--muted); font-size: 0.85em; }
+.charts { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+.chart-box {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 8px; padding: 20px;
+}
+.bar { height: 24px; background: var(--accent); border-radius: 4px; margin: 4px 0; }
+.bar-label { display: flex; justify-content: space-between; font-size: 0.85em; margin: 8px 0 4px; }
+footer {
+    text-align: center; padding: 40px 20px; color: var(--muted);
+    border-top: 1px solid var(--border); font-size: 0.85em;
+}
+@media (max-width: 768px) {
+    header h1 { font-size: 1.8em; }
+    table { font-size: 0.8em; }
+    th, td { padding: 6px 8px; }
+}
+</style>
+</head>
+<body>
+<header>
+    <h1>🏆 PWI 500</h1>
+    <p>Choke Slam Wrestling – Offizielles Power Ranking</p>
+    <div class="meta">
+        <div class="meta-item"><div class="meta-num">1194</div><div class="meta-label">Matches</div></div>
+        <div class="meta-item"><div class="meta-num">289</div><div class="meta-label">Ranked Wrestlers</div></div>
+        <div class="meta-item"><div class="meta-num">78</div><div class="meta-label">Events</div></div>
+        <div class="meta-item"><div class="meta-num">2026-05-01 09:59</div><div class="meta-label">Stand</div></div>
+    </div>
+</header>
+
+<div class="container">
+
+<section>
+    <h2>📊 Scoring-Formel</h2>
+    <p style="color:var(--muted);margin-bottom:15px">
+        <strong>PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus</strong>
+    </p>
+    <p style="color:var(--muted)">
+        Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Trios +8
+    </p>
+</section>
+
+<section>
+    <h2>🥇 Singles Top 100</h2>
+    <div style="overflow-x:auto">
+    <table>
+        <thead><tr>
+            <th>#</th><th>Wrestler</th>
+            <th>W</th><th>L</th><th>D</th><th>Win%</th><th>Ø★</th><th>Pts</th>
+        </tr></thead>
+        <tbody><tr class="top3">
+            <td class="rank">1</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Kazuchika Okada/">Kazuchika Okada</a></td>
+            <td>52</td><td>20</td><td>2</td>
+            <td>70%</td><td>84</td>
+            <td>111</td>
+        </tr><tr class="top3">
+            <td class="rank">2</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Hiroshi Tanahashi/">Hiroshi Tanahashi</a></td>
+            <td>41</td><td>14</td><td>3</td>
+            <td>71%</td><td>81</td>
+            <td>95</td>
+        </tr><tr class="top3">
+            <td class="rank">3</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Bob Backlund/">Bob Backlund</a></td>
+            <td>44</td><td>26</td><td>0</td>
+            <td>63%</td><td>88</td>
+            <td>88</td>
+        </tr><tr class="">
+            <td class="rank">4</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Roman Reigns/">Roman Reigns</a></td>
+            <td>44</td><td>28</td><td>1</td>
+            <td>60%</td><td>87</td>
+            <td>87</td>
+        </tr><tr class="">
+            <td class="rank">5</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Randy Savage/">Randy Savage</a></td>
+            <td>41</td><td>30</td><td>0</td>
+            <td>58%</td><td>84</td>
+            <td>77</td>
+        </tr><tr class="">
+            <td class="rank">6</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Triple H/">Triple H</a></td>
+            <td>34</td><td>19</td><td>3</td>
+            <td>61%</td><td>81</td>
+            <td>76</td>
+        </tr><tr class="">
+            <td class="rank">7</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Bret Hart/">Bret Hart</a></td>
+            <td>41</td><td>39</td><td>6</td>
+            <td>48%</td><td>88</td>
+            <td>75</td>
+        </tr><tr class="">
+            <td class="rank">8</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/AJ Styles/">AJ Styles</a></td>
+            <td>33</td><td>22</td><td>3</td>
+            <td>57%</td><td>82</td>
+            <td>72</td>
+        </tr><tr class="">
+            <td class="rank">9</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/The Undertaker/">The Undertaker</a></td>
+            <td>32</td><td>20</td><td>1</td>
+            <td>60%</td><td>83</td>
+            <td>70</td>
+        </tr><tr class="">
+            <td class="rank">10</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Big Van Vader/">Big Van Vader</a></td>
+            <td>31</td><td>19</td><td>1</td>
+            <td>61%</td><td>82</td>
+            <td>69</td>
+        </tr><tr class="">
+            <td class="rank">11</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Hulk Hogan/">Hulk Hogan</a></td>
+            <td>32</td><td>25</td><td>3</td>
+            <td>53%</td><td>86</td>
+            <td>68</td>
+        </tr><tr class="">
+            <td class="rank">12</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Daniel Bryan/">Daniel Bryan</a></td>
+            <td>27</td><td>12</td><td>0</td>
+            <td>69%</td><td>86</td>
+            <td>68</td>
+        </tr><tr class="">
+            <td class="rank">13</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Chris Jericho/">Chris Jericho</a> 🏆</td>
+            <td>20</td><td>16</td><td>0</td>
+            <td>56%</td><td>85</td>
+            <td>65</td>
+        </tr><tr class="">
+            <td class="rank">14</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Gunther/">Gunther</a></td>
+            <td>24</td><td>15</td><td>3</td>
+            <td>57%</td><td>82</td>
+            <td>61</td>
+        </tr><tr class="">
+            <td class="rank">15</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Awesome Kong/">Awesome Kong</a> 🏆</td>
+            <td>15</td><td>16</td><td>2</td>
+            <td>45%</td><td>82</td>
+            <td>56</td>
+        </tr><tr class="">
+            <td class="rank">16</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Johnny Mundo/">Johnny Mundo</a></td>
+            <td>17</td><td>4</td><td>0</td>
+            <td>81%</td><td>85</td>
+            <td>56</td>
+        </tr><tr class="">
+            <td class="rank">17</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Jon Moxley/">Jon Moxley</a></td>
+            <td>19</td><td>13</td><td>0</td>
+            <td>59%</td><td>87</td>
+            <td>51</td>
+        </tr><tr class="">
+            <td class="rank">18</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Miro/">Miro</a></td>
+            <td>19</td><td>19</td><td>3</td>
+            <td>46%</td><td>88</td>
+            <td>48</td>
+        </tr><tr class="">
+            <td class="rank">19</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Christian Cage/">Christian Cage</a></td>
+            <td>17</td><td>11</td><td>0</td>
+            <td>61%</td><td>84</td>
+            <td>48</td>
+        </tr><tr class="">
+            <td class="rank">20</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Seth Rollins/">Seth Rollins</a></td>
+            <td>17</td><td>13</td><td>0</td>
+            <td>57%</td><td>87</td>
+            <td>47</td>
+        </tr><tr class="">
+            <td class="rank">21</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Rey Fenix/">Rey Fenix</a></td>
+            <td>18</td><td>16</td><td>0</td>
+            <td>53%</td><td>88</td>
+            <td>47</td>
+        </tr><tr class="">
+            <td class="rank">22</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Owen Hart/">Owen Hart</a></td>
+            <td>12</td><td>5</td><td>0</td>
+            <td>71%</td><td>91</td>
+            <td>46</td>
+        </tr><tr class="">
+            <td class="rank">23</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Kensuke Sasaki/">Kensuke Sasaki</a></td>
+            <td>14</td><td>9</td><td>0</td>
+            <td>61%</td><td>87</td>
+            <td>45</td>
+        </tr><tr class="">
+            <td class="rank">24</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Kenny Omega/">Kenny Omega</a></td>
+            <td>13</td><td>11</td><td>4</td>
+            <td>46%</td><td>86</td>
+            <td>45</td>
+        </tr><tr class="">
+            <td class="rank">25</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Tetsuya Naito/">Tetsuya Naito</a></td>
+            <td>24</td><td>31</td><td>1</td>
+            <td>43%</td><td>86</td>
+            <td>44</td>
+        </tr><tr class="">
+            <td class="rank">26</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Kurt Angle/">Kurt Angle</a></td>
+            <td>16</td><td>15</td><td>0</td>
+            <td>52%</td><td>88</td>
+            <td>43</td>
+        </tr><tr class="">
+            <td class="rank">27</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/EC3/">EC3</a></td>
+            <td>12</td><td>6</td><td>0</td>
+            <td>67%</td><td>84</td>
+            <td>43</td>
+        </tr><tr class="">
+            <td class="rank">28</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/KUSHIDA/">KUSHIDA</a></td>
+            <td>15</td><td>11</td><td>0</td>
+            <td>58%</td><td>78</td>
+            <td>42</td>
+        </tr><tr class="">
+            <td class="rank">29</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Steve Austin/">Steve Austin</a> 🏆</td>
+            <td>12</td><td>29</td><td>1</td>
+            <td>29%</td><td>84</td>
+            <td>41</td>
+        </tr><tr class="">
+            <td class="rank">30</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Diesel/">Diesel</a></td>
+            <td>14</td><td>13</td><td>0</td>
+            <td>52%</td><td>86</td>
+            <td>41</td>
+        </tr><tr class="">
+            <td class="rank">31</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Chris Hero/">Chris Hero</a></td>
+            <td>14</td><td>13</td><td>0</td>
+            <td>52%</td><td>85</td>
+            <td>40</td>
+        </tr><tr class="">
+            <td class="rank">32</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Rey Mysterio Jr./">Rey Mysterio Jr.</a></td>
+            <td>13</td><td>11</td><td>1</td>
+            <td>52%</td><td>80</td>
+            <td>40</td>
+        </tr><tr class="">
+            <td class="rank">33</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Edge/">Edge</a></td>
+            <td>17</td><td>22</td><td>0</td>
+            <td>44%</td><td>89</td>
+            <td>39</td>
+        </tr><tr class="">
+            <td class="rank">34</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Brock Lesnar/">Brock Lesnar</a></td>
+            <td>14</td><td>14</td><td>0</td>
+            <td>50%</td><td>82</td>
+            <td>39</td>
+        </tr><tr class="">
+            <td class="rank">35</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Sasha Banks/">Sasha Banks</a></td>
+            <td>8</td><td>4</td><td>0</td>
+            <td>67%</td><td>89</td>
+            <td>39</td>
+        </tr><tr class="">
+            <td class="rank">36</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Eddie Edwards/">Eddie Edwards</a></td>
+            <td>10</td><td>9</td><td>1</td>
+            <td>50%</td><td>87</td>
+            <td>38</td>
+        </tr><tr class="">
+            <td class="rank">37</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Pac/">Pac</a></td>
+            <td>10</td><td>8</td><td>0</td>
+            <td>56%</td><td>86</td>
+            <td>38</td>
+        </tr><tr class="">
+            <td class="rank">38</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/KENTA/">KENTA</a></td>
+            <td>12</td><td>13</td><td>1</td>
+            <td>46%</td><td>86</td>
+            <td>38</td>
+        </tr><tr class="">
+            <td class="rank">39</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Lance Storm/">Lance Storm</a></td>
+            <td>6</td><td>1</td><td>0</td>
+            <td>86%</td><td>89</td>
+            <td>38</td>
+        </tr><tr class="">
+            <td class="rank">40</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Larry Zbyszko/">Larry Zbyszko</a></td>
+            <td>7</td><td>5</td><td>4</td>
+            <td>44%</td><td>82</td>
+            <td>38</td>
+        </tr><tr class="">
+            <td class="rank">41</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Kane/">Kane</a></td>
+            <td>16</td><td>21</td><td>1</td>
+            <td>42%</td><td>84</td>
+            <td>37</td>
+        </tr><tr class="">
+            <td class="rank">42</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Brandon/">Brandon</a></td>
+            <td>11</td><td>10</td><td>0</td>
+            <td>52%</td><td>84</td>
+            <td>37</td>
+        </tr><tr class="">
+            <td class="rank">43</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Ludwig Kaiser/">Ludwig Kaiser</a></td>
+            <td>10</td><td>9</td><td>2</td>
+            <td>48%</td><td>80</td>
+            <td>37</td>
+        </tr><tr class="">
+            <td class="rank">44</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Randy Orton/">Randy Orton</a></td>
+            <td>7</td><td>4</td><td>0</td>
+            <td>64%</td><td>89</td>
+            <td>37</td>
+        </tr><tr class="">
+            <td class="rank">45</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Wardlow/">Wardlow</a></td>
+            <td>13</td><td>16</td><td>0</td>
+            <td>45%</td><td>88</td>
+            <td>36</td>
+        </tr><tr class="">
+            <td class="rank">46</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Finn Bálor/">Finn Bálor</a></td>
+            <td>9</td><td>7</td><td>0</td>
+            <td>56%</td><td>85</td>
+            <td>36</td>
+        </tr><tr class="">
+            <td class="rank">47</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Madison Rayne/">Madison Rayne</a></td>
+            <td>14</td><td>17</td><td>0</td>
+            <td>45%</td><td>84</td>
+            <td>36</td>
+        </tr><tr class="">
+            <td class="rank">48</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Killshot/">Killshot</a></td>
+            <td>10</td><td>9</td><td>0</td>
+            <td>53%</td><td>84</td>
+            <td>36</td>
+        </tr><tr class="">
+            <td class="rank">49</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Rush/">Rush</a></td>
+            <td>12</td><td>15</td><td>1</td>
+            <td>43%</td><td>87</td>
+            <td>36</td>
+        </tr><tr class="">
+            <td class="rank">50</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/WALTER/">WALTER</a></td>
+            <td>5</td><td>3</td><td>0</td>
+            <td>62%</td><td>95</td>
+            <td>35</td>
+        </tr><tr class="">
+            <td class="rank">51</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Dustin Rhodes/">Dustin Rhodes</a></td>
+            <td>11</td><td>13</td><td>0</td>
+            <td>46%</td><td>88</td>
+            <td>35</td>
+        </tr><tr class="">
+            <td class="rank">52</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Sting/">Sting</a></td>
+            <td>8</td><td>7</td><td>1</td>
+            <td>50%</td><td>84</td>
+            <td>35</td>
+        </tr><tr class="">
+            <td class="rank">53</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Kevin Steen/">Kevin Steen</a></td>
+            <td>12</td><td>15</td><td>0</td>
+            <td>44%</td><td>85</td>
+            <td>35</td>
+        </tr><tr class="">
+            <td class="rank">54</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Marius Al-Ani/">Marius Al-Ani</a></td>
+            <td>4</td><td>2</td><td>0</td>
+            <td>67%</td><td>95</td>
+            <td>35</td>
+        </tr><tr class="">
+            <td class="rank">55</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Claudio Castagnoli/">Claudio Castagnoli</a></td>
+            <td>8</td><td>6</td><td>0</td>
+            <td>57%</td><td>82</td>
+            <td>34</td>
+        </tr><tr class="">
+            <td class="rank">56</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Jonathan Gresham/">Jonathan Gresham</a></td>
+            <td>12</td><td>17</td><td>2</td>
+            <td>39%</td><td>85</td>
+            <td>34</td>
+        </tr><tr class="">
+            <td class="rank">57</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Kiana James/">Kiana James</a></td>
+            <td>10</td><td>13</td><td>2</td>
+            <td>40%</td><td>84</td>
+            <td>34</td>
+        </tr><tr class="">
+            <td class="rank">58</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Angélico/">Angélico</a></td>
+            <td>8</td><td>7</td><td>0</td>
+            <td>53%</td><td>84</td>
+            <td>34</td>
+        </tr><tr class="">
+            <td class="rank">59</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Chyna/">Chyna</a></td>
+            <td>5</td><td>1</td><td>0</td>
+            <td>83%</td><td>83</td>
+            <td>34</td>
+        </tr><tr class="">
+            <td class="rank">60</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Jay White/">Jay White</a></td>
+            <td>15</td><td>24</td><td>2</td>
+            <td>37%</td><td>86</td>
+            <td>34</td>
+        </tr><tr class="">
+            <td class="rank">61</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Kota Ibushi/">Kota Ibushi</a></td>
+            <td>5</td><td>3</td><td>2</td>
+            <td>50%</td><td>83</td>
+            <td>34</td>
+        </tr><tr class="">
+            <td class="rank">62</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Grayson Waller/">Grayson Waller</a></td>
+            <td>8</td><td>9</td><td>0</td>
+            <td>47%</td><td>89</td>
+            <td>34</td>
+        </tr><tr class="">
+            <td class="rank">63</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Dynamite Kid/">Dynamite Kid</a></td>
+            <td>4</td><td>2</td><td>0</td>
+            <td>67%</td><td>92</td>
+            <td>34</td>
+        </tr><tr class="">
+            <td class="rank">64</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Tyler Bate/">Tyler Bate</a></td>
+            <td>7</td><td>5</td><td>0</td>
+            <td>58%</td><td>82</td>
+            <td>34</td>
+        </tr><tr class="">
+            <td class="rank">65</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Trent Seven/">Trent Seven</a></td>
+            <td>6</td><td>4</td><td>0</td>
+            <td>60%</td><td>85</td>
+            <td>33</td>
+        </tr><tr class="">
+            <td class="rank">66</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Cesaro/">Cesaro</a></td>
+            <td>6</td><td>5</td><td>0</td>
+            <td>55%</td><td>87</td>
+            <td>33</td>
+        </tr><tr class="">
+            <td class="rank">67</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/CM Punk/">CM Punk</a></td>
+            <td>7</td><td>8</td><td>1</td>
+            <td>44%</td><td>85</td>
+            <td>33</td>
+        </tr><tr class="">
+            <td class="rank">68</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Robert Dreissker/">Robert Dreissker</a></td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>98</td>
+            <td>32</td>
+        </tr><tr class="">
+            <td class="rank">69</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Gigi Dolin/">Gigi Dolin</a></td>
+            <td>6</td><td>7</td><td>0</td>
+            <td>46%</td><td>90</td>
+            <td>32</td>
+        </tr><tr class="">
+            <td class="rank">70</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Zack Sabre Jr./">Zack Sabre Jr.</a></td>
+            <td>9</td><td>13</td><td>1</td>
+            <td>39%</td><td>86</td>
+            <td>32</td>
+        </tr><tr class="">
+            <td class="rank">71</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/The Butcher/">The Butcher</a></td>
+            <td>7</td><td>7</td><td>0</td>
+            <td>50%</td><td>83</td>
+            <td>32</td>
+        </tr><tr class="">
+            <td class="rank">72</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Eddie Guerrero/">Eddie Guerrero</a></td>
+            <td>4</td><td>4</td><td>2</td>
+            <td>40%</td><td>86</td>
+            <td>32</td>
+        </tr><tr class="">
+            <td class="rank">73</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Joe Hendry/">Joe Hendry</a></td>
+            <td>6</td><td>6</td><td>0</td>
+            <td>50%</td><td>85</td>
+            <td>32</td>
+        </tr><tr class="">
+            <td class="rank">74</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Philipp Brunkovic/">Philipp Brunkovic</a></td>
+            <td>4</td><td>1</td><td>0</td>
+            <td>80%</td><td>82</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">75</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Becky Lynch/">Becky Lynch</a></td>
+            <td>4</td><td>2</td><td>0</td>
+            <td>67%</td><td>85</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">76</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Diamond Dallas Page/">Diamond Dallas Page</a></td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>94</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">77</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Jeff Cobb/">Jeff Cobb</a></td>
+            <td>5</td><td>4</td><td>0</td>
+            <td>56%</td><td>84</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">78</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Asuka/">Asuka</a></td>
+            <td>3</td><td>0</td><td>0</td>
+            <td>100%</td><td>84</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">79</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Timothy Thatcher/">Timothy Thatcher</a></td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>93</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">80</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Mark Davis/">Mark Davis</a></td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>93</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">81</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Kyle Fletcher/">Kyle Fletcher</a></td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>93</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">82</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Iron Sheik/">Iron Sheik</a></td>
+            <td>2</td><td>2</td><td>0</td>
+            <td>50%</td><td>96</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">83</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Davey Boy Smith/">Davey Boy Smith</a></td>
+            <td>3</td><td>4</td><td>2</td>
+            <td>33%</td><td>89</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">84</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Pete Dunne/">Pete Dunne</a></td>
+            <td>5</td><td>6</td><td>0</td>
+            <td>45%</td><td>89</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">85</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Alexa Bliss/">Alexa Bliss</a></td>
+            <td>9</td><td>13</td><td>0</td>
+            <td>41%</td><td>86</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">86</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Jim Neidhart/">Jim Neidhart</a></td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>92</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">87</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Joey Janela/">Joey Janela</a></td>
+            <td>5</td><td>6</td><td>0</td>
+            <td>45%</td><td>89</td>
+            <td>31</td>
+        </tr><tr class="">
+            <td class="rank">88</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Elias/">Elias</a></td>
+            <td>3</td><td>1</td><td>0</td>
+            <td>75%</td><td>85</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">89</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Irwin R. Schyster/">Irwin R. Schyster</a></td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>91</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">90</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Sid Vicious/">Sid Vicious</a></td>
+            <td>2</td><td>2</td><td>0</td>
+            <td>50%</td><td>94</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">91</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Lady Apache/">Lady Apache</a></td>
+            <td>7</td><td>10</td><td>0</td>
+            <td>41%</td><td>87</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">92</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Jeff Hardy/">Jeff Hardy</a></td>
+            <td>3</td><td>1</td><td>0</td>
+            <td>75%</td><td>84</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">93</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Ikemen Jiro/">Ikemen Jiro</a></td>
+            <td>4</td><td>2</td><td>0</td>
+            <td>67%</td><td>80</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">94</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Shelton Benjamin/">Shelton Benjamin</a></td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>90</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">95</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Sabu/">Sabu</a></td>
+            <td>3</td><td>3</td><td>0</td>
+            <td>50%</td><td>89</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">96</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Mark Andrews/">Mark Andrews</a></td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>89</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">97</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Flash Morgan Webster/">Flash Morgan Webster</a></td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>89</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">98</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Jun Akiyama/">Jun Akiyama</a></td>
+            <td>7</td><td>10</td><td>2</td>
+            <td>37%</td><td>79</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">99</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Taz/">Taz</a></td>
+            <td>3</td><td>0</td><td>0</td>
+            <td>100%</td><td>79</td>
+            <td>30</td>
+        </tr><tr class="">
+            <td class="rank">100</td>
+            <td><a href="/choke-slam-wrestling/Wrestler/Britt Baker/">Britt Baker</a></td>
+            <td>5</td><td>6</td><td>0</td>
+            <td>45%</td><td>86</td>
+            <td>30</td>
+        </tr></tbody>
+    </table>
+    </div>
+</section>
+
+<section>
+    <h2>🏆 Aktuelle Champions</h2>
+    <div style="display:flex;flex-wrap:wrap;gap:10px">
+        <div class="champ-card"><h4>Choke Slam World Championship</h4><div class="holder">Steve Austin</div><div class="bonus">Bonus: +20</div></div><div class="champ-card"><h4>Choke Slam International Championship</h4><div class="holder">Chris Jericho</div><div class="bonus">Bonus: +15</div></div><div class="champ-card"><h4>Choke Slam Womens Championship</h4><div class="holder">Awesome Kong</div><div class="bonus">Bonus: +15</div></div><div class="champ-card"><h4>Choke Slam Tag Team Championship</h4><div class="holder">Chris Jericho, Kazuchika Okada</div><div class="bonus">Bonus: +10</div></div><div class="champ-card"><h4>Choke Slam Trios Championship</h4><div class="holder">Hendrique Delafuente, Bandido, Fit Finlay</div><div class="bonus">Bonus: +8</div></div><div class="champ-card"><h4>Choke Slam World Trios Champions</h4><div class="holder">Edge, Kensuke Sasaki, Roman Reigns</div><div class="bonus">Bonus: +8</div></div>
+    </div>
+</section>
+
+<section>
+    <h2>👥 Tag Teams Top 30</h2>
+    <div style="overflow-x:auto">
+    <table>
+        <thead><tr><th>#</th><th>Team</th><th>W</th><th>L</th><th>D</th><th>Win%</th><th>Ø★</th><th>Pts</th></tr></thead>
+        <tbody><tr>
+            <td class="rank">1</td>
+            <td>Gunther & The Undertaker</td>
+            <td>10</td><td>2</td><td>0</td>
+            <td>83%</td><td>84</td>
+            <td>43</td>
+        </tr><tr>
+            <td class="rank">2</td>
+            <td>Bret Hart & Owen Hart</td>
+            <td>8</td><td>1</td><td>0</td>
+            <td>89%</td><td>91</td>
+            <td>42</td>
+        </tr><tr>
+            <td class="rank">3</td>
+            <td>Jon Moxley & Seth Rollins</td>
+            <td>2</td><td>0</td><td>0</td>
+            <td>100%</td><td>101</td>
+            <td>34</td>
+        </tr><tr>
+            <td class="rank">4</td>
+            <td>Chris Jericho & Kazuchika Okada</td>
+            <td>4</td><td>0</td><td>0</td>
+            <td>100%</td><td>87</td>
+            <td>34</td>
+        </tr><tr>
+            <td class="rank">5</td>
+            <td>Bob Backlund & Kazuchika Okada</td>
+            <td>2</td><td>0</td><td>0</td>
+            <td>100%</td><td>100</td>
+            <td>34</td>
+        </tr><tr>
+            <td class="rank">6</td>
+            <td>Daniel Bryan & Hiroshi Tanahashi</td>
+            <td>3</td><td>0</td><td>0</td>
+            <td>100%</td><td>92</td>
+            <td>34</td>
+        </tr><tr>
+            <td class="rank">7</td>
+            <td>Akira Taue & KONOSUKE TAKESHITA</td>
+            <td>4</td><td>3</td><td>0</td>
+            <td>57%</td><td>94</td>
+            <td>33</td>
+        </tr><tr>
+            <td class="rank">8</td>
+            <td>Jon Moxley & Sasha Banks</td>
+            <td>3</td><td>0</td><td>0</td>
+            <td>100%</td><td>89</td>
+            <td>33</td>
+        </tr><tr>
+            <td class="rank">9</td>
+            <td>Davey Boy Smith & Dynamite Kid</td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>99</td>
+            <td>33</td>
+        </tr><tr>
+            <td class="rank">10</td>
+            <td>Robert Dreissker & WALTER</td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>98</td>
+            <td>32</td>
+        </tr><tr>
+            <td class="rank">11</td>
+            <td>Bob Backlund & Dustin Rhodes</td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>98</td>
+            <td>32</td>
+        </tr><tr>
+            <td class="rank">12</td>
+            <td>Christian Cage & Steve Austin</td>
+            <td>2</td><td>0</td><td>0</td>
+            <td>100%</td><td>94</td>
+            <td>32</td>
+        </tr><tr>
+            <td class="rank">13</td>
+            <td>EC3 & Philipp Brunkovic</td>
+            <td>2</td><td>0</td><td>0</td>
+            <td>100%</td><td>92</td>
+            <td>32</td>
+        </tr><tr>
+            <td class="rank">14</td>
+            <td>Bret Hart & Daniel Bryan</td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>95</td>
+            <td>31</td>
+        </tr><tr>
+            <td class="rank">15</td>
+            <td>Bam Bam Bigelow & Big Van Vader</td>
+            <td>2</td><td>2</td><td>0</td>
+            <td>50%</td><td>97</td>
+            <td>31</td>
+        </tr><tr>
+            <td class="rank">16</td>
+            <td>Bam Bam Bigelow & Diamond Dallas Page</td>
+            <td>1</td><td>1</td><td>0</td>
+            <td>50%</td><td>100</td>
+            <td>31</td>
+        </tr><tr>
+            <td class="rank">17</td>
+            <td>Aero Star & Eddie Guerrero</td>
+            <td>1</td><td>1</td><td>0</td>
+            <td>50%</td><td>100</td>
+            <td>31</td>
+        </tr><tr>
+            <td class="rank">18</td>
+            <td>Jun Akiyama & Kazuchika Okada</td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>93</td>
+            <td>31</td>
+        </tr><tr>
+            <td class="rank">19</td>
+            <td>Jeff Jarrett & Killer Kelly</td>
+            <td>4</td><td>4</td><td>0</td>
+            <td>50%</td><td>89</td>
+            <td>31</td>
+        </tr><tr>
+            <td class="rank">20</td>
+            <td>Kyle Fletcher & Mark Davis</td>
+            <td>2</td><td>1</td><td>0</td>
+            <td>67%</td><td>93</td>
+            <td>31</td>
+        </tr><tr>
+            <td class="rank">21</td>
+            <td>AJ Styles & Bret Hart</td>
+            <td>2</td><td>0</td><td>0</td>
+            <td>100%</td><td>89</td>
+            <td>31</td>
+        </tr><tr>
+            <td class="rank">22</td>
+            <td>Kazuchika Okada & Rey Fenix</td>
+            <td>3</td><td>2</td><td>0</td>
+            <td>60%</td><td>89</td>
+            <td>31</td>
+        </tr><tr>
+            <td class="rank">23</td>
+            <td>Marius Al-Ani & Rush</td>
+            <td>1</td><td>1</td><td>0</td>
+            <td>50%</td><td>98</td>
+            <td>31</td>
+        </tr><tr>
+            <td class="rank">24</td>
+            <td>Elias & Kurt Angle</td>
+            <td>3</td><td>1</td><td>0</td>
+            <td>75%</td><td>85</td>
+            <td>30</td>
+        </tr><tr>
+            <td class="rank">25</td>
+            <td>Brandon & Miro</td>
+            <td>3</td><td>0</td><td>0</td>
+            <td>100%</td><td>82</td>
+            <td>30</td>
+        </tr><tr>
+            <td class="rank">26</td>
+            <td>Claudio Castagnoli & Pac</td>
+            <td>3</td><td>1</td><td>0</td>
+            <td>75%</td><td>85</td>
+            <td>30</td>
+        </tr><tr>
+            <td class="rank">27</td>
+            <td>Brock Lesnar & Chris Jericho</td>
+            <td>3</td><td>0</td><td>0</td>
+            <td>100%</td><td>82</td>
+            <td>30</td>
+        </tr><tr>
+            <td class="rank">28</td>
+            <td>KUSHIDA & Randy Savage</td>
+            <td>4</td><td>2</td><td>0</td>
+            <td>67%</td><td>82</td>
+            <td>30</td>
+        </tr><tr>
+            <td class="rank">29</td>
+            <td>Roman Reigns & Tetsuya Naito</td>
+            <td>3</td><td>1</td><td>0</td>
+            <td>75%</td><td>85</td>
+            <td>30</td>
+        </tr><tr>
+            <td class="rank">30</td>
+            <td>Bob Backlund & Rey Fenix</td>
+            <td>3</td><td>0</td><td>0</td>
+            <td>100%</td><td>81</td>
+            <td>30</td>
+        </tr></tbody>
+    </table>
+    </div>
+</section>
+
+<section>
+    <h2>⭐ Top 25 Matches</h2>
+    <div style="overflow-x:auto">
+    <table>
+        <thead><tr><th>Datum</th><th>Show</th><th>Match</th><th>Rating</th><th>Score</th></tr></thead>
+        <tbody><tr>
+            <td>2025-10-27 00:00:00</td>
+            <td>S07E05_Threeway Fiasko</td>
+            <td>Jay White vs. Tommaso Ciampa vs. Roman Reigns</td>
+            <td>★★★★★★</td>
+            <td>107</td>
+        </tr><tr>
+            <td>2020-10-13 00:00:00</td>
+            <td>S03E01_Choke Slam Carat Gold</td>
+            <td>Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito</td>
+            <td>★★★★★½</td>
+            <td>105</td>
+        </tr><tr>
+            <td>2021-06-30 00:00:00</td>
+            <td>S03E12_ChokeSlamMania III - Andre has a posse - Day 1</td>
+            <td>Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev </td>
+            <td>★★★★★½</td>
+            <td>105</td>
+        </tr><tr>
+            <td>2024-02-15 00:00:00</td>
+            <td>S06E01_Welcome to Ta'if</td>
+            <td>Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns</td>
+            <td>★★★★★½</td>
+            <td>105</td>
+        </tr><tr>
+            <td>2021-06-30 00:00:00</td>
+            <td>S03E12_ChokeSlamMania III - Andre has a posse - Day 1</td>
+            <td>Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage</td>
+            <td>★★★★★¼</td>
+            <td>104</td>
+        </tr><tr>
+            <td>2024-02-15 00:00:00</td>
+            <td>S06E01_Welcome to Ta'if</td>
+            <td>Roman Reigns vs. Dusty Rhodes</td>
+            <td>★★★★★¼</td>
+            <td>104</td>
+        </tr><tr>
+            <td>2023-03-29 00:00:00</td>
+            <td>S05E03_Europa - Day 1</td>
+            <td>Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano</td>
+            <td>★★★★★¼</td>
+            <td>104</td>
+        </tr><tr>
+            <td>2025-10-27 00:00:00</td>
+            <td>S07E05_Threeway Fiasko</td>
+            <td>Lady Apache vs. Wardlow vs. Akira Taue</td>
+            <td>★★★★★¼</td>
+            <td>104</td>
+        </tr><tr>
+            <td>2024-04-10 00:00:00</td>
+            <td>S06E03_Digital Domination: Unleash the Choke Slam Fury!</td>
+            <td>Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair</td>
+            <td>★★★★★</td>
+            <td>103</td>
+        </tr><tr>
+            <td>2021-10-17 00:00:00</td>
+            <td>S04E03_Saudia Arabia - Aftermath</td>
+            <td>Randy Savage vs. Killer Kelly vs. Bob Backlund</td>
+            <td>★★★★★</td>
+            <td>103</td>
+        </tr><tr>
+            <td>2023-10-09 00:00:00</td>
+            <td>S05E09_Survivor Series - War Games</td>
+            <td>Militanter Mummenschanz vs. Saint Rebel Radicalz</td>
+            <td>★★★★★</td>
+            <td>103</td>
+        </tr><tr>
+            <td>2023-02-22 00:00:00</td>
+            <td>S05E02_Royal Rumble</td>
+            <td>Brandon vs. Davey Boy Smith vs. Randy Savage</td>
+            <td>★★★★★</td>
+            <td>102</td>
+        </tr><tr>
+            <td>2023-02-22 00:00:00</td>
+            <td>S05E02_Royal Rumble</td>
+            <td>Grayson Waller vs. Jonathan Gresham vs. Miro</td>
+            <td>★★★★★</td>
+            <td>102</td>
+        </tr><tr>
+            <td>2025-08-12 00:00:00</td>
+            <td>S07E02_King & Queen of the Ring</td>
+            <td>1/8 Finals: Kevin Steen vs. Roman Reigns</td>
+            <td>★★★★★</td>
+            <td>102</td>
+        </tr><tr>
+            <td>2023-06-26 00:00:00</td>
+            <td>S05E06_ECSW</td>
+            <td>Hardcore Title Tournament Semi Finals</td>
+            <td>★★★★★</td>
+            <td>102</td>
+        </tr><tr>
+            <td>2020-10-13 00:00:00</td>
+            <td>S03E01_Choke Slam Carat Gold</td>
+            <td>Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix</td>
+            <td>★★★★★</td>
+            <td>102</td>
+        </tr><tr>
+            <td>2025-08-21 00:00:00</td>
+            <td>S07E03_Changes III</td>
+            <td>Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns</td>
+            <td>★★★★★</td>
+            <td>102</td>
+        </tr><tr>
+            <td>2022-07-24 00:00:00</td>
+            <td>S04E10_Überraschung</td>
+            <td>Sting vs. Brock Lesnar</td>
+            <td>★★★★★</td>
+            <td>102</td>
+        </tr><tr>
+            <td>2020-12-29 00:00:00</td>
+            <td>S03E03_Battle of Britain - Night 2</td>
+            <td>Bob Backlund vs. Fit Finlay</td>
+            <td>★★★★★</td>
+            <td>102</td>
+        </tr><tr>
+            <td>2024-01-29 00:00:00</td>
+            <td>S05E12_ChokeSlamMania V</td>
+            <td>Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c)</td>
+            <td>★★★★★</td>
+            <td>102</td>
+        </tr><tr>
+            <td>2021-06-15 00:00:00</td>
+            <td>S03E11_Sûper Canada!</td>
+            <td>Submission: Awesome Kong vs. Ivelisse vs. Randy Savage</td>
+            <td>★★★★★</td>
+            <td>101</td>
+        </tr><tr>
+            <td>2021-05-18 00:00:00</td>
+            <td>S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!</td>
+            <td>Choke Slam World Championship: Johnny Mundo vs. Kazuchika Okada vs. Tetsuya Naito (c)</td>
+            <td>★★★★★</td>
+            <td>101</td>
+        </tr><tr>
+            <td>2022-02-09 00:00:00</td>
+            <td>S04E07_Extreme</td>
+            <td>Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite</td>
+            <td>★★★★★</td>
+            <td>101</td>
+        </tr><tr>
+            <td>2021-01-21 00:00:00</td>
+            <td>S03E05_Ireland</td>
+            <td>KENTA vs. Austin Aries vs. Kazuchika Okada</td>
+            <td>★★★★★</td>
+            <td>101</td>
+        </tr><tr>
+            <td>2025-10-27 00:00:00</td>
+            <td>S07E05_Threeway Fiasko</td>
+            <td>Bret Hart vs. Pete Dunne vs. Akira Taue</td>
+            <td>★★★★★</td>
+            <td>101</td>
+        </tr></tbody>
+    </table>
+    </div>
+</section>
+
+<section>
+    <h2>📈 Win/Loss Verteilung</h2>
+    <div class="charts">
+        <div class="chart-box">
+            <h3 style="color:var(--gold);margin-bottom:15px">Record Balance</h3>
+            <div class="bar-label"><span>🥇 Winning Record (≥50%)</span><span>107 Wrestler</span></div>
+            <div class="bar" style="width:37.0242214532872%;background:var(--green)"></div>
+            <div class="bar-label"><span>📉 Losing Record (&lt;50%)</span><span>182 Wrestler</span></div>
+            <div class="bar" style="width:62.9757785467128%;background:var(--accent)"></div>
+        </div>
+        <div class="chart-box">
+            <h3 style="color:var(--gold);margin-bottom:15px">Top 5 – Most Wins</h3>
+            <div class="bar-label"><span>Kazuchika Okada</span><span>52 W</span></div><div class="bar" style="width:100.0%;background:var(--blue)"></div><div class="bar-label"><span>Bob Backlund</span><span>44 W</span></div><div class="bar" style="width:84.61538461538461%;background:var(--blue)"></div><div class="bar-label"><span>Roman Reigns</span><span>44 W</span></div><div class="bar" style="width:84.61538461538461%;background:var(--blue)"></div><div class="bar-label"><span>Hiroshi Tanahashi</span><span>41 W</span></div><div class="bar" style="width:78.84615384615384%;background:var(--blue)"></div><div class="bar-label"><span>Randy Savage</span><span>41 W</span></div><div class="bar" style="width:78.84615384615384%;background:var(--blue)"></div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>📜 Championship History</h2>
+    <h3>🏆 Choke Slam World Championship</h3><table><thead><tr><th>Datum</th><th>Winner</th><th>Loser</th><th>Show</th></tr></thead><tbody><tr><td>2020-06-08</td><td><strong>Ric Flair</strong></td><td>Samoa Joe</td><td>S02E10_Dubai</td></tr><tr><td>2020-06-08</td><td><strong>Jerry Lawler</strong></td><td>Ric Flair</td><td>S02E10_Dubai</td></tr><tr><td>2020-06-09</td><td><strong>Randy Orton</strong></td><td>Jerry Lawler</td><td>S02E10_Dubai - After Show Cash In</td></tr><tr><td>2020-06-10</td><td><strong>Randy Orton</strong></td><td>Jerry Lawler</td><td>S02E10_Dubai - After Show Cash In 2</td></tr><tr><td>2020-09-07</td><td><strong>Randy Orton</strong></td><td>Big Van Vader</td><td>S02E12_ChokeSlamMania II</td></tr><tr><td>2020-10-13</td><td><strong>Kazuchika Okada</strong></td><td>Kurt Angle, Tetsuya Naito</td><td>S03E01_Choke Slam Carat Gold</td></tr><tr><td>2020-12-29</td><td><strong>Kazuchika Okada</strong></td><td>Vince McMahon</td><td>S03E03_Battle of Britain - Night 2</td></tr><tr><td>2021-01-21</td><td><strong>Kazuchika Okada</strong></td><td>Sheamus</td><td>S03E05_Ireland</td></tr><tr><td>2021-01-21</td><td><strong>Sheamus</strong></td><td>Kazuchika Okada</td><td>S03E04_Clash of Colosseum</td></tr><tr><td>2021-04-10</td><td><strong>Kazuchika Okada</strong></td><td>Kane</td><td>S03E07_Aussie Open Resurrection</td></tr><tr><td>2021-04-15</td><td><strong>Johnny Mundo</strong></td><td>Joey Janela, Kazuchika Okada</td><td>S03E08_BYOC Fiesta Mexicana - Aftermath</td></tr><tr><td>2021-05-10</td><td><strong>Tetsuya Naito</strong></td><td>Kazuchika Okada, Johnny Mundo</td><td>S03E09_USA - Day 2 - Don't stop the Count</td></tr><tr><td>2021-05-18</td><td><strong>Tetsuya Naito</strong></td><td>Johnny Mundo, Kazuchika Okada</td><td>S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!</td></tr><tr><td>2021-06-15</td><td><strong>Tetsuya Naito</strong></td><td>Kane</td><td>S03E11_Sûper Canada!</td></tr><tr><td>2021-07-26</td><td><strong>Randy Savage</strong></td><td>Tetsuya Naito</td><td>S03E12_ChokeSlamMania III - Andre has a posse - Day 2</td></tr><tr><td>2021-08-23</td><td><strong>Bob Backlund</strong></td><td>Randy Savage</td><td>S04E01_90's</td></tr><tr><td>2022-02-21</td><td><strong>Bob Backlund</strong></td><td>Big Van Vader, Hack Myers</td><td>S04E08_Fan Favourites</td></tr><tr><td>2022-06-28</td><td><strong>Bob Backlund</strong></td><td>Shawn Michaels, Big Van Vader</td><td>S04E09_Royal Rumble</td></tr><tr><td>2022-06-28</td><td><strong>Bob Backlund</strong></td><td>Shawn Michaels, Big Van Vader</td><td>S04E09_Royal Rumble</td></tr><tr><td>2022-07-24</td><td><strong>Bob Backlund</strong></td><td>Philipp Brunkovic</td><td>S04E10_Überraschung</td></tr><tr><td>2022-10-02</td><td><strong>Bob Backlund</strong></td><td>Kane</td><td>S04E11_Musik</td></tr><tr><td>2022-12-16</td><td><strong>Big Van Vader</strong></td><td>Alexa Bliss</td><td>S05E01_King of the Ring</td></tr><tr><td>2023-04-19</td><td><strong>Big Van Vader</strong></td><td>Eddie Edwards, Randy Savage</td><td>S05E04_Lucha Underground</td></tr><tr><td>2023-05-30</td><td><strong>Hulk Hogan</strong></td><td>Bret Hart, Big Van Vader</td><td>S05E05_WCSW</td></tr><tr><td>2023-08-22</td><td><strong>Hulk Hogan</strong></td><td>Brandon</td><td>S05E08_Dia de los Muertos</td></tr><tr><td>2023-10-09</td><td><strong>Hulk Hogan</strong></td><td>Mr. Fuji, Ludwig Kaiser, Scott Steiner, Austin Aries, Bret Hart</td><td>S05E09_Survivor Series - War Games</td></tr><tr><td>2023-12-15</td><td><strong>Hulk Hogan</strong></td><td>Big Van Vader</td><td>S05E11_Tournament Nonstop Action</td></tr><tr><td>2024-01-29</td><td><strong>Roman Reigns</strong></td><td>AJ Styles, Hulk Hogan</td><td>S05E12_ChokeSlamMania V</td></tr><tr><td>2024-10-22</td><td><strong>Roman Reigns</strong></td><td>Hiroshi Tanahashi</td><td>S06E08_Changes II</td></tr><tr><td>2025-05-07</td><td><strong>Roman Reigns</strong></td><td>Samoa Joe</td><td>S06E12_ChokeSlamMania VI</td></tr><tr><td>2025-08-21</td><td><strong>Roman Reigns</strong></td><td>Steve Austin</td><td>S07E03_Changes III</td></tr><tr><td>2025-10-27</td><td><strong>Steve Austin</strong></td><td>Lady Apache</td><td>S07E05_Threeway Fiasko</td></tr><tr><td>2025-11-18</td><td><strong>Steve Austin</strong></td><td>Jay White</td><td>S07E06_War Games</td></tr><tr><td>2026-03-16</td><td><strong>Steve Austin</strong></td><td>Chris Benoit</td><td>S07E08_Royal Rumble</td></tr></tbody></table><h3>🏆 Choke Slam International Championship</h3><table><thead><tr><th>Datum</th><th>Winner</th><th>Loser</th><th>Show</th></tr></thead><tbody><tr><td>2021-05-18</td><td><strong>Christian Cage</strong></td><td>Kane, Bob Backlund</td><td>S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!</td></tr><tr><td>2021-07-26</td><td><strong>Christian Cage</strong></td><td>Hulk Hogan</td><td>S03E12_ChokeSlamMania III - Andre has a posse - Day 2</td></tr><tr><td>2021-09-06</td><td><strong>AJ Styles</strong></td><td>Christian Cage</td><td>S04E02_Money in the Bank (Season 4)</td></tr><tr><td>2021-11-01</td><td><strong>AJ Styles</strong></td><td>Ricky Steamboat</td><td>S04E04_Admiral Lordevan Rules! - Part II</td></tr><tr><td>2022-02-09</td><td><strong>Lance Storm</strong></td><td>Kevin Steen, Rush, Rey Mysterio Jr., AJ Styles, Chris Candido</td><td>S04E07_Extreme</td></tr><tr><td>2022-02-21</td><td><strong>Lance Storm</strong></td><td>Rey Mysterio Jr.</td><td>S04E08_Fan Favourites</td></tr><tr><td>2022-02-21</td><td><strong>Lance Storm</strong></td><td>Tommy End</td><td>S04E08_Fan Favourites</td></tr><tr><td>2022-02-21</td><td><strong>Lance Storm</strong></td><td>EC3</td><td>S04E08_Fan Favourites</td></tr><tr><td>2022-06-28</td><td><strong>Lance Storm</strong></td><td>Kevin Steen, Chris Hero, Tommy End</td><td>S04E09_Royal Rumble</td></tr><tr><td>2022-11-17</td><td><strong>WALTER</strong></td><td>Lance Storm</td><td>S04E12_ChokeSlamMania IV - Day 2</td></tr><tr><td>2022-12-16</td><td><strong>WALTER</strong></td><td>Randy Savage, Brody King</td><td>S05E01_King of the Ring</td></tr><tr><td>2023-02-22</td><td><strong>Hulk Hogan</strong></td><td>Miro, Ludwig Kaiser, WALTER</td><td>S05E02_Royal Rumble</td></tr><tr><td>2023-06-26</td><td><strong>Bret Hart</strong></td><td>Alexa Bliss, Hulk Hogan</td><td>S05E06_ECSW</td></tr><tr><td>2023-08-22</td><td><strong>Bret Hart</strong></td><td>Randy Savage, Jerry Lynn</td><td>S05E08_Dia de los Muertos</td></tr><tr><td>2024-01-29</td><td><strong>Jay White</strong></td><td>Jon Moxley, Bret Hart</td><td>S05E12_ChokeSlamMania V</td></tr><tr><td>2024-05-27</td><td><strong>Jay White</strong></td><td>Drew Gulak</td><td>S06E04_Die beste Show der Welt</td></tr><tr><td>2024-09-09</td><td><strong>Randy Savage</strong></td><td>Jay White</td><td>S06E06_G1 Climax - Best of the Rest from the Past</td></tr><tr><td>2024-10-22</td><td><strong>Randy Savage</strong></td><td>Gunther, Triple H, Tito Santana</td><td>S06E08_Changes II</td></tr><tr><td>2025-05-07</td><td><strong>Bret Hart</strong></td><td>Finn Bálor, The Undertaker, Randy Savage</td><td>S06E12_ChokeSlamMania VI</td></tr><tr><td>2025-06-03</td><td><strong>Daniel Bryan</strong></td><td>Fit Finlay, Chris Jericho, Bret Hart</td><td>S07E01_Brave new World</td></tr><tr><td>2025-08-21</td><td><strong>Daniel Bryan</strong></td><td>Bam Bam Bigelow, Chris Jericho</td><td>S07E03_Changes III</td></tr><tr><td>2025-08-21</td><td><strong>Awesome Kong</strong></td><td>Daniel Bryan</td><td>S07E03_Changes III</td></tr><tr><td>2025-10-27</td><td><strong>Chris Jericho</strong></td><td>Awesome Kong</td><td>S07E05_Threeway Fiasko</td></tr></tbody></table><h3>🏆 Choke Slam Womens Championship</h3><table><thead><tr><th>Datum</th><th>Winner</th><th>Loser</th><th>Show</th></tr></thead><tbody><tr><td>2022-10-02</td><td><strong>Shayna Baszler</strong></td><td>Aoife Valkyrie, Killer Kelly, Madison Rayne</td><td>S04E11_Musik</td></tr><tr><td>2023-03-29</td><td><strong>Toni Storm</strong></td><td>Shayna Baszler</td><td>S05E03_Europa - Day 1</td></tr><tr><td>2023-04-19</td><td><strong>Alexa Bliss</strong></td><td>Toni Storm</td><td>S05E04_Lucha Underground</td></tr><tr><td>2023-10-09</td><td><strong>Alexa Bliss</strong></td><td>Shayna Baszler</td><td>S05E09_Survivor Series - War Games</td></tr><tr><td>2024-01-29</td><td><strong>Tiffany Stratton</strong></td><td>Sol Ruca, Thea Hail, Alexa Bliss</td><td>S05E12_ChokeSlamMania V</td></tr><tr><td>2024-04-10</td><td><strong>Kiana James</strong></td><td>Masha Slamovich, Jordynne Grace, Jade Cargill, Tiffany Stratton, Bianca Belair</td><td>S06E03_Digital Domination: Unleash the Choke Slam Fury!</td></tr><tr><td>2025-03-03</td><td><strong>Fallon Henley</strong></td><td>Kiana James</td><td>S06E11_Sweet but Psycho</td></tr><tr><td>2025-05-07</td><td><strong>Kiana James</strong></td><td>Fallon Henley</td><td>S06E12_ChokeSlamMania VI</td></tr></tbody></table><h3>🏆 Choke Slam Tag Team Championship</h3><table><thead><tr><th>Datum</th><th>Winner</th><th>Loser</th><th>Show</th></tr></thead><tbody><tr><td>2020-06-08</td><td><strong>Bam Bam Bigelow, Big Van Vader</strong></td><td>Dalton Castle, Dr. Wagner Jr.</td><td>S02E10_Dubai</td></tr><tr><td>2020-06-08</td><td><strong>Bam Bam Bigelow, Big Van Vader</strong></td><td>Sabu, Iron Sheik</td><td>S02E10_Dubai</td></tr><tr><td>2020-06-29</td><td><strong>Shawn Michaels, Triple H</strong></td><td>Bam Bam Bigelow, Big Van Vader</td><td>S02E11_Shortcut to Mania</td></tr><tr><td>2020-09-07</td><td><strong>Bret Hart, Owen Hart</strong></td><td>Shawn Michaels, Triple H</td><td>S02E12_ChokeSlamMania II</td></tr><tr><td>2021-06-15</td><td><strong>Christian Cage, Tetsuya Naito</strong></td><td>The Butcher, Owen Hart</td><td>S03E11_Sûper Canada!</td></tr><tr><td>2021-08-23</td><td><strong>Jeff Jarrett, Killer Kelly</strong></td><td>Christian Cage, Tetsuya Naito</td><td>S04E01_90's</td></tr><tr><td>2022-02-09</td><td><strong>Christian Cage, Tetsuya Naito</strong></td><td>Jeff Jarrett, Killer Kelly</td><td>S04E07_Extreme</td></tr><tr><td>2022-06-28</td><td><strong>Kurt Angle, Sting</strong></td><td>Christian Cage, Tetsuya Naito</td><td>S04E09_Royal Rumble</td></tr><tr><td>2022-12-16</td><td><strong>Miro, Brandon</strong></td><td>Eddie Edwards, Kenny Omega</td><td>S05E01_King of the Ring</td></tr><tr><td>2023-04-19</td><td><strong>Grayson Waller, Hulk Hogan</strong></td><td>Bull Nakano, Ikemen Jiro</td><td>S05E04_Lucha Underground</td></tr><tr><td>2023-11-03</td><td><strong>Bret Hart, Jon Moxley</strong></td><td>Grayson Waller, Hulk Hogan</td><td>S05E10_Batze</td></tr><tr><td>2024-10-22</td><td><strong>Gunther, The Undertaker</strong></td><td>Bret Hart, Jon Moxley</td><td>S06E07_Turbo Turnier</td></tr><tr><td>2024-10-22</td><td><strong>Gunther, The Undertaker</strong></td><td>Epico Colón, Primo Colón</td><td>S06E08_Changes II</td></tr><tr><td>2025-05-07</td><td><strong>Gunther, The Undertaker</strong></td><td>Diesel, Randy Savage</td><td>S06E12_ChokeSlamMania VI</td></tr><tr><td>2025-08-12</td><td><strong>Chris Jericho, Edge</strong></td><td>Gunther, The Undertaker</td><td>S07E02_King & Queen of the Ring</td></tr><tr><td>2025-08-12</td><td><strong>Gunther, The Undertaker</strong></td><td>Jay White, Wardlow</td><td>S07E02_King & Queen of the Ring</td></tr><tr><td>2025-08-12</td><td><strong>Gunther, The Undertaker</strong></td><td>Bam Bam Bigelow, Steve Austin</td><td>S07E02_King & Queen of the Ring</td></tr><tr><td>2025-08-21</td><td><strong>Daniel Bryan, Wardlow</strong></td><td>Edge, Chris Jericho</td><td>S07E03_Changes III</td></tr><tr><td>2025-10-27</td><td><strong>Kensuke Sasaki, Roman Reigns</strong></td><td>Daniel Bryan, Wardlow</td><td>S07E05_Threeway Fiasko</td></tr><tr><td>2025-11-18</td><td><strong>Chris Jericho, Kazuchika Okada</strong></td><td>Akira Taue, KONOSUKE TAKESHITA</td><td>S07E06_War Games</td></tr></tbody></table><h3>🏆 Choke Slam Trios Championship</h3><table><thead><tr><th>Datum</th><th>Winner</th><th>Loser</th><th>Show</th></tr></thead><tbody><tr><td>2023-05-30</td><td><strong>Ikemen Jiro, Ludwig Kaiser, Randy Savage</strong></td><td>Bret Hart, Eddie Edwards, Miro</td><td>S05E05_WCSW</td></tr><tr><td>2023-05-30</td><td><strong>Brandon, Hulk Hogan, Kenny Omega</strong></td><td>Ikemen Jiro, Ludwig Kaiser, Randy Savage</td><td>S05E05_WCSW</td></tr><tr><td>2023-10-09</td><td><strong>Brandon, Hulk Hogan, Kenny Omega</strong></td><td>El Hijo del Vikingo, Laredo Kid, Myzteziz Jr.</td><td>S05E09_Survivor Series - War Games</td></tr><tr><td>2024-01-29</td><td><strong>Bret Hart, Miro, Thea Hail</strong></td><td>Brandon, Kenny Omega, Hulk Hogan</td><td>S05E12_ChokeSlamMania V</td></tr><tr><td>2024-10-22</td><td><strong>Laredo Kid, Myzteziz Jr., El Hijo del Vikingo</strong></td><td>Jun Akiyama, Roman Reigns, Triple H</td><td>S06E08_Changes II</td></tr><tr><td>2025-08-12</td><td><strong>Edge, Kensuke Sasaki, Roman Reigns</strong></td><td>Daniel Bryan, Lex Luger, Wardlow</td><td>S07E02_King & Queen of the Ring</td></tr><tr><td>2025-08-12</td><td><strong>Hendrique Delafuente, Bandido, Fit Finlay</strong></td><td>El Hijo del Vikingo, Myzteziz Jr., Laredo Kid</td><td>S07E02_King & Queen of the Ring</td></tr><tr><td>2025-08-12</td><td><strong>Daniel Bryan, Lex Luger, Wardlow</strong></td><td>Hendrique Delafuente, Bandido, Fit Finlay</td><td>S07E02_King & Queen of the Ring</td></tr></tbody></table><h3>🏆 Choke Slam World Trios Champions</h3><table><thead><tr><th>Datum</th><th>Winner</th><th>Loser</th><th>Show</th></tr></thead><tbody><tr><td>2026-03-16</td><td><strong>Edge, Kensuke Sasaki, Roman Reigns</strong></td><td>Pete Dunne, Trent Seven, Tyler Bate</td><td>S07E08_Royal Rumble</td></tr></tbody></table>
+</section>
+
+</div>
+
+<footer>
+    <p>Choke Slam Wrestling PWI 500 · Auto-generiert 2026-05-01 09:59 · 
+    <a href="/choke-slam-wrestling/" style="color:var(--accent)">Zurück zur Home</a></p>
+</footer>
+</body>
+</html>

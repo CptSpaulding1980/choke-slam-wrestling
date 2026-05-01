@@ -36,7 +36,7 @@ avg_rating: 86.73
 
 ## Häufigste Partner
 - [[Wrestler/Gunther\|Gunther]] (5x)
-- [[Wrestler/Bryan Danielson\|Bryan Danielson]] (3x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
 - [[Wrestler/Aero Star\|Aero Star]] (2x)
 - [[Wrestler/Cora Jade\|Cora Jade]] (1x)
 - [[Wrestler/Beer City Bruiser\|Beer City Bruiser]] (1x)

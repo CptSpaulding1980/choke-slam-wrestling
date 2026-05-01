@@ -30,9 +30,9 @@ avg_rating: 92.0
 ## Häufigste Gegner
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)
 - [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (4x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (2x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
 - [[Wrestler/Dink\|Dink]] (1x)
-- [[Wrestler/Hornswoggle\|Hornswoggle]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)

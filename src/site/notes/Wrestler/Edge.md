@@ -29,10 +29,10 @@ avg_rating: 89.28
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (7x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (7x)
 - [[Wrestler/Wardlow\|Wardlow]] (7x)
 - [[Wrestler/Triple H\|Triple H]] (5x)
 - [[Wrestler/KENTA\|KENTA]] (5x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
 
 ## Häufigste Partner
 - [[Wrestler/KENTA\|KENTA]] (10x)

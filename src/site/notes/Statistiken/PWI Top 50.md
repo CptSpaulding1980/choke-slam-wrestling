@@ -1,13 +1,13 @@
 ---
 dg-publish: true
-permalink: /statistiken/pwi-500/
-title: "PWI 500"
+permalink: /statistiken/pwi-top-50/
+title: "PWI Top 50"
 noteIcon: "🏆"
 ---
 
-# 🏆 PWI 500 – S07
+# 🏆 PWI Top 50 – S07
 
-> **Stand:** 2026-05-01 18:12 | **Matches:** 183 | **Wrestler geranked:** 59 | **Events:** 10
+> **Stand:** 2026-05-01 18:39 | **Matches:** 183 | **Wrestler geranked:** 59 | **Events:** 10
 
 **Scoring:** PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus
 
@@ -199,5 +199,5 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | Awesome Kong | 12 |
 
 ---
-*Auto-generiert vom Choke Slam PWI 500 Generator*
-*Stand: 2026-05-01 18:12*
+*Auto-generiert vom Choke Slam PWI Top 50 Generator*
+*Stand: 2026-05-01 18:39*

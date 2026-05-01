@@ -5,12 +5,12 @@ title: Hiroshi Tanahashi
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hiroshi_Tanahashi.png
-matches: 63
-wins: 38
-losses: 13
-draws: 12
-win_percent: 60.3
-avg_rating: 79.35
+matches: 65
+wins: 41
+losses: 14
+draws: 10
+win_percent: 63.1
+avg_rating: 81.94
 ---
 
 # Hiroshi Tanahashi
@@ -20,12 +20,12 @@ avg_rating: 79.35
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 63 | 38 | 13 | 12 | 60.3% | 79.35 |
+| 65 | 41 | 14 | 10 | 63.1% | 81.94 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/hiroshi-tanahashi_stats.png" width="200"> | **⚪️⚪️⚪️✅✅**<br>**Win:** Steve Austin vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Eddie Kingston vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Konosuke Takeshita vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Hiroshi Tanahashi vs. Bret Hart in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
+| <img src="/img/charts/hiroshi-tanahashi_stats.png" width="200"> | **✅✅✅✅✅**<br>**Win:** Steve Austin vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Eddie Kingston vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Konosuke Takeshita vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Hiroshi Tanahashi vs. Bret Hart in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Semi Finals: Hiroshi Tanahashi vs. Kazuchika Okada in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (15x)

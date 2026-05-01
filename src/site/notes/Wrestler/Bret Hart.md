@@ -5,12 +5,12 @@ title: Bret Hart
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bret_Hart.png
-matches: 98
-wins: 41
-losses: 38
-draws: 19
-win_percent: 41.8
-avg_rating: 86.37
+matches: 97
+wins: 42
+losses: 39
+draws: 16
+win_percent: 43.3
+avg_rating: 88.36
 ---
 
 # Bret Hart
@@ -20,12 +20,12 @@ avg_rating: 86.37
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 98 | 41 | 38 | 19 | 41.8% | 86.37 |
+| 97 | 42 | 39 | 16 | 43.3% | 88.36 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bret-hart_stats.png" width="200"> | **⚪️⚪️⚪️⚪️⚪️**<br>**Draw:** Bret Hart vs. Konosuke Takeshita in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Bret Hart vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Bret Hart vs. Eddie Kingston in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Hiroshi Tanahashi vs. Bret Hart in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/bret-hart_stats.png" width="200"> | **✅⚪️❌✅⚪️**<br>**Draw:** Bret Hart vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Bret Hart vs. Eddie Kingston in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Hiroshi Tanahashi vs. Bret Hart in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (12x)

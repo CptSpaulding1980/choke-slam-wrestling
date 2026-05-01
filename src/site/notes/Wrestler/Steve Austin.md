@@ -5,12 +5,12 @@ title: Steve Austin
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Steve_Austin.png
-matches: 45
-wins: 11
-losses: 29
-draws: 5
-win_percent: 24.4
-avg_rating: 82.38
+matches: 46
+wins: 12
+losses: 30
+draws: 4
+win_percent: 26.1
+avg_rating: 84.22
 ---
 
 # Steve Austin
@@ -20,19 +20,19 @@ avg_rating: 82.38
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 45 | 11 | 29 | 5 | 24.4% | 82.38 |
+| 46 | 12 | 30 | 4 | 26.1% | 84.22 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/steve-austin_stats.png" width="200"> | **❌⚪️✅⚪️❌**<br>**Loss:** Steve Austin vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Bret Hart vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Konosuke Takeshita vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Eddie Kingston vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Casino Royale: Lady Apache vs. Steve Austin vs. Brock Lesnar in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
+| <img src="/img/charts/steve-austin_stats.png" width="200"> | **❌✅✅⚪️❌**<br>**Loss:** Steve Austin vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Bret Hart vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Konosuke Takeshita vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Eddie Kingston vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Semi Finals: Daniel Bryan vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (7x)
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (6x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (6x)
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (5x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (5x)
 
 ## Häufigste Partner
 - [[Wrestler/Akira Taue\|Akira Taue]] (8x)

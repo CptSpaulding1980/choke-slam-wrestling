@@ -7,10 +7,10 @@ tags:
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brock_Lesnar.png
 matches: 31
 wins: 14
-losses: 13
-draws: 4
+losses: 14
+draws: 3
 win_percent: 45.2
-avg_rating: 79.84
+avg_rating: 82.71
 ---
 
 # Brock Lesnar
@@ -20,12 +20,12 @@ avg_rating: 79.84
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 31 | 14 | 13 | 4 | 45.2% | 79.84 |
+| 31 | 14 | 14 | 3 | 45.2% | 82.71 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/brock-lesnar_stats.png" width="200"> | **✅⚪️❌❌✅**<br>**Win:** Brock Lesnar vs. Chris Jericho in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Brock Lesnar vs. Daniel Bryan in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Kazuchika Okada vs. Brock Lesnar in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Brock Lesnar vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Casino Royale: Lady Apache vs. Steve Austin vs. Brock Lesnar in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Sting\|Sting]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 102% vs. Sting vs. Brock Lesnar |
+| <img src="/img/charts/brock-lesnar_stats.png" width="200"> | **✅❌❌❌✅**<br>**Win:** Brock Lesnar vs. Chris Jericho in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Brock Lesnar vs. Daniel Bryan in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Kazuchika Okada vs. Brock Lesnar in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Brock Lesnar vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Casino Royale: Lady Apache vs. Steve Austin vs. Brock Lesnar in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Sting\|Sting]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 102% vs. Sting vs. Brock Lesnar |
 
 ## Häufigste Gegner
 - [[Wrestler/Sting\|Sting]] (5x)

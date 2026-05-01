@@ -5,12 +5,12 @@ title: Kazuchika Okada
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kazuchika_Okada.png
-matches: 81
+matches: 82
 wins: 55
-losses: 18
-draws: 8
-win_percent: 67.9
-avg_rating: 83.68
+losses: 20
+draws: 7
+win_percent: 67.1
+avg_rating: 84.96
 ---
 
 # Kazuchika Okada
@@ -20,12 +20,12 @@ avg_rating: 83.68
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 81 | 55 | 18 | 8 | 67.9% | 83.68 |
+| 82 | 55 | 20 | 7 | 67.1% | 84.96 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **⚪️⚪️✅✅✅**<br>**Win:** Chris Jericho vs. Kazuchika Okada in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Kazuchika Okada vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Kazuchika Okada vs. Brock Lesnar in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Daniel Bryan vs. Kazuchika Okada in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Iron Man Match: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
+| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **❌❌✅✅✅**<br>**Win:** Chris Jericho vs. Kazuchika Okada in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Kazuchika Okada vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Kazuchika Okada vs. Brock Lesnar in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Daniel Bryan vs. Kazuchika Okada in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Semi Finals: Hiroshi Tanahashi vs. Kazuchika Okada in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (12x)

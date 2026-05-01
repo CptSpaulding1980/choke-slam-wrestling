@@ -6,11 +6,11 @@ tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png
 matches: 28
-wins: 7
+wins: 8
 losses: 17
-draws: 4
-win_percent: 25.0
-avg_rating: 82.82
+draws: 3
+win_percent: 28.6
+avg_rating: 86.0
 ---
 
 # Akira Taue
@@ -20,12 +20,12 @@ avg_rating: 82.82
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 28 | 7 | 17 | 4 | 25.0% | 82.82 |
+| 28 | 8 | 17 | 3 | 28.6% | 86.00 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/akira-taue_stats.png" width="200"> | **⚪️⚪️❌❌❌**<br>**Loss:** Akira Taue vs. Daniel Bryan in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Kazuchika Okada vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Chris Jericho vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Brock Lesnar vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/akira-taue_stats.png" width="200"> | **⚪️✅❌❌❌**<br>**Loss:** Akira Taue vs. Daniel Bryan in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Kazuchika Okada vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Chris Jericho vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Brock Lesnar vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (6x)

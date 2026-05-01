@@ -95,7 +95,6 @@ tags: [index, wrestler]
 | [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] | 16 | 8 | 6 | 2 | 50.0% | 82.56 |
 | [[Wrestler/Cody Rhodes\|Cody Rhodes]] | 5 | 1 | 3 | 1 | 20.0% | 90.60 |
 | [[Wrestler/Colt Cabana\|Colt Cabana]] | 5 | 1 | 4 | 0 | 20.0% | 93.80 |
-| [[Wrestler/Consequences Creed\|Consequences Creed]] | 14 | 6 | 6 | 2 | 42.9% | 83.07 |
 | [[Wrestler/Cora Jade\|Cora Jade]] | 11 | 1 | 7 | 3 | 9.1% | 79.36 |
 | [[Wrestler/Cousin Butch\|Cousin Butch]] | 3 | 1 | 2 | 0 | 33.3% | 83.00 |
 | [[Wrestler/Cousin Luke\|Cousin Luke]] | 3 | 1 | 2 | 0 | 33.3% | 78.00 |
@@ -498,7 +497,7 @@ tags: [index, wrestler]
 | [[Wrestler/Willow\|Willow]] | 1 | 1 | 0 | 0 | 100.0% | 81.00 |
 | [[Wrestler/Wolfgang\|Wolfgang]] | 4 | 2 | 1 | 1 | 50.0% | 85.25 |
 | [[Wrestler/Xanta Claus\|Xanta Claus]] | 3 | 1 | 2 | 0 | 33.3% | 78.00 |
-| [[Wrestler/Xavier Woods\|Xavier Woods]] | 3 | 1 | 2 | 0 | 33.3% | 92.33 |
+| [[Wrestler/Xavier Woods\|Xavier Woods]] | 17 | 7 | 8 | 2 | 41.2% | 84.71 |
 | [[Wrestler/Yokozuna\|Yokozuna]] | 1 | 0 | 0 | 1 | 0.0% | 95.00 |
 | [[Wrestler/Yuji Okabayashi\|Yuji Okabayashi]] | 1 | 0 | 0 | 1 | 0.0% | 92.00 |
 | [[Wrestler/Zack Gibson\|Zack Gibson]] | 1 | 0 | 0 | 1 | 0.0% | 86.00 |

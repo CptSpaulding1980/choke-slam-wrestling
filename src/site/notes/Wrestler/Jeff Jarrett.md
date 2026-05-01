@@ -38,12 +38,12 @@ avg_rating: 87.71
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (9x)
 - [[Wrestler/Freddie Mercury\|Freddie Mercury]] (3x)
 - [[Wrestler/The Honky Tonk Man\|The Honky Tonk Man]] (3x)
-- [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)
+- [[Wrestler/Xavier Woods\|Xavier Woods]] (1x)
 - [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] (1x)
 
 ## Top Matches
 - 101%: Trash TV: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)
 - 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)
-- 98%: [[Wrestler/Consequences Creed\|Consequences Creed]] vs. [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)
+- 98%: Consequences Creed vs. [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)
 - 98%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
 - 97%: Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)

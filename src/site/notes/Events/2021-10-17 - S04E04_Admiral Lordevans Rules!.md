@@ -27,12 +27,12 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 6 |  | < 70 kg: [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] vs. [[Wrestler/Killer Kelly\|Killer Kelly]] | Killer Kelly beat Aoife Valkyrie in 3R 2 Min 20 Sec with a K.O | 2:20 | ★★★¾ | 82 |
 | 7 |  | <75 kg: [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/Dragon Lee\|Dragon Lee]] | Rey Mysterio Jr. beat Dragon Lee in 3R 1 Min 40 Sec with a K.O | 1:40 | ★★★¼ | 74 |
 | 8 |  | <85 kg: [[Wrestler/Ilja Dragunov\|Ilja Dragunov]] vs. [[Wrestler/KUSHIDA\|KUSHIDA]]  | KUSHIDA  beat Ilja Dragunov in 4R 0 Min 11 Sec with a K.O | 0:11 | ★★★★¼ | 89 |
-| 9 |  | <95 kg: [[Wrestler/Consequences Creed\|Consequences Creed]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] | Kota Ibushi beat Consequences Creed in 3R 1 Min 18 Sec with a K.O | 1:18 | ★★★¼ | 73 |
+| 9 |  | <95 kg: Consequences Creed vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] | Kota Ibushi beat Consequences Creed in 3R 1 Min 18 Sec with a K.O | 1:18 | ★★★¼ | 73 |
 | 10 |  | <95 kg: [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] | Kota Ibushi beat Rush in 1R 7 Min 36 Sec with a K.O | 7:36 | ★★★½ | 79 |
 | 11 |  | <95 kg: [[Wrestler/Christian Cage\|Christian Cage]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] | Kota Ibushi beat Christian Cage in 1R 7 Min 18 Sec with a Moonsault Press | 7:18 | ★★★½ | 76 |
-| 12 |  | <95 kg: [[Wrestler/Consequences Creed\|Consequences Creed]] vs. [[Wrestler/Rush\|Rush]] | Rush beat Consequences Creed in 1R 7 Min 0 Sec with a K.O | 7:00 | ★★★ | 70 |
+| 12 |  | <95 kg: Consequences Creed vs. [[Wrestler/Rush\|Rush]] | Rush beat Consequences Creed in 1R 7 Min 0 Sec with a K.O | 7:00 | ★★★ | 70 |
 | 13 |  | <95 kg: [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Christian Cage\|Christian Cage]] | Rush beat Christian Cage in 1R 8 Min 37 Sec with a K.O | 8:37 | ★★★★¼ | 88 |
-| 14 |  | <95 kg: [[Wrestler/Christian Cage\|Christian Cage]] vs. [[Wrestler/Consequences Creed\|Consequences Creed]] | Christian Cage beat Consequences Creed in 1R 11 Min 33 Sec with a K.O | 11:33 | ★★★¾ | 80 |
+| 14 |  | <95 kg: [[Wrestler/Christian Cage\|Christian Cage]] vs. Consequences Creed | Christian Cage beat Consequences Creed in 1R 11 Min 33 Sec with a K.O | 11:33 | ★★★¾ | 80 |
 | 15 |  | > 95 kg: [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | Kazuchika Okada beat Bob Backlund in 1R 6 Min 2 Sec with a K.O | 6:02 | ★★★½ | 77 |
 | 16 |  | > 95 kg: [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | Kazuchika Okada beat Jeff Jarrett in 1R 7 Min 21 Sec with a K.O | 7:21 | ★★★¼ | 73 |
 | 17 |  | > 95 kg: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | Big Van Vader beat Kazuchika Okada in 1R 9 Min 1 Sec with a K.O | 9:01 | ★★★½ | 78 |

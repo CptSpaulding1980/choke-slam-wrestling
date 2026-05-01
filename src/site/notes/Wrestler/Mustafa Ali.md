@@ -25,10 +25,10 @@ avg_rating: 90.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mustafa-ali_stats.png" width="200"> | **❌✅❌**<br>**Loss:** Mansoor & Mustafa Ali vs. Militanter Mummenschanz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Win:** Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Loss:** Mansoor & Mustafa Ali vs. Saint Rebel Radicalz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br> | **Nemesis:** [[Wrestler/Consequences Creed\|Consequences Creed]]<br>**Partner:** [[Wrestler/Mansoor\|Mansoor]]<br>**Best Match:** 97% vs. Mansoor & Mustafa Ali vs. Saint Rebel Radicalz |
+| <img src="/img/charts/mustafa-ali_stats.png" width="200"> | **❌✅❌**<br>**Loss:** Mansoor & Mustafa Ali vs. Militanter Mummenschanz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Win:** Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Loss:** Mansoor & Mustafa Ali vs. Saint Rebel Radicalz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br> | **Nemesis:** [[Wrestler/Xavier Woods\|Xavier Woods]]<br>**Partner:** [[Wrestler/Mansoor\|Mansoor]]<br>**Best Match:** 97% vs. Mansoor & Mustafa Ali vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
-- [[Wrestler/Consequences Creed\|Consequences Creed]] (1x)
+- [[Wrestler/Xavier Woods\|Xavier Woods]] (1x)
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (1x)
 - [[Wrestler/Rush\|Rush]] (1x)
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)

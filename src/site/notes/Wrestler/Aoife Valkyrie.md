@@ -32,7 +32,7 @@ avg_rating: 86.47
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (5x)
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (5x)
-- [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)
+- [[Wrestler/Xavier Woods\|Xavier Woods]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Chris Hero\|Chris Hero]] (8x)

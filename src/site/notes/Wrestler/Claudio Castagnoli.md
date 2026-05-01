@@ -36,7 +36,7 @@ avg_rating: 82.56
 
 ## Häufigste Partner
 - [[Wrestler/Pac\|Pac]] (4x)
-- [[Wrestler/Consequences Creed\|Consequences Creed]] (2x)
+- [[Wrestler/Xavier Woods\|Xavier Woods]] (2x)
 - [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] (1x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
 - [[Wrestler/Big Kon\|Big Kon]] (1x)

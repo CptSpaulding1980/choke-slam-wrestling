@@ -15,7 +15,7 @@ avg_rating: 81.0
 
 # Christmas Creature
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Christmas_Creature.png" width="280"></td><td><b>Height:</b> 214cm<br><b>Weight:</b> 147kg<br><b>Finisher:</b> Choke Slam</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Christmas_Creature.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

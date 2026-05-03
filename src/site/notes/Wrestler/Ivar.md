@@ -15,7 +15,7 @@ avg_rating: 79.33
 
 # Ivar
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ivar.png" width="280"></td><td><b>Height:</b> 191cm<br><b>Weight:</b> 133kg<br><b>Finisher:</b> Sin City Plunge</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ivar.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

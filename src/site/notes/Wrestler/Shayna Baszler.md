@@ -15,7 +15,7 @@ avg_rating: 80.5
 
 # Shayna Baszler
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shayna_Baszler.png" width="280"></td><td><b>Height:</b> 171cm<br><b>Weight:</b> 61kg<br><b>Finisher:</b> Rear Naked Choke</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shayna_Baszler.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

@@ -15,7 +15,7 @@ avg_rating: 82.33
 
 # Goldust
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Goldust.png" width="280"></td><td><b>Height:</b> 197cm<br><b>Weight:</b> 106kg<br><b>Finisher:</b> Final Cut</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Goldust.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

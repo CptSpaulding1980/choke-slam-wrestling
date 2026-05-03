@@ -15,7 +15,7 @@ avg_rating: 73.75
 
 # Tito Santana
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tito_Santana.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 106kg<br><b>Finisher:</b> F4LL (S) 1</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tito_Santana.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

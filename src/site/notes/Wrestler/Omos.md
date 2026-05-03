@@ -15,7 +15,7 @@ avg_rating: 85.0
 
 # Omos
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Omos.png" width="280"></td><td><b>Height:</b> 223cm<br><b>Weight:</b> 132kg<br><b>Finisher:</b> Choke Slam</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Omos.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

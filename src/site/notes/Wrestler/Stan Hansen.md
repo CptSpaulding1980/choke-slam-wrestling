@@ -15,7 +15,7 @@ avg_rating: 90.0
 
 # Stan Hansen
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Stan_Hansen.png" width="280"></td><td><b>Height:</b> 192cm<br><b>Weight:</b> 146kg<br><b>Finisher:</b> Western Lariat</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Stan_Hansen.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

@@ -15,7 +15,7 @@ avg_rating: 88.07
 
 # Dustin Rhodes
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dustin_Rhodes.png" width="280"></td><td><b>Height:</b> 199cm<br><b>Weight:</b> 107kg<br><b>Finisher:</b> Powerslam B</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dustin_Rhodes.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

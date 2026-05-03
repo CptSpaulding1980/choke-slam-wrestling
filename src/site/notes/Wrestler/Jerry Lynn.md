@@ -15,7 +15,7 @@ avg_rating: 92.5
 
 # Jerry Lynn
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jerry_Lynn.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 100kg<br><b>Finisher:</b> Cradle Piledriver</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jerry_Lynn.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

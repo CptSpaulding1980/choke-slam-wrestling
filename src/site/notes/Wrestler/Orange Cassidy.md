@@ -15,7 +15,7 @@ avg_rating: 87.5
 
 # Orange Cassidy
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Orange_Cassidy.png" width="280"></td><td><b>Height:</b> 179cm<br><b>Weight:</b> 73kg<br><b>Finisher:</b> Mouse Trap</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Orange_Cassidy.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

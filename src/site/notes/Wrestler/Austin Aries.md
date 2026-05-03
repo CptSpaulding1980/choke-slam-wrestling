@@ -15,7 +15,7 @@ avg_rating: 86.43
 
 # Austin Aries
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Austin_Aries.png" width="280"></td><td><b>Height:</b> 175cm<br><b>Weight:</b> 92kg<br><b>Finisher:</b> Delayed Vertical Brainbuster</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Austin_Aries.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

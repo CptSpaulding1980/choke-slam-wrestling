@@ -15,7 +15,7 @@ avg_rating: 95.14
 
 # Marius Al-Ani
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Marius_Al-Ani.png" width="280"></td><td><b>Height:</b> 176cm<br><b>Weight:</b> 90kg<br><b>Finisher:</b> Fisherman's Suplex</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Marius_Al-Ani.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

@@ -15,7 +15,7 @@ avg_rating: 95.0
 
 # Yokozuna
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Yokozuna.png" width="280"></td><td><b>Height:</b> 193cm<br><b>Weight:</b> 250kg<br><b>Finisher:</b> BANZAI DROP</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Yokozuna.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

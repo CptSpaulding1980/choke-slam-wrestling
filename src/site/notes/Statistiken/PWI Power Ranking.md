@@ -7,7 +7,7 @@ noteIcon: "🏆"
 
 # 🏆 PWI Power Ranking – S07
 
-> **Stand:** 2026-05-03 22:20 | **Matches:** 183 | **Wrestler geranked:** 59 | **Events:** 10
+> **Stand:** 2026-05-03 22:30 | **Matches:** 183 | **Wrestler geranked:** 59 | **Events:** 10
 
 **Scoring:** PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus
 
@@ -77,7 +77,6 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | Choke Slam Womens Championship | **Awesome Kong** | +15 |
 | Choke Slam Tag Team Championship | **Chris Jericho, Kazuchika Okada** | +10 |
 | Choke Slam Trios Championship | **Edge, Kensuke Sasaki, Roman Reigns** | +8 |
-| Choke Slam World Trios Champions | **—** | +8 |
 
 ## 👥 Tag Teams Top 25
 
@@ -195,4 +194,4 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 ---
 *Auto-generiert vom Choke Slam PWI Power Ranking Generator*
-*Stand: 2026-05-03 22:20*
+*Stand: 2026-05-03 22:30*

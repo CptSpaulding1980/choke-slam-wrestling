@@ -15,7 +15,7 @@ avg_rating: 84.34
 
 # The Undertaker
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Undertaker.png" width="280"></td><td><b>Height:</b> 209cm<br><b>Weight:</b> 140kg<br><b>Finisher:</b> Tombstone Piledriver</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Undertaker.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

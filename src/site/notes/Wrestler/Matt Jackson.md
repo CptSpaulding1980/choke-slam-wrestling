@@ -15,7 +15,7 @@ avg_rating: 97.0
 
 # Matt Jackson
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Matt_Jackson.png" width="280"></td><td><b>Height:</b> 179cm<br><b>Weight:</b> 79kg<br><b>Finisher:</b> Indytaker</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Matt_Jackson.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

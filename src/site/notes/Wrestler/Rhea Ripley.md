@@ -15,7 +15,7 @@ avg_rating: 85.6
 
 # Rhea Ripley
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rhea_Ripley.png" width="280"></td><td><b>Height:</b> 173cm<br><b>Weight:</b> 63kg<br><b>Finisher:</b> Pump Handle Slam</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rhea_Ripley.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

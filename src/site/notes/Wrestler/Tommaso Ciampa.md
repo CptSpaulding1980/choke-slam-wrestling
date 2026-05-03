@@ -15,7 +15,7 @@ avg_rating: 93.67
 
 # Tommaso Ciampa
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tommaso_Ciampa.png" width="280"></td><td><b>Height:</b> 180cm<br><b>Weight:</b> 92kg<br><b>Finisher:</b> Project Ciampa</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tommaso_Ciampa.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

@@ -15,7 +15,7 @@ avg_rating: 86.2
 
 # Sexy Star
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sexy_Star.png" width="280"></td><td><b>Height:</b> 161cm<br><b>Weight:</b> 57kg<br><b>Finisher:</b> Swinging Fisherman Neckbreaker</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sexy_Star.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

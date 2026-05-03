@@ -16,7 +16,7 @@ avg_rating: 100.0
 
 # Aramís
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Aramís.png" width="280"></td><td><b>Height:</b> 174cm<br><b>Weight:</b> 80kg<br><b>Finisher:</b> Desnucadora del Mosquetero</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Aramís.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

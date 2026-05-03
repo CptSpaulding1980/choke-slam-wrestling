@@ -15,7 +15,7 @@ avg_rating: 83.5
 
 # Dragon Lee
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dragon_Lee.png" width="280"></td><td><b>Height:</b> 171cm<br><b>Weight:</b> 75kg<br><b>Finisher:</b> Phoenixplex Hold</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dragon_Lee.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

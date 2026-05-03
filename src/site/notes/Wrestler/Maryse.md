@@ -15,7 +15,7 @@ avg_rating: 88.0
 
 # Maryse
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Maryse.png" width="280"></td><td><b>Height:</b> 173cm<br><b>Weight:</b> 53kg<br><b>Finisher:</b> French Kiss DDT</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Maryse.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

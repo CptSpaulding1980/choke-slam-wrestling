@@ -15,7 +15,7 @@ avg_rating: 69.0
 
 # Bayley
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bayley.png" width="280"></td><td><b>Height:</b> 167cm<br><b>Weight:</b> 54kg<br><b>Finisher:</b> Rose Plant</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bayley.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

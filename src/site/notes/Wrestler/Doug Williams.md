@@ -15,7 +15,7 @@ avg_rating: 82.62
 
 # Doug Williams
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Doug_Williams.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 109kg<br><b>Finisher:</b> Chaos Theory</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Doug_Williams.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

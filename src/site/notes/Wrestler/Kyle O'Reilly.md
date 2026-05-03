@@ -15,7 +15,7 @@ avg_rating: 96.0
 
 # Kyle O'Reilly
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kyle_O'Reilly.png" width="280"></td><td><b>Height:</b> 181cm<br><b>Weight:</b> 94kg<br><b>Finisher:</b> ARMageddon</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kyle_O'Reilly.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

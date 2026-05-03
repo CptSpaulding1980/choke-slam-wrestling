@@ -15,7 +15,7 @@ avg_rating: 90.0
 
 # Brian Pillman
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brian_Pillman.png" width="280"></td><td><b>Height:</b> 185cm<br><b>Weight:</b> 103kg<br><b>Finisher:</b> Diving Lariat</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brian_Pillman.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

@@ -15,7 +15,7 @@ avg_rating: 85.72
 
 # Kane
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kane.png" width="280"></td><td><b>Height:</b> 213cm<br><b>Weight:</b> 147kg<br><b>Finisher:</b> High Angle Chokeslam</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kane.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

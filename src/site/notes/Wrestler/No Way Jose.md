@@ -15,7 +15,7 @@ avg_rating: 100.0
 
 # No Way Jose
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/No_Way_Jose.png" width="280"></td><td><b>Height:</b> 190cm<br><b>Weight:</b> 111kg<br><b>Finisher:</b> Fastball Punch</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/No_Way_Jose.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

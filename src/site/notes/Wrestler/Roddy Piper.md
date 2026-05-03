@@ -15,7 +15,7 @@ avg_rating: 81.5
 
 # Roddy Piper
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Roddy_Piper.png" width="280"></td><td><b>Height:</b> 187cm<br><b>Weight:</b> 105kg<br><b>Finisher:</b> Piper Sleeper Hold</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Roddy_Piper.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

@@ -15,7 +15,7 @@ avg_rating: 83.34
 
 # Big Van Vader
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Van_Vader.png" width="280"></td><td><b>Height:</b> 190cm<br><b>Weight:</b> 205kg<br><b>Finisher:</b> Vader Bomb</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Van_Vader.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

@@ -15,7 +15,7 @@ avg_rating: 82.56
 
 # El Hijo del Vikingo
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/El_Hijo_del_Vikingo.png" width="280"></td><td><b>Height:</b> 171cm<br><b>Weight:</b> 72kg<br><b>Finisher:</b> Cannonball Senton</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/El_Hijo_del_Vikingo.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

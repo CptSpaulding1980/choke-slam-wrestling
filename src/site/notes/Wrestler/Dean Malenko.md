@@ -15,7 +15,7 @@ avg_rating: 86.0
 
 # Dean Malenko
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dean_Malenko.png" width="280"></td><td><b>Height:</b> 177cm<br><b>Weight:</b> 96kg<br><b>Finisher:</b> Texas Cloverleaf</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dean_Malenko.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

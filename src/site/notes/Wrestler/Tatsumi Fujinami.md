@@ -15,7 +15,7 @@ avg_rating: 78.0
 
 # Tatsumi Fujinami
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tatsumi_Fujinami.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 103kg<br><b>Finisher:</b> Dragon Sleeper</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tatsumi_Fujinami.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

@@ -15,7 +15,7 @@ avg_rating: 75.0
 
 # Scott Hall
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Scott_Hall.png" width="280"></td><td><b>Height:</b> 201cm<br><b>Weight:</b> 128kg<br><b>Finisher:</b> Outsider's Edge</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Scott_Hall.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

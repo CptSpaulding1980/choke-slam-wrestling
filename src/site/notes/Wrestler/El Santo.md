@@ -15,7 +15,7 @@ avg_rating: 90.0
 
 # El Santo
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/El_Santo.png" width="280"></td><td><b>Height:</b> 178cm<br><b>Weight:</b> 95kg<br><b>Finisher:</b> La de a Caballo</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/El_Santo.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

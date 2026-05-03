@@ -15,7 +15,7 @@ avg_rating: 84.7
 
 # Sami Zayn
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sami_Zayn.png" width="280"></td><td><b>Height:</b> 184cm<br><b>Weight:</b> 96kg<br><b>Finisher:</b> Kenka Kick</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sami_Zayn.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

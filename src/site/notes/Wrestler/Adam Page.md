@@ -15,7 +15,7 @@ avg_rating: 80.71
 
 # Adam Page
 
-<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Adam_Page.png" width="280"></td><td><b>Height:</b> 183cm<br><b>Weight:</b> 97kg<br><b>Finisher:</b> Buckshot Lariat</td></tr></table>
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Adam_Page.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

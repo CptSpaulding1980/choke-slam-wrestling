@@ -7,7 +7,7 @@ noteIcon: "🏆"
 
 # 🏆 PWI Power Ranking – S07
 
-> **Stand:** 2026-05-03 22:42 | **Matches:** 183 | **Wrestler geranked:** 58 | **Events:** 10
+> **Stand:** 2026-05-03 22:50 | **Matches:** 183 | **Wrestler geranked:** 58 | **Events:** 10
 
 **Scoring:** PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus
 
@@ -194,4 +194,4 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 ---
 *Auto-generiert vom Choke Slam PWI Power Ranking Generator*
-*Stand: 2026-05-03 22:42*
+*Stand: 2026-05-03 22:50*

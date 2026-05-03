@@ -25,7 +25,7 @@ avg_rating: 96.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kyle-oreilly_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Undisputed Era (Bobby Fish & Kyle O'Reilly) vs. Militanter Mummenschanz in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Undisputed Era vs. Viking Raiders in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Saint Rebel Radicalz vs. Undisputed Era in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Bobby Fish\|Bobby Fish]]<br>**Best Match:** 100% vs. Undisputed Era (Bobby Fish & Kyle O'Reilly) vs. Militanter Mummenschanz |
+| <img src="/img/charts/kyle-oreilly_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Saint Rebel Radicalz vs. Undisputed Era in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Undisputed Era vs. Viking Raiders in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Undisputed Era (Bobby Fish & Kyle O'Reilly) vs. Militanter Mummenschanz in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Bobby Fish\|Bobby Fish]]<br>**Best Match:** 100% vs. Undisputed Era (Bobby Fish & Kyle O'Reilly) vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (1x)

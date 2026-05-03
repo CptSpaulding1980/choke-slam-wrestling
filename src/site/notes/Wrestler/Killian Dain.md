@@ -25,7 +25,7 @@ avg_rating: 81.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/killian-dain_stats.png" width="200"> | **✅❌✅**<br>**Win:** Kurt Angle vs. Killian Dain in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br>**Loss:** Dr. Wagner Jr. vs. Killian Dain in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br>**Win:** Gail Kim vs. Killian Dain in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br> | **Nemesis:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 89% vs. Kurt Angle vs. Killian Dain |
+| <img src="/img/charts/killian-dain_stats.png" width="200"> | **✅❌✅**<br>**Win:** Gail Kim vs. Killian Dain in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br>**Loss:** Dr. Wagner Jr. vs. Killian Dain in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br>**Win:** Kurt Angle vs. Killian Dain in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br> | **Nemesis:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 89% vs. Kurt Angle vs. Killian Dain |
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)

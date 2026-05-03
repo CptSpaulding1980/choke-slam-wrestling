@@ -25,7 +25,7 @@ avg_rating: 83.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/max-caster_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Militanter Mummenschanz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Sweet 'n Sour Elite vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Saint Rebel Radicalz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Anthony Bowens\|Anthony Bowens]]<br>**Best Match:** 89% vs. Militanter Mummenschanz vs. Max Caster & Anthony Bowens |
+| <img src="/img/charts/max-caster_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Saint Rebel Radicalz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Sweet 'n Sour Elite vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Militanter Mummenschanz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Anthony Bowens\|Anthony Bowens]]<br>**Best Match:** 89% vs. Militanter Mummenschanz vs. Max Caster & Anthony Bowens |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)

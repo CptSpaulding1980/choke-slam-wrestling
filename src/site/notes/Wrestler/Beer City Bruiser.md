@@ -25,7 +25,7 @@ avg_rating: 85.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/beer-city-bruiser_stats.png" width="200"> | **⚪️❌❌**<br>**Loss:** Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Loss:** Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Draw:** What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br> | **Nemesis:** [[Wrestler/Eddie Edwards\|Eddie Edwards]]<br>**Partner:** [[Wrestler/Cora Jade\|Cora Jade]]<br>**Best Match:** 94% vs. What if... Battle Royal |
+| <img src="/img/charts/beer-city-bruiser_stats.png" width="200"> | **❌❌⚪️**<br>**Draw:** What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Loss:** Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Loss:** Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br> | **Nemesis:** [[Wrestler/Eddie Edwards\|Eddie Edwards]]<br>**Partner:** [[Wrestler/Cora Jade\|Cora Jade]]<br>**Best Match:** 94% vs. What if... Battle Royal |
 
 ## Häufigste Gegner
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (3x)

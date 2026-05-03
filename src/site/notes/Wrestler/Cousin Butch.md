@@ -25,7 +25,7 @@ avg_rating: 83.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/cousin-butch_stats.png" width="200"> | **✅❌❌**<br>**Loss:** EC3 vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Loss:** Rush vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Win:** Aoife Valkyrie vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 93% vs. EC3 vs. Cousin Butch |
+| <img src="/img/charts/cousin-butch_stats.png" width="200"> | **❌❌✅**<br>**Win:** Aoife Valkyrie vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Loss:** Rush vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Loss:** EC3 vs. Cousin Butch in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 93% vs. EC3 vs. Cousin Butch |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

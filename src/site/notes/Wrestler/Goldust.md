@@ -25,7 +25,7 @@ avg_rating: 82.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/goldust_stats.png" width="200"> | **❌✅✅**<br>**Win:** 1/8 Finals: Orange Cassidy vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Quarter Finals: Goldust vs. Jerry Lawler in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Loss:** Semi Finals: Chris Jericho vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br> | **Nemesis:** [[Wrestler/Orange Cassidy\|Orange Cassidy]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 85% vs. Semi Finals: Chris Jericho vs. Goldust |
+| <img src="/img/charts/goldust_stats.png" width="200"> | **✅✅❌**<br>**Loss:** Semi Finals: Chris Jericho vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Quarter Finals: Goldust vs. Jerry Lawler in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** 1/8 Finals: Orange Cassidy vs. Goldust in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br> | **Nemesis:** [[Wrestler/Orange Cassidy\|Orange Cassidy]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 85% vs. Semi Finals: Chris Jericho vs. Goldust |
 
 ## Häufigste Gegner
 - [[Wrestler/Orange Cassidy\|Orange Cassidy]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 98.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/aero-star_stats.png" width="200"> | **❌✅❌**<br>**Loss:** Trios League Final: Aero Star, Drago & Rey Fenix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)<br>**Win:** Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br>**Loss:** Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br> | **Nemesis:** [[Wrestler/Barry Windham\|Barry Windham]]<br>**Partner:** [[Wrestler/Eddie Guerrero\|Eddie Guerrero]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
+| <img src="/img/charts/aero-star_stats.png" width="200"> | **✅❌❌**<br>**Loss:** Trios League Final: Aero Star, Drago & Rey Fenix vs. Militanter Mummenschanz in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)<br>**Loss:** Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br>**Win:** Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br> | **Nemesis:** [[Wrestler/Barry Windham\|Barry Windham]]<br>**Partner:** [[Wrestler/Eddie Guerrero\|Eddie Guerrero]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
 
 ## Häufigste Gegner
 - [[Wrestler/Barry Windham\|Barry Windham]] (1x)

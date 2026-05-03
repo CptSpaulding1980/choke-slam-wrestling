@@ -25,7 +25,7 @@ avg_rating: 78.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/big-dick-dudley_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Tables: Random, Random, & Random vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Loss:** Tables: Sweet 'n Sour Elite vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Loss:** Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]]<br>**Best Match:** 99% vs. Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley |
+| <img src="/img/charts/big-dick-dudley_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Loss:** Tables: Sweet 'n Sour Elite vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br>**Loss:** Tables: Random, Random, & Random vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)<br> | **Nemesis:** [[Wrestler/EC3\|EC3]]<br>**Partner:** [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]]<br>**Best Match:** 99% vs. Tables: Saint Rebel Radicalz vs. Big Dick Dudley, Buh Buh Ray Dudley, & D-Von Dudley |
 
 ## Häufigste Gegner
 - [[Wrestler/EC3\|EC3]] (1x)

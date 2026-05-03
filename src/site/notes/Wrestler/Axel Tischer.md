@@ -25,7 +25,7 @@ avg_rating: 83.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/axel-tischer_stats.png" width="200"> | **❌❌❌⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Davey Boy Smith vs. Axel Tischer in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)<br>**Loss:** Ludwig Kaiser vs. Axel Tischer in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)<br>**Loss:** Grayson Waller vs. Axel Tischer in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)<br> | **Nemesis:** [[Wrestler/Davey Boy Smith\|Davey Boy Smith]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Royal Rumble |
+| <img src="/img/charts/axel-tischer_stats.png" width="200"> | **❌❌❌⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Grayson Waller vs. Axel Tischer in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)<br>**Loss:** Ludwig Kaiser vs. Axel Tischer in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)<br>**Loss:** Davey Boy Smith vs. Axel Tischer in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)<br> | **Nemesis:** [[Wrestler/Davey Boy Smith\|Davey Boy Smith]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 92% vs. Royal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] (1x)

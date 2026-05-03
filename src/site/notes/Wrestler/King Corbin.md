@@ -25,7 +25,7 @@ avg_rating: 74.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/king-corbin_stats.png" width="200"> | **❌❌✅**<br>**Win:** Kings Court vs. Mummenschanz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br>**Loss:** Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br>**Loss:** Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br> | **Nemesis:** [[Wrestler/Dalton Castle\|Dalton Castle]]<br>**Partner:** [[Wrestler/Booker T\|Booker T]]<br>**Best Match:** 77% vs. Kings Court vs. Saint Rebel Radicalz |
+| <img src="/img/charts/king-corbin_stats.png" width="200"> | **✅❌❌**<br>**Loss:** Kings Court vs. Saint Rebel Radicalz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br>**Loss:** Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br>**Win:** Kings Court vs. Mummenschanz in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br> | **Nemesis:** [[Wrestler/Dalton Castle\|Dalton Castle]]<br>**Partner:** [[Wrestler/Booker T\|Booker T]]<br>**Best Match:** 77% vs. Kings Court vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Dalton Castle\|Dalton Castle]] (1x)

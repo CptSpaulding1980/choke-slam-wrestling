@@ -25,7 +25,7 @@ avg_rating: 78.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/cousin-luke_stats.png" width="200"> | **✅❌❌**<br>**Loss:** Kevin Steen vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Loss:** Triple H vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Win:** Aoife Valkyrie vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 79% vs. Kevin Steen vs. Cousin Luke |
+| <img src="/img/charts/cousin-luke_stats.png" width="200"> | **❌❌✅**<br>**Win:** Aoife Valkyrie vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Loss:** Triple H vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br>**Loss:** Kevin Steen vs. Cousin Luke in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 79% vs. Kevin Steen vs. Cousin Luke |
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

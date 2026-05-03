@@ -25,7 +25,7 @@ avg_rating: 97.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/the-honky-tonk-man_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Apple Gauntlet 3 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/Freddie Mercury\|Freddie Mercury]]<br>**Best Match:** 97% vs. Apple Gauntlet 1 |
+| <img src="/img/charts/the-honky-tonk-man_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Apple Gauntlet 3 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Apple Gauntlet 1 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br> | **Nemesis:** [[Wrestler/Kevin Steen\|Kevin Steen]]<br>**Partner:** [[Wrestler/Freddie Mercury\|Freddie Mercury]]<br>**Best Match:** 97% vs. Apple Gauntlet 1 |
 
 ## Häufigste Gegner
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (1x)

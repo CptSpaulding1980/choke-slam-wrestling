@@ -25,7 +25,7 @@ avg_rating: 91.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dominik-mysterio_stats.png" width="200"> | **✅❌❌**<br>**Loss:** Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Sweet 'n Sour Elite vs. Finn Bálor & Dominik Mysterio in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Win:** Dominik Mysterio & Finn Bálor vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Lady Apache\|Lady Apache]]<br>**Partner:** [[Wrestler/Finn Bálor\|Finn Bálor]]<br>**Best Match:** 99% vs. Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz |
+| <img src="/img/charts/dominik-mysterio_stats.png" width="200"> | **❌❌✅**<br>**Win:** Dominik Mysterio & Finn Bálor vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Sweet 'n Sour Elite vs. Finn Bálor & Dominik Mysterio in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Lady Apache\|Lady Apache]]<br>**Partner:** [[Wrestler/Finn Bálor\|Finn Bálor]]<br>**Best Match:** 99% vs. Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Lady Apache\|Lady Apache]] (1x)

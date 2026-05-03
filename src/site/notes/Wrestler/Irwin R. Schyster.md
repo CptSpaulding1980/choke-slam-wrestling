@@ -25,7 +25,7 @@ avg_rating: 91.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/irwin-r-schyster_stats.png" width="200"> | **✅❌✅**<br>**Win:** Sweet 'n Sour Elite vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)<br>**Loss:** Saint Rebel Radicalz vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)<br>**Win:** Path of God vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)<br> | **Nemesis:** [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]<br>**Partner:** [[Wrestler/Ted DiBiase\|Ted DiBiase]]<br>**Best Match:** 97% vs. Path of God vs. Irwin R. Schyster & Ted DiBiase |
+| <img src="/img/charts/irwin-r-schyster_stats.png" width="200"> | **✅❌✅**<br>**Win:** Path of God vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)<br>**Loss:** Saint Rebel Radicalz vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)<br>**Win:** Sweet 'n Sour Elite vs. Irwin R. Schyster & Ted DiBiase in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)<br> | **Nemesis:** [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]<br>**Partner:** [[Wrestler/Ted DiBiase\|Ted DiBiase]]<br>**Best Match:** 97% vs. Path of God vs. Irwin R. Schyster & Ted DiBiase |
 
 ## Häufigste Gegner
 - [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] (1x)

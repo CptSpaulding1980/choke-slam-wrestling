@@ -25,7 +25,7 @@ avg_rating: 79.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/taz_stats.png" width="200"> | **✅✅✅**<br>**Win:** Gruesome Fighting: Taz vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Win:** Gruesome Fighting: Taz vs. Jonathan Gresham in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Win:** Gruesome Fighting: Taz vs.  vs. Grayson Waller in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br> | **Nemesis:** [[Wrestler/Eddie Edwards\|Eddie Edwards]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 83% vs. Gruesome Fighting: Taz vs. Eddie Edwards |
+| <img src="/img/charts/taz_stats.png" width="200"> | **✅✅✅**<br>**Win:** Gruesome Fighting: Taz vs.  vs. Grayson Waller in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Win:** Gruesome Fighting: Taz vs. Jonathan Gresham in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Win:** Gruesome Fighting: Taz vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br> | **Nemesis:** [[Wrestler/Eddie Edwards\|Eddie Edwards]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 83% vs. Gruesome Fighting: Taz vs. Eddie Edwards |
 
 ## Häufigste Gegner
 - [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)

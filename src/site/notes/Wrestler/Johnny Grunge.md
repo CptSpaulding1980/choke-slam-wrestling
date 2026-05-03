@@ -25,7 +25,7 @@ avg_rating: 81.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/johnny-grunge_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Johnny Grunge & Rocco Rock vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Loss:** Johnny Grunge & Rocco Rock vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Loss:** Johnny Grunge & Rocco Rock vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Rocco Rock\|Rocco Rock]]<br>**Best Match:** 95% vs. Johnny Grunge & Rocco Rock vs. Militanter Mummenschanz |
+| <img src="/img/charts/johnny-grunge_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Johnny Grunge & Rocco Rock vs. Saint Rebel Radicalz in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Loss:** Johnny Grunge & Rocco Rock vs. Sweet 'n Sour Elite in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Loss:** Johnny Grunge & Rocco Rock vs. Militanter Mummenschanz in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Rocco Rock\|Rocco Rock]]<br>**Best Match:** 95% vs. Johnny Grunge & Rocco Rock vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 86.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/cheeseburger_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Militanter Mummenschanz vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] (2021-02-25)<br>**Loss:** Sweet 'n Sour Elite vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] (2021-02-25)<br>**Loss:** Saint Rebel Radicalz vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] (2021-02-25)<br> | **Nemesis:** [[Wrestler/Swerve Strickland\|Swerve Strickland]]<br>**Partner:** [[Wrestler/Al Snow\|Al Snow]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Cheeseburger & Al Snow |
+| <img src="/img/charts/cheeseburger_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Saint Rebel Radicalz vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] (2021-02-25)<br>**Loss:** Sweet 'n Sour Elite vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] (2021-02-25)<br>**Loss:** Militanter Mummenschanz vs. Cheeseburger & Al Snow in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] (2021-02-25)<br> | **Nemesis:** [[Wrestler/Swerve Strickland\|Swerve Strickland]]<br>**Partner:** [[Wrestler/Al Snow\|Al Snow]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Cheeseburger & Al Snow |
 
 ## Häufigste Gegner
 - [[Wrestler/Swerve Strickland\|Swerve Strickland]] (1x)

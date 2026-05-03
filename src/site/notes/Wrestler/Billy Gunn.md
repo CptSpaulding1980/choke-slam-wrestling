@@ -25,7 +25,7 @@ avg_rating: 94.25
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/billy-gunn_stats.png" width="200"> | **⚪️❌❌✅**<br>**Win:** Billy Gunn & Road Dogg vs. Big E & Kofi Kingston in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Mosh & Thrasher vs. Billy Gunn & Road Dogg in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Billy Gunn & Road Dogg vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Draw:** Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)<br> | **Nemesis:** [[Wrestler/Kofi Kingston\|Kofi Kingston]]<br>**Partner:** [[Wrestler/Road Dogg\|Road Dogg]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/billy-gunn_stats.png" width="200"> | **⚪️✅❌❌**<br>**Loss:** Billy Gunn & Road Dogg vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Mosh & Thrasher vs. Billy Gunn & Road Dogg in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Win:** Billy Gunn & Road Dogg vs. Big E & Kofi Kingston in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Draw:** Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)<br> | **Nemesis:** [[Wrestler/Kofi Kingston\|Kofi Kingston]]<br>**Partner:** [[Wrestler/Road Dogg\|Road Dogg]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Kofi Kingston\|Kofi Kingston]] (2x)

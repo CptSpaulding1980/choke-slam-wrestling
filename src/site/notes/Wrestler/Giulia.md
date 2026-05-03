@@ -25,7 +25,7 @@ avg_rating: 87.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/giulia_stats.png" width="200"> | **❌✅**<br>**Win:** Womens Quarter Finals: Giulia vs. Jamie Hayter in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Loss:** Womens Semi Finals: Giulia vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br> | **Nemesis:** [[Wrestler/Jamie Hayter\|Jamie Hayter]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 93% vs. Womens Quarter Finals: Giulia vs. Jamie Hayter |
+| <img src="/img/charts/giulia_stats.png" width="200"> | **✅❌**<br>**Loss:** Womens Semi Finals: Giulia vs. Sasha Banks in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Womens Quarter Finals: Giulia vs. Jamie Hayter in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br> | **Nemesis:** [[Wrestler/Jamie Hayter\|Jamie Hayter]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 93% vs. Womens Quarter Finals: Giulia vs. Jamie Hayter |
 
 ## Häufigste Gegner
 - [[Wrestler/Jamie Hayter\|Jamie Hayter]] (1x)

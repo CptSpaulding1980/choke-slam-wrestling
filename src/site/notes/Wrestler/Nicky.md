@@ -25,7 +25,7 @@ avg_rating: 74.25
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/nicky_stats.png" width="200"> | **❌❌✅❌**<br>**Loss:** Path of God vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Win:** Sweet 'n Sour Elite vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Loss:** Saint Rebel Radicalz vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Loss:** Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Johnny\|Johnny]]<br>**Best Match:** 86% vs. Sweet 'n Sour Elite vs. Spirit Squad |
+| <img src="/img/charts/nicky_stats.png" width="200"> | **❌✅❌❌**<br>**Loss:** Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Loss:** Saint Rebel Radicalz vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Win:** Sweet 'n Sour Elite vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Loss:** Path of God vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Johnny\|Johnny]]<br>**Best Match:** 86% vs. Sweet 'n Sour Elite vs. Spirit Squad |
 
 ## Häufigste Gegner
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)

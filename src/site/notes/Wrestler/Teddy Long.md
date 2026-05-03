@@ -25,7 +25,7 @@ avg_rating: 79.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/teddy-long_stats.png" width="200"> | **✅❌❌**<br>**Loss:** Killer Kelly vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Loss:** Madison Rayne vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Win:** Aoife Valkyrie vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Vickie Guerrero\|Vickie Guerrero]]<br>**Best Match:** 80% vs. Killer Kelly vs. Vickie Guerrero & Teddy Long |
+| <img src="/img/charts/teddy-long_stats.png" width="200"> | **❌❌✅**<br>**Win:** Aoife Valkyrie vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Loss:** Madison Rayne vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Loss:** Killer Kelly vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Vickie Guerrero\|Vickie Guerrero]]<br>**Best Match:** 80% vs. Killer Kelly vs. Vickie Guerrero & Teddy Long |
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

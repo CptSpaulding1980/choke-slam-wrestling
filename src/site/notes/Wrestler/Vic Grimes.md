@@ -25,7 +25,7 @@ avg_rating: 75.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/vic-grimes_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Awesome Kong vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Wardlow vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Jon Moxley vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 84% vs. Wardlow vs. Vic Grimes |
+| <img src="/img/charts/vic-grimes_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Jon Moxley vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Wardlow vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Awesome Kong vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 84% vs. Wardlow vs. Vic Grimes |
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)

@@ -25,7 +25,7 @@ avg_rating: 86.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/el-torito_stats.png" width="200"> | **✅❌**<br>**Loss:** Militanter Mummenschanz vs. EL Torito & Mascarit Sagrada in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br>**Win:** Sweet 'n Sour Elite vs. EL Torito & Little Beaver in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Mascarit Sagrada\|Mascarit Sagrada]]<br>**Best Match:** 100% vs. Sweet 'n Sour Elite vs. EL Torito & Little Beaver |
+| <img src="/img/charts/el-torito_stats.png" width="200"> | **❌✅**<br>**Win:** Sweet 'n Sour Elite vs. EL Torito & Little Beaver in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br>**Loss:** Militanter Mummenschanz vs. EL Torito & Mascarit Sagrada in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Mascarit Sagrada\|Mascarit Sagrada]]<br>**Best Match:** 100% vs. Sweet 'n Sour Elite vs. EL Torito & Little Beaver |
 
 ## Häufigste Gegner
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)

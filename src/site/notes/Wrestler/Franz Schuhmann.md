@@ -25,7 +25,7 @@ avg_rating: 83.75
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/franz-schuhmann_stats.png" width="200"> | **⚪️❌❌✅**<br>**Win:** Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br>**Loss:** Saint Rebel Radicalz vs. Franz Schuhmann & Sting in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br>**Loss:** Bob Backlund vs. Franz Schuhmann in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br>**Draw:** Humble Rumble in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Rick Steiner\|Rick Steiner]]<br>**Best Match:** 92% vs. Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner |
+| <img src="/img/charts/franz-schuhmann_stats.png" width="200"> | **✅❌❌⚪️**<br>**Draw:** Humble Rumble in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br>**Loss:** Bob Backlund vs. Franz Schuhmann in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br>**Loss:** Saint Rebel Radicalz vs. Franz Schuhmann & Sting in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br>**Win:** Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Rick Steiner\|Rick Steiner]]<br>**Best Match:** 92% vs. Sweet 'n Sour Elite vs. Franz Schuhmann & Rick Steiner |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (2x)

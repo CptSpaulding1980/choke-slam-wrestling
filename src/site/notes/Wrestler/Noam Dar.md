@@ -25,7 +25,7 @@ avg_rating: 88.09
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/noam-dar_stats.png" width="200"> | **❌❌✅✅⚪️**<br>**Draw:** AJ Styles vs. Sweet 'n Sour Elite in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Win:** Hulk Hogan vs. Sweet 'n Sour Elite in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Win:** Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Loss:** Guardians of the Galaxy 2 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Loss:** Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/noam-dar_stats.png" width="200"> | **⚪️✅✅❌❌**<br>**Loss:** Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Loss:** Guardians of the Galaxy 2 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Win:** Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Win:** Hulk Hogan vs. Sweet 'n Sour Elite in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Draw:** AJ Styles vs. Sweet 'n Sour Elite in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br> | **Nemesis:** [[Wrestler/Miro\|Miro]]<br>**Partner:** [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Miro\|Miro]] (5x)

@@ -25,7 +25,7 @@ avg_rating: 90.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/batista_stats.png" width="200"> | **✅❌❌**<br>**Loss:** Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Win:** Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br> | **Nemesis:** [[Wrestler/Bull Nakano\|Bull Nakano]]<br>**Partner:** [[Wrestler/John Cena\|John Cena]]<br>**Best Match:** 94% vs. Guardians of the Galaxy 3 |
+| <img src="/img/charts/batista_stats.png" width="200"> | **❌✅❌**<br>**Loss:** Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Loss:** Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br> | **Nemesis:** [[Wrestler/Bull Nakano\|Bull Nakano]]<br>**Partner:** [[Wrestler/John Cena\|John Cena]]<br>**Best Match:** 94% vs. Guardians of the Galaxy 3 |
 
 ## Häufigste Gegner
 - [[Wrestler/Bull Nakano\|Bull Nakano]] (2x)

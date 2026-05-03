@@ -25,7 +25,7 @@ avg_rating: 90.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/stevie-ray_stats.png" width="200"> | **❌✅❌❌**<br>**Loss:** Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Johnny Gargano & Tommaso Ciampa vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Win:** Cody Rhodes & Oba Femi vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Saint Rebel Radicalz vs. Lex Luger & Stevie Ray in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)<br> | **Nemesis:** [[Wrestler/Brandon\|Brandon]]<br>**Partner:** [[Wrestler/Booker T\|Booker T]]<br>**Best Match:** 99% vs. Cody Rhodes & Oba Femi vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/stevie-ray_stats.png" width="200"> | **❌❌❌✅**<br>**Win:** Cody Rhodes & Oba Femi vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Johnny Gargano & Tommaso Ciampa vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Sweet 'n Sour Elite vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Saint Rebel Radicalz vs. Lex Luger & Stevie Ray in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)<br> | **Nemesis:** [[Wrestler/Brandon\|Brandon]]<br>**Partner:** [[Wrestler/Booker T\|Booker T]]<br>**Best Match:** 99% vs. Cody Rhodes & Oba Femi vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Brandon\|Brandon]] (1x)

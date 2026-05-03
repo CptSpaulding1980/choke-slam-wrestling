@@ -25,7 +25,7 @@ avg_rating: 84.22
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/steve-austin_stats.png" width="200"> | **❌✅✅⚪️❌**<br>**Loss:** Steve Austin vs. Hiroshi Tanahashi in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Bret Hart vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Konosuke Takeshita vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Eddie Kingston vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Semi Finals: Daniel Bryan vs. Steve Austin in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
+| <img src="/img/charts/steve-austin_stats.png" width="200"> | **❌✅✅⚪️❌**<br>**Loss:** Steve Austin vs. Hiroshi Tanahashi in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Draw:** Bret Hart vs. Steve Austin in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Konosuke Takeshita vs. Steve Austin in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Eddie Kingston vs. Steve Austin in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Semi Finals: Daniel Bryan vs. Steve Austin in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (8x)
@@ -38,8 +38,8 @@ avg_rating: 84.22
 - [[Wrestler/Akira Taue\|Akira Taue]] (8x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (6x)
 - [[Wrestler/Adam Page\|Adam Page]] (5x)
+- [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] (4x)
 - [[Wrestler/Christian Cage\|Christian Cage]] (2x)
-- [[Wrestler/Lady Apache\|Lady Apache]] (2x)
 
 ## Top Matches
 - 100%: Pre Show: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Steve Austin\|Steve Austin]] in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)

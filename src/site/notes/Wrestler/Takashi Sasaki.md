@@ -25,7 +25,7 @@ avg_rating: 100.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/takashi-sasaki_stats.png" width="200"> | **✅**<br>**Win:** Lighttube Landmine Match: Lady Apache vs. Edge vs. Jon Moxley vs.Takashi Sasaki in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br> | **Nemesis:** [[Wrestler/Lady Apache\|Lady Apache]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Lighttube Landmine Match: Lady Apache vs. Edge vs. Jon Moxley vs.Takashi Sasaki |
+| <img src="/img/charts/takashi-sasaki_stats.png" width="200"> | **✅**<br>**Win:** Lighttube Landmine Match: Lady Apache vs. Edge vs. Jon Moxley vs.Takashi Sasaki in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Lady Apache\|Lady Apache]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Lighttube Landmine Match: Lady Apache vs. Edge vs. Jon Moxley vs.Takashi Sasaki |
 
 ## Häufigste Gegner
 - [[Wrestler/Lady Apache\|Lady Apache]] (1x)
@@ -33,4 +33,4 @@ avg_rating: 100.0
 - [[Wrestler/Edge\|Edge]] (1x)
 
 ## Top Matches
-- 100%: Lighttube Landmine Match: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Edge\|Edge]] vs. [[Wrestler/Jon Moxley\|Jon Moxley]] vs.[[Wrestler/Takashi Sasaki\|Takashi Sasaki]] in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)
+- 100%: Lighttube Landmine Match: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Edge\|Edge]] vs. [[Wrestler/Jon Moxley\|Jon Moxley]] vs.[[Wrestler/Takashi Sasaki\|Takashi Sasaki]] in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)

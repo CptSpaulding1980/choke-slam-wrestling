@@ -22,7 +22,7 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 ## 📅 Die letzten Events
 | Datum | Show | Main Event |
 |---|---|---|
-| 2026-04-14 | [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] | Final: Hiroshi Tanahashi vs. Daniel Bryan |
+| 2026-05-01 | [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] | Final: Hiroshi Tanahashi vs. Daniel Bryan |
 | 2026-03-16 | [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] | Royal Rumble |
 | 2025-12-30 | [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] | Militanter Mummenschanz vs. Saint Rebel Radicalz |
 | 2025-11-18 | [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] | Choke Slam World Championship: Jay White vs. Steve Austin (c) |

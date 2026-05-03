@@ -37,7 +37,7 @@ avg_rating: 80.71
 ## Häufigste Partner
 - [[Wrestler/Steve Austin\|Steve Austin]] (5x)
 - [[Wrestler/Akira Taue\|Akira Taue]] (2x)
-- [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]] (2x)
+- [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] (2x)
 - [[Wrestler/Edge\|Edge]] (1x)
 - [[Wrestler/Jay White\|Jay White]] (1x)
 

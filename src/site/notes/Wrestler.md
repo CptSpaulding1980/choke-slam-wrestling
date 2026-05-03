@@ -241,7 +241,6 @@ tags: [index, wrestler]
 | [[Wrestler/Jushin Liger\|Jushin Liger]] | 17 | 6 | 10 | 1 | 35.3% | 89.00 |
 | [[Wrestler/Justin Credible\|Justin Credible]] | 1 | 0 | 1 | 0 | 0.0% | 102.00 |
 | [[Wrestler/KENTA\|KENTA]] | 34 | 12 | 13 | 9 | 35.3% | 87.24 |
-| [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]] | 9 | 4 | 5 | 0 | 44.4% | 85.67 |
 | [[Wrestler/KUSHIDA\|KUSHIDA]] | 32 | 15 | 11 | 6 | 46.9% | 80.66 |
 | [[Wrestler/Kairi Sane\|Kairi Sane]] | 9 | 1 | 5 | 3 | 11.1% | 77.33 |
 | [[Wrestler/Kamala\|Kamala]] | 2 | 0 | 2 | 0 | 0.0% | 80.00 |
@@ -266,7 +265,7 @@ tags: [index, wrestler]
 | [[Wrestler/Kip Sabian\|Kip Sabian]] | 1 | 0 | 0 | 1 | 0.0% | 74.00 |
 | [[Wrestler/Kofi Kingston\|Kofi Kingston]] | 16 | 4 | 9 | 3 | 25.0% | 87.44 |
 | [[Wrestler/Koji Kanemoto\|Koji Kanemoto]] | 1 | 0 | 0 | 1 | 0.0% | 100.00 |
-| [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] | 10 | 0 | 6 | 4 | 0.0% | 77.80 |
+| [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] | 19 | 4 | 11 | 4 | 21.1% | 81.53 |
 | [[Wrestler/Kota Ibushi\|Kota Ibushi]] | 12 | 5 | 3 | 4 | 41.7% | 84.75 |
 | [[Wrestler/Kris Statlander\|Kris Statlander]] | 1 | 0 | 0 | 1 | 0.0% | 100.00 |
 | [[Wrestler/Kurt Angle\|Kurt Angle]] | 42 | 16 | 15 | 11 | 38.1% | 88.24 |

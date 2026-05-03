@@ -25,7 +25,7 @@ avg_rating: 86.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/akira-taue_stats.png" width="200"> | **⚪️✅❌❌❌**<br>**Loss:** Akira Taue vs. Daniel Bryan in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Kazuchika Okada vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Loss:** Chris Jericho vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Win:** Brock Lesnar vs. Akira Taue in [[Events/2026-04-14 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-04-14)<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/akira-taue_stats.png" width="200"> | **⚪️✅❌❌❌**<br>**Loss:** Akira Taue vs. Daniel Bryan in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Kazuchika Okada vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Chris Jericho vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Brock Lesnar vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Draw:** Iron Man Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (6x)
@@ -35,11 +35,11 @@ avg_rating: 86.0
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (4x)
 
 ## Häufigste Partner
-- [[Wrestler/KONOSUKE TAKESHITA\|KONOSUKE TAKESHITA]] (9x)
+- [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] (12x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (8x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (4x)
-- [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] (3x)
 - [[Wrestler/Adam Page\|Adam Page]] (2x)
+- [[Wrestler/Jon Moxley\|Jon Moxley]] (2x)
 
 ## Top Matches
 - 104%: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Akira Taue\|Akira Taue]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)

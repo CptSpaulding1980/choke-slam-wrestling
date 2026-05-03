@@ -39,7 +39,7 @@ title: Choke Slam World Championship
 <tr><td>[[Wrestler/Big Van Vader\|Big Van Vader]]</td><td>1</td><td>2</td><td>194 Tage</td><td>194 Tage</td></tr>
 <tr><td>[[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>1</td><td>3</td><td>244 Tage</td><td>244 Tage</td></tr>
 <tr><td>[[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>4</td><td>612 Tage</td><td>612 Tage</td></tr>
-<tr><td>[[Wrestler/Steve Austin\|Steve Austin]]</td><td>1</td><td>3</td><td>211 Tage</td><td>211 Tage</td></tr>
+<tr><td>[[Wrestler/Steve Austin\|Steve Austin]]</td><td>1</td><td>3</td><td>213 Tage</td><td>213 Tage</td></tr>
 </tbody>
 </table>
 

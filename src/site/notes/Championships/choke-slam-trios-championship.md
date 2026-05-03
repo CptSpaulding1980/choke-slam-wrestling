@@ -34,7 +34,7 @@ title: Choke Slam Trios Championship
 <tr><td>[[Wrestler/Laredo Kid\|Laredo Kid]]</td><td>1</td><td>0</td><td>162 Tage</td><td>162 Tage</td></tr>
 <tr><td>[[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] & [[Wrestler/Bandido\|Bandido]] & [[Wrestler/Fit Finlay\|Fit Finlay]]</td><td>1</td><td>0</td><td>0 Tage</td><td>0 Tage</td></tr>
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Lex Luger\|Lex Luger]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>1</td><td>0</td><td>0 Tage</td><td>0 Tage</td></tr>
-<tr><td>[[Wrestler/Edge\|Edge]] & [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>1</td><td>262 Tage</td><td>262 Tage</td></tr>
+<tr><td>[[Wrestler/Edge\|Edge]] & [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>1</td><td>264 Tage</td><td>264 Tage</td></tr>
 </tbody>
 </table>
 

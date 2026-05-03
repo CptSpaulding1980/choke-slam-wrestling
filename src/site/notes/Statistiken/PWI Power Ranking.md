@@ -7,7 +7,7 @@ noteIcon: "🏆"
 
 # 🏆 PWI Power Ranking – S07
 
-> **Stand:** 2026-05-03 22:19 | **Matches:** 183 | **Wrestler geranked:** 59 | **Events:** 10
+> **Stand:** 2026-05-03 22:20 | **Matches:** 183 | **Wrestler geranked:** 59 | **Events:** 10
 
 **Scoring:** PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus
 
@@ -76,8 +76,8 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | Choke Slam International Championship | **Chris Jericho** | +15 |
 | Choke Slam Womens Championship | **Awesome Kong** | +15 |
 | Choke Slam Tag Team Championship | **Chris Jericho, Kazuchika Okada** | +10 |
-| Choke Slam Trios Championship | **Hendrique Delafuente, Bandido, Fit Finlay** | +8 |
-| Choke Slam World Trios Champions | **Edge, Kensuke Sasaki, Roman Reigns** | +8 |
+| Choke Slam Trios Championship | **Edge, Kensuke Sasaki, Roman Reigns** | +8 |
+| Choke Slam World Trios Champions | **—** | +8 |
 
 ## 👥 Tag Teams Top 25
 
@@ -177,11 +177,6 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | 2025-08-12 | **Hendrique Delafuente, Bandido, Fit Finlay** | El Hijo del Vikingo, Myzteziz Jr., Laredo Kid | S07E02_King & Queen of the Ring |
 | 2025-08-12 | **Daniel Bryan, Lex Luger, Wardlow** | Hendrique Delafuente, Bandido, Fit Finlay | S07E02_King & Queen of the Ring |
 | 2025-08-12 | **Edge, Kensuke Sasaki, Roman Reigns** | Daniel Bryan, Lex Luger, Wardlow | S07E02_King & Queen of the Ring |
-
-### 🏆 Choke Slam World Trios Champions
-
-| Datum | Winner | Loser | Show |
-|-------|--------|-------|------|
 | 2026-03-16 | **Edge, Kensuke Sasaki, Roman Reigns** | Pete Dunne, Trent Seven, Tyler Bate | S07E08_Royal Rumble |
 
 ## 📊 Statistiken
@@ -200,4 +195,4 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 ---
 *Auto-generiert vom Choke Slam PWI Power Ranking Generator*
-*Stand: 2026-05-03 22:19*
+*Stand: 2026-05-03 22:20*

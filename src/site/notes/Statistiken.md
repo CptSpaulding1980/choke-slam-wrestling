@@ -10,4 +10,4 @@ Interessante Statistiken zum Stöbern:
 - [[Statistiken/Top 25 Matches\|Top 25 Matches]]
 - [[Statistiken/Worst 25 Matches\|Worst 25 Matches]]
 - [[Statistiken/Globale Statistiken\|Globale Statistiken]]
-- [[Statistiken/PWI Top 50\|🏆 PWI Top 50 Power Ranking]]
+- [[Statistiken/PWI Power Ranking\|🏆 PWI Power Ranking Power Ranking]]

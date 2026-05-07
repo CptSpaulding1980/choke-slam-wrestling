@@ -6,7 +6,7 @@ date: "2022-02-21"
 promotion: "Choke Slam Wrestling"
 venue: "1st Mariner Arena"
 location: "Baltimore, Maryland, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
+image: "{{ site.baseurl }}/img/posters/S04E08_Fan_Favourites.png"
 ---
 
 # <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S04E08_Fan Favourites**
@@ -14,6 +14,8 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 **Date:** 2022-02-21
 
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
+
+<img src="/img/posters/S04E08_Fan_Favourites.png" width="250">
 
 ## Matches
 

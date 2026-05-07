@@ -16,6 +16,7 @@ image: "{{ site.baseurl }}/img/posters/2026-03-03-s07e08-royal-rumble_poster.png
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
 
 <img src="/img/posters/2026-03-03-s07e08-royal-rumble_poster.png" width="250">
+<img src="/img/posters/S07E08_Royal.Rumble.png" width="250">
 
 ## Matches
 

@@ -5,12 +5,12 @@ title: Christian Cage
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Christian_Cage.png
-matches: 37
-wins: 18
-losses: 11
+matches: 40
+wins: 19
+losses: 13
 draws: 8
-win_percent: 48.6
-avg_rating: 85.08
+win_percent: 47.5
+avg_rating: 84.28
 ---
 
 # Christian Cage
@@ -20,12 +20,12 @@ avg_rating: 85.08
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 37 | 18 | 11 | 8 | 48.6% | 85.08 |
+| 40 | 19 | 13 | 8 | 47.5% | 84.28 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/christian-cage_stats.png" width="200"> | **❌⚪️❌⚪️✅**<br>**Win:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Christian Cage, The Blade, & The Butcher vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** Exhibition 1 - Cage Match in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br>**Loss:** Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Christian Cage & Tetsuya Naito in [[Events/2022-06-28 - S04E09_Royal Rumble\|S04E09_Royal Rumble]] (2022-06-28)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 99% vs. Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes |
+| <img src="/img/charts/christian-cage_stats.png" width="200"> | **⚪️✅❌✅❌**<br>**Loss:** Gauntlet 2: Christian Cage vs. Hiroshi Tanahashi in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Gauntlet 1: Christian Cage vs. Gangrel in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Akira Taue vs. Christian Cage in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 99% vs. Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (9x)

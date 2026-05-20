@@ -5,12 +5,12 @@ title: Sasha Banks
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sasha_Banks.png
-matches: 15
-wins: 8
+matches: 18
+wins: 11
 losses: 4
 draws: 3
-win_percent: 53.3
-avg_rating: 87.73
+win_percent: 61.1
+avg_rating: 88.39
 ---
 
 # Sasha Banks
@@ -20,19 +20,19 @@ avg_rating: 87.73
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 15 | 8 | 4 | 3 | 53.3% | 87.73 |
+| 18 | 11 | 4 | 3 | 61.1% | 88.39 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sasha-banks_stats.png" width="200"> | **❌✅✅❌✅**<br>**Win:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Steel Cage Match: Wardlow vs. Becky Lynch vs. Edge vs. Sasha Banks in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Submission Match: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Submission: Saint Rebel Radicalz vsSaint Rebel Radiclaz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Steel Cage: Wardlow vs. Sasha Banks in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Jon Moxley\|Jon Moxley]]<br>**Best Match:** 100% vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks |
+| <img src="/img/charts/sasha-banks_stats.png" width="200"> | **❌✅✅✅✅**<br>**Win:** Choke Slam Womens Championship: Sasha Banks vs. Awesome Kong (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Womens #1 Contender: Kamille vs. Lady Apache vs. Lita vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Lady Apache vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Steel Cage Match: Wardlow vs. Becky Lynch vs. Edge vs. Sasha Banks in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Jon Moxley\|Jon Moxley]]<br>**Best Match:** 100% vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks |
 
 ## Häufigste Gegner
-- [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
+- [[Wrestler/Lady Apache\|Lady Apache]] (4x)
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
 - [[Wrestler/Edge\|Edge]] (3x)
 - [[Wrestler/Wardlow\|Wardlow]] (3x)
-- [[Wrestler/Becky Lynch\|Becky Lynch]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Jon Moxley\|Jon Moxley]] (3x)

@@ -5,12 +5,12 @@ title: Kazuchika Okada
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kazuchika_Okada.png
-matches: 82
-wins: 55
-losses: 20
+matches: 85
+wins: 56
+losses: 22
 draws: 7
-win_percent: 67.1
-avg_rating: 84.96
+win_percent: 65.9
+avg_rating: 84.86
 ---
 
 # Kazuchika Okada
@@ -20,23 +20,23 @@ avg_rating: 84.96
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 82 | 55 | 20 | 7 | 67.1% | 84.96 |
+| 85 | 56 | 22 | 7 | 65.9% | 84.86 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **✅✅✅❌❌**<br>**Loss:** Semi Finals: Hiroshi Tanahashi vs. Kazuchika Okada in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Daniel Bryan vs. Kazuchika Okada in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Kazuchika Okada vs. Brock Lesnar in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Kazuchika Okada vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Chris Jericho vs. Kazuchika Okada in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
+| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **❌❌❌❌✅**<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Trios Tournament: Saint Rebel Radicalz vs. Pinnacle in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Trios Tournament: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Semi Finals: Hiroshi Tanahashi vs. Kazuchika Okada in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Daniel Bryan vs. Kazuchika Okada in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (12x)
 - [[Wrestler/KENTA\|KENTA]] (9x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (9x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (8x)
 - [[Wrestler/Kane\|Kane]] (7x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)
 
 ## Häufigste Partner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (10x)
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (8x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (9x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (4x)
 - [[Wrestler/Brock Lesnar\|Brock Lesnar]] (4x)

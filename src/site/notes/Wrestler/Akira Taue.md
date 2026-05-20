@@ -5,12 +5,12 @@ title: Akira Taue
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png
-matches: 28
-wins: 8
-losses: 17
+matches: 30
+wins: 9
+losses: 18
 draws: 3
-win_percent: 28.6
-avg_rating: 86.0
+win_percent: 30.0
+avg_rating: 85.4
 ---
 
 # Akira Taue
@@ -20,12 +20,12 @@ avg_rating: 86.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 28 | 8 | 17 | 3 | 28.6% | 86.00 |
+| 30 | 9 | 18 | 3 | 30.0% | 85.40 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/akira-taue_stats.png" width="200"> | **❌❌❌❌✅**<br>**Win:** Brock Lesnar vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Chris Jericho vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Kazuchika Okada vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Akira Taue vs. Daniel Bryan in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/akira-taue_stats.png" width="200"> | **❌❌✅✅❌**<br>**Loss:** Gauntlet 3: Hiroshi Tanahashi vs. Akira Taue in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Akira Taue vs. Christian Cage in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Brock Lesnar vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Chris Jericho vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Kazuchika Okada vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (6x)

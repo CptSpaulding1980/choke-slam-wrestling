@@ -5,12 +5,12 @@ title: Pascal LePas
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png
-matches: 6
+matches: 7
 wins: 0
-losses: 2
+losses: 3
 draws: 4
 win_percent: 0.0
-avg_rating: 92.0
+avg_rating: 88.57
 ---
 
 # Pascal LePas
@@ -20,23 +20,24 @@ avg_rating: 92.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 6 | 0 | 2 | 4 | 0.0% | 92.00 |
+| 7 | 0 | 3 | 4 | 0.0% | 88.57 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/pascal-lepas_stats.png" width="200"> | **❌❌⚪️⚪️⚪️**<br>**Draw:** Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Draw:** Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Loss:** Saint Rebel Radicalz vs. Dink  & Hornswoggle in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br>**Loss:** Threeway Fiasko in [[Events/2022-06-28 - S04E09_Royal Rumble\|S04E09_Royal Rumble]] (2022-06-28)<br> | **Nemesis:** [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]]<br>**Partner:** [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]]<br>**Best Match:** 100% vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente |
+| <img src="/img/charts/pascal-lepas_stats.png" width="200"> | **❌⚪️⚪️⚪️❌**<br>**Loss:** Special Referee Wendi Richter - Winner gets Owen Hart: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Draw:** Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Draw:** Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Loss:** Saint Rebel Radicalz vs. Dink  & Hornswoggle in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]]<br>**Partner:** [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]]<br>**Best Match:** 100% vs. Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente |
 
 ## Häufigste Gegner
 - [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)
 - [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (4x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (2x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
-- [[Wrestler/Dink\|Dink]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] (1x)
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
 
 ## Top Matches
 - 100%: Interview Segment /w [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] & [[Wrestler/Pascal LePas\|Pascal LePas]] & [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)

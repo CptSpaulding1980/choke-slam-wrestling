@@ -5,12 +5,12 @@ title: Roman Reigns
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Roman_Reigns.png
-matches: 87
-wins: 46
-losses: 28
+matches: 91
+wins: 47
+losses: 31
 draws: 13
-win_percent: 52.9
-avg_rating: 87.56
+win_percent: 51.6
+avg_rating: 87.38
 ---
 
 # Roman Reigns
@@ -20,12 +20,12 @@ avg_rating: 87.56
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 87 | 46 | 28 | 13 | 52.9% | 87.56 |
+| 91 | 47 | 31 | 13 | 51.6% | 87.38 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/roman-reigns_stats.png" width="200"> | **✅❌❌✅✅**<br>**Win:** Choke Slam Trios Championship: Pete Dunne, Trent Seven & Tyler Bate vs. Kensuke Sasaki, Edge & Roman Reigns (c)  in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Militanter Mummenschanz (c) in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Jay White vs. Tommaso Ciampa vs. Roman Reigns in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Akira Taue vs. Roman Reigns vs. Daniel Bryan in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Win:** Chris Benoit vs. Tommaso Ciampa vs. Roman Reigns in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
+| <img src="/img/charts/roman-reigns_stats.png" width="200"> | **✅❌❌❌✅**<br>**Win:** Roman Reigns vs. Jay White in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Trios Tournament: Saint Rebel Radicalz vs. Pinnacle in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Trios Tournament: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Choke Slam Trios Championship: Pete Dunne, Trent Seven & Tyler Bate vs. Kensuke Sasaki, Edge & Roman Reigns (c)  in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (14x)
@@ -36,7 +36,7 @@ avg_rating: 87.56
 
 ## Häufigste Partner
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (8x)
-- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (7x)
+- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (8x)
 - [[Wrestler/Jon Moxley\|Jon Moxley]] (6x)
 - [[Wrestler/Triple H\|Triple H]] (6x)
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)

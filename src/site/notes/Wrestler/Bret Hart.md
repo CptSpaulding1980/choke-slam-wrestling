@@ -5,12 +5,12 @@ title: Bret Hart
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bret_Hart.png
-matches: 97
-wins: 42
-losses: 39
+matches: 102
+wins: 46
+losses: 40
 draws: 16
-win_percent: 43.3
-avg_rating: 88.36
+win_percent: 45.1
+avg_rating: 88.07
 ---
 
 # Bret Hart
@@ -20,26 +20,26 @@ avg_rating: 88.36
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 97 | 42 | 39 | 16 | 43.3% | 88.36 |
+| 102 | 46 | 40 | 16 | 45.1% | 88.07 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bret-hart_stats.png" width="200"> | **✅✅⚪️✅❌**<br>**Loss:** Hiroshi Tanahashi vs. Bret Hart in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Bret Hart vs. Eddie Kingston in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Draw:** Bret Hart vs. Steve Austin in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Win:** Philipps Filler: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/bret-hart_stats.png" width="200"> | **✅✅✅✅❌**<br>**Loss:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Trios Tournament: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Trios Tournament: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Special Referee Wendi Richter - Winner gets Owen Hart: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Owen Hart\|Owen Hart]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (12x)
+- [[Wrestler/Jay White\|Jay White]] (12x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (11x)
-- [[Wrestler/Jay White\|Jay White]] (11x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (9x)
-- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (9x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (9x)
 
 ## Häufigste Partner
+- [[Wrestler/Owen Hart\|Owen Hart]] (15x)
 - [[Wrestler/Miro\|Miro]] (14x)
-- [[Wrestler/Owen Hart\|Owen Hart]] (11x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (8x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (6x)
 - [[Wrestler/CM Punk\|CM Punk]] (6x)
-- [[Wrestler/AJ Styles\|AJ Styles]] (5x)
 
 ## Top Matches
 - 103%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

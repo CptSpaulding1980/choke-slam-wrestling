@@ -5,12 +5,12 @@ title: Lady Apache
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png
-matches: 18
+matches: 20
 wins: 7
-losses: 10
+losses: 12
 draws: 1
-win_percent: 38.9
-avg_rating: 87.56
+win_percent: 35.0
+avg_rating: 87.85
 ---
 
 # Lady Apache
@@ -20,19 +20,19 @@ avg_rating: 87.56
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 18 | 7 | 10 | 1 | 38.9% | 87.56 |
+| 20 | 7 | 12 | 1 | 35.0% | 87.85 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/lady-apache_stats.png" width="200"> | **❌❌❌❌❌**<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Lighttube Landmine Match: Lady Apache vs. Edge vs. Jon Moxley vs.Takashi Sasaki in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Casino Royale: Lady Apache vs. Steve Austin vs. Brock Lesnar in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Bret Hart & Owen Hart vs. Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/lady-apache_stats.png" width="200"> | **❌❌❌❌❌**<br>**Loss:** Womens #1 Contender: Kamille vs. Lady Apache vs. Lita vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Lighttube Landmine Match: Lady Apache vs. Edge vs. Jon Moxley vs.Takashi Sasaki in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Casino Royale: Lady Apache vs. Steve Austin vs. Brock Lesnar in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
+- [[Wrestler/Sasha Banks\|Sasha Banks]] (4x)
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (4x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (3x)
 - [[Wrestler/Brock Lesnar\|Brock Lesnar]] (3x)
-- [[Wrestler/Bandido\|Bandido]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Wardlow\|Wardlow]] (6x)

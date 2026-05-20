@@ -5,12 +5,12 @@ title: Awesome Kong
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Awesome_Kong.png
-matches: 41
+matches: 42
 wins: 17
-losses: 16
+losses: 17
 draws: 8
-win_percent: 41.5
-avg_rating: 83.66
+win_percent: 40.5
+avg_rating: 83.9
 ---
 
 # Awesome Kong
@@ -20,12 +20,12 @@ avg_rating: 83.66
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 41 | 17 | 16 | 8 | 41.5% | 83.66 |
+| 42 | 17 | 17 | 8 | 40.5% | 83.90 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/awesome-kong_stats.png" width="200"> | **⚪️⚪️❌✅❌**<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Awesome Kong vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Iron Man: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
+| <img src="/img/charts/awesome-kong_stats.png" width="200"> | **⚪️❌✅❌❌**<br>**Loss:** Choke Slam Womens Championship: Sasha Banks vs. Awesome Kong (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Awesome Kong vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Iron Man: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)

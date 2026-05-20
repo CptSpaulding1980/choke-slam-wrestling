@@ -5,12 +5,12 @@ title: Lita
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lita.png
-matches: 10
+matches: 11
 wins: 2
-losses: 4
+losses: 5
 draws: 4
-win_percent: 20.0
-avg_rating: 89.6
+win_percent: 18.2
+avg_rating: 89.91
 ---
 
 # Lita
@@ -20,12 +20,12 @@ avg_rating: 89.6
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 10 | 2 | 4 | 4 | 20.0% | 89.60 |
+| 11 | 2 | 5 | 4 | 18.2% | 89.91 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/lita_stats.png" width="200"> | **❌✅⚪️❌⚪️**<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Saint Rebel Radicalz vs. Dr. Wagner Jr., Doug William & Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Shawn Michaels vs. Diesel vs. KENTA vs. Edge vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 100% vs. Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita |
+| <img src="/img/charts/lita_stats.png" width="200"> | **✅⚪️❌⚪️❌**<br>**Loss:** Womens #1 Contender: Kamille vs. Lady Apache vs. Lita vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Saint Rebel Radicalz vs. Dr. Wagner Jr., Doug William & Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 100% vs. Brutus Beefcake vs. Hollywood Hogan vs. Jonathan Gresham vs. Jay White vs. Roman Reigns vs. Seth Rollins vs. Bret Hart vs. Lita |
 
 ## Häufigste Gegner
 - [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (4x)
@@ -46,4 +46,4 @@ avg_rating: 89.6
 - 99%: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Lita\|Lita]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)
 - 99%: [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] vs. [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Lita\|Lita]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)
 - 96%: [[Wrestler/Shawn Michaels\|Shawn Michaels]] vs. [[Wrestler/Diesel\|Diesel]] vs. [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Edge\|Edge]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Lita\|Lita]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)
-- 92%: [[Royal Rumble]] Match in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)
+- 93%: Womens #1 Contender: [[Wrestler/Kamille\|Kamille]] vs. [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Lita\|Lita]] vs. [[Wrestler/Sasha Banks\|Sasha Banks]] in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)

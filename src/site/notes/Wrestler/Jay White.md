@@ -5,12 +5,12 @@ title: Jay White
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jay_White.png
-matches: 47
-wins: 17
-losses: 24
+matches: 50
+wins: 18
+losses: 26
 draws: 6
-win_percent: 36.2
-avg_rating: 87.38
+win_percent: 36.0
+avg_rating: 87.04
 ---
 
 # Jay White
@@ -20,15 +20,15 @@ avg_rating: 87.38
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 47 | 17 | 24 | 6 | 36.2% | 87.38 |
+| 50 | 18 | 26 | 6 | 36.0% | 87.04 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jay-white_stats.png" width="200"> | **✅❌✅❌❌**<br>**Loss:** Choke Slam World Championship: Jay White vs. Steve Austin (c) in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Barbed Wire Match: Adam Page vs. Edge vs. Jay White vs. Tommaso Ciampa in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Win:** War Games 3: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** War Games: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Win:** Jay White vs. Akira Taue vs. Tommaso Ciampa in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Jonathan Gresham\|Jonathan Gresham]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
+| <img src="/img/charts/jay-white_stats.png" width="200"> | **❌❌✅❌❌**<br>**Loss:** Roman Reigns vs. Jay White in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Trios Tournament: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Trios Tournament: Sweet 'n Sour Elite vs. Pinnacle in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Choke Slam World Championship: Jay White vs. Steve Austin (c) in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Barbed Wire Match: Adam Page vs. Edge vs. Jay White vs. Tommaso Ciampa in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Jonathan Gresham\|Jonathan Gresham]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart\|Bret Hart]] (10x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (11x)
 - [[Wrestler/Miro\|Miro]] (9x)
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (6x)
 - [[Wrestler/Jon Moxley\|Jon Moxley]] (6x)

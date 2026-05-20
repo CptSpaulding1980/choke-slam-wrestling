@@ -5,12 +5,12 @@ title: Hiroshi Tanahashi
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hiroshi_Tanahashi.png
-matches: 65
-wins: 41
+matches: 68
+wins: 44
 losses: 14
 draws: 10
-win_percent: 63.1
-avg_rating: 81.94
+win_percent: 64.7
+avg_rating: 81.74
 ---
 
 # Hiroshi Tanahashi
@@ -20,12 +20,12 @@ avg_rating: 81.94
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 65 | 41 | 14 | 10 | 63.1% | 81.94 |
+| 68 | 44 | 14 | 10 | 64.7% | 81.74 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/hiroshi-tanahashi_stats.png" width="200"> | **✅✅✅✅❌**<br>**Loss:** Final: Hiroshi Tanahashi vs. Daniel Bryan in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Semi Finals: Hiroshi Tanahashi vs. Kazuchika Okada in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Hiroshi Tanahashi vs. Bret Hart in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Konosuke Takeshita vs. Hiroshi Tanahashi in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Eddie Kingston vs. Hiroshi Tanahashi in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
+| <img src="/img/charts/hiroshi-tanahashi_stats.png" width="200"> | **✅❌✅✅✅**<br>**Win:** Gauntlet 4 - Choke Slam International Championship: Hiroshi Tanahashi vs. Chris Jericho (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Gauntlet 3: Hiroshi Tanahashi vs. Akira Taue in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Gauntlet 2: Christian Cage vs. Hiroshi Tanahashi in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Final: Hiroshi Tanahashi vs. Daniel Bryan in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Semi Finals: Hiroshi Tanahashi vs. Kazuchika Okada in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (15x)

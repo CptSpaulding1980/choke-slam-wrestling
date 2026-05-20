@@ -44,7 +44,7 @@ title: Choke Slam Tag Team Championship
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Edge\|Edge]]</td><td>1</td><td>0</td><td>9 Tage</td><td>9 Tage</td></tr>
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>0</td><td>22 Tage</td><td>22 Tage</td></tr>
-<tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>1</td><td>0</td><td>169 Tage</td><td>169 Tage</td></tr>
+<tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>1</td><td>1</td><td>183 Tage</td><td>183 Tage</td></tr>
 </tbody>
 </table>
 
@@ -72,6 +72,6 @@ title: Choke Slam Tag Team Championship
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>2025-08-21</td><td>[[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]</td><td>2025-10-27</td><td>67 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>2025-10-27</td><td>[[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]</td><td>2025-11-18</td><td>22 Tage</td><td>0</td></tr>
 <tr><td>Vacant</td><td>2025-11-18</td><td>[[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]]</td><td>2025-11-18</td><td>0 Tage</td><td>0</td></tr>
-<tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>2025-11-18</td><td>[[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
+<tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>2025-11-18</td><td>[[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]]</td><td>Current</td><td>aktuell</td><td>1</td></tr>
 </tbody>
 </table>

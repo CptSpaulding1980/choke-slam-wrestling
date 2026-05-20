@@ -8,14 +8,14 @@ title: Choke Slam Womens Championship
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_Womens_Championship.png" width="700">
 
 ## 👑 Aktuelle Champions (Singles)
-**[[Wrestler/Awesome Kong\|Awesome Kong]]**
+**[[Wrestler/Sasha Banks\|Sasha Banks]]**
 
 ## 📊 Statistiken
 <table>
 <thead><tr><th>Kategorie</th><th>Wert</th></tr></thead>
 <tbody>
-<tr><td><strong>Insgesamt Regentschaften</strong></td><td>8</td></tr>
-<tr><td><strong>Verschiedene Champions</strong></td><td>7</td></tr>
+<tr><td><strong>Insgesamt Regentschaften</strong></td><td>9</td></tr>
+<tr><td><strong>Verschiedene Champions</strong></td><td>8</td></tr>
 <tr><td><strong>Vakante Phasen</strong></td><td>0</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Kiana James\|Kiana James]] (2x)</td></tr>
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Kiana James\|Kiana James]] (327 Tage)</td></tr>
@@ -33,7 +33,8 @@ title: Choke Slam Womens Championship
 <tr><td>[[Wrestler/Alexa Bliss\|Alexa Bliss]]</td><td>1</td><td>1</td><td>285 Tage</td><td>285 Tage</td></tr>
 <tr><td>[[Wrestler/Tiffany Stratton\|Tiffany Stratton]]</td><td>1</td><td>0</td><td>72 Tage</td><td>72 Tage</td></tr>
 <tr><td>[[Wrestler/Fallon Henley\|Fallon Henley]]</td><td>1</td><td>0</td><td>65 Tage</td><td>65 Tage</td></tr>
-<tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>258 Tage</td><td>258 Tage</td></tr>
+<tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>267 Tage</td><td>267 Tage</td></tr>
+<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>0</td><td>5 Tage</td><td>5 Tage</td></tr>
 </tbody>
 </table>
 
@@ -48,6 +49,7 @@ title: Choke Slam Womens Championship
 <tr><td>[[Wrestler/Kiana James\|Kiana James]]</td><td>2024-04-10</td><td>[[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!]]</td><td>2025-03-03</td><td>327 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Fallon Henley\|Fallon Henley]]</td><td>2025-03-03</td><td>[[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]]</td><td>2025-05-07</td><td>65 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Kiana James\|Kiana James]]</td><td>2025-05-07</td><td>[[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]]</td><td>2025-08-21</td><td>106 Tage</td><td>0</td></tr>
-<tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>2025-08-21</td><td>[[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
+<tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>2025-08-21</td><td>[[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]</td><td>2026-05-15</td><td>267 Tage</td><td>0</td></tr>
+<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
 </tbody>
 </table>

@@ -5,12 +5,12 @@ title: Shawn Michaels
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Shawn_Michaels.png
-matches: 30
+matches: 31
 wins: 8
-losses: 17
+losses: 18
 draws: 5
-win_percent: 26.7
-avg_rating: 90.03
+win_percent: 25.8
+avg_rating: 89.52
 ---
 
 # Shawn Michaels
@@ -20,12 +20,12 @@ avg_rating: 90.03
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 30 | 8 | 17 | 5 | 26.7% | 90.03 |
+| 31 | 8 | 18 | 5 | 25.8% | 89.52 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/shawn-michaels_stats.png" width="200"> | **✅⚪️❌✅❌**<br>**Loss:** Bret Hart & Owen Hart vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Saint Rebel Radicalz vs. Dudes with Attitudes in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Win:** Militanter Mummenschanz vs. Aoife Valkyrie, Kurt Angle, Shawn Michaels, & Chris Hero in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Best Match:** 99% vs. Choke Slam Tag Team Championship: Shawn Michaels & Triple H vs. Bam Bam Bigelow & Big Van Vader (c) |
+| <img src="/img/charts/shawn-michaels_stats.png" width="200"> | **⚪️❌✅❌❌**<br>**Loss:** Round of 16: Shawn Michaels vs. Tetsuya Naito in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Loss:** Bret Hart & Owen Hart vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Bam Bam Bigelow & Big Van Vader vs. Dudes with Attitudes in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Saint Rebel Radicalz vs. Dudes with Attitudes in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Best Match:** 99% vs. Choke Slam Tag Team Championship: Shawn Michaels & Triple H vs. Bam Bam Bigelow & Big Van Vader (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (9x)

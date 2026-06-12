@@ -5,12 +5,12 @@ title: Randy Orton
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Randy_Orton.png
-matches: 13
+matches: 14
 wins: 7
 losses: 4
-draws: 2
-win_percent: 53.8
-avg_rating: 89.31
+draws: 3
+win_percent: 50.0
+avg_rating: 88.93
 ---
 
 # Randy Orton
@@ -20,12 +20,12 @@ avg_rating: 89.31
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 13 | 7 | 4 | 2 | 53.8% | 89.31 |
+| 14 | 7 | 4 | 3 | 50.0% | 88.93 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/randy-orton_stats.png" width="200"> | **❌❌✅⚪️⚪️**<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Win:** Saint Rebel Radicalz collide - Choke Slam World Championship: Big Van Vader  vs. Randy Orton (c) in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br>**Loss:** Randy Orton vs. Hulk Hogan in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br>**Loss:** AJ Styles vs. Randy Orton in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br> | **Nemesis:** [[Wrestler/Jerry Lawler\|Jerry Lawler]]<br>**Partner:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Best Match:** 100% vs. Threeway Fiasko im Käfig - Cage Match: The Undertaker vs. Sid Vicious vs. Randy Orton |
+| <img src="/img/charts/randy-orton_stats.png" width="200"> | **❌✅⚪️⚪️⚪️**<br>**Draw:** Round of 16: Steve Austin vs. Randy Orton in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Win:** Saint Rebel Radicalz collide - Choke Slam World Championship: Big Van Vader  vs. Randy Orton (c) in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br>**Loss:** Randy Orton vs. Hulk Hogan in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br> | **Nemesis:** [[Wrestler/Jerry Lawler\|Jerry Lawler]]<br>**Partner:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Best Match:** 100% vs. Threeway Fiasko im Käfig - Cage Match: The Undertaker vs. Sid Vicious vs. Randy Orton |
 
 ## Häufigste Gegner
 - [[Wrestler/Jerry Lawler\|Jerry Lawler]] (4x)

@@ -5,12 +5,12 @@ title: Bob Backlund
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bob_Backlund.png
-matches: 83
+matches: 84
 wins: 45
-losses: 26
+losses: 27
 draws: 12
-win_percent: 54.2
-avg_rating: 89.02
+win_percent: 53.6
+avg_rating: 88.74
 ---
 
 # Bob Backlund
@@ -20,19 +20,19 @@ avg_rating: 89.02
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 83 | 45 | 26 | 12 | 54.2% | 89.02 |
+| 84 | 45 | 27 | 12 | 53.6% | 88.74 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bob-backlund_stats.png" width="200"> | **✅❌✅✅⚪️**<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Sweet 'n Sour Elite vs. Bob Backlund, Kazuchika Okada, & Rey Fenix in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** AJ Styles vs. Bob Backlund in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br>**Loss:** Tama Tonga vs. Bob Backlund in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br>**Win:** Drew Gulak vs. Bob Backlund in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  |
+| <img src="/img/charts/bob-backlund_stats.png" width="200"> | **❌✅✅⚪️❌**<br>**Loss:** Round of 16: Bob Backlund vs. Christian Cage in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Sweet 'n Sour Elite vs. Bob Backlund, Kazuchika Okada, & Rey Fenix in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** AJ Styles vs. Bob Backlund in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br>**Loss:** Tama Tonga vs. Bob Backlund in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br> | **Nemesis:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 105% vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  |
 
 ## Häufigste Gegner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (12x)
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (10x)
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (9x)
 - [[Wrestler/Kane\|Kane]] (8x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (8x)
 
 ## Häufigste Partner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (12x)

@@ -5,12 +5,12 @@ title: Christian Cage
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Christian_Cage.png
-matches: 40
-wins: 19
+matches: 41
+wins: 20
 losses: 13
 draws: 8
-win_percent: 47.5
-avg_rating: 84.28
+win_percent: 48.8
+avg_rating: 83.8
 ---
 
 # Christian Cage
@@ -20,19 +20,19 @@ avg_rating: 84.28
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 40 | 19 | 13 | 8 | 47.5% | 84.28 |
+| 41 | 20 | 13 | 8 | 48.8% | 83.80 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/christian-cage_stats.png" width="200"> | **⚪️✅❌✅❌**<br>**Loss:** Gauntlet 2: Christian Cage vs. Hiroshi Tanahashi in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Gauntlet 1: Christian Cage vs. Gangrel in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Akira Taue vs. Christian Cage in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 99% vs. Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes |
+| <img src="/img/charts/christian-cage_stats.png" width="200"> | **✅❌✅❌✅**<br>**Win:** Round of 16: Bob Backlund vs. Christian Cage in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Loss:** Gauntlet 2: Christian Cage vs. Hiroshi Tanahashi in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Gauntlet 1: Christian Cage vs. Gangrel in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Akira Taue vs. Christian Cage in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 99% vs. Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (9x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (8x)
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (8x)
 - [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (7x)
 - [[Wrestler/Kane\|Kane]] (7x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)
 
 ## Häufigste Partner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (5x)

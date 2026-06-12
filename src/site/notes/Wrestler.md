@@ -6,7 +6,7 @@ tags: [index, wrestler]
 # Wrestler
 | Wrestler | Matches | Wins | Losses | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|---|
-| [[Wrestler/AJ Styles\|AJ Styles]] | 75 | 33 | 23 | 19 | 44.0% | 84.09 |
+| [[Wrestler/AJ Styles\|AJ Styles]] | 76 | 33 | 23 | 20 | 43.4% | 84.13 |
 | [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] | 2 | 0 | 0 | 2 | 0.0% | 90.00 |
 | [[Wrestler/Abismo Negro\|Abismo Negro]] | 1 | 0 | 0 | 1 | 0.0% | 100.00 |
 | [[Wrestler/Abyss\|Abyss]] | 1 | 0 | 0 | 1 | 0.0% | 95.00 |
@@ -16,7 +16,7 @@ tags: [index, wrestler]
 | [[Wrestler/Aero Star\|Aero Star]] | 3 | 1 | 2 | 0 | 33.3% | 98.67 |
 | [[Wrestler/Ahmed Johnson\|Ahmed Johnson]] | 1 | 0 | 0 | 1 | 0.0% | 95.00 |
 | [[Wrestler/Akira Hokuto\|Akira Hokuto]] | 5 | 1 | 3 | 1 | 20.0% | 85.60 |
-| [[Wrestler/Akira Taue\|Akira Taue]] | 30 | 9 | 18 | 3 | 30.0% | 85.40 |
+| [[Wrestler/Akira Taue\|Akira Taue]] | 32 | 9 | 18 | 5 | 28.1% | 80.06 |
 | [[Wrestler/Al Snow\|Al Snow]] | 3 | 0 | 3 | 0 | 0.0% | 86.67 |
 | [[Wrestler/Alberto El Patron\|Alberto El Patron]] | 2 | 0 | 1 | 1 | 0.0% | 94.00 |
 | [[Wrestler/Alex Wright\|Alex Wright]] | 4 | 1 | 2 | 1 | 25.0% | 90.75 |
@@ -32,7 +32,7 @@ tags: [index, wrestler]
 | [[Wrestler/Asuka\|Asuka]] | 4 | 3 | 0 | 1 | 75.0% | 87.50 |
 | [[Wrestler/Athena\|Athena]] | 1 | 0 | 0 | 1 | 0.0% | 88.00 |
 | [[Wrestler/Austin Aries\|Austin Aries]] | 21 | 6 | 13 | 2 | 28.6% | 86.43 |
-| [[Wrestler/Awesome Kong\|Awesome Kong]] | 42 | 17 | 17 | 8 | 40.5% | 83.90 |
+| [[Wrestler/Awesome Kong\|Awesome Kong]] | 43 | 17 | 17 | 9 | 39.5% | 81.95 |
 | [[Wrestler/Axel Tischer\|Axel Tischer]] | 4 | 0 | 3 | 1 | 0.0% | 83.00 |
 | [[Wrestler/Axiom\|Axiom]] | 3 | 1 | 2 | 0 | 33.3% | 76.67 |
 | [[Wrestler/Axl Rotten\|Axl Rotten]] | 3 | 1 | 2 | 0 | 33.3% | 91.33 |
@@ -56,7 +56,7 @@ tags: [index, wrestler]
 | [[Wrestler/Billy Gunn\|Billy Gunn]] | 4 | 1 | 2 | 1 | 25.0% | 94.25 |
 | [[Wrestler/Black Tiger\|Black Tiger]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
 | [[Wrestler/Blue Demon Jr.\|Blue Demon Jr.]] | 1 | 0 | 0 | 1 | 0.0% | 100.00 |
-| [[Wrestler/Bob Backlund\|Bob Backlund]] | 83 | 45 | 26 | 12 | 54.2% | 89.02 |
+| [[Wrestler/Bob Backlund\|Bob Backlund]] | 84 | 45 | 27 | 12 | 53.6% | 88.74 |
 | [[Wrestler/Bobby Eaton\|Bobby Eaton]] | 2 | 1 | 0 | 1 | 50.0% | 82.50 |
 | [[Wrestler/Bobby Fish\|Bobby Fish]] | 3 | 0 | 3 | 0 | 0.0% | 96.00 |
 | [[Wrestler/Bobby Heenan\|Bobby Heenan]] | 1 | 1 | 0 | 0 | 100.0% | 75.00 |
@@ -64,7 +64,7 @@ tags: [index, wrestler]
 | [[Wrestler/Booker T\|Booker T]] | 10 | 3 | 7 | 0 | 30.0% | 86.60 |
 | [[Wrestler/Brandon\|Brandon]] | 31 | 13 | 10 | 8 | 41.9% | 85.87 |
 | [[Wrestler/Braun Strowman\|Braun Strowman]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
-| [[Wrestler/Bret Hart\|Bret Hart]] | 102 | 46 | 40 | 16 | 45.1% | 88.07 |
+| [[Wrestler/Bret Hart\|Bret Hart]] | 105 | 46 | 40 | 19 | 43.8% | 86.30 |
 | [[Wrestler/Brian Cage\|Brian Cage]] | 3 | 0 | 0 | 3 | 0.0% | 94.33 |
 | [[Wrestler/Brian Pillman\|Brian Pillman]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
 | [[Wrestler/Britt Baker\|Britt Baker]] | 11 | 5 | 6 | 0 | 45.5% | 85.55 |
@@ -85,9 +85,9 @@ tags: [index, wrestler]
 | [[Wrestler/Chris Brookes\|Chris Brookes]] | 1 | 0 | 0 | 1 | 0.0% | 81.00 |
 | [[Wrestler/Chris Candido\|Chris Candido]] | 1 | 0 | 1 | 0 | 0.0% | 95.00 |
 | [[Wrestler/Chris Hero\|Chris Hero]] | 32 | 14 | 13 | 5 | 43.8% | 85.31 |
-| [[Wrestler/Chris Jericho\|Chris Jericho]] | 41 | 21 | 18 | 2 | 51.2% | 84.80 |
+| [[Wrestler/Chris Jericho\|Chris Jericho]] | 42 | 21 | 18 | 3 | 50.0% | 82.79 |
 | [[Wrestler/Christian\|Christian]] | 3 | 1 | 1 | 1 | 33.3% | 96.00 |
-| [[Wrestler/Christian Cage\|Christian Cage]] | 40 | 19 | 13 | 8 | 47.5% | 84.28 |
+| [[Wrestler/Christian Cage\|Christian Cage]] | 41 | 20 | 13 | 8 | 48.8% | 83.80 |
 | [[Wrestler/Christmas Creature\|Christmas Creature]] | 3 | 0 | 3 | 0 | 0.0% | 81.00 |
 | [[Wrestler/Christopher Daniels\|Christopher Daniels]] | 4 | 1 | 1 | 2 | 25.0% | 88.50 |
 | [[Wrestler/Chyna\|Chyna]] | 8 | 5 | 1 | 2 | 62.5% | 84.50 |
@@ -104,7 +104,7 @@ tags: [index, wrestler]
 | [[Wrestler/Dalton Castle\|Dalton Castle]] | 13 | 2 | 7 | 4 | 15.4% | 85.85 |
 | [[Wrestler/Damian Priest\|Damian Priest]] | 4 | 1 | 2 | 1 | 25.0% | 82.50 |
 | [[Wrestler/Damien Sandow\|Damien Sandow]] | 4 | 2 | 1 | 1 | 50.0% | 80.50 |
-| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 57 | 35 | 16 | 6 | 61.4% | 86.46 |
+| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 59 | 35 | 16 | 8 | 59.3% | 84.78 |
 | [[Wrestler/Darby Allin\|Darby Allin]] | 3 | 0 | 3 | 0 | 0.0% | 78.67 |
 | [[Wrestler/Dario Cueto\|Dario Cueto]] | 1 | 0 | 0 | 1 | 0.0% | 60.00 |
 | [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] | 11 | 4 | 4 | 3 | 36.4% | 89.45 |
@@ -152,7 +152,7 @@ tags: [index, wrestler]
 | [[Wrestler/Ethan Page\|Ethan Page]] | 3 | 1 | 1 | 1 | 33.3% | 93.67 |
 | [[Wrestler/Eugene\|Eugene]] | 1 | 0 | 1 | 0 | 0.0% | 89.00 |
 | [[Wrestler/Fabian Aichner\|Fabian Aichner]] | 3 | 2 | 1 | 0 | 66.7% | 78.33 |
-| [[Wrestler/Fallon Henley\|Fallon Henley]] | 12 | 4 | 6 | 2 | 33.3% | 79.08 |
+| [[Wrestler/Fallon Henley\|Fallon Henley]] | 13 | 4 | 7 | 2 | 30.8% | 78.38 |
 | [[Wrestler/Finn Bálor\|Finn Bálor]] | 18 | 9 | 7 | 2 | 50.0% | 85.61 |
 | [[Wrestler/Fit Finlay\|Fit Finlay]] | 21 | 3 | 11 | 7 | 14.3% | 90.10 |
 | [[Wrestler/Flash Morgan Webster\|Flash Morgan Webster]] | 3 | 2 | 1 | 0 | 66.7% | 89.33 |
@@ -177,7 +177,7 @@ tags: [index, wrestler]
 | [[Wrestler/Grand Master Sexay\|Grand Master Sexay]] | 3 | 2 | 1 | 0 | 66.7% | 88.67 |
 | [[Wrestler/Grayson Waller\|Grayson Waller]] | 24 | 8 | 9 | 7 | 33.3% | 89.04 |
 | [[Wrestler/Great Sasuke\|Great Sasuke]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
-| [[Wrestler/Gunther\|Gunther]] | 61 | 30 | 18 | 13 | 49.2% | 85.15 |
+| [[Wrestler/Gunther\|Gunther]] | 62 | 30 | 18 | 14 | 48.4% | 85.05 |
 | [[Wrestler/Hack Myers\|Hack Myers]] | 4 | 2 | 2 | 0 | 50.0% | 88.00 |
 | [[Wrestler/Hammerstone\|Hammerstone]] | 5 | 1 | 3 | 1 | 20.0% | 82.40 |
 | [[Wrestler/Harley Race\|Harley Race]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
@@ -188,12 +188,12 @@ tags: [index, wrestler]
 | [[Wrestler/Hiromu Takahashi\|Hiromu Takahashi]] | 7 | 3 | 3 | 1 | 42.9% | 86.71 |
 | [[Wrestler/Hirooki Goto\|Hirooki Goto]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
 | [[Wrestler/Hiroshi Hase\|Hiroshi Hase]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
-| [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 68 | 44 | 14 | 10 | 64.7% | 81.74 |
+| [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 69 | 45 | 14 | 10 | 65.2% | 81.57 |
 | [[Wrestler/Hiroyoshi Tenzan\|Hiroyoshi Tenzan]] | 1 | 0 | 0 | 1 | 0.0% | 100.00 |
 | [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] | 8 | 1 | 5 | 2 | 12.5% | 85.50 |
 | [[Wrestler/Honky Tonk Man\|Honky Tonk Man]] | 1 | 0 | 0 | 1 | 0.0% | 96.00 |
 | [[Wrestler/Hornswoggle\|Hornswoggle]] | 1 | 1 | 0 | 0 | 100.0% | 81.00 |
-| [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 71 | 34 | 25 | 12 | 47.9% | 86.83 |
+| [[Wrestler/Hulk Hogan\|Hulk Hogan]] | 72 | 34 | 25 | 13 | 47.2% | 86.83 |
 | [[Wrestler/Ian Rotten\|Ian Rotten]] | 3 | 1 | 2 | 0 | 33.3% | 91.33 |
 | [[Wrestler/Icárús\|Icárús]] | 1 | 0 | 0 | 1 | 0.0% | 96.00 |
 | [[Wrestler/Ikemen Jiro\|Ikemen Jiro]] | 8 | 5 | 2 | 1 | 62.5% | 83.88 |
@@ -213,7 +213,7 @@ tags: [index, wrestler]
 | [[Wrestler/James Hetfield\|James Hetfield]] | 3 | 2 | 1 | 0 | 66.7% | 74.67 |
 | [[Wrestler/Jamie Hayter\|Jamie Hayter]] | 1 | 0 | 1 | 0 | 0.0% | 93.00 |
 | [[Wrestler/Jay Briscoe\|Jay Briscoe]] | 3 | 1 | 0 | 2 | 33.3% | 88.00 |
-| [[Wrestler/Jay White\|Jay White]] | 50 | 18 | 26 | 6 | 36.0% | 87.04 |
+| [[Wrestler/Jay White\|Jay White]] | 51 | 18 | 26 | 7 | 35.3% | 86.78 |
 | [[Wrestler/Jeff Cobb\|Jeff Cobb]] | 11 | 5 | 4 | 2 | 45.5% | 84.73 |
 | [[Wrestler/Jeff Hardy\|Jeff Hardy]] | 5 | 4 | 1 | 0 | 80.0% | 81.40 |
 | [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] | 24 | 7 | 14 | 3 | 29.2% | 87.71 |
@@ -234,7 +234,8 @@ tags: [index, wrestler]
 | [[Wrestler/Johnny Gargano\|Johnny Gargano]] | 3 | 1 | 2 | 0 | 33.3% | 91.00 |
 | [[Wrestler/Johnny Grunge\|Johnny Grunge]] | 3 | 0 | 3 | 0 | 0.0% | 81.33 |
 | [[Wrestler/Johnny Mundo\|Johnny Mundo]] | 29 | 18 | 4 | 7 | 62.1% | 86.97 |
-| [[Wrestler/Jon Moxley\|Jon Moxley]] | 36 | 20 | 14 | 2 | 55.6% | 87.17 |
+| [[Wrestler/Johnny TV\|Johnny TV]] | 1 | 1 | 0 | 0 | 100.0% | 48.00 |
+| [[Wrestler/Jon Moxley\|Jon Moxley]] | 38 | 20 | 14 | 4 | 52.6% | 82.58 |
 | [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] | 38 | 12 | 17 | 9 | 31.6% | 85.92 |
 | [[Wrestler/Jordynne Grace\|Jordynne Grace]] | 12 | 3 | 6 | 3 | 25.0% | 83.83 |
 | [[Wrestler/Jumbo Tsuruta\|Jumbo Tsuruta]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
@@ -242,14 +243,14 @@ tags: [index, wrestler]
 | [[Wrestler/Jushin Liger\|Jushin Liger]] | 17 | 6 | 10 | 1 | 35.3% | 89.00 |
 | [[Wrestler/Justin Credible\|Justin Credible]] | 1 | 0 | 1 | 0 | 0.0% | 102.00 |
 | [[Wrestler/KENTA\|KENTA]] | 34 | 12 | 13 | 9 | 35.3% | 87.24 |
-| [[Wrestler/KUSHIDA\|KUSHIDA]] | 32 | 15 | 11 | 6 | 46.9% | 80.66 |
+| [[Wrestler/KUSHIDA\|KUSHIDA]] | 34 | 15 | 11 | 8 | 44.1% | 75.91 |
 | [[Wrestler/Kairi Sane\|Kairi Sane]] | 9 | 1 | 5 | 3 | 11.1% | 77.33 |
 | [[Wrestler/Kamala\|Kamala]] | 2 | 0 | 2 | 0 | 0.0% | 80.00 |
 | [[Wrestler/Kamille\|Kamille]] | 1 | 0 | 1 | 0 | 0.0% | 93.00 |
 | [[Wrestler/Kane\|Kane]] | 46 | 16 | 21 | 9 | 34.8% | 85.72 |
 | [[Wrestler/Karsten Beck\|Karsten Beck]] | 1 | 0 | 0 | 1 | 0.0% | 65.00 |
 | [[Wrestler/Katsuhiko Nakajima\|Katsuhiko Nakajima]] | 1 | 0 | 0 | 1 | 0.0% | 93.00 |
-| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 85 | 56 | 22 | 7 | 65.9% | 84.86 |
+| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 86 | 56 | 22 | 8 | 65.1% | 83.87 |
 | [[Wrestler/Kelly Klein\|Kelly Klein]] | 6 | 0 | 2 | 4 | 0.0% | 88.50 |
 | [[Wrestler/Ken Shamrock\|Ken Shamrock]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
 | [[Wrestler/Kenny\|Kenny]] | 4 | 1 | 3 | 0 | 25.0% | 74.25 |
@@ -275,7 +276,7 @@ tags: [index, wrestler]
 | [[Wrestler/Kyle Fletcher\|Kyle Fletcher]] | 3 | 2 | 1 | 0 | 66.7% | 92.67 |
 | [[Wrestler/Kyle O'Reilly\|Kyle O'Reilly]] | 3 | 0 | 3 | 0 | 0.0% | 96.00 |
 | [[Wrestler/La Parka\|La Parka]] | 1 | 0 | 0 | 1 | 0.0% | 85.00 |
-| [[Wrestler/Lady Apache\|Lady Apache]] | 20 | 7 | 12 | 1 | 35.0% | 87.85 |
+| [[Wrestler/Lady Apache\|Lady Apache]] | 22 | 7 | 12 | 3 | 31.8% | 79.86 |
 | [[Wrestler/Lance Storm\|Lance Storm]] | 8 | 6 | 1 | 1 | 75.0% | 90.00 |
 | [[Wrestler/Laredo Kid\|Laredo Kid]] | 42 | 14 | 19 | 9 | 33.3% | 84.24 |
 | [[Wrestler/Larry Zbyszko\|Larry Zbyszko]] | 16 | 7 | 5 | 4 | 43.8% | 81.88 |
@@ -316,7 +317,7 @@ tags: [index, wrestler]
 | [[Wrestler/Meng\|Meng]] | 3 | 0 | 2 | 1 | 0.0% | 81.00 |
 | [[Wrestler/Michael Hayes\|Michael Hayes]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
 | [[Wrestler/Michelle McCool\|Michelle McCool]] | 2 | 0 | 0 | 2 | 0.0% | 89.00 |
-| [[Wrestler/Mick Foley\|Mick Foley]] | 7 | 1 | 6 | 0 | 14.3% | 75.71 |
+| [[Wrestler/Mick Foley\|Mick Foley]] | 8 | 1 | 6 | 1 | 12.5% | 66.25 |
 | [[Wrestler/Mickie James\|Mickie James]] | 4 | 2 | 2 | 0 | 50.0% | 81.50 |
 | [[Wrestler/Mike Awesome\|Mike Awesome]] | 1 | 0 | 1 | 0 | 0.0% | 102.00 |
 | [[Wrestler/Mike Sharpe\|Mike Sharpe]] | 1 | 0 | 1 | 0 | 0.0% | 69.00 |
@@ -345,7 +346,7 @@ tags: [index, wrestler]
 | [[Wrestler/Omos\|Omos]] | 1 | 0 | 0 | 1 | 0.0% | 85.00 |
 | [[Wrestler/Orange Cassidy\|Orange Cassidy]] | 2 | 0 | 2 | 0 | 0.0% | 87.50 |
 | [[Wrestler/Otis\|Otis]] | 1 | 0 | 0 | 1 | 0.0% | 85.00 |
-| [[Wrestler/Owen Hart\|Owen Hart]] | 25 | 15 | 6 | 4 | 60.0% | 89.96 |
+| [[Wrestler/Owen Hart\|Owen Hart]] | 27 | 15 | 6 | 6 | 55.6% | 83.30 |
 | [[Wrestler/Oz\|Oz]] | 1 | 0 | 0 | 1 | 0.0% | 77.00 |
 | [[Wrestler/Pac\|Pac]] | 23 | 11 | 8 | 4 | 47.8% | 86.74 |
 | [[Wrestler/Pascal LePas\|Pascal LePas]] | 7 | 0 | 3 | 4 | 0.0% | 88.57 |
@@ -363,8 +364,8 @@ tags: [index, wrestler]
 | [[Wrestler/Prince Puma\|Prince Puma]] | 1 | 0 | 0 | 1 | 0.0% | 100.00 |
 | [[Wrestler/Puma King\|Puma King]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
 | [[Wrestler/R-Truth\|R-Truth]] | 1 | 0 | 1 | 0 | 0.0% | 100.00 |
-| [[Wrestler/Randy Orton\|Randy Orton]] | 13 | 7 | 4 | 2 | 53.8% | 89.31 |
-| [[Wrestler/Randy Savage\|Randy Savage]] | 82 | 41 | 30 | 11 | 50.0% | 84.55 |
+| [[Wrestler/Randy Orton\|Randy Orton]] | 14 | 7 | 4 | 3 | 50.0% | 88.93 |
+| [[Wrestler/Randy Savage\|Randy Savage]] | 85 | 41 | 31 | 13 | 48.2% | 82.13 |
 | [[Wrestler/Razor Ramon\|Razor Ramon]] | 3 | 0 | 1 | 2 | 0.0% | 88.00 |
 | [[Wrestler/Repo Man\|Repo Man]] | 1 | 0 | 1 | 0 | 0.0% | 89.00 |
 | [[Wrestler/Rey Escorpión\|Rey Escorpión]] | 10 | 3 | 4 | 3 | 30.0% | 87.10 |
@@ -391,7 +392,7 @@ tags: [index, wrestler]
 | [[Wrestler/Robert Dreissker\|Robert Dreissker]] | 3 | 2 | 1 | 0 | 66.7% | 98.00 |
 | [[Wrestler/Rocco Rock\|Rocco Rock]] | 3 | 0 | 3 | 0 | 0.0% | 81.33 |
 | [[Wrestler/Roddy Piper\|Roddy Piper]] | 2 | 0 | 1 | 1 | 0.0% | 81.50 |
-| [[Wrestler/Roman Reigns\|Roman Reigns]] | 91 | 47 | 31 | 13 | 51.6% | 87.38 |
+| [[Wrestler/Roman Reigns\|Roman Reigns]] | 92 | 47 | 31 | 14 | 51.1% | 86.43 |
 | [[Wrestler/Ron Simmons\|Ron Simmons]] | 1 | 0 | 1 | 0 | 0.0% | 73.00 |
 | [[Wrestler/Ronda Rousey\|Ronda Rousey]] | 2 | 0 | 0 | 2 | 0.0% | 89.00 |
 | [[Wrestler/Rusev\|Rusev]] | 1 | 0 | 1 | 0 | 0.0% | 105.00 |
@@ -404,7 +405,7 @@ tags: [index, wrestler]
 | [[Wrestler/Samoa Joe\|Samoa Joe]] | 12 | 2 | 6 | 4 | 16.7% | 86.17 |
 | [[Wrestler/Santino Marella\|Santino Marella]] | 4 | 1 | 2 | 1 | 25.0% | 87.75 |
 | [[Wrestler/Sara Del Rey\|Sara Del Rey]] | 13 | 2 | 6 | 5 | 15.4% | 84.85 |
-| [[Wrestler/Sasha Banks\|Sasha Banks]] | 18 | 11 | 4 | 3 | 61.1% | 88.39 |
+| [[Wrestler/Sasha Banks\|Sasha Banks]] | 20 | 11 | 4 | 5 | 55.0% | 79.55 |
 | [[Wrestler/Scott Hall\|Scott Hall]] | 2 | 0 | 1 | 1 | 0.0% | 75.00 |
 | [[Wrestler/Scott Steiner\|Scott Steiner]] | 4 | 2 | 1 | 1 | 50.0% | 82.00 |
 | [[Wrestler/Scotty 2 Hotty\|Scotty 2 Hotty]] | 3 | 2 | 1 | 0 | 66.7% | 88.67 |
@@ -413,7 +414,7 @@ tags: [index, wrestler]
 | [[Wrestler/Sexy Star\|Sexy Star]] | 5 | 1 | 1 | 3 | 20.0% | 86.20 |
 | [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] | 8 | 1 | 2 | 5 | 12.5% | 88.88 |
 | [[Wrestler/Shawn Daivari\|Shawn Daivari]] | 1 | 0 | 0 | 1 | 0.0% | 84.00 |
-| [[Wrestler/Shawn Michaels\|Shawn Michaels]] | 30 | 8 | 17 | 5 | 26.7% | 90.03 |
+| [[Wrestler/Shawn Michaels\|Shawn Michaels]] | 31 | 8 | 18 | 5 | 25.8% | 89.52 |
 | [[Wrestler/Shawn Spears\|Shawn Spears]] | 2 | 1 | 1 | 0 | 50.0% | 76.50 |
 | [[Wrestler/Shayna Baszler\|Shayna Baszler]] | 4 | 2 | 2 | 0 | 50.0% | 80.50 |
 | [[Wrestler/Sheamus\|Sheamus]] | 8 | 4 | 3 | 1 | 50.0% | 84.88 |
@@ -427,7 +428,7 @@ tags: [index, wrestler]
 | [[Wrestler/Sonjay Dutt\|Sonjay Dutt]] | 1 | 0 | 0 | 1 | 0.0% | 95.00 |
 | [[Wrestler/Sonny Kiss\|Sonny Kiss]] | 1 | 0 | 0 | 1 | 0.0% | 93.00 |
 | [[Wrestler/Stan Hansen\|Stan Hansen]] | 1 | 0 | 0 | 1 | 0.0% | 90.00 |
-| [[Wrestler/Steve Austin\|Steve Austin]] | 49 | 14 | 31 | 4 | 28.6% | 84.18 |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 51 | 14 | 31 | 6 | 27.5% | 82.53 |
 | [[Wrestler/Stevie Ray\|Stevie Ray]] | 4 | 1 | 3 | 0 | 25.0% | 90.00 |
 | [[Wrestler/Sting\|Sting]] | 23 | 9 | 7 | 7 | 39.1% | 85.65 |
 | [[Wrestler/Swerve Strickland\|Swerve Strickland]] | 25 | 10 | 9 | 6 | 40.0% | 85.56 |
@@ -446,7 +447,7 @@ tags: [index, wrestler]
 | [[Wrestler/Tensai\|Tensai]] | 1 | 0 | 1 | 0 | 0.0% | 94.00 |
 | [[Wrestler/Teoman\|Teoman]] | 2 | 0 | 0 | 2 | 0.0% | 95.00 |
 | [[Wrestler/Terry Funk\|Terry Funk]] | 4 | 2 | 1 | 1 | 50.0% | 84.50 |
-| [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 69 | 26 | 31 | 12 | 37.7% | 85.80 |
+| [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] | 70 | 27 | 31 | 12 | 38.6% | 85.63 |
 | [[Wrestler/Texano Jr.\|Texano Jr.]] | 9 | 2 | 4 | 3 | 22.2% | 89.11 |
 | [[Wrestler/The Blade\|The Blade]] | 15 | 3 | 8 | 4 | 20.0% | 82.47 |
 | [[Wrestler/The Butcher\|The Butcher]] | 17 | 7 | 7 | 3 | 41.2% | 83.00 |

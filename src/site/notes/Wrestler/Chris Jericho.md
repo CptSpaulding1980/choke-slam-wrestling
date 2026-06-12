@@ -5,12 +5,12 @@ title: Chris Jericho
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chris_Jericho.png
-matches: 41
+matches: 42
 wins: 21
 losses: 18
-draws: 2
-win_percent: 51.2
-avg_rating: 84.8
+draws: 3
+win_percent: 50.0
+avg_rating: 82.79
 ---
 
 # Chris Jericho
@@ -20,18 +20,18 @@ avg_rating: 84.8
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 41 | 21 | 18 | 2 | 51.2% | 84.80 |
+| 42 | 21 | 18 | 3 | 50.0% | 82.79 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/chris-jericho_stats.png" width="200"> | **✅❌❌❌✅**<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Gauntlet 4 - Choke Slam International Championship: Hiroshi Tanahashi vs. Chris Jericho (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Special Referee Wendi Richter - Winner gets Owen Hart: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Chris Jericho vs. Daniel Bryan in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Chris Jericho vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/chris-jericho_stats.png" width="200"> | **❌❌❌✅⚪️**<br>**Draw:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Gauntlet 4 - Choke Slam International Championship: Hiroshi Tanahashi vs. Chris Jericho (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Special Referee Wendi Richter - Winner gets Owen Hart: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Chris Jericho vs. Daniel Bryan in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (13x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (14x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (6x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (6x)
 - [[Wrestler/Wardlow\|Wardlow]] (6x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (5x)
 - [[Wrestler/Jay White\|Jay White]] (4x)
 
 ## Häufigste Partner

@@ -14,7 +14,7 @@ tags: [statistik]
 | 2023 | 203 |
 | 2024 | 260 |
 | 2025 | 183 |
-| 2026 | 61 |
+| 2026 | 75 |
 
 ## Matches pro Saison
 | Saison | Matches |
@@ -24,7 +24,7 @@ tags: [statistik]
 | S04 | 218 |
 | S05 | 243 |
 | S06 | 291 |
-| S07 | 200 |
+| S07 | 214 |
 
 ## Top 10 Siege
 | Wrestler | Siege |
@@ -33,7 +33,7 @@ tags: [statistik]
 | [[Wrestler/Roman Reigns\|Roman Reigns]] | 47 |
 | [[Wrestler/Bret Hart\|Bret Hart]] | 46 |
 | [[Wrestler/Bob Backlund\|Bob Backlund]] | 45 |
-| [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 44 |
+| [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 45 |
 | [[Wrestler/Randy Savage\|Randy Savage]] | 41 |
 | [[Wrestler/Triple H\|Triple H]] | 37 |
 | [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 35 |

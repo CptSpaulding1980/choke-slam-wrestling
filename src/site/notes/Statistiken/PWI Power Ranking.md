@@ -7,7 +7,7 @@ noteIcon: "🏆"
 
 # 🏆 PWI Power Ranking – S07
 
-> **Stand:** 2026-05-20 04:01 | **Matches:** 200 | **Wrestler geranked:** 59 | **Events:** 11
+> **Stand:** 2026-06-12 04:05 | **Matches:** 214 | **Wrestler geranked:** 59 | **Events:** 12
 
 **Scoring:** PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus
 
@@ -17,14 +17,14 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 | # | Wrestler | W | L | D | Win% | Ø★ | Pts |
 |:-:|----------|:-:|:-:|:-:|----:|----:|----:|
-| 1 | Daniel Bryan | 30 | 13 | 0 | 70% | 86 | 73 |
-| 2 | Hiroshi Tanahashi 🏆 | 15 | 1 | 2 | 83% | 82 | 70 |
+| 1 | Daniel Bryan | 30 | 13 | 1 | 68% | 86 | 74 |
+| 2 | Hiroshi Tanahashi 🏆 | 16 | 1 | 2 | 84% | 81 | 72 |
 | 3 | Sasha Banks 🏆 | 11 | 4 | 0 | 73% | 89 | 60 |
-| 4 | Bret Hart | 14 | 7 | 3 | 58% | 87 | 50 |
+| 4 | Bret Hart | 14 | 7 | 4 | 56% | 87 | 51 |
 | 5 | Chris Jericho | 21 | 18 | 0 | 54% | 84 | 49 |
 | 6 | Kazuchika Okada | 13 | 7 | 2 | 59% | 85 | 46 |
-| 7 | Roman Reigns | 14 | 11 | 0 | 56% | 90 | 44 |
-| 8 | Steve Austin 🏆 | 11 | 24 | 1 | 31% | 83 | 44 |
+| 7 | Steve Austin 🏆 | 11 | 24 | 2 | 30% | 83 | 45 |
+| 8 | Roman Reigns | 14 | 11 | 0 | 56% | 90 | 44 |
 | 9 | Kensuke Sasaki | 10 | 6 | 0 | 62% | 89 | 41 |
 | 10 | Awesome Kong | 12 | 12 | 2 | 46% | 83 | 39 |
 | 11 | Owen Hart | 6 | 1 | 0 | 86% | 88 | 37 |
@@ -37,8 +37,8 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | 18 | Jon Moxley | 5 | 4 | 0 | 56% | 83 | 31 |
 | 19 | Kevin Steen | 2 | 2 | 0 | 50% | 96 | 31 |
 | 20 | Lex Luger | 7 | 10 | 0 | 41% | 87 | 30 |
-| 21 | Tommaso Ciampa | 3 | 5 | 0 | 38% | 94 | 29 |
-| 22 | Gunther | 2 | 1 | 0 | 67% | 86 | 29 |
+| 21 | Gunther | 2 | 1 | 1 | 50% | 84 | 29 |
+| 22 | Tommaso Ciampa | 3 | 5 | 0 | 38% | 94 | 29 |
 | 23 | The Undertaker | 2 | 1 | 0 | 67% | 86 | 29 |
 | 24 | Cody Rhodes | 1 | 2 | 0 | 33% | 95 | 29 |
 | 25 | Oba Femi | 1 | 2 | 0 | 33% | 95 | 29 |
@@ -58,8 +58,8 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | 39 | Dominik Mysterio | 1 | 2 | 0 | 33% | 91 | 27 |
 | 40 | Finn Bálor | 1 | 2 | 0 | 33% | 91 | 27 |
 | 41 | Johnny Gargano | 1 | 2 | 0 | 33% | 91 | 27 |
-| 42 | Chris Benoit | 2 | 4 | 0 | 33% | 90 | 27 |
-| 43 | Jay White | 7 | 14 | 0 | 33% | 87 | 26 |
+| 42 | Jay White | 7 | 14 | 1 | 32% | 87 | 27 |
+| 43 | Chris Benoit | 2 | 4 | 0 | 33% | 90 | 27 |
 | 44 | Bobby Fish | 0 | 3 | 0 | 0% | 96 | 26 |
 | 45 | Kyle O'Reilly | 0 | 3 | 0 | 0% | 96 | 26 |
 | 46 | Pac | 1 | 3 | 0 | 25% | 88 | 25 |
@@ -114,29 +114,29 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 |-------|------|-------|--------|------:|
 | 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Jay White vs. Tommaso Ciampa vs. Roman Reigns | ★★★★★★ | 107 |
 | 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Lady Apache vs. Wardlow vs. Akira Taue | ★★★★★¼ | 104 |
-| 2025-08-21 00:00:00 | S07E03_Changes III | Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns | ★★★★★ | 102 |
 | 2025-08-12 00:00:00 | S07E02_King & Queen of the Ring | 1/8 Finals: Kevin Steen vs. Roman Reigns | ★★★★★ | 102 |
+| 2025-08-21 00:00:00 | S07E03_Changes III | Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns | ★★★★★ | 102 |
 | 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Bret Hart vs. Pete Dunne vs. Akira Taue | ★★★★★ | 101 |
-| 2025-06-03 00:00:00 | S07E01_Brave new World | Reveal Rumble | ★★★★★ | 100 |
-| 2026-05-01 00:00:00 | S07E09_Chokeslam Classic | Lighttube Landmine Match: Lady Apache vs. Edge vs. Jon Moxley vs.Takashi Sasaki | ★★★★★ | 100 |
+| 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Akira Taue vs. Roman Reigns vs. Daniel Bryan | ★★★★★ | 100 |
 | 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Chris Jericho vs. Daniel Bryan vs. Sasha Banks | ★★★★★ | 100 |
 | 2025-10-02 00:00:00 | S07E04 The Iron Chamber - Night 2 | Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) | ★★★★★ | 100 |
-| 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Akira Taue vs. Roman Reigns vs. Daniel Bryan | ★★★★★ | 100 |
 | 2025-11-18 00:00:00 | S07E06_War Games | Undisputed Era (Bobby Fish & Kyle O'Reilly) vs. Militanter Mummenschanz | ★★★★★ | 100 |
 | 2025-06-03 00:00:00 | S07E01_Brave new World | Bandido vs. Edge vs. Wardlow | ★★★★★ | 100 |
-| 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Kensuke Sasaki vs. Lady Apache vs. Bandido | ★★★★¾ | 99 |
+| 2026-05-01 00:00:00 | S07E09_Chokeslam Classic | Lighttube Landmine Match: Lady Apache vs. Edge vs. Jon Moxley vs.Takashi Sasaki | ★★★★★ | 100 |
+| 2025-06-03 00:00:00 | S07E01_Brave new World | Reveal Rumble | ★★★★★ | 100 |
+| 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho | ★★★★¾ | 99 |
 | 2025-12-30 00:00:00 | S07E07_Turbo Turnier | Dominik Mysterio & Finn Bálor vs. Militanter Mummenschanz | ★★★★¾ | 99 |
 | 2025-12-30 00:00:00 | S07E07_Turbo Turnier | Cody Rhodes & Oba Femi vs. Sweet 'n Sour Elite | ★★★★¾ | 99 |
-| 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho | ★★★★¾ | 99 |
 | 2025-06-03 00:00:00 | S07E01_Brave new World | Elimination: Militanter Mummenschanz vs. Saint Rebel Radicalz | ★★★★¾ | 99 |
-| 2025-08-21 00:00:00 | S07E03_Changes III | Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (Edgicho) (c) | ★★★★¾ | 98 |
-| 2026-05-01 00:00:00 | S07E09_Chokeslam Classic | Kazuchika Okada vs. Brock Lesnar | ★★★★¾ | 98 |
-| 2025-11-18 00:00:00 | S07E06_War Games | Saint Rebel Radicalz vs. Undisputed Era | ★★★★¾ | 98 |
-| 2025-08-12 00:00:00 | S07E02_King & Queen of the Ring | Special Referee Steve Austin - Non Title Match: Daniel Bryan vs. Roman Reigns | ★★★★¾ | 98 |
-| 2026-05-01 00:00:00 | S07E09_Chokeslam Classic | Daniel Bryan vs. Kazuchika Okada | ★★★★¾ | 98 |
+| 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Kensuke Sasaki vs. Lady Apache vs. Bandido | ★★★★¾ | 99 |
 | 2025-06-03 00:00:00 | S07E01_Brave new World | Street Fight: Militanter Mummenschanz vs. Sweet 'n Sour Elite | ★★★★¾ | 98 |
+| 2025-08-12 00:00:00 | S07E02_King & Queen of the Ring | Special Referee Steve Austin - Non Title Match: Daniel Bryan vs. Roman Reigns | ★★★★¾ | 98 |
+| 2025-11-18 00:00:00 | S07E06_War Games | Saint Rebel Radicalz vs. Undisputed Era | ★★★★¾ | 98 |
+| 2026-05-01 00:00:00 | S07E09_Chokeslam Classic | Kazuchika Okada vs. Brock Lesnar | ★★★★¾ | 98 |
+| 2025-08-21 00:00:00 | S07E03_Changes III | Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (Edgicho) (c) | ★★★★¾ | 98 |
+| 2026-05-01 00:00:00 | S07E09_Chokeslam Classic | Daniel Bryan vs. Kazuchika Okada | ★★★★¾ | 98 |
 | 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Edge vs. Awesome Kong vs. Pete Dunne | ★★★★¾ | 98 |
-| 2025-11-18 00:00:00 | S07E06_War Games | Big E & Kofi Kingston vs. Sweet 'n Sour Elite | ★★★★¾ | 97 |
+| 2025-10-27 00:00:00 | S07E05_Threeway Fiasko | Bandido vs. Sasha Banks vs. Pete Dunne | ★★★★¾ | 97 |
 
 ## 📜 Championship History
 
@@ -189,18 +189,18 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 ## 📊 Statistiken
 
-- **Winning Record (≥50%):** 19 Wrestler
-- **Losing Record (<50%):** 40 Wrestler
+- **Winning Record (≥50%):** 20 Wrestler
+- **Losing Record (<50%):** 39 Wrestler
 
 ### Top 5 – Meiste Siege
 | Wrestler | Wins |
 |----------|:----:|
 | Daniel Bryan | 30 |
 | Chris Jericho | 21 |
-| Hiroshi Tanahashi | 15 |
+| Hiroshi Tanahashi | 16 |
 | Bret Hart | 14 |
 | Roman Reigns | 14 |
 
 ---
 *Auto-generiert vom Choke Slam PWI Power Ranking Generator*
-*Stand: 2026-05-20 04:01*
+*Stand: 2026-06-12 04:05*

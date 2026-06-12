@@ -5,12 +5,12 @@ title: Gunther
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Gunther.png
-matches: 61
+matches: 62
 wins: 30
 losses: 18
-draws: 13
-win_percent: 49.2
-avg_rating: 85.15
+draws: 14
+win_percent: 48.4
+avg_rating: 85.05
 ---
 
 # Gunther
@@ -22,12 +22,12 @@ avg_rating: 85.15
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 61 | 30 | 18 | 13 | 49.2% | 85.15 |
+| 62 | 30 | 18 | 14 | 48.4% | 85.05 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/gunther_stats.png" width="200"> | **⚪️✅✅✅❌**<br>**Loss:** Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Path of God vs. Sweet 'n Sour Elite in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Draw:** Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
+| <img src="/img/charts/gunther_stats.png" width="200"> | **✅✅✅❌⚪️**<br>**Draw:** Round of 16: Bret Hart vs. Gunther in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Loss:** Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Path of God vs. Sweet 'n Sour Elite in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (10x)

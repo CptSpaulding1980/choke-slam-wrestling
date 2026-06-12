@@ -5,12 +5,12 @@ title: Awesome Kong
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Awesome_Kong.png
-matches: 42
+matches: 43
 wins: 17
 losses: 17
-draws: 8
-win_percent: 40.5
-avg_rating: 83.9
+draws: 9
+win_percent: 39.5
+avg_rating: 81.95
 ---
 
 # Awesome Kong
@@ -20,19 +20,19 @@ avg_rating: 83.9
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 42 | 17 | 17 | 8 | 40.5% | 83.90 |
+| 43 | 17 | 17 | 9 | 39.5% | 81.95 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/awesome-kong_stats.png" width="200"> | **⚪️❌✅❌❌**<br>**Loss:** Choke Slam Womens Championship: Sasha Banks vs. Awesome Kong (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Awesome Kong vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Iron Man: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
+| <img src="/img/charts/awesome-kong_stats.png" width="200"> | **❌✅❌❌⚪️**<br>**Draw:** Militanter Mummenschanz vs. Mankind, Awesome Kong, & Roman Reigns in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Loss:** Choke Slam Womens Championship: Sasha Banks vs. Awesome Kong (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Awesome Kong vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (5x)
 - [[Wrestler/Joey Janela\|Joey Janela]] (5x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (5x)
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (5x)
-- [[Wrestler/Akira Taue\|Akira Taue]] (5x)
 
 ## Häufigste Partner
 - [[Wrestler/Kane\|Kane]] (4x)

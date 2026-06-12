@@ -39,7 +39,7 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]]</td><td>1</td><td>1</td><td>79 Tage</td><td>79 Tage</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>1</td><td>0</td><td>200 Tage</td><td>200 Tage</td></tr>
-<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>0</td><td>5 Tage</td><td>5 Tage</td></tr>
+<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>0</td><td>28 Tage</td><td>28 Tage</td></tr>
 </tbody>
 </table>
 

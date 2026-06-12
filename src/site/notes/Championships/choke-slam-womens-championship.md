@@ -34,7 +34,7 @@ title: Choke Slam Womens Championship
 <tr><td>[[Wrestler/Tiffany Stratton\|Tiffany Stratton]]</td><td>1</td><td>0</td><td>72 Tage</td><td>72 Tage</td></tr>
 <tr><td>[[Wrestler/Fallon Henley\|Fallon Henley]]</td><td>1</td><td>0</td><td>65 Tage</td><td>65 Tage</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>267 Tage</td><td>267 Tage</td></tr>
-<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>0</td><td>5 Tage</td><td>5 Tage</td></tr>
+<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>0</td><td>28 Tage</td><td>28 Tage</td></tr>
 </tbody>
 </table>
 

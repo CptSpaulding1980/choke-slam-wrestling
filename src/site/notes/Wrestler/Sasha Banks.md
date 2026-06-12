@@ -5,12 +5,12 @@ title: Sasha Banks
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sasha_Banks.png
-matches: 18
+matches: 20
 wins: 11
 losses: 4
-draws: 3
-win_percent: 61.1
-avg_rating: 88.39
+draws: 5
+win_percent: 55.0
+avg_rating: 79.55
 ---
 
 # Sasha Banks
@@ -20,16 +20,16 @@ avg_rating: 88.39
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 18 | 11 | 4 | 3 | 61.1% | 88.39 |
+| 20 | 11 | 4 | 5 | 55.0% | 79.55 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sasha-banks_stats.png" width="200"> | **❌✅✅✅✅**<br>**Win:** Choke Slam Womens Championship: Sasha Banks vs. Awesome Kong (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Womens #1 Contender: Kamille vs. Lady Apache vs. Lita vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Lady Apache vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Steel Cage Match: Wardlow vs. Becky Lynch vs. Edge vs. Sasha Banks in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Jon Moxley\|Jon Moxley]]<br>**Best Match:** 100% vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks |
+| <img src="/img/charts/sasha-banks_stats.png" width="200"> | **✅✅✅⚪️⚪️**<br>**Draw:** Champion vs. Champion - Non Title: Sasha Banks vs. Steve Austin in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Draw:** Lady Apache vs. Sasha Banks in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Win:** Choke Slam Womens Championship: Sasha Banks vs. Awesome Kong (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Womens #1 Contender: Kamille vs. Lady Apache vs. Lita vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Lady Apache vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Lady Apache\|Lady Apache]]<br>**Partner:** [[Wrestler/Jon Moxley\|Jon Moxley]]<br>**Best Match:** 100% vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks |
 
 ## Häufigste Gegner
+- [[Wrestler/Lady Apache\|Lady Apache]] (5x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
-- [[Wrestler/Lady Apache\|Lady Apache]] (4x)
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
 - [[Wrestler/Edge\|Edge]] (3x)
 - [[Wrestler/Wardlow\|Wardlow]] (3x)

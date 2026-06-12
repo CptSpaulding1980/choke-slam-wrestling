@@ -5,12 +5,12 @@ title: AJ Styles
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/AJ_Styles.png
-matches: 75
+matches: 76
 wins: 33
 losses: 23
-draws: 19
-win_percent: 44.0
-avg_rating: 84.09
+draws: 20
+win_percent: 43.4
+avg_rating: 84.13
 ---
 
 # AJ Styles
@@ -20,19 +20,19 @@ avg_rating: 84.09
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 75 | 33 | 23 | 19 | 44.0% | 84.09 |
+| 76 | 33 | 23 | 20 | 43.4% | 84.13 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/aj-styles_stats.png" width="200"> | **❌✅⚪️✅⚪️**<br>**Draw:** Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Loss:** AJ Styles vs. Seth Rollins in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 102% vs. Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) |
+| <img src="/img/charts/aj-styles_stats.png" width="200"> | **✅⚪️✅⚪️⚪️**<br>**Draw:** Round of 16: Hulk Hogan vs. AJ Styles in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Draw:** Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 102% vs. Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (10x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (9x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (9x)
 - [[Wrestler/Miro\|Miro]] (9x)
 - [[Wrestler/Brandon\|Brandon]] (9x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (8x)
 
 ## Häufigste Partner
 - [[Wrestler/Miro\|Miro]] (6x)

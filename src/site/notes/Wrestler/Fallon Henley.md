@@ -5,12 +5,12 @@ title: Fallon Henley
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Fallon_Henley.png
-matches: 12
+matches: 13
 wins: 4
-losses: 6
+losses: 7
 draws: 2
-win_percent: 33.3
-avg_rating: 79.08
+win_percent: 30.8
+avg_rating: 78.38
 ---
 
 # Fallon Henley
@@ -20,12 +20,12 @@ avg_rating: 79.08
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 12 | 4 | 6 | 2 | 33.3% | 79.08 |
+| 13 | 4 | 7 | 2 | 30.8% | 78.38 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/fallon-henley_stats.png" width="200"> | **❌✅✅❌⚪️**<br>**Draw:** Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Choke Slam Womens Championship: Fallon Henley vs. Kiana James in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Choke Slam Womens Championship: Fallon Henley vs. Kiana James (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Win:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Kiana James\|Kiana James]]<br>**Partner:** [[Wrestler/Finn Bálor\|Finn Bálor]]<br>**Best Match:** 94% vs. Path of God vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/fallon-henley_stats.png" width="200"> | **✅✅❌⚪️❌**<br>**Loss:** Round of 16: Hiroshi Tanahashi vs. Fallon Henley in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Draw:** Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Choke Slam Womens Championship: Fallon Henley vs. Kiana James in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Choke Slam Womens Championship: Fallon Henley vs. Kiana James (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Win:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Kiana James\|Kiana James]]<br>**Partner:** [[Wrestler/Finn Bálor\|Finn Bálor]]<br>**Best Match:** 94% vs. Path of God vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Kiana James\|Kiana James]] (5x)

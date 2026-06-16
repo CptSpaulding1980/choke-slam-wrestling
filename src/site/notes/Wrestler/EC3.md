@@ -5,12 +5,12 @@ title: EC3
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/EC3.png
-matches: 24
-wins: 12
+matches: 25
+wins: 13
 losses: 7
 draws: 5
-win_percent: 50.0
-avg_rating: 84.46
+win_percent: 52.0
+avg_rating: 83.8
 ---
 
 # EC3
@@ -20,12 +20,12 @@ avg_rating: 84.46
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 24 | 12 | 7 | 5 | 50.0% | 84.46 |
+| 25 | 13 | 7 | 5 | 52.0% | 83.80 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ec3_stats.png" width="200"> | **✅✅❌⚪️⚪️**<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** EC3, Killer Kelly & Kevin Steen vs. Becky Lynch, Chris Hero & Angélico in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Shawn Michaels & Logan Paul vs. Militanter Mummenschanz in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Win:** EC3 & Philipp Brunkovic vs. Triple H & Iron Mike Tyson in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br> | **Nemesis:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Partner:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods |
+| <img src="/img/charts/ec3_stats.png" width="200"> | **✅❌⚪️⚪️✅**<br>**Win:** Saint Rebel Radicalz vs. EC3, Killer Kelly, & Kevin Owens in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** EC3, Killer Kelly & Kevin Steen vs. Becky Lynch, Chris Hero & Angélico in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Shawn Michaels & Logan Paul vs. Militanter Mummenschanz in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br> | **Nemesis:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Partner:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods |
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Hero\|Chris Hero]] (7x)
@@ -35,7 +35,7 @@ avg_rating: 84.46
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (5x)
 
 ## Häufigste Partner
-- [[Wrestler/Killer Kelly\|Killer Kelly]] (6x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (7x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (4x)
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (4x)
 - [[Wrestler/Ric Flair\|Ric Flair]] (2x)

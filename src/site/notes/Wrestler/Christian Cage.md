@@ -5,12 +5,12 @@ title: Christian Cage
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Christian_Cage.png
-matches: 41
+matches: 42
 wins: 20
-losses: 13
+losses: 14
 draws: 8
-win_percent: 48.8
-avg_rating: 83.8
+win_percent: 47.6
+avg_rating: 83.33
 ---
 
 # Christian Cage
@@ -20,15 +20,15 @@ avg_rating: 83.8
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 41 | 20 | 13 | 8 | 48.8% | 83.80 |
+| 42 | 20 | 14 | 8 | 47.6% | 83.33 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/christian-cage_stats.png" width="200"> | **✅❌✅❌✅**<br>**Win:** Round of 16: Bob Backlund vs. Christian Cage in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Loss:** Gauntlet 2: Christian Cage vs. Hiroshi Tanahashi in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Gauntlet 1: Christian Cage vs. Gangrel in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Akira Taue vs. Christian Cage in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 99% vs. Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes |
+| <img src="/img/charts/christian-cage_stats.png" width="200"> | **❌✅❌✅❌**<br>**Loss:** Final: Christian Cage vs. Tetsuya Naito in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Round of 16: Bob Backlund vs. Christian Cage in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Gauntlet 2: Christian Cage vs. Hiroshi Tanahashi in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Gauntlet 1: Christian Cage vs. Gangrel in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Akira Taue vs. Christian Cage in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 99% vs. Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes |
 
 ## Häufigste Gegner
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (9x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (10x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (8x)
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (8x)
 - [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (7x)

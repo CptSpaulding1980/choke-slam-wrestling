@@ -6,11 +6,11 @@ tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/KUSHIDA.png
 matches: 34
-wins: 15
+wins: 17
 losses: 11
-draws: 8
-win_percent: 44.1
-avg_rating: 75.91
+draws: 6
+win_percent: 50.0
+avg_rating: 80.53
 ---
 
 # KUSHIDA
@@ -20,12 +20,12 @@ avg_rating: 75.91
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 34 | 15 | 11 | 8 | 44.1% | 75.91 |
+| 34 | 17 | 11 | 6 | 50.0% | 80.53 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kushida_stats.png" width="200"> | **✅⚪️❌⚪️⚪️**<br>**Draw:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Draw:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Loss:** Path of God vs. André The Giant & Sami Zayn in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Draw:** Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Win:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Best Match:** 99% vs. Asuka vs. Rey Mysterio Jr. vs. KUSHIDA  vs. Kota Ibushi vs. Kazuchika Okada vs. Bryan Danielson vs. Tyler Bate |
+| <img src="/img/charts/kushida_stats.png" width="200"> | **✅⚪️❌✅✅**<br>**Win:** Sweet 'n Sour Elite vs. Fallon Henley, Finn Bálor, & KUSHIDA in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Path of God vs. André The Giant & Sami Zayn in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Draw:** Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Win:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Best Match:** 99% vs. Asuka vs. Rey Mysterio Jr. vs. KUSHIDA  vs. Kota Ibushi vs. Kazuchika Okada vs. Bryan Danielson vs. Tyler Bate |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (10x)
@@ -35,10 +35,10 @@ avg_rating: 75.91
 - [[Wrestler/Kiana James\|Kiana James]] (6x)
 
 ## Häufigste Partner
-- [[Wrestler/Randy Savage\|Randy Savage]] (10x)
-- [[Wrestler/Finn Bálor\|Finn Bálor]] (4x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (11x)
+- [[Wrestler/Finn Bálor\|Finn Bálor]] (5x)
+- [[Wrestler/Fallon Henley\|Fallon Henley]] (4x)
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (3x)
-- [[Wrestler/Fallon Henley\|Fallon Henley]] (3x)
 - [[Wrestler/Gunther\|Gunther]] (1x)
 
 ## Top Matches

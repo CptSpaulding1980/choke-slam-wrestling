@@ -22,7 +22,7 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 ## 📅 Die letzten Events
 | Datum | Show | Main Event |
 |---|---|---|
-| 2026-06-08 | [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] | Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage |
+| 2026-06-16 | [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] | Final: Christian Cage vs. Tetsuya Naito |
 | 2026-05-15 | [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] | Choke Slam World Championship: Daniel Bryan vs. Steve Austin (c) |
 | 2026-05-01 | [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] | Final: Hiroshi Tanahashi vs. Daniel Bryan |
 | 2026-03-16 | [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] | Royal Rumble |
@@ -40,11 +40,11 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 ## 🔥 Top Performer 2026
 | Wrestler | Siege |
 |---|---|
-| [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 13 |
-| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 12 |
-| [[Wrestler/Bret Hart\|Bret Hart]] | 9 |
-| [[Wrestler/Sasha Banks\|Sasha Banks]] | 6 |
-| [[Wrestler/Jon Moxley\|Jon Moxley]] | 5 |
+| [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 14 |
+| [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 13 |
+| [[Wrestler/Bret Hart\|Bret Hart]] | 10 |
+| [[Wrestler/Sasha Banks\|Sasha Banks]] | 7 |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 6 |
 
 ---
 ### 🧭 Navigation

@@ -5,12 +5,12 @@ title: Killer Kelly
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Killer_Kelly.png
-matches: 41
-wins: 11
+matches: 42
+wins: 12
 losses: 22
 draws: 8
-win_percent: 26.8
-avg_rating: 82.71
+win_percent: 28.6
+avg_rating: 82.36
 ---
 
 # Killer Kelly
@@ -20,12 +20,12 @@ avg_rating: 82.71
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 41 | 11 | 22 | 8 | 26.8% | 82.71 |
+| 42 | 12 | 22 | 8 | 28.6% | 82.36 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/killer-kelly_stats.png" width="200"> | **⚪️❌❌❌⚪️**<br>**Draw:** Dalton Castle & Killer Kelly vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Path of God vs. Killer Kelly & Dalton Castle in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Claudio Castagnoli & Pac vs. Killer Kelly & Dalton Castle in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Killer Kelly & Dalton Castle vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Christian Cage\|Christian Cage]]<br>**Partner:** [[Wrestler/Jeff Jarrett\|Jeff Jarrett]]<br>**Best Match:** 103% vs. Randy Savage vs. Killer Kelly vs. Bob Backlund |
+| <img src="/img/charts/killer-kelly_stats.png" width="200"> | **❌❌❌⚪️✅**<br>**Win:** Saint Rebel Radicalz vs. EC3, Killer Kelly, & Kevin Owens in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** Dalton Castle & Killer Kelly vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Path of God vs. Killer Kelly & Dalton Castle in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Claudio Castagnoli & Pac vs. Killer Kelly & Dalton Castle in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Killer Kelly & Dalton Castle vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br> | **Nemesis:** [[Wrestler/Christian Cage\|Christian Cage]]<br>**Partner:** [[Wrestler/Jeff Jarrett\|Jeff Jarrett]]<br>**Best Match:** 103% vs. Randy Savage vs. Killer Kelly vs. Bob Backlund |
 
 ## Häufigste Gegner
 - [[Wrestler/Christian Cage\|Christian Cage]] (8x)
@@ -36,7 +36,7 @@ avg_rating: 82.71
 
 ## Häufigste Partner
 - [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (9x)
-- [[Wrestler/EC3\|EC3]] (6x)
+- [[Wrestler/EC3\|EC3]] (7x)
 - [[Wrestler/Kevin Steen\|Kevin Steen]] (4x)
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
 - [[Wrestler/Dalton Castle\|Dalton Castle]] (3x)

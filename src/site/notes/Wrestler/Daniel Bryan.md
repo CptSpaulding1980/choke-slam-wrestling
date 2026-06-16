@@ -6,11 +6,11 @@ tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Daniel_Bryan.png
 matches: 59
-wins: 35
+wins: 36
 losses: 16
-draws: 8
-win_percent: 59.3
-avg_rating: 84.78
+draws: 7
+win_percent: 61.0
+avg_rating: 85.97
 ---
 
 # Daniel Bryan
@@ -22,12 +22,12 @@ avg_rating: 84.78
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 59 | 35 | 16 | 8 | 59.3% | 84.78 |
+| 59 | 36 | 16 | 7 | 61.0% | 85.97 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/daniel-bryan_stats.png" width="200"> | **✅✅❌⚪️⚪️**<br>**Draw:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Draw:** Round of 16: Daniel Bryan vs. Jay White in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Loss:** Choke Slam World Championship: Daniel Bryan vs. Steve Austin (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Trios Tournament: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/daniel-bryan_stats.png" width="200"> | **✅✅❌⚪️✅**<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** Round of 16: Daniel Bryan vs. Jay White in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam World Championship: Daniel Bryan vs. Steve Austin (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Trios Tournament: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (14x)
@@ -38,10 +38,10 @@ avg_rating: 84.78
 
 ## Häufigste Partner
 - [[Wrestler/Wardlow\|Wardlow]] (14x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (8x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (9x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (7x)
 - [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (5x)
-- [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (3x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (4x)
 
 ## Top Matches
 - 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)

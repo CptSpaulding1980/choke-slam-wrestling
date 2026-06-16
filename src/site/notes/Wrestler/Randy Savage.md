@@ -5,12 +5,12 @@ title: Randy Savage
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Randy_Savage.png
-matches: 85
-wins: 41
+matches: 84
+wins: 42
 losses: 31
-draws: 13
-win_percent: 48.2
-avg_rating: 82.13
+draws: 11
+win_percent: 50.0
+avg_rating: 84.02
 ---
 
 # Randy Savage
@@ -20,12 +20,12 @@ avg_rating: 82.13
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 85 | 41 | 31 | 13 | 48.2% | 82.13 |
+| 84 | 42 | 31 | 11 | 50.0% | 84.02 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/randy-savage_stats.png" width="200"> | **✅❌❌⚪️⚪️**<br>**Draw:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Draw:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Loss:** Round of 16: Randy Savage vs. Johnny TV in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Loss:** Choke Slam Tag Team Championship: Path of God vs. Sweet 'n Sour Elite in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Tag Team Championship #1 Cont. Finals in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/KUSHIDA\|KUSHIDA]]<br>**Best Match:** 104% vs. Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage |
+| <img src="/img/charts/randy-savage_stats.png" width="200"> | **❌✅❌❌✅**<br>**Win:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Round of 16: Randy Savage vs. Johnny TV in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Tag Team Championship: Path of God vs. Sweet 'n Sour Elite in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Tag Team Championship #1 Cont. Finals in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Choke Slam International Championship: Bret Hart vs. Finn Bálor vs. The Undertaker vs. Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/KUSHIDA\|KUSHIDA]]<br>**Best Match:** 104% vs. Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage |
 
 ## Häufigste Gegner
 - [[Wrestler/Bret Hart\|Bret Hart]] (13x)
@@ -35,7 +35,7 @@ avg_rating: 82.13
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (8x)
 
 ## Häufigste Partner
-- [[Wrestler/KUSHIDA\|KUSHIDA]] (10x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (11x)
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (4x)
 - [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] (4x)
 - [[Wrestler/Jay White\|Jay White]] (4x)

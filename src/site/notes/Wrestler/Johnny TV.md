@@ -5,12 +5,12 @@ title: Johnny TV
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Johnny_TV.png
-matches: 1
+matches: 2
 wins: 1
-losses: 0
+losses: 1
 draws: 0
-win_percent: 100.0
-avg_rating: 48.0
+win_percent: 50.0
+avg_rating: 59.5
 ---
 
 # Johnny TV
@@ -20,15 +20,17 @@ avg_rating: 48.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 1 | 1 | 0 | 0 | 100.0% | 48.00 |
+| 2 | 1 | 1 | 0 | 50.0% | 59.50 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/johnny-tv_stats.png" width="200"> | **✅**<br>**Win:** Round of 16: Randy Savage vs. Johnny TV in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 48% vs. Round of 16: Randy Savage vs. Johnny TV |
+| <img src="/img/charts/johnny-tv_stats.png" width="200"> | **✅❌**<br>**Loss:** Quarter Finals: Johnny TV vs. Hiroshi Tanahashi in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Round of 16: Randy Savage vs. Johnny TV in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 71% vs. Quarter Finals: Johnny TV vs. Hiroshi Tanahashi |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (1x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (1x)
 
 ## Top Matches
-- 48%: Round of 16: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Johnny TV\|Johnny TV]] in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)
+- 71%: Quarter Finals: [[Wrestler/Johnny TV\|Johnny TV]] vs. [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)
+- 48%: Round of 16: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Johnny TV\|Johnny TV]] in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)

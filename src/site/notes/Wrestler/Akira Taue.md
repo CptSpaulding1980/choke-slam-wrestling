@@ -7,10 +7,10 @@ tags:
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Akira_Taue.png
 matches: 32
 wins: 9
-losses: 18
-draws: 5
+losses: 20
+draws: 3
 win_percent: 28.1
-avg_rating: 80.06
+avg_rating: 84.97
 ---
 
 # Akira Taue
@@ -20,12 +20,12 @@ avg_rating: 80.06
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 32 | 9 | 18 | 5 | 28.1% | 80.06 |
+| 32 | 9 | 20 | 3 | 28.1% | 84.97 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/akira-taue_stats.png" width="200"> | **✅✅❌⚪️⚪️**<br>**Draw:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Draw:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-08 - S07E11_Tanzt!DerKönighstLaune\|S07E11_Tanzt!DerKönighstLaune]] (2026-06-08)<br>**Loss:** Gauntlet 3: Hiroshi Tanahashi vs. Akira Taue in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Akira Taue vs. Christian Cage in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Brock Lesnar vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/akira-taue_stats.png" width="200"> | **✅✅❌❌❌**<br>**Loss:** Sweet 'n Sour Elite vs. Fallon Henley, Finn Bálor, & KUSHIDA in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Gauntlet 3: Hiroshi Tanahashi vs. Akira Taue in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Akira Taue vs. Christian Cage in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Brock Lesnar vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (6x)
@@ -38,8 +38,8 @@ avg_rating: 80.06
 - [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] (12x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (8x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (4x)
+- [[Wrestler/Jon Moxley\|Jon Moxley]] (4x)
 - [[Wrestler/Adam Page\|Adam Page]] (2x)
-- [[Wrestler/Jon Moxley\|Jon Moxley]] (2x)
 
 ## Top Matches
 - 104%: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Akira Taue\|Akira Taue]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)

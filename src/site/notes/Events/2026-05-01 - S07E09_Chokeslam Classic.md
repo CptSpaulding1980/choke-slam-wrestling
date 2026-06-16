@@ -6,7 +6,7 @@ date: "2026-05-01"
 promotion: "Choke Slam Wrestling"
 venue: "Cow Palace"
 location: "San Fransisco, California, USA"
-image: "{{ site.baseurl }}/img/posters/2026-04-14-s07e09-chokeslam-classic_poster.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
 # <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E09_Chokeslam Classic**
@@ -14,8 +14,6 @@ image: "{{ site.baseurl }}/img/posters/2026-04-14-s07e09-chokeslam-classic_poste
 **Date:** 2026-05-01
 
 **Venue:** Cow Palace - San Fransisco, California, USA
-
-<img src="/img/posters/2026-04-14-s07e09-chokeslam-classic_poster.png" width="250">
 
 ## Matches
 

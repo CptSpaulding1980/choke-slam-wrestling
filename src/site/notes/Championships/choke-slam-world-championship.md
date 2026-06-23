@@ -19,7 +19,7 @@ title: Choke Slam World Championship
 <tr><td><strong>Vakante Phasen</strong></td><td>1</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)</td></tr>
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Roman Reigns\|Roman Reigns]] (612 Tage)</td></tr>
-<tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Bob Backlund\|Bob Backlund]] (5 Verteidigungen)</td></tr>
+<tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Steve Austin\|Steve Austin]] (6 Verteidigungen)</td></tr>
 </tbody>
 </table>
 
@@ -39,7 +39,7 @@ title: Choke Slam World Championship
 <tr><td>[[Wrestler/Big Van Vader\|Big Van Vader]]</td><td>1</td><td>2</td><td>194 Tage</td><td>194 Tage</td></tr>
 <tr><td>[[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>1</td><td>3</td><td>244 Tage</td><td>244 Tage</td></tr>
 <tr><td>[[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>4</td><td>612 Tage</td><td>612 Tage</td></tr>
-<tr><td>[[Wrestler/Steve Austin\|Steve Austin]]</td><td>1</td><td>4</td><td>258 Tage</td><td>258 Tage</td></tr>
+<tr><td>[[Wrestler/Steve Austin\|Steve Austin]]</td><td>1</td><td>6</td><td>265 Tage</td><td>265 Tage</td></tr>
 </tbody>
 </table>
 
@@ -61,6 +61,6 @@ title: Choke Slam World Championship
 <tr><td>[[Wrestler/Big Van Vader\|Big Van Vader]]</td><td>2022-11-17</td><td>[[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|2022-11-17 - S04E12_ChokeSlamMania IV - Day 2]]</td><td>2023-05-30</td><td>194 Tage</td><td>2</td></tr>
 <tr><td>[[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>2023-05-30</td><td>[[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]]</td><td>2024-01-29</td><td>244 Tage</td><td>3</td></tr>
 <tr><td>[[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>2024-01-29</td><td>[[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]]</td><td>2025-10-02</td><td>612 Tage</td><td>4</td></tr>
-<tr><td>[[Wrestler/Steve Austin\|Steve Austin]]</td><td>2025-10-02</td><td>[[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]]</td><td>Current</td><td>aktuell</td><td>4</td></tr>
+<tr><td>[[Wrestler/Steve Austin\|Steve Austin]]</td><td>2025-10-02</td><td>[[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]]</td><td>Current</td><td>aktuell</td><td>6</td></tr>
 </tbody>
 </table>

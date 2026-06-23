@@ -5,12 +5,12 @@ title: Owen Hart
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Owen_Hart.png
-matches: 27
-wins: 16
+matches: 28
+wins: 17
 losses: 7
 draws: 4
-win_percent: 59.3
-avg_rating: 89.22
+win_percent: 60.7
+avg_rating: 89.04
 ---
 
 # Owen Hart
@@ -20,12 +20,12 @@ avg_rating: 89.22
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 27 | 16 | 7 | 4 | 59.3% | 89.22 |
+| 28 | 17 | 7 | 4 | 60.7% | 89.04 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/owen-hart_stats.png" width="200"> | **✅✅❌❌✅**<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Trios Tournament: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Diesel\|Diesel]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 98% vs. Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/owen-hart_stats.png" width="200"> | **✅❌❌✅✅**<br>**Win:** 30 Minute Iron Man Match: Owen Hart vs. Pascal LePas in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Diesel\|Diesel]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 98% vs. Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
 - [[Wrestler/Diesel\|Diesel]] (5x)

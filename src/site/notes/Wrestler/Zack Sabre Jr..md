@@ -5,12 +5,12 @@ title: Zack Sabre Jr.
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Zack_Sabre_Jr..png
-matches: 27
-wins: 9
+matches: 28
+wins: 10
 losses: 13
 draws: 5
-win_percent: 33.3
-avg_rating: 86.63
+win_percent: 35.7
+avg_rating: 86.61
 ---
 
 # Zack Sabre Jr.
@@ -20,12 +20,12 @@ avg_rating: 86.63
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 27 | 9 | 13 | 5 | 33.3% | 86.63 |
+| 28 | 10 | 13 | 5 | 35.7% | 86.61 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/zack-sabre-jr_stats.png" width="200"> | **❌❌❌✅❌**<br>**Loss:** Sweet 'n Sour Elite vs. Diesel & Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Submission Vision: Bret Hart vs. Zack Sabre Jr. in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Submission Vision: Hiroshi Tanahashi vs. Zack Sabre Jr. in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Fly like an Eagle in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Joe Hendry\|Joe Hendry]]<br>**Best Match:** 100% vs. Kenny Omega vs. Zack Sabre Jr. |
+| <img src="/img/charts/zack-sabre-jr_stats.png" width="200"> | **❌❌✅❌✅**<br>**Win:** Choke Slam Tag Team Championship: Sweet 'n Sour Allstars vs. Saint Rebel Radicalz (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Sweet 'n Sour Elite vs. Diesel & Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Submission Vision: Bret Hart vs. Zack Sabre Jr. in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Submission Vision: Hiroshi Tanahashi vs. Zack Sabre Jr. in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Joe Hendry\|Joe Hendry]]<br>**Best Match:** 100% vs. Kenny Omega vs. Zack Sabre Jr. |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)

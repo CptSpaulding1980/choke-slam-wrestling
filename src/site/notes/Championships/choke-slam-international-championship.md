@@ -39,7 +39,7 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]]</td><td>1</td><td>1</td><td>79 Tage</td><td>79 Tage</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>1</td><td>0</td><td>200 Tage</td><td>200 Tage</td></tr>
-<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>0</td><td>33 Tage</td><td>33 Tage</td></tr>
+<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>1</td><td>40 Tage</td><td>40 Tage</td></tr>
 </tbody>
 </table>
 
@@ -61,6 +61,6 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]]</td><td>2025-06-03</td><td>[[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]]</td><td>2025-08-21</td><td>79 Tage</td><td>1</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>2025-08-21</td><td>[[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]</td><td>2025-10-27</td><td>67 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>2025-10-27</td><td>[[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]</td><td>2026-05-15</td><td>200 Tage</td><td>0</td></tr>
-<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
+<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>Current</td><td>aktuell</td><td>1</td></tr>
 </tbody>
 </table>

@@ -34,7 +34,7 @@ title: Choke Slam Womens Championship
 <tr><td>[[Wrestler/Tiffany Stratton\|Tiffany Stratton]]</td><td>1</td><td>0</td><td>72 Tage</td><td>72 Tage</td></tr>
 <tr><td>[[Wrestler/Fallon Henley\|Fallon Henley]]</td><td>1</td><td>0</td><td>65 Tage</td><td>65 Tage</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>267 Tage</td><td>267 Tage</td></tr>
-<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>0</td><td>33 Tage</td><td>33 Tage</td></tr>
+<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>1</td><td>40 Tage</td><td>40 Tage</td></tr>
 </tbody>
 </table>
 
@@ -50,6 +50,6 @@ title: Choke Slam Womens Championship
 <tr><td>[[Wrestler/Fallon Henley\|Fallon Henley]]</td><td>2025-03-03</td><td>[[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]]</td><td>2025-05-07</td><td>65 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Kiana James\|Kiana James]]</td><td>2025-05-07</td><td>[[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]]</td><td>2025-08-21</td><td>106 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>2025-08-21</td><td>[[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]</td><td>2026-05-15</td><td>267 Tage</td><td>0</td></tr>
-<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
+<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>Current</td><td>aktuell</td><td>1</td></tr>
 </tbody>
 </table>

@@ -5,12 +5,12 @@ title: Triple H
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Triple_H.png
-matches: 69
-wins: 37
+matches: 70
+wins: 38
 losses: 20
 draws: 12
-win_percent: 53.6
-avg_rating: 82.42
+win_percent: 54.3
+avg_rating: 82.59
 ---
 
 # Triple H
@@ -20,12 +20,12 @@ avg_rating: 82.42
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 69 | 37 | 20 | 12 | 53.6% | 82.42 |
+| 70 | 38 | 20 | 12 | 54.3% | 82.59 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/triple-h_stats.png" width="200"> | **❌✅❌✅⚪️**<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Path of God vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Loss:** Finn Bálor vs. Tatum Paxley vs. Triple H in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)<br>**Win:** Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)<br>**Loss:** Choke Slam Trios Champiosnhip - : Los Jinetes del Aire vs. Jun Akiyama, Roman Reigns, & Triple H in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 101% vs. Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H |
+| <img src="/img/charts/triple-h_stats.png" width="200"> | **✅❌✅⚪️✅**<br>**Win:** Gauntlet: Militanter Mummenschanz Allstars vs.- Saint Rebel Radicalz Allstars in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Path of God vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Loss:** Finn Bálor vs. Tatum Paxley vs. Triple H in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)<br>**Win:** Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 101% vs. Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H |
 
 ## Häufigste Gegner
 - [[Wrestler/The Undertaker\|The Undertaker]] (11x)

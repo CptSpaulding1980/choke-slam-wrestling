@@ -5,12 +5,12 @@ title: Wardlow
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wardlow.png
-matches: 33
+matches: 34
 wins: 14
-losses: 17
+losses: 18
 draws: 2
-win_percent: 42.4
-avg_rating: 87.82
+win_percent: 41.2
+avg_rating: 87.68
 ---
 
 # Wardlow
@@ -20,12 +20,12 @@ avg_rating: 87.82
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 33 | 14 | 17 | 2 | 42.4% | 87.82 |
+| 34 | 14 | 18 | 2 | 41.2% | 87.68 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/wardlow_stats.png" width="200"> | **✅❌❌❌✅**<br>**Win:** Trios Tournament: Saint Rebel Radicalz vs. Pinnacle in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Trios Tournament: Sweet 'n Sour Elite vs. Pinnacle in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Steel Cage Match: Wardlow vs. Becky Lynch vs. Edge vs. Sasha Banks in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Wardlow vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/wardlow_stats.png" width="200"> | **❌❌❌✅❌**<br>**Loss:** Brock Lesnar vs. Wardlow vs. Roman Reigns in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Trios Tournament: Saint Rebel Radicalz vs. Pinnacle in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Trios Tournament: Sweet 'n Sour Elite vs. Pinnacle in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Steel Cage Match: Wardlow vs. Becky Lynch vs. Edge vs. Sasha Banks in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
 - [[Wrestler/Edge\|Edge]] (8x)

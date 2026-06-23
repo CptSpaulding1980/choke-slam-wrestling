@@ -8,6 +8,7 @@ title: Events
 
 | Date | Event | Matches |
 |---|---|---|
+| 2026-06-23 | [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] | 10 |
 | 2026-06-16 | [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] | 19 |
 | 2026-05-15 | [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] | 17 |
 | 2026-05-01 | [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] | 28 |

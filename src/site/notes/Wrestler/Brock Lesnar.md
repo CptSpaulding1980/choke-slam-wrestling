@@ -5,12 +5,12 @@ title: Brock Lesnar
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Brock_Lesnar.png
-matches: 31
-wins: 14
+matches: 32
+wins: 15
 losses: 14
 draws: 3
-win_percent: 45.2
-avg_rating: 82.71
+win_percent: 46.9
+avg_rating: 82.72
 ---
 
 # Brock Lesnar
@@ -20,19 +20,19 @@ avg_rating: 82.71
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 31 | 14 | 14 | 3 | 45.2% | 82.71 |
+| 32 | 15 | 14 | 3 | 46.9% | 82.72 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/brock-lesnar_stats.png" width="200"> | **❌✅❌❌❌**<br>**Loss:** Brock Lesnar vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Kazuchika Okada vs. Brock Lesnar in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Brock Lesnar vs. Daniel Bryan in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Brock Lesnar vs. Chris Jericho in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Philipps Filler: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br> | **Nemesis:** [[Wrestler/Sting\|Sting]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 102% vs. Sting vs. Brock Lesnar |
+| <img src="/img/charts/brock-lesnar_stats.png" width="200"> | **✅❌❌❌✅**<br>**Win:** Brock Lesnar vs. Wardlow vs. Roman Reigns in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Brock Lesnar vs. Akira Taue in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Kazuchika Okada vs. Brock Lesnar in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Loss:** Brock Lesnar vs. Daniel Bryan in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Brock Lesnar vs. Chris Jericho in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Sting\|Sting]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 102% vs. Sting vs. Brock Lesnar |
 
 ## Häufigste Gegner
 - [[Wrestler/Sting\|Sting]] (5x)
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
+- [[Wrestler/Wardlow\|Wardlow]] (5x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (4x)
 - [[Wrestler/Tommy End\|Tommy End]] (4x)
-- [[Wrestler/Jay White\|Jay White]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (7x)

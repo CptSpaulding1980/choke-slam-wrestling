@@ -8,14 +8,14 @@ title: Choke Slam Tag Team Championship
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_Tag_Team_Championship.png" width="700">
 
 ## 👑 Aktuelle Champions (Tag Team)
-**[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]**
+**[[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]**
 
 ## 📊 Statistiken
 <table>
 <thead><tr><th>Kategorie</th><th>Wert</th></tr></thead>
 <tbody>
-<tr><td><strong>Insgesamt Regentschaften</strong></td><td>19</td></tr>
-<tr><td><strong>Verschiedene Champions</strong></td><td>18</td></tr>
+<tr><td><strong>Insgesamt Regentschaften</strong></td><td>20</td></tr>
+<tr><td><strong>Verschiedene Champions</strong></td><td>19</td></tr>
 <tr><td><strong>Vakante Phasen</strong></td><td>2</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Christian Cage\|Christian Cage]] & [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (2x)</td></tr>
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Jon Moxley\|Jon Moxley]] (354 Tage)</td></tr>
@@ -44,7 +44,8 @@ title: Choke Slam Tag Team Championship
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Edge\|Edge]]</td><td>1</td><td>0</td><td>9 Tage</td><td>9 Tage</td></tr>
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>0</td><td>22 Tage</td><td>22 Tage</td></tr>
-<tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>1</td><td>1</td><td>211 Tage</td><td>211 Tage</td></tr>
+<tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>1</td><td>1</td><td>217 Tage</td><td>217 Tage</td></tr>
+<tr><td>[[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]</td><td>1</td><td>0</td><td>1 Tage</td><td>1 Tage</td></tr>
 </tbody>
 </table>
 
@@ -72,6 +73,7 @@ title: Choke Slam Tag Team Championship
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>2025-08-21</td><td>[[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]</td><td>2025-10-27</td><td>67 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>2025-10-27</td><td>[[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]</td><td>2025-11-18</td><td>22 Tage</td><td>0</td></tr>
 <tr><td>Vacant</td><td>2025-11-18</td><td>[[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]]</td><td>2025-11-18</td><td>0 Tage</td><td>0</td></tr>
-<tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>2025-11-18</td><td>[[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]]</td><td>Current</td><td>aktuell</td><td>1</td></tr>
+<tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>2025-11-18</td><td>[[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]]</td><td>2026-06-23</td><td>217 Tage</td><td>1</td></tr>
+<tr><td>[[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]</td><td>2026-06-23</td><td>[[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|2026-06-23 - S07E12_ChokeSlamMania VII]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
 </tbody>
 </table>

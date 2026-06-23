@@ -5,12 +5,12 @@ title: Chris Jericho
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chris_Jericho.png
-matches: 43
+matches: 44
 wins: 21
-losses: 20
+losses: 21
 draws: 2
-win_percent: 48.8
-avg_rating: 84.07
+win_percent: 47.7
+avg_rating: 84.11
 ---
 
 # Chris Jericho
@@ -20,12 +20,12 @@ avg_rating: 84.07
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 43 | 21 | 20 | 2 | 48.8% | 84.07 |
+| 44 | 21 | 21 | 2 | 47.7% | 84.11 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/chris-jericho_stats.png" width="200"> | **❌❌✅❌❌**<br>**Loss:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Saint Rebel Radicalz vs. EC3, Killer Kelly, & Kevin Owens in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Gauntlet 4 - Choke Slam International Championship: Hiroshi Tanahashi vs. Chris Jericho (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Special Referee Wendi Richter - Winner gets Owen Hart: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/chris-jericho_stats.png" width="200"> | **❌✅❌❌❌**<br>**Loss:** Choke Slam Tag Team Championship: Sweet 'n Sour Allstars vs. Saint Rebel Radicalz (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Saint Rebel Radicalz vs. EC3, Killer Kelly, & Kevin Owens in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Gauntlet 4 - Choke Slam International Championship: Hiroshi Tanahashi vs. Chris Jericho (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (14x)
@@ -35,8 +35,8 @@ avg_rating: 84.07
 - [[Wrestler/Jay White\|Jay White]] (4x)
 
 ## Häufigste Partner
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (11x)
 - [[Wrestler/Edge\|Edge]] (10x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (10x)
 - [[Wrestler/Brock Lesnar\|Brock Lesnar]] (7x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (2x)

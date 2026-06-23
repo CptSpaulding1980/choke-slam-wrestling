@@ -5,12 +5,12 @@ title: Awesome Kong
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Awesome_Kong.png
-matches: 44
+matches: 45
 wins: 18
-losses: 18
+losses: 19
 draws: 8
-win_percent: 40.9
-avg_rating: 83.68
+win_percent: 40.0
+avg_rating: 83.96
 ---
 
 # Awesome Kong
@@ -20,12 +20,12 @@ avg_rating: 83.68
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 44 | 18 | 18 | 8 | 40.9% | 83.68 |
+| 45 | 18 | 19 | 8 | 40.0% | 83.96 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/awesome-kong_stats.png" width="200"> | **✅❌❌❌✅**<br>**Win:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Saint Rebel Radicalz vs. EC3, Killer Kelly, & Kevin Owens in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Womens Championship: Sasha Banks vs. Awesome Kong (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br>**Win:** Awesome Kong vs. Vic Grimes in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
+| <img src="/img/charts/awesome-kong_stats.png" width="200"> | **❌❌❌✅❌**<br>**Loss:** Choke Slam Womens Championship: Awesome Kong vs. Lady Apache vs. Sasha Banks (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Saint Rebel Radicalz vs. EC3, Killer Kelly, & Kevin Owens in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Womens Championship: Sasha Banks vs. Awesome Kong (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)

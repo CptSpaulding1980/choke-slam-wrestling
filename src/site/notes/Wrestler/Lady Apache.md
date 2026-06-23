@@ -5,12 +5,12 @@ title: Lady Apache
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png
-matches: 22
+matches: 23
 wins: 7
-losses: 14
+losses: 15
 draws: 1
-win_percent: 31.8
-avg_rating: 87.91
+win_percent: 30.4
+avg_rating: 88.26
 ---
 
 # Lady Apache
@@ -20,16 +20,16 @@ avg_rating: 87.91
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 22 | 7 | 14 | 1 | 31.8% | 87.91 |
+| 23 | 7 | 15 | 1 | 30.4% | 88.26 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/lady-apache_stats.png" width="200"> | **❌❌❌❌❌**<br>**Loss:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Lady Apache vs. Sasha Banks in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Womens #1 Contender: Kamille vs. Lady Apache vs. Lita vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Awesome Kong\|Awesome Kong]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
+| <img src="/img/charts/lady-apache_stats.png" width="200"> | **❌❌❌❌❌**<br>**Loss:** Choke Slam Womens Championship: Awesome Kong vs. Lady Apache vs. Sasha Banks (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Lady Apache vs. Sasha Banks in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Womens #1 Contender: Kamille vs. Lady Apache vs. Lita vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Sasha Banks in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Sasha Banks\|Sasha Banks]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 104% vs. Lady Apache vs. Wardlow vs. Akira Taue |
 
 ## Häufigste Gegner
+- [[Wrestler/Sasha Banks\|Sasha Banks]] (6x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (5x)
-- [[Wrestler/Sasha Banks\|Sasha Banks]] (5x)
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (4x)
 - [[Wrestler/Steve Austin\|Steve Austin]] (3x)
 - [[Wrestler/Brock Lesnar\|Brock Lesnar]] (3x)

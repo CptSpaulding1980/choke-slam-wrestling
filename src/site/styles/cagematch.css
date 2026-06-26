@@ -144,7 +144,7 @@ a:hover {
 .sidebar ul {
   list-style: none;
   padding: 0;
-  margin-top: 20px; 
+  padding-top: 160px;        /* Platz für Banner (130px) + Burger-Abstand */
   margin: 0;
   width: 100%;
   text-align: left;
@@ -322,7 +322,7 @@ table, .table {
   margin: 1.5rem auto;
   padding-top: 2em;
   padding-right: var(--content-gutter);
-  padding-left: calc(var(--sidebar-collapsed) + 40px);  /* 60px: Sidebar (20+20) + 20px Luft */
+  padding-left: calc(var(--sidebar-collapsed) + 20px);  /* 40px: Sidebar (20p+20border) + 0 gap */
   flex-grow: 1;
   box-sizing: border-box;
   transition: margin-left 0.3s ease;

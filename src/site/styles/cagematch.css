@@ -322,7 +322,7 @@ table, .table {
   margin: 1.5rem auto;
   padding-top: 2em;
   padding-right: var(--content-gutter);
-  padding-left: calc(var(--sidebar-collapsed) + 20px);
+  padding-left: calc(var(--sidebar-collapsed) + 40px);  /* 60px: Sidebar (20+20) + 20px Luft */
   flex-grow: 1;
   box-sizing: border-box;
   transition: margin-left 0.3s ease;

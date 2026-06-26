@@ -328,10 +328,9 @@ table, .table {
   max-width: none;
   width: auto;
   margin: 1.5rem var(--content-gutter);
-  margin-left: calc(var(--sidebar-collapsed) + 20px + var(--content-gutter));  /* Sidebar + Border + Abstand */
   padding-top: 2em;
   padding-right: 0;
-  padding-left: 0;
+  padding-left: var(--content-gutter);  /* 40px Abstand zur Sidebar */
   flex-grow: 1;
   box-sizing: border-box;
   transition: margin-left 0.3s ease;
@@ -373,56 +372,12 @@ body.menu-open .content {
     display: block;
     overflow-x: auto;
     white-space: nowrap;
-    font-size: 0.9rem;
   }
 
   table th, table td {
-    min-width: 80px;
-    padding: 10px 8px;
+    min-width: 100px;
+    padding: 14px 16px;
   }
-
-  /* Content: weniger Rand, Sidebar-Platz einkalkuliert */
-  .main-container, .content {
-    margin-left: 45px !important;  /* Sidebar (20px width + 20px border + 5px gap) */
-    margin-right: 8px !important;
-  }
-
-  /* Sidebar: schmal & ohne dicken Border auf Mobile */
-  .sidebar {
-    width: 20px;
-    border-left-width: 10px !important;
-  }
-
-  .sidebar .burger {
-    left: 15px !important;    /* Zentriert in Sidebar (30px / 2) */
-    font-size: 20px;
-    padding: 3px 5px;
-    margin-top: 90px;
-  }
-
-  .sidebar ul {
-    padding-top: 110px;
-  }
-
-  /* Banner-Höhe anpassen */
-  .site-banner {
-    height: 60px;
-  }
-
-  body {
-    padding-top: 70px !important;
-    font-size: 15px;
-  }
-
-  /* Bilder responsiv */
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-
-  h1 { font-size: 1.5rem; }
-  h2 { font-size: 1.25rem; }
-  h3 { font-size: 1.1rem; }
 }
 
 /* Damit sehr breite Tabellen nicht das Layout sprengen */

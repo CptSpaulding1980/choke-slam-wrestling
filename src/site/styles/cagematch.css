@@ -368,16 +368,47 @@ body.menu-open .content {
 /* Mobile-Ansicht (kleine Bildschirme) */
 @media (max-width: 991px) {
   table, .table {
-    table-layout: auto; /* Spalten können sich dynamisch anpassen */
+    table-layout: auto;
     width: 100%;
     display: block;
-    overflow-x: auto; /* horizontales Scrollen ermöglichen */
-    white-space: nowrap; /* Inhalte bleiben in einer Zeile */
+    overflow-x: auto;
+    white-space: nowrap;
   }
 
   table th, table td {
-    min-width: 100px; /* Mindestbreite für jede Spalte */
+    min-width: 100px;
     padding: 14px 16px;
+  }
+
+  /* Content: weniger Rand auf Mobile */
+  .main-container, .content {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+  }
+
+  /* Sidebar: schmaler auf Mobile, nur als Overlay */
+  .sidebar {
+    width: 16px;
+  }
+
+  .sidebar .burger {
+    left: 8px;
+    font-size: 22px;
+    padding: 3px 5px;
+    margin-top: 130px;
+  }
+
+  .sidebar ul {
+    padding-top: 150px;
+  }
+
+  /* Banner-Höhe anpassen */
+  .site-banner {
+    height: 80px;
+  }
+
+  body {
+    padding-top: 90px !important;
   }
 }
 

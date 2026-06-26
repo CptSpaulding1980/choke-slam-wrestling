@@ -57,9 +57,9 @@
 </td></tr>
 <tr>
 <td>
-<b>S07E11 — Tanzt! Der König hat Laune</b><br>
+<b>S07E10 — Night of Champions</b><br>
 <audio controls>
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E11.mp3" type="audio/mpeg">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E10_Review-Podcast_Night_of_Champions.mp3" type="audio/mpeg">
 </audio>
 </td></tr>
 <tr>

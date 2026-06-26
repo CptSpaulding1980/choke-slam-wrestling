@@ -132,15 +132,14 @@ a:hover {
   background: none;
   border: none;
   margin-top: 140px;
-  margin-left: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  transition: left 0.3s, transform 0.3s;
   font-size: 28px;
   color: white;
   cursor: pointer;
-  z-index: 4000; /* sicherstellen, dass Zahl immer größer als die vom Banner und der Sidebar ist */
-  position: relative;
+  z-index: 4000;
+  position: fixed;           /* fixiert am Viewport, bewegt sich nicht mit Sidebar */
+  left: calc(var(--sidebar-collapsed) / 2);  /* zentriert im eingeklappten Zustand */
+  transform: translateX(-50%);
+  transition: none;           /* keine Bewegung beim Ein-/Ausklappen */
 }
 
 /* Menü-Links in der Sidebar */
@@ -179,11 +178,6 @@ a:hover {
   width: var(--sidebar-open);            /* ausgeklappt */
   align-items: flex-start;
   padding-left: 10px;
-}
-
-.sidebar.open .burger {
-  left: 0;
-  transform: none;
 }
 
 /* wenn das Menü offen ist */

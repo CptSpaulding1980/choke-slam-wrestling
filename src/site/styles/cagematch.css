@@ -344,12 +344,6 @@ table, .table {
 @media (min-width: 992px) {
   table, .table {
     table-layout: auto;    /* dynamische Spaltenbreiten */
-    width: 100%;
-    max-width: none;
-  }
-
-  table th, table td {
-    min-width: 100px; /* Mindestbreite für bessere Lesbarkeit */
   }
 }
 

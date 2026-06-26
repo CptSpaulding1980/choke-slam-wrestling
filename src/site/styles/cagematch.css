@@ -188,7 +188,7 @@ a:hover {
 
 /* wenn das Menü offen ist */
 body.menu-open {
-  padding-left: calc(var(--sidebar-open) + 10px) !important;
+  padding-left: calc(var(--sidebar-open) + 10px) !important;  /* 210px — verschiebt gesamten Body-Inhalt */
 }
 
 /* ====================
@@ -327,18 +327,13 @@ table, .table {
 .main-container, .content {
   max-width: none;
   width: auto;
-  margin: 1.5rem var(--content-gutter);
+  margin: 1.5rem var(--content-gutter);   /* 40px symmetrisch beide Seiten */
   padding-top: 2em;
   padding-right: 0;
-  padding-left: var(--content-gutter);  /* 40px Abstand zur Sidebar */
+  padding-left: 10px;                     /* knapper Abstand zur Sidebar (40px) */
   flex-grow: 1;
   box-sizing: border-box;
   transition: margin-left 0.3s ease;
-}
-
-body.menu-open .main-container,
-body.menu-open .content {
-  margin-left: calc(var(--sidebar-open) + 20px); /* Sidebar-Breite + Border */
 }
 
 /* Überschriften bündig mit Tabellenanfang */
@@ -361,22 +356,6 @@ body.menu-open .content {
 
   table th, table td {
     min-width: 100px; /* Mindestbreite für bessere Lesbarkeit */
-  }
-}
-
-/* Mobile-Ansicht (kleine Bildschirme) */
-@media (max-width: 991px) {
-  table, .table {
-    table-layout: auto;
-    width: 100%;
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
-  }
-
-  table th, table td {
-    min-width: 100px;
-    padding: 14px 16px;
   }
 }
 

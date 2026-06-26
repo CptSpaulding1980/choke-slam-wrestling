@@ -31,6 +31,26 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
+
+        <!-- Breadcrumbs -->
+        <nav class="breadcrumbs" aria-label="Breadcrumb" style="font-size:0.85rem; color:var(--muted-text); margin-bottom:1em;">
+          <a href="{{ '/choke-slam-wrestling/' | url }}">Home</a>
+          {% if page.filePathStem and 'Events' in page.filePathStem %}
+            » <a href="{{ '/events/' | url }}">Events</a>
+          {% elif page.filePathStem and 'Wrestler' in page.filePathStem %}
+            » <a href="{{ '/wrestler/' | url }}">Wrestler</a>
+          {% elif page.filePathStem and 'Championships' in page.filePathStem %}
+            » <a href="{{ '/championships/' | url }}">Championships</a>
+          {% elif page.filePathStem and 'Teams' in page.filePathStem %}
+            » <a href="{{ '/teams/' | url }}">Teams</a>
+          {% elif page.filePathStem and 'Statistiken' in page.filePathStem %}
+            » <a href="{{ '/statistiken/' | url }}">Statistiken</a>
+          {% elif page.filePathStem and 'Referees' in page.filePathStem %}
+            » <a href="{{ '/referees/' | url }}">Referees</a>
+          {% endif %}
+          » <span>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</span>
+        </nav>
+
         <div class="header-meta">
           {% if settings.dgShowTags === true and tags %}
             <div class="header-tags">

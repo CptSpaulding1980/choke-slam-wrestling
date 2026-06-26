@@ -199,8 +199,15 @@ module.exports = function (eleventyConfig) {
   
   eleventyConfig.addTransform("fixImagePaths", (content, outputPath) => {
     if (outputPath && outputPath.endsWith(".html")) {
-      // Ersetzt Bild-Pfade ohne Subfolder durch Pfade mit /choke-slam-wrestling
       content = content.replace(/src="\/img\//g, 'src="/choke-slam-wrestling/img/');
+    }
+    return content;
+  });
+
+  // --- Lazy Loading für alle Bilder ---
+  eleventyConfig.addTransform("lazyImages", (content, outputPath) => {
+    if (outputPath && outputPath.endsWith(".html")) {
+      content = content.replace(/<img(?!.*loading=)/g, '<img loading="lazy" decoding="async"');
     }
     return content;
   });

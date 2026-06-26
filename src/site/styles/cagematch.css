@@ -56,6 +56,12 @@ nav a.active, .navbar a.active, nav a:hover {
     background-color: var(--cm-highlight);
 }
 
+/* Aktive Seite: hellerer Hintergrund */
+.sidebar ul li a.active-page {
+  background-color: var(--cm-highlight);
+  font-weight: bold;
+}
+
 /* ================
    Text & Titel
    ================ */
@@ -136,10 +142,10 @@ a:hover {
   color: white;
   cursor: pointer;
   z-index: 4000;
-  position: fixed;           /* fixiert am Viewport, bewegt sich nicht mit Sidebar */
-  left: calc(var(--sidebar-collapsed) / 2);  /* zentriert im eingeklappten Zustand */
+  position: fixed;
+  left: 20px;                /* Mitte der eingeklappten Sidebar (40px / 2) */
   transform: translateX(-50%);
-  transition: none;           /* keine Bewegung beim Ein-/Ausklappen */
+  padding: 4px 8px;          /* größere Klickfläche */
 }
 
 /* Menü-Links in der Sidebar */

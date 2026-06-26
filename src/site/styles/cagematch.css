@@ -319,11 +319,11 @@ table, .table {
 /* Content Container: auf großen Bildschirmen deutlich breiter nutzen */
 .main-container, .content {
   max-width: none;
-  width: 100%;
-  margin: 1.5rem 0;
+  width: auto;
+  margin: 1.5rem 20px 1.5rem 60px;       /* rechts 20px, links 60px (Sidebar 40px + 20px Luft) */
   padding-top: 2em;
-  padding-right: 20px;
-  padding-left: 60px;                      /* Sidebar 40px + 20px Luft */
+  padding-right: 0;
+  padding-left: 0;
   flex-grow: 1;
   box-sizing: border-box;
   transition: margin-left 0.3s ease;

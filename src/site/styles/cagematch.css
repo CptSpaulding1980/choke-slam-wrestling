@@ -325,12 +325,13 @@ table, .table {
 
 /* Content Container: auf großen Bildschirmen deutlich breiter nutzen */
 .main-container, .content {
-  max-width: none; /* entferne strikte Begrenzung */
-  width: calc(100% - (var(--content-gutter) * 2));
-  margin: 1.5rem auto;
+  max-width: none;
+  width: auto;
+  margin: 1.5rem var(--content-gutter);
+  margin-left: calc(var(--sidebar-collapsed) + 20px + var(--content-gutter));  /* Sidebar + Border + Abstand */
   padding-top: 2em;
-  padding-right: var(--content-gutter);
-  padding-left: calc(var(--sidebar-collapsed) + 20px);
+  padding-right: 0;
+  padding-left: 0;
   flex-grow: 1;
   box-sizing: border-box;
   transition: margin-left 0.3s ease;

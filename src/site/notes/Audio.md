@@ -8,51 +8,65 @@
 
 <table>
 <tr><td>
-<b>S07E01_Brave new World</b>
+<b>S07E01 — Brave new World</b><br>
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E01_Review-Podcast_Brave_New_World" type="audio/mpeg">
 </audio>
 </td></tr>
 <tr>
 <td>
-<b>S07E02_King & Queen of the Ring</b>
+<b>S07E02 — King & Queen of the Ring</b><br>
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E02_Review-Podcast_King_._Queen_of_the_Ring" type="audio/mpeg">
 </audio>
 </td></tr>
 <tr>
 <td>
-<b> S07E03_Changes III</b>
+<b>S07E03 — Changes III</b><br>
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E03_Review-Podcast_Changes_III.mp3" type="audio/mpeg">
 </audio>
 </td></tr>
 <tr>
 <td>
-<b> S07E04_The Iron Chamber</b>
+<b>S07E04 — The Iron Chamber</b><br>
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E04_Review-Podcast_The_Iron_Chamber.mp3" type="audio/mpeg">
 </audio>
 </td></tr>
 <tr>
 <td>
-<b> S07E05_Threeway Fiasko</b>
+<b>S07E05 — Threeway Fiasko</b><br>
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E05_Review-Podcast_Threeway_Fiasko.mp3" type="audio/mpeg">
 </audio>
 </td></tr>
 <tr>
 <td>
-<b> S07E06_War Games</b>
+<b>S07E06 — War Games</b><br>
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E06_War.Games.mp3" type="audio/mpeg">
 </audio>
 </td></tr>
 <tr>
 <td>
-<b> S07E07_Turbo Turnier</b>
+<b>S07E07 — Turbo Turnier</b><br>
 <audio controls>
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E07_Turbo.Turnier.mp3" type="audio/mpeg">
+</audio>
+</td></tr>
+<tr>
+<td>
+<b>S07E11 — Tanzt! Der König hat Laune</b><br>
+<audio controls>
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E11.mp3" type="audio/mpeg">
+</audio>
+</td></tr>
+<tr>
+<td>
+<b>S07E12 — ChokeSlamMania VII</b><br>
+<audio controls>
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/S07E12.mp3" type="audio/mpeg">
 </audio>
 </td></tr>
 </table>

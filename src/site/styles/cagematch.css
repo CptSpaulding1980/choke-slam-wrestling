@@ -152,7 +152,7 @@ a:hover {
 .sidebar ul {
   list-style: none;
   padding: 0;
-  margin-top: 20px; 
+  padding-top: 160px;        /* Platz für Banner (130px) + Burger-Abstand */
   margin: 0;
   width: 100%;
   text-align: left;

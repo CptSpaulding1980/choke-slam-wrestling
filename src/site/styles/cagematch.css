@@ -176,6 +176,7 @@ a:hover {
   width: var(--sidebar-open);            /* ausgeklappt */
   align-items: flex-start;
   padding-left: 10px;
+  overflow-y: auto;                      /* scrollen wenn Items nicht passen */
 }
 
 /* wenn das Menü offen ist */

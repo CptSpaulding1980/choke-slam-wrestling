@@ -324,11 +324,11 @@ table, .table {
 /* Content Container: auf großen Bildschirmen deutlich breiter nutzen */
 .main-container, .content {
   max-width: none; /* entferne strikte Begrenzung */
-  width: 100%;
-  margin: 1.5rem 0;
+  width: calc(100% - (var(--content-gutter) * 2));
+  margin: 1.5rem auto;
   padding-top: 2em;
   padding-right: var(--content-gutter);
-  padding-left: calc(var(--sidebar-collapsed) + var(--content-gutter));
+  padding-left: calc(var(--sidebar-collapsed) + 20px);
   flex-grow: 1;
   box-sizing: border-box;
   transition: margin-left 0.3s ease;

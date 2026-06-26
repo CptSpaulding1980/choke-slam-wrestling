@@ -384,16 +384,3 @@ table td, .table td {
   min-width: 0; /* verhindert erzwungenes horizontales Wachstum */
   word-break: break-word;
 }
-
-/* ====================
-   Erste Spalte (Match-Nr.) — so schmal wie möglich
-   ==================== */
-table th:first-child,
-table td:first-child {
-    width: 1% !important;
-    min-width: 0 !important;
-    max-width: 50px !important;
-    white-space: nowrap;
-    padding: 14px 6px !important;
-    text-align: center;
-}

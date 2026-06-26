@@ -124,7 +124,7 @@ a:hover {
   flex-direction: column;
   align-items: center;
   padding: 0;                  /* überschreibt padding aus generischer .sidebar Regel */
-  border-left: none;           /* überschreibt border-left aus generischer .sidebar Regel */
+  /* border-left bleibt von generischer Regel (20px solid) für optische Breite */
 }
 
 /* Burger Button */

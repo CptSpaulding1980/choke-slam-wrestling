@@ -204,7 +204,7 @@ table, .table {
     background: #faf9f8;
     font-size: 1rem;
     margin-bottom: 1.5em;
-    table-layout: fixed;
+    table-layout: auto;    /* dynamische Spaltenbreiten */
     box-shadow: 0 2px 8px #e4e4e4;
     border-radius: 6px;
     overflow: hidden;
@@ -343,7 +343,7 @@ table, .table {
 /* Desktop-Ansicht (große Bildschirme) */
 @media (min-width: 992px) {
   table, .table {
-    table-layout: fixed;
+    table-layout: auto;    /* dynamische Spaltenbreiten */
     width: 100%;
     max-width: none;
   }

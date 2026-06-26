@@ -318,12 +318,12 @@ table, .table {
 
 /* Content Container: auf großen Bildschirmen deutlich breiter nutzen */
 .main-container, .content {
-  max-width: none; /* entferne strikte Begrenzung */
-  width: calc(100% - (var(--content-gutter) * 2));
-  margin: 1.5rem auto;
+  max-width: none;
+  width: 100%;
+  margin: 1.5rem 0;
   padding-top: 2em;
-  padding-right: var(--content-gutter);
-  padding-left: calc(var(--sidebar-collapsed) + 20px);  /* 40px: Sidebar (20p+20border) + 0 gap */
+  padding-right: 20px;
+  padding-left: 60px;                      /* Sidebar 40px + 20px Luft */
   flex-grow: 1;
   box-sizing: border-box;
   transition: margin-left 0.3s ease;

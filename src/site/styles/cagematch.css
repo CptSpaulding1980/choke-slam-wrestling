@@ -375,21 +375,9 @@ table, .table {
   -webkit-overflow-scrolling: touch;
 }
 
-/* Zellen: weniger strenge Mindestbreite, damit Wrapper passt */
+/* Zellen: verhindert Überlappung, aber nicht zu schmal */
 table td, .table td {
-  min-width: 0; /* verhindert erzwungenes horizontales Wachstum */
+  min-width: 60px; /* Mindestbreite, kein Kollabieren */
   word-break: break-word;
-}
-
-/* ====================
-   Erste Spalte (Match-Nr.) — so schmal wie möglich
-   ==================== */
-table th:first-child,
-table td:first-child {
-    width: 1% !important;
-    min-width: 0 !important;
-    max-width: 50px !important;
-    white-space: nowrap;
-    padding: 14px 6px !important;
-    text-align: center;
+  overflow-wrap: break-word;
 }

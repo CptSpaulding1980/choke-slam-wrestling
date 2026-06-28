@@ -1,6 +1,17 @@
 ---
 dg-publish: true
-permalink: /events/2023-10-09-s05e09-survivor-series---war-games/
+permalink: /events/2023-10-09-s05e09-survivor-series---
+
+<div style="background:#1a1a2e; border:1px solid var(--cm-red); border-radius:6px; padding:6px; margin:6px 0; max-width:400px; float:right; clear:right;">
+<p style="margin:0 0 3px 0; color:var(--cm-red); font-size:0.8em; font-weight:bold;">
+🎬 HIGHLIGHT CLIP — 2023-10-10
+</p>
+<video controls style="width:100%; border-radius:3px;">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/S05E09_Noam_Dar_forces_the_Hulkster_to_submit__.mp4" type="video/mp4">
+</video>
+<p style="margin:3px 0 0 0; font-size:0.75em; color:#aaa;">Noam Dar forces the Hulkster to submit!! What will be next for the "Foreign Fanatics" Dar & Kaiser?</p>
+</div>
+war-games/
 title: "S05E09_Survivor Series - War Games"
 date: "2023-10-09"
 promotion: "Choke Slam Wrestling"

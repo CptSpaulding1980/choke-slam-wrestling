@@ -9,6 +9,28 @@ location: "Tucson, Arizona, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
+<div style="background:#1a1a2e; border:1px solid var(--cm-red); border-radius:6px; padding:6px; margin:6px 0; max-width:400px; float:right; clear:right;">
+<p style="margin:0 0 3px 0; color:var(--cm-red); font-size:0.8em; font-weight:bold;">
+🎬 HIGHLIGHT CLIP — 2023-04-20
+</p>
+<video controls style="width:100%; border-radius:3px;">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/S05E04_Drago_pins_The_Immortal_Hulk_Hogan_to_el.mp4" type="video/mp4">
+</video>
+<p style="margin:3px 0 0 0; font-size:0.75em; color:#aaa;">Drago pins The Immortal Hulk Hogan to eliminate the Saint Rebel Radicalz!</p>
+</div>
+
+
+<div style="background:#1a1a2e; border:1px solid var(--cm-red); border-radius:6px; padding:6px; margin:6px 0; max-width:400px; float:right; clear:right;">
+<p style="margin:0 0 3px 0; color:var(--cm-red); font-size:0.8em; font-weight:bold;">
+🎬 HIGHLIGHT CLIP — 2023-04-20
+</p>
+<video controls style="width:100%; border-radius:3px;">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/S05E04_Bret_Hart_submits_Drago_to_win_the_Trios.mp4" type="video/mp4">
+</video>
+<p style="margin:3px 0 0 0; font-size:0.75em; color:#aaa;">Bret Hart submits Drago to win the Trios Championship for his team... and turns Heel afterwards!!!</p>
+</div>
+
+
 # <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E04_Lucha Underground**
 
 **Date:** 2023-04-19

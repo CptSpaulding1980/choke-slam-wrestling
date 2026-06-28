@@ -9,10 +9,8 @@ location: "New York, New York, USA"
 image: "img/posters/2026-06-23-s07e12-chokeslammania-vii_poster.png"
 ---
 
-<div style="display:flex; justify-content:center; gap:16px; margin:0 auto 16px; flex-wrap:wrap;">
-  <img src="../../img/posters/2026-06-23-s07e12-chokeslammania-vii_fanposter.jpg" width="300">
-  <img src="../../img/posters/2026-06-23-s07e12-chokeslammania-vii_poster.png" width="300">
-</div>
+<img src="../../img/posters/2026-06-23-s07e12-chokeslammania-vii_fanposter.jpg" width="300">
+<img src="../../img/posters/2026-06-23-s07e12-chokeslammania-vii_poster.png" width="300">
 
 <div style="background:#1a1a2e; border:2px solid var(--cm-red); border-radius:8px; padding:8px; margin:8px 0 16px; max-width:640px;">
 <p style="margin:0 0 6px 0; color:var(--cm-red); font-weight:bold; font-size:0.9em;">

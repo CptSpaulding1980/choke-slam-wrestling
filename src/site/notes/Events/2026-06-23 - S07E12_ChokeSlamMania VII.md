@@ -9,8 +9,8 @@ location: "New York, New York, USA"
 image: "img/posters/2026-06-23-s07e12-chokeslammania-vii_poster.png"
 ---
 
-<img src="../../img/posters/2026-06-23-s07e12-chokeslammania-vii_fanposter.jpg" width="300">
-<img src="../../img/posters/2026-06-23-s07e12-chokeslammania-vii_poster.png" width="300">
+<img src="../../img/posters/2026-06-23-s07e12-chokeslammania-vii_fanposter.jpg" width="250">
+<img src="../../img/posters/2026-06-23-s07e12-chokeslammania-vii_poster.png" width="250">
 
 <div style="background:#1a1a2e; border:2px solid var(--cm-red); border-radius:8px; padding:8px; margin:8px 0 16px; max-width:640px;">
 <p style="margin:0 0 6px 0; color:var(--cm-red); font-weight:bold; font-size:0.9em;">
@@ -24,7 +24,6 @@ image: "img/posters/2026-06-23-s07e12-chokeslammania-vii_poster.png"
 <a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E12_2026-06-23_full_event.mp4" style="color:var(--cm-highlight);">Download MP4</a> — Choke Slam Wrestling - S07E12_ChokeSlamMania VII
 </p>
 </div>
-
 
 **S07E12_ChokeSlamMania VII**
 

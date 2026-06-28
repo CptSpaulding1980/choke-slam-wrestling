@@ -52,3 +52,38 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 - [[Wrestler\|🤼 Roster & Stats]]
 - [[Championships\|🏆 Titelhistorien]]
 - [[Statistiken\|📊 Globale Statistiken]]
+
+
+## 🎬 Highlight Clips
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+<div style="background:#1a1a2e; border:1px solid var(--cm-red); border-radius:6px; padding:6px; width:280px;">
+<p style="margin:0 0 3px 0; color:var(--cm-red); font-size:0.75em;">🎬 2023-02-20 — 30s</p>
+<video controls style="width:100%; border-radius:3px;"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2023-02-20_Omega_vs_Vader.mp4" type="video/mp4"></video>
+<p style="margin:3px 0 0 0; font-size:0.7em; color:#aaa;">Omega vs Vader</p>
+</div><div style="background:#1a1a2e; border:1px solid var(--cm-red); border-radius:6px; padding:6px; width:280px;">
+<p style="margin:0 0 3px 0; color:var(--cm-red); font-size:0.75em;">🎬 2023-06-13 — 13s</p>
+<video controls style="width:100%; border-radius:3px;"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2023-06-13_Highlight__Taz_takes_ot_Eddie_Edwards_wi.mp4" type="video/mp4"></video>
+<p style="margin:3px 0 0 0; font-size:0.7em; color:#aaa;">Highlight: Taz takes ot Eddie Edwards with two vicious Backdrop Drivers!</p>
+</div><div style="background:#1a1a2e; border:1px solid var(--cm-red); border-radius:6px; padding:6px; width:280px;">
+<p style="margin:0 0 3px 0; color:var(--cm-red); font-size:0.75em;">🎬 2023-06-13 — 6s</p>
+<video controls style="width:100%; border-radius:3px;"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2023-06-13_Just_incredible_.mp4" type="video/mp4"></video>
+<p style="margin:3px 0 0 0; font-size:0.7em; color:#aaa;">Just incredible!</p>
+</div><div style="background:#1a1a2e; border:1px solid var(--cm-red); border-radius:6px; padding:6px; width:280px;">
+<p style="margin:0 0 3px 0; color:var(--cm-red); font-size:0.75em;">🎬 2023-05-19 — 8s</p>
+<video controls style="width:100%; border-radius:3px;"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2023-05-19_Ric_Flair___Meng_are_planting_the_Hulkst.mp4" type="video/mp4"></video>
+<p style="margin:3px 0 0 0; font-size:0.7em; color:#aaa;">Ric Flair & Meng are planting the Hulkster through a table!</p>
+</div><div style="background:#1a1a2e; border:1px solid var(--cm-red); border-radius:6px; padding:6px; width:280px;">
+<p style="margin:0 0 3px 0; color:var(--cm-red); font-size:0.75em;">🎬 2025-11-10 — 38s</p>
+<video controls style="width:100%; border-radius:3px;"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2025-11-10_Apache_vs__Austin.mp4" type="video/mp4"></video>
+<p style="margin:3px 0 0 0; font-size:0.7em; color:#aaa;">Apache vs. Austin</p>
+</div><div style="background:#1a1a2e; border:1px solid var(--cm-red); border-radius:6px; padding:6px; width:280px;">
+<p style="margin:0 0 3px 0; color:var(--cm-red); font-size:0.75em;">🎬 2023-05-19 — 30s</p>
+<video controls style="width:100%; border-radius:3px;"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2023-05-19_Awesome_Chain_Wrestling_Sequence_between.mp4" type="video/mp4"></video>
+<p style="margin:3px 0 0 0; font-size:0.7em; color:#aaa;">Awesome Chain Wrestling Sequence between Bret Hart and Sting</p>
+</div><div style="background:#1a1a2e; border:1px solid var(--cm-red); border-radius:6px; padding:6px; width:280px;">
+<p style="margin:0 0 3px 0; color:var(--cm-red); font-size:0.75em;">🎬 2025-05-21 — 30s</p>
+<video controls style="width:100%; border-radius:3px;"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2025-05-21_Bret_claims_the_International_Championsh.mp4" type="video/mp4"></video>
+<p style="margin:3px 0 0 0; font-size:0.7em; color:#aaa;">Bret claims the International Championship</p>
+</div>
+</div>

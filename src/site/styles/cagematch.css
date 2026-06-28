@@ -344,6 +344,8 @@ table, .table {
 @media (min-width: 992px) {
   table, .table {
     table-layout: auto;    /* dynamische Spaltenbreiten */
+    width: 100%;
+    max-width: none;
   }
 }
 

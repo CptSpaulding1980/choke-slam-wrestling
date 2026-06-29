@@ -6,17 +6,17 @@ date: "2026-06-23"
 promotion: "Choke Slam Wrestling"
 venue: "Madison Square Garden"
 location: "New York, New York, USA"
-image: "img/posters/2026-06-23-s07e12-chokeslammania-vii_poster.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-23-s07e12-chokeslammania-vii_poster.png"
 ---
 
-<img src="../../img/posters/2026-06-23-s07e12-chokeslammania-vii_fanposter.jpg" width="250">
-<img src="../../img/posters/2026-06-23-s07e12-chokeslammania-vii_poster.png" width="250">
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-23-s07e12-chokeslammania-vii_fanposter.jpg" width="250">
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-23-s07e12-chokeslammania-vii_poster.png" width="250">
 
 <div style="background:#1a1a2e; border:2px solid var(--cm-red); border-radius:8px; padding:8px; margin:8px 0 16px; max-width:640px;">
 <p style="margin:0 0 6px 0; color:var(--cm-red); font-weight:bold; font-size:0.9em;">
 🎬 FULL EVENT VIDEO — 2026-06-23
 </p>
-<video controls style="width:100%; border-radius:4px;" poster="/img/posters/full_event_video.png">
+<video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E12_2026-06-23_full_event.mp4" type="video/mp4">
   Dein Browser unterstützt kein HTML5-Video.
 </video>

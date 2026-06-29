@@ -6,7 +6,7 @@ date: "2026-05-15"
 promotion: "Choke Slam Wrestling"
 venue: "1st Mariner Arena"
 location: "Baltimore, Maryland, USA"
-image: "{{ site.baseurl }}/img/posters/2026-05-15-s07e10-night-of-champions_poster.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-05-15-s07e10-night-of-champions_poster.png"
 ---
 
 
@@ -14,7 +14,7 @@ image: "{{ site.baseurl }}/img/posters/2026-05-15-s07e10-night-of-champions_post
 <p style="margin:0 0 6px 0; color:var(--cm-red); font-weight:bold; font-size:0.9em;">
 🎬 FULL EVENT VIDEO — 2026-05-19
 </p>
-<video controls style="width:100%; border-radius:4px;" poster="/img/posters/full_event_video.png">
+<video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E10_2775996831_2026-05-19_full_event.mp4" type="video/mp4">
   Dein Browser unterstützt kein HTML5-Video.
 </video>
@@ -27,7 +27,7 @@ image: "{{ site.baseurl }}/img/posters/2026-05-15-s07e10-night-of-champions_post
 <p style="margin:0 0 6px 0; color:var(--cm-red); font-weight:bold; font-size:0.9em;">
 🎬 FULL EVENT VIDEO — 2026-05-15
 </p>
-<video controls style="width:100%; border-radius:4px;" poster="/img/posters/full_event_video.png">
+<video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E10_2772800919_2026-05-15_full_event.mp4" type="video/mp4">
   Dein Browser unterstützt kein HTML5-Video.
 </video>
@@ -42,7 +42,7 @@ image: "{{ site.baseurl }}/img/posters/2026-05-15-s07e10-night-of-champions_post
 
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
 
-<img src="/img/posters/2026-05-15-s07e10-night-of-champions_poster.png" width="250">
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-05-15-s07e10-night-of-champions_poster.png" width="250">
 
 ## Matches
 

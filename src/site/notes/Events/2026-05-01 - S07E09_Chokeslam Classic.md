@@ -14,7 +14,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <p style="margin:0 0 6px 0; color:var(--cm-red); font-weight:bold; font-size:0.9em;">
 🎬 FULL EVENT VIDEO — 2026-04-30
 </p>
-<video controls style="width:100%; border-radius:4px;" poster="/img/posters/full_event_video.png">
+<video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E09_2760901676_2026-04-30_full_event.mp4" type="video/mp4">
   Dein Browser unterstützt kein HTML5-Video.
 </video>

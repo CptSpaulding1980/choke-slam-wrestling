@@ -6,10 +6,10 @@ date: "2026-06-08"
 promotion: "Choke Slam Wrestling"
 venue: "Bank Atlantic Center"
 location: "Sunrise, Florida, USA"
-image: "{{ site.baseurl }}/img/posters/2026-06-08-s07e11-tanzt-der-koenig-hat-laune_poster.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-08-s07e11-tanzt-der-koenig-hat-laune_poster.png"
 ---
 
-<img src="/img/posters/2026-06-08-s07e11-tanzt-der-koenig-hat-laune_poster.png" width="250">
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-08-s07e11-tanzt-der-koenig-hat-laune_poster.png" width="250">
 
 # <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E11_Tanzt!DerKönighstLaune**
 

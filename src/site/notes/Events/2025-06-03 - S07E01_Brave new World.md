@@ -6,7 +6,6 @@ date: "2025-06-03"
 promotion: "Choke Slam Wrestling"
 venue: "Cow Palace"
 location: "San Fransisco, California, USA"
-image: "{{ site.baseurl }}/img/posters/2025-06-03-s07e01-S07E01_Brave_new_World_poster.png"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 <img src="/img/posters/2025-06-03-s07e01-S07E01_Brave_new_World_poster.png" width="250">

@@ -8,6 +8,8 @@ venue: "Cincinnati Gardens"
 location: "Cincinnati, Ohio, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2025-09-04-s07e04-S07E04_The_Iron_Chamber_-_Night_1_poster.png" width="250">
+
 
 # <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E04_The Iron Chamber - Night 1**
 

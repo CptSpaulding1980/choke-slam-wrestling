@@ -9,7 +9,6 @@ location: "San Fransisco, California, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
-
 <div style="background:#1a1a2e; border:2px solid var(--cm-red); border-radius:8px; padding:8px; margin:8px 0 16px; max-width:640px;">
 <p style="margin:0 0 6px 0; color:var(--cm-red); font-weight:bold; font-size:0.9em;">
 🎬 FULL EVENT VIDEO — 2026-04-30
@@ -23,7 +22,10 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 </p>
 </div>
 
-# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E09_Chokeslam Classic**
+# 
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-05-01-s07e09-S07E09_Chokeslam_Classic_poster.png" width="250">
+**S07E09_Chokeslam Classic**
 
 **Date:** 2026-05-01
 

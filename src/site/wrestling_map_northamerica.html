@@ -69,16 +69,16 @@
   .country-label { fill:#ffffff28; font-size:11px; letter-spacing:.1em; text-transform:uppercase; pointer-events:none; }
 
   /* CSS-only hover tooltips */
-  .marker-tooltip { display:none; position:absolute; background:linear-gradient(145deg,#12122a,#1e1e42); border:1px solid #333; border-radius:8px; padding:10px 14px; color:#e0e0e0; font-size:12px; z-index:100; pointer-events:none; white-space:nowrap; box-shadow:0 4px 20px #00000066; }
-  .marker-group:hover .marker-tooltip { display:block; }
+  /* HTML overlay tooltips */
+  #map-container { position:relative; display:inline-block; }
+  .overlay-tip { display:none; position:absolute; background:linear-gradient(145deg,#12122a,#1e1e42); border:1px solid #333; border-radius:8px; padding:8px 12px; color:#e0e0e0; font-size:11px; z-index:100; pointer-events:none; white-space:nowrap; box-shadow:0 4px 20px #00000066; font-family:sans-serif; }
   .pwa-tip { border-color:#e63946; }
   .cw-tip { border-color:#f4a261; }
   .pncw-tip { border-color:#2a9d8f; }
   .aull-tip { border-color:#e9c46a; }
-  .tip-logo { width:40px; height:40px; border-radius:4px; margin-right:8px; vertical-align:middle; }
-  .tip-name { font-weight:700; font-size:13px; }
-  .tip-abbr { font-size:10px; color:#aaa; }
-  .tip-info { font-size:10px; color:#bbb; margin-top:4px; }
+  #marker-pwa:hover ~ #tip-pwa, #marker-pwa:hover .marker-dot { } /* trigger via wrapper */
+  .marker-wrap { position:absolute; cursor:pointer; }
+  .marker-wrap:hover .overlay-tip { display:block; }
 
 </style>
 </head>
@@ -87,7 +87,7 @@
 <!-- Info Card -->
 <!-- removed JS card --><div style="display:none" id="info-card"><button id="card-close" title="Schlie&#223;en">&#x2715;</button><div class="card-header"><div class="card-logo" id="card-logo"><img id="card-logo-img" src="" alt="Logo"/><span class="ph" id="card-logo-ph">Logo<br/>folgt</span></div><div class="card-title"><div class="abbr" id="card-abbr"></div><div class="full" id="card-full"></div></div></div><div class="card-body"><div class="card-row"><span class="lbl">Hauptsitz</span><span class="val" id="c-hq"></span></div><div class="card-row"><span class="lbl">Gegr&#252;ndet</span><span class="val" id="c-founded"></span></div><div class="card-row"><span class="lbl">Stil</span><span class="val" id="c-style"></span></div><div class="card-row"><span class="lbl">Titel</span><span class="val" id="c-champ"></span></div><div class="card-row"><span class="lbl">Roster</span><span class="val" id="c-roster"></span></div><div class="card-note" id="c-note"></div><a class="card-link" id="c-link" href="#" target="_blank">&#127760; Website</a><div class="md-box" id="c-md"></div></div></div>
 <div id="legend"><div class="legend-item" data-org="PWA"><div class="legend-dot" style="background:#e63946"></div><span>PWA</span></div><div class="legend-item" data-org="CW"><div class="legend-dot" style="background:#f4a261"></div><span>CW</span></div><div class="legend-item" data-org="PNCW"><div class="legend-dot" style="background:#2a9d8f"></div><span>PNCW</span></div><div class="legend-item" data-org="AULL"><div class="legend-dot" style="background:#e9c46a"></div><span>AULL</span></div></div>
-<div id="map-wrapper">
+<div id="map-container"><div id="map-wrapper">
 <svg id="map" viewBox="0 0 1150 760" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="bgGrad" cx="50%" cy="50%" r="60%">
@@ -192,9 +192,9 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="font-size:10px;color:#bbb;margin-top:4px;">Boston, MA · Est. 2018</div>
     </foreignObject>
   </g>
-  <g class="marker-group" style="cursor:pointer"><circle class="pulse-ring" r="16" fill="none" stroke="#f4a261" stroke-width="2" opacity="0.7"/><circle class="pulse-ring delay" r="16" fill="none" stroke="#f4a261" stroke-width="1.5" opacity="0.4"/><circle class="marker-dot" r="9" fill="#f4a261" stroke="#fff" stroke-width="2"/><text class="marker-label" y="-18" text-anchor="middle" fill="#f4a261" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">CW</text><foreignObject x="-80" y="-90" width="200" height="80" class="marker-tooltip cw-tip"><div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:center;gap:8px;font-family:sans-serif;"><div><b style="color:#f4a261;">CW</b><br/><small style="color:#aaa;">Championship Wrestling</small></div></div><div xmlns="http://www.w3.org/1999/xhtml" style="font-size:10px;color:#bbb;margin-top:4px;">Toronto, ON · Est. 2010</div></foreignObject></g>
-  <g class="marker-group" style="cursor:pointer"><circle class="pulse-ring" r="16" fill="none" stroke="#2a9d8f" stroke-width="2" opacity="0.7"/><circle class="pulse-ring delay" r="16" fill="none" stroke="#2a9d8f" stroke-width="1.5" opacity="0.4"/><circle class="marker-dot" r="9" fill="#2a9d8f" stroke="#fff" stroke-width="2"/><text class="marker-label" y="-18" text-anchor="middle" fill="#2a9d8f" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">PNCW</text><foreignObject x="-80" y="-90" width="200" height="80" class="marker-tooltip pncw-tip"><div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:center;gap:8px;font-family:sans-serif;"><div><b style="color:#2a9d8f;">PNCW</b><br/><small style="color:#aaa;">Pacific North Championship Wrestling</small></div></div><div xmlns="http://www.w3.org/1999/xhtml" style="font-size:10px;color:#bbb;margin-top:4px;">San Francisco, CA · Est. 2015</div></foreignObject></g>
-  <g class="marker-group" style="cursor:pointer"><circle class="pulse-ring" r="16" fill="none" stroke="#e9c46a" stroke-width="2" opacity="0.7"/><circle class="pulse-ring delay" r="16" fill="none" stroke="#e9c46a" stroke-width="1.5" opacity="0.4"/><circle class="marker-dot" r="9" fill="#e9c46a" stroke="#fff" stroke-width="2"/><text class="marker-label" y="-18" text-anchor="middle" fill="#e9c46a" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">AULL</text><foreignObject x="-80" y="-90" width="200" height="80" class="marker-tooltip aull-tip"><div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:center;gap:8px;font-family:sans-serif;"><div><b style="color:#e9c46a;">AULL</b><br/><small style="color:#aaa;">Asociación Universal de Lucha Libre</small></div></div><div xmlns="http://www.w3.org/1999/xhtml" style="font-size:10px;color:#bbb;margin-top:4px;">Ciudad de México · Est. 1981</div></foreignObject></g>
+  <g class="marker-group" style="cursor:pointer"><circle class="pulse-ring" r="16" fill="none" stroke="#f4a261" stroke-width="2" opacity="0.7"/><circle class="pulse-ring delay" r="16" fill="none" stroke="#f4a261" stroke-width="1.5" opacity="0.4"/><circle class="marker-dot" r="9" fill="#f4a261" stroke="#fff" stroke-width="2"/><text class="marker-label" y="-18" text-anchor="middle" fill="#f4a261" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">CW</text></g>
+  <g class="marker-group" style="cursor:pointer"><circle class="pulse-ring" r="16" fill="none" stroke="#2a9d8f" stroke-width="2" opacity="0.7"/><circle class="pulse-ring delay" r="16" fill="none" stroke="#2a9d8f" stroke-width="1.5" opacity="0.4"/><circle class="marker-dot" r="9" fill="#2a9d8f" stroke="#fff" stroke-width="2"/><text class="marker-label" y="-18" text-anchor="middle" fill="#2a9d8f" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">PNCW</text></g>
+  <g class="marker-group" style="cursor:pointer"><circle class="pulse-ring" r="16" fill="none" stroke="#e9c46a" stroke-width="2" opacity="0.7"/><circle class="pulse-ring delay" r="16" fill="none" stroke="#e9c46a" stroke-width="1.5" opacity="0.4"/><circle class="marker-dot" r="9" fill="#e9c46a" stroke="#fff" stroke-width="2"/><text class="marker-label" y="-18" text-anchor="middle" fill="#e9c46a" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">AULL</text></g>
   </g>
   <text x="490" y="100" class="country-label" text-anchor="middle">Canada</text>
   <text x="490" y="360" class="country-label" text-anchor="middle" opacity=".1">United States</text>

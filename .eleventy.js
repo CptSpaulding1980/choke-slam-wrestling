@@ -223,6 +223,7 @@ module.exports = function (eleventyConfig) {
   userEleventySetup(eleventyConfig);
 
   // Pass through HTML files for static hosting (wrestling map)
+  eleventyConfig.addPassthroughCopy("src/site/*.html");
   eleventyConfig.addPassthroughCopy("src/site/**/*.html");
 
   // --- Eleventy Config Return ---

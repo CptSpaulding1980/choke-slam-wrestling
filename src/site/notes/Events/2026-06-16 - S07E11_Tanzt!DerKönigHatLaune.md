@@ -17,11 +17,11 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 🎬 FULL EVENT VIDEO — 2026-06-08
 </p>
 <video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-08_full_event.mp4" type="video/mp4">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2791888211_2026-06-08_full_event.mp4" type="video/mp4">
   Dein Browser unterstützt kein HTML5-Video.
 </video>
 <p style="margin:4px 0 0 0; font-size:0.8em; color:#aaa;">
-<a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-08_full_event.mp4" style="color:var(--cm-highlight);">Download MP4</a> — Choke Slam Wrestling - S07E11_Tanzt!DerKönighat Laune (Pt. 1.2)
+<a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2791888211_2026-06-08_full_event.mp4" style="color:var(--cm-highlight);">Download MP4</a> — Choke Slam Wrestling - S07E11_Tanzt!DerKönighat Laune (Pt. 1.1)
 </p>
 </div>
 
@@ -30,11 +30,11 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 🎬 FULL EVENT VIDEO — 2026-06-08
 </p>
 <video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2791888211_2026-06-08_full_event.mp4" type="video/mp4">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-08_full_event.mp4" type="video/mp4">
   Dein Browser unterstützt kein HTML5-Video.
 </video>
 <p style="margin:4px 0 0 0; font-size:0.8em; color:#aaa;">
-<a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2791888211_2026-06-08_full_event.mp4" style="color:var(--cm-highlight);">Download MP4</a> — Choke Slam Wrestling - S07E11_Tanzt!DerKönighat Laune (Pt. 1.1)
+<a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-08_full_event.mp4" style="color:var(--cm-highlight);">Download MP4</a> — Choke Slam Wrestling - S07E11_Tanzt!DerKönighat Laune (Pt. 1.2)
 </p>
 </div>
 

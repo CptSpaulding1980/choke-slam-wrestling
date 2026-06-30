@@ -67,12 +67,25 @@
   .legend-dot { width:14px; height:14px; border-radius:50%; border:2px solid #fff4; flex-shrink:0; }
   .inset-label { fill:#aaa; font-size:9px; font-style:italic; pointer-events:none; }
   .country-label { fill:#ffffff28; font-size:11px; letter-spacing:.1em; text-transform:uppercase; pointer-events:none; }
+
+  /* CSS-only hover tooltips */
+  .marker-tooltip { display:none; position:absolute; background:linear-gradient(145deg,#12122a,#1e1e42); border:1px solid #333; border-radius:8px; padding:10px 14px; color:#e0e0e0; font-size:12px; z-index:100; pointer-events:none; white-space:nowrap; box-shadow:0 4px 20px #00000066; }
+  .marker-group:hover .marker-tooltip { display:block; }
+  .pwa-tip { border-color:#e63946; }
+  .cw-tip { border-color:#f4a261; }
+  .pncw-tip { border-color:#2a9d8f; }
+  .aull-tip { border-color:#e9c46a; }
+  .tip-logo { width:40px; height:40px; border-radius:4px; margin-right:8px; vertical-align:middle; }
+  .tip-name { font-weight:700; font-size:13px; }
+  .tip-abbr { font-size:10px; color:#aaa; }
+  .tip-info { font-size:10px; color:#bbb; margin-top:4px; }
+
 </style>
 </head>
 <body>
 <header><h1>&#x1F94A; North America Wrestling Map</h1><p>Hover &#252;ber einen Staat &bull; Klick auf Marker f&#252;r Details</p></header>
 <!-- Info Card -->
-<div id="info-card"><button id="card-close" title="Schlie&#223;en">&#x2715;</button><div class="card-header"><div class="card-logo" id="card-logo"><img id="card-logo-img" src="" alt="Logo"/><span class="ph" id="card-logo-ph">Logo<br/>folgt</span></div><div class="card-title"><div class="abbr" id="card-abbr"></div><div class="full" id="card-full"></div></div></div><div class="card-body"><div class="card-row"><span class="lbl">Hauptsitz</span><span class="val" id="c-hq"></span></div><div class="card-row"><span class="lbl">Gegr&#252;ndet</span><span class="val" id="c-founded"></span></div><div class="card-row"><span class="lbl">Stil</span><span class="val" id="c-style"></span></div><div class="card-row"><span class="lbl">Titel</span><span class="val" id="c-champ"></span></div><div class="card-row"><span class="lbl">Roster</span><span class="val" id="c-roster"></span></div><div class="card-note" id="c-note"></div><a class="card-link" id="c-link" href="#" target="_blank">&#127760; Website</a><div class="md-box" id="c-md"></div></div></div>
+<!-- removed JS card --><div style="display:none" id="info-card"><button id="card-close" title="Schlie&#223;en">&#x2715;</button><div class="card-header"><div class="card-logo" id="card-logo"><img id="card-logo-img" src="" alt="Logo"/><span class="ph" id="card-logo-ph">Logo<br/>folgt</span></div><div class="card-title"><div class="abbr" id="card-abbr"></div><div class="full" id="card-full"></div></div></div><div class="card-body"><div class="card-row"><span class="lbl">Hauptsitz</span><span class="val" id="c-hq"></span></div><div class="card-row"><span class="lbl">Gegr&#252;ndet</span><span class="val" id="c-founded"></span></div><div class="card-row"><span class="lbl">Stil</span><span class="val" id="c-style"></span></div><div class="card-row"><span class="lbl">Titel</span><span class="val" id="c-champ"></span></div><div class="card-row"><span class="lbl">Roster</span><span class="val" id="c-roster"></span></div><div class="card-note" id="c-note"></div><a class="card-link" id="c-link" href="#" target="_blank">&#127760; Website</a><div class="md-box" id="c-md"></div></div></div>
 <div id="legend"><div class="legend-item" data-org="PWA"><div class="legend-dot" style="background:#e63946"></div><span>PWA</span></div><div class="legend-item" data-org="CW"><div class="legend-dot" style="background:#f4a261"></div><span>CW</span></div><div class="legend-item" data-org="PNCW"><div class="legend-dot" style="background:#2a9d8f"></div><span>PNCW</span></div><div class="legend-item" data-org="AULL"><div class="legend-dot" style="background:#e9c46a"></div><span>AULL</span></div></div>
 <div id="map-wrapper">
 <svg id="map" viewBox="0 0 1150 760" xmlns="http://www.w3.org/2000/svg">
@@ -167,30 +180,21 @@
   <circle cx="168.3" cy="367.9" r="30" fill="#2a9d8f" opacity="0.12" filter="url(#strongGlow)"/>
   <circle cx="532.2" cy="707.5" r="30" fill="#e9c46a" opacity="0.12" filter="url(#strongGlow)"/>
   <g id="markers">
-  <g class="marker-group" data-org="PWA" transform="translate(988.9,283.6)" style="cursor:pointer">
+  <g class="marker-group" style="cursor:pointer">
     <circle class="pulse-ring" r="16" fill="none" stroke="#e63946" stroke-width="2" opacity="0.7"/>
     <circle class="pulse-ring delay" r="16" fill="none" stroke="#e63946" stroke-width="1.5" opacity="0.4"/>
     <circle class="marker-dot" r="9" fill="#e63946" stroke="#fff" stroke-width="2"/>
     <text class="marker-label" y="-18" text-anchor="middle" fill="#e63946" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">PWA</text>
+    <foreignObject x="-80" y="-90" width="200" height="80" class="marker-tooltip pwa-tip">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:center;gap:8px;font-family:sans-serif;">
+        <div><b style="color:#e63946;">PWA</b><br/><small style="color:#aaa;">Professional Wrestling Association</small></div>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-size:10px;color:#bbb;margin-top:4px;">Boston, MA · Est. 2018</div>
+    </foreignObject>
   </g>
-  <g class="marker-group" data-org="CW" transform="translate(853.5,259.8)" style="cursor:pointer">
-    <circle class="pulse-ring" r="16" fill="none" stroke="#f4a261" stroke-width="2" opacity="0.7"/>
-    <circle class="pulse-ring delay" r="16" fill="none" stroke="#f4a261" stroke-width="1.5" opacity="0.4"/>
-    <circle class="marker-dot" r="9" fill="#f4a261" stroke="#fff" stroke-width="2"/>
-    <text class="marker-label" y="-18" text-anchor="middle" fill="#f4a261" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">CW</text>
-  </g>
-  <g class="marker-group" data-org="PNCW" transform="translate(168.3,367.9)" style="cursor:pointer">
-    <circle class="pulse-ring" r="16" fill="none" stroke="#2a9d8f" stroke-width="2" opacity="0.7"/>
-    <circle class="pulse-ring delay" r="16" fill="none" stroke="#2a9d8f" stroke-width="1.5" opacity="0.4"/>
-    <circle class="marker-dot" r="9" fill="#2a9d8f" stroke="#fff" stroke-width="2"/>
-    <text class="marker-label" y="-18" text-anchor="middle" fill="#2a9d8f" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">PNCW</text>
-  </g>
-  <g class="marker-group" data-org="AULL" transform="translate(532.2,707.5)" style="cursor:pointer">
-    <circle class="pulse-ring" r="16" fill="none" stroke="#e9c46a" stroke-width="2" opacity="0.7"/>
-    <circle class="pulse-ring delay" r="16" fill="none" stroke="#e9c46a" stroke-width="1.5" opacity="0.4"/>
-    <circle class="marker-dot" r="9" fill="#e9c46a" stroke="#fff" stroke-width="2"/>
-    <text class="marker-label" y="-18" text-anchor="middle" fill="#e9c46a" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">AULL</text>
-  </g>
+  <g class="marker-group" style="cursor:pointer"><circle class="pulse-ring" r="16" fill="none" stroke="#f4a261" stroke-width="2" opacity="0.7"/><circle class="pulse-ring delay" r="16" fill="none" stroke="#f4a261" stroke-width="1.5" opacity="0.4"/><circle class="marker-dot" r="9" fill="#f4a261" stroke="#fff" stroke-width="2"/><text class="marker-label" y="-18" text-anchor="middle" fill="#f4a261" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">CW</text><foreignObject x="-80" y="-90" width="200" height="80" class="marker-tooltip cw-tip"><div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:center;gap:8px;font-family:sans-serif;"><div><b style="color:#f4a261;">CW</b><br/><small style="color:#aaa;">Championship Wrestling</small></div></div><div xmlns="http://www.w3.org/1999/xhtml" style="font-size:10px;color:#bbb;margin-top:4px;">Toronto, ON · Est. 2010</div></foreignObject></g>
+  <g class="marker-group" style="cursor:pointer"><circle class="pulse-ring" r="16" fill="none" stroke="#2a9d8f" stroke-width="2" opacity="0.7"/><circle class="pulse-ring delay" r="16" fill="none" stroke="#2a9d8f" stroke-width="1.5" opacity="0.4"/><circle class="marker-dot" r="9" fill="#2a9d8f" stroke="#fff" stroke-width="2"/><text class="marker-label" y="-18" text-anchor="middle" fill="#2a9d8f" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">PNCW</text><foreignObject x="-80" y="-90" width="200" height="80" class="marker-tooltip pncw-tip"><div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:center;gap:8px;font-family:sans-serif;"><div><b style="color:#2a9d8f;">PNCW</b><br/><small style="color:#aaa;">Pacific North Championship Wrestling</small></div></div><div xmlns="http://www.w3.org/1999/xhtml" style="font-size:10px;color:#bbb;margin-top:4px;">San Francisco, CA · Est. 2015</div></foreignObject></g>
+  <g class="marker-group" style="cursor:pointer"><circle class="pulse-ring" r="16" fill="none" stroke="#e9c46a" stroke-width="2" opacity="0.7"/><circle class="pulse-ring delay" r="16" fill="none" stroke="#e9c46a" stroke-width="1.5" opacity="0.4"/><circle class="marker-dot" r="9" fill="#e9c46a" stroke="#fff" stroke-width="2"/><text class="marker-label" y="-18" text-anchor="middle" fill="#e9c46a" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">AULL</text><foreignObject x="-80" y="-90" width="200" height="80" class="marker-tooltip aull-tip"><div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:center;gap:8px;font-family:sans-serif;"><div><b style="color:#e9c46a;">AULL</b><br/><small style="color:#aaa;">Asociación Universal de Lucha Libre</small></div></div><div xmlns="http://www.w3.org/1999/xhtml" style="font-size:10px;color:#bbb;margin-top:4px;">Ciudad de México · Est. 1981</div></foreignObject></g>
   </g>
   <text x="490" y="100" class="country-label" text-anchor="middle">Canada</text>
   <text x="490" y="360" class="country-label" text-anchor="middle" opacity=".1">United States</text>
@@ -202,7 +206,8 @@
 </div>
 <script>
 document.addEventListener("DOMContentLoaded",function(){
-const ORGS={"PWA":{"name":"Professional Wrestling Association","abbr":"PWA","color":"#e63946","hq":"Boston, Massachusetts","founded":"2018","style":"American Independent","championship":"PWA Heavyweight Championship","roster":"ca. 35 Wrestlers","website":"https://www.pwa-wrestling.com","note":"Eine der fuehrenden Independent-Promotions in Neuengland.","logo":"z_Images/PWA_1982-1989.png"},"CW":{"name":"Championship Wrestling","abbr":"CW","color":"#f4a261","hq":"Toronto, Ontario, Kanada","founded":"2010","style":"Canadian Style / Sports Entertainment","championship":"CW World Heavyweight Title","roster":"ca. 50 Wrestlers","website":"https://www.championshipwrestling.ca","note":"Groesste kanadische Wrestling-Promotion mit landesweiter TV-Praesenz.","logo":"z_Images/CWC.png"},"PNCW":{"name":"Pacific North Championship Wrestling","abbr":"PNCW","color":"#2a9d8f","hq":"San Francisco, Kalifornien","founded":"2015","style":"West Coast Lucha / Strong Style","championship":"PNCW Pacific Championship","roster":"ca. 40 Wrestlers","website":"https://www.pncw-wrestling.com","note":"Fusion aus Lucha Libre und Japanese Strong Style an der Westkueste.","logo":"z_Images/PNCW.png"},"AULL":{"name":"Asociacion Universal de Lucha Libre","abbr":"AULL","color":"#e9c46a","hq":"Ciudad de Mexico, Mexiko","founded":"1981","style":"Lucha Libre","championship":"AULL World Title","roster":"ca. 200 Luchadores","website":"https://www.aull-luchalibre.mx","note":"Traditionelle mexikanische Lucha-Libre-Organisation mit jahrzehntelanger Geschichte.","logo":"z_Images/AULL.png"}};
+// CSS-only hover tooltips replace JS cards
+{"PWA":{"name":"Professional Wrestling Association","abbr":"PWA","color":"#e63946","hq":"Boston, Massachusetts","founded":"2018","style":"American Independent","championship":"PWA Heavyweight Championship","roster":"ca. 35 Wrestlers","website":"https://www.pwa-wrestling.com","note":"Eine der fuehrenden Independent-Promotions in Neuengland.","logo":"z_Images/PWA_1982-1989.png"},"CW":{"name":"Championship Wrestling","abbr":"CW","color":"#f4a261","hq":"Toronto, Ontario, Kanada","founded":"2010","style":"Canadian Style / Sports Entertainment","championship":"CW World Heavyweight Title","roster":"ca. 50 Wrestlers","website":"https://www.championshipwrestling.ca","note":"Groesste kanadische Wrestling-Promotion mit landesweiter TV-Praesenz.","logo":"z_Images/CWC.png"},"PNCW":{"name":"Pacific North Championship Wrestling","abbr":"PNCW","color":"#2a9d8f","hq":"San Francisco, Kalifornien","founded":"2015","style":"West Coast Lucha / Strong Style","championship":"PNCW Pacific Championship","roster":"ca. 40 Wrestlers","website":"https://www.pncw-wrestling.com","note":"Fusion aus Lucha Libre und Japanese Strong Style an der Westkueste.","logo":"z_Images/PNCW.png"},"AULL":{"name":"Asociacion Universal de Lucha Libre","abbr":"AULL","color":"#e9c46a","hq":"Ciudad de Mexico, Mexiko","founded":"1981","style":"Lucha Libre","championship":"AULL World Title","roster":"ca. 200 Luchadores","website":"https://www.aull-luchalibre.mx","note":"Traditionelle mexikanische Lucha-Libre-Organisation mit jahrzehntelanger Geschichte.","logo":"z_Images/AULL.png"}};
 const card=document.getElementById("info-card"),close=document.getElementById("card-close");
 function esc(s){return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")}
 function posCard(e){const m=14,cw=card.offsetWidth||320,ch=card.offsetHeight||300;let cx=e.clientX+20,cy=e.clientY+20;if(cx+cw>window.innerWidth-m)cx=e.clientX-cw-12;if(cy+ch>window.innerHeight-m)cy=e.clientY-ch-12;if(cx<m)cx=m;if(cy<m)cy=m;card.style.left=cx+"px";card.style.top=cy+"px"}

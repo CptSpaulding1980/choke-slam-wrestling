@@ -1,0 +1,40 @@
+---
+dg-publish: 'true'
+permalink: /wrestler/sin-cara/
+title: Sin Cara
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sin_Cara.png
+matches: 3
+wins: 2
+losses: 0
+draws: 1
+win_percent: 66.7
+avg_rating: 93.67
+---
+
+# Sin Cara
+
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sin_Cara.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+
+## Karriere-Statistiken
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 3 | 2 | 0 | 1 | 66.7% | 93.67 |
+
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/sin-cara_stats.png" width="200"> | **⚪️✅✅**<br>**Win:** Sin Cara vs. Aoife Valkyrie vs. Killer Kelly vs. Akira Hokuto in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Win:** Apple Money in the Bank Match in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 98% vs. Apple Money in the Bank Match |
+
+## Häufigste Gegner
+- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
+- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
+- [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] (2x)
+- [[Wrestler/Alberto El Patron\|Alberto El Patron]] (2x)
+
+## Top Matches
+- 98%: Apple Money in the Bank Match in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)
+- 93%: [[Wrestler/Sin Cara\|Sin Cara]] vs. [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] vs. [[Wrestler/Killer Kelly\|Killer Kelly]] vs. [[Wrestler/Akira Hokuto\|Akira Hokuto]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)
+- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)

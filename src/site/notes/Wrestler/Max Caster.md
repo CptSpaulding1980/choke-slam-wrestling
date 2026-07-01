@@ -1,0 +1,43 @@
+---
+dg-publish: 'true'
+permalink: /wrestler/max-caster/
+title: Max Caster
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Max_Caster.png
+matches: 3
+wins: 0
+losses: 3
+draws: 0
+win_percent: 0.0
+avg_rating: 83.67
+---
+
+# Max Caster
+
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Max_Caster.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+
+## Karriere-Statistiken
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 3 | 0 | 3 | 0 | 0.0% | 83.67 |
+
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/max-caster_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Saint Rebel Radicalz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Sweet 'n Sour Elite vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Militanter Mummenschanz vs. Max Caster & Anthony Bowens in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Anthony Bowens\|Anthony Bowens]]<br>**Best Match:** 89% vs. Militanter Mummenschanz vs. Max Caster & Anthony Bowens |
+
+## Häufigste Gegner
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (1x)
+- [[Wrestler/EC3\|EC3]] (1x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (1x)
+- [[Wrestler/Triple H\|Triple H]] (1x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Anthony Bowens\|Anthony Bowens]] (3x)
+
+## Top Matches
+- 89%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)
+- 86%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)
+- 76%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Max Caster\|Max Caster]] & [[Wrestler/Anthony Bowens\|Anthony Bowens]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)

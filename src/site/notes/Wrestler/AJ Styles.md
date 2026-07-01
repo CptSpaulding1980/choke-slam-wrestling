@@ -1,0 +1,49 @@
+---
+dg-publish: 'true'
+permalink: /wrestler/aj-styles/
+title: AJ Styles
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/AJ_Styles.png
+matches: 76
+wins: 33
+losses: 23
+draws: 20
+win_percent: 43.4
+avg_rating: 84.13
+---
+
+# AJ Styles
+
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/AJ_Styles.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+
+## Karriere-Statistiken
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 76 | 33 | 23 | 20 | 43.4% | 84.13 |
+
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/aj-styles_stats.png" width="200"> | **✅⚪️✅⚪️⚪️**<br>**Draw:** Round of 16: Hulk Hogan vs. AJ Styles in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Miro\|Miro]]<br>**Best Match:** 102% vs. Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) |
+
+## Häufigste Gegner
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (10x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (9x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (9x)
+- [[Wrestler/Miro\|Miro]] (9x)
+- [[Wrestler/Brandon\|Brandon]] (9x)
+
+## Häufigste Partner
+- [[Wrestler/Miro\|Miro]] (6x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (5x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (4x)
+- [[Wrestler/Cora Jade\|Cora Jade]] (3x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (3x)
+
+## Top Matches
+- 102%: [[Choke Slam World Championship]]: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)
+- 100%: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)
+- 100%: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)
+- 99%: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
+- 99%: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] vs. [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)

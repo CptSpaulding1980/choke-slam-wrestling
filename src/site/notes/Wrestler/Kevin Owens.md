@@ -1,0 +1,46 @@
+---
+dg-publish: 'true'
+permalink: /wrestler/kevin-owens/
+title: Kevin Owens
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kevin_Owens.png
+matches: 5
+wins: 2
+losses: 0
+draws: 3
+win_percent: 40.0
+avg_rating: 87.4
+---
+
+# Kevin Owens
+
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kevin_Owens.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+
+## Karriere-Statistiken
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 5 | 2 | 0 | 3 | 40.0% | 87.40 |
+
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/kevin-owens_stats.png" width="200"> | **⚪️⚪️⚪️✅✅**<br>**Win:** Extreme Rules: Mankind vs. Kevin Owens in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Saint Rebel Radicalz vs. EC3, Killer Kelly, & Kevin Owens in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Draw:** Samoa Joe vs. Bam Bam Bigelow vs. Big Van Vader vs. Luna Vachon vs. Big Ryck vs. Kevin Owens vs. WALTER vs. Kenny Omega in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)<br> | **Nemesis:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Partner:** [[Wrestler/EC3\|EC3]]<br>**Best Match:** 96% vs. Extreme Rules: Mankind vs. Kevin Owens |
+
+## Häufigste Gegner
+- [[Wrestler/Samoa Joe\|Samoa Joe]] (3x)
+- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (3x)
+- [[Wrestler/Joey Janela\|Joey Janela]] (3x)
+
+## Häufigste Partner
+- [[Wrestler/EC3\|EC3]] (1x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
+
+## Top Matches
+- 96%: [[Extreme Rules]]: Mankind vs. [[Wrestler/Kevin Owens\|Kevin Owens]] in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)
+- 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. WALTER vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
+- 91%: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)
+- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
+- 68%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/EC3\|EC3]], [[Wrestler/Killer Kelly\|Killer Kelly]], & [[Wrestler/Kevin Owens\|Kevin Owens]] in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)

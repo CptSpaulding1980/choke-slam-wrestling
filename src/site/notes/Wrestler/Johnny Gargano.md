@@ -1,0 +1,43 @@
+---
+dg-publish: 'true'
+permalink: /wrestler/johnny-gargano/
+title: Johnny Gargano
+tags:
+- wrestler
+img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Johnny_Gargano.png
+matches: 3
+wins: 1
+losses: 2
+draws: 0
+win_percent: 33.3
+avg_rating: 91.0
+---
+
+# Johnny Gargano
+
+<table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Johnny_Gargano.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+
+## Karriere-Statistiken
+| Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
+|---|---|---|---|---|---|
+| 3 | 1 | 2 | 0 | 33.3% | 91.00 |
+
+### Advanced Stats
+| Record | Form | Facts |
+|:---:|---|---|
+| <img src="/img/charts/johnny-gargano_stats.png" width="200"> | **❌✅❌**<br>**Loss:** Johnny Gargano & Tommaso Ciampa vs.Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Win:** Johnny Gargano & Tommaso Ciampa vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Brock Lesnar\|Brock Lesnar]]<br>**Partner:** [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]]<br>**Best Match:** 94% vs. Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz |
+
+## Häufigste Gegner
+- [[Wrestler/Brock Lesnar\|Brock Lesnar]] (1x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
+- [[Wrestler/Booker T\|Booker T]] (1x)
+- [[Wrestler/Stevie Ray\|Stevie Ray]] (1x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (1x)
+
+## Häufigste Partner
+- [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] (3x)
+
+## Top Matches
+- 94%: [[Wrestler/Johnny Gargano\|Johnny Gargano]] & [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)
+- 90%: [[Wrestler/Johnny Gargano\|Johnny Gargano]] & [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)
+- 89%: [[Wrestler/Johnny Gargano\|Johnny Gargano]] & [[Wrestler/Tommaso Ciampa\|Tommaso Ciampa]] vs.[[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)

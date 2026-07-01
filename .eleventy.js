@@ -23,7 +23,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
     formats: ["webp", "jpeg"],
-    outputDir: "./dist/img/optimized",
+    outputDir: "./docs/img/optimized",
     urlPath: `${GHP_SUBFOLDER}/img/optimized`,
   };
 
@@ -213,7 +213,7 @@ module.exports = function (eleventyConfig) {
   });
 
   // --- Plugins ---
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "docs" });
   eleventyConfig.addPlugin(tocPlugin, { ul: true, tags: ["h1", "h2", "h3", "h4", "h5", "h6"] });
   eleventyConfig.addPlugin(pluginRss, {
     posthtmlRenderOptions: { closingSingleTag: "slash", singleTags: ["link"] },
@@ -230,7 +230,7 @@ module.exports = function (eleventyConfig) {
   return {
     dir: {
       input: "src/site",
-      output: "dist",
+      output: "docs",
       data: "_data",
     },
     templateFormats: ["njk", "md", "11ty.js"],

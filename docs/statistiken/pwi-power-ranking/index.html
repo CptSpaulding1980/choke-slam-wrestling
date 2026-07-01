@@ -1,0 +1,1623 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>PWI Power Ranking</title>
+    <header class="site-banner">
+  <img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlamWrestling_Banner.png" alt="Choke Slam Wrestling Banner" >
+</header>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<nav class="sidebar" id="site-nav">
+  <button 
+    class="burger"
+    aria-label="Menü öffnen/schließen"
+    aria-expanded="false"
+    id="burger-toggle"
+    onclick="toggleMenu()"
+  >
+    ☰
+  </button>
+  <ul>
+    <li><a href="#" onclick="history.back();return false;" title="Zurück">← Zurück</a></li>
+    <li><a href="/choke-slam-wrestling/">Home</a></li>
+    <li><a href="/choke-slam-wrestling/audio/">Audio Files</a></li>
+    <li><a href="/choke-slam-wrestling/championships/">Championships</a></li>
+    <li><a href="/choke-slam-wrestling/events/">Events</a></li>
+    <li><a href="/choke-slam-wrestling/referees/">Referees</a></li>
+    <li><a href="/choke-slam-wrestling/teams/">Teams</a></li>
+    <li><a href="/choke-slam-wrestling/wrestler/">Wrestler</a></li>
+    <li><a href="/choke-slam-wrestling/statistiken/">Statistiken</a></li>
+  </ul>
+</nav>
+
+<link href="/choke-slam-wrestling/styles/cagematch.css" rel="stylesheet">
+
+<script>
+function toggleMenu() {
+  const nav = document.getElementById('site-nav');
+  const btn = document.getElementById('burger-toggle');
+  nav.classList.toggle('open');
+  const expanded = btn.getAttribute('aria-expanded') === 'true';
+  btn.setAttribute('aria-expanded', !expanded);
+
+  if(nav.classList.contains('open')){
+    document.body.classList.add('menu-open');
+  } else {
+    document.body.classList.remove('menu-open');
+  }
+}
+
+// Aktive Seite hervorheben
+(function(){
+  const path = window.location.pathname;
+  document.querySelectorAll('.sidebar ul li a').forEach(function(a){
+    if(a.pathname !== '/' && path.startsWith(a.pathname)){
+      a.classList.add('active-page');
+    }
+  });
+})();
+</script>
+
+    
+    
+  </head>
+  <body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section title-note-icon links-note-icon css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-ribbon show-view-header css-settings-manager is-maximized ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-no-highlight anp-latex-inline-text anp-latex-block-text anp-td-none anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-default-rainbow anp-default-tab is-focused">
+    
+    
+    
+      
+    
+    <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" 
+            x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" 
+            x-data="{isDesktop: true, showFilesMobile: false}">
+
+        <div x-show.important="!isDesktop" style="display: none;">
+            <nav class="navbar">
+    <div class="navbar-inner">
+        <span style="font-size: 1.5rem; margin-right: 10px;" @click="showFilesMobile=!showFilesMobile"><i  icon-name="menu"></i></span>
+        
+        <a href="/" style="text-decoration: none;">
+            <h1 style="margin: 15px !important;">Choke Slam Wrestling</h1>
+        </a>
+        
+    </div>
+    
+    
+</nav>
+        </div>
+        
+        <div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none;" class="fullpage-overlay"></div>
+
+      <nav class="filetree-sidebar"  x-show.important="isDesktop || showFilesMobile" style="display: none;">
+        
+         <a href="/" style="text-decoration: none;">
+               <h1 style="text-align:center;">Choke Slam Wrestling</h1>
+         </a>
+         
+        
+         <div class="folder" x-data="{isOpen: true}"></div>
+      </nav>
+    </div>
+
+    
+
+    
+
+    <main class="content cm-s-obsidian ">
+      <header>
+        
+
+        
+        <nav class="breadcrumbs" aria-label="Breadcrumb" style="font-size:0.85rem; color:var(--muted-text); margin-bottom:1em;">
+          <a href="/choke-slam-wrestling/">Home</a>
+          
+            » <a href="/choke-slam-wrestling/statistiken/">Statistiken</a>
+          
+          » <span>PWI Power Ranking</span>
+        </nav>
+
+        <div class="header-meta">
+          </div>
+      
+      
+      </header>
+      
+      
+      <h1 id="pwi-power-ranking-s07" tabindex="-1">🏆 PWI Power Ranking – S07</h1>
+<blockquote>
+<p><strong>Stand:</strong> 2026-06-24 04:05 | <strong>Matches:</strong> 229 | <strong>Wrestler geranked:</strong> 61 | <strong>Events:</strong> 13</p>
+</blockquote>
+<p><strong>Scoring:</strong> PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus</p>
+<p>Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Trios +8</p>
+<h2 id="singles-top-50" tabindex="-1">🥇 Singles Top 50</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">#</th>
+<th>Wrestler</th>
+<th style="text-align:center">W</th>
+<th style="text-align:center">L</th>
+<th style="text-align:center">D</th>
+<th style="text-align:right">Win%</th>
+<th style="text-align:right">Ø★</th>
+<th style="text-align:right">Pts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td>Hiroshi Tanahashi 🏆</td>
+<td style="text-align:center">18</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">2</td>
+<td style="text-align:right">82%</td>
+<td style="text-align:right">81</td>
+<td style="text-align:right">75</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td>Daniel Bryan</td>
+<td style="text-align:center">31</td>
+<td style="text-align:center">15</td>
+<td style="text-align:center">1</td>
+<td style="text-align:right">66%</td>
+<td style="text-align:right">85</td>
+<td style="text-align:right">74</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td>Sasha Banks 🏆</td>
+<td style="text-align:center">13</td>
+<td style="text-align:center">6</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">68%</td>
+<td style="text-align:right">88</td>
+<td style="text-align:right">62</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td>Bret Hart</td>
+<td style="text-align:center">15</td>
+<td style="text-align:center">9</td>
+<td style="text-align:center">4</td>
+<td style="text-align:right">54%</td>
+<td style="text-align:right">86</td>
+<td style="text-align:right">51</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td>Steve Austin 🏆</td>
+<td style="text-align:center">14</td>
+<td style="text-align:center">24</td>
+<td style="text-align:center">2</td>
+<td style="text-align:right">35%</td>
+<td style="text-align:right">83</td>
+<td style="text-align:right">51</td>
+</tr>
+<tr>
+<td style="text-align:center">6</td>
+<td>Chris Jericho</td>
+<td style="text-align:center">21</td>
+<td style="text-align:center">21</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">50%</td>
+<td style="text-align:right">84</td>
+<td style="text-align:right">46</td>
+</tr>
+<tr>
+<td style="text-align:center">7</td>
+<td>Kazuchika Okada</td>
+<td style="text-align:center">13</td>
+<td style="text-align:center">9</td>
+<td style="text-align:center">2</td>
+<td style="text-align:right">54%</td>
+<td style="text-align:right">84</td>
+<td style="text-align:right">44</td>
+</tr>
+<tr>
+<td style="text-align:center">8</td>
+<td>Roman Reigns</td>
+<td style="text-align:center">15</td>
+<td style="text-align:center">14</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">52%</td>
+<td style="text-align:right">88</td>
+<td style="text-align:right">43</td>
+</tr>
+<tr>
+<td style="text-align:center">9</td>
+<td>Kensuke Sasaki</td>
+<td style="text-align:center">10</td>
+<td style="text-align:center">6</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">62%</td>
+<td style="text-align:right">89</td>
+<td style="text-align:right">41</td>
+</tr>
+<tr>
+<td style="text-align:center">10</td>
+<td>Owen Hart</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">80%</td>
+<td style="text-align:right">86</td>
+<td style="text-align:right">40</td>
+</tr>
+<tr>
+<td style="text-align:center">11</td>
+<td>Awesome Kong</td>
+<td style="text-align:center">13</td>
+<td style="text-align:center">14</td>
+<td style="text-align:center">2</td>
+<td style="text-align:right">45%</td>
+<td style="text-align:right">83</td>
+<td style="text-align:right">39</td>
+</tr>
+<tr>
+<td style="text-align:center">12</td>
+<td>Brock Lesnar</td>
+<td style="text-align:center">9</td>
+<td style="text-align:center">6</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">60%</td>
+<td style="text-align:right">82</td>
+<td style="text-align:right">37</td>
+</tr>
+<tr>
+<td style="text-align:center">13</td>
+<td>Wardlow</td>
+<td style="text-align:center">14</td>
+<td style="text-align:center">18</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">44%</td>
+<td style="text-align:right">87</td>
+<td style="text-align:right">36</td>
+</tr>
+<tr>
+<td style="text-align:center">14</td>
+<td>Tyler Bate</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">80%</td>
+<td style="text-align:right">86</td>
+<td style="text-align:right">33</td>
+</tr>
+<tr>
+<td style="text-align:center">15</td>
+<td>Trent Seven</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">80%</td>
+<td style="text-align:right">86</td>
+<td style="text-align:right">33</td>
+</tr>
+<tr>
+<td style="text-align:center">16</td>
+<td>Pete Dunne</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">50%</td>
+<td style="text-align:right">91</td>
+<td style="text-align:right">31</td>
+</tr>
+<tr>
+<td style="text-align:center">17</td>
+<td>Jun Akiyama</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">67%</td>
+<td style="text-align:right">93</td>
+<td style="text-align:right">31</td>
+</tr>
+<tr>
+<td style="text-align:center">18</td>
+<td>Kevin Steen</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">50%</td>
+<td style="text-align:right">96</td>
+<td style="text-align:right">31</td>
+</tr>
+<tr>
+<td style="text-align:center">19</td>
+<td>Jay White</td>
+<td style="text-align:center">9</td>
+<td style="text-align:center">14</td>
+<td style="text-align:center">1</td>
+<td style="text-align:right">38%</td>
+<td style="text-align:right">85</td>
+<td style="text-align:right">31</td>
+</tr>
+<tr>
+<td style="text-align:center">20</td>
+<td>Lex Luger</td>
+<td style="text-align:center">7</td>
+<td style="text-align:center">10</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">41%</td>
+<td style="text-align:right">87</td>
+<td style="text-align:right">30</td>
+</tr>
+<tr>
+<td style="text-align:center">21</td>
+<td>Gunther</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
+<td style="text-align:right">50%</td>
+<td style="text-align:right">84</td>
+<td style="text-align:right">29</td>
+</tr>
+<tr>
+<td style="text-align:center">22</td>
+<td>Tommaso Ciampa</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">38%</td>
+<td style="text-align:right">94</td>
+<td style="text-align:right">29</td>
+</tr>
+<tr>
+<td style="text-align:center">23</td>
+<td>The Undertaker</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">67%</td>
+<td style="text-align:right">86</td>
+<td style="text-align:right">29</td>
+</tr>
+<tr>
+<td style="text-align:center">24</td>
+<td>Cody Rhodes</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">95</td>
+<td style="text-align:right">29</td>
+</tr>
+<tr>
+<td style="text-align:center">25</td>
+<td>Oba Femi</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">95</td>
+<td style="text-align:right">29</td>
+</tr>
+<tr>
+<td style="text-align:center">26</td>
+<td>Big E</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">95</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">27</td>
+<td>Kofi Kingston</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">95</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">28</td>
+<td>Finn Bálor</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">50%</td>
+<td style="text-align:right">88</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">29</td>
+<td>Booker T</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">95</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">30</td>
+<td>Stevie Ray</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">95</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">31</td>
+<td>Fit Finlay</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">94</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">32</td>
+<td>Tetsuya Naito</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">100%</td>
+<td style="text-align:right">74</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">33</td>
+<td>Charlotte Flair</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">43%</td>
+<td style="text-align:right">86</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">34</td>
+<td>Goldust</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">67%</td>
+<td style="text-align:right">82</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">35</td>
+<td>Road Dogg</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">92</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">36</td>
+<td>Billy Gunn</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">92</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">37</td>
+<td>Jon Moxley</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">7</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">42%</td>
+<td style="text-align:right">82</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">38</td>
+<td>Mosh</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">92</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">39</td>
+<td>Thrasher</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">92</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">40</td>
+<td>Dominik Mysterio</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">91</td>
+<td style="text-align:right">27</td>
+</tr>
+<tr>
+<td style="text-align:center">41</td>
+<td>Johnny Gargano</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">91</td>
+<td style="text-align:right">27</td>
+</tr>
+<tr>
+<td style="text-align:center">42</td>
+<td>Mick Foley</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">90</td>
+<td style="text-align:right">27</td>
+</tr>
+<tr>
+<td style="text-align:center">43</td>
+<td>Chris Benoit</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">90</td>
+<td style="text-align:right">27</td>
+</tr>
+<tr>
+<td style="text-align:center">44</td>
+<td>Bobby Fish</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">0%</td>
+<td style="text-align:right">96</td>
+<td style="text-align:right">26</td>
+</tr>
+<tr>
+<td style="text-align:center">45</td>
+<td>Kyle O'Reilly</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">0%</td>
+<td style="text-align:right">96</td>
+<td style="text-align:right">26</td>
+</tr>
+<tr>
+<td style="text-align:center">46</td>
+<td>Akira Taue</td>
+<td style="text-align:center">9</td>
+<td style="text-align:center">20</td>
+<td style="text-align:center">2</td>
+<td style="text-align:right">29%</td>
+<td style="text-align:right">85</td>
+<td style="text-align:right">26</td>
+</tr>
+<tr>
+<td style="text-align:center">47</td>
+<td>Lady Apache</td>
+<td style="text-align:center">7</td>
+<td style="text-align:center">15</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">32%</td>
+<td style="text-align:right">88</td>
+<td style="text-align:right">25</td>
+</tr>
+<tr>
+<td style="text-align:center">48</td>
+<td>Pac</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">25%</td>
+<td style="text-align:right">88</td>
+<td style="text-align:right">25</td>
+</tr>
+<tr>
+<td style="text-align:center">49</td>
+<td>Rey Fenix</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">25%</td>
+<td style="text-align:right">88</td>
+<td style="text-align:right">25</td>
+</tr>
+<tr>
+<td style="text-align:center">50</td>
+<td>Penta El Zero Miedo</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">25%</td>
+<td style="text-align:right">88</td>
+<td style="text-align:right">25</td>
+</tr>
+</tbody>
+</table>
+<h2 id="aktuelle-champions" tabindex="-1">🏆 Aktuelle Champions</h2>
+<table>
+<thead>
+<tr>
+<th>Titel</th>
+<th>Champion</th>
+<th style="text-align:center">Bonus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Choke Slam World Championship</td>
+<td><strong>Steve Austin</strong></td>
+<td style="text-align:center">+20</td>
+</tr>
+<tr>
+<td>Choke Slam International Championship</td>
+<td><strong>Hiroshi Tanahashi</strong></td>
+<td style="text-align:center">+15</td>
+</tr>
+<tr>
+<td>Choke Slam Womens Championship</td>
+<td><strong>Sasha Banks</strong></td>
+<td style="text-align:center">+15</td>
+</tr>
+<tr>
+<td>Choke Slam Tag Team Championship</td>
+<td><strong>Chris Jericho, Kazuchika Okada</strong></td>
+<td style="text-align:center">+10</td>
+</tr>
+<tr>
+<td>Choke Slam Trios Championship</td>
+<td><strong>Bret Hart, Daniel Bryan, Owen Hart</strong></td>
+<td style="text-align:center">+8</td>
+</tr>
+</tbody>
+</table>
+<h2 id="tag-teams-top-25" tabindex="-1">👥 Tag Teams Top 25</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">#</th>
+<th>Team</th>
+<th style="text-align:center">W</th>
+<th style="text-align:center">L</th>
+<th style="text-align:center">D</th>
+<th style="text-align:right">Win%</th>
+<th style="text-align:right">Ø★</th>
+<th style="text-align:right">Pts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td>Daniel Bryan &amp; Hiroshi Tanahashi</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">100%</td>
+<td style="text-align:right">92</td>
+<td style="text-align:right">34</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td>Chris Jericho &amp; Kazuchika Okada</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">71%</td>
+<td style="text-align:right">84</td>
+<td style="text-align:right">33</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td>Akira Taue &amp; Konosuke Takeshita</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">2</td>
+<td style="text-align:right">40%</td>
+<td style="text-align:right">90</td>
+<td style="text-align:right">33</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td>Jon Moxley &amp; Sasha Banks</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">100%</td>
+<td style="text-align:right">89</td>
+<td style="text-align:right">33</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td>Bret Hart &amp; Owen Hart</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">75%</td>
+<td style="text-align:right">90</td>
+<td style="text-align:right">32</td>
+</tr>
+<tr>
+<td style="text-align:center">6</td>
+<td>Bret Hart &amp; Daniel Bryan</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">67%</td>
+<td style="text-align:right">95</td>
+<td style="text-align:right">31</td>
+</tr>
+<tr>
+<td style="text-align:center">7</td>
+<td>Jun Akiyama &amp; Kazuchika Okada</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">67%</td>
+<td style="text-align:right">93</td>
+<td style="text-align:right">31</td>
+</tr>
+<tr>
+<td style="text-align:center">8</td>
+<td>Brock Lesnar &amp; Chris Jericho</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">100%</td>
+<td style="text-align:right">82</td>
+<td style="text-align:right">30</td>
+</tr>
+<tr>
+<td style="text-align:center">9</td>
+<td>Chris Jericho &amp; Edge</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">50%</td>
+<td style="text-align:right">89</td>
+<td style="text-align:right">30</td>
+</tr>
+<tr>
+<td style="text-align:center">10</td>
+<td>Daniel Bryan &amp; Wardlow</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">50%</td>
+<td style="text-align:right">91</td>
+<td style="text-align:right">29</td>
+</tr>
+<tr>
+<td style="text-align:center">11</td>
+<td>Gunther &amp; The Undertaker</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">67%</td>
+<td style="text-align:right">86</td>
+<td style="text-align:right">29</td>
+</tr>
+<tr>
+<td style="text-align:center">12</td>
+<td>Cody Rhodes &amp; Oba Femi</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">95</td>
+<td style="text-align:right">29</td>
+</tr>
+<tr>
+<td style="text-align:center">13</td>
+<td>Big E &amp; Kofi Kingston</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">95</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">14</td>
+<td>Charlotte Flair &amp; Fit Finlay</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">50%</td>
+<td style="text-align:right">92</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">15</td>
+<td>Booker T &amp; Stevie Ray</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">95</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">16</td>
+<td>Bret Hart &amp; Hiroshi Tanahashi</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">2</td>
+<td style="text-align:right">50%</td>
+<td style="text-align:right">74</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">17</td>
+<td>Billy Gunn &amp; Road Dogg</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">92</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">18</td>
+<td>Mosh &amp; Thrasher</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">92</td>
+<td style="text-align:right">28</td>
+</tr>
+<tr>
+<td style="text-align:center">19</td>
+<td>Dominik Mysterio &amp; Finn Bálor</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">91</td>
+<td style="text-align:right">27</td>
+</tr>
+<tr>
+<td style="text-align:center">20</td>
+<td>Johnny Gargano &amp; Tommaso Ciampa</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">91</td>
+<td style="text-align:right">27</td>
+</tr>
+<tr>
+<td style="text-align:center">21</td>
+<td>Lady Apache &amp; Wardlow</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">33%</td>
+<td style="text-align:right">90</td>
+<td style="text-align:right">27</td>
+</tr>
+<tr>
+<td style="text-align:center">22</td>
+<td>Jay White &amp; Wardlow</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">0%</td>
+<td style="text-align:right">94</td>
+<td style="text-align:right">26</td>
+</tr>
+<tr>
+<td style="text-align:center">23</td>
+<td>Bam Bam Bigelow &amp; Chris Jericho</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">0%</td>
+<td style="text-align:right">93</td>
+<td style="text-align:right">26</td>
+</tr>
+<tr>
+<td style="text-align:center">24</td>
+<td>Bobby Fish &amp; Kyle O'Reilly</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">0%</td>
+<td style="text-align:right">96</td>
+<td style="text-align:right">26</td>
+</tr>
+<tr>
+<td style="text-align:center">25</td>
+<td>Awesome Kong &amp; Steve Austin</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:right">0%</td>
+<td style="text-align:right">92</td>
+<td style="text-align:right">25</td>
+</tr>
+</tbody>
+</table>
+<h2 id="top-25-matches" tabindex="-1">⭐ Top 25 Matches</h2>
+<table>
+<thead>
+<tr>
+<th>Datum</th>
+<th>Show</th>
+<th>Match</th>
+<th>Rating</th>
+<th style="text-align:right">Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2025-10-27 00:00:00</td>
+<td>S07E05_Threeway Fiasko</td>
+<td>Jay White vs. Tommaso Ciampa vs. Roman Reigns</td>
+<td>★★★★★★</td>
+<td style="text-align:right">107</td>
+</tr>
+<tr>
+<td>2025-10-27 00:00:00</td>
+<td>S07E05_Threeway Fiasko</td>
+<td>Lady Apache vs. Wardlow vs. Akira Taue</td>
+<td>★★★★★¼</td>
+<td style="text-align:right">104</td>
+</tr>
+<tr>
+<td>2025-08-21 00:00:00</td>
+<td>S07E03_Changes III</td>
+<td>Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns</td>
+<td>★★★★★</td>
+<td style="text-align:right">102</td>
+</tr>
+<tr>
+<td>2025-08-12 00:00:00</td>
+<td>S07E02_King &amp; Queen of the Ring</td>
+<td>1/8 Finals: Kevin Steen vs. Roman Reigns</td>
+<td>★★★★★</td>
+<td style="text-align:right">102</td>
+</tr>
+<tr>
+<td>2025-10-27 00:00:00</td>
+<td>S07E05_Threeway Fiasko</td>
+<td>Bret Hart vs. Pete Dunne vs. Akira Taue</td>
+<td>★★★★★</td>
+<td style="text-align:right">101</td>
+</tr>
+<tr>
+<td>2026-05-01 00:00:00</td>
+<td>S07E09_Chokeslam Classic</td>
+<td>Lighttube Landmine Match: Lady Apache vs. Edge vs. Jon Moxley vs.Takashi Sasaki</td>
+<td>★★★★★</td>
+<td style="text-align:right">100</td>
+</tr>
+<tr>
+<td>2025-10-02 00:00:00</td>
+<td>S07E04 The Iron Chamber - Night 2</td>
+<td>Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c)</td>
+<td>★★★★★</td>
+<td style="text-align:right">100</td>
+</tr>
+<tr>
+<td>2025-10-27 00:00:00</td>
+<td>S07E05_Threeway Fiasko</td>
+<td>Chris Jericho vs. Daniel Bryan vs. Sasha Banks</td>
+<td>★★★★★</td>
+<td style="text-align:right">100</td>
+</tr>
+<tr>
+<td>2025-10-27 00:00:00</td>
+<td>S07E05_Threeway Fiasko</td>
+<td>Akira Taue vs. Roman Reigns vs. Daniel Bryan</td>
+<td>★★★★★</td>
+<td style="text-align:right">100</td>
+</tr>
+<tr>
+<td>2025-11-18 00:00:00</td>
+<td>S07E06_War Games</td>
+<td>Undisputed Era (Bobby Fish &amp; Kyle O'Reilly) vs. Militanter Mummenschanz</td>
+<td>★★★★★</td>
+<td style="text-align:right">100</td>
+</tr>
+<tr>
+<td>2025-06-03 00:00:00</td>
+<td>S07E01_Brave new World</td>
+<td>Reveal Rumble</td>
+<td>★★★★★</td>
+<td style="text-align:right">100</td>
+</tr>
+<tr>
+<td>2025-06-03 00:00:00</td>
+<td>S07E01_Brave new World</td>
+<td>Bandido vs. Edge vs. Wardlow</td>
+<td>★★★★★</td>
+<td style="text-align:right">100</td>
+</tr>
+<tr>
+<td>2025-12-30 00:00:00</td>
+<td>S07E07_Turbo Turnier</td>
+<td>Dominik Mysterio &amp; Finn Bálor vs. Militanter Mummenschanz</td>
+<td>★★★★¾</td>
+<td style="text-align:right">99</td>
+</tr>
+<tr>
+<td>2025-10-27 00:00:00</td>
+<td>S07E05_Threeway Fiasko</td>
+<td>Kensuke Sasaki vs. Lady Apache vs. Bandido</td>
+<td>★★★★¾</td>
+<td style="text-align:right">99</td>
+</tr>
+<tr>
+<td>2025-10-27 00:00:00</td>
+<td>S07E05_Threeway Fiasko</td>
+<td>Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho</td>
+<td>★★★★¾</td>
+<td style="text-align:right">99</td>
+</tr>
+<tr>
+<td>2025-06-03 00:00:00</td>
+<td>S07E01_Brave new World</td>
+<td>Elimination: Militanter Mummenschanz vs. Saint Rebel Radicalz</td>
+<td>★★★★¾</td>
+<td style="text-align:right">99</td>
+</tr>
+<tr>
+<td>2025-12-30 00:00:00</td>
+<td>S07E07_Turbo Turnier</td>
+<td>Cody Rhodes &amp; Oba Femi vs. Sweet 'n Sour Elite</td>
+<td>★★★★¾</td>
+<td style="text-align:right">99</td>
+</tr>
+<tr>
+<td>2025-08-21 00:00:00</td>
+<td>S07E03_Changes III</td>
+<td>Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (Edgicho) (c)</td>
+<td>★★★★¾</td>
+<td style="text-align:right">98</td>
+</tr>
+<tr>
+<td>2025-06-03 00:00:00</td>
+<td>S07E01_Brave new World</td>
+<td>Street Fight: Militanter Mummenschanz vs. Sweet 'n Sour Elite</td>
+<td>★★★★¾</td>
+<td style="text-align:right">98</td>
+</tr>
+<tr>
+<td>2025-10-27 00:00:00</td>
+<td>S07E05_Threeway Fiasko</td>
+<td>Edge vs. Awesome Kong vs. Pete Dunne</td>
+<td>★★★★¾</td>
+<td style="text-align:right">98</td>
+</tr>
+<tr>
+<td>2025-08-12 00:00:00</td>
+<td>S07E02_King &amp; Queen of the Ring</td>
+<td>Special Referee Steve Austin - Non Title Match: Daniel Bryan vs. Roman Reigns</td>
+<td>★★★★¾</td>
+<td style="text-align:right">98</td>
+</tr>
+<tr>
+<td>2026-05-01 00:00:00</td>
+<td>S07E09_Chokeslam Classic</td>
+<td>Kazuchika Okada vs. Brock Lesnar</td>
+<td>★★★★¾</td>
+<td style="text-align:right">98</td>
+</tr>
+<tr>
+<td>2025-11-18 00:00:00</td>
+<td>S07E06_War Games</td>
+<td>Saint Rebel Radicalz vs. Undisputed Era</td>
+<td>★★★★¾</td>
+<td style="text-align:right">98</td>
+</tr>
+<tr>
+<td>2026-05-01 00:00:00</td>
+<td>S07E09_Chokeslam Classic</td>
+<td>Daniel Bryan vs. Kazuchika Okada</td>
+<td>★★★★¾</td>
+<td style="text-align:right">98</td>
+</tr>
+<tr>
+<td>2025-08-12 00:00:00</td>
+<td>S07E02_King &amp; Queen of the Ring</td>
+<td>Semi Finals: Kevin Steen vs. Lex Luger</td>
+<td>★★★★¾</td>
+<td style="text-align:right">97</td>
+</tr>
+</tbody>
+</table>
+<h2 id="championship-history" tabindex="-1">📜 Championship History</h2>
+<h3 id="choke-slam-world-championship" tabindex="-1">🏆 Choke Slam World Championship</h3>
+<table>
+<thead>
+<tr>
+<th>Datum</th>
+<th>Winner</th>
+<th>Loser</th>
+<th>Show</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2025-08-21</td>
+<td><strong>Roman Reigns</strong></td>
+<td>Steve Austin</td>
+<td>S07E03_Changes III</td>
+</tr>
+<tr>
+<td>2025-10-27</td>
+<td><strong>Steve Austin</strong></td>
+<td>Lady Apache</td>
+<td>S07E05_Threeway Fiasko</td>
+</tr>
+<tr>
+<td>2025-11-18</td>
+<td><strong>Steve Austin</strong></td>
+<td>Jay White</td>
+<td>S07E06_War Games</td>
+</tr>
+<tr>
+<td>2026-03-16</td>
+<td><strong>Steve Austin</strong></td>
+<td>Chris Benoit</td>
+<td>S07E08_Royal Rumble</td>
+</tr>
+<tr>
+<td>2026-05-15</td>
+<td><strong>Steve Austin</strong></td>
+<td>Daniel Bryan</td>
+<td>S07E10_Night of Champions</td>
+</tr>
+<tr>
+<td>2026-06-23</td>
+<td><strong>Steve Austin</strong></td>
+<td>Bret Hart</td>
+<td>S07E12_ChokeSlamMania VII</td>
+</tr>
+<tr>
+<td>2026-06-23</td>
+<td><strong>Steve Austin</strong></td>
+<td>Roman Reigns</td>
+<td>S07E12_ChokeSlamMania VII</td>
+</tr>
+</tbody>
+</table>
+<h3 id="choke-slam-international-championship" tabindex="-1">🏆 Choke Slam International Championship</h3>
+<table>
+<thead>
+<tr>
+<th>Datum</th>
+<th>Winner</th>
+<th>Loser</th>
+<th>Show</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2025-06-03</td>
+<td><strong>Daniel Bryan</strong></td>
+<td>Fit Finlay, Chris Jericho, Bret Hart</td>
+<td>S07E01_Brave new World</td>
+</tr>
+<tr>
+<td>2025-08-21</td>
+<td><strong>Daniel Bryan</strong></td>
+<td>Bam Bam Bigelow, Chris Jericho</td>
+<td>S07E03_Changes III</td>
+</tr>
+<tr>
+<td>2025-08-21</td>
+<td><strong>Awesome Kong</strong></td>
+<td>Daniel Bryan</td>
+<td>S07E03_Changes III</td>
+</tr>
+<tr>
+<td>2025-10-27</td>
+<td><strong>Chris Jericho</strong></td>
+<td>Awesome Kong</td>
+<td>S07E05_Threeway Fiasko</td>
+</tr>
+<tr>
+<td>2026-05-15</td>
+<td><strong>Hiroshi Tanahashi</strong></td>
+<td>Chris Jericho</td>
+<td>S07E10_Night of Champions</td>
+</tr>
+<tr>
+<td>2026-06-23</td>
+<td><strong>Hiroshi Tanahashi</strong></td>
+<td>Mick Foley, Jon Moxley</td>
+<td>S07E12_ChokeSlamMania VII</td>
+</tr>
+</tbody>
+</table>
+<h3 id="choke-slam-womens-championship" tabindex="-1">🏆 Choke Slam Womens Championship</h3>
+<table>
+<thead>
+<tr>
+<th>Datum</th>
+<th>Winner</th>
+<th>Loser</th>
+<th>Show</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2026-05-15</td>
+<td><strong>Sasha Banks</strong></td>
+<td>Awesome Kong</td>
+<td>S07E10_Night of Champions</td>
+</tr>
+<tr>
+<td>2026-06-23</td>
+<td><strong>Sasha Banks</strong></td>
+<td>Awesome Kong, Lady Apache</td>
+<td>S07E12_ChokeSlamMania VII</td>
+</tr>
+</tbody>
+</table>
+<h3 id="choke-slam-tag-team-championship" tabindex="-1">🏆 Choke Slam Tag Team Championship</h3>
+<table>
+<thead>
+<tr>
+<th>Datum</th>
+<th>Winner</th>
+<th>Loser</th>
+<th>Show</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2025-08-12</td>
+<td><strong>Gunther, The Undertaker</strong></td>
+<td>Bam Bam Bigelow, Steve Austin</td>
+<td>S07E02_King &amp; Queen of the Ring</td>
+</tr>
+<tr>
+<td>2025-08-12</td>
+<td><strong>Gunther, The Undertaker</strong></td>
+<td>Jay White, Wardlow</td>
+<td>S07E02_King &amp; Queen of the Ring</td>
+</tr>
+<tr>
+<td>2025-08-12</td>
+<td><strong>Chris Jericho, Edge</strong></td>
+<td>Gunther, The Undertaker</td>
+<td>S07E02_King &amp; Queen of the Ring</td>
+</tr>
+<tr>
+<td>2025-08-21</td>
+<td><strong>Daniel Bryan, Wardlow</strong></td>
+<td>Edge, Chris Jericho</td>
+<td>S07E03_Changes III</td>
+</tr>
+<tr>
+<td>2025-10-27</td>
+<td><strong>Kensuke Sasaki, Roman Reigns</strong></td>
+<td>Daniel Bryan, Wardlow</td>
+<td>S07E05_Threeway Fiasko</td>
+</tr>
+<tr>
+<td>2025-11-18</td>
+<td><strong>Chris Jericho, Kazuchika Okada</strong></td>
+<td>Akira Taue, Konosuke Takeshita</td>
+<td>S07E06_War Games</td>
+</tr>
+</tbody>
+</table>
+<h3 id="choke-slam-trios-championship" tabindex="-1">🏆 Choke Slam Trios Championship</h3>
+<table>
+<thead>
+<tr>
+<th>Datum</th>
+<th>Winner</th>
+<th>Loser</th>
+<th>Show</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2025-08-12</td>
+<td><strong>Hendrique Delafuente, Bandido, Fit Finlay</strong></td>
+<td>El Hijo del Vikingo, Myzteziz Jr., Laredo Kid</td>
+<td>S07E02_King &amp; Queen of the Ring</td>
+</tr>
+<tr>
+<td>2025-08-12</td>
+<td><strong>Daniel Bryan, Lex Luger, Wardlow</strong></td>
+<td>Hendrique Delafuente, Bandido, Fit Finlay</td>
+<td>S07E02_King &amp; Queen of the Ring</td>
+</tr>
+<tr>
+<td>2025-08-12</td>
+<td><strong>Edge, Kensuke Sasaki, Roman Reigns</strong></td>
+<td>Daniel Bryan, Lex Luger, Wardlow</td>
+<td>S07E02_King &amp; Queen of the Ring</td>
+</tr>
+<tr>
+<td>2026-03-16</td>
+<td><strong>Edge, Kensuke Sasaki, Roman Reigns</strong></td>
+<td>Pete Dunne, Trent Seven, Tyler Bate</td>
+<td>S07E08_Royal Rumble</td>
+</tr>
+<tr>
+<td>2026-05-15</td>
+<td><strong>Bret Hart, Daniel Bryan, Owen Hart</strong></td>
+<td>Edge, Kensuke Sasaki, Roman Reigns</td>
+<td>S07E10_Night of Champions</td>
+</tr>
+</tbody>
+</table>
+<h2 id="statistiken" tabindex="-1">📊 Statistiken</h2>
+<ul>
+<li><strong>Winning Record (≥50%):</strong> 20 Wrestler</li>
+<li><strong>Losing Record (&lt;50%):</strong> 41 Wrestler</li>
+</ul>
+<h3 id="top-5-meiste-siege" tabindex="-1">Top 5 – Meiste Siege</h3>
+<table>
+<thead>
+<tr>
+<th>Wrestler</th>
+<th style="text-align:center">Wins</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Daniel Bryan</td>
+<td style="text-align:center">31</td>
+</tr>
+<tr>
+<td>Chris Jericho</td>
+<td style="text-align:center">21</td>
+</tr>
+<tr>
+<td>Hiroshi Tanahashi</td>
+<td style="text-align:center">18</td>
+</tr>
+<tr>
+<td>Bret Hart</td>
+<td style="text-align:center">15</td>
+</tr>
+<tr>
+<td>Roman Reigns</td>
+<td style="text-align:center">15</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><em>Auto-generiert vom Choke Slam PWI Power Ranking Generator</em><br>
+<em>Stand: 2026-06-24 04:05</em></p>
+
+      
+      
+    </main>
+
+    
+
+    
+      
+<style>
+#tooltip-wrapper {
+  background: var(--background-primary);
+  padding: 1em;
+  border-radius: 4px;
+  overflow: hidden;
+  position: fixed;
+  width: 80%;
+  max-width: 400px;
+  height: auto;
+  max-height: 300px;
+  font-size: 0.8em;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  opacity: 0;
+  transition: opacity 100ms;
+  unicode-bidi: plaintext;
+  overflow-y: scroll;
+  z-index: 10;
+}
+
+#tooltip-wrapper:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  pointer-events: none;
+  width: 100%;
+  unicode-bidi: plaintext;
+  height: 75px;
+}
+</style>
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+  <div id='tooltip-content'>
+  </div>
+</div>
+
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
+
+<script>
+  var opacityTimeout;
+  var contentTimeout;
+  var transitionDurationMs = 100;
+
+  var iframe = document.getElementById('link-preview-iframe')
+  var tooltipWrapper = document.getElementById('tooltip-wrapper')
+  var tooltipContent = document.getElementById('tooltip-content')
+
+  var linkHistories = {};
+
+  function hideTooltip() {
+    opacityTimeout = setTimeout(function () {
+      tooltipWrapper.style.opacity = 0;
+      contentTimeout = setTimeout(function () {
+        tooltipContent.innerHTML = '';
+        tooltipWrapper.style.display = 'none';
+      }, transitionDurationMs + 1);
+    }, transitionDurationMs)
+  }
+
+  function showTooltip(event) {
+    var elem = event.target;
+    var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
+    var top = window.pageYOffset || document.documentElement.scrollTop;
+    var url = event.target.getAttribute("href");
+    if (url.indexOf("http") === -1 || url.indexOf(window.location.host) !== -1) {
+      let contentURL = url.split('#')[0]
+      if (!linkHistories[contentURL]) {
+        iframe.src = contentURL
+        iframe.onload = function () {
+          tooltipContentHtml = ''
+          tooltipContentHtml += '<div style="font-weight: bold; unicode-bidi: plaintext;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
+          tooltipContentHtml += iframe.contentWindow.document.querySelector('.content').innerHTML
+          tooltipContent.innerHTML = tooltipContentHtml
+          linkHistories[contentURL] = tooltipContentHtml
+          tooltipWrapper.style.display = 'block';
+          tooltipWrapper.scrollTop = 0;
+          setTimeout(function () {
+            tooltipWrapper.style.opacity = 1;
+            if (url.indexOf("#") != -1) {
+              let id = url.split('#')[1];
+              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
+              focus.classList.add('referred');
+              console.log(focus);
+              focus.scrollIntoView({behavior: 'smooth'}, true)
+            } else {
+              tooltipWrapper.scroll(0, 0);
+            }
+          }, 1)
+        }
+      } else {
+        tooltipContent.innerHTML = linkHistories[contentURL]
+        tooltipWrapper.style.display = 'block';
+        setTimeout(function () {
+          tooltipWrapper.style.opacity = 1;
+          if (url.indexOf("#") != -1) {
+              let id = url.split('#')[1];
+              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
+              focus.classList.add('referred');
+              focus.scrollIntoView({behavior: 'smooth'}, true)
+          } else {
+              tooltipWrapper.scroll(0, 0);
+          }
+        }, 1)
+      }
+
+      function getInnerWidth(elem) {
+        var style = window.getComputedStyle(elem);
+        return elem.offsetWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight) - parseFloat(style.borderLeft) - parseFloat(style.borderRight) - parseFloat(style.marginLeft) - parseFloat(style.marginRight);
+      }
+
+      tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
+
+      if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
+        tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
+      } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
+        tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
+      }
+
+      if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+        tooltipWrapper.style.left = "10px";
+      } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+        tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
+      }
+    }
+  }
+
+  function setupListeners(linkElement) {
+    linkElement.addEventListener('mouseleave', function (_event) {
+      hideTooltip();
+    });
+
+    tooltipWrapper.addEventListener('mouseleave', function (_event) {
+      hideTooltip();
+    });
+
+    linkElement.addEventListener('mouseenter', function (event) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+      showTooltip(event);
+    });
+
+    tooltipWrapper.addEventListener('mouseenter', function (event) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+    });
+  }
+
+  window.addEventListener("load", function(event) 
+  {
+    document.querySelectorAll('.internal-link').forEach(setupListeners);
+    document.querySelectorAll('.backlink-card a').forEach(setupListeners);
+  });
+</script>
+
+    
+        <script>
+      if (window.location.hash) {
+        document.getElementById(window.location.hash.slice(1)).classList.add('referred');
+      }
+      window.addEventListener('hashchange', (evt) => {
+        const oldParts = evt.oldURL.split("#");
+        if (oldParts[1]) {
+          document.getElementById(oldParts[1]).classList.remove('referred');
+        }
+        const newParts = evt.newURL.split("#");
+        if (newParts[1]) {
+          document.getElementById(newParts[1]).classList.add('referred');
+        }
+      }, false);
+      const url_parts = window.location.href.split("#")
+      const url = url_parts[0];
+      const referrence = url_parts[1];
+      document.querySelectorAll(".cm-s-obsidian > *[id]").forEach(function (el) {
+        el.ondblclick = function(evt) {
+          const ref_url = url + '#' + evt.target.id
+          navigator.clipboard.writeText(ref_url);
+      }
+      });
+
+      
+    </script>
+    <script src=" https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js "></script>
+<script defer>
+  TIMESTAMP_FORMAT = "dd.MM.yyyy hh:mm";
+  document.querySelectorAll('.human-date').forEach(function (el) {
+    date = el.getAttribute('data-date') || el.innerText
+    parsed_date = luxon.DateTime.fromISO(date)
+    if (parsed_date.invalid != null){
+      // Date cannot be parsed
+      parsed_date = luxon.DateTime.fromSQL(date)
+    }
+    if (parsed_date.invalid != null){
+      // Date still cannot be parsed
+      parsed_date = luxon.DateTime.fromHTML(date)
+    }
+    el.innerHTML = parsed_date.toFormat(TIMESTAMP_FORMAT);
+  })
+</script>
+    
+    
+    <script>
+lucide.createIcons({
+            attrs: {
+                class: ["svg-icon"]
+            }
+        });
+</script>
+  </body>
+</html>

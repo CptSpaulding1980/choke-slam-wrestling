@@ -1,0 +1,4871 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Wrestler</title>
+    <header class="site-banner">
+  <img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlamWrestling_Banner.png" alt="Choke Slam Wrestling Banner" >
+</header>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<nav class="sidebar" id="site-nav">
+  <button 
+    class="burger"
+    aria-label="Menü öffnen/schließen"
+    aria-expanded="false"
+    id="burger-toggle"
+    onclick="toggleMenu()"
+  >
+    ☰
+  </button>
+  <ul>
+    <li><a href="#" onclick="history.back();return false;" title="Zurück">← Zurück</a></li>
+    <li><a href="/choke-slam-wrestling/">Home</a></li>
+    <li><a href="/choke-slam-wrestling/audio/">Audio Files</a></li>
+    <li><a href="/choke-slam-wrestling/championships/">Championships</a></li>
+    <li><a href="/choke-slam-wrestling/events/">Events</a></li>
+    <li><a href="/choke-slam-wrestling/referees/">Referees</a></li>
+    <li><a href="/choke-slam-wrestling/teams/">Teams</a></li>
+    <li><a href="/choke-slam-wrestling/wrestler/">Wrestler</a></li>
+    <li><a href="/choke-slam-wrestling/statistiken/">Statistiken</a></li>
+  </ul>
+</nav>
+
+<link href="/choke-slam-wrestling/styles/cagematch.css" rel="stylesheet">
+
+<script>
+function toggleMenu() {
+  const nav = document.getElementById('site-nav');
+  const btn = document.getElementById('burger-toggle');
+  nav.classList.toggle('open');
+  const expanded = btn.getAttribute('aria-expanded') === 'true';
+  btn.setAttribute('aria-expanded', !expanded);
+
+  if(nav.classList.contains('open')){
+    document.body.classList.add('menu-open');
+  } else {
+    document.body.classList.remove('menu-open');
+  }
+}
+
+// Aktive Seite hervorheben
+(function(){
+  const path = window.location.pathname;
+  document.querySelectorAll('.sidebar ul li a').forEach(function(a){
+    if(a.pathname !== '/' && path.startsWith(a.pathname)){
+      a.classList.add('active-page');
+    }
+  });
+})();
+</script>
+
+    
+    
+  </head>
+  <body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section title-note-icon links-note-icon css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-ribbon show-view-header css-settings-manager is-maximized ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-no-highlight anp-latex-inline-text anp-latex-block-text anp-td-none anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-default-rainbow anp-default-tab is-focused">
+    
+    
+    
+      
+    
+    <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" 
+            x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" 
+            x-data="{isDesktop: true, showFilesMobile: false}">
+
+        <div x-show.important="!isDesktop" style="display: none;">
+            <nav class="navbar">
+    <div class="navbar-inner">
+        <span style="font-size: 1.5rem; margin-right: 10px;" @click="showFilesMobile=!showFilesMobile"><i  icon-name="menu"></i></span>
+        
+        <a href="/" style="text-decoration: none;">
+            <h1 style="margin: 15px !important;">Choke Slam Wrestling</h1>
+        </a>
+        
+    </div>
+    
+    
+</nav>
+        </div>
+        
+        <div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none;" class="fullpage-overlay"></div>
+
+      <nav class="filetree-sidebar"  x-show.important="isDesktop || showFilesMobile" style="display: none;">
+        
+         <a href="/" style="text-decoration: none;">
+               <h1 style="text-align:center;">Choke Slam Wrestling</h1>
+         </a>
+         
+        
+         <div class="folder" x-data="{isOpen: true}"></div>
+      </nav>
+    </div>
+
+    
+
+    
+
+    <main class="content cm-s-obsidian ">
+      <header>
+        
+
+        
+        <nav class="breadcrumbs" aria-label="Breadcrumb" style="font-size:0.85rem; color:var(--muted-text); margin-bottom:1em;">
+          <a href="/choke-slam-wrestling/">Home</a>
+          
+            » <a href="/choke-slam-wrestling/wrestler/">Wrestler</a>
+          
+          » <span>Wrestler</span>
+        </nav>
+
+        <div class="header-meta">
+          </div>
+      
+      
+      </header>
+      
+      
+      <h1 id="wrestler" tabindex="-1">Wrestler</h1>
+<table>
+<thead>
+<tr>
+<th>Wrestler</th>
+<th>Matches</th>
+<th>Wins</th>
+<th>Losses</th>
+<th>Draws</th>
+<th>Win %</th>
+<th>Ø Rating</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/aj-styles/">AJ Styles</a></td>
+<td>76</td>
+<td>33</td>
+<td>23</td>
+<td>20</td>
+<td>43.4%</td>
+<td>84.13</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/abdullah-the-butcher/">Abdullah The Butcher</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/abismo-negro/">Abismo Negro</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/abyss/">Abyss</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ace-steel/">Ace Steel</a></td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>50.0%</td>
+<td>97.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/adam-cole/">Adam Cole</a></td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>40.0%</td>
+<td>81.40</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/adam-page/">Adam Page</a></td>
+<td>7</td>
+<td>0</td>
+<td>6</td>
+<td>1</td>
+<td>0.0%</td>
+<td>80.71</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/aero-star/">Aero Star</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>98.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ahmed-johnson/">Ahmed Johnson</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/akira-hokuto/">Akira Hokuto</a></td>
+<td>5</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>20.0%</td>
+<td>85.60</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/akira-taue/">Akira Taue</a></td>
+<td>32</td>
+<td>9</td>
+<td>20</td>
+<td>3</td>
+<td>28.1%</td>
+<td>84.97</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/al-snow/">Al Snow</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>86.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/alberto-el-patron/">Alberto El Patron</a></td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0.0%</td>
+<td>94.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/alex-wright/">Alex Wright</a></td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>25.0%</td>
+<td>90.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/alexa-bliss/">Alexa Bliss</a></td>
+<td>26</td>
+<td>9</td>
+<td>13</td>
+<td>4</td>
+<td>34.6%</td>
+<td>87.38</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/alundra-blayze/">Alundra Blayze</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>89.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/andr-the-giant/">André The Giant</a></td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>25.0%</td>
+<td>79.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/anglico/">Angélico</a></td>
+<td>19</td>
+<td>8</td>
+<td>7</td>
+<td>4</td>
+<td>42.1%</td>
+<td>85.37</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/anthony-bowens/">Anthony Bowens</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>83.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/antonio-inoki/">Antonio Inoki</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/aoife-valkyrie/">Aoife Valkyrie</a></td>
+<td>30</td>
+<td>6</td>
+<td>17</td>
+<td>7</td>
+<td>20.0%</td>
+<td>86.47</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/arams/">Aramís</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/arn-anderson/">Arn Anderson</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>79.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/asuka/">Asuka</a></td>
+<td>4</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+<td>75.0%</td>
+<td>87.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/athena/">Athena</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/austin-aries/">Austin Aries</a></td>
+<td>21</td>
+<td>6</td>
+<td>13</td>
+<td>2</td>
+<td>28.6%</td>
+<td>86.43</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/awesome-kong/">Awesome Kong</a></td>
+<td>45</td>
+<td>18</td>
+<td>19</td>
+<td>8</td>
+<td>40.0%</td>
+<td>83.96</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/axel-tischer/">Axel Tischer</a></td>
+<td>4</td>
+<td>0</td>
+<td>3</td>
+<td>1</td>
+<td>0.0%</td>
+<td>83.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/axiom/">Axiom</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>76.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/axl-rotten/">Axl Rotten</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>91.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bam-bam-bigelow/">Bam Bam Bigelow</a></td>
+<td>33</td>
+<td>10</td>
+<td>19</td>
+<td>4</td>
+<td>30.3%</td>
+<td>89.27</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bandido/">Bandido</a></td>
+<td>18</td>
+<td>3</td>
+<td>11</td>
+<td>4</td>
+<td>16.7%</td>
+<td>84.61</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/baron-corbin/">Baron Corbin</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>96.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/barry-windham/">Barry Windham</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>90.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/batista/">Batista</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>90.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bayley/">Bayley</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>69.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bea-priestley/">Bea Priestley</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/becky-lynch/">Becky Lynch</a></td>
+<td>9</td>
+<td>4</td>
+<td>2</td>
+<td>3</td>
+<td>44.4%</td>
+<td>86.22</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/beer-city-bruiser/">Beer City Bruiser</a></td>
+<td>3</td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>0.0%</td>
+<td>85.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bianca-belair/">Bianca Belair</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>103.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/big-boss-man/">Big Boss Man</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>92.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/big-daddy-v/">Big Daddy V</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>57.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/big-dick-dudley/">Big Dick Dudley</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>78.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/big-e/">Big E</a></td>
+<td>6</td>
+<td>2</td>
+<td>4</td>
+<td>0</td>
+<td>33.3%</td>
+<td>93.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/big-kon/">Big Kon</a></td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>28.6%</td>
+<td>75.43</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/big-ryck/">Big Ryck</a></td>
+<td>11</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>27.3%</td>
+<td>86.91</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/big-van-vader/">Big Van Vader</a></td>
+<td>62</td>
+<td>33</td>
+<td>19</td>
+<td>10</td>
+<td>53.2%</td>
+<td>83.34</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/billy-gunn/">Billy Gunn</a></td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>25.0%</td>
+<td>94.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/black-tiger/">Black Tiger</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/blue-demon-jr/">Blue Demon Jr.</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bob-backlund/">Bob Backlund</a></td>
+<td>84</td>
+<td>45</td>
+<td>27</td>
+<td>12</td>
+<td>53.6%</td>
+<td>88.74</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bobby-eaton/">Bobby Eaton</a></td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>50.0%</td>
+<td>82.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bobby-fish/">Bobby Fish</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>96.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bobby-heenan/">Bobby Heenan</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>75.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bobby-lashley/">Bobby Lashley</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/booker-t/">Booker T</a></td>
+<td>10</td>
+<td>3</td>
+<td>7</td>
+<td>0</td>
+<td>30.0%</td>
+<td>86.60</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/brandon/">Brandon</a></td>
+<td>31</td>
+<td>13</td>
+<td>10</td>
+<td>8</td>
+<td>41.9%</td>
+<td>85.87</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/braun-strowman/">Braun Strowman</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bret-hart/">Bret Hart</a></td>
+<td>106</td>
+<td>47</td>
+<td>42</td>
+<td>17</td>
+<td>44.3%</td>
+<td>87.85</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/brian-cage/">Brian Cage</a></td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td>0.0%</td>
+<td>94.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/brian-pillman/">Brian Pillman</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/britt-baker/">Britt Baker</a></td>
+<td>11</td>
+<td>5</td>
+<td>6</td>
+<td>0</td>
+<td>45.5%</td>
+<td>85.55</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/brock-lesnar/">Brock Lesnar</a></td>
+<td>32</td>
+<td>15</td>
+<td>14</td>
+<td>3</td>
+<td>46.9%</td>
+<td>82.72</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/brody-king/">Brody King</a></td>
+<td>9</td>
+<td>1</td>
+<td>6</td>
+<td>2</td>
+<td>11.1%</td>
+<td>84.78</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/brooks-jensen/">Brooks Jensen</a></td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0.0%</td>
+<td>81.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bruno-sammartino/">Bruno Sammartino</a></td>
+<td>4</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+<td>75.0%</td>
+<td>78.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/brutus-beefcake/">Brutus Beefcake</a></td>
+<td>16</td>
+<td>3</td>
+<td>4</td>
+<td>9</td>
+<td>18.8%</td>
+<td>89.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/buh-buh-ray-dudley/">Buh Buh Ray Dudley</a></td>
+<td>6</td>
+<td>1</td>
+<td>5</td>
+<td>0</td>
+<td>16.7%</td>
+<td>81.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bull-nakano/">Bull Nakano</a></td>
+<td>19</td>
+<td>6</td>
+<td>10</td>
+<td>3</td>
+<td>31.6%</td>
+<td>86.05</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/cm-punk/">CM Punk</a></td>
+<td>24</td>
+<td>7</td>
+<td>9</td>
+<td>8</td>
+<td>29.2%</td>
+<td>86.38</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/cameron-grimes/">Cameron Grimes</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>92.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/cesaro/">Cesaro</a></td>
+<td>13</td>
+<td>6</td>
+<td>5</td>
+<td>2</td>
+<td>46.2%</td>
+<td>87.31</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/charlie-dempsey/">Charlie Dempsey</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>75.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/charlotte-flair/">Charlotte Flair</a></td>
+<td>10</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>30.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/cheeseburger/">Cheeseburger</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>86.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/chris-benoit/">Chris Benoit</a></td>
+<td>9</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>33.3%</td>
+<td>88.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/chris-brookes/">Chris Brookes</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/chris-candido/">Chris Candido</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/chris-hero/">Chris Hero</a></td>
+<td>32</td>
+<td>14</td>
+<td>13</td>
+<td>5</td>
+<td>43.8%</td>
+<td>85.31</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/chris-jericho/">Chris Jericho</a></td>
+<td>44</td>
+<td>21</td>
+<td>21</td>
+<td>2</td>
+<td>47.7%</td>
+<td>84.11</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/christian/">Christian</a></td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>33.3%</td>
+<td>96.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/christian-cage/">Christian Cage</a></td>
+<td>42</td>
+<td>20</td>
+<td>14</td>
+<td>8</td>
+<td>47.6%</td>
+<td>83.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/christmas-creature/">Christmas Creature</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/christopher-daniels/">Christopher Daniels</a></td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>25.0%</td>
+<td>88.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/chyna/">Chyna</a></td>
+<td>8</td>
+<td>5</td>
+<td>1</td>
+<td>2</td>
+<td>62.5%</td>
+<td>84.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ciberntico/">Cibernético</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>85.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/claudio-castagnoli/">Claudio Castagnoli</a></td>
+<td>16</td>
+<td>8</td>
+<td>6</td>
+<td>2</td>
+<td>50.0%</td>
+<td>82.56</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/cody-rhodes/">Cody Rhodes</a></td>
+<td>5</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>20.0%</td>
+<td>90.60</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/colt-cabana/">Colt Cabana</a></td>
+<td>5</td>
+<td>1</td>
+<td>4</td>
+<td>0</td>
+<td>20.0%</td>
+<td>93.80</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/cora-jade/">Cora Jade</a></td>
+<td>11</td>
+<td>1</td>
+<td>7</td>
+<td>3</td>
+<td>9.1%</td>
+<td>79.36</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/cousin-butch/">Cousin Butch</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>83.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/cousin-luke/">Cousin Luke</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>78.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dlo-brown/">D'Lo Brown</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/d-von-dudley/">D-Von Dudley</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>78.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/daga/">Daga</a></td>
+<td>9</td>
+<td>1</td>
+<td>5</td>
+<td>3</td>
+<td>11.1%</td>
+<td>90.11</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dalton-castle/">Dalton Castle</a></td>
+<td>13</td>
+<td>2</td>
+<td>7</td>
+<td>4</td>
+<td>15.4%</td>
+<td>85.85</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/damian-priest/">Damian Priest</a></td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>25.0%</td>
+<td>82.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/damien-sandow/">Damien Sandow</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>80.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/daniel-bryan/">Daniel Bryan</a></td>
+<td>61</td>
+<td>36</td>
+<td>18</td>
+<td>7</td>
+<td>59.0%</td>
+<td>85.34</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/darby-allin/">Darby Allin</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>78.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dario-cueto/">Dario Cueto</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>60.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/davey-boy-smith/">Davey Boy Smith</a></td>
+<td>11</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>36.4%</td>
+<td>89.45</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dean-malenko/">Dean Malenko</a></td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>50.0%</td>
+<td>86.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/diamond-dallas-page/">Diamond Dallas Page</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>93.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/diesel/">Diesel</a></td>
+<td>33</td>
+<td>14</td>
+<td>13</td>
+<td>6</td>
+<td>42.4%</td>
+<td>87.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dijak/">Dijak</a></td>
+<td>23</td>
+<td>7</td>
+<td>13</td>
+<td>3</td>
+<td>30.4%</td>
+<td>82.61</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dink/">Dink</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/disco-inferno/">Disco Inferno</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>74.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dolph-ziggler/">Dolph Ziggler</a></td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>33.3%</td>
+<td>84.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dominik-mysterio/">Dominik Mysterio</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>91.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/donatello/">Donatello</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/doug-williams/">Doug Williams</a></td>
+<td>8</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>25.0%</td>
+<td>82.62</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dover/">Dover</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>96.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dr-hh/">Dr. HH</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>94.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dr-wagner/">Dr. Wagner</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dr-wagner-jr/">Dr. Wagner Jr.</a></td>
+<td>30</td>
+<td>8</td>
+<td>18</td>
+<td>4</td>
+<td>26.7%</td>
+<td>84.60</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/drago/">Drago</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>96.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dragon-lee/">Dragon Lee</a></td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0.0%</td>
+<td>83.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/drew-gulak/">Drew Gulak</a></td>
+<td>17</td>
+<td>3</td>
+<td>12</td>
+<td>2</td>
+<td>17.6%</td>
+<td>79.18</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/drew-mcintyre/">Drew McIntyre</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>83.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dudley-dudley/">Dudley Dudley</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>84.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dustin-rhodes/">Dustin Rhodes</a></td>
+<td>28</td>
+<td>11</td>
+<td>13</td>
+<td>4</td>
+<td>39.3%</td>
+<td>88.07</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dusty-rhodes/">Dusty Rhodes</a></td>
+<td>18</td>
+<td>5</td>
+<td>8</td>
+<td>5</td>
+<td>27.8%</td>
+<td>84.22</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/dynamite-kid/">Dynamite Kid</a></td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+<td>0</td>
+<td>66.7%</td>
+<td>92.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ec3/">EC3</a></td>
+<td>25</td>
+<td>13</td>
+<td>7</td>
+<td>5</td>
+<td>52.0%</td>
+<td>83.80</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/earthquake/">Earthquake</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/eddie-edwards/">Eddie Edwards</a></td>
+<td>27</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>37.0%</td>
+<td>86.56</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/eddie-guerrero/">Eddie Guerrero</a></td>
+<td>11</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>36.4%</td>
+<td>86.73</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/eddie-kingston/">Eddie Kingston</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>79.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/edge/">Edge</a></td>
+<td>49</td>
+<td>17</td>
+<td>25</td>
+<td>7</td>
+<td>34.7%</td>
+<td>88.92</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/el-desperado/">El Desperado</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/el-gigante/">El Gigante</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>74.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/el-hijo-del-santo/">El Hijo del Santo</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/el-hijo-del-vikingo/">El Hijo del Vikingo</a></td>
+<td>9</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>33.3%</td>
+<td>82.56</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/el-ligero/">El Ligero</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/el-santo/">El Santo</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/el-terrible/">El Terrible</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/el-torito/">El Torito</a></td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>50.0%</td>
+<td>86.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/elias/">Elias</a></td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td>0</td>
+<td>75.0%</td>
+<td>85.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/emil-sitoci/">Emil Sitoci</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/epico-coln/">Epico Colón</a></td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>60.0%</td>
+<td>78.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/eric-young/">Eric Young</a></td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>50.0%</td>
+<td>81.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/erik/">Erik</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>79.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ethan-page/">Ethan Page</a></td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>33.3%</td>
+<td>93.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/eugene/">Eugene</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>89.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/fabian-aichner/">Fabian Aichner</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>78.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/fallon-henley/">Fallon Henley</a></td>
+<td>14</td>
+<td>5</td>
+<td>7</td>
+<td>2</td>
+<td>35.7%</td>
+<td>78.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/finn-blor/">Finn Bálor</a></td>
+<td>19</td>
+<td>10</td>
+<td>7</td>
+<td>2</td>
+<td>52.6%</td>
+<td>85.32</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/fit-finlay/">Fit Finlay</a></td>
+<td>21</td>
+<td>3</td>
+<td>11</td>
+<td>7</td>
+<td>14.3%</td>
+<td>90.10</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/flash-morgan-webster/">Flash Morgan Webster</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>89.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/frankie-kazarian/">Frankie Kazarian</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/franz-schuhmann/">Franz Schuhmann</a></td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>25.0%</td>
+<td>83.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/freddie-mercury/">Freddie Mercury</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>97.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/fritz-von-erich/">Fritz Von Erich</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/gable-steveson/">Gable Steveson</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>80.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/gail-kim/">Gail Kim</a></td>
+<td>17</td>
+<td>3</td>
+<td>12</td>
+<td>2</td>
+<td>17.6%</td>
+<td>85.24</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/gangrel/">Gangrel</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>70.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/georg-hackenschmidt/">Georg Hackenschmidt</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/giant-gonzalez/">Giant Gonzalez</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>77.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/giant-haystacks/">Giant Haystacks</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>86.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/gigi-dolin/">Gigi Dolin</a></td>
+<td>19</td>
+<td>6</td>
+<td>7</td>
+<td>6</td>
+<td>31.6%</td>
+<td>91.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/gillberg/">Gillberg</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>80.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/giulia/">Giulia</a></td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>50.0%</td>
+<td>87.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/glacier/">Glacier</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>74.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/go-shiozaki/">Go Shiozaki</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/goldberg/">Goldberg</a></td>
+<td>7</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>42.9%</td>
+<td>81.14</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/goldust/">Goldust</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>82.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/gorilla-monsoon/">Gorilla Monsoon</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>92.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/grand-master-sexay/">Grand Master Sexay</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>88.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/grayson-waller/">Grayson Waller</a></td>
+<td>24</td>
+<td>8</td>
+<td>9</td>
+<td>7</td>
+<td>33.3%</td>
+<td>89.04</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/great-sasuke/">Great Sasuke</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/gunther/">Gunther</a></td>
+<td>62</td>
+<td>30</td>
+<td>18</td>
+<td>14</td>
+<td>48.4%</td>
+<td>85.05</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hack-myers/">Hack Myers</a></td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td>50.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hammerstone/">Hammerstone</a></td>
+<td>5</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>20.0%</td>
+<td>82.40</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/harley-race/">Harley Race</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/harry-smith/">Harry Smith</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hawk/">Hawk</a></td>
+<td>5</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>20.0%</td>
+<td>82.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hector-garza/">Hector Garza</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hendrique-delafuente/">Hendrique Delafuente</a></td>
+<td>14</td>
+<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>28.6%</td>
+<td>88.79</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hiromu-takahashi/">Hiromu Takahashi</a></td>
+<td>7</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>42.9%</td>
+<td>86.71</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hirooki-goto/">Hirooki Goto</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hiroshi-hase/">Hiroshi Hase</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hiroshi-tanahashi/">Hiroshi Tanahashi</a></td>
+<td>72</td>
+<td>47</td>
+<td>15</td>
+<td>10</td>
+<td>65.3%</td>
+<td>81.49</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hiroyoshi-tenzan/">Hiroyoshi Tenzan</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hollywood-hogan/">Hollywood Hogan</a></td>
+<td>8</td>
+<td>1</td>
+<td>5</td>
+<td>2</td>
+<td>12.5%</td>
+<td>85.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/honky-tonk-man/">Honky Tonk Man</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>96.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hornswoggle/">Hornswoggle</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hulk-hogan/">Hulk Hogan</a></td>
+<td>72</td>
+<td>34</td>
+<td>25</td>
+<td>13</td>
+<td>47.2%</td>
+<td>86.83</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ian-rotten/">Ian Rotten</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>91.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/icrs/">Icárús</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>96.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ikemen-jiro/">Ikemen Jiro</a></td>
+<td>8</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td>62.5%</td>
+<td>83.88</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ilja-dragunov/">Ilja Dragunov</a></td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>25.0%</td>
+<td>81.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/iron-mike-tyson/">Iron Mike Tyson</a></td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>50.0%</td>
+<td>91.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/iron-sheik/">Iron Sheik</a></td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>40.0%</td>
+<td>93.60</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/irwin-r-schyster/">Irwin R. Schyster</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>91.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/isaac-yankem/">Isaac Yankem</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ivan-koloff/">Ivan Koloff</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ivar/">Ivar</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>79.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ivelisse/">Ivelisse</a></td>
+<td>19</td>
+<td>6</td>
+<td>7</td>
+<td>6</td>
+<td>31.6%</td>
+<td>83.21</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jbl/">JBL</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>87.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jack-gallagher/">Jack Gallagher</a></td>
+<td>4</td>
+<td>0</td>
+<td>3</td>
+<td>1</td>
+<td>0.0%</td>
+<td>80.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jade-cargill/">Jade Cargill</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>84.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jake-hager/">Jake Hager</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jake-roberts/">Jake Roberts</a></td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/james-hetfield/">James Hetfield</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>74.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jamie-hayter/">Jamie Hayter</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jay-briscoe/">Jay Briscoe</a></td>
+<td>3</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>33.3%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jay-white/">Jay White</a></td>
+<td>53</td>
+<td>20</td>
+<td>26</td>
+<td>7</td>
+<td>37.7%</td>
+<td>86.04</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jeff-cobb/">Jeff Cobb</a></td>
+<td>11</td>
+<td>5</td>
+<td>4</td>
+<td>2</td>
+<td>45.5%</td>
+<td>84.73</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jeff-hardy/">Jeff Hardy</a></td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
+<td>0</td>
+<td>80.0%</td>
+<td>81.40</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jeff-jarrett/">Jeff Jarrett</a></td>
+<td>24</td>
+<td>7</td>
+<td>14</td>
+<td>3</td>
+<td>29.2%</td>
+<td>87.71</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jerry-lawler/">Jerry Lawler</a></td>
+<td>10</td>
+<td>3</td>
+<td>5</td>
+<td>2</td>
+<td>30.0%</td>
+<td>83.60</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jerry-lynn/">Jerry Lynn</a></td>
+<td>6</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
+<td>33.3%</td>
+<td>92.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jey-uso/">Jey Uso</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>91.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jim-duggan/">Jim Duggan</a></td>
+<td>16</td>
+<td>6</td>
+<td>9</td>
+<td>1</td>
+<td>37.5%</td>
+<td>83.81</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jim-neidhart/">Jim Neidhart</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>91.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jimmy-havoc/">Jimmy Havoc</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jimmy-snuka/">Jimmy Snuka</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jimmy-uso/">Jimmy Uso</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>91.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jinsei-shinzaki/">Jinsei Shinzaki</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/joe-coffey/">Joe Coffey</a></td>
+<td>13</td>
+<td>5</td>
+<td>7</td>
+<td>1</td>
+<td>38.5%</td>
+<td>80.38</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/joe-hendry/">Joe Hendry</a></td>
+<td>16</td>
+<td>6</td>
+<td>6</td>
+<td>4</td>
+<td>37.5%</td>
+<td>86.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/joey-janela/">Joey Janela</a></td>
+<td>20</td>
+<td>6</td>
+<td>6</td>
+<td>8</td>
+<td>30.0%</td>
+<td>89.40</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/john-cena/">John Cena</a></td>
+<td>11</td>
+<td>4</td>
+<td>5</td>
+<td>2</td>
+<td>36.4%</td>
+<td>83.45</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/johnny/">Johnny</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>74.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/johnny-gargano/">Johnny Gargano</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>91.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/johnny-grunge/">Johnny Grunge</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>81.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/johnny-mundo/">Johnny Mundo</a></td>
+<td>29</td>
+<td>18</td>
+<td>4</td>
+<td>7</td>
+<td>62.1%</td>
+<td>86.97</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/johnny-tv/">Johnny TV</a></td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>50.0%</td>
+<td>59.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jon-moxley/">Jon Moxley</a></td>
+<td>39</td>
+<td>20</td>
+<td>17</td>
+<td>2</td>
+<td>51.3%</td>
+<td>86.64</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jonathan-gresham/">Jonathan Gresham</a></td>
+<td>38</td>
+<td>12</td>
+<td>17</td>
+<td>9</td>
+<td>31.6%</td>
+<td>85.92</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jordynne-grace/">Jordynne Grace</a></td>
+<td>12</td>
+<td>3</td>
+<td>6</td>
+<td>3</td>
+<td>25.0%</td>
+<td>83.83</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jumbo-tsuruta/">Jumbo Tsuruta</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jun-akiyama/">Jun Akiyama</a></td>
+<td>24</td>
+<td>8</td>
+<td>10</td>
+<td>6</td>
+<td>33.3%</td>
+<td>81.17</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/jushin-liger/">Jushin Liger</a></td>
+<td>17</td>
+<td>6</td>
+<td>10</td>
+<td>1</td>
+<td>35.3%</td>
+<td>89.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/justin-credible/">Justin Credible</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>102.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kenta/">KENTA</a></td>
+<td>34</td>
+<td>12</td>
+<td>13</td>
+<td>9</td>
+<td>35.3%</td>
+<td>87.24</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kushida/">KUSHIDA</a></td>
+<td>34</td>
+<td>17</td>
+<td>11</td>
+<td>6</td>
+<td>50.0%</td>
+<td>80.53</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kairi-sane/">Kairi Sane</a></td>
+<td>9</td>
+<td>1</td>
+<td>5</td>
+<td>3</td>
+<td>11.1%</td>
+<td>77.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kamala/">Kamala</a></td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0.0%</td>
+<td>80.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kamille/">Kamille</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kane/">Kane</a></td>
+<td>46</td>
+<td>16</td>
+<td>21</td>
+<td>9</td>
+<td>34.8%</td>
+<td>85.72</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/karsten-beck/">Karsten Beck</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>65.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/katsuhiko-nakajima/">Katsuhiko Nakajima</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kazuchika-okada/">Kazuchika Okada</a></td>
+<td>87</td>
+<td>56</td>
+<td>24</td>
+<td>7</td>
+<td>64.4%</td>
+<td>84.70</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kelly-klein/">Kelly Klein</a></td>
+<td>6</td>
+<td>0</td>
+<td>2</td>
+<td>4</td>
+<td>0.0%</td>
+<td>88.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ken-shamrock/">Ken Shamrock</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kenny/">Kenny</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>74.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kenny-omega/">Kenny Omega</a></td>
+<td>33</td>
+<td>13</td>
+<td>11</td>
+<td>9</td>
+<td>39.4%</td>
+<td>87.52</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kensuke-sasaki/">Kensuke Sasaki</a></td>
+<td>27</td>
+<td>14</td>
+<td>10</td>
+<td>3</td>
+<td>51.9%</td>
+<td>87.26</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kento-miyahara/">Kento Miyahara</a></td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>40.0%</td>
+<td>79.60</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kerwin-white/">Kerwin White</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>94.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kevin-nash/">Kevin Nash</a></td>
+<td>6</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>16.7%</td>
+<td>84.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kevin-owens/">Kevin Owens</a></td>
+<td>5</td>
+<td>2</td>
+<td>0</td>
+<td>3</td>
+<td>40.0%</td>
+<td>87.40</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kevin-steen/">Kevin Steen</a></td>
+<td>34</td>
+<td>13</td>
+<td>15</td>
+<td>6</td>
+<td>38.2%</td>
+<td>86.41</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kiana-james/">Kiana James</a></td>
+<td>32</td>
+<td>11</td>
+<td>13</td>
+<td>8</td>
+<td>34.4%</td>
+<td>85.19</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/killer-kelly/">Killer Kelly</a></td>
+<td>42</td>
+<td>12</td>
+<td>22</td>
+<td>8</td>
+<td>28.6%</td>
+<td>82.36</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/killian-dain/">Killian Dain</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/king-corbin/">King Corbin</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>74.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kip-sabian/">Kip Sabian</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>74.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kofi-kingston/">Kofi Kingston</a></td>
+<td>16</td>
+<td>4</td>
+<td>9</td>
+<td>3</td>
+<td>25.0%</td>
+<td>87.44</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/koji-kanemoto/">Koji Kanemoto</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/konosuke-takeshita/">Konosuke Takeshita</a></td>
+<td>19</td>
+<td>4</td>
+<td>11</td>
+<td>4</td>
+<td>21.1%</td>
+<td>81.53</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kota-ibushi/">Kota Ibushi</a></td>
+<td>12</td>
+<td>5</td>
+<td>3</td>
+<td>4</td>
+<td>41.7%</td>
+<td>84.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kris-statlander/">Kris Statlander</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kurt-angle/">Kurt Angle</a></td>
+<td>42</td>
+<td>16</td>
+<td>15</td>
+<td>11</td>
+<td>38.1%</td>
+<td>88.24</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kwang/">Kwang</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>89.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kyle-fletcher/">Kyle Fletcher</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>92.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kyle-oreilly/">Kyle O'Reilly</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>96.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/la-parka/">La Parka</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>85.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/lady-apache/">Lady Apache</a></td>
+<td>23</td>
+<td>7</td>
+<td>15</td>
+<td>1</td>
+<td>30.4%</td>
+<td>88.26</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/lance-storm/">Lance Storm</a></td>
+<td>8</td>
+<td>6</td>
+<td>1</td>
+<td>1</td>
+<td>75.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/laredo-kid/">Laredo Kid</a></td>
+<td>42</td>
+<td>14</td>
+<td>19</td>
+<td>9</td>
+<td>33.3%</td>
+<td>84.24</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/larry-zbyszko/">Larry Zbyszko</a></td>
+<td>16</td>
+<td>7</td>
+<td>5</td>
+<td>4</td>
+<td>43.8%</td>
+<td>81.88</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/lex-luger/">Lex Luger</a></td>
+<td>32</td>
+<td>11</td>
+<td>19</td>
+<td>2</td>
+<td>34.4%</td>
+<td>86.53</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/lita/">Lita</a></td>
+<td>11</td>
+<td>2</td>
+<td>5</td>
+<td>4</td>
+<td>18.2%</td>
+<td>89.91</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/little-beaver/">Little Beaver</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/logan-paul/">Logan Paul</a></td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/luchasaurus/">Luchasaurus</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/lucky-kid/">Lucky Kid</a></td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>25.0%</td>
+<td>94.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ludwig-kaiser/">Ludwig Kaiser</a></td>
+<td>26</td>
+<td>10</td>
+<td>9</td>
+<td>7</td>
+<td>38.5%</td>
+<td>82.81</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/luna-vachon/">Luna Vachon</a></td>
+<td>4</td>
+<td>0</td>
+<td>1</td>
+<td>3</td>
+<td>0.0%</td>
+<td>91.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/lyra-valkyria/">Lyra Valkyria</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mjf/">MJF</a></td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>50.0%</td>
+<td>76.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mabel/">Mabel</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>75.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/madison-rayne/">Madison Rayne</a></td>
+<td>38</td>
+<td>15</td>
+<td>16</td>
+<td>7</td>
+<td>39.5%</td>
+<td>85.29</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mansoor/">Mansoor</a></td>
+<td>11</td>
+<td>4</td>
+<td>6</td>
+<td>1</td>
+<td>36.4%</td>
+<td>88.73</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/marcel-barthel/">Marcel Barthel</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>78.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mari-apache/">Mari Apache</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/marius-al-ani/">Marius Al-Ani</a></td>
+<td>7</td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>57.1%</td>
+<td>95.14</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mark-andrews/">Mark Andrews</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>89.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mark-coffey/">Mark Coffey</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>83.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mark-davis/">Mark Davis</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>92.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mark-haskins/">Mark Haskins</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/marty-jannetty/">Marty Jannetty</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/maryse/">Maryse</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/masahiro-chono/">Masahiro Chono</a></td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td>50.0%</td>
+<td>79.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/masakatsu-funaki/">Masakatsu Funaki</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mascarit-sagrada/">Mascarit Sagrada</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>73.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/masha-slamovich/">Masha Slamovich</a></td>
+<td>9</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>33.3%</td>
+<td>77.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/matanza-cueto/">Matanza Cueto</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/matt-hardy/">Matt Hardy</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>84.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/matt-jackson/">Matt Jackson</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>97.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/max-caster/">Max Caster</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>83.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/max-moon/">Max Moon</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/maxwell-j-friedman/">Maxwell J. Friedman</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mayu-iwatani/">Mayu Iwatani</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/meiko-satomura/">Meiko Satomura</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/meng/">Meng</a></td>
+<td>3</td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>0.0%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/michael-hayes/">Michael Hayes</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/michelle-mccool/">Michelle McCool</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>89.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mick-foley/">Mick Foley</a></td>
+<td>10</td>
+<td>2</td>
+<td>8</td>
+<td>0</td>
+<td>20.0%</td>
+<td>80.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mickie-james/">Mickie James</a></td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td>50.0%</td>
+<td>81.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mike-awesome/">Mike Awesome</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>102.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mike-sharpe/">Mike Sharpe</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>69.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mike-tyson/">Mike Tyson</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mikey/">Mikey</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>74.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mikey-whipwreck/">Mikey Whipwreck</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mil-muertes/">Mil Muertes</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>94.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/minoru-suzuki/">Minoru Suzuki</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/miro/">Miro</a></td>
+<td>50</td>
+<td>19</td>
+<td>20</td>
+<td>11</td>
+<td>38.0%</td>
+<td>87.80</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/moose/">Moose</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mosh/">Mosh</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>92.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mr-fuji/">Mr. Fuji</a></td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0.0%</td>
+<td>80.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mr-perfect/">Mr. Perfect</a></td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>0.0%</td>
+<td>94.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/muhammad-hassan/">Muhammad Hassan</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>84.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/mustafa-ali/">Mustafa Ali</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>90.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/myzteziz-jr/">Myzteziz Jr.</a></td>
+<td>9</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>33.3%</td>
+<td>82.56</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/nathan-frazer/">Nathan Frazer</a></td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td>50.0%</td>
+<td>74.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/nick-bockwinkel/">Nick Bockwinkel</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/nick-jackson/">Nick Jackson</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>97.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/nicky/">Nicky</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>74.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/nikolai-volkoff/">Nikolai Volkoff</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>97.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/no-way-jose/">No Way Jose</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/noam-dar/">Noam Dar</a></td>
+<td>11</td>
+<td>4</td>
+<td>6</td>
+<td>1</td>
+<td>36.4%</td>
+<td>88.09</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/oba-femi/">Oba Femi</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>95.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/okato/">Okato</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>66.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/omos/">Omos</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>85.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/orange-cassidy/">Orange Cassidy</a></td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0.0%</td>
+<td>87.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/otis/">Otis</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>85.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/owen-hart/">Owen Hart</a></td>
+<td>28</td>
+<td>17</td>
+<td>7</td>
+<td>4</td>
+<td>60.7%</td>
+<td>89.04</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/oz/">Oz</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>77.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/pac/">Pac</a></td>
+<td>23</td>
+<td>11</td>
+<td>8</td>
+<td>4</td>
+<td>47.8%</td>
+<td>86.74</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/pascal-lepas/">Pascal LePas</a></td>
+<td>8</td>
+<td>0</td>
+<td>4</td>
+<td>4</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/pat-patterson/">Pat Patterson</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/paul-burchill/">Paul Burchill</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/paul-orndorff/">Paul Orndorff</a></td>
+<td>9</td>
+<td>0</td>
+<td>7</td>
+<td>2</td>
+<td>0.0%</td>
+<td>88.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/penta-el-zero-miedo/">Penta El Zero Miedo</a></td>
+<td>5</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>20.0%</td>
+<td>90.40</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/pentagn-jr/">Pentagón Jr.</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>92.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/perro-aguayo-jr/">Perro Aguayo Jr.</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/pete-dunne/">Pete Dunne</a></td>
+<td>12</td>
+<td>5</td>
+<td>6</td>
+<td>1</td>
+<td>41.7%</td>
+<td>87.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/philipp-brunckovic/">Philipp Brunckovic</a></td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>50.0%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/philipp-brunkovic/">Philipp Brunkovic</a></td>
+<td>9</td>
+<td>4</td>
+<td>1</td>
+<td>4</td>
+<td>44.4%</td>
+<td>87.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/pimpinela-escarlata/">Pimpinela Escarlata</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>85.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/primo-coln/">Primo Colón</a></td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>60.0%</td>
+<td>78.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/prince-puma/">Prince Puma</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/puma-king/">Puma King</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/r-truth/">R-Truth</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/randy-orton/">Randy Orton</a></td>
+<td>14</td>
+<td>7</td>
+<td>4</td>
+<td>3</td>
+<td>50.0%</td>
+<td>88.93</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/randy-savage/">Randy Savage</a></td>
+<td>84</td>
+<td>42</td>
+<td>31</td>
+<td>11</td>
+<td>50.0%</td>
+<td>84.02</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/razor-ramon/">Razor Ramon</a></td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/repo-man/">Repo Man</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>89.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rey-escorpin/">Rey Escorpión</a></td>
+<td>10</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>30.0%</td>
+<td>87.10</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rey-fenix/">Rey Fenix</a></td>
+<td>43</td>
+<td>18</td>
+<td>16</td>
+<td>9</td>
+<td>41.9%</td>
+<td>89.30</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rey-horus/">Rey Horus</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rey-mysterio-jr/">Rey Mysterio Jr.</a></td>
+<td>32</td>
+<td>14</td>
+<td>11</td>
+<td>7</td>
+<td>43.8%</td>
+<td>82.78</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rhea-ripley/">Rhea Ripley</a></td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>40.0%</td>
+<td>85.60</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rhino/">Rhino</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ric-flair/">Ric Flair</a></td>
+<td>21</td>
+<td>6</td>
+<td>10</td>
+<td>5</td>
+<td>28.6%</td>
+<td>88.19</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rich-swann/">Rich Swann</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rick-rude/">Rick Rude</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>92.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rick-steiner/">Rick Steiner</a></td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>40.0%</td>
+<td>86.40</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ricky-steamboat/">Ricky Steamboat</a></td>
+<td>12</td>
+<td>3</td>
+<td>7</td>
+<td>2</td>
+<td>25.0%</td>
+<td>88.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ricochet/">Ricochet</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ridge-holland/">Ridge Holland</a></td>
+<td>5</td>
+<td>0</td>
+<td>3</td>
+<td>2</td>
+<td>0.0%</td>
+<td>81.80</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rikishi/">Rikishi</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>88.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/road-dogg/">Road Dogg</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>92.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/road-warrior-animal/">Road Warrior Animal</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/road-warrior-hawk/">Road Warrior Hawk</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rob-gronkowski/">Rob Gronkowski</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>80.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rob-halford/">Rob Halford</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>74.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rob-van-dam/">Rob Van Dam</a></td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0.0%</td>
+<td>88.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/robbie-brookside/">Robbie Brookside</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/robert-dreissker/">Robert Dreissker</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>98.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rocco-rock/">Rocco Rock</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>81.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/roddy-piper/">Roddy Piper</a></td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0.0%</td>
+<td>81.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/roman-reigns/">Roman Reigns</a></td>
+<td>95</td>
+<td>48</td>
+<td>34</td>
+<td>13</td>
+<td>50.5%</td>
+<td>87.14</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ron-simmons/">Ron Simmons</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>73.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ronda-rousey/">Ronda Rousey</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>89.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rusev/">Rusev</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>105.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rush/">Rush</a></td>
+<td>33</td>
+<td>12</td>
+<td>15</td>
+<td>6</td>
+<td>36.4%</td>
+<td>87.06</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ryusuke-taguchi/">Ryusuke Taguchi</a></td>
+<td>5</td>
+<td>1</td>
+<td>4</td>
+<td>0</td>
+<td>20.0%</td>
+<td>71.20</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sabu/">Sabu</a></td>
+<td>8</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>37.5%</td>
+<td>88.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/salvatore-sincere/">Salvatore Sincere</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>84.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sami-zayn/">Sami Zayn</a></td>
+<td>10</td>
+<td>1</td>
+<td>2</td>
+<td>7</td>
+<td>10.0%</td>
+<td>84.70</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sammy-guevara/">Sammy Guevara</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/samoa-joe/">Samoa Joe</a></td>
+<td>12</td>
+<td>2</td>
+<td>6</td>
+<td>4</td>
+<td>16.7%</td>
+<td>86.17</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/santino-marella/">Santino Marella</a></td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>25.0%</td>
+<td>87.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sara-del-rey/">Sara Del Rey</a></td>
+<td>13</td>
+<td>2</td>
+<td>6</td>
+<td>5</td>
+<td>15.4%</td>
+<td>84.85</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sasha-banks/">Sasha Banks</a></td>
+<td>22</td>
+<td>13</td>
+<td>6</td>
+<td>3</td>
+<td>59.1%</td>
+<td>87.86</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/scott-hall/">Scott Hall</a></td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0.0%</td>
+<td>75.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/scott-steiner/">Scott Steiner</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>82.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/scotty-2-hotty/">Scotty 2 Hotty</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>88.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sean-waltman/">Sean Waltman</a></td>
+<td>5</td>
+<td>2</td>
+<td>0</td>
+<td>3</td>
+<td>40.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/seth-rollins/">Seth Rollins</a></td>
+<td>33</td>
+<td>18</td>
+<td>12</td>
+<td>3</td>
+<td>54.5%</td>
+<td>88.21</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sexy-star/">Sexy Star</a></td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>20.0%</td>
+<td>86.20</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sgt-slaughter/">Sgt. Slaughter</a></td>
+<td>8</td>
+<td>1</td>
+<td>2</td>
+<td>5</td>
+<td>12.5%</td>
+<td>88.88</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/shawn-daivari/">Shawn Daivari</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>84.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/shawn-michaels/">Shawn Michaels</a></td>
+<td>31</td>
+<td>8</td>
+<td>18</td>
+<td>5</td>
+<td>25.8%</td>
+<td>89.52</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/shawn-spears/">Shawn Spears</a></td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>50.0%</td>
+<td>76.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/shayna-baszler/">Shayna Baszler</a></td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td>50.0%</td>
+<td>80.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sheamus/">Sheamus</a></td>
+<td>8</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td>50.0%</td>
+<td>84.88</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/shelton-benjamin/">Shelton Benjamin</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>89.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/shingo-takagi/">Shingo Takagi</a></td>
+<td>25</td>
+<td>5</td>
+<td>11</td>
+<td>9</td>
+<td>20.0%</td>
+<td>83.32</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/shinsuke-nakamura/">Shinsuke Nakamura</a></td>
+<td>4</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td>0.0%</td>
+<td>74.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sid-vicious/">Sid Vicious</a></td>
+<td>8</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+<td>37.5%</td>
+<td>91.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sin-cara/">Sin Cara</a></td>
+<td>3</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>66.7%</td>
+<td>93.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sol-ruca/">Sol Ruca</a></td>
+<td>3</td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>0.0%</td>
+<td>89.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/solo-sikoa/">Solo Sikoa</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>91.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sonjay-dutt/">Sonjay Dutt</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sonny-kiss/">Sonny Kiss</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/stan-hansen/">Stan Hansen</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/steve-austin/">Steve Austin</a></td>
+<td>53</td>
+<td>17</td>
+<td>31</td>
+<td>5</td>
+<td>32.1%</td>
+<td>84.21</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/stevie-ray/">Stevie Ray</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sting/">Sting</a></td>
+<td>23</td>
+<td>9</td>
+<td>7</td>
+<td>7</td>
+<td>39.1%</td>
+<td>85.65</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/swerve-strickland/">Swerve Strickland</a></td>
+<td>25</td>
+<td>10</td>
+<td>9</td>
+<td>6</td>
+<td>40.0%</td>
+<td>85.56</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/syuri/">Syuri</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>67.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/taka-michinoku/">TAKA Michinoku</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/takashi-sasaki/">Takashi Sasaki</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tama-tonga/">Tama Tonga</a></td>
+<td>10</td>
+<td>3</td>
+<td>6</td>
+<td>1</td>
+<td>30.0%</td>
+<td>83.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tarzan-boy/">Tarzan Boy</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tatanka/">Tatanka</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tatsumi-fujinami/">Tatsumi Fujinami</a></td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>50.0%</td>
+<td>78.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tatum-paxley/">Tatum Paxley</a></td>
+<td>16</td>
+<td>2</td>
+<td>11</td>
+<td>3</td>
+<td>12.5%</td>
+<td>80.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/taya-valkyrie/">Taya Valkyrie</a></td>
+<td>8</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>25.0%</td>
+<td>93.62</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/taz/">Taz</a></td>
+<td>3</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>79.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ted-dibiase/">Ted DiBiase</a></td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>40.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/teddy-long/">Teddy Long</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>79.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tensai/">Tensai</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>94.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/teoman/">Teoman</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/terry-funk/">Terry Funk</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>84.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tetsuya-naito/">Tetsuya Naito</a></td>
+<td>72</td>
+<td>29</td>
+<td>31</td>
+<td>12</td>
+<td>40.3%</td>
+<td>85.31</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/texano-jr/">Texano Jr.</a></td>
+<td>9</td>
+<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>22.2%</td>
+<td>89.11</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-blade/">The Blade</a></td>
+<td>15</td>
+<td>3</td>
+<td>8</td>
+<td>4</td>
+<td>20.0%</td>
+<td>82.47</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-butcher/">The Butcher</a></td>
+<td>17</td>
+<td>7</td>
+<td>7</td>
+<td>3</td>
+<td>41.2%</td>
+<td>83.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-giant/">The Giant</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-gobbledy-gooker/">The Gobbledy Gooker</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>80.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-great-muta/">The Great Muta</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-honky-tonk-man/">The Honky Tonk Man</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>97.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-renegade/">The Renegade</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>94.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-rock/">The Rock</a></td>
+<td>12</td>
+<td>1</td>
+<td>7</td>
+<td>4</td>
+<td>8.3%</td>
+<td>86.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-sandman/">The Sandman</a></td>
+<td>6</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
+<td>33.3%</td>
+<td>86.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-shark/">The Shark</a></td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0.0%</td>
+<td>80.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-sheik/">The Sheik</a></td>
+<td>5</td>
+<td>0</td>
+<td>3</td>
+<td>2</td>
+<td>0.0%</td>
+<td>83.60</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-shockmaster/">The Shockmaster</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-ultimate-warrior/">The Ultimate Warrior</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-undertaker/">The Undertaker</a></td>
+<td>62</td>
+<td>33</td>
+<td>20</td>
+<td>9</td>
+<td>53.2%</td>
+<td>84.34</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-zodiac/">The Zodiac</a></td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0.0%</td>
+<td>80.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/thea-hail/">Thea Hail</a></td>
+<td>14</td>
+<td>4</td>
+<td>6</td>
+<td>4</td>
+<td>28.6%</td>
+<td>84.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/thrasher/">Thrasher</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>92.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/thunder-rosa/">Thunder Rosa</a></td>
+<td>10</td>
+<td>3</td>
+<td>7</td>
+<td>0</td>
+<td>30.0%</td>
+<td>89.70</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tiffany-stratton/">Tiffany Stratton</a></td>
+<td>5</td>
+<td>2</td>
+<td>3</td>
+<td>0</td>
+<td>40.0%</td>
+<td>87.80</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tiger-mask/">Tiger Mask</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/till-lindemann/">Till Lindemann</a></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>66.7%</td>
+<td>74.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/timothy-thatcher/">Timothy Thatcher</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>92.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tito-santana/">Tito Santana</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>25.0%</td>
+<td>73.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/titus-oneil/">Titus O'Neil</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>82.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tommaso-ciampa/">Tommaso Ciampa</a></td>
+<td>9</td>
+<td>3</td>
+<td>5</td>
+<td>1</td>
+<td>33.3%</td>
+<td>93.67</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tommy-dreamer/">Tommy Dreamer</a></td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>33.3%</td>
+<td>85.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tommy-end/">Tommy End</a></td>
+<td>13</td>
+<td>0</td>
+<td>7</td>
+<td>6</td>
+<td>0.0%</td>
+<td>88.62</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/toni-storm/">Toni Storm</a></td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>25.0%</td>
+<td>84.75</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/toru-yano/">Toru Yano</a></td>
+<td>9</td>
+<td>3</td>
+<td>5</td>
+<td>1</td>
+<td>33.3%</td>
+<td>78.78</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/travis-banks/">Travis Banks</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/trent-seven/">Trent Seven</a></td>
+<td>10</td>
+<td>6</td>
+<td>4</td>
+<td>0</td>
+<td>60.0%</td>
+<td>84.80</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/triple-h/">Triple H</a></td>
+<td>70</td>
+<td>38</td>
+<td>20</td>
+<td>12</td>
+<td>54.3%</td>
+<td>82.59</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tully-blanchard/">Tully Blanchard</a></td>
+<td>3</td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>0.0%</td>
+<td>74.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/tyler-bate/">Tyler Bate</a></td>
+<td>16</td>
+<td>7</td>
+<td>5</td>
+<td>4</td>
+<td>43.8%</td>
+<td>83.56</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/ultimate-warrior/">Ultimate Warrior</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>85.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/universo-2000/">Universo 2000</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/vampiro/">Vampiro</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/veit-mller/">Veit Müller</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/vic-grimes/">Vic Grimes</a></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0.0%</td>
+<td>75.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/vickie-guerrero/">Vickie Guerrero</a></td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>25.0%</td>
+<td>81.50</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/vince-mcmahon/">Vince McMahon</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>74.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/virgil/">Virgil</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>94.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/viscera/">Viscera</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>89.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/vladimir-kozlov/">Vladimir Kozlov</a></td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.0%</td>
+<td>74.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/wade-barrett/">Wade Barrett</a></td>
+<td>6</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>50.0%</td>
+<td>82.33</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/wahoo-mcdaniel/">Wahoo McDaniel</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>90.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/wardlow/">Wardlow</a></td>
+<td>34</td>
+<td>14</td>
+<td>18</td>
+<td>2</td>
+<td>41.2%</td>
+<td>87.68</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/wendi-richter/">Wendi Richter</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>93.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/will-ospreay/">Will Ospreay</a></td>
+<td>11</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>36.4%</td>
+<td>83.45</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/william-regal/">William Regal</a></td>
+<td>5</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>20.0%</td>
+<td>92.60</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/willow/">Willow</a></td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>81.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/wolfgang/">Wolfgang</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>50.0%</td>
+<td>85.25</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/xanta-claus/">Xanta Claus</a></td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>33.3%</td>
+<td>78.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/xavier-woods/">Xavier Woods</a></td>
+<td>17</td>
+<td>7</td>
+<td>8</td>
+<td>2</td>
+<td>41.2%</td>
+<td>84.71</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/yokozuna/">Yokozuna</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>95.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/yuji-okabayashi/">Yuji Okabayashi</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>92.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/zack-gibson/">Zack Gibson</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0%</td>
+<td>86.00</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/zack-sabre-jr/">Zack Sabre Jr.</a></td>
+<td>28</td>
+<td>10</td>
+<td>13</td>
+<td>5</td>
+<td>35.7%</td>
+<td>86.61</td>
+</tr>
+</tbody>
+</table>
+
+      
+      
+    </main>
+
+    
+
+    
+      
+<style>
+#tooltip-wrapper {
+  background: var(--background-primary);
+  padding: 1em;
+  border-radius: 4px;
+  overflow: hidden;
+  position: fixed;
+  width: 80%;
+  max-width: 400px;
+  height: auto;
+  max-height: 300px;
+  font-size: 0.8em;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  opacity: 0;
+  transition: opacity 100ms;
+  unicode-bidi: plaintext;
+  overflow-y: scroll;
+  z-index: 10;
+}
+
+#tooltip-wrapper:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  pointer-events: none;
+  width: 100%;
+  unicode-bidi: plaintext;
+  height: 75px;
+}
+</style>
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+  <div id='tooltip-content'>
+  </div>
+</div>
+
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
+
+<script>
+  var opacityTimeout;
+  var contentTimeout;
+  var transitionDurationMs = 100;
+
+  var iframe = document.getElementById('link-preview-iframe')
+  var tooltipWrapper = document.getElementById('tooltip-wrapper')
+  var tooltipContent = document.getElementById('tooltip-content')
+
+  var linkHistories = {};
+
+  function hideTooltip() {
+    opacityTimeout = setTimeout(function () {
+      tooltipWrapper.style.opacity = 0;
+      contentTimeout = setTimeout(function () {
+        tooltipContent.innerHTML = '';
+        tooltipWrapper.style.display = 'none';
+      }, transitionDurationMs + 1);
+    }, transitionDurationMs)
+  }
+
+  function showTooltip(event) {
+    var elem = event.target;
+    var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
+    var top = window.pageYOffset || document.documentElement.scrollTop;
+    var url = event.target.getAttribute("href");
+    if (url.indexOf("http") === -1 || url.indexOf(window.location.host) !== -1) {
+      let contentURL = url.split('#')[0]
+      if (!linkHistories[contentURL]) {
+        iframe.src = contentURL
+        iframe.onload = function () {
+          tooltipContentHtml = ''
+          tooltipContentHtml += '<div style="font-weight: bold; unicode-bidi: plaintext;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
+          tooltipContentHtml += iframe.contentWindow.document.querySelector('.content').innerHTML
+          tooltipContent.innerHTML = tooltipContentHtml
+          linkHistories[contentURL] = tooltipContentHtml
+          tooltipWrapper.style.display = 'block';
+          tooltipWrapper.scrollTop = 0;
+          setTimeout(function () {
+            tooltipWrapper.style.opacity = 1;
+            if (url.indexOf("#") != -1) {
+              let id = url.split('#')[1];
+              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
+              focus.classList.add('referred');
+              console.log(focus);
+              focus.scrollIntoView({behavior: 'smooth'}, true)
+            } else {
+              tooltipWrapper.scroll(0, 0);
+            }
+          }, 1)
+        }
+      } else {
+        tooltipContent.innerHTML = linkHistories[contentURL]
+        tooltipWrapper.style.display = 'block';
+        setTimeout(function () {
+          tooltipWrapper.style.opacity = 1;
+          if (url.indexOf("#") != -1) {
+              let id = url.split('#')[1];
+              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
+              focus.classList.add('referred');
+              focus.scrollIntoView({behavior: 'smooth'}, true)
+          } else {
+              tooltipWrapper.scroll(0, 0);
+          }
+        }, 1)
+      }
+
+      function getInnerWidth(elem) {
+        var style = window.getComputedStyle(elem);
+        return elem.offsetWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight) - parseFloat(style.borderLeft) - parseFloat(style.borderRight) - parseFloat(style.marginLeft) - parseFloat(style.marginRight);
+      }
+
+      tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
+
+      if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
+        tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
+      } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
+        tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
+      }
+
+      if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+        tooltipWrapper.style.left = "10px";
+      } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+        tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
+      }
+    }
+  }
+
+  function setupListeners(linkElement) {
+    linkElement.addEventListener('mouseleave', function (_event) {
+      hideTooltip();
+    });
+
+    tooltipWrapper.addEventListener('mouseleave', function (_event) {
+      hideTooltip();
+    });
+
+    linkElement.addEventListener('mouseenter', function (event) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+      showTooltip(event);
+    });
+
+    tooltipWrapper.addEventListener('mouseenter', function (event) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+    });
+  }
+
+  window.addEventListener("load", function(event) 
+  {
+    document.querySelectorAll('.internal-link').forEach(setupListeners);
+    document.querySelectorAll('.backlink-card a').forEach(setupListeners);
+  });
+</script>
+
+    
+        <script>
+      if (window.location.hash) {
+        document.getElementById(window.location.hash.slice(1)).classList.add('referred');
+      }
+      window.addEventListener('hashchange', (evt) => {
+        const oldParts = evt.oldURL.split("#");
+        if (oldParts[1]) {
+          document.getElementById(oldParts[1]).classList.remove('referred');
+        }
+        const newParts = evt.newURL.split("#");
+        if (newParts[1]) {
+          document.getElementById(newParts[1]).classList.add('referred');
+        }
+      }, false);
+      const url_parts = window.location.href.split("#")
+      const url = url_parts[0];
+      const referrence = url_parts[1];
+      document.querySelectorAll(".cm-s-obsidian > *[id]").forEach(function (el) {
+        el.ondblclick = function(evt) {
+          const ref_url = url + '#' + evt.target.id
+          navigator.clipboard.writeText(ref_url);
+      }
+      });
+
+      
+    </script>
+    <script src=" https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js "></script>
+<script defer>
+  TIMESTAMP_FORMAT = "dd.MM.yyyy hh:mm";
+  document.querySelectorAll('.human-date').forEach(function (el) {
+    date = el.getAttribute('data-date') || el.innerText
+    parsed_date = luxon.DateTime.fromISO(date)
+    if (parsed_date.invalid != null){
+      // Date cannot be parsed
+      parsed_date = luxon.DateTime.fromSQL(date)
+    }
+    if (parsed_date.invalid != null){
+      // Date still cannot be parsed
+      parsed_date = luxon.DateTime.fromHTML(date)
+    }
+    el.innerHTML = parsed_date.toFormat(TIMESTAMP_FORMAT);
+  })
+</script>
+    
+    
+    <script>
+lucide.createIcons({
+            attrs: {
+                class: ["svg-icon"]
+            }
+        });
+</script>
+  </body>
+</html>

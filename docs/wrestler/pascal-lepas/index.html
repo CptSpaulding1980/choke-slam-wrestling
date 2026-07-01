@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Pascal LePas</title>
+    <header class="site-banner">
+  <img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlamWrestling_Banner.png" alt="Choke Slam Wrestling Banner" >
+</header>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<nav class="sidebar" id="site-nav">
+  <button 
+    class="burger"
+    aria-label="Menü öffnen/schließen"
+    aria-expanded="false"
+    id="burger-toggle"
+    onclick="toggleMenu()"
+  >
+    ☰
+  </button>
+  <ul>
+    <li><a href="#" onclick="history.back();return false;" title="Zurück">← Zurück</a></li>
+    <li><a href="/choke-slam-wrestling/">Home</a></li>
+    <li><a href="/choke-slam-wrestling/audio/">Audio Files</a></li>
+    <li><a href="/choke-slam-wrestling/championships/">Championships</a></li>
+    <li><a href="/choke-slam-wrestling/events/">Events</a></li>
+    <li><a href="/choke-slam-wrestling/referees/">Referees</a></li>
+    <li><a href="/choke-slam-wrestling/teams/">Teams</a></li>
+    <li><a href="/choke-slam-wrestling/wrestler/">Wrestler</a></li>
+    <li><a href="/choke-slam-wrestling/statistiken/">Statistiken</a></li>
+  </ul>
+</nav>
+
+<link href="/choke-slam-wrestling/styles/cagematch.css" rel="stylesheet">
+
+<script>
+function toggleMenu() {
+  const nav = document.getElementById('site-nav');
+  const btn = document.getElementById('burger-toggle');
+  nav.classList.toggle('open');
+  const expanded = btn.getAttribute('aria-expanded') === 'true';
+  btn.setAttribute('aria-expanded', !expanded);
+
+  if(nav.classList.contains('open')){
+    document.body.classList.add('menu-open');
+  } else {
+    document.body.classList.remove('menu-open');
+  }
+}
+
+// Aktive Seite hervorheben
+(function(){
+  const path = window.location.pathname;
+  document.querySelectorAll('.sidebar ul li a').forEach(function(a){
+    if(a.pathname !== '/' && path.startsWith(a.pathname)){
+      a.classList.add('active-page');
+    }
+  });
+})();
+</script>
+
+    
+    
+  </head>
+  <body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section title-note-icon links-note-icon css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-ribbon show-view-header css-settings-manager is-maximized ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-no-highlight anp-latex-inline-text anp-latex-block-text anp-td-none anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-default-rainbow anp-default-tab is-focused">
+    
+    
+    
+      
+    
+    <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" 
+            x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" 
+            x-data="{isDesktop: true, showFilesMobile: false}">
+
+        <div x-show.important="!isDesktop" style="display: none;">
+            <nav class="navbar">
+    <div class="navbar-inner">
+        <span style="font-size: 1.5rem; margin-right: 10px;" @click="showFilesMobile=!showFilesMobile"><i  icon-name="menu"></i></span>
+        
+        <a href="/" style="text-decoration: none;">
+            <h1 style="margin: 15px !important;">Choke Slam Wrestling</h1>
+        </a>
+        
+    </div>
+    
+    
+</nav>
+        </div>
+        
+        <div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none;" class="fullpage-overlay"></div>
+
+      <nav class="filetree-sidebar"  x-show.important="isDesktop || showFilesMobile" style="display: none;">
+        
+         <a href="/" style="text-decoration: none;">
+               <h1 style="text-align:center;">Choke Slam Wrestling</h1>
+         </a>
+         
+        
+         <div class="folder" x-data="{isOpen: true}"></div>
+      </nav>
+    </div>
+
+    
+
+    
+
+    <main class="content cm-s-obsidian ">
+      <header>
+        
+
+        
+        <nav class="breadcrumbs" aria-label="Breadcrumb" style="font-size:0.85rem; color:var(--muted-text); margin-bottom:1em;">
+          <a href="/choke-slam-wrestling/">Home</a>
+          
+            » <a href="/choke-slam-wrestling/wrestler/">Wrestler</a>
+          
+          » <span>Pascal LePas</span>
+        </nav>
+
+        <div class="header-meta">
+          </div>
+      
+      
+      </header>
+      
+      
+      <h1 id="pascal-le-pas" tabindex="-1">Pascal LePas</h1>
+<table><tr><td><img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<h2 id="karriere-statistiken" tabindex="-1">Karriere-Statistiken</h2>
+<table>
+<thead>
+<tr>
+<th>Matches</th>
+<th>Siege</th>
+<th>Niederlagen</th>
+<th>Draws</th>
+<th>Win %</th>
+<th>Ø Rating</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8</td>
+<td>0</td>
+<td>4</td>
+<td>4</td>
+<td>0.0%</td>
+<td>88.00</td>
+</tr>
+</tbody>
+</table>
+<h3 id="advanced-stats" tabindex="-1">Advanced Stats</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Record</th>
+<th>Form</th>
+<th>Facts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><img loading="lazy" decoding="async" src="/choke-slam-wrestling/img/charts/pascal-lepas_stats.png" width="200"></td>
+<td><strong>⚪️⚪️⚪️❌❌</strong><br><strong>Loss:</strong> 30 Minute Iron Man Match: Owen Hart vs. Pascal LePas in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2026-06-23-s07e12-chokeslammania-vii/">S07E12_ChokeSlamMania VII</a> (2026-06-23)<br><strong>Loss:</strong> Special Referee Wendi Richter - Winner gets Owen Hart: Saint Rebel Radicalz vs. Militanter Mummenschanz in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2026-05-15-s07e10-night-of-champions/">S07E10_Night of Champions</a> (2026-05-15)<br><strong>Draw:</strong> Oerel Bardahl in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2025-08-21-s07e03-changes-iii/">S07E03_Changes III</a> (2025-08-21)<br><strong>Draw:</strong> Interview Segment /w Philipp Brunkovic &amp; Pascal LePas &amp; Hendrique Delafuente in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2023-12-15-s05e11-tournament-nonstop-action/">S05E11_Tournament Nonstop Action</a> (2023-12-15)<br><strong>Draw:</strong> What if... Battle Royal in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2023-07-30-s05e07-what-if-japan/">S05E07_What if... Japan</a> (2023-07-30)<br></td>
+<td><strong>Nemesis:</strong> <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/philipp-brunkovic/">Philipp Brunkovic</a><br><strong>Partner:</strong> <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hendrique-delafuente/">Hendrique Delafuente</a><br><strong>Best Match:</strong> 100% vs. Interview Segment /w Philipp Brunkovic &amp; Pascal LePas &amp; Hendrique Delafuente</td>
+</tr>
+</tbody>
+</table>
+<h2 id="haeufigste-gegner" tabindex="-1">Häufigste Gegner</h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/philipp-brunkovic/">Philipp Brunkovic</a> (5x)</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hendrique-delafuente/">Hendrique Delafuente</a> (4x)</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/bret-hart/">Bret Hart</a> (2x)</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/daniel-bryan/">Daniel Bryan</a> (2x)</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kurt-angle/">Kurt Angle</a> (1x)</li>
+</ul>
+<h2 id="haeufigste-partner" tabindex="-1">Häufigste Partner</h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hendrique-delafuente/">Hendrique Delafuente</a> (1x)</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/aoife-valkyrie/">Aoife Valkyrie</a> (1x)</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/chris-jericho/">Chris Jericho</a> (1x)</li>
+</ul>
+<h2 id="top-matches" tabindex="-1">Top Matches</h2>
+<ul>
+<li>100%: Interview Segment /w <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/philipp-brunkovic/">Philipp Brunkovic</a> &amp; <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/pascal-lepas/">Pascal LePas</a> &amp; <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hendrique-delafuente/">Hendrique Delafuente</a> in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2023-12-15-s05e11-tournament-nonstop-action/">S05E11_Tournament Nonstop Action</a> (2023-12-15)</li>
+<li>99%: Interview Segment /w <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/kurt-angle/">Kurt Angle</a> &amp; <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/philipp-brunkovic/">Philipp Brunkovic</a>, <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/pascal-lepas/">Pascal LePas</a>, &amp; <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hendrique-delafuente/">Hendrique Delafuente</a> in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2022-01-26-s04e06-olympia/">S04E06_Olympia</a> (2022-01-26)</li>
+<li>94%: What if... <a class="internal-link is-unresolved" href="/choke-slam-wrestling/404" target="">S05E07_What if... Japan</a> (2023-07-30)</li>
+<li>93%: Threeway Fiasko in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2022-06-28-s04e09-royal-rumble/">S04E09_Royal Rumble</a> (2022-06-28)</li>
+<li>85%: Oerel Bardahl in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2025-08-21-s07e03-changes-iii/">S07E03_Changes III</a> (2025-08-21)</li>
+</ul>
+
+      
+      
+    </main>
+
+    
+
+    
+      
+<style>
+#tooltip-wrapper {
+  background: var(--background-primary);
+  padding: 1em;
+  border-radius: 4px;
+  overflow: hidden;
+  position: fixed;
+  width: 80%;
+  max-width: 400px;
+  height: auto;
+  max-height: 300px;
+  font-size: 0.8em;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  opacity: 0;
+  transition: opacity 100ms;
+  unicode-bidi: plaintext;
+  overflow-y: scroll;
+  z-index: 10;
+}
+
+#tooltip-wrapper:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  pointer-events: none;
+  width: 100%;
+  unicode-bidi: plaintext;
+  height: 75px;
+}
+</style>
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+  <div id='tooltip-content'>
+  </div>
+</div>
+
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
+
+<script>
+  var opacityTimeout;
+  var contentTimeout;
+  var transitionDurationMs = 100;
+
+  var iframe = document.getElementById('link-preview-iframe')
+  var tooltipWrapper = document.getElementById('tooltip-wrapper')
+  var tooltipContent = document.getElementById('tooltip-content')
+
+  var linkHistories = {};
+
+  function hideTooltip() {
+    opacityTimeout = setTimeout(function () {
+      tooltipWrapper.style.opacity = 0;
+      contentTimeout = setTimeout(function () {
+        tooltipContent.innerHTML = '';
+        tooltipWrapper.style.display = 'none';
+      }, transitionDurationMs + 1);
+    }, transitionDurationMs)
+  }
+
+  function showTooltip(event) {
+    var elem = event.target;
+    var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
+    var top = window.pageYOffset || document.documentElement.scrollTop;
+    var url = event.target.getAttribute("href");
+    if (url.indexOf("http") === -1 || url.indexOf(window.location.host) !== -1) {
+      let contentURL = url.split('#')[0]
+      if (!linkHistories[contentURL]) {
+        iframe.src = contentURL
+        iframe.onload = function () {
+          tooltipContentHtml = ''
+          tooltipContentHtml += '<div style="font-weight: bold; unicode-bidi: plaintext;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
+          tooltipContentHtml += iframe.contentWindow.document.querySelector('.content').innerHTML
+          tooltipContent.innerHTML = tooltipContentHtml
+          linkHistories[contentURL] = tooltipContentHtml
+          tooltipWrapper.style.display = 'block';
+          tooltipWrapper.scrollTop = 0;
+          setTimeout(function () {
+            tooltipWrapper.style.opacity = 1;
+            if (url.indexOf("#") != -1) {
+              let id = url.split('#')[1];
+              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
+              focus.classList.add('referred');
+              console.log(focus);
+              focus.scrollIntoView({behavior: 'smooth'}, true)
+            } else {
+              tooltipWrapper.scroll(0, 0);
+            }
+          }, 1)
+        }
+      } else {
+        tooltipContent.innerHTML = linkHistories[contentURL]
+        tooltipWrapper.style.display = 'block';
+        setTimeout(function () {
+          tooltipWrapper.style.opacity = 1;
+          if (url.indexOf("#") != -1) {
+              let id = url.split('#')[1];
+              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
+              focus.classList.add('referred');
+              focus.scrollIntoView({behavior: 'smooth'}, true)
+          } else {
+              tooltipWrapper.scroll(0, 0);
+          }
+        }, 1)
+      }
+
+      function getInnerWidth(elem) {
+        var style = window.getComputedStyle(elem);
+        return elem.offsetWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight) - parseFloat(style.borderLeft) - parseFloat(style.borderRight) - parseFloat(style.marginLeft) - parseFloat(style.marginRight);
+      }
+
+      tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
+
+      if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
+        tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
+      } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
+        tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
+      }
+
+      if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+        tooltipWrapper.style.left = "10px";
+      } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+        tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
+      }
+    }
+  }
+
+  function setupListeners(linkElement) {
+    linkElement.addEventListener('mouseleave', function (_event) {
+      hideTooltip();
+    });
+
+    tooltipWrapper.addEventListener('mouseleave', function (_event) {
+      hideTooltip();
+    });
+
+    linkElement.addEventListener('mouseenter', function (event) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+      showTooltip(event);
+    });
+
+    tooltipWrapper.addEventListener('mouseenter', function (event) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+    });
+  }
+
+  window.addEventListener("load", function(event) 
+  {
+    document.querySelectorAll('.internal-link').forEach(setupListeners);
+    document.querySelectorAll('.backlink-card a').forEach(setupListeners);
+  });
+</script>
+
+    
+        <script>
+      if (window.location.hash) {
+        document.getElementById(window.location.hash.slice(1)).classList.add('referred');
+      }
+      window.addEventListener('hashchange', (evt) => {
+        const oldParts = evt.oldURL.split("#");
+        if (oldParts[1]) {
+          document.getElementById(oldParts[1]).classList.remove('referred');
+        }
+        const newParts = evt.newURL.split("#");
+        if (newParts[1]) {
+          document.getElementById(newParts[1]).classList.add('referred');
+        }
+      }, false);
+      const url_parts = window.location.href.split("#")
+      const url = url_parts[0];
+      const referrence = url_parts[1];
+      document.querySelectorAll(".cm-s-obsidian > *[id]").forEach(function (el) {
+        el.ondblclick = function(evt) {
+          const ref_url = url + '#' + evt.target.id
+          navigator.clipboard.writeText(ref_url);
+      }
+      });
+
+      
+    </script>
+    <script src=" https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js "></script>
+<script defer>
+  TIMESTAMP_FORMAT = "dd.MM.yyyy hh:mm";
+  document.querySelectorAll('.human-date').forEach(function (el) {
+    date = el.getAttribute('data-date') || el.innerText
+    parsed_date = luxon.DateTime.fromISO(date)
+    if (parsed_date.invalid != null){
+      // Date cannot be parsed
+      parsed_date = luxon.DateTime.fromSQL(date)
+    }
+    if (parsed_date.invalid != null){
+      // Date still cannot be parsed
+      parsed_date = luxon.DateTime.fromHTML(date)
+    }
+    el.innerHTML = parsed_date.toFormat(TIMESTAMP_FORMAT);
+  })
+</script>
+    
+    
+    <script>
+lucide.createIcons({
+            attrs: {
+                class: ["svg-icon"]
+            }
+        });
+</script>
+  </body>
+</html>

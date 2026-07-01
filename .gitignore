@@ -1,12 +1,3 @@
-node_modules
-netlify/functions/search/data.json
-netlify/functions/search/index.json
-src/site/styles/theme.*.css
-src/site/styles/_theme.*.css
-# Local Netlify folder
-.netlify
-.idea/
-.vercel
-.cache
+node_modules/
+.DS_Store
 _site/
-**/.DS_Store

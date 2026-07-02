@@ -9,7 +9,7 @@ location: "Sofia, Bulgaria"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
-# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E12_ChokeSlamMania III - Andre has a posse - Day 1**
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E12_ChokeSlamMania III - Andre has a posse - Day 1**
 
 **Date:** 2021-06-30
 

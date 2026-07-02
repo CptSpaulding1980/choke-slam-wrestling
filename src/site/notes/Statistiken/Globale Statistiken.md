@@ -31,8 +31,8 @@ tags: [statistik]
 |---|---|
 | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 56 |
 | [[Wrestler/Roman Reigns\|Roman Reigns]] | 48 |
-| [[Wrestler/Bret Hart\|Bret Hart]] | 47 |
 | [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 47 |
+| [[Wrestler/Bret Hart\|Bret Hart]] | 47 |
 | [[Wrestler/Bob Backlund\|Bob Backlund]] | 45 |
 | [[Wrestler/Randy Savage\|Randy Savage]] | 42 |
 | [[Wrestler/Triple H\|Triple H]] | 38 |

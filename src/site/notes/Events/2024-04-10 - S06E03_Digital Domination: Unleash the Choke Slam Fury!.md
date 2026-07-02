@@ -9,7 +9,7 @@ location: "Montgomery, Alabama, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
-# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E03_Digital Domination: Unleash the Choke Slam Fury!**
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E03_Digital Domination: Unleash the Choke Slam Fury!**
 
 **Date:** 2024-04-10
 

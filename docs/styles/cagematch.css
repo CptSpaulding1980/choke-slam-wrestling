@@ -1,1 +1,379 @@
-:root{--wrestling-purple: #8a2be2;--ring-rope: #4b0082;--background: #232136;--surface: #2a273f;--muted-text: #6e6a86;--accent: #a779e9;--headline: #f6c177;--text-color: #e0def4;--border-color: #393552;--cm-red: #730000;--cm-highlight: #a32e1b;--cm-bg-light: #edecec;--cm-bg-card: #fafafa;--sidebar-collapsed: 20px;--sidebar-open: 200px;--topbar-height: 120px;--content-gutter: 40px}body{background:var(--cm-bg-light);color:#222;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:16px;margin:0;padding-top:130px !important;box-sizing:border-box}header,nav,.navbar,.topbar{background-color:var(--cm-red);color:#fff;border-bottom:3px solid #d2cfcf}nav a,.navbar a{color:#fff;font-weight:bold;text-decoration:none;padding:10px 15px;display:inline-block}nav a.active,.navbar a.active,nav a:hover{background-color:var(--cm-highlight)}h1,h2,h3{color:var(--cm-red);font-family:Verdana,Arial,Helvetica,sans-serif;font-weight:bold}a{color:var(--cm-highlight);text-decoration:underline}a:hover{color:var(--cm-red);text-decoration:none}.site-banner{position:fixed;top:0;left:0;width:100vw;height:130px;background-color:var(--cm-red);z-index:2000;text-align:center;box-shadow:0 2px 6px rgba(0, 0, 0, 0.3)}.site-banner img{width:100%;height:100%;object-fit:cover;object-position:center;display:block}.sidebar,.sideinfo{background:#f7f7f7;color:#222;border-left:20px solid var(--cm-red);padding:1.5em 1em;font-size:14px}.sidebar{position:fixed;top:0;left:0;width:var(--sidebar-collapsed);height:100vh;background-color:var(--cm-red);transition:width .3s ease;overflow:hidden;z-index:1000;display:flex;flex-direction:column;align-items:center;padding:0}.sidebar .burger{background:none;border:none;margin-top:140px;font-size:28px;color:white;cursor:pointer;z-index:4000;position:fixed;left:20px;transform:translateX(-50%)}.sidebar ul{list-style:none;padding:0;padding-top:160px;margin:0;width:100%;text-align:left}.sidebar:not(.open) ul li{display:none}.sidebar ul li{width:100%}.sidebar ul li a{display:block;padding:10px;color:white;text-decoration:none;white-space:nowrap}.sidebar ul li a:hover{background-color:var(--cm-highlight)}.sidebar.open{width:var(--sidebar-open);align-items:flex-start;padding-left:10px;overflow-y:auto}body.menu-open .main-container,body.menu-open .content{margin-left:calc(var(--sidebar-open) + var(--sidebar-collapsed) + 20px)}.story-highlight,.card,.top-story{background:var(--cm-bg-card);border-left:6px solid var(--cm-red);margin-bottom:1.5em;padding:1em}table,.table{border-collapse:separate !important;border-spacing:0 !important;background:#faf9f8;font-size:1rem;margin-bottom:1.5em;table-layout:auto;box-shadow:0 2px 8px #e4e4e4;border-radius:6px;overflow:hidden}table th,.table th{background:#730000;color:#fff;font-weight:bold;border:1px solid #d2cfcf;padding:14px 12px;text-align:left;font-size:1.07rem;word-break:break-word}table td,.table td{border:1px solid #d2cfcf;padding:14px 12px;color:#252525;background:#faf9f8;vertical-align:middle;word-break:break-word;min-width:100px}table tr:nth-child(even) td,.table tr:nth-child(even) td{background:#ededed}table tr:nth-child(odd) td,.table tr:nth-child(odd) td{background:#faf9f8}table tbody tr:hover td,.table tbody tr:hover td{background:#ffcfcf;transition:background .2s}table td:not(:last-child),.table td:not(:last-child),table th:not(:last-child),.table th:not(:last-child){border-right:1.5px solid #c9c8c8}table,.table{border-radius:8px}.footer,.bottom-bar{background:var(--cm-red);color:#fff;padding:18px 0 8px 0;font-size:12px;text-align:center;margin-top:3em;border-top:2px solid #c9c8c8}.championship-grid{display:grid;grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));gap:1.5rem;margin:2rem 0}.champ-card{display:flex;flex-direction:column;align-items:center;text-align:center;text-decoration:none;background:rgba(255, 255, 255, 0.05);border-radius:12px;padding:1rem;transition:transform .2s,box-shadow .2s}.champ-card img{max-width:150px;height:auto;margin-bottom:.5rem}.champ-card span{color:var(--cm-red);font-weight:600;font-size:.95rem}.champ-card:hover{transform:translateY(-4px);box-shadow:0 4px 12px rgba(0, 0, 0, 0.3)}.dashboard-title{color:var(--headline);font-size:2.4rem;margin-bottom:1rem}.section-title{color:var(--accent);padding:.3rem 0;font-size:1.5rem;border-bottom:1px solid var(--border-color);margin-top:2rem;font-weight:600;text-transform:uppercase;letter-spacing:.05em}.main-container,.content{max-width:none;width:auto;margin:1.5rem 20px 1.5rem 60px;padding-top:2em;padding-right:0;padding-left:0;flex-grow:1;box-sizing:border-box;transition:margin-left .3s ease}.main-container h1,.main-container h2,.main-container h3,.main-container .section-title,.dashboard-title{margin-left:0;padding-left:0}@media(min-width: 992px){table,.table{table-layout:auto;width:100%;max-width:none}}@media(max-width: 991px){table,.table{table-layout:auto;width:100%;display:block;overflow-x:auto;white-space:nowrap}table th,table td{min-width:100px;padding:14px 16px}}.table-container{overflow-x:auto;-webkit-overflow-scrolling:touch}table td,.table td{min-width:60px;word-break:break-word;overflow-wrap:break-word}/*# sourceMappingURL=cagematch.css.map */
+/* =========================
+   Variablen
+   ========================= */
+:root {
+    /* Farben */
+  --wrestling-purple: #8a2be2;
+  --ring-rope: #4b0082;
+  --background: #232136;
+  --surface: #2a273f;
+  --muted-text: #6e6a86;
+  --accent: #a779e9;
+  --headline: #f6c177;
+  --text-color: #e0def4;
+  --border-color: #393552;
+  /* Cagematch Farben */
+  --cm-red: #730000;
+  --cm-highlight: #a32e1b;
+  --cm-bg-light: #edecec;
+  --cm-bg-card: #fafafa;
+   /* Layout-Breite / Sidebar-Offsets */
+  --sidebar-collapsed: 20px;
+  --sidebar-open: 200px;
+  --topbar-height: 120px; /* Bannerhöhe */ 
+  --content-gutter: 40px; /* horizontaler Innenabstand */
+}
+
+/* ================
+   Grundlayout
+   ================ */
+body {
+  background: var(--cm-bg-light);
+  color: #222;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding-top: 130px !important;  /* nur so hoch wie Banner */
+  box-sizing: border-box;
+}
+
+/* ================
+   Navigation / Header
+   ================ */
+header, nav, .navbar, .topbar {
+    background-color: var(--cm-red);
+    color: #fff;
+    border-bottom: 3px solid #d2cfcf;
+}
+nav a, .navbar a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+}
+nav a.active, .navbar a.active, nav a:hover {
+    background-color: var(--cm-highlight);
+}
+
+/* ================
+   Text & Titel
+   ================ */
+h1, h2, h3 {
+    color: var(--cm-red);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+a {
+    color: var(--cm-highlight);
+    text-decoration: underline;
+}
+a:hover {
+    color: var(--cm-red);
+    text-decoration: none;
+}
+
+/* ==============================
+   Banner / Header
+   ============================== */
+.site-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 130px;         /* Bannerhöhe */
+  background-color: var(--cm-red);
+  z-index: 2000;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+.site-banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+/* ====================
+   Seitenleiste / Info
+   ==================== */
+.sidebar, .sideinfo {
+    background: #f7f7f7;
+    color: #222;
+    border-left: 20px solid var(--cm-red);
+    padding: 1.5em 1em;
+    font-size: 14px;
+}
+
+/* =========================
+   Vertikale Sidebar / Burger
+   ========================= */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: var(--sidebar-collapsed);
+  height: 100vh;
+  background-color: var(--cm-red);
+  transition: width 0.3s ease;
+  overflow: hidden;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;                  /* Override padding von generischer .sidebar Regel */
+}
+
+/* Burger Button */
+.sidebar .burger {
+  background: none;
+  border: none;
+  margin-top: 140px;
+  font-size: 28px;
+  color: white;
+  cursor: pointer;
+  z-index: 4000;
+  position: fixed;
+  left: 20px;
+  transform: translateX(-50%);
+}
+
+/* Menü-Links in der Sidebar */
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  padding-top: 160px;        /* Platz für Banner (130px) + Burger-Abstand */
+  margin: 0;
+  width: 100%;
+  text-align: left;
+}
+
+/* Links nur sichtbar, wenn Sidebar offen ist */
+.sidebar:not(.open) ul li {
+  display: none;
+}
+
+.sidebar ul li {
+  width: 100%;
+}
+
+.sidebar ul li a {
+  display: block;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.sidebar ul li a:hover {
+  background-color: var(--cm-highlight);
+}
+
+/* Geöffnete Sidebar */
+.sidebar.open {
+  width: var(--sidebar-open);            /* ausgeklappt */
+  align-items: flex-start;
+  padding-left: 10px;
+  overflow-y: auto;                      /* scrollen wenn Items nicht passen */
+}
+
+/* wenn das Menü offen ist — Content rückt nach rechts, gleicher Abstand wie collapsed */
+body.menu-open .main-container,
+body.menu-open .content {
+  margin-left: calc(var(--sidebar-open) + var(--sidebar-collapsed) + 20px);  /* 240px: Sidebar 220px + 20px gap */
+}
+
+/* ====================
+   Cards / Story-Boxen
+   ==================== */
+.story-highlight, .card, .top-story {
+    background: var(--cm-bg-card);
+    border-left: 6px solid var(--cm-red);
+    margin-bottom: 1.5em;
+    padding: 1em;
+}
+
+/* ====================================
+   Verbesserte Table-Darstellung (Cagematch-Style)
+   ==================================== */
+table, .table {
+    border-collapse: separate !important;
+    border-spacing: 0 !important;
+    background: #faf9f8;
+    font-size: 1rem;
+    margin-bottom: 1.5em;
+    table-layout: auto;    /* dynamische Spaltenbreiten */
+    box-shadow: 0 2px 8px #e4e4e4;
+    border-radius: 6px;
+    overflow: hidden;
+}
+table th, .table th {
+    background: #730000;     /* dunkles Cagematch-Rot */
+    color: #ffffff;          /* helle Schrift */
+    font-weight: bold;
+    border: 1px solid #d2cfcf;
+    padding: 14px 12px;
+    text-align: left;
+    font-size: 1.07rem;
+    word-break: break-word;
+}
+table td, .table td {
+    border: 1px solid #d2cfcf;
+    padding: 14px 12px;
+    color: #252525;
+    background: #faf9f8;
+    vertical-align: middle;
+    word-break: break-word;
+    min-width: 100px;
+}
+/* Zebra-Stripes für Zeilen */
+table tr:nth-child(even) td, .table tr:nth-child(even) td {
+    background: #ededed;
+}
+table tr:nth-child(odd) td, .table tr:nth-child(odd) td {
+    background: #faf9f8;
+}
+/* Hover-Effekt */
+table tbody tr:hover td, .table tbody tr:hover td {
+    background: #ffcfcf;
+    transition: background 0.2s;
+}
+/* Extra-Ränder für Zellen */
+table td:not(:last-child), .table td:not(:last-child),
+table th:not(:last-child), .table th:not(:last-child) {
+    border-right: 1.5px solid #c9c8c8;
+}
+/* Runde Ecken am Tabellen-Außenrand */
+table, .table {
+    border-radius: 8px;
+}
+
+/* ====================
+   Footer / Bottom bar
+   ==================== */
+.footer, .bottom-bar {
+    background: var(--cm-red);
+    color: #fff;
+    padding: 18px 0 8px 0;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 3em;
+    border-top: 2px solid #c9c8c8;
+}
+
+/* ================
+   Champion-Grids / Teams / Cards (bleibt erhalten)
+   ================ */
+.championship-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+.champ-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 1rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.champ-card img {
+  max-width: 150px;
+  height: auto;
+  margin-bottom: 0.5rem;
+}
+.champ-card span {
+  color: var(--cm-red);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.champ-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* ================
+   Individuelle Titel
+   ================ */
+.dashboard-title {
+  color: var(--headline);
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+.section-title {
+  color: var(--accent);
+  padding: 0.3rem 0;
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  margin-top: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Content Container: auf großen Bildschirmen deutlich breiter nutzen */
+.main-container, .content {
+  max-width: none;
+  width: auto;
+  margin: 1.5rem 20px 1.5rem 60px;       /* rechts 20px, links 60px (Sidebar 40px + 20px Luft) */
+  padding-top: 2em;
+  padding-right: 0;
+  padding-left: 0;
+  flex-grow: 1;
+  box-sizing: border-box;
+  transition: margin-left 0.3s ease;
+}
+
+/* Überschriften bündig mit Tabellenanfang */
+.main-container h1,
+.main-container h2,
+.main-container h3,
+.main-container .section-title,
+.dashboard-title {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+/* Desktop-Ansicht (große Bildschirme) */
+@media (min-width: 992px) {
+  table, .table {
+    table-layout: auto;    /* dynamische Spaltenbreiten */
+    width: 100%;
+    max-width: none;
+  }
+}
+
+/* Mobile-Ansicht (kleine Bildschirme) */
+@media (max-width: 991px) {
+  table, .table {
+    table-layout: auto; /* Spalten können sich dynamisch anpassen */
+    width: 100%;
+    display: block;
+    overflow-x: auto; /* horizontales Scrollen ermöglichen */
+    white-space: nowrap; /* Inhalte bleiben in einer Zeile */
+  }
+
+  table th, table td {
+    min-width: 100px; /* Mindestbreite für jede Spalte */
+    padding: 14px 16px;
+  }
+}
+
+/* Damit sehr breite Tabellen nicht das Layout sprengen */
+.table-container {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Zellen: verhindert Überlappung, aber nicht zu schmal */
+table td, .table td {
+  min-width: 60px; /* Mindestbreite, kein Kollabieren */
+  word-break: break-word;
+  overflow-wrap: break-word;
+}

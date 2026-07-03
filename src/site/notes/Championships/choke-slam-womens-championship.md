@@ -23,8 +23,8 @@ title: Choke Slam Womens Championship
 <tr><td><strong>Kürzeste Regentschaft</strong></td><td>[[Wrestler/Toni Storm\|Toni Storm]] (21 Tage)</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Kiana James\|Kiana James]] (2x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Alexa Bliss\|Alexa Bliss]] (1 Verteidigungen)</td></tr>
-<tr><td><strong>Titelmatches gesamt</strong></td><td>9</td></tr>
-<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>2 (22%)</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>11</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>2 (18%)</td></tr>
 <tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Sasha Banks\|Sasha Banks]] — Tag 50 🔥</td></tr>
 </tbody>
 </table>

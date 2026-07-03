@@ -22,8 +22,8 @@ title: Choke Slam World Championship
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Roman Reigns\|Roman Reigns]] (612 Tage)</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Steve Austin\|Steve Austin]] (6 Verteidigungen)</td></tr>
-<tr><td><strong>Titelmatches gesamt</strong></td><td>15</td></tr>
-<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>26 (173%)</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>40</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>26 (65%)</td></tr>
 <tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Steve Austin\|Steve Austin]] — Tag 275 🔥</td></tr>
 </tbody>
 </table>

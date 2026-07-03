@@ -22,8 +22,8 @@ title: Choke Slam Tag Team Championship
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Jon Moxley\|Jon Moxley]] (354 Tage)</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Christian Cage\|Christian Cage]] & [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (2x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]] (2 Verteidigungen)</td></tr>
-<tr><td><strong>Titelmatches gesamt</strong></td><td>22</td></tr>
-<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>4 (18%)</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>24</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>4 (17%)</td></tr>
 <tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]] — Tag 11 🔥</td></tr>
 </tbody>
 </table>

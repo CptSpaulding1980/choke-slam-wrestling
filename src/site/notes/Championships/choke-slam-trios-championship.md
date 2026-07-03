@@ -22,8 +22,8 @@ title: Choke Slam Trios Championship
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Edge\|Edge]] & [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]] (276 Tage)</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Ikemen Jiro\|Ikemen Jiro]] & [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] & [[Wrestler/Randy Savage\|Randy Savage]] (1x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Brandon\|Brandon]] & [[Wrestler/Hulk Hogan\|Hulk Hogan]] & [[Wrestler/Kenny Omega\|Kenny Omega]] (1 Verteidigungen)</td></tr>
-<tr><td><strong>Titelmatches gesamt</strong></td><td>9</td></tr>
-<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>2 (22%)</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>11</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>2 (18%)</td></tr>
 <tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]] — Tag 50 🔥</td></tr>
 </tbody>
 </table>

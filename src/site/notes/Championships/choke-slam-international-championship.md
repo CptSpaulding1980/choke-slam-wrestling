@@ -17,9 +17,15 @@ title: Choke Slam International Championship
 <tr><td><strong>Insgesamt Regentschaften</strong></td><td>15</td></tr>
 <tr><td><strong>Verschiedene Champions</strong></td><td>13</td></tr>
 <tr><td><strong>Vakante Phasen</strong></td><td>0</td></tr>
-<tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/AJ Styles\|AJ Styles]] (2x)</td></tr>
+<tr><td><strong>Erster Champion</strong></td><td>[[Wrestler/AJ Styles\|AJ Styles]] (2020-09-07)</td></tr>
+<tr><td><strong>⌀ Regentschaftsdauer</strong></td><td>148 Tage</td></tr>
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Lance Storm\|Lance Storm]] (281 Tage)</td></tr>
+<tr><td><strong>Kürzeste Regentschaft</strong></td><td>[[Wrestler/Bob Backlund\|Bob Backlund]] (8 Tage)</td></tr>
+<tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/AJ Styles\|AJ Styles]] (2x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Christian Cage\|Christian Cage]] (1 Verteidigungen)</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>15</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>6 (40%)</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] — Tag 50 🔥</td></tr>
 </tbody>
 </table>
 
@@ -39,7 +45,7 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]]</td><td>1</td><td>1</td><td>79 Tage</td><td>79 Tage</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>1</td><td>0</td><td>200 Tage</td><td>200 Tage</td></tr>
-<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>1</td><td>48 Tage</td><td>48 Tage</td></tr>
+<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>1</td><td>50 Tage</td><td>50 Tage</td></tr>
 </tbody>
 </table>
 

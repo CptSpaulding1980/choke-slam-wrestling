@@ -17,9 +17,15 @@ title: Choke Slam Womens Championship
 <tr><td><strong>Insgesamt Regentschaften</strong></td><td>9</td></tr>
 <tr><td><strong>Verschiedene Champions</strong></td><td>8</td></tr>
 <tr><td><strong>Vakante Phasen</strong></td><td>0</td></tr>
-<tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Kiana James\|Kiana James]] (2x)</td></tr>
+<tr><td><strong>Erster Champion</strong></td><td>[[Wrestler/Shayna Baszler\|Shayna Baszler]] (2022-10-02)</td></tr>
+<tr><td><strong>⌀ Regentschaftsdauer</strong></td><td>165 Tage</td></tr>
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Kiana James\|Kiana James]] (327 Tage)</td></tr>
+<tr><td><strong>Kürzeste Regentschaft</strong></td><td>[[Wrestler/Toni Storm\|Toni Storm]] (21 Tage)</td></tr>
+<tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Kiana James\|Kiana James]] (2x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Alexa Bliss\|Alexa Bliss]] (1 Verteidigungen)</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>9</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>2 (22%)</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Sasha Banks\|Sasha Banks]] — Tag 50 🔥</td></tr>
 </tbody>
 </table>
 
@@ -34,7 +40,7 @@ title: Choke Slam Womens Championship
 <tr><td>[[Wrestler/Tiffany Stratton\|Tiffany Stratton]]</td><td>1</td><td>0</td><td>72 Tage</td><td>72 Tage</td></tr>
 <tr><td>[[Wrestler/Fallon Henley\|Fallon Henley]]</td><td>1</td><td>0</td><td>65 Tage</td><td>65 Tage</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>267 Tage</td><td>267 Tage</td></tr>
-<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>1</td><td>48 Tage</td><td>48 Tage</td></tr>
+<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>1</td><td>50 Tage</td><td>50 Tage</td></tr>
 </tbody>
 </table>
 

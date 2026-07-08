@@ -25,7 +25,7 @@ title: Choke Slam International Championship
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Christian Cage\|Christian Cage]] (1 Verteidigungen)</td></tr>
 <tr><td><strong>Titelmatches gesamt</strong></td><td>21</td></tr>
 <tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>6 (29%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] — Tag 50 🔥</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] — Tag 54 🔥</td></tr>
 </tbody>
 </table>
 
@@ -45,7 +45,7 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]]</td><td>1</td><td>1</td><td>79 Tage</td><td>79 Tage</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>1</td><td>0</td><td>200 Tage</td><td>200 Tage</td></tr>
-<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>1</td><td>50 Tage</td><td>50 Tage</td></tr>
+<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>1</td><td>54 Tage</td><td>54 Tage</td></tr>
 </tbody>
 </table>
 

@@ -24,7 +24,7 @@ title: Choke Slam Trios Championship
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Brandon\|Brandon]] & [[Wrestler/Hulk Hogan\|Hulk Hogan]] & [[Wrestler/Kenny Omega\|Kenny Omega]] (1 Verteidigungen)</td></tr>
 <tr><td><strong>Titelmatches gesamt</strong></td><td>11</td></tr>
 <tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>2 (18%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]] — Tag 50 🔥</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]] — Tag 54 🔥</td></tr>
 </tbody>
 </table>
 
@@ -40,7 +40,7 @@ title: Choke Slam Trios Championship
 <tr><td>[[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] & [[Wrestler/Bandido\|Bandido]] & [[Wrestler/Fit Finlay\|Fit Finlay]]</td><td>1</td><td>0</td><td>0 Tage</td><td>0 Tage</td></tr>
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Lex Luger\|Lex Luger]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>1</td><td>0</td><td>0 Tage</td><td>0 Tage</td></tr>
 <tr><td>[[Wrestler/Edge\|Edge]] & [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>1</td><td>276 Tage</td><td>276 Tage</td></tr>
-<tr><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]]</td><td>1</td><td>0</td><td>50 Tage</td><td>50 Tage</td></tr>
+<tr><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]]</td><td>1</td><td>0</td><td>54 Tage</td><td>54 Tage</td></tr>
 </tbody>
 </table>
 

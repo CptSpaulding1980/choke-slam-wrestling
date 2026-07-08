@@ -24,7 +24,7 @@ title: Choke Slam World Championship
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Steve Austin\|Steve Austin]] (6 Verteidigungen)</td></tr>
 <tr><td><strong>Titelmatches gesamt</strong></td><td>40</td></tr>
 <tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>26 (65%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Steve Austin\|Steve Austin]] — Tag 275 🔥</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Steve Austin\|Steve Austin]] — Tag 279 🔥</td></tr>
 </tbody>
 </table>
 
@@ -44,7 +44,7 @@ title: Choke Slam World Championship
 <tr><td>[[Wrestler/Big Van Vader\|Big Van Vader]]</td><td>1</td><td>2</td><td>194 Tage</td><td>194 Tage</td></tr>
 <tr><td>[[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>1</td><td>3</td><td>244 Tage</td><td>244 Tage</td></tr>
 <tr><td>[[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>4</td><td>612 Tage</td><td>612 Tage</td></tr>
-<tr><td>[[Wrestler/Steve Austin\|Steve Austin]]</td><td>1</td><td>6</td><td>275 Tage</td><td>275 Tage</td></tr>
+<tr><td>[[Wrestler/Steve Austin\|Steve Austin]]</td><td>1</td><td>6</td><td>279 Tage</td><td>279 Tage</td></tr>
 </tbody>
 </table>
 

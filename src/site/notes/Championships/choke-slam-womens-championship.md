@@ -25,7 +25,7 @@ title: Choke Slam Womens Championship
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Alexa Bliss\|Alexa Bliss]] (1 Verteidigungen)</td></tr>
 <tr><td><strong>Titelmatches gesamt</strong></td><td>11</td></tr>
 <tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>2 (18%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Sasha Banks\|Sasha Banks]] — Tag 54 🔥</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Sasha Banks\|Sasha Banks]] — Tag 61 🔥</td></tr>
 </tbody>
 </table>
 
@@ -40,7 +40,7 @@ title: Choke Slam Womens Championship
 <tr><td>[[Wrestler/Tiffany Stratton\|Tiffany Stratton]]</td><td>1</td><td>0</td><td>72 Tage</td><td>72 Tage</td></tr>
 <tr><td>[[Wrestler/Fallon Henley\|Fallon Henley]]</td><td>1</td><td>0</td><td>65 Tage</td><td>65 Tage</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>267 Tage</td><td>267 Tage</td></tr>
-<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>1</td><td>54 Tage</td><td>54 Tage</td></tr>
+<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>1</td><td>61 Tage</td><td>61 Tage</td></tr>
 </tbody>
 </table>
 

@@ -2,32 +2,33 @@
 <html lang="en">
   <head>
     <title>Ricochet</title>
-    <header class="site-banner">
-  <img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlamWrestling_Banner.png" alt="Choke Slam Wrestling Banner" >
-</header>
+    <div class="csw-banner-wrap">
+  <div class="csw-banner">
+    <img loading="lazy" decoding="async" class="csw-banner-logo" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" alt="CSW" >
+    <div class="csw-banner-text">
+      <h1>CHOKE SLAM WRESTLING</h1>
+      <span class="csw-tagline">Where Legends Collide</span>
+    </div>
+  </div>
+</div>
+
+<div class="csw-season-strip">
+  <a href="/choke-slam-wrestling/s08/">⚡ SEASON 8 — COMING SOON ⚡</a>
+</div>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<nav class="sidebar" id="site-nav">
-  <button 
-    class="burger"
-    aria-label="Menü öffnen/schließen"
-    aria-expanded="false"
-    id="burger-toggle"
-    onclick="toggleMenu()"
-  >
-    ☰
-  </button>
+<nav class="csw-main-nav" id="site-nav">
+  <button class="csw-burger" aria-label="Menu" aria-expanded="false" id="burger-toggle" onclick="toggleMenu()">☰</button>
   <ul>
-    <li><a href="#" onclick="history.back();return false;" title="Zurück">← Zurück</a></li>
-    <li><a href="/choke-slam-wrestling/">Home</a></li>
-    <li><a href="/choke-slam-wrestling/audio/">Audio Files</a></li>
-    <li><a href="/choke-slam-wrestling/championships/">Championships</a></li>
-    <li><a href="/choke-slam-wrestling/events/">Events</a></li>
-    <li><a href="/choke-slam-wrestling/referees/">Referees</a></li>
-    <li><a href="/choke-slam-wrestling/teams/">Teams</a></li>
-    <li><a href="/choke-slam-wrestling/wrestler/">Wrestler</a></li>
-    <li><a href="/choke-slam-wrestling/statistiken/">Statistiken</a></li>
+    <li><a href="/choke-slam-wrestling/">🏠 Home</a></li>
+    <li><a href="/choke-slam-wrestling/events/">📅 Events</a></li>
+    <li><a href="/choke-slam-wrestling/wrestler/">🤼 Roster</a></li>
+    <li><a href="/choke-slam-wrestling/championships/">🏆 Titles</a></li>
+    <li><a href="/choke-slam-wrestling/teams/">👥 Teams</a></li>
+    <li><a href="/choke-slam-wrestling/statistiken/">📊 Stats</a></li>
+    <li><a href="/choke-slam-wrestling/referees/">🦓 Refs</a></li>
+    <li><a href="/choke-slam-wrestling/s08/" style="color:#ffd700;">⚡ S08</a></li>
   </ul>
 </nav>
 
@@ -35,26 +36,16 @@
 
 <script>
 function toggleMenu() {
-  const nav = document.getElementById('site-nav');
-  const btn = document.getElementById('burger-toggle');
-  nav.classList.toggle('open');
-  const expanded = btn.getAttribute('aria-expanded') === 'true';
-  btn.setAttribute('aria-expanded', !expanded);
-
-  if(nav.classList.contains('open')){
-    document.body.classList.add('menu-open');
-  } else {
-    document.body.classList.remove('menu-open');
-  }
+  var n = document.getElementById('site-nav');
+  var b = document.getElementById('burger-toggle');
+  n.classList.toggle('open');
+  b.setAttribute('aria-expanded', n.classList.contains('open'));
+  document.body.classList.toggle('menu-open', n.classList.contains('open'));
 }
-
-// Aktive Seite hervorheben
 (function(){
-  const path = window.location.pathname;
-  document.querySelectorAll('.sidebar ul li a').forEach(function(a){
-    if(a.pathname !== '/' && path.startsWith(a.pathname)){
-      a.classList.add('active-page');
-    }
+  var p = window.location.pathname;
+  document.querySelectorAll('.csw-main-nav ul li a').forEach(function(a){
+    if(a.pathname !== '/' && p.startsWith(a.pathname)) a.classList.add('active');
   });
 })();
 </script>
@@ -182,6 +173,16 @@ function toggleMenu() {
       
       
     </main>
+
+    
+    <footer class="csw-footer">
+      <div class="faction-row">
+        <span style="color:#dc2626;">🛡️ Militanter Mummenschanz</span>
+        <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
+        <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
+      </div>
+      <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
+    </footer>
 
     
 

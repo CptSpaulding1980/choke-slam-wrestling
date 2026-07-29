@@ -96,6 +96,16 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% endfor %}
     </main>
 
+    <!-- CSW Footer -->
+    <footer class="csw-footer">
+      <div class="faction-row">
+        <span style="color:#dc2626;">🛡️ Militanter Mummenschanz</span>
+        <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
+        <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
+      </div>
+      <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
+    </footer>
+
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
       {%include "components/sidebar.njk"%}
     {% endif %}

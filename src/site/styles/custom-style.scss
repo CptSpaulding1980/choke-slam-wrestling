@@ -1,297 +1,89 @@
 /* ═══════════════════════════════════════════════════════════
-   CHOKE SLAM WRESTLING — Complete Theme Overhaul S08
+   CHOKE SLAM WRESTLING — Full Theme Overhaul
+   Dark wrestling promotion aesthetic — dramatic, premium
    ═══════════════════════════════════════════════════════════ */
 
-/* ── CSS Variables ── */
 :root {
-  --csw-black: #0a0a0f;
-  --csw-deep: #120820;
-  --csw-purple: #6b21a8;
-  --csw-purple-light: #a855f7;
-  --csw-gold: #f59e0b;
-  --csw-gold-bright: #fbbf24;
-  --csw-red: #dc2626;
-  --csw-green: #22c55e;
-  --csw-blue: #3b82f6;
-  --csw-white: #f5f3ff;
-  --csw-gray: #9ca3af;
-  --csw-card: #1e1030;
-  --csw-card-hover: #2a1540;
-  --csw-border: #4b0082;
-  --font-display: 'Georgia', serif;
-  --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --gold: #f59e0b;
+  --gold-bright: #fbbf24;
+  --gold-dark: #b45309;
+  --purple: #7c3aed;
+  --purple-dark: #4b0082;
+  --red: #ef4444;
+  --green: #22c55e;
+  --blue: #3b82f6;
+  --bg: #0a0a0f;
+  --bg-card: #1a1025;
+  --bg-card-hover: #251535;
+  --text: #f0e6ff;
+  --text-muted: #9ca3af;
+  --border: #2a1540;
 }
 
-/* ── Reset & Base ── */
+/* ── Base ── */
 body {
-  background: var(--csw-black) !important;
-  color: var(--csw-white) !important;
-  font-family: var(--font-body);
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
+  background: var(--bg) !important;
+  color: var(--text) !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  line-height: 1.7;
 }
 
-/* ── Banner ── */
-.csw-banner-wrap {
-  background: linear-gradient(180deg, #1a0a30 0%, var(--csw-black) 100%);
-  padding: 1.5rem 1rem;
-  text-align: center;
-  border-bottom: 2px solid var(--csw-gold);
-  position: relative;
-  overflow: hidden;
-}
-.csw-banner-wrap::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(ellipse at center, rgba(107,33,168,0.3) 0%, transparent 70%);
-  animation: bannerGlow 4s ease-in-out infinite;
-}
-@keyframes bannerGlow {
-  0%, 100% { opacity: 0.5; }
-  50% { opacity: 1; }
-}
-.csw-banner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 1.5rem;
-  position: relative;
-  z-index: 1;
-  flex-wrap: wrap;
-}
-.csw-banner-logo {
-  width: 100px;
-  height: auto;
-  filter: drop-shadow(0 0 15px rgba(245,158,11,0.5));
-}
-.csw-banner-text h1 {
-  font-family: var(--font-display);
-  font-size: 2.2rem;
-  background: linear-gradient(90deg, var(--csw-gold-bright), var(--csw-gold), var(--csw-gold-bright));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  margin: 0;
-  letter-spacing: 2px;
-}
-.csw-tagline {
-  color: var(--csw-purple-light);
-  font-size: 0.95rem;
-  font-style: italic;
-  letter-spacing: 3px;
-}
+/* ── Banner Override ── */
+.site-banner { display: none; }  /* hide old banner, use new one */
 
-/* ── Season Strip ── */
-.csw-season-strip {
-  background: linear-gradient(90deg, var(--csw-gold), #d97706, var(--csw-gold));
-  text-align: center;
-  padding: 0.4rem;
-  font-weight: bold;
-  font-size: 0.85rem;
-  animation: stripShimmer 3s ease-in-out infinite;
-}
-.csw-season-strip a {
-  color: var(--csw-black);
-  text-decoration: none;
-}
-@keyframes stripShimmer {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.8; }
-}
+/* ── Nav Override ── */
+.navbar { background: rgba(10,10,15,0.95) !important; backdrop-filter: blur(10px); border-bottom: 1px solid var(--border); }
+.navbar-inner h1 { font-family: Georgia, serif; background: linear-gradient(90deg, var(--gold-bright), var(--gold), var(--gold-bright)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.3rem !important; }
 
-/* ── Navigation ── */
-.csw-main-nav {
-  background: var(--csw-deep);
-  border-bottom: 1px solid var(--csw-border);
-  padding: 0.3rem 1rem;
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  backdrop-filter: blur(10px);
-}
-.csw-main-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.3rem;
-  justify-content: center;
-}
-.csw-main-nav ul li a {
-  display: block;
-  padding: 0.5rem 1rem;
-  color: var(--csw-gray);
-  text-decoration: none;
-  border-radius: 6px;
-  font-size: 0.9rem;
-  transition: all 0.2s;
-}
-.csw-main-nav ul li a:hover,
-.csw-main-nav ul li a.active {
-  background: var(--csw-card);
-  color: var(--csw-gold);
-}
-.csw-burger {
-  display: none;
-  background: none;
-  border: none;
-  color: var(--csw-gold);
-  font-size: 1.5rem;
-  cursor: pointer;
-  padding: 0.5rem;
-}
+/* ── Content ── */
+.content { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }
+.content h1 { font-family: Georgia, serif; font-size: 2rem; color: var(--gold); border-bottom: 2px solid var(--gold); padding-bottom: 0.5rem; margin: 1.5rem 0; }
+.content h2 { color: var(--purple); border-left: 3px solid var(--gold); padding-left: 1rem; margin-top: 2.5rem; }
+.content h3 { color: var(--gold); font-size: 1.1rem; }
 
-/* ── Content Area ── */
-.content {
-  max-width: 900px;
-  margin: 2rem auto;
-  padding: 0 1.5rem;
-}
-.content h1 {
-  font-family: var(--font-display);
-  font-size: 1.8rem;
-  color: var(--csw-gold);
-  border-bottom: 2px solid var(--csw-border);
-  padding-bottom: 0.5rem;
-  margin-bottom: 1.5rem;
-}
-.content h2 {
-  color: var(--csw-purple-light);
-  font-size: 1.3rem;
-  margin-top: 2rem;
-  border-left: 3px solid var(--csw-gold);
-  padding-left: 0.8rem;
-}
-.content h3 {
-  color: var(--csw-gold);
-  font-size: 1.1rem;
-}
-
-/* ── Tables ── */
-.content table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1.5rem 0;
-  background: var(--csw-card);
-  border: 1px solid var(--csw-border);
-  border-radius: 8px;
-  overflow: hidden;
-  font-size: 0.9rem;
-}
-.content th {
-  background: var(--csw-purple);
-  color: var(--csw-gold);
-  padding: 0.7rem 0.8rem;
-  text-align: left;
-  font-weight: bold;
-}
-.content td {
-  padding: 0.6rem 0.8rem;
-  border-bottom: 1px solid var(--csw-border);
-}
-.content tr:hover td {
-  background: var(--csw-card-hover);
-}
-.content tr:nth-child(even) td {
-  background: rgba(107,33,168,0.08);
-}
+/* ── Tables — Wrestling Match Card Style ── */
+.content table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; font-size: 0.9rem; }
+.content th { background: linear-gradient(180deg, var(--purple-dark), #3b0764); color: var(--gold); padding: 0.8rem; text-align: left; font-weight: bold; text-transform: uppercase; font-size: 0.75rem; letter-spacing: 1px; }
+.content td { padding: 0.7rem 0.8rem; border-bottom: 1px solid var(--border); }
+.content tr:hover td { background: var(--bg-card-hover); }
+.content tr:nth-child(even) td { background: rgba(124,58,237,0.05); }
 
 /* ── Links ── */
-.content a {
-  color: var(--csw-purple-light);
-  text-decoration: none;
-  transition: color 0.2s;
-}
-.content a:hover {
-  color: var(--csw-gold);
-  text-decoration: underline;
-}
+.content a { color: var(--purple); text-decoration: none; transition: all 0.2s; }
+.content a:hover { color: var(--gold); text-decoration: underline; text-decoration-color: var(--gold); }
 
 /* ── Faction Colors ── */
-.faction-mm { border-left: 3px solid var(--csw-red) !important; }
-.faction-srr { border-left: 3px solid var(--csw-green) !important; }
-.faction-sns { border-left: 3px solid var(--csw-blue) !important; }
+.mm-color { color: var(--red); }
+.srr-color { color: var(--green); }
+.sns-color { color: var(--blue); }
 
-/* ── Match Card Special ── */
-.match-card {
-  background: var(--csw-card);
-  border: 1px solid var(--csw-border);
-  border-radius: 8px;
-  padding: 1rem;
-  margin: 1rem 0;
-}
-.match-card:hover {
-  border-color: var(--csw-gold);
-  box-shadow: 0 0 15px rgba(245,158,11,0.1);
-}
+/* ── Championship Badge ── */
+.champ-badge { display: inline-block; background: linear-gradient(135deg, var(--gold), var(--gold-dark)); color: var(--bg); font-weight: bold; padding: 0.2rem 0.7rem; border-radius: 12px; font-size: 0.75rem; animation: badgePulse 2s ease-in-out infinite; }
+@keyframes badgePulse { 0%,100%{box-shadow:0 0 8px rgba(245,158,11,0.3)} 50%{box-shadow:0 0 20px rgba(245,158,11,0.6)} }
 
 /* ── Breadcrumbs ── */
-.breadcrumbs {
-  font-size: 0.85rem;
-  color: var(--csw-gray);
-  margin-bottom: 1rem;
-}
-.breadcrumbs a {
-  color: var(--csw-purple-light);
-}
+.breadcrumbs { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; }
+.breadcrumbs a { color: var(--purple); }
 
-/* ── Sidebar / Backlinks ── */
-.sidebar {
-  background: var(--csw-deep);
-  border-left: 1px solid var(--csw-border);
-  position: fixed;
-  right: 0;
-  top: 0;
-  height: 100vh;
-  width: 280px;
-  overflow-y: auto;
-  padding: 1rem;
-  z-index: 50;
-}
-.backlinks { margin-top: 1rem; }
-.backlink-title {
-  color: var(--csw-gold);
-  font-weight: bold;
-  margin-bottom: 0.5rem;
-}
-.backlink-card {
-  background: var(--csw-card);
-  padding: 0.5rem;
-  margin: 0.3rem 0;
-  border-radius: 4px;
-  font-size: 0.85rem;
-}
+/* ── Sidebar ── */
+.sidebar { background: var(--bg-card) !important; border-left: 1px solid var(--border) !important; }
+.backlink-card { background: rgba(124,58,237,0.1); border-radius: 6px; padding: 0.6rem; margin: 0.4rem 0; }
+.backlink-card:hover { background: rgba(124,58,237,0.2); }
 
 /* ── Footer ── */
-.csw-footer {
-  background: var(--csw-deep);
-  border-top: 2px solid var(--csw-gold);
-  text-align: center;
-  padding: 2rem 1rem;
-  margin-top: 3rem;
-  font-size: 0.85rem;
-  color: var(--csw-gray);
-}
-.csw-footer a { color: var(--csw-purple-light); }
-.csw-footer .faction-row {
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  margin: 1rem 0;
-}
+.csw-footer { background: var(--bg-card); border-top: 2px solid var(--gold); text-align: center; padding: 2rem 1rem; margin-top: 3rem; font-size: 0.85rem; color: var(--text-muted); }
+.csw-footer .faction-row { display: flex; justify-content: center; gap: 2rem; margin: 0.5rem 0; flex-wrap: wrap; }
+
+/* ── Burger Menu ── */
+.burger { background: var(--bg-card); border: 1px solid var(--border); color: var(--gold); padding: 0.5rem 0.8rem; border-radius: 6px; cursor: pointer; font-size: 1.2rem; }
+.sidebar ul { list-style: none; padding: 0; }
+.sidebar ul li a { display: block; padding: 0.6rem 1rem; color: var(--text-muted); text-decoration: none; border-radius: 6px; transition: all 0.2s; }
+.sidebar ul li a:hover, .sidebar ul li a.active-page { background: rgba(124,58,237,0.2); color: var(--gold); }
 
 /* ── Responsive ── */
 @media (max-width: 768px) {
-  .csw-banner { flex-direction: column; gap: 0.5rem; }
-  .csw-banner-logo { width: 70px; }
-  .csw-banner-text h1 { font-size: 1.5rem; }
-  .content { padding: 0 0.8rem; }
-  .csw-burger { display: block; }
-  .csw-main-nav ul { display: none; flex-direction: column; }
-  .csw-main-nav.open ul { display: flex; }
-  .sidebar { display: none; }
+  .content { padding: 1rem 0.8rem; }
+  .content h1 { font-size: 1.5rem; }
   .csw-footer .faction-row { flex-direction: column; gap: 0.5rem; }
+  .sidebar { display: none; }
 }

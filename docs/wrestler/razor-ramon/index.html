@@ -1,60 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Razor Ramon</title>
-    
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Razor Ramon — Choke Slam Wrestling</title>
+  
+
+
 <header style="margin:0;padding:0;line-height:0;background:#0a0a0f;">
-  <a href="/choke-slam-wrestling/"><img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png" alt="Choke Slam Wrestling" style="width:100%;height:auto;display:block;"></a>
+  <a href="/choke-slam-wrestling/">
+    <img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
+         alt="Choke Slam Wrestling"
+         style="width:100%;height:auto;display:block;"
+         loading="eager">
+  </a>
 </header>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<nav style="background:rgba(10,10,15,0.97);backdrop-filter:blur(12px);border-bottom:1px solid #2a1540;padding:0.4rem 1rem;position:sticky;top:0;z-index:100;display:flex;justify-content:center;gap:0.2rem;flex-wrap:wrap;">
-  <a href="/choke-slam-wrestling/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Home</a>
-  <a href="/choke-slam-wrestling/events/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Events</a>
-  <a href="/choke-slam-wrestling/wrestler/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Roster</a>
-  <a href="/choke-slam-wrestling/championships/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Titles</a>
-  <a href="/choke-slam-wrestling/teams/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Teams</a>
-  <a href="/choke-slam-wrestling/statistiken/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Stats</a>
-  <a href="/choke-slam-wrestling/s08/" style="color:#f59e0b;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;font-weight:bold">S08</a>
+
+<nav style="background:rgba(10,10,15,0.96);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid #2a1540;padding:0.5rem 1rem;position:sticky;top:0;z-index:1000;display:flex;justify-content:center;align-items:center;gap:0.15rem;flex-wrap:wrap;">
+  <a href="/choke-slam-wrestling/"        class="csw-nav-link" data-section="home">Home</a>
+  <a href="/choke-slam-wrestling/events/" class="csw-nav-link" data-section="events">Events</a>
+  <a href="/choke-slam-wrestling/wrestler/" class="csw-nav-link" data-section="roster">Roster</a>
+  <a href="/choke-slam-wrestling/championships/" class="csw-nav-link" data-section="titles">Titles</a>
+  <a href="/choke-slam-wrestling/teams/"  class="csw-nav-link" data-section="teams">Teams</a>
+  <a href="/choke-slam-wrestling/statistiken/" class="csw-nav-link" data-section="stats">Stats</a>
+  <a href="/choke-slam-wrestling/s08/"    class="csw-nav-link csw-nav-s08" data-section="s08">S08</a>
 </nav>
 
-<link href="/choke-slam-wrestling/styles/cagematch.css" rel="stylesheet">
+<style>
+  /* Inline nav styles so they load before any external CSS */
+  .csw-nav-link {
+    color: #9ca3af;
+    text-decoration: none;
+    padding: 0.45rem 0.85rem;
+    border-radius: 5px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+  }
+  .csw-nav-link:hover {
+    color: #f59e0b;
+    background: rgba(245,158,11,0.08);
+  }
+  .csw-nav-link.active {
+    color: #f59e0b !important;
+    background: rgba(245,158,11,0.12);
+    font-weight: 600;
+  }
+  .csw-nav-s08 {
+    color: #f59e0b !important;
+    font-weight: 700;
+    border: 1px solid rgba(245,158,11,0.3);
+    border-radius: 6px;
+  }
+  .csw-nav-s08:hover {
+    background: rgba(245,158,11,0.15);
+    box-shadow: 0 0 12px rgba(245,158,11,0.2);
+  }
+  @media (max-width: 480px) {
+    .csw-nav-link {
+      font-size: 0.75rem;
+      padding: 0.35rem 0.5rem;
+    }
+  }
+</style>
 
 <script>
-(function(){
-  var p=window.location.pathname;
-  document.querySelectorAll('nav a').forEach(function(a){
-    if(a.pathname!=='/'&&p.startsWith(a.pathname))a.style.color='#f59e0b';
-  });
-})();
+  (function() {
+    var path = window.location.pathname;
+    var links = document.querySelectorAll('.csw-nav-link');
+    links.forEach(function(a) {
+      // Skip home for prefix matching (it matches everything)
+      var section = a.getAttribute('data-section');
+      if (section === 'home' && (path === '/choke-slam-wrestling/' || path === '/choke-slam-wrestling/index.html')) {
+        a.classList.add('active');
+      } else if (section !== 'home' && path.indexOf('/' + section + '/') !== -1) {
+        a.classList.add('active');
+      }
+    });
+  })();
 </script>
 
+  
+  
+</head>
+<body>
+  <main class="content">
+    <header>
+      
+
+      
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/choke-slam-wrestling/">Home</a>
+        
+          » <a href="/choke-slam-wrestling/wrestler/">Roster</a>
+        
+        » <span>Razor Ramon</span>
+      </nav>
+    </header>
+
     
     
-  </head>
-  <body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section title-note-icon links-note-icon css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-ribbon show-view-header css-settings-manager is-maximized ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-no-highlight anp-latex-inline-text anp-latex-block-text anp-td-none anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-default-rainbow anp-default-tab is-focused">
-    <main class="content cm-s-obsidian ">
-      <header>
-        
 
-        
-        <nav class="breadcrumbs" aria-label="Breadcrumb" style="font-size:0.85rem; color:var(--muted-text); margin-bottom:1em;">
-          <a href="/choke-slam-wrestling/">Home</a>
-          
-            » <a href="/choke-slam-wrestling/wrestler/">Wrestler</a>
-          
-          » <span>Razor Ramon</span>
-        </nav>
-
-        <div class="header-meta">
-          </div>
-      
-      
-      </header>
-      
-      
-      <h1 id="razor-ramon" tabindex="-1">Razor Ramon</h1>
+    <h1 id="razor-ramon" tabindex="-1">Razor Ramon</h1>
 <table><tr><td><img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Razor_Ramon.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
 <h2 id="karriere-statistiken" tabindex="-1">Karriere-Statistiken</h2>
 <table>
@@ -117,232 +168,22 @@
 <li>85%: <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/teams/saint-rebel-radicalz/">Saint Rebel Radicalz</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/anglico/">Angélico</a>, <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/becky-lynch/">Becky Lynch</a>, <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/chris-hero/">Chris Hero</a>, &amp; <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/shawn-michaels/">Shawn Michaels</a> in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2023-12-15-s05e11-tournament-nonstop-action/">S05E11_Tournament Nonstop Action</a> (2023-12-15)</li>
 </ul>
 
-      
-      
-    </main>
 
     
-    <footer class="csw-footer">
-      <div class="faction-row">
-        <span style="color:#dc2626;">🛡️ Militanter Mummenschanz</span>
-        <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
-        <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
-      </div>
-      <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
-    </footer>
-
     
+  </main>
 
-    
-      
-<style>
-#tooltip-wrapper {
-  background: var(--background-primary);
-  padding: 1em;
-  border-radius: 4px;
-  overflow: hidden;
-  position: fixed;
-  width: 80%;
-  max-width: 400px;
-  height: auto;
-  max-height: 300px;
-  font-size: 0.8em;
-  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
-  opacity: 0;
-  transition: opacity 100ms;
-  unicode-bidi: plaintext;
-  overflow-y: scroll;
-  z-index: 10;
-}
+  
+  <footer class="csw-footer">
+    <div class="faction-row">
+      <span style="color:#ef4444;">🛡️ Militanter Mummenschanz</span>
+      <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
+      <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
+    </div>
+    <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
+  </footer>
 
-#tooltip-wrapper:after {
-  content: "";
-  position: absolute;
-  z-index: 1;
-  bottom: 0;
-  left: 0;
-  pointer-events: none;
-  width: 100%;
-  unicode-bidi: plaintext;
-  height: 75px;
-}
-</style>
-<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
-  <div id='tooltip-content'>
-  </div>
-</div>
-
-<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
-</iframe>
-
-<script>
-  var opacityTimeout;
-  var contentTimeout;
-  var transitionDurationMs = 100;
-
-  var iframe = document.getElementById('link-preview-iframe')
-  var tooltipWrapper = document.getElementById('tooltip-wrapper')
-  var tooltipContent = document.getElementById('tooltip-content')
-
-  var linkHistories = {};
-
-  function hideTooltip() {
-    opacityTimeout = setTimeout(function () {
-      tooltipWrapper.style.opacity = 0;
-      contentTimeout = setTimeout(function () {
-        tooltipContent.innerHTML = '';
-        tooltipWrapper.style.display = 'none';
-      }, transitionDurationMs + 1);
-    }, transitionDurationMs)
-  }
-
-  function showTooltip(event) {
-    var elem = event.target;
-    var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
-    var top = window.pageYOffset || document.documentElement.scrollTop;
-    var url = event.target.getAttribute("href");
-    if (url.indexOf("http") === -1 || url.indexOf(window.location.host) !== -1) {
-      let contentURL = url.split('#')[0]
-      if (!linkHistories[contentURL]) {
-        iframe.src = contentURL
-        iframe.onload = function () {
-          tooltipContentHtml = ''
-          tooltipContentHtml += '<div style="font-weight: bold; unicode-bidi: plaintext;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
-          tooltipContentHtml += iframe.contentWindow.document.querySelector('.content').innerHTML
-          tooltipContent.innerHTML = tooltipContentHtml
-          linkHistories[contentURL] = tooltipContentHtml
-          tooltipWrapper.style.display = 'block';
-          tooltipWrapper.scrollTop = 0;
-          setTimeout(function () {
-            tooltipWrapper.style.opacity = 1;
-            if (url.indexOf("#") != -1) {
-              let id = url.split('#')[1];
-              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
-              focus.classList.add('referred');
-              console.log(focus);
-              focus.scrollIntoView({behavior: 'smooth'}, true)
-            } else {
-              tooltipWrapper.scroll(0, 0);
-            }
-          }, 1)
-        }
-      } else {
-        tooltipContent.innerHTML = linkHistories[contentURL]
-        tooltipWrapper.style.display = 'block';
-        setTimeout(function () {
-          tooltipWrapper.style.opacity = 1;
-          if (url.indexOf("#") != -1) {
-              let id = url.split('#')[1];
-              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
-              focus.classList.add('referred');
-              focus.scrollIntoView({behavior: 'smooth'}, true)
-          } else {
-              tooltipWrapper.scroll(0, 0);
-          }
-        }, 1)
-      }
-
-      function getInnerWidth(elem) {
-        var style = window.getComputedStyle(elem);
-        return elem.offsetWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight) - parseFloat(style.borderLeft) - parseFloat(style.borderRight) - parseFloat(style.marginLeft) - parseFloat(style.marginRight);
-      }
-
-      tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
-
-      if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
-        tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
-      } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
-        tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
-      }
-
-      if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
-        tooltipWrapper.style.left = "10px";
-      } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
-        tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
-      }
-    }
-  }
-
-  function setupListeners(linkElement) {
-    linkElement.addEventListener('mouseleave', function (_event) {
-      hideTooltip();
-    });
-
-    tooltipWrapper.addEventListener('mouseleave', function (_event) {
-      hideTooltip();
-    });
-
-    linkElement.addEventListener('mouseenter', function (event) {
-      clearTimeout(opacityTimeout);
-      clearTimeout(contentTimeout);
-      showTooltip(event);
-    });
-
-    tooltipWrapper.addEventListener('mouseenter', function (event) {
-      clearTimeout(opacityTimeout);
-      clearTimeout(contentTimeout);
-    });
-  }
-
-  window.addEventListener("load", function(event) 
-  {
-    document.querySelectorAll('.internal-link').forEach(setupListeners);
-    document.querySelectorAll('.backlink-card a').forEach(setupListeners);
-  });
-</script>
-
-    
-        <script>
-      if (window.location.hash) {
-        document.getElementById(window.location.hash.slice(1)).classList.add('referred');
-      }
-      window.addEventListener('hashchange', (evt) => {
-        const oldParts = evt.oldURL.split("#");
-        if (oldParts[1]) {
-          document.getElementById(oldParts[1]).classList.remove('referred');
-        }
-        const newParts = evt.newURL.split("#");
-        if (newParts[1]) {
-          document.getElementById(newParts[1]).classList.add('referred');
-        }
-      }, false);
-      const url_parts = window.location.href.split("#")
-      const url = url_parts[0];
-      const referrence = url_parts[1];
-      document.querySelectorAll(".cm-s-obsidian > *[id]").forEach(function (el) {
-        el.ondblclick = function(evt) {
-          const ref_url = url + '#' + evt.target.id
-          navigator.clipboard.writeText(ref_url);
-      }
-      });
-
-      
-    </script>
-    <script src=" https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js "></script>
-<script defer>
-  TIMESTAMP_FORMAT = "dd.MM.yyyy hh:mm";
-  document.querySelectorAll('.human-date').forEach(function (el) {
-    date = el.getAttribute('data-date') || el.innerText
-    parsed_date = luxon.DateTime.fromISO(date)
-    if (parsed_date.invalid != null){
-      // Date cannot be parsed
-      parsed_date = luxon.DateTime.fromSQL(date)
-    }
-    if (parsed_date.invalid != null){
-      // Date still cannot be parsed
-      parsed_date = luxon.DateTime.fromHTML(date)
-    }
-    el.innerHTML = parsed_date.toFormat(TIMESTAMP_FORMAT);
-  })
-</script>
-    
-    
-    <script>
-lucide.createIcons({
-            attrs: {
-                class: ["svg-icon"]
-            }
-        });
-</script>
-  </body>
+  
+  
+</body>
 </html>

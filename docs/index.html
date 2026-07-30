@@ -1,521 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Choke Slam Wrestling</title>
-    
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Choke Slam Wrestling — Choke Slam Wrestling</title>
+  
+
+
 <header style="margin:0;padding:0;line-height:0;background:#0a0a0f;">
-  <a href="/choke-slam-wrestling/"><img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png" alt="Choke Slam Wrestling" style="width:100%;height:auto;display:block;"></a>
+  <a href="/choke-slam-wrestling/">
+    <img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
+         alt="Choke Slam Wrestling"
+         style="width:100%;height:auto;display:block;"
+         loading="eager">
+  </a>
 </header>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<nav style="background:rgba(10,10,15,0.97);backdrop-filter:blur(12px);border-bottom:1px solid #2a1540;padding:0.4rem 1rem;position:sticky;top:0;z-index:100;display:flex;justify-content:center;gap:0.2rem;flex-wrap:wrap;">
-  <a href="/choke-slam-wrestling/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Home</a>
-  <a href="/choke-slam-wrestling/events/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Events</a>
-  <a href="/choke-slam-wrestling/wrestler/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Roster</a>
-  <a href="/choke-slam-wrestling/championships/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Titles</a>
-  <a href="/choke-slam-wrestling/teams/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Teams</a>
-  <a href="/choke-slam-wrestling/statistiken/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Stats</a>
-  <a href="/choke-slam-wrestling/s08/" style="color:#f59e0b;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;font-weight:bold">S08</a>
+
+<nav style="background:rgba(10,10,15,0.96);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid #2a1540;padding:0.5rem 1rem;position:sticky;top:0;z-index:1000;display:flex;justify-content:center;align-items:center;gap:0.15rem;flex-wrap:wrap;">
+  <a href="/choke-slam-wrestling/"        class="csw-nav-link" data-section="home">Home</a>
+  <a href="/choke-slam-wrestling/events/" class="csw-nav-link" data-section="events">Events</a>
+  <a href="/choke-slam-wrestling/wrestler/" class="csw-nav-link" data-section="roster">Roster</a>
+  <a href="/choke-slam-wrestling/championships/" class="csw-nav-link" data-section="titles">Titles</a>
+  <a href="/choke-slam-wrestling/teams/"  class="csw-nav-link" data-section="teams">Teams</a>
+  <a href="/choke-slam-wrestling/statistiken/" class="csw-nav-link" data-section="stats">Stats</a>
+  <a href="/choke-slam-wrestling/s08/"    class="csw-nav-link csw-nav-s08" data-section="s08">S08</a>
 </nav>
 
-<link href="/choke-slam-wrestling/styles/cagematch.css" rel="stylesheet">
+<style>
+  /* Inline nav styles so they load before any external CSS */
+  .csw-nav-link {
+    color: #9ca3af;
+    text-decoration: none;
+    padding: 0.45rem 0.85rem;
+    border-radius: 5px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+  }
+  .csw-nav-link:hover {
+    color: #f59e0b;
+    background: rgba(245,158,11,0.08);
+  }
+  .csw-nav-link.active {
+    color: #f59e0b !important;
+    background: rgba(245,158,11,0.12);
+    font-weight: 600;
+  }
+  .csw-nav-s08 {
+    color: #f59e0b !important;
+    font-weight: 700;
+    border: 1px solid rgba(245,158,11,0.3);
+    border-radius: 6px;
+  }
+  .csw-nav-s08:hover {
+    background: rgba(245,158,11,0.15);
+    box-shadow: 0 0 12px rgba(245,158,11,0.2);
+  }
+  @media (max-width: 480px) {
+    .csw-nav-link {
+      font-size: 0.75rem;
+      padding: 0.35rem 0.5rem;
+    }
+  }
+</style>
 
 <script>
-(function(){
-  var p=window.location.pathname;
-  document.querySelectorAll('nav a').forEach(function(a){
-    if(a.pathname!=='/'&&p.startsWith(a.pathname))a.style.color='#f59e0b';
-  });
-})();
+  (function() {
+    var path = window.location.pathname;
+    var links = document.querySelectorAll('.csw-nav-link');
+    links.forEach(function(a) {
+      // Skip home for prefix matching (it matches everything)
+      var section = a.getAttribute('data-section');
+      if (section === 'home' && (path === '/choke-slam-wrestling/' || path === '/choke-slam-wrestling/index.html')) {
+        a.classList.add('active');
+      } else if (section !== 'home' && path.indexOf('/' + section + '/') !== -1) {
+        a.classList.add('active');
+      }
+    });
+  })();
 </script>
 
+  
+  
+</head>
+<body>
+  <main class="content">
+    <header>
     
+      <h1></h1>
     
-  </head>
-  <body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section title-note-icon links-note-icon css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-ribbon show-view-header css-settings-manager is-maximized ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-no-highlight anp-latex-inline-text anp-latex-block-text anp-td-none anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-default-rainbow anp-default-tab is-focused">
-    
-    
-      
-    
-    <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" 
-            x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" 
-            x-data="{isDesktop: true, showFilesMobile: false}">
-
-        <div x-show.important="!isDesktop" style="display: none;">
-            <nav class="navbar">
-    <div class="navbar-inner">
-        <span style="font-size: 1.5rem; margin-right: 10px;" @click="showFilesMobile=!showFilesMobile"><i  icon-name="menu"></i></span>
-        
-        <a href="/" style="text-decoration: none;">
-            <h1 style="margin: 15px !important;">Choke Slam Wrestling</h1>
-        </a>
-        
-    </div>
-    
-    
-        <div class="search-button align-icon" onclick="toggleSearch()">
-    <span class="search-icon">
-        <i icon-name="search" ></i>
-    </span>
-    <span class="search-text">
-        <span>Search</span>
-        <span style="font-size: 0.6rem; padding: 2px 2px 0 6px; text-align:center; transform: translateY(4px);" class="search-keys">
-            CTRL + K
-        </span>
-    </span>
-</div>
-    
-</nav>
-        </div>
-        
-        <div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none;" class="fullpage-overlay"></div>
-
-      <nav class="filetree-sidebar"  x-show.important="isDesktop || showFilesMobile" style="display: none;">
-        
-         <a href="/" style="text-decoration: none;">
-               <h1 style="text-align:center;">Choke Slam Wrestling</h1>
-         </a>
-         
-        
-            <div style="display: flex; justify-content: center;">
-                <div class="search-button align-icon" onclick="toggleSearch()">
-    <span class="search-icon">
-        <i icon-name="search" ></i>
-    </span>
-    <span class="search-text">
-        <span>Search</span>
-        <span style="font-size: 0.6rem; padding: 2px 2px 0 6px; text-align:center; transform: translateY(4px);" class="search-keys">
-            CTRL + K
-        </span>
-    </span>
-</div>
-            </div>
-        
-         <div class="folder" x-data="{isOpen: true}"></div>
-      </nav>
-    </div>
+    </header>
 
     
     
-      <div class="search-container" id="globalsearch" onclick="toggleSearch()">
-    <div class="search-box">
-        <input type="search" id="term" placeholder="Start typing...">
-        <div id="search-results"></div>
-        <footer class="search-box-footer">
-            <div class="navigation-hint">
-                <span>Enter to select</span>
-            </div>
 
-            <div class="navigation-hint align-icon">
-                <i  icon-name="arrow-up" aria-hidden="true"></i>
-                <i  icon-name="arrow-down" aria-hidden="true"></i>
-                <span>to navigate</span>
-            </div>
-
-            <div class="navigation-hint">
-                <span>ESC to close</span>
-            </div>
-
-        </footer>
-    </div>
-</div>
-<script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', init, false);
-    document.addEventListener('DOMContentLoaded', setCorrectShortcut, false);
-
-    window.toggleSearch = function () {
-        if (document.getElementById('globalsearch').classList.contains('active')) {
-            document
-                .getElementById('globalsearch')
-                .classList
-                .remove('active');
-        } else {
-            document
-                .getElementById('globalsearch')
-                .classList
-                .add('active');
-            document
-                .getElementById('term')
-                .focus();
-        }
-    }
-
-    window.toggleTagSearch = function (evt) {
-        console.log(evt.textContent);
-        const term = evt.textContent;
-        if (term) {
-            window
-                .document
-                .getElementById('term')
-                .value = term.trim();
-            window.toggleSearch();
-            window.search();
-        }
-    }
-
-    const loadingSvg = `
-    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">
-      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">
-          <circle cx="22" cy="22" r="6" stroke-opacity="0">
-              <animate attributeName="r"
-                   begin="1.5s" dur="3s"
-                   values="6;22"
-                   calcMode="linear"
-                   repeatCount="indefinite" />
-              <animate attributeName="stroke-opacity"
-                   begin="1.5s" dur="3s"
-                   values="1;0" calcMode="linear"
-                   repeatCount="indefinite" />
-              <animate attributeName="stroke-width"
-                   begin="1.5s" dur="3s"
-                   values="2;0" calcMode="linear"
-                   repeatCount="indefinite" />
-          </circle>
-          <circle cx="22" cy="22" r="6" stroke-opacity="0">
-              <animate attributeName="r"
-                   begin="3s" dur="3s"
-                   values="6;22"
-                   calcMode="linear"
-                   repeatCount="indefinite" />
-              <animate attributeName="stroke-opacity"
-                   begin="3s" dur="3s"
-                   values="1;0" calcMode="linear"
-                   repeatCount="indefinite" />
-              <animate attributeName="stroke-width"
-                   begin="3s" dur="3s"
-                   values="2;0" calcMode="linear"
-                   repeatCount="indefinite" />
-          </circle>
-          <circle cx="22" cy="22" r="8">
-              <animate attributeName="r"
-                   begin="0s" dur="1.5s"
-                   values="6;1;2;3;4;5;6"
-                   calcMode="linear"
-                   repeatCount="indefinite" />
-          </circle>
-      </g>
-  </svg>`;
-
-    function debounce(func, wait, immediate) {
-        var timeout;
-        return function () {
-            var context = this,
-                args = arguments;
-            var later = function () {
-                timeout = null;
-                if (!immediate) 
-                    func.apply(context, args);
-                };
-            var callNow = immediate && !timeout;
-            clearTimeout(timeout);
-            timeout = setTimeout(later, wait);
-            if (callNow) 
-                func.apply(context, args);
-            };
-    };
-
-    function setCorrectShortcut() {
-        if (navigator.platform.toUpperCase().indexOf('MAC') >= 0) {
-            document
-                .querySelectorAll(".search-keys")
-                .forEach(x => x.innerHTML = "⌘ + K");
-        }
-    }
-
-    function createIndex(posts) {
-        const encoder = (str) => str
-            .toLowerCase()
-            .split(/([^a-z]|[^\x00-\x7F])/)
-        const contentIndex = new FlexSearch.Document({
-            cache: true,
-            charset: "latin:extra",
-            optimize: true,
-            index: [
-                {
-                    field: "content",
-                    tokenize: "reverse",
-                    encode: encoder
-                }, {
-                    field: "title",
-                    tokenize: "forward",
-                    encode: encoder
-                }, {
-                    field: "tags",
-                    tokenize: "forward",
-                    encode: encoder
-                }
-            ]
-        })
-        posts.forEach((p, idx) => {
-            contentIndex.add({
-                id: idx, title: p.title, content: p.content, tags: p.tags //Change to removeHTML
-            })
-        });
-        return contentIndex;
-    }
-
-    async function init() {
-        //init offline search index
-
-        const searchIndexDate = '2026-07-30T15:24:17.732Z';
-        let shouldFetch = true;
-        if(localStorage.getItem("searchIndex")) {
-            let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
-            if(date === searchIndexDate){
-                shouldFetch = false;
-                let index = createIndex(docs);
-                window.docs = docs
-                window.index = index;
-            }        
-        }
-        if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2026-07-30T15:24:17.732Z')).json();
-            let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2026-07-30T15:24:17.732Z', docs}));
-            window.docs = docs
-            window.index = index;
-        }
-
-        //open searchmodal when ctrl + k is pressed, cmd + k on mac
-        document.addEventListener('keydown', (e) => {
-            if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
-                e.preventDefault();
-                toggleSearch();
-            }
-            if (e.key === 'Escape') {
-                document
-                    .getElementById('globalsearch')
-                    .classList
-                    .remove('active');
-            }
-
-            //navigate search results with arrow keys
-            if (document.getElementById('globalsearch').classList.contains('active')) {
-                if (e.key === 'ArrowDown') {
-                    e.preventDefault();
-                    let active = document.querySelector('.searchresult.active');
-                    if (active) {
-                        active
-                            .classList
-                            .remove('active');
-                        if (active.nextElementSibling) {
-                            active
-                                .nextElementSibling
-                                .classList
-                                .add('active');
-                        } else {
-                            document
-                                .querySelector('.searchresult')
-                                .classList
-                                .add('active');
-                        }
-                    } else {
-                        document
-                            .querySelector('.searchresult')
-                            .classList
-                            .add('active');
-                    }
-
-                    let currentActive = document.querySelector('.searchresult.active');
-                    if (currentActive) {
-                        currentActive.scrollIntoView({behavior: 'smooth', block: 'nearest', inline: 'start'});
-                    }
-                }
-                if (e.key === 'ArrowUp') {
-                    e.preventDefault();
-                    let active = document.querySelector('.searchresult.active');
-                    if (active) {
-                        active
-                            .classList
-                            .remove('active');
-                        if (active.previousElementSibling) {
-                            active
-                                .previousElementSibling
-                                .classList
-                                .add('active');
-                        } else {
-                            document
-                                .querySelectorAll('.searchresult')
-                                .forEach((el) => {
-                                    if (!el.nextElementSibling) {
-                                        el
-                                            .classList
-                                            .add('active');
-                                    }
-                                });
-                        }
-                    } else {
-                        document
-                            .querySelectorAll('.searchresult')
-                            .forEach((el) => {
-                                if (el.nextElementSibling) {
-                                    el
-                                        .classList
-                                        .add('active');
-                                }
-                            });
-                    }
-
-                    let currentActive = document.querySelector('.searchresult.active');
-                    if (currentActive) {
-                        currentActive.scrollIntoView({behavior: 'smooth', block: 'nearest', inline: 'start'});
-                    }
-
-                }
-                if (e.key === 'Enter') {
-                    e.preventDefault();
-                    let active = document.querySelector('.searchresult.active');
-                    if (active) {
-                        window.location.href = active
-                            .querySelector("a")
-                            .href;
-                    }
-                }
-            }
-        });
-
-        const debouncedSearch = debounce(search, 200, false);
-        field = document.querySelector('#term');
-        field.addEventListener('keydown', (e) => {
-            if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp') {
-                debouncedSearch();
-            }
-        });
-        resultsDiv = document.querySelector('#search-results');
-
-        const params = new URL(location.href).searchParams;
-        if (params.get('q')) {
-            field.setAttribute('value', params.get('q'));
-            toggleSearch();
-            search();
-        }
-    }
-    window.lastSearch = '';
-    async function search() {
-        let search = field
-            .value
-            .trim();
-        if (!search) 
-            return;
-        if (search == lastSearch) 
-            return;
-        console.log(`search for ${search}`);
-        window.lastSearch = search;
-
-        resultsDiv.innerHTML = loadingSvg;
-        //let searchRequest = await fetch(`/api/search?term=${encodeURIComponent(search)}`);
-        //let results = await searchRequest.json();
-        let results = offlineSearch(search);
-        let resultsHTML = '';
-        if (!results.length) {
-            let resultParagraph = document.createElement("p");
-            resultParagraph.innerText = `No results for "${search}"`;
-            resultsDiv.innerHTML = '';
-            resultsDiv.appendChild(resultParagraph);
-            return;
-        }
-        resultsHTML += '<div style="max-width:100%;">';
-        // we need to add title, url from ref
-        results.forEach(r => {
-            if(r.tags && r.tags.length > 0){
-                resultsHTML += `<div class="searchresult">
-                    <a class="search-link" href="${r.url}">${r.title}</a>
-                    <div onclick="window.location='${r.url}'">
-                        <div class="header-meta">
-                            <div class="header-tags">
-                                ${r.tags.map(tag=>'<a class="tag" href="JavaScript:Void(0);">#'+tag+'</a>').join("")}
-                            </div>
-                        </div>
-                        ${r.content}
-                    </div>
-                </div>`;
-            } else {
-                resultsHTML += `<div class="searchresult">
-                    <a class="search-link" href="${r.url}">${r.title}</a>
-                    <div onclick="window.location='${r.url}'">
-                        ${r.content}
-                    </div>
-                </div>`;
-            }
-        });
-        resultsHTML += '</div>';
-        resultsDiv.innerHTML = resultsHTML;
-    }
-
-    function truncate(str, size) {
-        //first, remove HTML
-        str = str.replaceAll(/<[^>]*>/g, '');
-        if (str.length < size) 
-            return str;
-        return str.substring(0, size - 3) + '...';
-    }
-
-    function offlineSearch(searchQuery) {
-        let data = window.docs;
-
-        let isTagSearch = searchQuery[0] === "#" && searchQuery.length > 1;
-
-        let searchResults = isTagSearch
-            ? index.search(searchQuery.substring(1), [
-                {
-                    field: "tags"
-                }
-            ])
-            : index.search(searchQuery, [
-                {
-                    field: "title",
-                    limit: 5
-                }, {
-                    field: "content",
-                    weight: 10
-                }
-            ]);
-
-        const getByField = (field) => {
-            const results = searchResults.filter((x) => x.field === field)
-            if (results.length === 0) {
-                return []
-            } else {
-                return [...results[0].result]
-            }
-        }
-        const allIds = new Set([
-            ...getByField("title"),
-            ...getByField("content"),
-            ...getByField("tags")
-        ])
-        const dataIds = [...allIds];
-        const finalResults = dataIds.map((id) => {
-            let result = data[id];
-            result.content = truncate(result.content, 400);
-            result.tags = result
-                .tags
-                .filter((x) => x != "gardenEntry" && x != "note"); //Note is automatically added by 11ty. GardenEntry is used internally to mark the home page
-
-            return result;
-        })
-        return finalResults;
-
-    }
-</script>
-    
-    <main class="content cm-s-obsidian ">
-      <header>
-      
-        <h1></h1>
-      
-
-      <div class="header-meta">
-        
-      </div>
-      
-      
-      </header>
-      
-      
-      <style>
+    <style>
 :root{--gold:#f59e0b;--gold-bright:#fbbf24;--purple:#7c3aed;--dark:#0a0a0f;--card:#1a1025;--red:#ef4444;--green:#22c55e;--blue:#3b82f6;--text:#f0e6ff;--muted:#9ca3af}
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:var(--dark);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;overflow-x:hidden}
@@ -640,179 +223,22 @@ footer{text-align:center;padding:3rem 1rem;color:var(--muted);font-size:0.85rem;
 (function(){var c=document.getElementById('particles');for(var i=0;i<35;i++){var p=document.createElement('div');p.className='particle';p.style.left=Math.random()*100+'%';p.style.animationDelay=Math.random()*6+'s';p.style.animationDuration=(3+Math.random()*5)+'s';p.style.width=(2+Math.random()*3)+'px';p.style.height=p.style.width;c.appendChild(p)}})();
 </script>
 
-      
-      
-    </main>
-
-    
-
-    
-      
-<style>
-#tooltip-wrapper {
-  background: var(--background-primary);
-  padding: 1em;
-  border-radius: 4px;
-  overflow: hidden;
-  position: fixed;
-  width: 80%;
-  max-width: 400px;
-  height: auto;
-  max-height: 300px;
-  font-size: 0.8em;
-  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
-  opacity: 0;
-  transition: opacity 100ms;
-  unicode-bidi: plaintext;
-  overflow-y: scroll;
-  z-index: 10;
-}
-
-#tooltip-wrapper:after {
-  content: "";
-  position: absolute;
-  z-index: 1;
-  bottom: 0;
-  left: 0;
-  pointer-events: none;
-  width: 100%;
-  unicode-bidi: plaintext;
-  height: 75px;
-}
-</style>
-<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
-  <div id='tooltip-content'>
-  </div>
-</div>
-
-<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
-</iframe>
-
-<script>
-  var opacityTimeout;
-  var contentTimeout;
-  var transitionDurationMs = 100;
-
-  var iframe = document.getElementById('link-preview-iframe')
-  var tooltipWrapper = document.getElementById('tooltip-wrapper')
-  var tooltipContent = document.getElementById('tooltip-content')
-
-  var linkHistories = {};
-
-  function hideTooltip() {
-    opacityTimeout = setTimeout(function () {
-      tooltipWrapper.style.opacity = 0;
-      contentTimeout = setTimeout(function () {
-        tooltipContent.innerHTML = '';
-        tooltipWrapper.style.display = 'none';
-      }, transitionDurationMs + 1);
-    }, transitionDurationMs)
-  }
-
-  function showTooltip(event) {
-    var elem = event.target;
-    var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
-    var top = window.pageYOffset || document.documentElement.scrollTop;
-    var url = event.target.getAttribute("href");
-    if (url.indexOf("http") === -1 || url.indexOf(window.location.host) !== -1) {
-      let contentURL = url.split('#')[0]
-      if (!linkHistories[contentURL]) {
-        iframe.src = contentURL
-        iframe.onload = function () {
-          tooltipContentHtml = ''
-          tooltipContentHtml += '<div style="font-weight: bold; unicode-bidi: plaintext;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
-          tooltipContentHtml += iframe.contentWindow.document.querySelector('.content').innerHTML
-          tooltipContent.innerHTML = tooltipContentHtml
-          linkHistories[contentURL] = tooltipContentHtml
-          tooltipWrapper.style.display = 'block';
-          tooltipWrapper.scrollTop = 0;
-          setTimeout(function () {
-            tooltipWrapper.style.opacity = 1;
-            if (url.indexOf("#") != -1) {
-              let id = url.split('#')[1];
-              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
-              focus.classList.add('referred');
-              console.log(focus);
-              focus.scrollIntoView({behavior: 'smooth'}, true)
-            } else {
-              tooltipWrapper.scroll(0, 0);
-            }
-          }, 1)
-        }
-      } else {
-        tooltipContent.innerHTML = linkHistories[contentURL]
-        tooltipWrapper.style.display = 'block';
-        setTimeout(function () {
-          tooltipWrapper.style.opacity = 1;
-          if (url.indexOf("#") != -1) {
-              let id = url.split('#')[1];
-              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
-              focus.classList.add('referred');
-              focus.scrollIntoView({behavior: 'smooth'}, true)
-          } else {
-              tooltipWrapper.scroll(0, 0);
-          }
-        }, 1)
-      }
-
-      function getInnerWidth(elem) {
-        var style = window.getComputedStyle(elem);
-        return elem.offsetWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight) - parseFloat(style.borderLeft) - parseFloat(style.borderRight) - parseFloat(style.marginLeft) - parseFloat(style.marginRight);
-      }
-
-      tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
-
-      if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
-        tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
-      } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
-        tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
-      }
-
-      if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
-        tooltipWrapper.style.left = "10px";
-      } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
-        tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
-      }
-    }
-  }
-
-  function setupListeners(linkElement) {
-    linkElement.addEventListener('mouseleave', function (_event) {
-      hideTooltip();
-    });
-
-    tooltipWrapper.addEventListener('mouseleave', function (_event) {
-      hideTooltip();
-    });
-
-    linkElement.addEventListener('mouseenter', function (event) {
-      clearTimeout(opacityTimeout);
-      clearTimeout(contentTimeout);
-      showTooltip(event);
-    });
-
-    tooltipWrapper.addEventListener('mouseenter', function (event) {
-      clearTimeout(opacityTimeout);
-      clearTimeout(contentTimeout);
-    });
-  }
-
-  window.addEventListener("load", function(event) 
-  {
-    document.querySelectorAll('.internal-link').forEach(setupListeners);
-    document.querySelectorAll('.backlink-card a').forEach(setupListeners);
-  });
-</script>
 
     
     
-    
-    <script>
-lucide.createIcons({
-            attrs: {
-                class: ["svg-icon"]
-            }
-        });
-</script>
-    </body>
-  </html>
+  </main>
+
+  
+  <footer class="csw-footer">
+    <div class="faction-row">
+      <span style="color:#ef4444;">🛡️ Militanter Mummenschanz</span>
+      <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
+      <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
+    </div>
+    <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
+  </footer>
+
+  
+  
+</body>
+</html>

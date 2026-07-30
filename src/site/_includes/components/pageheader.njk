@@ -1,27 +1,82 @@
-<!-- CSW Header — full-width banner -->
+<!-- ═══════════════════════════════════════
+     CSW Header — Professional Dark Theme
+     Full-width banner + sticky nav
+     ═══════════════════════════════════════ -->
+
+<!-- Full-width Banner -->
 <header style="margin:0;padding:0;line-height:0;background:#0a0a0f;">
-  <a href="/choke-slam-wrestling/"><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png" alt="Choke Slam Wrestling" style="width:100%;height:auto;display:block;"></a>
+  <a href="/choke-slam-wrestling/">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
+         alt="Choke Slam Wrestling"
+         style="width:100%;height:auto;display:block;"
+         loading="eager">
+  </a>
 </header>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<nav style="background:rgba(10,10,15,0.97);backdrop-filter:blur(12px);border-bottom:1px solid #2a1540;padding:0.4rem 1rem;position:sticky;top:0;z-index:100;display:flex;justify-content:center;gap:0.2rem;flex-wrap:wrap;">
-  <a href="/choke-slam-wrestling/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Home</a>
-  <a href="/choke-slam-wrestling/events/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Events</a>
-  <a href="/choke-slam-wrestling/wrestler/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Roster</a>
-  <a href="/choke-slam-wrestling/championships/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Titles</a>
-  <a href="/choke-slam-wrestling/teams/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Teams</a>
-  <a href="/choke-slam-wrestling/statistiken/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Stats</a>
-  <a href="/choke-slam-wrestling/s08/" style="color:#f59e0b;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;font-weight:bold">S08</a>
+<!-- Sticky Navigation -->
+<nav style="background:rgba(10,10,15,0.96);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid #2a1540;padding:0.5rem 1rem;position:sticky;top:0;z-index:1000;display:flex;justify-content:center;align-items:center;gap:0.15rem;flex-wrap:wrap;">
+  <a href="/choke-slam-wrestling/"        class="csw-nav-link" data-section="home">Home</a>
+  <a href="/choke-slam-wrestling/events/" class="csw-nav-link" data-section="events">Events</a>
+  <a href="/choke-slam-wrestling/wrestler/" class="csw-nav-link" data-section="roster">Roster</a>
+  <a href="/choke-slam-wrestling/championships/" class="csw-nav-link" data-section="titles">Titles</a>
+  <a href="/choke-slam-wrestling/teams/"  class="csw-nav-link" data-section="teams">Teams</a>
+  <a href="/choke-slam-wrestling/statistiken/" class="csw-nav-link" data-section="stats">Stats</a>
+  <a href="/choke-slam-wrestling/s08/"    class="csw-nav-link csw-nav-s08" data-section="s08">S08</a>
 </nav>
 
-<link href="{{ '/styles/cagematch.css' | url }}" rel="stylesheet">
+<style>
+  /* Inline nav styles so they load before any external CSS */
+  .csw-nav-link {
+    color: #9ca3af;
+    text-decoration: none;
+    padding: 0.45rem 0.85rem;
+    border-radius: 5px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+  }
+  .csw-nav-link:hover {
+    color: #f59e0b;
+    background: rgba(245,158,11,0.08);
+  }
+  .csw-nav-link.active {
+    color: #f59e0b !important;
+    background: rgba(245,158,11,0.12);
+    font-weight: 600;
+  }
+  .csw-nav-s08 {
+    color: #f59e0b !important;
+    font-weight: 700;
+    border: 1px solid rgba(245,158,11,0.3);
+    border-radius: 6px;
+  }
+  .csw-nav-s08:hover {
+    background: rgba(245,158,11,0.15);
+    box-shadow: 0 0 12px rgba(245,158,11,0.2);
+  }
+  @media (max-width: 480px) {
+    .csw-nav-link {
+      font-size: 0.75rem;
+      padding: 0.35rem 0.5rem;
+    }
+  }
+</style>
 
 <script>
-(function(){
-  var p=window.location.pathname;
-  document.querySelectorAll('nav a').forEach(function(a){
-    if(a.pathname!=='/'&&p.startsWith(a.pathname))a.style.color='#f59e0b';
-  });
-})();
+  (function() {
+    var path = window.location.pathname;
+    var links = document.querySelectorAll('.csw-nav-link');
+    links.forEach(function(a) {
+      // Skip home for prefix matching (it matches everything)
+      var section = a.getAttribute('data-section');
+      if (section === 'home' && (path === '/choke-slam-wrestling/' || path === '/choke-slam-wrestling/index.html')) {
+        a.classList.add('active');
+      } else if (section !== 'home' && path.indexOf('/' + section + '/') !== -1) {
+        a.classList.add('active');
+      }
+    });
+  })();
 </script>

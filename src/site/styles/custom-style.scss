@@ -1,12 +1,11 @@
 /* ═══════════════════════════════════════════════════════════
-   CHOKE SLAM WRESTLING — Full Theme Overhaul
-   Dark wrestling promotion aesthetic — dramatic, premium
+   CHOKE SLAM WRESTLING — Complete Dark Theme
+   Overrides all Digital Garden light-theme defaults
    ═══════════════════════════════════════════════════════════ */
 
 :root {
   --gold: #f59e0b;
   --gold-bright: #fbbf24;
-  --gold-dark: #b45309;
   --purple: #7c3aed;
   --purple-dark: #4b0082;
   --red: #ef4444;
@@ -14,76 +13,86 @@
   --blue: #3b82f6;
   --bg: #0a0a0f;
   --bg-card: #1a1025;
-  --bg-card-hover: #251535;
+  --bg-hover: #251535;
   --text: #f0e6ff;
-  --text-muted: #9ca3af;
+  --muted: #9ca3af;
   --border: #2a1540;
 }
 
-/* ── Base ── */
-body {
+/* ── Force dark on all surfaces ── */
+body, html {
   background: var(--bg) !important;
   color: var(--text) !important;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  line-height: 1.7;
 }
 
-/* ── Banner Override ── */
-.site-banner { display: none; }  /* hide old banner, use new one */
+/* ── Kill leftover light elements ── */
+.markdown-preview-view, .markdown-rendered, .cm-s-obsidian,
+.theme-light, .theme-dark, .theme-light body, .theme-dark body {
+  background: var(--bg) !important;
+  color: var(--text) !important;
+}
 
-/* ── Nav Override ── */
-.navbar { background: rgba(10,10,15,0.95) !important; backdrop-filter: blur(10px); border-bottom: 1px solid var(--border); }
-.navbar-inner h1 { font-family: Georgia, serif; background: linear-gradient(90deg, var(--gold-bright), var(--gold), var(--gold-bright)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.3rem !important; }
+/* ── Override content offset (too much space at top) ── */
+.content { margin-top: 20px !important; }
 
-/* ── Content ── */
-.content { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }
+/* ── Hide old site banner ── */
+.site-banner { display: none !important; }
+
+/* ── Navbar ── */
+.navbar { background: rgba(10,10,15,0.97) !important; backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); }
+.navbar-inner h1 {
+  font-family: Georgia, serif;
+  background: linear-gradient(90deg, var(--gold-bright), var(--gold), var(--gold-bright));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  font-size: 1.2rem !important;
+}
+
+/* ── Sidebar nav ── */
+.sidebar { background: var(--bg-card) !important; border: none; }
+.sidebar ul li a { color: var(--muted); }
+.sidebar ul li a:hover, .sidebar ul li a.active-page { color: var(--gold); background: rgba(124,58,237,0.15); }
+.burger { background: var(--bg-card); border: 1px solid var(--border); color: var(--gold); }
+
+/* ── Typography ── */
 .content h1 { font-family: Georgia, serif; font-size: 2rem; color: var(--gold); border-bottom: 2px solid var(--gold); padding-bottom: 0.5rem; margin: 1.5rem 0; }
 .content h2 { color: var(--purple); border-left: 3px solid var(--gold); padding-left: 1rem; margin-top: 2.5rem; }
-.content h3 { color: var(--gold); font-size: 1.1rem; }
+.content h3 { color: var(--gold); }
 
-/* ── Tables — Wrestling Match Card Style ── */
+/* ── Tables ── */
 .content table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; font-size: 0.9rem; }
-.content th { background: linear-gradient(180deg, var(--purple-dark), #3b0764); color: var(--gold); padding: 0.8rem; text-align: left; font-weight: bold; text-transform: uppercase; font-size: 0.75rem; letter-spacing: 1px; }
+.content th { background: var(--purple-dark); color: var(--gold); padding: 0.8rem; text-transform: uppercase; font-size: 0.75rem; letter-spacing: 1px; }
 .content td { padding: 0.7rem 0.8rem; border-bottom: 1px solid var(--border); }
-.content tr:hover td { background: var(--bg-card-hover); }
+.content tr:hover td { background: var(--bg-hover); }
 .content tr:nth-child(even) td { background: rgba(124,58,237,0.05); }
 
 /* ── Links ── */
-.content a { color: var(--purple); text-decoration: none; transition: all 0.2s; }
-.content a:hover { color: var(--gold); text-decoration: underline; text-decoration-color: var(--gold); }
-
-/* ── Faction Colors ── */
-.mm-color { color: var(--red); }
-.srr-color { color: var(--green); }
-.sns-color { color: var(--blue); }
-
-/* ── Championship Badge ── */
-.champ-badge { display: inline-block; background: linear-gradient(135deg, var(--gold), var(--gold-dark)); color: var(--bg); font-weight: bold; padding: 0.2rem 0.7rem; border-radius: 12px; font-size: 0.75rem; animation: badgePulse 2s ease-in-out infinite; }
-@keyframes badgePulse { 0%,100%{box-shadow:0 0 8px rgba(245,158,11,0.3)} 50%{box-shadow:0 0 20px rgba(245,158,11,0.6)} }
+.content a { color: var(--purple); text-decoration: none; }
+.content a:hover { color: var(--gold); }
 
 /* ── Breadcrumbs ── */
-.breadcrumbs { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; }
+.breadcrumbs { font-size: 0.85rem; color: var(--muted); }
 .breadcrumbs a { color: var(--purple); }
 
-/* ── Sidebar ── */
-.sidebar { background: var(--bg-card) !important; border-left: 1px solid var(--border) !important; }
-.backlink-card { background: rgba(124,58,237,0.1); border-radius: 6px; padding: 0.6rem; margin: 0.4rem 0; }
-.backlink-card:hover { background: rgba(124,58,237,0.2); }
-
 /* ── Footer ── */
-.csw-footer { background: var(--bg-card); border-top: 2px solid var(--gold); text-align: center; padding: 2rem 1rem; margin-top: 3rem; font-size: 0.85rem; color: var(--text-muted); }
+.csw-footer { background: var(--bg-card); border-top: 2px solid var(--gold); text-align: center; padding: 2rem 1rem; margin-top: 3rem; font-size: 0.85rem; color: var(--muted); }
 .csw-footer .faction-row { display: flex; justify-content: center; gap: 2rem; margin: 0.5rem 0; flex-wrap: wrap; }
 
-/* ── Burger Menu ── */
-.burger { background: var(--bg-card); border: 1px solid var(--border); color: var(--gold); padding: 0.5rem 0.8rem; border-radius: 6px; cursor: pointer; font-size: 1.2rem; }
-.sidebar ul { list-style: none; padding: 0; }
-.sidebar ul li a { display: block; padding: 0.6rem 1rem; color: var(--text-muted); text-decoration: none; border-radius: 6px; transition: all 0.2s; }
-.sidebar ul li a:hover, .sidebar ul li a.active-page { background: rgba(124,58,237,0.2); color: var(--gold); }
+/* ── Code blocks ── */
+pre, code { background: var(--bg-card) !important; color: var(--text) !important; border: 1px solid var(--border); }
+
+/* ── HR ── */
+hr { border-color: var(--border) !important; }
+
+/* ── Search ── */
+.search-container input { background: var(--bg-card) !important; color: var(--text) !important; border: 1px solid var(--border) !important; }
+
+/* ── Graph ── */
+.graph-container { background: var(--bg) !important; }
 
 /* ── Responsive ── */
 @media (max-width: 768px) {
   .content { padding: 1rem 0.8rem; }
   .content h1 { font-size: 1.5rem; }
-  .csw-footer .faction-row { flex-direction: column; gap: 0.5rem; }
   .sidebar { display: none; }
 }

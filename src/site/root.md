@@ -99,9 +99,7 @@ body{background:var(--dark);color:#f0e6ff;font-family:-apple-system,BlinkMacSyst
   <div class="particles" id="particles"></div>
   
   <div class="hero-content">
-    <img class="hero-logo" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" alt="CSW">
-    <h1>CHOKE SLAM<br>WRESTLING</h1>
-    <p class="tagline">WHERE LEGENDS COLLIDE</p>
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_Hero_Banner.png" alt="Choke Slam Wrestling" style="max-width:90%;height:auto;border-radius:8px;margin-bottom:1.5rem;">
     <div class="s08-badge">⚡ SEASON 8 — COMING SOON ⚡</div>
   </div>
   

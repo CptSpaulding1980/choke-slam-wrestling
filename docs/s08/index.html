@@ -177,14 +177,44 @@ function toggleMenu() {
 .draft-cta h3{color:var(--gold);font-size:1.2rem;margin:0 0 0.5rem}
 .draft-cta p{color:var(--muted);font-size:0.9rem;margin:0}
 
+/* ── Manager Cards ── */
+.manager-strip{display:flex;justify-content:center;gap:2rem;margin:2rem 0;flex-wrap:wrap;position:relative;z-index:1}
+.manager-card{text-align:center;transition:transform 0.3s}
+.manager-card:hover{transform:translateY(-5px)}
+.manager-card img{width:90px;height:90px;border-radius:50%;object-fit:cover;border:3px solid transparent;transition:all 0.3s}
+.manager-card.mm img{border-color:var(--red);box-shadow:0 0 20px rgba(239,68,68,0.3)}
+.manager-card.srr img{border-color:var(--green);box-shadow:0 0 20px rgba(34,197,94,0.3)}
+.manager-card.sns img{border-color:var(--blue);box-shadow:0 0 20px rgba(59,130,246,0.3)}
+.manager-card:hover img{box-shadow:0 0 30px rgba(245,158,11,0.35)}
+.manager-card .name{font-size:0.85rem;font-weight:bold;margin-top:0.5rem}
+.manager-card .role{font-size:0.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+
 @media(max-width:768px){.faction-grid{grid-template-columns:1fr}.s08-hero h1{font-size:2rem}.mask-box{padding:1.5rem}}
 </style>
 <div class="s08-hero">
   <div class="spot l"></div><div class="spot c"></div><div class="spot r"></div>
   <div id="s08-parts"></div>
   <div class="s08-hero-content">
-    <img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_S08_Banner.png" alt="Season 8" style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 8px 40px rgba(245,158,11,0.15);margin-bottom:2rem;" >
-    <a class="s08-cta" href="#factions">Explore the Factions ↓</a>
+    <h1>SEASON 8</h1>
+    <span class="s08-tag">Three Factions · One Champion</span>
+<p></p><div class="manager-strip"><br>
+<div class="manager-card mm"><br>
+<img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkovic.png"><br>
+<div class="name" style="color:#ef4444">Philipp Brunkovic</div><br>
+<div class="role">MM</div><br>
+</div><br>
+<div class="manager-card srr"><br>
+<img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png"><br>
+<div class="name" style="color:#22c55e">Pascal LePas</div><br>
+<div class="role">SRR</div><br>
+</div><br>
+<div class="manager-card sns"><br>
+<img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png"><br>
+<div class="name" style="color:#3b82f6">Hendrique Delafuente</div><br>
+<div class="role">SnS</div><br>
+</div><br>
+</div>
+<p><a class="s08-cta" href="#factions">Explore the Factions ↓</a></p>
   </div>
 </div>
 <div class="s08-section" id="factions">

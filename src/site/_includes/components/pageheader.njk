@@ -1,47 +1,27 @@
-<div class="csw-banner-wrap">
-  <div class="csw-banner">
-    <img class="csw-banner-logo" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" alt="CSW" />
-    <div class="csw-banner-text">
-      <h1>CHOKE SLAM WRESTLING</h1>
-      <span class="csw-tagline">Where Legends Collide</span>
-    </div>
-  </div>
-</div>
-
-<div class="csw-season-strip">
-  <a href="/choke-slam-wrestling/s08/">⚡ SEASON 8 — COMING SOON ⚡</a>
-</div>
+<!-- CSW Header — full-width banner -->
+<header style="margin:0;padding:0;line-height:0;background:#0a0a0f;">
+  <a href="/choke-slam-wrestling/"><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png" alt="Choke Slam Wrestling" style="width:100%;height:auto;display:block;"></a>
+</header>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<nav class="csw-main-nav" id="site-nav">
-  <button class="csw-burger" aria-label="Menu" aria-expanded="false" id="burger-toggle" onclick="toggleMenu()">☰</button>
-  <ul>
-    <li><a href="/choke-slam-wrestling/">🏠 Home</a></li>
-    <li><a href="/choke-slam-wrestling/events/">📅 Events</a></li>
-    <li><a href="/choke-slam-wrestling/wrestler/">🤼 Roster</a></li>
-    <li><a href="/choke-slam-wrestling/championships/">🏆 Titles</a></li>
-    <li><a href="/choke-slam-wrestling/teams/">👥 Teams</a></li>
-    <li><a href="/choke-slam-wrestling/statistiken/">📊 Stats</a></li>
-    <li><a href="/choke-slam-wrestling/referees/">🦓 Refs</a></li>
-    <li><a href="/choke-slam-wrestling/s08/" style="color:#ffd700;">⚡ S08</a></li>
-  </ul>
+<nav style="background:rgba(10,10,15,0.97);backdrop-filter:blur(12px);border-bottom:1px solid #2a1540;padding:0.4rem 1rem;position:sticky;top:0;z-index:100;display:flex;justify-content:center;gap:0.2rem;flex-wrap:wrap;">
+  <a href="/choke-slam-wrestling/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Home</a>
+  <a href="/choke-slam-wrestling/events/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Events</a>
+  <a href="/choke-slam-wrestling/wrestler/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Roster</a>
+  <a href="/choke-slam-wrestling/championships/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Titles</a>
+  <a href="/choke-slam-wrestling/teams/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Teams</a>
+  <a href="/choke-slam-wrestling/statistiken/" style="color:#9ca3af;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;transition:all 0.2s">Stats</a>
+  <a href="/choke-slam-wrestling/s08/" style="color:#f59e0b;text-decoration:none;padding:0.4rem 0.8rem;border-radius:4px;font-size:0.85rem;font-weight:bold">S08</a>
 </nav>
 
 <link href="{{ '/styles/cagematch.css' | url }}" rel="stylesheet">
 
 <script>
-function toggleMenu() {
-  var n = document.getElementById('site-nav');
-  var b = document.getElementById('burger-toggle');
-  n.classList.toggle('open');
-  b.setAttribute('aria-expanded', n.classList.contains('open'));
-  document.body.classList.toggle('menu-open', n.classList.contains('open'));
-}
 (function(){
-  var p = window.location.pathname;
-  document.querySelectorAll('.csw-main-nav ul li a').forEach(function(a){
-    if(a.pathname !== '/' && p.startsWith(a.pathname)) a.classList.add('active');
+  var p=window.location.pathname;
+  document.querySelectorAll('nav a').forEach(function(a){
+    if(a.pathname!=='/'&&p.startsWith(a.pathname))a.style.color='#f59e0b';
   });
 })();
 </script>

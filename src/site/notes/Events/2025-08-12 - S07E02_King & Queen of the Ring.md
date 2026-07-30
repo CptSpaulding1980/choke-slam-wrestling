@@ -9,6 +9,11 @@ location: "Hartford, Connecticut, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
+## Poster
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2025-08-12-s07e02-S07E02_King___Queen_of_the_Ring_poster.png" width="300" style="border-radius:8px;">
+
+
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E02_King & Queen of the Ring**
 
 **Date:** 2025-08-12

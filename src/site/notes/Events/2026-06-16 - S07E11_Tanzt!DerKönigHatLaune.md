@@ -9,6 +9,11 @@ location: "Sunrise, Florida, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
+## Poster
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-08-s07e11-tanzt-der-koenig-hat-laune_poster.png" width="300" style="border-radius:8px;">
+
+
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E11_Tanzt!DerKönigHatLaune**
 
 **Date:** 2026-06-16

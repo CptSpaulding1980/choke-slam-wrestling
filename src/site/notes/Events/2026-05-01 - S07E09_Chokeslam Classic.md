@@ -9,6 +9,11 @@ location: "San Fransisco, California, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
+## Poster
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-04-14-s07e09-chokeslam-classic_poster.png" width="300" style="border-radius:8px;">
+
+
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E09_Chokeslam Classic**
 
 **Date:** 2026-05-01

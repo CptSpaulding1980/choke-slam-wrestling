@@ -1,55 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>S08 Draft Board — Choke Slam Wrestling</title>
-  <style>
-    :root{--gold:#f59e0b;--gold-bright:#fbbf24;--purple:#7c3aed;--dark:#0a0a0f;--card-bg:#1a1025;--text:#f0e6ff;--muted:#9ca3af}
-    *{margin:0;padding:0;box-sizing:border-box}
-    body{background:var(--dark);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:2rem}
-    .container{max-width:700px}
-    h1{font-family:Georgia,serif;font-size:2.5rem;background:linear-gradient(90deg,var(--gold-bright),var(--gold),var(--gold-bright));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:1rem}
-    .icon{font-size:5rem;margin-bottom:1rem;animation:float 3s ease-in-out infinite}
-    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
-    .card{background:var(--card-bg);border:2px dashed var(--purple);border-radius:16px;padding:3rem 2rem;margin:2rem 0}
-    .card h2{color:var(--gold);margin-bottom:1rem}
-    .card p{color:var(--muted);line-height:1.8;margin-bottom:1rem}
-    .badge{display:inline-block;background:linear-gradient(135deg,var(--gold),#d97706);color:var(--dark);font-weight:bold;padding:0.4rem 1.2rem;border-radius:20px;font-size:0.85rem;animation:glow 2s ease-in-out infinite}
-    @keyframes glow{0%,100%{box-shadow:0 0 10px rgba(245,158,11,0.2)}50%{box-shadow:0 0 25px rgba(245,158,11,0.5)}}
-    .nav-back{margin-top:2rem}
-    .nav-back a{color:var(--purple);text-decoration:none;font-size:0.9rem}
-    .nav-back a:hover{color:var(--gold)}
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="icon">📋</div>
-    <h1>S08 Draft Board</h1>
-    <div class="card">
-      <h2>🏆 Wrestler Draft Rankings</h2>
-      <p>
-        Complete draft rankings with <strong>Cagematch Worker Ratings</strong>, 
-        Win/Loss records, and tier assignments for all available superstars 
-        across WWE, WCW, ECW, and international promotions.
-      </p>
-      <p>
-        Data sourced from the 2016 Cagematch database — the definitive 
-        ranking system for Choke Slam Wrestling Season 8.
-      </p>
-      <span class="badge">📊 COMING SOON</span>
-    </div>
-    <div class="card">
-      <h2>How It Works</h2>
-      <p>
-        Each faction promoter drafts their roster from the available pool.<br>
-        <strong>Tier system:</strong> 100k · 75k · 50k · 25k · 5k<br>
-        <strong>Ranking formula:</strong> ★ Rating × 10 + Matches ÷ 10 + Win% × 0.1
-      </p>
-    </div>
-    <nav class="nav-back">
-      <a href="/choke-slam-wrestling/s08/">← Back to Season 8</a>
-    </nav>
-  </div>
-</body>
-</html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>S08 Draft Board — Choke Slam Wrestling</title>
+<style>
+:root{--gold:#f59e0b;--dark:#0a0a0f;--card:#1a1025;--text:#f0e6ff;--muted:#9ca3af}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--dark);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;padding:1.5rem}
+.container{max-width:1200px;margin:0 auto}
+h1{font-family:Georgia,serif;font-size:2rem;background:linear-gradient(90deg,#fbbf24,#f59e0b,#fbbf24);-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-align:center;margin-bottom:0.3rem}
+.sub{text-align:center;color:var(--muted);font-size:.85rem;margin-bottom:2rem}
+.tier{margin:1.5rem 0}
+.tier-head{padding:.6rem 1rem;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.1rem}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid #2a1540;border-top:none;border-radius:0 0 8px 8px;overflow:hidden}
+.col{background:var(--card);padding:1rem}
+.col:nth-child(2){background:#1a1228}
+.col:nth-child(3){background:#1a1025}
+.col h4{font-size:.7rem;text-transform:uppercase;letter-spacing:1px;color:var(--gold);margin-bottom:.6rem;padding-bottom:.4rem;border-bottom:1px solid #2a1540;line-height:1.5}
+.w{display:inline-block;background:rgba(124,58,237,.12);color:#d4c4f0;padding:.12rem .45rem;margin:.1rem;border-radius:3px;font-size:.72rem}
+.w:hover{background:rgba(245,158,11,.2);color:var(--gold)}
+.empty{color:var(--muted);font-style:italic;font-size:.75rem}
+.nav{text-align:center;margin-top:3rem}.nav a{color:#7c3aed;text-decoration:none}.nav a:hover{color:var(--gold)}
+@media(max-width:768px){.grid{grid-template-columns:1fr}}
+</style></head><body><div class="container">
+<h1>📋 S08 Draft Board</h1>
+<p class="sub">Choke Slam Wrestling · 40 Wrestler · 5 Tiers</p>
+<div class="tier"><div class="tier-head" style="background:linear-gradient(90deg,#1a3a1a,#0a0a0f);color:#4ade80;border:1px solid #4ade80">🟢 100k (12 wrestlers)</div>
+<div class="grid"><div class="col"><h4>1996 + 2016 Era A</h4><span class="w">Sting</span><span class="w">Ric Flair</span><span class="w">Randy Savage</span><span class="w">Kazuchika Okada</span></div><div class="col"><h4>1996 + 2016 Era B</h4><span class="w">Kenta Kobashi</span><span class="w">Mitsuharu Misawa</span><span class="w">Shinya Hashimoto</span></div><div class="col"><h4>1996 + 2016 Era C</h4><span class="w">Brock Lesnar</span><span class="w">John Cena</span><span class="w">Roman Reigns</span></div></div></div><div class="tier"><div class="tier-head" style="background:linear-gradient(90deg,#1a2a3a,#0a0a0f);color:#60a5fa;border:1px solid #60a5fa">🔵 75k (19 wrestlers)</div>
+<div class="grid"><div class="col"><h4>1996 + 2016 Era A</h4><span class="w">Eddie Guerrero</span><span class="w">Kevin Nash</span><span class="w">Rob Van Dam</span><span class="w">Scott Hall</span><span class="w">Pentagon Jr</span></div><div class="col"><h4>1996 + 2016 Era B</h4><span class="w">The Giant</span><span class="w">Genichiro Tenryu</span><span class="w">Jushin Thunder Liger</span><span class="w">Mil Mascaras</span><span class="w">The Great Muta</span></div><div class="col"><h4>1996 + 2016 Era C</h4><span class="w">Toshiaki Kawada</span><span class="w">Finn Bálor</span><span class="w">Kevin Owens</span><span class="w">Randy Orton</span><span class="w">Seth Rollins</span></div></div></div><div class="tier"><div class="tier-head" style="background:linear-gradient(90deg,#3a2a1a,#0a0a0f);color:#f59e0b;border:1px solid #f59e0b">🟠 50k (48 wrestlers)</div>
+<div class="grid"><div class="col"><h4>1996 + 2016 Era A</h4><span class="w">Brian Pillman</span><span class="w">Chris Benoit</span><span class="w">Chris Jericho</span><span class="w">Dean Malenko</span><span class="w">Konnan</span><span class="w">Lex Luger</span><span class="w">Lord Steven Regal</span><span class="w">Rick Steiner</span><span class="w">Scott Steiner</span><span class="w">Atlantis</span><span class="w">Cibernetico</span><span class="w">Hirooki Goto</span><span class="w">Io Shirai</span><span class="w">Katsuyori Shibata</span><span class="w">King Cuerno</span></div><div class="col"><h4>1996 + 2016 Era B</h4><span class="w">El Hijo del Santo</span><span class="w">Hayabusa</span><span class="w">Koji Kanemoto</span><span class="w">Konnan (WCW)</span><span class="w">Kyoko Inoue</span><span class="w">Manami Toyota</span><span class="w">Masahiro Chono</span><span class="w">Naoki Sano</span><span class="w">Shinjiro Otani</span><span class="w">„Dr. Death“ Steve Williams</span><span class="w">Último Dragón</span><span class="w">Asuka</span><span class="w">Kota Ibushi</span><span class="w">Kushida</span><span class="w">Meiko Satumora</span><span class="w">Minoru Suzuki</span></div><div class="col"><h4>1996 + 2016 Era C</h4><span class="w">Bayley</span><span class="w">Becky Lynch</span><span class="w">Bray Wyatt</span><span class="w">Charlotte Flair</span><span class="w">Dean Ambrose</span><span class="w">Kofi Kingston</span><span class="w">Rusev</span><span class="w">Sami Zayn</span><span class="w">Samoa Joe</span><span class="w">Sasha Banks</span><span class="w">Sheamus</span><span class="w">Shinsuke Nakamura</span><span class="w">Prince Puma</span><span class="w">Tommy End</span><span class="w">Tomohiro Ishii</span><span class="w">Champions nicht in Liste:</span><span class="w">dmizzle4rizzle RoH Modelle</span></div></div></div><div class="tier"><div class="tier-head" style="background:linear-gradient(90deg,#3a1a1a,#0a0a0f);color:#f87171;border:1px solid #f87171">🔴 25k (51 wrestlers)</div>
+<div class="grid"><div class="col"><h4>1996 + 2016 Era A</h4><span class="w">Booker T</span><span class="w">Buh Buh Ray Dudley</span><span class="w">Chris Candido</span><span class="w">D-Von Dudley</span><span class="w">Akira Hokuto</span><span class="w">Perry Saturn</span><span class="w">Madusa</span><span class="w">Raven</span><span class="w">Shane Douglas</span><span class="w">Stevie Ray</span><span class="w">The Sandman</span><span class="w">Tommy Dreamer</span><span class="w">Too Cold Scorpio</span><span class="w">Axel Dieter Jr</span><span class="w">Drago</span><span class="w">Ilja Dragunov</span><span class="w">Marty Scurrl</span></div><div class="col"><h4>1996 + 2016 Era B</h4><span class="w">El Texano</span><span class="w">Hiroyoshi Tenzan</span><span class="w">Jinsei Shinzaki</span><span class="w">Johnny Ace</span><span class="w">Juventud Guerrera</span><span class="w">Megumi Kudo</span><span class="w">Negro Casas</span><span class="w">Perro Aguayo</span><span class="w">Psychosis</span><span class="w">Satoshi Kojima</span><span class="w">Silver King</span><span class="w">Stan Lane</span><span class="w">Yuji Nagata</span><span class="w">Matanza</span><span class="w">Pete Dunne</span><span class="w">Sanada</span><span class="w">Sexy Star</span></div><div class="col"><h4>1996 + 2016 Era C</h4><span class="w">Goldust</span><span class="w">Baron Corbin</span><span class="w">Chad Gable</span><span class="w">Neville</span><span class="w">Jason Jordan</span><span class="w">Dash Wilder</span><span class="w">Scott Dawson</span><span class="w">Stardust</span><span class="w">Jack Swagger</span><span class="w">The Miz</span><span class="w">Big Cass</span><span class="w">Enzo Amore</span><span class="w">Alexa Bliss</span><span class="w">Son of Havoc</span><span class="w">Timothy Thatcher</span><span class="w">Tony Storm</span><span class="w">Tyler Bate</span></div></div></div><div class="tier"><div class="tier-head" style="background:linear-gradient(90deg,#2a1a3a,#0a0a0f);color:#c084fc;border:1px solid #c084fc">⚪ 5k (4 wrestlers)</div>
+<div class="grid"><div class="col"><h4>1996 + 2016 Era A</h4><span class="w">Spike Dudley</span><span class="w">Mascarita Sagrada</span></div><div class="col"><h4>1996 + 2016 Era B</h4><span class="empty">—</span></div><div class="col"><h4>1996 + 2016 Era C</h4><span class="empty">—</span></div></div></div><nav class="nav"><a href="/choke-slam-wrestling/s08/">← Back to Season 8</a></nav></div></body></html>

@@ -114,177 +114,148 @@ function toggleMenu() {
       
       
       <style>
-/* ═══════════ S08 DRAMATIC PAGE ═══════════ */
-:root{--gold:#f59e0b;--gold-bright:#fbbf24;--purple:#7c3aed;--dark:#0a0a0f;--card-bg:#1a1025;--red:#ef4444;--green:#22c55e;--blue:#3b82f6}
+/* ═══════════ S08 SEASON PAGE — POLISHED ═══════════ */
+:root{--gold:#f59e0b;--gold-bright:#fbbf24;--purple:#7c3aed;--purple-dark:#4b0082;--dark:#0a0a0f;--card-bg:#1a1025;--card-hover:#251535;--red:#ef4444;--green:#22c55e;--blue:#3b82f6;--text:#f0e6ff;--muted:#9ca3af}
 
-.s08-hero{position:relative;min-height:60vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;background:radial-gradient(ellipse at center,#1a0a30 0%,#0a0a0f 70%);margin:-2rem -1.5rem 2rem;padding:3rem 1rem}
-.s08-hero::before{content:'';position:absolute;inset:0;background:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" fill="none" stroke="%234b0082" stroke-width="0.3" opacity="0.3"/><line x1="0" y1="33" x2="100" y2="33" stroke="%234b0082" stroke-width="0.15" opacity="0.2"/><line x1="0" y1="66" x2="100" y2="66" stroke="%234b0082" stroke-width="0.15" opacity="0.2"/></svg>');animation:drift 20s linear infinite}
+/* ── Hero ── */
+.s08-hero{position:relative;min-height:55vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;background:radial-gradient(ellipse at top,#1a0a30 0%,#0a0a0f 60%);margin:0 0 3rem;padding:4rem 1.5rem;border-bottom:2px solid var(--gold)}
+.s08-hero::before{content:'';position:absolute;inset:0;background:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect fill="none" stroke="%234b0082" stroke-width="0.3" opacity="0.25"/><line x1="0" y1="33" x2="100" y2="33" stroke="%234b0082" stroke-width="0.2" opacity="0.15"/><line x1="0" y1="66" x2="100" y2="66" stroke="%234b0082" stroke-width="0.2" opacity="0.15"/></svg>');animation:drift 25s linear infinite}
 @keyframes drift{0%{transform:translateY(0)}100%{transform:translateY(-100px)}}
-.s08-hero .spotlight{position:absolute;top:-10%;left:50%;transform:translateX(-50%);width:500px;height:100vh;background:radial-gradient(ellipse at top,rgba(245,158,11,0.06) 0%,transparent 70%);animation:pulse 4s ease-in-out infinite}
-@keyframes pulse{0%,100%{opacity:0.3}50%{opacity:0.7}}
-.s08-particle{position:absolute;width:3px;height:3px;background:var(--gold);border-radius:50%;animation:rise 3s ease-out infinite;opacity:0}
-@keyframes rise{0%{transform:translateY(60vh) scale(0);opacity:1}100%{transform:translateY(-10vh) scale(2);opacity:0}}
+.s08-hero .spot{position:absolute;width:400px;height:80vh;top:-10%;background:radial-gradient(ellipse at top,rgba(245,158,11,0.06),transparent 70%);pointer-events:none}
+.s08-hero .spot.l{left:15%;animation:pulse 4s ease-in-out infinite}
+.s08-hero .spot.c{left:50%;transform:translateX(-50%);animation:pulse 5s ease-in-out 1s infinite}
+.s08-hero .spot.r{right:15%;animation:pulse 4.5s ease-in-out 2s infinite}
+@keyframes pulse{0%,100%{opacity:0.2}50%{opacity:0.6}}
+.s08-particle{position:absolute;width:2px;height:2px;background:var(--gold);border-radius:50%;animation:rise 3s ease-out infinite;opacity:0}
+@keyframes rise{0%{transform:translateY(55vh) scale(0);opacity:1}100%{transform:translateY(-5vh) scale(2.5);opacity:0}}
+.s08-hero-content{position:relative;z-index:1;max-width:700px}
+.s08-hero h1{font-family:Georgia,serif;font-size:clamp(2.5rem,6vw,4rem);background:linear-gradient(180deg,#fbbf24,#f59e0b,#b45309);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin:0 0 0.8rem;letter-spacing:3px}
+.s08-tag{display:block;color:var(--purple);font-size:1.05rem;letter-spacing:6px;text-transform:uppercase;margin-bottom:2rem}
+.s08-cta{display:inline-block;background:linear-gradient(135deg,#f59e0b,#d97706);color:#0a0a0f;font-weight:bold;padding:0.7rem 2rem;border-radius:40px;font-size:1.05rem;text-decoration:none;animation:s08glow 2s ease-in-out infinite;transition:transform 0.2s}
+.s08-cta:hover{transform:scale(1.05)}
+@keyframes s08glow{0%,100%{box-shadow:0 0 15px rgba(245,158,11,0.25)}50%{box-shadow:0 0 35px rgba(245,158,11,0.55)}}
 
-.s08-hero-content{position:relative;z-index:1}
-.s08-hero h1{font-family:Georgia,serif;font-size:clamp(2rem,5vw,3.5rem);background:linear-gradient(180deg,var(--gold-bright),var(--gold),#b45309);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:0.5rem}
-.s08-tagline{color:var(--purple);font-size:1.1rem;letter-spacing:4px;margin-bottom:1.5rem}
-.s08-badge{display:inline-block;background:linear-gradient(135deg,var(--gold),#d97706);color:var(--dark);font-weight:bold;padding:0.5rem 1.5rem;border-radius:30px;font-size:1.1rem;animation:glow 2s ease-in-out infinite;margin-bottom:2rem}
-@keyframes glow{0%,100%{box-shadow:0 0 20px rgba(245,158,11,0.3)}50%{box-shadow:0 0 40px rgba(245,158,11,0.6)}}
+/* ── Sections ── */
+.s08-section{margin:3rem auto;max-width:960px;padding:0 1.5rem}
+.s08-section h2{font-family:Georgia,serif;font-size:1.6rem;color:var(--gold);border-bottom:2px solid var(--purple-dark);padding-bottom:0.5rem;margin-bottom:1.5rem}
 
-/* Faction Cards */
-.s08-factions{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem;max-width:1000px;margin:2rem auto;padding:0 1rem}
-.s08-faction-card{background:var(--card-bg);border-radius:16px;padding:2rem 1.5rem;text-align:center;position:relative;overflow:hidden;transition:transform 0.3s,box-shadow 0.3s;border:1px solid <a class="tag" onclick="toggleTagSearch(this)" data-content="#2a1540">#2a1540</a>}
-.s08-faction-card:hover{transform:translateY(-8px);box-shadow:0 20px 60px rgba(0,0,0,0.5)}
-.s08-faction-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px}
-.s08-faction-card.mm::before{background:linear-gradient(90deg,var(--red),#991b1b)}.s08-faction-card.mm:hover{border-color:var(--red)}
-.s08-faction-card.srr::before{background:linear-gradient(90deg,var(--green),#166534)}.s08-faction-card.srr:hover{border-color:var(--green)}
-.s08-faction-card.sns::before{background:linear-gradient(90deg,var(--blue),#1e40af)}.s08-faction-card.sns:hover{border-color:var(--blue)}
-.s08-faction-card .emoji{font-size:3rem;margin-bottom:0.5rem;display:block}
-.s08-faction-card h3{font-size:1.3rem;margin-bottom:0.3rem}
-.s08-faction-card .manager{color:#9ca3af;font-size:0.85rem;margin-bottom:0.8rem}
-.s08-faction-card .roster{color:var(--gold);font-size:0.85rem;line-height:1.7}
+/* ── Faction Grid ── */
+.faction-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.8rem}
+.faction-card{background:var(--card-bg);border:1px solid <a class="tag" onclick="toggleTagSearch(this)" data-content="#2a1540">#2a1540</a>;border-radius:16px;padding:2.2rem 1.5rem;text-align:center;position:relative;overflow:hidden;transition:all 0.35s}
+.faction-card:hover{transform:translateY(-6px);box-shadow:0 16px 48px rgba(0,0,0,0.5);background:var(--card-hover)}
+.faction-card::before{content:'';position:absolute;top:0;left:0;right:0;height:4px}
+.faction-card.mm::before{background:linear-gradient(90deg,#ef4444,#991b1b)}.faction-card.mm:hover{border-color:#ef4444}
+.faction-card.srr::before{background:linear-gradient(90deg,#22c55e,#166534)}.faction-card.srr:hover{border-color:#22c55e}
+.faction-card.sns::before{background:linear-gradient(90deg,#3b82f6,#1e40af)}.faction-card.sns:hover{border-color:#3b82f6}
+.faction-emoji{font-size:3.2rem;display:block;margin-bottom:0.6rem;filter:drop-shadow(0 4px 8px rgba(0,0,0,0.3))}
+.faction-card h3{font-size:1.15rem;margin:0 0 0.4rem}
+.faction-card .promoter{color:var(--muted);font-size:0.82rem;font-style:italic;margin-bottom:1rem}
+.faction-card .champions{color:var(--gold-bright);font-size:0.78rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:0.8rem;line-height:1.6}
+.faction-card .roster{color:#c9a0ff;font-size:0.85rem;line-height:1.8}
 
-/* Mask Teaser */
-.mask-teaser{background:linear-gradient(135deg,#1a0a30,#2d0a3d);border:2px solid var(--gold);border-radius:16px;padding:2rem;text-align:center;max-width:800px;margin:2rem auto;position:relative;overflow:hidden}
-.mask-teaser::before{content:'🎭';font-size:4rem;position:absolute;top:1rem;right:1rem;opacity:0.3}
-.mask-teaser h2{color:var(--gold);font-family:Georgia,serif;margin-bottom:1rem}
-.mask-teaser .story{color:#c9a0ff;font-size:0.95rem;line-height:1.8}
-.mask-teaser .stip{display:inline-block;background:var(--red);color:white;padding:0.3rem 1rem;border-radius:20px;font-weight:bold;font-size:0.8rem;margin:0.5rem 0;animation:glow 2s ease-in-out infinite}
+/* ── Mask Teaser ── */
+.mask-box{background:linear-gradient(160deg,#1a0a30 0%,#2d0a3d 50%,#1a0a30 100%);border:1.5px solid var(--gold);border-radius:20px;padding:2.5rem 2rem;margin:2rem 0;position:relative;overflow:hidden}
+.mask-box::after{content:'🎭';font-size:6rem;position:absolute;top:-0.5rem;right:-0.5rem;opacity:0.08;transform:rotate(15deg)}
+.mask-box .stip-badge{display:inline-block;background:#dc2626;color:#fff;padding:0.3rem 1rem;border-radius:20px;font-weight:bold;font-size:0.75rem;letter-spacing:1px;text-transform:uppercase;margin-bottom:1rem;animation:s08glow 2s ease-in-out infinite}
+.mask-box h3{font-family:Georgia,serif;color:var(--gold);font-size:1.4rem;margin:0 0 0.3rem}
+.mask-box .matchup{color:var(--muted);font-size:0.9rem;margin-bottom:1rem}
+.mask-box .story{color:#d4c4f0;font-size:0.93rem;line-height:1.85}
+.mask-box .story strong{color:var(--gold-bright)}
+.mask-box .story em{color:var(--purple);font-style:italic}
 
-/* Schedule */
-.s08-schedule{margin:2rem auto;max-width:900px}
-.s08-schedule table{width:100%}
-.s08-schedule .status-tbd{color:#f59e0b}
+/* ── Schedule Table ── */
+.schedule-table{width:100%;border-collapse:collapse;font-size:0.9rem}
+.schedule-table th{background:var(--purple-dark);color:var(--gold);padding:0.8rem;text-align:left;font-size:0.8rem;text-transform:uppercase;letter-spacing:1px}
+.schedule-table td{padding:0.8rem;border-bottom:1px solid <a class="tag" onclick="toggleTagSearch(this)" data-content="#2a1540">#2a1540</a>}
+.schedule-table tr:hover td{background:rgba(124,58,237,0.08)}
+.schedule-table .tbd{color:#f59e0b;font-weight:bold}
 
-/* Draft placeholder */
-.draft-placeholder{background:var(--card-bg);border:2px dashed var(--purple);border-radius:16px;padding:3rem;text-align:center;max-width:600px;margin:2rem auto}
-.draft-placeholder h3{color:var(--gold);font-size:1.5rem}
-.draft-placeholder p{color:#9ca3af;margin:1rem 0}
+/* ── Draft CTA ── */
+.draft-cta{display:block;background:var(--card-bg);border:2px dashed var(--purple);border-radius:16px;padding:2.5rem 2rem;text-align:center;text-decoration:none;color:var(--text);transition:all 0.3s;margin:1.5rem 0}
+.draft-cta:hover{border-color:var(--gold);background:var(--card-hover)}
+.draft-cta .draft-icon{font-size:3rem;display:block;margin-bottom:0.8rem}
+.draft-cta h3{color:var(--gold);font-size:1.2rem;margin:0 0 0.5rem}
+.draft-cta p{color:var(--muted);font-size:0.9rem;margin:0}
 
-@media(max-width:768px){.s08-factions{grid-template-columns:1fr}}
+@media(max-width:768px){.faction-grid{grid-template-columns:1fr}.s08-hero h1{font-size:2rem}.mask-box{padding:1.5rem}}
 </style>
-<div class="s08-hero" id="s08-hero">
-  <div class="spotlight"></div>
-  <div id="s08-particles"></div>
+<div class="s08-hero">
+  <div class="spot l"></div><div class="spot c"></div><div class="spot r"></div>
+  <div id="s08-parts"></div>
   <div class="s08-hero-content">
-    <h1>SEASON 8</h1>
-    <p class="s08-tagline">THREE FACTIONS. ONE CHAMPION.</p>
-    <div class="s08-badge">⚡ COMING SOON</div>
+    <img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_S08_Banner.png" alt="Season 8" style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 8px 40px rgba(245,158,11,0.15);margin-bottom:2rem;" >
+    <a class="s08-cta" href="#factions">Explore the Factions ↓</a>
   </div>
 </div>
-<hr>
-<h2 id="the-factions" tabindex="-1">🏴‍☠️ The Factions</h2>
-<div class="s08-factions">
-  <div class="s08-faction-card mm">
-    <span class="emoji">🛡️</span>
-    <h3 style="color:#ef4444">Militanter Mummenschanz</h3>
-    <p class="manager">Promoter: Philipp Brunkovic</p>
-    <p class="roster">
-      🏆 World: Steve Austin<br>
-      🏆 Trios: Bret · Bryan · Owen<br>
-      ⭐ AJ Styles · Chris Jericho · Shawn Michaels<br>
-      Rusev · Sheamus
+<div class="s08-section" id="factions">
+  <h2>🏴‍☠️ The Factions</h2>
+  <div class="faction-grid">
+    <div class="faction-card mm">
+      <span class="faction-emoji">🛡️</span>
+      <h3 style="color:#ef4444">Militanter Mummenschanz</h3>
+      <p class="promoter">Philipp Brunkovic</p>
+      <p class="champions">🏆 World · 🏆 Trios</p>
+      <p class="roster">Steve Austin · AJ Styles · Chris Jericho<br>Bret Hart · Daniel Bryan · Owen Hart<br>Shawn Michaels · Rusev · Sheamus</p>
+    </div>
+    <div class="faction-card srr">
+      <span class="faction-emoji">⚔️</span>
+      <h3 style="color:#22c55e">Saint Rebel Radicalz</h3>
+      <p class="promoter">Pascal LePas 🎭</p>
+      <p class="champions">🏆 Tag Team</p>
+      <p class="roster">Edge · Roman Reigns · Jay White<br>Jon Moxley · Bam Bam · ZSJ<br>Finn Bálor · Neville · Karl Anderson</p>
+    </div>
+    <div class="faction-card sns">
+      <span class="faction-emoji">🍸</span>
+      <h3 style="color:#3b82f6">Sweet 'n Sour Elite</h3>
+      <p class="promoter">Hendrique Delafuente</p>
+      <p class="champions">🏆 International · 🏆 Womens</p>
+      <p class="roster">Hiroshi Tanahashi · Kazuchika Okada<br>Sasha Banks · Lady Apache · Kamille<br>Akira Taue · Samoa Joe · KENTA</p>
+    </div>
+  </div>
+</div>
+<div class="s08-section">
+  <h2>🎭 The Masked Hero</h2>
+  <div class="mask-box">
+    <span class="stip-badge">Loser Becomes a Masked Hero</span>
+    <h3>Pascal LePas vs. Owen Hart</h3>
+    <p class="matchup">ChokeSlamMania VII — Season 7 Finale</p>
+    <p class="story">
+      In the most unusual stipulation in Choke Slam history, <strong>Pascal LePas</strong> put his identity on the line against <strong>Owen Hart</strong>.
+      Owen won. Pascal lost — and with it, his face.<br><br>
+      <em>Season 8 will see Pascal LePas compete under a mask.</em> 
+      The world knows who he is. But in Choke Slam Wrestling, a Masked Hero must earn his name back — 
+      <strong>one match at a time.</strong>
     </p>
   </div>
-  <div class="s08-faction-card srr">
-    <span class="emoji">⚔️</span>
-    <h3 style="color:#22c55e">Saint Rebel Radicalz</h3>
-    <p class="manager">Promoter: Pascal LePas</p>
-    <p class="roster">
-      🏆 Tag: Bam Bam & ZSJ<br>
-      ⭐ Edge · Roman Reigns · Jay White · Jon Moxley<br>
-      Balor · Neville · Karl Anderson · Dash Wilder
-    </p>
-  </div>
-  <div class="s08-faction-card sns">
-    <span class="emoji">🍸</span>
-    <h3 style="color:#3b82f6">Sweet 'n Sour Elite</h3>
-    <p class="manager">Promoter: Hendrique Delafuente</p>
-    <p class="roster">
-      🏆 International: Hiroshi Tanahashi<br>
-      🏆 Womens: Sasha Banks<br>
-      ⭐ Okada · Taue · Lady Apache · Kamille<br>
-      Samoa Joe · KENTA
-    </p>
-  </div>
 </div>
-<hr>
-<h2 id="the-masked-hero" tabindex="-1">🎭 The Masked Hero</h2>
-<div class="mask-teaser">
-  <span class="stip">LOSER BECOMES A MASKED HERO</span>
-  <h2>Pascal LePas vs. Owen Hart</h2>
-  <p class="story">
-    At <strong>ChokeSlamMania VII</strong>, Pascal LePas put everything on the line 
-    against Owen Hart in a match with the most unusual stipulation in Choke Slam history: 
-    <em>"Loser becomes a Masked Hero."</em><br><br>
-    Owen Hart won. Pascal LePas lost — and with it, his identity.<br><br>
-    <strong>Season 8 will see Pascal LePas compete under a mask.</strong> 
-    Who is the man behind the mask? The world knows. But in Choke Slam Wrestling, 
-    the Masked Hero must earn his name back... one match at a time.
-  </p>
+<div class="s08-section">
+  <h2>📅 Schedule</h2>
+  <table class="schedule-table">
+    <thead><tr><th>#</th><th>Event</th><th>Date</th><th>Arena</th><th>Status</th></tr></thead>
+    <tbody>
+      <tr><td>1</td><td>S08E01 — Season Premiere</td><td>TBA</td><td>TBA</td><td class="tbd">🔜 Planned</td></tr>
+      <tr><td>2</td><td>S08E02</td><td>TBA</td><td>TBA</td><td class="tbd">🔜 Planned</td></tr>
+      <tr><td>3</td><td>S08E03</td><td>TBA</td><td>TBA</td><td class="tbd">🔜 Planned</td></tr>
+      <tr><td>4</td><td>S08E04 — Royal Rumble</td><td>TBA</td><td>TBA</td><td class="tbd">🔜 Planned</td></tr>
+    </tbody>
+  </table>
 </div>
-<hr>
-<h2 id="s08-schedule" tabindex="-1">📅 S08 Schedule</h2>
-<div class="s08-schedule">
-<table>
-<thead>
-<tr>
-<th>#</th>
-<th>Event</th>
-<th>Date</th>
-<th>Arena</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>S08E01 — Season Premiere</td>
-<td>TBA</td>
-<td>TBA</td>
-<td><span class="status-tbd">🔜 Planned</span></td>
-</tr>
-<tr>
-<td>2</td>
-<td>S08E02</td>
-<td>TBA</td>
-<td>TBA</td>
-<td><span class="status-tbd">🔜 Planned</span></td>
-</tr>
-<tr>
-<td>3</td>
-<td>S08E03</td>
-<td>TBA</td>
-<td>TBA</td>
-<td><span class="status-tbd">🔜 Planned</span></td>
-</tr>
-<tr>
-<td>4</td>
-<td>S08E04 — Royal Rumble</td>
-<td>TBA</td>
-<td>TBA</td>
-<td><span class="status-tbd">🔜 Planned</span></td>
-</tr>
-</tbody>
-</table>
+<div class="s08-section">
+  <h2>📊 Draft Board</h2>
+  <a class="draft-cta" href="/choke-slam-wrestling/s08/draft/">
+    <span class="draft-icon">📋</span>
+    <h3>Complete Draft Rankings</h3>
+    <p>Cagematch Worker Ratings · Win/Loss Records · Tier Assignments — Coming Soon</p>
+  </a>
 </div>
-<hr>
-<h2 id="draft-board" tabindex="-1">📊 Draft Board</h2>
-<div class="draft-placeholder">
-  <h3>📋 S08 Draft Board</h3>
-  <p>Complete draft rankings with Cagematch Worker Ratings, Win/Loss records, and tier assignments for all available superstars.</p>
-  <p><em>Coming soon — Hendrik is preparing the data.</em></p>
-</div>
-<hr>
 <script>
-// Particles
 (function(){
-  var c = document.getElementById('s08-particles');
-  for(var i=0;i<30;i++){
-    var p = document.createElement('div'); p.className='s08-particle';
-    p.style.left=Math.random()*100+'%'; p.style.animationDelay=Math.random()*5+'s';
-    p.style.animationDuration=(3+Math.random()*4)+'s';
-    p.style.width=(2+Math.random()*3)+'px'; p.style.height=p.style.width;
+  var c=document.getElementById('s08-parts');
+  for(var i=0;i<35;i++){
+    var p=document.createElement('div');p.className='s08-particle';
+    p.style.left=Math.random()*100+'%';
+    p.style.animationDelay=Math.random()*6+'s';
+    p.style.animationDuration=(3+Math.random()*5)+'s';
     c.appendChild(p);
   }
 })();

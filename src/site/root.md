@@ -5,102 +5,101 @@ title: "Choke Slam Wrestling"
 ---
 
 <style>
-:root{--gold:#f59e0b;--gold-bright:#fbbf24;--purple:#7c3aed;--dark:#0a0a0f;--card:#1a1025;--red:#ef4444;--green:#22c55e;--blue:#3b82f6;--text:#f0e6ff;--muted:#9ca3af}
+:root{--gold:#f59e0b;--gold-bright:#fbbf24;--purple:#7c3aed;--purple-dark:#4b0082;--dark:#0a0a0f;--card:#1a1025;--card-hover:#251535;--red:#ef4444;--green:#22c55e;--blue:#3b82f6;--text:#f0e6ff;--muted:#9ca3af}
 *{margin:0;padding:0;box-sizing:border-box}
-body{background:var(--dark);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;overflow-x:hidden}
 
 /* ── Hero ── */
-.hero{position:relative;min-height:70vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;background:radial-gradient(ellipse at center,#1a0a30 0%,#0a0a0f 70%)}
-.hero::before{content:'';position:absolute;inset:0;background:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect fill="none" stroke="%234b0082" stroke-width="0.2" opacity="0.2"/></svg>');animation:drift 25s linear infinite}
-@keyframes drift{0%{transform:translateY(0)}100%{transform:translateY(-100px)}}
+.hero{position:relative;min-height:75vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;background:radial-gradient(ellipse at center bottom,#1a0a30 0%,#0a0a0f 65%);margin:-2rem -1.5rem 0}
+.hero::before{content:'';position:absolute;inset:0;background:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><rect fill="none" stroke="%234b0082" stroke-width="0.3" opacity="0.15"/></pattern></defs><rect fill="url(%23g)" width="100" height="100"/></svg>');animation:drift 30s linear infinite}
+@keyframes drift{0%{transform:translateY(0)}100%{transform:translateY(-120px)}}
 
-.particles{position:absolute;inset:0;pointer-events:none}
-.particle{position:absolute;width:2px;height:2px;background:var(--gold);border-radius:50%;animation:rise 3s ease-out infinite;opacity:0}
-@keyframes rise{0%{transform:translateY(70vh) scale(0);opacity:1}100%{transform:translateY(-5vh) scale(2);opacity:0}}
-
-.spot{position:absolute;width:400px;height:80vh;background:radial-gradient(ellipse at top,rgba(245,158,11,0.05),transparent 70%);pointer-events:none}
-.spot.l{left:10%;animation:pulse 4s ease-in-out infinite}
-.spot.c{left:50%;transform:translateX(-50%);animation:pulse 5s ease-in-out 1s infinite}
-.spot.r{right:10%;animation:pulse 4.5s ease-in-out 2s infinite}
-@keyframes pulse{0%,100%{opacity:0.2}50%{opacity:0.5}}
+.spot{position:absolute;width:450px;height:85vh;background:radial-gradient(ellipse at top,rgba(245,158,11,0.06),transparent 70%);pointer-events:none;top:-5%}
+.spot.l{left:10%;animation:pulse 4.5s ease-in-out infinite}
+.spot.c{left:50%;transform:translateX(-50%);animation:pulse 5.5s ease-in-out 1s infinite}
+.spot.r{right:10%;animation:pulse 5s ease-in-out 2s infinite}
+@keyframes pulse{0%,100%{opacity:0.15}50%{opacity:0.5}}
 
 .hero-content{position:relative;z-index:1;padding:2rem}
-.hero-logo{width:160px;margin-bottom:1rem;filter:drop-shadow(0 0 20px rgba(245,158,11,0.4));animation:float 3s ease-in-out infinite}
-@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.hero-logo{width:140px;margin-bottom:1.2rem;filter:drop-shadow(0 0 25px rgba(245,158,11,0.35));animation:float 3.5s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
 
-.hero h1{font-family:Georgia,serif;font-size:clamp(2rem,5vw,3.5rem);background:linear-gradient(180deg,var(--gold-bright),var(--gold),#b45309);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin:0 0 0.5rem;letter-spacing:2px}
+.hero h1{font-family:Georgia,serif;font-size:clamp(2.2rem,5.5vw,3.8rem);background:linear-gradient(180deg,#fbbf24 0%,#f59e0b 40%,#b45309 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin:0 0 0.3rem;letter-spacing:3px;border:none;padding:0}
+.hero .tagline{font-family:Georgia,serif;color:#7c3aed;font-size:clamp(0.9rem,1.5vw,1.1rem);letter-spacing:4px;text-transform:uppercase;margin-bottom:2rem}
+.hero .est{color:#9ca3af;font-size:0.75rem;letter-spacing:3px;text-transform:uppercase;margin-bottom:2rem}
 
-/* ── Manager Showcase ── */
-.manager-strip{display:flex;justify-content:center;gap:2rem;margin:2rem 0;flex-wrap:wrap;position:relative;z-index:1}
-.manager-card{text-align:center;transition:transform 0.3s}
-.manager-card:hover{transform:translateY(-5px)}
-.manager-card img{width:100px;height:100px;border-radius:50%;object-fit:cover;border:3px solid transparent;transition:all 0.3s}
-.manager-card.mm img{border-color:var(--red);box-shadow:0 0 20px rgba(239,68,68,0.3)}
-.manager-card.srr img{border-color:var(--green);box-shadow:0 0 20px rgba(34,197,94,0.3)}
-.manager-card.sns img{border-color:var(--blue);box-shadow:0 0 20px rgba(59,130,246,0.3)}
-.manager-card:hover img{box-shadow:0 0 35px rgba(245,158,11,0.4)}
-.manager-card .name{font-size:0.85rem;font-weight:bold;margin-top:0.5rem}
-.manager-card .role{font-size:0.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+/* ── Manager Strip ── */
+.manager-strip{display:flex;justify-content:center;gap:2.5rem;margin:1.5rem 0;flex-wrap:wrap;position:relative;z-index:1}
+.manager-card{text-align:center;transition:transform 0.3s;position:relative}
+.manager-card:hover{transform:translateY(-6px)}
+.manager-card img{width:95px;height:95px;border-radius:50%;object-fit:cover;border:3px solid transparent;transition:all 0.35s}
+.manager-card.mm img{border-color:var(--red);box-shadow:0 0 22px rgba(239,68,68,0.25)}
+.manager-card.srr img{border-color:var(--green);box-shadow:0 0 22px rgba(34,197,94,0.25)}
+.manager-card.sns img{border-color:var(--blue);box-shadow:0 0 22px rgba(59,130,246,0.25)}
+.manager-card:hover img{box-shadow:0 0 40px rgba(245,158,11,0.3);transform:scale(1.05)}
+.manager-card .name{font-size:0.9rem;font-weight:700;margin-top:0.6rem;letter-spacing:0.3px}
+.manager-card .role{font-size:0.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:1.5px;margin-top:0.15rem}
 
-.s08-badge{display:inline-block;background:linear-gradient(135deg,var(--gold),#d97706);color:var(--dark);font-weight:bold;padding:0.5rem 1.5rem;border-radius:30px;font-size:1.05rem;animation:glow 2s ease-in-out infinite;margin-top:1rem;text-decoration:none}
-@keyframes glow{0%,100%{box-shadow:0 0 15px rgba(245,158,11,0.25)}50%{box-shadow:0 0 35px rgba(245,158,11,0.5)}}
-
-/* ── Nav ── */
-.home-nav{position:fixed;top:0;left:0;right:0;z-index:1000;background:rgba(10,10,15,0.92);backdrop-filter:blur(12px);border-bottom:1px solid #2a1540;padding:0.5rem 1rem;display:flex;justify-content:center;gap:0.2rem;flex-wrap:wrap}
-.home-nav a{color:var(--muted);text-decoration:none;padding:0.4rem 0.8rem;border-radius:6px;font-size:0.85rem;transition:all 0.2s}
-.home-nav a:hover,.home-nav a.active{color:var(--gold);background:var(--card)}
+/* ── S08 Badge ── */
+.s08-badge{display:inline-block;background:linear-gradient(135deg,#f59e0b,#d97706);color:#0a0a0f;font-weight:800;padding:0.6rem 2rem;border-radius:40px;font-size:1.05rem;text-decoration:none;animation:s08glow 2.2s ease-in-out infinite;margin-top:1rem;letter-spacing:1px;transition:transform 0.2s}
+.s08-badge:hover{transform:scale(1.06)}
+@keyframes s08glow{0%,100%{box-shadow:0 0 18px rgba(245,158,11,0.25)}50%{box-shadow:0 0 40px rgba(245,158,11,0.55)}}
 
 /* ── Champion Strip ── */
-.champ-strip{background:linear-gradient(90deg,#1a0a30,var(--card),#1a0a30);border-top:2px solid var(--gold);border-bottom:2px solid var(--gold);padding:2rem 1rem;text-align:center;margin:3rem 0}
-.champ-strip h2{font-family:Georgia,serif;color:var(--gold);margin-bottom:1.5rem;font-size:1.3rem}
-.champ-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1rem;max-width:900px;margin:0 auto}
-.champ-card{background:var(--dark);border:1px solid var(--gold);border-radius:10px;padding:1rem;transition:transform 0.2s;text-decoration:none;display:block;color:var(--text)}
-.champ-card:hover{transform:scale(1.05);box-shadow:0 0 20px rgba(245,158,11,0.15)}
-.champ-card .belt{font-size:1.8rem;margin-bottom:0.3rem}
-.champ-card .title{font-size:0.65rem;color:var(--gold);text-transform:uppercase;letter-spacing:1px}
-.champ-card .name{font-size:0.9rem;font-weight:bold}
+.champ-strip{background:linear-gradient(90deg,#120820,#1a1025 30%,#1a1025 70%,#120820);border-top:2px solid #f59e0b;border-bottom:2px solid #f59e0b;padding:2.5rem 1.5rem;text-align:center;margin:0 -1.5rem;position:relative}
+.champ-strip h2{font-family:Georgia,serif;color:var(--gold);margin-bottom:1.8rem;font-size:1.3rem;letter-spacing:2px;text-transform:uppercase}
+.champ-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1.2rem;max-width:900px;margin:0 auto}
+.champ-card{background:var(--dark);border:1px solid rgba(245,158,11,0.25);border-radius:12px;padding:1.2rem 1rem;text-decoration:none;color:var(--text);transition:all 0.3s;display:block}
+.champ-card:hover{transform:translateY(-4px);box-shadow:0 8px 30px rgba(245,158,11,0.12);border-color:var(--gold)}
+.champ-card .belt{font-size:2rem;margin-bottom:0.4rem;display:block}
+.champ-card .ctitle{font-size:0.65rem;color:var(--gold);text-transform:uppercase;letter-spacing:1.5px;margin-bottom:0.3rem}
+.champ-card .cname{font-size:0.9rem;font-weight:700;color:var(--text)}
 
 /* ── Quick Links ── */
-.quick-links{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;max-width:900px;margin:3rem auto;padding:0 1rem}
-.quick-link{background:var(--card);border:1px solid #2a1540;border-radius:12px;padding:1.5rem;text-align:center;text-decoration:none;color:var(--purple);transition:all 0.3s}
-.quick-link:hover{transform:translateY(-3px);border-color:var(--gold);background:#251535}
-.quick-link .icon{font-size:2rem;display:block;margin-bottom:0.5rem}
-.quick-link .label{font-size:0.9rem;font-weight:bold;color:var(--text)}
+.quick-links{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1rem;max-width:900px;margin:3rem auto;padding:0 1rem}
+.quick-link{background:var(--card);border:1px solid #2a1540;border-radius:14px;padding:1.8rem 1.2rem;text-align:center;text-decoration:none;transition:all 0.3s}
+.quick-link:hover{transform:translateY(-4px);border-color:var(--gold);background:var(--card-hover);box-shadow:0 8px 25px rgba(0,0,0,0.3)}
+.quick-link .icon{font-size:2.2rem;display:block;margin-bottom:0.6rem}
+.quick-link .label{font-size:0.95rem;font-weight:700;color:var(--text)}
+.quick-link .sublabel{font-size:0.72rem;color:var(--muted);margin-top:0.3rem}
 
-footer{text-align:center;padding:3rem 1rem;color:var(--muted);font-size:0.85rem;border-top:1px solid #1f1530;margin-top:3rem}
+/* ── Particles ── */
+.particles{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+.particle{position:absolute;background:var(--gold);border-radius:50%;animation:rise 4s ease-out infinite;opacity:0}
+@keyframes rise{0%{transform:translateY(75vh) scale(0);opacity:1}100%{transform:translateY(-5vh) scale(2.5);opacity:0}}
 
-@media(max-width:768px){.manager-card img{width:70px;height:70px}.hero h1{font-size:1.8rem}.champ-grid{grid-template-columns:repeat(2,1fr)}}
+/* ── Mobile ── */
+@media(max-width:768px){
+  .hero{min-height:60vh}
+  .manager-card img{width:70px;height:70px}
+  .hero h1{font-size:1.8rem}
+  .manager-strip{gap:1.2rem}
+  .champ-grid{grid-template-columns:repeat(2,1fr)}
+  .quick-links{grid-template-columns:repeat(2,1fr)}
+}
 </style>
-
-<nav class="home-nav">
-  <a href="/choke-slam-wrestling/home/">🏠 Home</a>
-  <a href="/choke-slam-wrestling/events/">📅 Events</a>
-  <a href="/choke-slam-wrestling/wrestler/">🤼 Roster</a>
-  <a href="/choke-slam-wrestling/championships/">🏆 Titles</a>
-  <a href="/choke-slam-wrestling/statistiken/">📊 Stats</a>
-  <a href="/choke-slam-wrestling/s08/" style="color:#f59e0b;">⚡ S08</a>
-</nav>
 
 <div class="hero">
   <div class="spot l"></div><div class="spot c"></div><div class="spot r"></div>
   <div class="particles" id="particles"></div>
   <div class="hero-content">
-    <img class="hero-logo" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" alt="CSW">
+    <img class="hero-logo" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" alt="CSW Logo">
     <h1>CHOKE SLAM WRESTLING</h1>
+    <p class="tagline">Where Legends Collide</p>
+    <p class="est">EST. 2018</p>
 
     <div class="manager-strip">
       <div class="manager-card mm">
-        <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkovic.png" alt="Philipp Brunkovic">
+        <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkovic.png" alt="Philipp Brunkovic" loading="lazy">
         <div class="name" style="color:#ef4444">Philipp Brunkovic</div>
         <div class="role">Militanter Mummenschanz</div>
       </div>
       <div class="manager-card srr">
-        <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png" alt="Pascal LePas">
-        <div class="name" style="color:#22c55e">Pascal LePas</div>
+        <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png" alt="Pascal LePas" loading="lazy">
+        <div class="name" style="color:#22c55e">Pascal LePas 🎭</div>
         <div class="role">Saint Rebel Radicalz</div>
       </div>
       <div class="manager-card sns">
-        <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" alt="Hendrique Delafuente">
+        <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" alt="Hendrique Delafuente" loading="lazy">
         <div class="name" style="color:#3b82f6">Hendrique Delafuente</div>
         <div class="role">Sweet 'n Sour Elite</div>
       </div>
@@ -111,28 +110,70 @@ footer{text-align:center;padding:3rem 1rem;color:var(--muted);font-size:0.85rem;
 </div>
 
 <div class="champ-strip">
-  <h2>🏆 CURRENT CHAMPIONS</h2>
+  <h2>🏆 Current Champions</h2>
   <div class="champ-grid">
-    <div class="champ-card"><div class="belt">🌍</div><div class="title">World</div><div class="name">Steve Austin</div></div>
-    <div class="champ-card"><div class="belt">🌏</div><div class="title">International</div><div class="name">Hiroshi Tanahashi</div></div>
-    <div class="champ-card"><div class="belt">👥</div><div class="title">Tag Team</div><div class="name">Bigelow & ZSJ</div></div>
-    <div class="champ-card"><div class="belt">👩</div><div class="title">Womens</div><div class="name">Sasha Banks</div></div>
-    <div class="champ-card"><div class="belt">👪</div><div class="title">Trios</div><div class="name">Hart·Bryan·Owen</div></div>
+    <a href="/choke-slam-wrestling/championships/choke-slam-world-championship/" class="champ-card">
+      <span class="belt">🌍</span>
+      <div class="ctitle">World Heavyweight</div>
+      <div class="cname">Steve Austin</div>
+    </a>
+    <a href="/choke-slam-wrestling/championships/choke-slam-international-championship/" class="champ-card">
+      <span class="belt">🌏</span>
+      <div class="ctitle">International</div>
+      <div class="cname">Hiroshi Tanahashi</div>
+    </a>
+    <a href="/choke-slam-wrestling/championships/choke-slam-tag-team-championship/" class="champ-card">
+      <span class="belt">👥</span>
+      <div class="ctitle">Tag Team</div>
+      <div class="cname">Bigelow & ZSJ</div>
+    </a>
+    <a href="/choke-slam-wrestling/championships/choke-slam-womens-championship/" class="champ-card">
+      <span class="belt">👩</span>
+      <div class="ctitle">Womens</div>
+      <div class="cname">Sasha Banks</div>
+    </a>
+    <a href="/choke-slam-wrestling/championships/choke-slam-trios-championship/" class="champ-card">
+      <span class="belt">👪</span>
+      <div class="ctitle">Trios</div>
+      <div class="cname">Hart · Bryan · Owen</div>
+    </a>
   </div>
 </div>
 
 <div class="quick-links">
-  <a href="/choke-slam-wrestling/events/" class="quick-link"><span class="icon">📅</span><span class="label">Events</span></a>
-  <a href="/choke-slam-wrestling/wrestler/" class="quick-link"><span class="icon">🤼</span><span class="label">Roster</span></a>
-  <a href="/choke-slam-wrestling/championships/" class="quick-link"><span class="icon">🏆</span><span class="label">Championships</span></a>
-  <a href="/choke-slam-wrestling/statistiken/" class="quick-link"><span class="icon">📊</span><span class="label">Statistics</span></a>
+  <a href="/choke-slam-wrestling/events/" class="quick-link">
+    <span class="icon">📅</span>
+    <span class="label">Events</span>
+    <span class="sublabel">81 cards · 7 seasons</span>
+  </a>
+  <a href="/choke-slam-wrestling/wrestler/" class="quick-link">
+    <span class="icon">🤼</span>
+    <span class="label">Roster</span>
+    <span class="sublabel">200+ wrestlers</span>
+  </a>
+  <a href="/choke-slam-wrestling/championships/" class="quick-link">
+    <span class="icon">🏆</span>
+    <span class="label">Championships</span>
+    <span class="sublabel">5 active titles</span>
+  </a>
+  <a href="/choke-slam-wrestling/statistiken/" class="quick-link">
+    <span class="icon">📊</span>
+    <span class="label">Statistics</span>
+    <span class="sublabel">Records & Rankings</span>
+  </a>
 </div>
 
-<footer>
-  <p style="margin-bottom:0.5rem">🛡️ Philipp Brunkovic &nbsp; ⚔️ Pascal LePas &nbsp; 🍸 Hendrique Delafuente</p>
-  <p>© 2026 Choke Slam Wrestling — Season 8</p>
-</footer>
-
 <script>
-(function(){var c=document.getElementById('particles');for(var i=0;i<35;i++){var p=document.createElement('div');p.className='particle';p.style.left=Math.random()*100+'%';p.style.animationDelay=Math.random()*6+'s';p.style.animationDuration=(3+Math.random()*5)+'s';p.style.width=(2+Math.random()*3)+'px';p.style.height=p.style.width;c.appendChild(p)}})();
+(function(){
+  var c=document.getElementById('particles');
+  for(var i=0;i<50;i++){
+    var p=document.createElement('div');p.className='particle';
+    p.style.left=Math.random()*100+'%';
+    p.style.animationDelay=Math.random()*8+'s';
+    p.style.animationDuration=(3+Math.random()*6)+'s';
+    p.style.width=(1.5+Math.random()*3)+'px';
+    p.style.height=p.style.width;
+    c.appendChild(p);
+  }
+})();
 </script>

@@ -104,82 +104,83 @@
     
 
     <style>
-/* ═══════════ S08 SEASON PAGE — POLISHED ═══════════ */
-:root{--gold:#f59e0b;--gold-bright:#fbbf24;--purple:#7c3aed;--purple-dark:#4b0082;--dark:#0a0a0f;--card-bg:#1a1025;--card-hover:#251535;--red:#ef4444;--green:#22c55e;--blue:#3b82f6;--text:#f0e6ff;--muted:#9ca3af}
+/* ═══════════ S08 SEASON PAGE ═══════════ */
+:root{--gold:#f59e0b;--gold-bright:#fbbf24;--purple:#7c3aed;--purple-dark:#4b0082;--dark:#0a0a0f;--card:#1a1025;--card-hover:#251535;--red:#ef4444;--green:#22c55e;--blue:#3b82f6;--text:#f0e6ff;--muted:#9ca3af}
 
 /* ── Hero ── */
-.s08-hero{position:relative;min-height:55vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;background:radial-gradient(ellipse at top,#1a0a30 0%,#0a0a0f 60%);margin:0 0 3rem;padding:4rem 1.5rem;border-bottom:2px solid var(--gold)}
-.s08-hero::before{content:'';position:absolute;inset:0;background:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect fill="none" stroke="%234b0082" stroke-width="0.3" opacity="0.25"/><line x1="0" y1="33" x2="100" y2="33" stroke="%234b0082" stroke-width="0.2" opacity="0.15"/><line x1="0" y1="66" x2="100" y2="66" stroke="%234b0082" stroke-width="0.2" opacity="0.15"/></svg>');animation:drift 25s linear infinite}
+.s08-hero{position:relative;min-height:50vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;background:radial-gradient(ellipse at top,#1a0a30 0%,#0a0a0f 60%);padding:4rem 1.5rem 5rem;border-bottom:2px solid var(--gold)}
+.s08-hero::before{content:'';position:absolute;inset:0;background:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect fill="none" stroke="%234b0082" stroke-width="0.3" opacity="0.2"/><line x1="0" y1="33" x2="100" y2="33" stroke="%234b0082" stroke-width="0.2" opacity="0.1"/><line x1="0" y1="66" x2="100" y2="66" stroke="%234b0082" stroke-width="0.2" opacity="0.1"/></svg>');animation:drift 25s linear infinite}
 @keyframes drift{0%{transform:translateY(0)}100%{transform:translateY(-100px)}}
-.s08-hero .spot{position:absolute;width:400px;height:80vh;top:-10%;background:radial-gradient(ellipse at top,rgba(245,158,11,0.06),transparent 70%);pointer-events:none}
+.s08-hero .spot{position:absolute;width:400px;height:70vh;top:-5%;background:radial-gradient(ellipse at top,rgba(245,158,11,0.05),transparent 70%);pointer-events:none}
 .s08-hero .spot.l{left:15%;animation:pulse 4s ease-in-out infinite}
 .s08-hero .spot.c{left:50%;transform:translateX(-50%);animation:pulse 5s ease-in-out 1s infinite}
 .s08-hero .spot.r{right:15%;animation:pulse 4.5s ease-in-out 2s infinite}
-@keyframes pulse{0%,100%{opacity:0.2}50%{opacity:0.6}}
+@keyframes pulse{0%,100%{opacity:0.15}50%{opacity:0.5}}
 .s08-particle{position:absolute;width:2px;height:2px;background:var(--gold);border-radius:50%;animation:rise 3s ease-out infinite;opacity:0}
 @keyframes rise{0%{transform:translateY(55vh) scale(0);opacity:1}100%{transform:translateY(-5vh) scale(2.5);opacity:0}}
 .s08-hero-content{position:relative;z-index:1;max-width:700px}
-.s08-hero h1{font-family:Georgia,serif;font-size:clamp(2.5rem,6vw,4rem);background:linear-gradient(180deg,#fbbf24,#f59e0b,#b45309);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin:0 0 0.8rem;letter-spacing:3px}
+.s08-hero h1{font-family:Georgia,serif;font-size:clamp(2.5rem,6vw,4rem);background:linear-gradient(180deg,#fbbf24,#f59e0b,#b45309);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin:0 0 0.8rem;letter-spacing:3px;border:none;padding:0}
 .s08-tag{display:block;color:var(--purple);font-size:1.05rem;letter-spacing:6px;text-transform:uppercase;margin-bottom:2rem}
-.s08-cta{display:inline-block;background:linear-gradient(135deg,#f59e0b,#d97706);color:#0a0a0f;font-weight:bold;padding:0.7rem 2rem;border-radius:40px;font-size:1.05rem;text-decoration:none;animation:s08glow 2s ease-in-out infinite;transition:transform 0.2s}
+.s08-cta{display:inline-block;background:linear-gradient(135deg,#f59e0b,#d97706);color:#0a0a0f;font-weight:800;padding:0.7rem 2rem;border-radius:40px;font-size:1.05rem;text-decoration:none;animation:s08glow 2.2s ease-in-out infinite;transition:transform 0.2s;letter-spacing:0.5px}
 .s08-cta:hover{transform:scale(1.05)}
-@keyframes s08glow{0%,100%{box-shadow:0 0 15px rgba(245,158,11,0.25)}50%{box-shadow:0 0 35px rgba(245,158,11,0.55)}}
+@keyframes s08glow{0%,100%{box-shadow:0 0 15px rgba(245,158,11,0.25)}50%{box-shadow:0 0 40px rgba(245,158,11,0.55)}}
 
 /* ── Sections ── */
 .s08-section{margin:3rem auto;max-width:960px;padding:0 1.5rem}
-.s08-section h2{font-family:Georgia,serif;font-size:1.6rem;color:var(--gold);border-bottom:2px solid var(--purple-dark);padding-bottom:0.5rem;margin-bottom:1.5rem}
+.s08-section h2{font-family:Georgia,serif;font-size:1.5rem;color:var(--gold);border-bottom:2px solid var(--purple-dark);padding-bottom:0.5rem;margin-bottom:1.8rem;letter-spacing:1px}
 
 /* ── Faction Grid ── */
 .faction-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.8rem}
-.faction-card{background:var(--card-bg);border:1px solid <a class="tag" onclick="toggleTagSearch(this)" data-content="#2a1540">#2a1540</a>;border-radius:16px;padding:2.2rem 1.5rem;text-align:center;position:relative;overflow:hidden;transition:all 0.35s}
-.faction-card:hover{transform:translateY(-6px);box-shadow:0 16px 48px rgba(0,0,0,0.5);background:var(--card-hover)}
+.faction-card{background:var(--card);border:1px solid <a class="tag" onclick="toggleTagSearch(this)" data-content="#2a1540">#2a1540</a>;border-radius:18px;padding:2.5rem 1.5rem;text-align:center;position:relative;overflow:hidden;transition:all 0.35s}
+.faction-card:hover{transform:translateY(-6px);box-shadow:0 18px 50px rgba(0,0,0,0.5);background:var(--card-hover)}
 .faction-card::before{content:'';position:absolute;top:0;left:0;right:0;height:4px}
-.faction-card.mm::before{background:linear-gradient(90deg,#ef4444,#991b1b)}.faction-card.mm:hover{border-color:#ef4444}
-.faction-card.srr::before{background:linear-gradient(90deg,#22c55e,#166534)}.faction-card.srr:hover{border-color:#22c55e}
-.faction-card.sns::before{background:linear-gradient(90deg,#3b82f6,#1e40af)}.faction-card.sns:hover{border-color:#3b82f6}
-.faction-emoji{font-size:3.2rem;display:block;margin-bottom:0.6rem;filter:drop-shadow(0 4px 8px rgba(0,0,0,0.3))}
-.faction-card h3{font-size:1.15rem;margin:0 0 0.4rem}
-.faction-card .promoter{color:var(--muted);font-size:0.82rem;font-style:italic;margin-bottom:1rem}
-.faction-card .champions{color:var(--gold-bright);font-size:0.78rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:0.8rem;line-height:1.6}
-.faction-card .roster{color:#c9a0ff;font-size:0.85rem;line-height:1.8}
+.faction-card.mm::before{background:linear-gradient(90deg,#ef4444,#991b1b)}.faction-card.mm:hover{border-color:rgba(239,68,68,0.5)}
+.faction-card.srr::before{background:linear-gradient(90deg,#22c55e,#166534)}.faction-card.srr:hover{border-color:rgba(34,197,94,0.5)}
+.faction-card.sns::before{background:linear-gradient(90deg,#3b82f6,#1e40af)}.faction-card.sns:hover{border-color:rgba(59,130,246,0.5)}
+.faction-emoji{font-size:3.5rem;display:block;margin-bottom:0.6rem;filter:drop-shadow(0 4px 10px rgba(0,0,0,0.3))}
+.faction-card h3{font-size:1.2rem;margin:0 0 0.4rem;letter-spacing:0.3px}
+.faction-card .promoter{color:var(--muted);font-size:0.82rem;font-style:italic;margin-bottom:1.2rem}
+.faction-card .champions{color:var(--gold-bright);font-size:0.78rem;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:1rem;line-height:1.8}
+.faction-card .roster{color:#c9a0ff;font-size:0.85rem;line-height:1.9}
 
 /* ── Mask Teaser ── */
-.mask-box{background:linear-gradient(160deg,#1a0a30 0%,#2d0a3d 50%,#1a0a30 100%);border:1.5px solid var(--gold);border-radius:20px;padding:2.5rem 2rem;margin:2rem 0;position:relative;overflow:hidden}
-.mask-box::after{content:'🎭';font-size:6rem;position:absolute;top:-0.5rem;right:-0.5rem;opacity:0.08;transform:rotate(15deg)}
-.mask-box .stip-badge{display:inline-block;background:#dc2626;color:#fff;padding:0.3rem 1rem;border-radius:20px;font-weight:bold;font-size:0.75rem;letter-spacing:1px;text-transform:uppercase;margin-bottom:1rem;animation:s08glow 2s ease-in-out infinite}
-.mask-box h3{font-family:Georgia,serif;color:var(--gold);font-size:1.4rem;margin:0 0 0.3rem}
-.mask-box .matchup{color:var(--muted);font-size:0.9rem;margin-bottom:1rem}
-.mask-box .story{color:#d4c4f0;font-size:0.93rem;line-height:1.85}
+.mask-box{background:linear-gradient(160deg,#1a0a30 0%,#2d0a3d 50%,#1a0a30 100%);border:1.5px solid rgba(245,158,11,0.3);border-radius:20px;padding:3rem 2.5rem;margin:2rem 0;position:relative;overflow:hidden}
+.mask-box::after{content:'🎭';font-size:8rem;position:absolute;top:-1rem;right:-1rem;opacity:0.06;transform:rotate(15deg)}
+.mask-box .stip-badge{display:inline-block;background:#dc2626;color:#fff;padding:0.3rem 1.2rem;border-radius:20px;font-weight:700;font-size:0.75rem;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:1.2rem;animation:s08glow 2.2s ease-in-out infinite}
+.mask-box h3{font-family:Georgia,serif;color:var(--gold);font-size:1.5rem;margin:0 0 0.4rem}
+.mask-box .matchup{color:var(--muted);font-size:0.9rem;margin-bottom:1.2rem}
+.mask-box .story{color:#d4c4f0;font-size:0.93rem;line-height:1.9}
 .mask-box .story strong{color:var(--gold-bright)}
 .mask-box .story em{color:var(--purple);font-style:italic}
 
 /* ── Schedule Table ── */
-.schedule-table{width:100%;border-collapse:collapse;font-size:0.9rem}
-.schedule-table th{background:var(--purple-dark);color:var(--gold);padding:0.8rem;text-align:left;font-size:0.8rem;text-transform:uppercase;letter-spacing:1px}
-.schedule-table td{padding:0.8rem;border-bottom:1px solid <a class="tag" onclick="toggleTagSearch(this)" data-content="#2a1540">#2a1540</a>}
-.schedule-table tr:hover td{background:rgba(124,58,237,0.08)}
-.schedule-table .tbd{color:#f59e0b;font-weight:bold}
+.schedule-table{width:100%;border-collapse:collapse;font-size:0.9rem;background:var(--card);border-radius:8px;overflow:hidden}
+.schedule-table th{background:linear-gradient(180deg,#2d0a3d,#1a0a30);color:var(--gold);padding:0.9rem;text-align:left;font-size:0.78rem;text-transform:uppercase;letter-spacing:1px}
+.schedule-table td{padding:0.8rem;border-bottom:1px solid <a class="tag" onclick="toggleTagSearch(this)" data-content="#2a1540">#2a1540</a>;color:#d4c4f0}
+.schedule-table tr:hover td{background:var(--card-hover)}
+.schedule-table .tbd{color:#f59e0b;font-weight:700}
 
 /* ── Draft CTA ── */
-.draft-cta{display:block;background:var(--card-bg);border:2px dashed var(--purple);border-radius:16px;padding:2.5rem 2rem;text-align:center;text-decoration:none;color:var(--text);transition:all 0.3s;margin:1.5rem 0}
-.draft-cta:hover{border-color:var(--gold);background:var(--card-hover)}
-.draft-cta .draft-icon{font-size:3rem;display:block;margin-bottom:0.8rem}
-.draft-cta h3{color:var(--gold);font-size:1.2rem;margin:0 0 0.5rem}
+.draft-cta{display:block;background:var(--card);border:2px dashed var(--purple);border-radius:18px;padding:3rem 2rem;text-align:center;text-decoration:none;color:var(--text);transition:all 0.35s;margin:1.5rem 0}
+.draft-cta:hover{border-color:var(--gold);background:var(--card-hover);transform:translateY(-3px)}
+.draft-cta .draft-icon{font-size:3.5rem;display:block;margin-bottom:1rem}
+.draft-cta h3{color:var(--gold);font-size:1.3rem;margin:0 0 0.5rem}
 .draft-cta p{color:var(--muted);font-size:0.9rem;margin:0}
+.draft-cta strong{color:var(--gold-bright)}
 
 /* ── Manager Cards ── */
-.manager-strip{display:flex;justify-content:center;gap:2rem;margin:2rem 0;flex-wrap:wrap;position:relative;z-index:1}
+.manager-strip{display:flex;justify-content:center;gap:2.5rem;margin:2rem 0;flex-wrap:wrap;position:relative;z-index:1}
 .manager-card{text-align:center;transition:transform 0.3s}
 .manager-card:hover{transform:translateY(-5px)}
-.manager-card img{width:90px;height:90px;border-radius:50%;object-fit:cover;border:3px solid transparent;transition:all 0.3s}
-.manager-card.mm img{border-color:var(--red);box-shadow:0 0 20px rgba(239,68,68,0.3)}
-.manager-card.srr img{border-color:var(--green);box-shadow:0 0 20px rgba(34,197,94,0.3)}
-.manager-card.sns img{border-color:var(--blue);box-shadow:0 0 20px rgba(59,130,246,0.3)}
-.manager-card:hover img{box-shadow:0 0 30px rgba(245,158,11,0.35)}
-.manager-card .name{font-size:0.85rem;font-weight:bold;margin-top:0.5rem}
-.manager-card .role{font-size:0.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+.manager-card img{width:90px;height:90px;border-radius:50%;object-fit:cover;border:3px solid transparent;transition:all 0.35s}
+.manager-card.mm img{border-color:var(--red);box-shadow:0 0 22px rgba(239,68,68,0.3)}
+.manager-card.srr img{border-color:var(--green);box-shadow:0 0 22px rgba(34,197,94,0.3)}
+.manager-card.sns img{border-color:var(--blue);box-shadow:0 0 22px rgba(59,130,246,0.3)}
+.manager-card:hover img{box-shadow:0 0 35px rgba(245,158,11,0.35)}
+.manager-card .name{font-size:0.85rem;font-weight:700;margin-top:0.5rem}
+.manager-card .role{font-size:0.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:1.5px}
 
-@media(max-width:768px){.faction-grid{grid-template-columns:1fr}.s08-hero h1{font-size:2rem}.mask-box{padding:1.5rem}}
+@media(max-width:768px){.faction-grid{grid-template-columns:1fr}.s08-hero h1{font-size:2rem}.mask-box{padding:1.5rem}.s08-hero-content{padding:0}}
 </style>
 <div class="s08-hero">
   <div class="spot l"></div><div class="spot c"></div><div class="spot r"></div>
@@ -189,17 +190,17 @@
     <span class="s08-tag">Three Factions · One Champion</span>
 <p></p><div class="manager-strip"><br>
 <div class="manager-card mm"><br>
-<img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkovic.png"><br>
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkovic.png" loading="lazy"><br>
 <div class="name" style="color:#ef4444">Philipp Brunkovic</div><br>
 <div class="role">MM</div><br>
 </div><br>
 <div class="manager-card srr"><br>
-<img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png"><br>
-<div class="name" style="color:#22c55e">Pascal LePas</div><br>
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png" loading="lazy"><br>
+<div class="name" style="color:#22c55e">Pascal LePas 🎭</div><br>
 <div class="role">SRR</div><br>
 </div><br>
 <div class="manager-card sns"><br>
-<img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png"><br>
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" loading="lazy"><br>
 <div class="name" style="color:#3b82f6">Hendrique Delafuente</div><br>
 <div class="role">SnS</div><br>
 </div><br>
@@ -242,14 +243,14 @@
     <p class="story">
       In the most unusual stipulation in Choke Slam history, <strong>Pascal LePas</strong> put his identity on the line against <strong>Owen Hart</strong>.
       Owen won. Pascal lost — and with it, his face.<br><br>
-      <em>Season 8 will see Pascal LePas compete under a mask.</em> 
-      The world knows who he is. But in Choke Slam Wrestling, a Masked Hero must earn his name back — 
+      <em>Season 8 sees Pascal LePas compete under a mask.</em>
+      The world knows who he is. But in Choke Slam Wrestling, a Masked Hero must earn his name back —
       <strong>one match at a time.</strong>
     </p>
   </div>
 </div>
 <div class="s08-section">
-  <h2>📅 Schedule</h2>
+  <h2>📅 Season Schedule</h2>
   <table class="schedule-table">
     <thead><tr><th>#</th><th>Event</th><th>Date</th><th>Arena</th><th>Status</th></tr></thead>
     <tbody>
@@ -265,17 +266,17 @@
   <a class="draft-cta" href="/choke-slam-wrestling/s08/draft/">
     <span class="draft-icon">📋</span>
     <h3>Complete Draft Rankings</h3>
-    <p>134 wrestlers · 5 tiers · Cagematch ratings · Win/Loss records — <strong>View Now</strong></p>
+    <p>134 wrestlers · 5 salary tiers · Cagematch ratings · Win/Loss records — <strong>View Now</strong></p>
   </a>
 </div>
 <script>
 (function(){
   var c=document.getElementById('s08-parts');
-  for(var i=0;i<35;i++){
+  for(var i=0;i<40;i++){
     var p=document.createElement('div');p.className='s08-particle';
     p.style.left=Math.random()*100+'%';
-    p.style.animationDelay=Math.random()*6+'s';
-    p.style.animationDuration=(3+Math.random()*5)+'s';
+    p.style.animationDelay=Math.random()*8+'s';
+    p.style.animationDuration=(3+Math.random()*6)+'s';
     c.appendChild(p);
   }
 })();

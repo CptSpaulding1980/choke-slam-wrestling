@@ -164,7 +164,7 @@
   <text x="312" y="725" class="inset-label">Hawai&#699;i</text>
   <circle cx="988.9" cy="283.6" r="30" fill="#e63946" opacity="0.12" filter="url(#strongGlow)"/>
   <circle cx="853.5" cy="259.8" r="30" fill="#f4a261" opacity="0.12" filter="url(#strongGlow)"/>
-  <circle cx="122.0" cy="345.0" r="30" fill="#2a9d8f" opacity="0.12" filter="url(#strongGlow)"/>
+  <circle cx="125.0" cy="335.0" r="30" fill="#2a9d8f" opacity="0.12" filter="url(#strongGlow)"/>
   <circle cx="532.2" cy="707.5" r="30" fill="#e9c46a" opacity="0.12" filter="url(#strongGlow)"/>
   <g id="markers">
   <g class="marker-group" data-org="PWA" transform="translate(988.9,283.6)" style="cursor:pointer">
@@ -180,7 +180,7 @@
     <circle class="marker-dot" r="9" fill="#f4a261" stroke="#fff" stroke-width="2"/>
     <text class="marker-label" y="-18" text-anchor="middle" fill="#f4a261" font-size="11" font-weight="700" stroke="#0a0a1a" stroke-width="3" paint-order="stroke">CW</text>
   </g>
-  <g class="marker-group" data-org="PNCW" transform="translate(140.5,340.2)" style="cursor:pointer">
+  <g class="marker-group" data-org="PNCW" transform="translate(125.0,335.0)" style="cursor:pointer">
     <circle class="pulse-ring" r="16" fill="none" stroke="#2a9d8f" stroke-width="2" opacity="0.7"/>
     <circle class="pulse-ring delay" r="16" fill="none" stroke="#2a9d8f" stroke-width="1.5" opacity="0.4"/>
     <circle class="marker-dot" r="9" fill="#2a9d8f" stroke="#fff" stroke-width="2"/>
@@ -203,7 +203,7 @@
 
 </div>
 <script>
-const ORGS={"PWA":{"name":"Professional Wrestling Association","abbr":"PWA","color":"#e63946","hq":"Boston, Massachusetts","founded":"2018","style":"American Independent","championship":"PWA Heavyweight Championship","roster":"ca. 35 Wrestlers","website":"https://www.pwa-wrestling.com","note":"Eine der fuehrenden Independent-Promotions in Neuengland.","logo":"z_Images/PWA_1982-1989.png"},"CW":{"name":"Championship Wrestling","abbr":"CW","color":"#f4a261","hq":"Toronto, Ontario, Kanada","founded":"2010","style":"Canadian Style / Sports Entertainment","championship":"CW World Heavyweight Title","roster":"ca. 50 Wrestlers","website":"https://www.championshipwrestling.ca","note":"Groesste kanadische Wrestling-Promotion mit landesweiter TV-Praesenz.","logo":"z_Images/CWC.png"},"PNCW":{"name":"Pacific North Championship Wrestling","abbr":"PNCW","color":"#2a9d8f","hq":"San Francisco, Kalifornien","founded":"2015","style":"West Coast Lucha / Strong Style","championship":"PNCW Pacific Championship","roster":"ca. 40 Wrestlers","website":"https://www.pncw-wrestling.com","note":"Fusion aus Lucha Libre und Japanese Strong Style an der Westkueste.","logo":"z_Images/PNCW.png"},"AULL":{"name":"Asociacion Universal de Lucha Libre","abbr":"AULL","color":"#e9c46a","hq":"Ciudad de Mexico, Mexiko","founded":"1981","style":"Lucha Libre","championship":"AULL World Title","roster":"ca. 200 Luchadores","website":"https://www.aull-luchalibre.mx","note":"Traditionelle mexikanische Lucha-Libre-Organisation mit jahrzehntelanger Geschichte.","logo":"z_Images/AULL.png"}};
+const ORGS={"PWA":{"name":"Professional Wrestling Association","abbr":"PWA","color":"#e63946","hq":"Boston, Massachusetts","founded":"1982","style":"American Independent","championship":"PWA World Championship","roster":"ca. 35 Wrestlers","website":"https://www.pwa-wrestling.com","note":"Eine der fuehrenden Independent-Promotions in Neuengland.","logo":"z_Images/PWA_1982-1989.png"},"CW":{"name":"Championship Wrestling","abbr":"CW","color":"#f4a261","hq":"Toronto, Ontario, Kanada","founded":"2010","style":"Canadian Style / Sports Entertainment","championship":"CW World Heavyweight Title","roster":"ca. 50 Wrestlers","website":"https://www.championshipwrestling.ca","note":"Groesste kanadische Wrestling-Promotion mit landesweiter TV-Praesenz.","logo":"z_Images/CWC.png"},"PNCW":{"name":"Pacific North Championship Wrestling","abbr":"PNCW","color":"#2a9d8f","hq":"San Francisco, Kalifornien","founded":"2015","style":"West Coast Lucha / Strong Style","championship":"PNCW Pacific Championship","roster":"ca. 40 Wrestlers","website":"https://www.pncw-wrestling.com","note":"Fusion aus Lucha Libre und Japanese Strong Style an der Westkueste.","logo":"z_Images/PNCW.png"},"AULL":{"name":"Asociacion Universal de Lucha Libre","abbr":"AULL","color":"#e9c46a","hq":"Ciudad de Mexico, Mexiko","founded":"1981","style":"Lucha Libre","championship":"AULL World Title","roster":"ca. 200 Luchadores","website":"https://www.aull-luchalibre.mx","note":"Traditionelle mexikanische Lucha-Libre-Organisation mit jahrzehntelanger Geschichte.","logo":"z_Images/AULL.png"}};
 const card=document.getElementById("info-card"),close=document.getElementById("card-close");
 function esc(s){return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")}
 function posCard(e){const m=14,cw=card.offsetWidth||320,ch=card.offsetHeight||300;let cx=e.clientX+20,cy=e.clientY+20;if(cx+cw>window.innerWidth-m)cx=e.clientX-cw-12;if(cy+ch>window.innerHeight-m)cy=e.clientY-ch-12;if(cx<m)cx=m;if(cy<m)cy=m;card.style.left=cx+"px";card.style.top=cy+"px"}

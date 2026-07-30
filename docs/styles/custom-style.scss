@@ -31,8 +31,8 @@ body,html{background:var(--csw-dark)!important;color:var(--csw-text)!important;f
 .content h3{color:var(--csw-gold);font-size:1.05rem}
 
 /* ── Links — BRIGHT AND CLICKABLE ── */
-.content a,.internal-link{color:var(--csw-red-bright)!important;text-decoration:underline;text-decoration-color:var(--csw-red-bright);text-underline-offset:3px}
-.content a:hover,.internal-link:hover{color:var(--csw-gold)!important;text-decoration-color:var(--csw-gold)}
+.content a,.internal-link,.markdown-rendered .internal-link{color:var(--csw-red-bright)!important;text-decoration:underline!important;text-decoration-color:var(--csw-red-bright);text-underline-offset:3px}
+.content a:hover,.internal-link:hover,.markdown-rendered .internal-link:hover{color:var(--csw-gold)!important;text-decoration-color:var(--csw-gold)}
 
 /* ── Tables ── */
 .content table{width:100%;border-collapse:collapse;margin:1.5rem 0;background:var(--csw-card);border:1px solid var(--csw-border);border-radius:6px;overflow:hidden;font-size:0.88rem}

@@ -145,19 +145,19 @@ body{background:var(--dark);color:#f0e6ff;font-family:-apple-system,BlinkMacSyst
   <div class="faction-card mm" onclick="location.href='/choke-slam-wrestling/s08/'">
     <span class="faction-emoji">🛡️</span>
     <h3 style="color:#ef4444">Militanter Mummenschanz</h3>
-    <p class="manager">Manager: Hendrik</p>
+    <p class="manager">Manager: Philipp Brunkovic</p>
     <p class="stars">⭐ AJ Styles · Chris Jericho · Shawn Michaels<br>Bret Hart · Daniel Bryan · Owen Hart</p>
   </div>
   <div class="faction-card srr" onclick="location.href='/choke-slam-wrestling/s08/'">
     <span class="faction-emoji">⚔️</span>
     <h3 style="color:#22c55e">Saint Rebel Radicalz</h3>
-    <p class="manager">Manager: TBA</p>
+    <p class="manager">Manager: Pascal LePas</p>
     <p class="stars">⭐ Edge · Roman Reigns · Jay White<br>Jon Moxley · Bam Bam · ZSJ</p>
   </div>
   <div class="faction-card sns" onclick="location.href='/choke-slam-wrestling/s08/'">
     <span class="faction-emoji">🍸</span>
     <h3 style="color:#3b82f6">Sweet 'n Sour Elite</h3>
-    <p class="manager">Manager: TBA</p>
+    <p class="manager">Manager: Hendrique Delafuente</p>
     <p class="stars">⭐ Okada · Tanahashi · Sasha Banks<br>Lady Apache · Akira Taue · Kamille</p>
   </div>
 </div>

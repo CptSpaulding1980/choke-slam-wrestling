@@ -22,7 +22,7 @@ body,html{background:var(--csw-dark)!important;color:var(--csw-text)!important;f
 .site-banner{display:none!important}
 .navbar{display:none!important}
 .empty-navbar{display:none!important}
-[data-note-icon]{display:none!important}
+[data-note-icon]:not(a){display:none!important}
 
 /* ── Content ── */
 .content{margin-top:0!important;max-width:900px;margin-left:auto;margin-right:auto;padding:2rem 1.5rem}

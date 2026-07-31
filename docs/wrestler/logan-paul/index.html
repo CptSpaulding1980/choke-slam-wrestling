@@ -14,7 +14,7 @@
     <img loading="lazy" decoding="async" id="csw-banner-img"
          src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
          alt="Choke Slam Wrestling"
-         style="width:100%;max-height:120px;object-fit:cover;display:block;"
+         style="width:100%;max-height:80px;object-fit:cover;object-position:center;display:block;"
          loading="eager">
   </a>
 </header>
@@ -63,9 +63,9 @@
     '/s08/':          'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
   };
   
-  // Highlights page gets a taller banner
+  // Highlights page gets slightly taller banner
   if (path.indexOf('/highlights/') >= 0) {
-    img.style.maxHeight = '180px';
+    img.style.maxHeight = '120px';
   }
   
   // Activate current nav link

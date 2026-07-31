@@ -9,6 +9,14 @@ location: "El Paso, Texas, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
+
+<div style="margin:1rem 0;background:#1a1025;border:1px solid #2a1540;border-radius:8px;padding:1rem;">
+<strong style="color:#f59e0b;">🎬 Highlight: Noam Dar forces the Hulkster to submit  </strong><br><br>
+<video controls style="width:100%;max-width:600px;border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/S05E09_Noam_Dar_forces_the_Hulkster_to_submit__.mp4" type="video/mp4">
+</video>
+</div>
+
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E09_Survivor Series - War Games**
 
 **Date:** 2023-10-09

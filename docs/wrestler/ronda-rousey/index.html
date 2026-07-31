@@ -67,6 +67,14 @@
   if (path.indexOf('/highlights/') >= 0) {
     img.style.maxHeight = '120px';
   }
+
+  // Swap banner for matching section
+  for (var key in banners) {
+    if (path.indexOf(base + key) >= 0) {
+      img.src = banners[key];
+      break;
+    }
+  }
   
   // Activate current nav link
   var links = document.querySelectorAll('.csw-nav-link');

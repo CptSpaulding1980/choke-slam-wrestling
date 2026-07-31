@@ -10,10 +10,10 @@ title: "Video Highlights"
 .hl-hero p{color:var(--muted);font-size:1rem;margin-top:0.5rem}
 .hl-season{margin:2rem 0}
 .hl-season h2{color:var(--red);border-left:3px solid var(--gold);padding-left:0.8rem;font-size:1.2rem;margin:2rem 0 1rem}
-.hl-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1.5rem}
-.hl-card{background:var(--card);border:1px solid var(--border);border-radius:10px;overflow:hidden;transition:transform 0.2s,box-shadow 0.2s}
-.hl-card:hover{transform:translateY(-3px);box-shadow:0 8px 30px rgba(0,0,0,0.4);border-color:var(--gold)}
-.hl-card video{width:100%;display:block;background:#000}
+.hl-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.5rem}
+.hl-card video{width:100%;display:block;background:#000;max-height:220px;object-fit:cover}
+.hl-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.5rem}
+.hl-card video{width:100%;display:block;background:#000;max-height:220px;object-fit:cover}
 .hl-card .info{padding:0.8rem 1rem}
 .hl-card .info .title{color:var(--gold);font-weight:bold;font-size:0.9rem;margin-bottom:0.3rem}
 .hl-card .info .meta{color:var(--muted);font-size:0.75rem}
@@ -27,7 +27,7 @@ title: "Video Highlights"
 </style>
 
 <div class="hl-hero">
-  <h1>🎬 Video Highlights</h1>
+  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Highlights_Banner.png" alt="Video Highlights" style="max-width:100%;max-height:100px;border-radius:8px;">
   <p>Full Events · Match Clips · Legendary Moments</p>
 </div>
 

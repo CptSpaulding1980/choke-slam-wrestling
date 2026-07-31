@@ -5,12 +5,12 @@ title: Randy Orton
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Randy_Orton.png
-matches: 14
-wins: 7
-losses: 4
+matches: 16
+wins: 8
+losses: 5
 draws: 3
 win_percent: 50.0
-avg_rating: 88.93
+avg_rating: 89.0
 ---
 
 # Randy Orton
@@ -20,12 +20,12 @@ avg_rating: 88.93
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 14 | 7 | 4 | 3 | 50.0% | 88.93 |
+| 16 | 8 | 5 | 3 | 50.0% | 89.00 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/randy-orton_stats.png" width="200"> | **❌✅⚪️⚪️⚪️**<br>**Draw:** Round of 16: Steve Austin vs. Randy Orton in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Win:** Saint Rebel Radicalz collide - Choke Slam World Championship: Big Van Vader  vs. Randy Orton (c) in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br>**Loss:** Randy Orton vs. Hulk Hogan in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br> | **Nemesis:** [[Wrestler/Jerry Lawler\|Jerry Lawler]]<br>**Partner:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Best Match:** 100% vs. Threeway Fiasko im Käfig - Cage Match: The Undertaker vs. Sid Vicious vs. Randy Orton |
+| <img src="/img/charts/randy-orton_stats.png" width="200"> | **⚪️⚪️⚪️✅❌**<br>**Loss:** Best 2 out of 3 Falls: Randy Orton vs. SANADA in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Win:** Satoshi Kojima vs. Randy Orton vs. The Miz in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Draw:** Round of 16: Steve Austin vs. Randy Orton in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br> | **Nemesis:** [[Wrestler/Jerry Lawler\|Jerry Lawler]]<br>**Partner:** [[Wrestler/Samoa Joe\|Samoa Joe]]<br>**Best Match:** 100% vs. Threeway Fiasko im Käfig - Cage Match: The Undertaker vs. Sid Vicious vs. Randy Orton |
 
 ## Häufigste Gegner
 - [[Wrestler/Jerry Lawler\|Jerry Lawler]] (4x)
@@ -43,7 +43,7 @@ avg_rating: 88.93
 
 ## Top Matches
 - 100%: Threeway Fiasko im Käfig - Cage Match: [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/Randy Orton\|Randy Orton]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
+- 100%: [[Wrestler/Satoshi Kojima\|Satoshi Kojima]] vs. [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/The Miz\|The Miz]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
 - 98%: [[Wrestler/Mr. Perfect\|Mr. Perfect]] vs. [[Wrestler/Randy Orton\|Randy Orton]] in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)
 - 93%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Randy Orton\|Randy Orton]] & [[Wrestler/Mansoor\|Mansoor]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 93%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
-- 92%: [[Choke Slam World Championship]]: [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Jerry Lawler\|Jerry Lawler]] (c) in [[Events/2020-06-10 - S02E10_Dubai - After Show Cash In 2\|S02E10_Dubai - After Show Cash In 2]] (2020-06-10)

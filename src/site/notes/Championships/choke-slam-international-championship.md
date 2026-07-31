@@ -8,24 +8,24 @@ title: Choke Slam International Championship
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_International_Championship.png" width="700">
 
 ## 👑 Aktuelle Champions (Singles)
-**[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]**
+**[[Wrestler/Masahiro Chono\|Masahiro Chono]]**
 
 ## 📊 Statistiken
 <table>
 <thead><tr><th>Kategorie</th><th>Wert</th></tr></thead>
 <tbody>
-<tr><td><strong>Insgesamt Regentschaften</strong></td><td>15</td></tr>
-<tr><td><strong>Verschiedene Champions</strong></td><td>13</td></tr>
+<tr><td><strong>Insgesamt Regentschaften</strong></td><td>16</td></tr>
+<tr><td><strong>Verschiedene Champions</strong></td><td>14</td></tr>
 <tr><td><strong>Vakante Phasen</strong></td><td>0</td></tr>
 <tr><td><strong>Erster Champion</strong></td><td>[[Wrestler/AJ Styles\|AJ Styles]] (2020-09-07)</td></tr>
-<tr><td><strong>⌀ Regentschaftsdauer</strong></td><td>148 Tage</td></tr>
+<tr><td><strong>⌀ Regentschaftsdauer</strong></td><td>143 Tage</td></tr>
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Lance Storm\|Lance Storm]] (281 Tage)</td></tr>
-<tr><td><strong>Kürzeste Regentschaft</strong></td><td>[[Wrestler/Bob Backlund\|Bob Backlund]] (8 Tage)</td></tr>
+<tr><td><strong>Kürzeste Regentschaft</strong></td><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]] (1 Tage)</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/AJ Styles\|AJ Styles]] (2x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Christian Cage\|Christian Cage]] (1 Verteidigungen)</td></tr>
-<tr><td><strong>Titelmatches gesamt</strong></td><td>21</td></tr>
-<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>6 (29%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] — Tag 75 🔥</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>22</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>6 (27%)</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]] — Tag 1 🔥</td></tr>
 </tbody>
 </table>
 
@@ -45,7 +45,8 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]]</td><td>1</td><td>1</td><td>79 Tage</td><td>79 Tage</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>1</td><td>0</td><td>200 Tage</td><td>200 Tage</td></tr>
-<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>1</td><td>75 Tage</td><td>75 Tage</td></tr>
+<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>1</td><td>77 Tage</td><td>77 Tage</td></tr>
+<tr><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]]</td><td>1</td><td>0</td><td>1 Tage</td><td>1 Tage</td></tr>
 </tbody>
 </table>
 
@@ -67,6 +68,7 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]]</td><td>2025-06-03</td><td>[[Events/2025-06-03 - S07E01_Brave new World\|2025-06-03 - S07E01_Brave new World]]</td><td>2025-08-21</td><td>79 Tage</td><td>1</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>2025-08-21</td><td>[[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]</td><td>2025-10-27</td><td>67 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>2025-10-27</td><td>[[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]</td><td>2026-05-15</td><td>200 Tage</td><td>0</td></tr>
-<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>Current</td><td>aktuell</td><td>1</td></tr>
+<tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>2026-07-31</td><td>77 Tage</td><td>1</td></tr>
+<tr><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]]</td><td>2026-07-31</td><td>[[Events/2026-07-31 - S08E01_Genesis\|2026-07-31 - S08E01_Genesis]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
 </tbody>
 </table>

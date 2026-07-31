@@ -5,12 +5,12 @@ title: Kazuchika Okada
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kazuchika_Okada.png
-matches: 87
-wins: 56
+matches: 90
+wins: 59
 losses: 24
 draws: 7
-win_percent: 64.4
-avg_rating: 84.7
+win_percent: 65.6
+avg_rating: 84.98
 ---
 
 # Kazuchika Okada
@@ -20,12 +20,12 @@ avg_rating: 84.7
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 87 | 56 | 24 | 7 | 64.4% | 84.70 |
+| 90 | 59 | 24 | 7 | 65.6% | 84.98 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **❌❌✅❌❌**<br>**Loss:** Choke Slam Tag Team Championship: Sweet 'n Sour Allstars vs. Saint Rebel Radicalz (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Trios Tournament: Saint Rebel Radicalz vs. Pinnacle in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Trios Tournament: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
+| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **❌❌✅✅✅**<br>**Win:** Money in the Bank Match in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Win:** Lumberjack: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Win:** Best 2 out of 3 Falls: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Loss:** Choke Slam Tag Team Championship: Sweet 'n Sour Allstars vs. Saint Rebel Radicalz (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (12x)

@@ -22,18 +22,18 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 ## 📅 Die letzten Events
 | Datum | Show | Main Event |
 |---|---|---|
+| 2026-07-31 | [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] | Falls Count Anywhere - Choke Slam World Championship: Yokozuna vs. Steve Austin (c) |
 | 2026-06-23 | [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] | Choke Slam World Championship: Roman Reigns vs. Steve Austin (c) |
 | 2026-06-16 | [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] | Final: Christian Cage vs. Tetsuya Naito |
 | 2026-05-15 | [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] | Choke Slam World Championship: Daniel Bryan vs. Steve Austin (c) |
 | 2026-05-01 | [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] | Final: Hiroshi Tanahashi vs. Daniel Bryan |
-| 2026-03-16 | [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] | Royal Rumble |
 
 ## 🏆 Aktuelle Champions
 | | Titel | Champion |
 |---|---|---|
 | 👥 | [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | **[[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]** |
-| 🏆 | [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | **[[Wrestler/Steve Austin\|Steve Austin]]** |
-| 🏆 | [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | **[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]** |
+| 🏆 | [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | **[[Wrestler/Yokozuna\|Yokozuna]]** |
+| 🏆 | [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | **[[Wrestler/Masahiro Chono\|Masahiro Chono]]** |
 | 👩 | [[Championships/choke-slam-womens-championship\|Choke Slam Womens Championship]] | **[[Wrestler/Sasha Banks\|Sasha Banks]]** |
 | 👪 | [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | **[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]]** |
 
@@ -43,7 +43,7 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 | [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 15 |
 | [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 13 |
 | [[Wrestler/Bret Hart\|Bret Hart]] | 10 |
-| [[Wrestler/Steve Austin\|Steve Austin]] | 8 |
+| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 8 |
 | [[Wrestler/Sasha Banks\|Sasha Banks]] | 8 |
 
 ---

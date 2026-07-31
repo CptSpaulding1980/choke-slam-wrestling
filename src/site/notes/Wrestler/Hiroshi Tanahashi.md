@@ -5,12 +5,12 @@ title: Hiroshi Tanahashi
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hiroshi_Tanahashi.png
-matches: 72
+matches: 73
 wins: 47
-losses: 15
+losses: 16
 draws: 10
-win_percent: 65.3
-avg_rating: 81.49
+win_percent: 64.4
+avg_rating: 81.62
 ---
 
 # Hiroshi Tanahashi
@@ -20,12 +20,12 @@ avg_rating: 81.49
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 72 | 47 | 15 | 10 | 65.3% | 81.49 |
+| 73 | 47 | 16 | 10 | 64.4% | 81.62 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/hiroshi-tanahashi_stats.png" width="200"> | **✅✅✅❌✅**<br>**Win:** Choke Slam International Championship: Mick Foley vs. Jon Moxley vs. Hiroshi Tanahashi (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Semi Finals: Tetsuya Naito vs. Hiroshi Tanahashi in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Quarter Finals: Johnny TV vs. Hiroshi Tanahashi in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Round of 16: Hiroshi Tanahashi vs. Fallon Henley in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Gauntlet 4 - Choke Slam International Championship: Hiroshi Tanahashi vs. Chris Jericho (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
+| <img src="/img/charts/hiroshi-tanahashi_stats.png" width="200"> | **✅✅❌✅❌**<br>**Loss:** Choke Slam International Championship: Chris Benoit vs. Matanza Cueto vs. Masahiro Chono vs. Hiroshi Tanahashi (c) in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Win:** Choke Slam International Championship: Mick Foley vs. Jon Moxley vs. Hiroshi Tanahashi (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Semi Finals: Tetsuya Naito vs. Hiroshi Tanahashi in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Quarter Finals: Johnny TV vs. Hiroshi Tanahashi in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Round of 16: Hiroshi Tanahashi vs. Fallon Henley in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
 
 ## Häufigste Gegner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (15x)

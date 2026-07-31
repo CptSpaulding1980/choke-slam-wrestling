@@ -9,26 +9,6 @@ location: "Baltimore, Maryland, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
-<div style="margin:1.5rem 0;background:#1a1025;border:1px solid #2a1540;border-radius:8px;padding:1rem;">
-<strong style="color:#f59e0b;">🎬 Full Event Video</strong><br><br>
-<video controls style="width:100%;border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S06E06_2500204906_2025-06-30_full_event.mp4" type="video/mp4">
-</video>
-<p style="margin:4px 0 0 0;font-size:0.8em;color:#9ca3af;">
-<a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S06E06_2500204906_2025-06-30_full_event.mp4" style="color:#e63946;">📥 Download MP4</a>
-</p>
-</div>
-
-<div style="margin:1.5rem 0;background:#1a1025;border:1px solid #2a1540;border-radius:8px;padding:1rem;">
-<strong style="color:#f59e0b;">🎬 Full Event Video</strong><br><br>
-<video controls style="width:100%;border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S06E06_2500193182_2025-06-30_full_event.mp4" type="video/mp4">
-</video>
-<p style="margin:4px 0 0 0;font-size:0.8em;color:#9ca3af;">
-<a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S06E06_2500193182_2025-06-30_full_event.mp4" style="color:#e63946;">📥 Download MP4</a>
-</p>
-</div>
-
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E06_G1 Climax - Best of the Rest from the Past**
 
 **Date:** 2024-09-09

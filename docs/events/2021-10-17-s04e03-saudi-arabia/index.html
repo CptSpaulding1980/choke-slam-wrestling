@@ -6,20 +6,18 @@
   <title>S04E03_Saudi Arabia — Choke Slam Wrestling</title>
   
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
 <header style="margin:0;padding:0;line-height:0;background:#0a0a0f;">
-  <a href="/choke-slam-wrestling/">
-    <img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
+  <a href="/choke-slam-wrestling/" id="csw-banner-link">
+    <img loading="lazy" decoding="async" id="csw-banner-img"
+         src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
          alt="Choke Slam Wrestling"
          style="width:100%;max-height:120px;object-fit:cover;display:block;"
          loading="eager">
   </a>
 </header>
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-<link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
 
 
 <nav style="background:rgba(10,10,15,0.96);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:2px solid #c41e3a;padding:0.5rem 1rem;position:sticky;top:0;z-index:1000;display:flex;justify-content:center;align-items:center;gap:0.15rem;flex-wrap:wrap;">
@@ -33,59 +31,56 @@
   <a href="/choke-slam-wrestling/s08/"    class="csw-nav-link csw-nav-s08" data-section="s08">S08</a>
 </nav>
 
+<link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
+
 <style>
-  /* Inline nav styles so they load before any external CSS */
   .csw-nav-link {
-    color: #9ca3af;
-    text-decoration: none;
-    padding: 0.45rem 0.85rem;
-    border-radius: 5px;
-    font-size: 0.85rem;
-    font-weight: 500;
-    transition: all 0.2s ease;
-    white-space: nowrap;
+    color: #e0e0e0; text-decoration: none; padding: 0.45rem 0.85rem;
+    border-radius: 5px; font-size: 0.85rem; font-weight: 500;
+    transition: all 0.2s ease; white-space: nowrap;
   }
-  .csw-nav-link:hover {
-    color: #f59e0b;
-    background: rgba(245,158,11,0.08);
-  }
-  .csw-nav-link.active {
-    color: #f59e0b !important;
-    background: rgba(245,158,11,0.12);
-    font-weight: 600;
-  }
-  .csw-nav-s08 {
-    color: #f59e0b !important;
-    font-weight: 700;
-    border: 1px solid rgba(245,158,11,0.3);
-    border-radius: 6px;
-  }
-  .csw-nav-s08:hover {
-    background: rgba(245,158,11,0.15);
-    box-shadow: 0 0 12px rgba(245,158,11,0.2);
-  }
-  @media (max-width: 480px) {
-    .csw-nav-link {
-      font-size: 0.75rem;
-      padding: 0.35rem 0.5rem;
-    }
-  }
+  .csw-nav-link:hover { color: #f59e0b; background: rgba(196,30,58,0.1); }
+  .csw-nav-link.active { color: #f59e0b !important; background: rgba(196,30,58,0.15); font-weight: 600; }
+  .csw-nav-s08 { color: #f59e0b !important; font-weight: 700; }
+  .csw-nav-s08:hover { background: rgba(245,158,11,0.15); }
 </style>
 
 <script>
-  (function() {
-    var path = window.location.pathname;
-    var links = document.querySelectorAll('.csw-nav-link');
-    links.forEach(function(a) {
-      // Skip home for prefix matching (it matches everything)
-      var section = a.getAttribute('data-section');
-      if (section === 'home' && (path === '/choke-slam-wrestling/' || path === '/choke-slam-wrestling/index.html')) {
-        a.classList.add('active');
-      } else if (section !== 'home' && path.indexOf('/' + section + '/') !== -1) {
-        a.classList.add('active');
-      }
-    });
-  })();
+// Dynamic banner per section
+(function(){
+  var path = window.location.pathname;
+  var base = '/choke-slam-wrestling';
+  var img = document.getElementById('csw-banner-img');
+  
+  // Banner mapping: URL path → banner image
+  var banners = {
+    '/events/':       'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+    '/wrestler/':     'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+    '/championships/':'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+    '/teams/':        'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+    '/statistiken/':  'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+    '/highlights/':   'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Highlights_Banner.png',
+    '/s08/':          'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+  };
+  
+  // Highlights page gets a taller banner
+  if (path.indexOf('/highlights/') >= 0) {
+    img.style.maxHeight = '180px';
+  }
+  
+  // Activate current nav link
+  var links = document.querySelectorAll('.csw-nav-link');
+  for (var i = 0; i < links.length; i++) {
+    var href = links[i].getAttribute('href');
+    if (href && path.indexOf(href.replace(base,'')) >= 0 && href !== base + '/') {
+      links[i].classList.add('active');
+    }
+  }
+  // Home active if exact match
+  if (path === base + '/' || path === base) {
+    links[0].classList.add('active');
+  }
+})();
 </script>
 
   

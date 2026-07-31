@@ -9,7 +9,13 @@ location: "New York, New York, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
 
-<div style="margin:1.5rem 0;background:#1a1025;border:1px solid #2a1540;border-radius:8px;padding:1rem;">
+<div style="display:flex;gap:1.5rem;align-items:flex-start;flex-wrap:wrap;margin:1.5rem 0;">
+<div style="flex:0 0 300px;min-width:250px;">
+<h2>Poster</h2>
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-23-s07e12-chokeslammania-vii_poster.png" width="300" style="border-radius:8px;">
+</div>
+<div style="flex:1;min-width:300px;">
+<div style="background:#1a1025;border:1px solid #2a1540;border-radius:8px;padding:1rem;">
 <strong style="color:#f59e0b;">🎬 Full Event Video</strong><br><br>
 <video controls style="width:100%;border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E12_2026-06-23_full_event.mp4" type="video/mp4">
@@ -18,10 +24,10 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E12_2026-06-23_full_event.mp4" style="color:#e63946;">📥 Download MP4</a>
 </p>
 </div>
+</div>
+</div>
 
-## Poster
 
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-23-s07e12-chokeslammania-vii_poster.png" width="300" style="border-radius:8px;">
 
 
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E12_ChokeSlamMania VII**

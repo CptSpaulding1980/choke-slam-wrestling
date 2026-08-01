@@ -105,7 +105,7 @@ title: "Choke Slam Wrestling"
       </div>
     </div>
 
-    <a class="s08-badge" href="/choke-slam-wrestling/s08/">⚡ SEASON 8 — COMING SOON ⚡</a>
+    <p><a class="s08-badge" href="/choke-slam-wrestling/s08/">⚡ SEASON 8 — NOW RUNNING ⚡</a></p>
   </div>
 </div>
 

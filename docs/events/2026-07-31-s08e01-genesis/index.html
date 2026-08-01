@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>S08E01_Genesis — Choke Slam Wrestling</title>
+  
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<header style="margin:0;padding:0;line-height:0;background:#0a0a0f;">
+  <a href="/choke-slam-wrestling/" id="csw-banner-link">
+    <img loading="lazy" decoding="async" id="csw-banner-img"
+         src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
+         alt="Choke Slam Wrestling"
+         style="width:100%;max-height:200px;object-fit:cover;object-position:center;display:block;"
+         loading="eager">
+  </a>
+</header>
+
+
+<nav style="background:rgba(10,10,15,0.96);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:2px solid #c41e3a;padding:0.5rem 1rem;position:sticky;top:0;z-index:1000;display:flex;justify-content:center;align-items:center;gap:0.15rem;flex-wrap:wrap;">
+  <a href="/choke-slam-wrestling/"        class="csw-nav-link" data-section="home">Home</a>
+  <a href="/choke-slam-wrestling/events/" class="csw-nav-link" data-section="events">Events</a>
+  <a href="/choke-slam-wrestling/wrestler/" class="csw-nav-link" data-section="roster">Roster</a>
+  <a href="/choke-slam-wrestling/championships/" class="csw-nav-link" data-section="titles">Titles</a>
+  <a href="/choke-slam-wrestling/teams/"  class="csw-nav-link" data-section="teams">Teams</a>
+  <a href="/choke-slam-wrestling/statistiken/" class="csw-nav-link" data-section="stats">Stats</a>
+  <a href="/choke-slam-wrestling/highlights/" class="csw-nav-link" data-section="highlights">🎬 Highlights</a>
+  <a href="/choke-slam-wrestling/s08/"    class="csw-nav-link csw-nav-s08" data-section="s08">S08</a>
+</nav>
+
+<link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
+
+<style>
+  .csw-nav-link {
+    color: #e0e0e0; text-decoration: none; padding: 0.45rem 0.85rem;
+    border-radius: 5px; font-size: 0.85rem; font-weight: 500;
+    transition: all 0.2s ease; white-space: nowrap;
+  }
+  .csw-nav-link:hover { color: #f59e0b; background: rgba(196,30,58,0.1); }
+  .csw-nav-link.active { color: #f59e0b !important; background: rgba(196,30,58,0.15); font-weight: 600; }
+  .csw-nav-s08 { color: #f59e0b !important; font-weight: 700; }
+  .csw-nav-s08:hover { background: rgba(245,158,11,0.15); }
+</style>
+
+<script>
+// Dynamic banner per section
+(function(){
+  var path = window.location.pathname;
+  var base = '/choke-slam-wrestling';
+  var img = document.getElementById('csw-banner-img');
+  
+  // Banner mapping: URL path → banner image
+  var banners = {
+    '/events/':       'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Events_Banner.png',
+    '/wrestler/':     'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Roster_Banner.png',
+    '/championships/':'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Championships_Banner.png',
+    '/teams/':        'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+    '/statistiken/':  'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+    '/highlights/':   'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Highlights_Banner.png',
+    '/s08/':          'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+  };
+  
+  // Highlights page gets slightly taller banner
+  if (path.indexOf('/highlights/') >= 0) {
+    img.style.maxHeight = '220px';
+  }
+
+  // Swap banner for matching section
+  for (var key in banners) {
+    if (path.indexOf(base + key) >= 0) {
+      img.src = banners[key];
+      break;
+    }
+  }
+  
+  // Activate current nav link
+  var links = document.querySelectorAll('.csw-nav-link');
+  for (var i = 0; i < links.length; i++) {
+    var href = links[i].getAttribute('href');
+    if (href && path.indexOf(href.replace(base,'')) >= 0 && href !== base + '/') {
+      links[i].classList.add('active');
+    }
+  }
+  // Home active if exact match
+  if (path === base + '/' || path === base) {
+    links[0].classList.add('active');
+  }
+})();
+</script>
+
+  
+  
+</head>
+<body>
+  <main class="content">
+    <header>
+      
+
+      
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/choke-slam-wrestling/">Home</a>
+        
+          » <a href="/choke-slam-wrestling/events/">Events</a>
+        
+        » <span>S08E01_Genesis</span>
+      </nav>
+    </header>
+
+    
+    
+
+    <p><img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;"><strong>S08E01_Genesis</strong></p>
+<p><strong>Date:</strong> 2026-07-31</p>
+<p><strong>Venue:</strong> Baltimore Arena - Baltimore, Maryland, USA</p>
+<h2 id="matches" tabindex="-1">Matches</h2>
+<table>
+<thead>
+<tr>
+<th>Nr.</th>
+<th>Type</th>
+<th>Match</th>
+<th>Finish</th>
+<th>Time</th>
+<th>Rating</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td></td>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/rosemary/">Rosemary</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/megumi-kudo/">Megumi Kudo</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/madusa/">Madusa</a></td>
+<td>Rosemary won a triple threat match against Megumi Kudo &amp; Madusa in  16:09</td>
+<td>16:09</td>
+<td>★★★¾</td>
+<td>83</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/satoshi-kojima/">Satoshi Kojima</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/randy-orton/">Randy Orton</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/the-miz/">The Miz</a></td>
+<td>Randy Orton won a triple threat match against Satoshi Kojima &amp; The Miz in  23:48</td>
+<td>23:48</td>
+<td>★★★★★</td>
+<td>100</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/steve-austin/">Steve Austin</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sanada/">SANADA</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/yokozuna/">Yokozuna</a></td>
+<td>Yokozuna won a triple threat match against Steve Austin &amp; SANADA in  31:19</td>
+<td>31:19</td>
+<td>★★★★½</td>
+<td>94</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tag Team, Tornado</td>
+<td><a class="internal-link is-unresolved" href="/choke-slam-wrestling/404" target="">Militanter Mummenschanz</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/teams/sweet-n-sour-elite/">Sweet 'n Sour Elite</a></td>
+<td>Masahiro Chono beat Cesaro in 11 Min 16 Sec with a STF</td>
+<td>11:16</td>
+<td>★★★¼</td>
+<td>75</td>
+</tr>
+<tr>
+<td>5</td>
+<td>2 out of 3 Falls</td>
+<td>Best <a class="internal-link is-unresolved" href="/choke-slam-wrestling/404" target="">Sweet 'n Sour Elite</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/teams/saint-rebel-radicalz/">Saint Rebel Radicalz</a></td>
+<td>The Miz beat Cesaro in 44 Min 26 Sec with a Sleeper Hold</td>
+<td>120:120</td>
+<td>★★★★¾</td>
+<td>97</td>
+</tr>
+<tr>
+<td>6</td>
+<td></td>
+<td>Lumberjack: <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/teams/saint-rebel-radicalz/">Saint Rebel Radicalz</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/teams/militanter-mummenschanz/">Militanter Mummenschanz</a></td>
+<td>Kazuchika Okada beat Mankind in 50 Min 28 Sec with a Cobra Hold</td>
+<td>50:28</td>
+<td>★★★★½</td>
+<td>93</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Money in the Bank</td>
+<td>Money in the Bank Match</td>
+<td>Kazuchika Okada won a six-pack scramble match against Chris Benoit, Mankind, Rosemary, Cesaro, &amp;Madusa in  20:18</td>
+<td>20:18</td>
+<td>★★★★¼</td>
+<td>89</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td><a class="internal-link is-unresolved" href="/choke-slam-wrestling/404" target="">Chris Benoit</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/matanza-cueto/">Matanza Cueto</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/masahiro-chono/">Masahiro Chono</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/hiroshi-tanahashi/">Hiroshi Tanahashi</a> (c)</td>
+<td>Masahiro Chono won a four-corners match against Chris Benoit, Matanza Cueto, &amp;Hiroshi Tanahashi in  18:18</td>
+<td>18:18</td>
+<td>★★★★¼</td>
+<td>91</td>
+</tr>
+<tr>
+<td>9</td>
+<td>2 out of 3 Falls</td>
+<td>Best <a class="internal-link is-unresolved" href="/choke-slam-wrestling/404" target="">Randy Orton</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/sanada/">SANADA</a></td>
+<td>SANADA beat Randy Orton in 13 Min 54 Sec with a Japanese Leg Roll Clutch</td>
+<td>31:31</td>
+<td>★★★½</td>
+<td>79</td>
+</tr>
+<tr>
+<td>10</td>
+<td></td>
+<td>Barbed Wire Deathmatch: <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/matanza-cueto/">Matanza Cueto</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/lepunisseur/">LePunisseur</a></td>
+<td>LePunisseur beat Matanza Cueto in 12 Min 47 Sec with a Sleeper Hold</td>
+<td>12:47</td>
+<td>★★★★</td>
+<td>87</td>
+</tr>
+<tr>
+<td>11</td>
+<td></td>
+<td><a class="internal-link is-unresolved" href="/choke-slam-wrestling/404" target="">Yokozuna</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/steve-austin/">Steve Austin</a> (c)</td>
+<td>Yokozuna beat Steve Austin in 13 Min 43 Sec with a BANZAI DROP</td>
+<td>13:43</td>
+<td>★★★★¾</td>
+<td>96</td>
+</tr>
+</tbody>
+</table>
+<h2 id="links" tabindex="-1">Links</h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/">📅 Alle Events</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/">🤼 Roster &amp; Stats</a></li>
+</ul>
+
+
+    
+    
+  </main>
+
+  
+  <footer class="csw-footer">
+    <div class="faction-row">
+      <span style="color:#ef4444;">🛡️ Militanter Mummenschanz</span>
+      <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
+      <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
+    </div>
+    <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
+  </footer>
+
+  
+  
+</body>
+</html>

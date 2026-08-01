@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LePunisseur — Choke Slam Wrestling</title>
+  
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<header style="margin:0;padding:0;line-height:0;background:#0a0a0f;">
+  <a href="/choke-slam-wrestling/" id="csw-banner-link">
+    <img loading="lazy" decoding="async" id="csw-banner-img"
+         src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
+         alt="Choke Slam Wrestling"
+         style="width:100%;max-height:200px;object-fit:cover;object-position:center;display:block;"
+         loading="eager">
+  </a>
+</header>
+
+
+<nav style="background:rgba(10,10,15,0.96);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:2px solid #c41e3a;padding:0.5rem 1rem;position:sticky;top:0;z-index:1000;display:flex;justify-content:center;align-items:center;gap:0.15rem;flex-wrap:wrap;">
+  <a href="/choke-slam-wrestling/"        class="csw-nav-link" data-section="home">Home</a>
+  <a href="/choke-slam-wrestling/events/" class="csw-nav-link" data-section="events">Events</a>
+  <a href="/choke-slam-wrestling/wrestler/" class="csw-nav-link" data-section="roster">Roster</a>
+  <a href="/choke-slam-wrestling/championships/" class="csw-nav-link" data-section="titles">Titles</a>
+  <a href="/choke-slam-wrestling/teams/"  class="csw-nav-link" data-section="teams">Teams</a>
+  <a href="/choke-slam-wrestling/statistiken/" class="csw-nav-link" data-section="stats">Stats</a>
+  <a href="/choke-slam-wrestling/highlights/" class="csw-nav-link" data-section="highlights">🎬 Highlights</a>
+  <a href="/choke-slam-wrestling/s08/"    class="csw-nav-link csw-nav-s08" data-section="s08">S08</a>
+</nav>
+
+<link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
+
+<style>
+  .csw-nav-link {
+    color: #e0e0e0; text-decoration: none; padding: 0.45rem 0.85rem;
+    border-radius: 5px; font-size: 0.85rem; font-weight: 500;
+    transition: all 0.2s ease; white-space: nowrap;
+  }
+  .csw-nav-link:hover { color: #f59e0b; background: rgba(196,30,58,0.1); }
+  .csw-nav-link.active { color: #f59e0b !important; background: rgba(196,30,58,0.15); font-weight: 600; }
+  .csw-nav-s08 { color: #f59e0b !important; font-weight: 700; }
+  .csw-nav-s08:hover { background: rgba(245,158,11,0.15); }
+</style>
+
+<script>
+// Dynamic banner per section
+(function(){
+  var path = window.location.pathname;
+  var base = '/choke-slam-wrestling';
+  var img = document.getElementById('csw-banner-img');
+  
+  // Banner mapping: URL path → banner image
+  var banners = {
+    '/events/':       'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Events_Banner.png',
+    '/wrestler/':     'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Roster_Banner.png',
+    '/championships/':'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Championships_Banner.png',
+    '/teams/':        'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+    '/statistiken/':  'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+    '/highlights/':   'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Highlights_Banner.png',
+    '/s08/':          'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
+  };
+  
+  // Highlights page gets slightly taller banner
+  if (path.indexOf('/highlights/') >= 0) {
+    img.style.maxHeight = '220px';
+  }
+
+  // Swap banner for matching section
+  for (var key in banners) {
+    if (path.indexOf(base + key) >= 0) {
+      img.src = banners[key];
+      break;
+    }
+  }
+  
+  // Activate current nav link
+  var links = document.querySelectorAll('.csw-nav-link');
+  for (var i = 0; i < links.length; i++) {
+    var href = links[i].getAttribute('href');
+    if (href && path.indexOf(href.replace(base,'')) >= 0 && href !== base + '/') {
+      links[i].classList.add('active');
+    }
+  }
+  // Home active if exact match
+  if (path === base + '/' || path === base) {
+    links[0].classList.add('active');
+  }
+})();
+</script>
+
+  
+  
+</head>
+<body>
+  <main class="content">
+    <header>
+      
+
+      
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/choke-slam-wrestling/">Home</a>
+        
+          » <a href="/choke-slam-wrestling/wrestler/">Roster</a>
+        
+        » <span>LePunisseur</span>
+      </nav>
+    </header>
+
+    
+    
+
+    <h1 id="le-punisseur" tabindex="-1">LePunisseur</h1>
+<table><tr><td><img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/LePunisseur.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<h2 id="karriere-statistiken" tabindex="-1">Karriere-Statistiken</h2>
+<table>
+<thead>
+<tr>
+<th>Matches</th>
+<th>Siege</th>
+<th>Niederlagen</th>
+<th>Draws</th>
+<th>Win %</th>
+<th>Ø Rating</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>100.0%</td>
+<td>87.00</td>
+</tr>
+</tbody>
+</table>
+<h3 id="advanced-stats" tabindex="-1">Advanced Stats</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Record</th>
+<th>Form</th>
+<th>Facts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><img loading="lazy" decoding="async" src="/choke-slam-wrestling/img/charts/lepunisseur_stats.png" width="200"></td>
+<td><strong>✅</strong><br><strong>Win:</strong> Barbed Wire Deathmatch: Matanza Cueto vs. LePunisseur in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2026-07-31-s08e01-genesis/">S08E01_Genesis</a> (2026-07-31)<br></td>
+<td><strong>Nemesis:</strong> <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/matanza-cueto/">Matanza Cueto</a><br><strong>Partner:</strong> <a class="internal-link is-unresolved" href="/choke-slam-wrestling/404" target="">Einzelgänger</a><br><strong>Best Match:</strong> 87% vs. Barbed Wire Deathmatch: Matanza Cueto vs. LePunisseur</td>
+</tr>
+</tbody>
+</table>
+<h2 id="haeufigste-gegner" tabindex="-1">Häufigste Gegner</h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/matanza-cueto/">Matanza Cueto</a> (1x)</li>
+</ul>
+<h2 id="top-matches" tabindex="-1">Top Matches</h2>
+<ul>
+<li>87%: Barbed Wire Deathmatch: <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/matanza-cueto/">Matanza Cueto</a> vs. <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/lepunisseur/">LePunisseur</a> in <a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/2026-07-31-s08e01-genesis/">S08E01_Genesis</a> (2026-07-31)</li>
+</ul>
+
+
+    
+    
+  </main>
+
+  
+  <footer class="csw-footer">
+    <div class="faction-row">
+      <span style="color:#ef4444;">🛡️ Militanter Mummenschanz</span>
+      <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
+      <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
+    </div>
+    <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
+  </footer>
+
+  
+  
+</body>
+</html>

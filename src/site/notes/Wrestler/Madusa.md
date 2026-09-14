@@ -25,7 +25,7 @@ avg_rating: 90.33
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/madusa_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Madusa vs. Megumi Kudo vs. Rosemary in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Money in the Bank Match in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Loss:** Rosemary vs. Megumi Kudo vs. Madusa in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br> | **Nemesis:** [[Wrestler/Rosemary\|Rosemary]]<br>**Partner:** [[Wrestler/Rosemary\|Rosemary]]<br>**Best Match:** 99% vs. Madusa vs. Megumi Kudo vs. Rosemary |
+| <img src="/img/charts/madusa_stats.png" width="200"> | **❌❌❌**<br>**Loss:** Madusa vs. Megumi Kudo vs. Rosemary in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Loss:** Money in the Bank Match in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Loss:** Rosemary vs. Megumi Kudo vs. Madusa in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br> | **Nemesis:** [[Wrestler/Rosemary\|Rosemary]]<br>**Partner:** [[Wrestler/Rosemary\|Rosemary]]<br>**Best Match:** 99% vs. Madusa vs. Megumi Kudo vs. Rosemary |
 
 ## Häufigste Gegner
 - [[Wrestler/Rosemary\|Rosemary]] (1x)
@@ -40,6 +40,6 @@ avg_rating: 90.33
 - [[Wrestler/Cesaro\|Cesaro]] (1x)
 
 ## Top Matches
-- 99%: [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Rosemary\|Rosemary]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 99%: [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Rosemary\|Rosemary]] in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
 - 89%: Money in the Bank Match in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
 - 83%: [[Wrestler/Rosemary\|Rosemary]] vs. [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Madusa\|Madusa]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)

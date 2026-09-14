@@ -25,7 +25,7 @@ avg_rating: 98.5
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/nick-jackson_stats.png" width="200"> | **⚪️✅**<br>**Win:** Choke Slam Tag Team Championship - Gauntlet Rumble in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Draw:** Exhibition 3 - Backstage Brawl in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/CM Punk\|CM Punk]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Choke Slam Tag Team Championship - Gauntlet Rumble |
+| <img src="/img/charts/nick-jackson_stats.png" width="200"> | **⚪️✅**<br>**Win:** Choke Slam Tag Team Championship - Gauntlet Rumble in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Draw:** Exhibition 3 - Backstage Brawl in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/CM Punk\|CM Punk]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Choke Slam Tag Team Championship - Gauntlet Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/CM Punk\|CM Punk]] (1x)
@@ -35,5 +35,5 @@ avg_rating: 98.5
 - [[Wrestler/nan\|nan]] (1x)
 
 ## Top Matches
-- 100%: [[Choke Slam Tag Team Championship]] - Gauntlet Rumble in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 100%: [[Choke Slam Tag Team Championship]] - Gauntlet Rumble in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
 - 97%: Exhibition 3 - Backstage Brawl in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)

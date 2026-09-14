@@ -25,7 +25,7 @@ avg_rating: 87.31
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kota-ibushi_stats.png" width="200"> | **❌✅✅❌❌**<br>**Loss:** Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Kazuchika Okada vs. Kota Ibushi in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Steve Austin vs. Kota Ibushi in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Militanter Mummenschanz vs. Kenny Omega & Kota Ibushi in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** D: Roman Reigns vs. Kota Ibushi in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Kenny Omega\|Kenny Omega]]<br>**Best Match:** 104% vs. Kazuchika Okada vs. Kota Ibushi |
+| <img src="/img/charts/kota-ibushi_stats.png" width="200"> | **❌✅✅❌❌**<br>**Loss:** Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Loss:** Kazuchika Okada vs. Kota Ibushi in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Win:** Steve Austin vs. Kota Ibushi in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Win:** Militanter Mummenschanz vs. Kenny Omega & Kota Ibushi in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Loss:** D: Roman Reigns vs. Kota Ibushi in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Kenny Omega\|Kenny Omega]]<br>**Best Match:** 104% vs. Kazuchika Okada vs. Kota Ibushi |
 
 ## Häufigste Gegner
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)
@@ -42,8 +42,8 @@ avg_rating: 87.31
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 
 ## Top Matches
-- 104%: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
-- 102%: [[Wrestler/Kenny Omega\|Kenny Omega]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 104%: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
+- 102%: [[Wrestler/Kenny Omega\|Kenny Omega]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
 - 99%: [[Choke Slam Tag Team Championship]]: [[Wrestler/Joey Janela\|Joey Janela]] vs. [[Wrestler/Kane\|Kane]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Christian Cage\|Christian Cage]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)
 - 99%: [[Wrestler/Asuka\|Asuka]] vs. [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Wrestler/KUSHIDA\|KUSHIDA]]  vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. Bryan Danielson vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)
-- 96%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] & [[Wrestler/Kota Ibushi\|Kota Ibushi]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 96%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] & [[Wrestler/Kota Ibushi\|Kota Ibushi]] in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)

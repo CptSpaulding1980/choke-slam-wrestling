@@ -7,7 +7,7 @@ noteIcon: "🏆"
 
 # 🏆 PWI Power Ranking – S08
 
-> **Stand:** 2026-09-15 00:18 | **Matches:** 26 | **Wrestler geranked:** 20 | **Events:** 2
+> **Stand:** 2026-09-15 00:21 | **Matches:** 26 | **Wrestler geranked:** 20 | **Events:** 2
 
 **Scoring:** PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus
 
@@ -17,13 +17,13 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 | # | Wrestler | W | L | D | Win% | Ø★ | Pts |
 |:-:|----------|:-:|:-:|:-:|----:|----:|----:|
-| 1 | Yokozuna 🏆 | 2 | 3 | 0 | 40% | 91 | 48 |
+| 1 | Kazuchika Okada 🏆 | 6 | 0 | 0 | 100% | 97 | 61 |
 | 2 | Masahiro Chono 🏆 | 2 | 3 | 0 | 40% | 89 | 43 |
-| 3 | Kazuchika Okada | 6 | 0 | 0 | 100% | 97 | 41 |
-| 4 | Will Ospreay | 3 | 0 | 0 | 100% | 89 | 33 |
-| 5 | Kota Ibushi | 2 | 2 | 0 | 50% | 95 | 30 |
-| 6 | The Miz | 2 | 3 | 0 | 40% | 95 | 30 |
-| 7 | SANADA | 3 | 1 | 0 | 75% | 82 | 30 |
+| 3 | Will Ospreay | 3 | 0 | 0 | 100% | 89 | 33 |
+| 4 | Kota Ibushi | 2 | 2 | 0 | 50% | 95 | 30 |
+| 5 | The Miz | 2 | 3 | 0 | 40% | 95 | 30 |
+| 6 | SANADA | 3 | 1 | 0 | 75% | 82 | 30 |
+| 7 | Yokozuna | 2 | 3 | 0 | 40% | 91 | 28 |
 | 8 | Randy Orton | 1 | 2 | 0 | 33% | 92 | 28 |
 | 9 | Megumi Kudo | 1 | 2 | 0 | 33% | 88 | 26 |
 | 10 | Rosemary | 2 | 2 | 0 | 50% | 80 | 26 |
@@ -42,7 +42,7 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 | Titel | Champion | Bonus |
 |-------|----------|:-----:|
-| Choke Slam World Championship | **Yokozuna** | +20 |
+| Choke Slam World Championship | **Kazuchika Okada** | +20 |
 | Choke Slam International Championship | **Masahiro Chono** | +15 |
 | Choke Slam Womens Championship | **Sasha Banks** | +15 |
 | Choke Slam Tag Team Championship | **—** | +10 |
@@ -62,31 +62,31 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 | Datum | Show | Match | Rating | Score |
 |-------|------|-------|--------|------:|
-| 2026-07-31 00:00:00 | S08E02_All In | Kazuchika Okada vs. Kota Ibushi | ★★★★★¼ | 104 |
-| 2026-07-31 00:00:00 | S08E02_All In | The Miz vs. SANADA vs. Satoshi Kojima | ★★★★★¼ | 104 |
-| 2026-07-31 00:00:00 | S08E02_All In | Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada | ★★★★★ | 102 |
+| 2026-09-14 00:00:00 | S08E02_All In | Kazuchika Okada vs. Kota Ibushi | ★★★★★¼ | 104 |
+| 2026-09-14 00:00:00 | S08E02_All In | The Miz vs. SANADA vs. Satoshi Kojima | ★★★★★¼ | 104 |
+| 2026-09-14 00:00:00 | S08E02_All In | Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada | ★★★★★ | 102 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Satoshi Kojima vs. Randy Orton vs. The Miz | ★★★★★ | 100 |
-| 2026-07-31 00:00:00 | S08E02_All In | Choke Slam Tag Team Championship - Gauntlet Rumble | ★★★★★ | 100 |
-| 2026-07-31 00:00:00 | S08E02_All In | Madusa vs. Megumi Kudo vs. Rosemary | ★★★★¾ | 99 |
-| 2026-07-31 00:00:00 | S08E02_All In | Choke Slam World Championship: Kazuchika Okada vs. Yokozuna (c) | ★★★★¾ | 98 |
+| 2026-09-14 00:00:00 | S08E02_All In | Choke Slam Tag Team Championship - Gauntlet Rumble | ★★★★★ | 100 |
+| 2026-09-14 00:00:00 | S08E02_All In | Madusa vs. Megumi Kudo vs. Rosemary | ★★★★¾ | 99 |
+| 2026-09-14 00:00:00 | S08E02_All In | Choke Slam World Championship: Kazuchika Okada vs. Yokozuna (c) | ★★★★¾ | 98 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Best 2 out of 3 Falls: Sweet 'n Sour Elite vs. Saint Rebel Radicalz | ★★★★¾ | 97 |
-| 2026-07-31 00:00:00 | S08E02_All In | Militanter Mummenschanz vs. Kenny Omega & Kota Ibushi | ★★★★¾ | 96 |
+| 2026-09-14 00:00:00 | S08E02_All In | Militanter Mummenschanz vs. Kenny Omega & Kota Ibushi | ★★★★¾ | 96 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Falls Count Anywhere - Choke Slam World Championship: Yokozuna vs. Steve Austin (c) | ★★★★¾ | 96 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Steve Austin vs. SANADA vs. Yokozuna | ★★★★½ | 94 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Lumberjack: Saint Rebel Radicalz vs. Militanter Mummenschanz | ★★★★½ | 93 |
-| 2026-07-31 00:00:00 | S08E02_All In | Beat the Clock: Masahiro Chono vs. Will Ospreay | ★★★★½ | 92 |
-| 2026-07-31 00:00:00 | S08E02_All In | Beat the Clock: Steve Austin vs. Will Ospreay | ★★★★¼ | 91 |
+| 2026-09-14 00:00:00 | S08E02_All In | Beat the Clock: Masahiro Chono vs. Will Ospreay | ★★★★½ | 92 |
+| 2026-09-14 00:00:00 | S08E02_All In | Beat the Clock: Steve Austin vs. Will Ospreay | ★★★★¼ | 91 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Choke Slam International Championship: Chris Benoit vs. Matanza Cueto vs. Masahiro Chono vs. Hiroshi Tanahashi (c) | ★★★★¼ | 91 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Money in the Bank Match | ★★★★¼ | 89 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Barbed Wire Deathmatch: Matanza Cueto vs. LePunisseur | ★★★★ | 87 |
-| 2026-07-31 00:00:00 | S08E02_All In | Beat the Clock: Yokozuna vs. Will Ospreay | ★★★¾ | 83 |
+| 2026-09-14 00:00:00 | S08E02_All In | Beat the Clock: Yokozuna vs. Will Ospreay | ★★★¾ | 83 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Rosemary vs. Megumi Kudo vs. Madusa | ★★★¾ | 83 |
-| 2026-07-31 00:00:00 | S08E02_All In | Stadium Stampede: Saint Rebel Radicalz vs. Penta & Pac & Rey Fenix | ★★★¾ | 82 |
-| 2026-07-31 00:00:00 | S08E02_All In | Choke Slam Womens Championship: Megumi Kudo vs. Sasha Banks (c) | ★★★¾ | 81 |
+| 2026-09-14 00:00:00 | S08E02_All In | Stadium Stampede: Saint Rebel Radicalz vs. Penta & Pac & Rey Fenix | ★★★¾ | 82 |
+| 2026-09-14 00:00:00 | S08E02_All In | Choke Slam Womens Championship: Megumi Kudo vs. Sasha Banks (c) | ★★★¾ | 81 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Best 2 out of 3 Falls: Randy Orton vs. SANADA | ★★★½ | 79 |
-| 2026-07-31 00:00:00 | S08E02_All In | Steve Austin vs. Kota Ibushi | ★★★½ | 78 |
+| 2026-09-14 00:00:00 | S08E02_All In | Steve Austin vs. Kota Ibushi | ★★★½ | 78 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | No DQ Tornado Tag Team: Militanter Mummenschanz vs. Sweet 'n Sour Elite | ★★★¼ | 75 |
-| 2026-07-31 00:00:00 | S08E02_All In | Stadium Stampede: Sweet 'n Sour Elite vs. Pentagon & Rey Fenix & Pac | ★★★¼ | 74 |
+| 2026-09-14 00:00:00 | S08E02_All In | Stadium Stampede: Sweet 'n Sour Elite vs. Pentagon & Rey Fenix & Pac | ★★★¼ | 74 |
 
 ## 📜 Championship History
 
@@ -95,7 +95,7 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | Datum | Winner | Loser | Show |
 |-------|--------|-------|------|
 | 2026-07-31 | **Yokozuna** | Steve Austin | S08E01_Genesis |
-| 2026-07-31 | **Kazuchika Okada** | Yokozuna | S08E02_All In |
+| 2026-09-14 | **Kazuchika Okada** | Yokozuna | S08E02_All In |
 
 ### 🏆 Choke Slam International Championship
 
@@ -107,7 +107,7 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 | Datum | Winner | Loser | Show |
 |-------|--------|-------|------|
-| 2026-07-31 | **Sasha Banks** | Megumi Kudo | S08E02_All In |
+| 2026-09-14 | **Sasha Banks** | Megumi Kudo | S08E02_All In |
 
 ## 📊 Statistiken
 
@@ -120,9 +120,9 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | Kazuchika Okada | 6 |
 | Will Ospreay | 3 |
 | SANADA | 3 |
-| Yokozuna | 2 |
 | Masahiro Chono | 2 |
+| Kota Ibushi | 2 |
 
 ---
 *Auto-generiert vom Choke Slam PWI Power Ranking Generator*
-*Stand: 2026-09-15 00:18*
+*Stand: 2026-09-15 00:21*

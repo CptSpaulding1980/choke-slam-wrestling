@@ -25,7 +25,7 @@ avg_rating: 90.4
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/matanza-cueto_stats.png" width="200"> | **⚪️❌❌⚪️✅**<br>**Win:** Stadium Stampede: Sweet 'n Sour Elite vs. Pentagon & Rey Fenix & Pac in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Draw:** Choke Slam Tag Team Championship - Gauntlet Rumble in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Barbed Wire Deathmatch: Matanza Cueto vs. LePunisseur in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Loss:** Choke Slam International Championship: Chris Benoit vs. Matanza Cueto vs. Masahiro Chono vs. Hiroshi Tanahashi (c) in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Draw:** Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)<br> | **Nemesis:** [[Wrestler/Pac\|Pac]]<br>**Partner:** [[Wrestler/Chris Benoit\|Chris Benoit]]<br>**Best Match:** 100% vs. Aztec Warfare |
+| <img src="/img/charts/matanza-cueto_stats.png" width="200"> | **⚪️❌❌⚪️✅**<br>**Win:** Stadium Stampede: Sweet 'n Sour Elite vs. Pentagon & Rey Fenix & Pac in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Draw:** Choke Slam Tag Team Championship - Gauntlet Rumble in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Loss:** Barbed Wire Deathmatch: Matanza Cueto vs. LePunisseur in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Loss:** Choke Slam International Championship: Chris Benoit vs. Matanza Cueto vs. Masahiro Chono vs. Hiroshi Tanahashi (c) in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Draw:** Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)<br> | **Nemesis:** [[Wrestler/Pac\|Pac]]<br>**Partner:** [[Wrestler/Chris Benoit\|Chris Benoit]]<br>**Best Match:** 100% vs. Aztec Warfare |
 
 ## Häufigste Gegner
 - [[Wrestler/Pac\|Pac]] (2x)
@@ -42,7 +42,7 @@ avg_rating: 90.4
 
 ## Top Matches
 - 100%: Aztec Warfare in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)
-- 100%: [[Choke Slam Tag Team Championship]] - Gauntlet Rumble in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 100%: [[Choke Slam Tag Team Championship]] - Gauntlet Rumble in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
 - 91%: [[Choke Slam International Championship]]: [[Wrestler/Chris Benoit\|Chris Benoit]] vs. [[Wrestler/Matanza Cueto\|Matanza Cueto]] vs. [[Wrestler/Masahiro Chono\|Masahiro Chono]] vs. [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (c) in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
 - 87%: Barbed Wire Deathmatch: [[Wrestler/Matanza Cueto\|Matanza Cueto]] vs. [[Wrestler/LePunisseur\|LePunisseur]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
-- 74%: Stadium Stampede: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Pentagon & [[Wrestler/Rey Fenix\|Rey Fenix]] & [[Wrestler/Pac\|Pac]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 74%: Stadium Stampede: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Pentagon & [[Wrestler/Rey Fenix\|Rey Fenix]] & [[Wrestler/Pac\|Pac]] in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)

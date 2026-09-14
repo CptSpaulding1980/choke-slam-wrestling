@@ -25,7 +25,7 @@ avg_rating: 68.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/penta_stats.png" width="200"> | **❌❌✅**<br>**Win:** Stadium Stampede: Saint Rebel Radicalz vs. Penta & Pac & Rey Fenix in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Stadium Stampede: Sweet 'n Sour Elite vs. Pentagon & Rey Fenix & Pac in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Stadium Stampede: Militanter Mummenschanz vs. Pentagon & Rey Fenix & Pac in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br> | **Nemesis:** [[Wrestler/Mick Foley\|Mick Foley]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 82% vs. Stadium Stampede: Saint Rebel Radicalz vs. Penta & Pac & Rey Fenix |
+| <img src="/img/charts/penta_stats.png" width="200"> | **❌❌✅**<br>**Win:** Stadium Stampede: Saint Rebel Radicalz vs. Penta & Pac & Rey Fenix in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Loss:** Stadium Stampede: Sweet 'n Sour Elite vs. Pentagon & Rey Fenix & Pac in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Loss:** Stadium Stampede: Militanter Mummenschanz vs. Pentagon & Rey Fenix & Pac in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br> | **Nemesis:** [[Wrestler/Mick Foley\|Mick Foley]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 82% vs. Stadium Stampede: Saint Rebel Radicalz vs. Penta & Pac & Rey Fenix |
 
 ## Häufigste Gegner
 - [[Wrestler/Mick Foley\|Mick Foley]] (1x)
@@ -39,6 +39,6 @@ avg_rating: 68.67
 - [[Wrestler/Pac\|Pac]] (3x)
 
 ## Top Matches
-- 82%: Stadium Stampede: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Penta\|Penta]] & [[Wrestler/Pac\|Pac]] & [[Wrestler/Rey Fenix\|Rey Fenix]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
-- 74%: Stadium Stampede: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Pentagon & [[Wrestler/Rey Fenix\|Rey Fenix]] & [[Wrestler/Pac\|Pac]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
-- 50%: Stadium Stampede: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Pentagon & [[Wrestler/Rey Fenix\|Rey Fenix]] & [[Wrestler/Pac\|Pac]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 82%: Stadium Stampede: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Penta\|Penta]] & [[Wrestler/Pac\|Pac]] & [[Wrestler/Rey Fenix\|Rey Fenix]] in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
+- 74%: Stadium Stampede: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Pentagon & [[Wrestler/Rey Fenix\|Rey Fenix]] & [[Wrestler/Pac\|Pac]] in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
+- 50%: Stadium Stampede: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Pentagon & [[Wrestler/Rey Fenix\|Rey Fenix]] & [[Wrestler/Pac\|Pac]] in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)

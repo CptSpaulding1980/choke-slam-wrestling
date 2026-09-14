@@ -22,7 +22,7 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 ## 📅 Die letzten Events
 | Datum | Show | Main Event |
 |---|---|---|
-| 2026-07-31 | [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] | Choke Slam World Championship: Kazuchika Okada vs. Yokozuna (c) |
+| 2026-09-14 | [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] | Choke Slam World Championship: Kazuchika Okada vs. Yokozuna (c) |
 | 2026-07-31 | [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] | Falls Count Anywhere - Choke Slam World Championship: Yokozuna vs. Steve Austin (c) |
 | 2026-06-23 | [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] | Choke Slam World Championship: Roman Reigns vs. Steve Austin (c) |
 | 2026-06-16 | [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] | Final: Christian Cage vs. Tetsuya Naito |

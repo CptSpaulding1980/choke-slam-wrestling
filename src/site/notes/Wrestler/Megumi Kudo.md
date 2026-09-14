@@ -25,7 +25,7 @@ avg_rating: 87.67
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/megumi-kudo_stats.png" width="200"> | **❌✅❌**<br>**Loss:** Choke Slam Womens Championship: Megumi Kudo vs. Sasha Banks (c) in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Madusa vs. Megumi Kudo vs. Rosemary in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Rosemary vs. Megumi Kudo vs. Madusa in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br> | **Nemesis:** [[Wrestler/Rosemary\|Rosemary]]<br>**Partner:** [[Wrestler/Madusa\|Madusa]]<br>**Best Match:** 99% vs. Madusa vs. Megumi Kudo vs. Rosemary |
+| <img src="/img/charts/megumi-kudo_stats.png" width="200"> | **❌✅❌**<br>**Loss:** Choke Slam Womens Championship: Megumi Kudo vs. Sasha Banks (c) in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Win:** Madusa vs. Megumi Kudo vs. Rosemary in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Loss:** Rosemary vs. Megumi Kudo vs. Madusa in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br> | **Nemesis:** [[Wrestler/Rosemary\|Rosemary]]<br>**Partner:** [[Wrestler/Madusa\|Madusa]]<br>**Best Match:** 99% vs. Madusa vs. Megumi Kudo vs. Rosemary |
 
 ## Häufigste Gegner
 - [[Wrestler/Rosemary\|Rosemary]] (2x)
@@ -36,6 +36,6 @@ avg_rating: 87.67
 - [[Wrestler/Madusa\|Madusa]] (1x)
 
 ## Top Matches
-- 99%: [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Rosemary\|Rosemary]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 99%: [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Rosemary\|Rosemary]] in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
 - 83%: [[Wrestler/Rosemary\|Rosemary]] vs. [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Madusa\|Madusa]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
-- 81%: [[Choke Slam Womens Championship]]: [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Sasha Banks\|Sasha Banks]] (c) in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 81%: [[Choke Slam Womens Championship]]: [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Sasha Banks\|Sasha Banks]] (c) in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)

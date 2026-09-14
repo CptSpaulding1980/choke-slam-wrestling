@@ -11,9 +11,9 @@ permalink: /statistiken/top-25-matches/
 | 2021-06-30 | [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev ]] | 105 |
 | 2021-06-30 | [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage]] | 104 |
 | 2024-02-15 | [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|Roman Reigns vs. Dusty Rhodes]] | 104 |
-| 2026-07-31 | [[Events/2026-07-31 - S08E02_All In\|The Miz vs. SANADA vs. Satoshi Kojima]] | 104 |
+| 2026-09-14 | [[Events/2026-09-14 - S08E02_All In\|The Miz vs. SANADA vs. Satoshi Kojima]] | 104 |
 | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|Lady Apache vs. Wardlow vs. Akira Taue]] | 104 |
-| 2026-07-31 | [[Events/2026-07-31 - S08E02_All In\|Kazuchika Okada vs. Kota Ibushi]] | 104 |
+| 2026-09-14 | [[Events/2026-09-14 - S08E02_All In\|Kazuchika Okada vs. Kota Ibushi]] | 104 |
 | 2023-03-29 | [[Events/2023-03-29 - S05E03_Europa - Day 1\|Alternate Three Way: Gigi Dolin vs. Brandon vs. Bull Nakano]] | 104 |
 | 2023-10-09 | [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|Militanter Mummenschanz vs. Saint Rebel Radicalz]] | 103 |
 | 2024-04-10 | [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair]] | 103 |
@@ -27,6 +27,6 @@ permalink: /statistiken/top-25-matches/
 | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|1/8 Finals: Kevin Steen vs. Roman Reigns]] | 102 |
 | 2020-12-29 | [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|Bob Backlund vs. Fit Finlay]] | 102 |
 | 2024-01-29 | [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c)]] | 102 |
-| 2026-07-31 | [[Events/2026-07-31 - S08E02_All In\|Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada]] | 102 |
+| 2026-09-14 | [[Events/2026-09-14 - S08E02_All In\|Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada]] | 102 |
 | 2024-10-22 | [[Events/2024-10-22 - S06E08_Changes II\|Hell in a Cell: Randy Savage vs. The Undertaker vs. Triple H]] | 101 |
 | 2021-06-15 | [[Events/2021-06-15 - S03E11_Sûper Canada!\|Submission: Awesome Kong vs. Ivelisse vs. Randy Savage]] | 101 |

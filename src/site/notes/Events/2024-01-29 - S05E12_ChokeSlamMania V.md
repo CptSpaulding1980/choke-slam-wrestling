@@ -12,7 +12,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E12_ChokeSlamMania V**
 
 **Date:** 2024-01-29
-
 **Venue:** American Airlines Arena - Miami, Florida, USA
 
 ## Matches

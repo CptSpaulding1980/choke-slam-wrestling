@@ -5,12 +5,12 @@ title: Pac
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pac.png
-matches: 23
-wins: 11
-losses: 8
+matches: 26
+wins: 12
+losses: 10
 draws: 4
-win_percent: 47.8
-avg_rating: 86.74
+win_percent: 46.2
+avg_rating: 84.65
 ---
 
 # Pac
@@ -20,12 +20,12 @@ avg_rating: 86.74
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 23 | 11 | 8 | 4 | 47.8% | 86.74 |
+| 26 | 12 | 10 | 4 | 46.2% | 84.65 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/pac_stats.png" width="200"> | **❌❌❌❌✅**<br>**Win:** Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)<br>**Loss:** Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)<br>**Loss:** Saint Rebel Radicalz vs. Pac, Penta El Zero Miedo & Rey Fenix in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] (2025-09-04)<br>**Loss:** Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] (2025-09-04)<br>**Loss:** Claudio Castagnoli & Pac vs. Sweet 'n Sour Elite in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]]<br>**Best Match:** 100% vs. Carat First Round: Pac vs. Eddie Edwards |
+| <img src="/img/charts/pac_stats.png" width="200"> | **❌✅❌❌✅**<br>**Win:** Stadium Stampede: Saint Rebel Radicalz vs. Penta & Pac & Rey Fenix in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Stadium Stampede: Sweet 'n Sour Elite vs. Pentagon & Rey Fenix & Pac in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Stadium Stampede: Militanter Mummenschanz vs. Pentagon & Rey Fenix & Pac in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)<br>**Loss:** Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 100% vs. Carat First Round: Pac vs. Eddie Edwards |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (4x)
@@ -35,11 +35,11 @@ avg_rating: 86.74
 - [[Wrestler/Kenny Omega\|Kenny Omega]] (3x)
 
 ## Häufigste Partner
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (7x)
 - [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (4x)
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
 - [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] (4x)
+- [[Wrestler/Penta\|Penta]] (3x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
-- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (1x)
 
 ## Top Matches
 - 100%: Carat First Round: [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)

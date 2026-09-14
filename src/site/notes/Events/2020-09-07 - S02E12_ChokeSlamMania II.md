@@ -12,7 +12,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S02E12_ChokeSlamMania II**
 
 **Date:** 2020-09-07
-
 **Venue:** Madison Square Garden - New York City, New York, USA
 
 ## Matches

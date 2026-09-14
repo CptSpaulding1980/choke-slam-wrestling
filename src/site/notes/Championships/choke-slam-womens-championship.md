@@ -22,10 +22,10 @@ title: Choke Slam Womens Championship
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Kiana James\|Kiana James]] (327 Tage)</td></tr>
 <tr><td><strong>Kürzeste Regentschaft</strong></td><td>[[Wrestler/Toni Storm\|Toni Storm]] (21 Tage)</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Kiana James\|Kiana James]] (2x)</td></tr>
-<tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Alexa Bliss\|Alexa Bliss]] (1 Verteidigungen)</td></tr>
-<tr><td><strong>Titelmatches gesamt</strong></td><td>11</td></tr>
-<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>2 (18%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Sasha Banks\|Sasha Banks]] — Tag 78 🔥</td></tr>
+<tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Sasha Banks\|Sasha Banks]] (2 Verteidigungen)</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>12</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>3 (25%)</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Sasha Banks\|Sasha Banks]] — Tag 122 🔥</td></tr>
 </tbody>
 </table>
 
@@ -40,7 +40,7 @@ title: Choke Slam Womens Championship
 <tr><td>[[Wrestler/Tiffany Stratton\|Tiffany Stratton]]</td><td>1</td><td>0</td><td>72 Tage</td><td>72 Tage</td></tr>
 <tr><td>[[Wrestler/Fallon Henley\|Fallon Henley]]</td><td>1</td><td>0</td><td>65 Tage</td><td>65 Tage</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>267 Tage</td><td>267 Tage</td></tr>
-<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>1</td><td>78 Tage</td><td>78 Tage</td></tr>
+<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>1</td><td>2</td><td>122 Tage</td><td>122 Tage</td></tr>
 </tbody>
 </table>
 
@@ -56,6 +56,6 @@ title: Choke Slam Womens Championship
 <tr><td>[[Wrestler/Fallon Henley\|Fallon Henley]]</td><td>2025-03-03</td><td>[[Events/2025-03-03 - S06E11_Sweet but Psycho\|2025-03-03 - S06E11_Sweet but Psycho]]</td><td>2025-05-07</td><td>65 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Kiana James\|Kiana James]]</td><td>2025-05-07</td><td>[[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|2025-05-07 - S06E12_ChokeSlamMania VI]]</td><td>2025-08-21</td><td>106 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>2025-08-21</td><td>[[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]</td><td>2026-05-15</td><td>267 Tage</td><td>0</td></tr>
-<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>Current</td><td>aktuell</td><td>1</td></tr>
+<tr><td>[[Wrestler/Sasha Banks\|Sasha Banks]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>Current</td><td>aktuell</td><td>2</td></tr>
 </tbody>
 </table>

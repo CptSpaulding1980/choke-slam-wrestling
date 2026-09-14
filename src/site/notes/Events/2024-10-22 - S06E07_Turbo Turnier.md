@@ -12,7 +12,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E07_Turbo Turnier**
 
 **Date:** 2024-10-22
-
 **Venue:** Dunkin' Donuts Center - Providence, Rhode Island, USA
 
 ## Matches

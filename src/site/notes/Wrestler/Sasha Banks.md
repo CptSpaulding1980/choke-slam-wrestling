@@ -5,12 +5,12 @@ title: Sasha Banks
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sasha_Banks.png
-matches: 22
-wins: 13
+matches: 23
+wins: 14
 losses: 6
 draws: 3
-win_percent: 59.1
-avg_rating: 87.86
+win_percent: 60.9
+avg_rating: 87.57
 ---
 
 # Sasha Banks
@@ -20,12 +20,12 @@ avg_rating: 87.86
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 22 | 13 | 6 | 3 | 59.1% | 87.86 |
+| 23 | 14 | 6 | 3 | 60.9% | 87.57 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sasha-banks_stats.png" width="200"> | **✅✅❌❌✅**<br>**Win:** Choke Slam Womens Championship: Awesome Kong vs. Lady Apache vs. Sasha Banks (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Champion vs. Champion - Non Title: Sasha Banks vs. Steve Austin in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Sweet 'n Sour Elite vs. Fallon Henley, Finn Bálor, & KUSHIDA in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Lady Apache vs. Sasha Banks in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Choke Slam Womens Championship: Sasha Banks vs. Awesome Kong (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Lady Apache\|Lady Apache]]<br>**Partner:** [[Wrestler/Jon Moxley\|Jon Moxley]]<br>**Best Match:** 100% vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks |
+| <img src="/img/charts/sasha-banks_stats.png" width="200"> | **✅❌❌✅✅**<br>**Win:** Choke Slam Womens Championship: Megumi Kudo vs. Sasha Banks (c) in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Choke Slam Womens Championship: Awesome Kong vs. Lady Apache vs. Sasha Banks (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Champion vs. Champion - Non Title: Sasha Banks vs. Steve Austin in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Sweet 'n Sour Elite vs. Fallon Henley, Finn Bálor, & KUSHIDA in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Lady Apache vs. Sasha Banks in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br> | **Nemesis:** [[Wrestler/Lady Apache\|Lady Apache]]<br>**Partner:** [[Wrestler/Jon Moxley\|Jon Moxley]]<br>**Best Match:** 100% vs. Chris Jericho vs. Daniel Bryan vs. Sasha Banks |
 
 ## Häufigste Gegner
 - [[Wrestler/Lady Apache\|Lady Apache]] (6x)

@@ -8,23 +8,23 @@ title: Choke Slam World Championship
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_World_Championship.png" width="700">
 
 ## 👑 Aktuelle Champions (Singles)
-**[[Wrestler/Yokozuna\|Yokozuna]]**
+**[[Wrestler/Kazuchika Okada\|Kazuchika Okada]]**
 
 ## 📊 Statistiken
 <table>
 <thead><tr><th>Kategorie</th><th>Wert</th></tr></thead>
 <tbody>
-<tr><td><strong>Insgesamt Regentschaften</strong></td><td>15</td></tr>
+<tr><td><strong>Insgesamt Regentschaften</strong></td><td>16</td></tr>
 <tr><td><strong>Verschiedene Champions</strong></td><td>14</td></tr>
 <tr><td><strong>Vakante Phasen</strong></td><td>1</td></tr>
 <tr><td><strong>Erster Champion</strong></td><td>[[Wrestler/Ric Flair\|Ric Flair]] (2020-06-08)</td></tr>
-<tr><td><strong>⌀ Regentschaftsdauer</strong></td><td>160 Tage</td></tr>
+<tr><td><strong>⌀ Regentschaftsdauer</strong></td><td>149 Tage</td></tr>
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Roman Reigns\|Roman Reigns]] (612 Tage)</td></tr>
-<tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)</td></tr>
+<tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (3x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Steve Austin\|Steve Austin]] (6 Verteidigungen)</td></tr>
-<tr><td><strong>Titelmatches gesamt</strong></td><td>41</td></tr>
-<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>26 (63%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Yokozuna\|Yokozuna]] — Tag 1 🔥</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>42</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>26 (62%)</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]] — Tag 45 🔥</td></tr>
 </tbody>
 </table>
 
@@ -32,7 +32,7 @@ title: Choke Slam World Championship
 <table>
 <thead><tr><th>Champion</th><th>Regentschaften</th><th>Verteidigungen</th><th>Längste Regentschaft</th><th>Gesamttage</th></tr></thead>
 <tbody>
-<tr><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>2</td><td>2</td><td>100 Tage</td><td>184 Tage</td></tr>
+<tr><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>3</td><td>2</td><td>100 Tage</td><td>229 Tage</td></tr>
 <tr><td>[[Wrestler/Ric Flair\|Ric Flair]]</td><td>1</td><td>0</td><td>0 Tage</td><td>0 Tage</td></tr>
 <tr><td>[[Wrestler/Jerry Lawler\|Jerry Lawler]]</td><td>1</td><td>0</td><td>1 Tage</td><td>1 Tage</td></tr>
 <tr><td>[[Wrestler/Randy Orton\|Randy Orton]]</td><td>1</td><td>2</td><td>126 Tage</td><td>126 Tage</td></tr>
@@ -45,7 +45,7 @@ title: Choke Slam World Championship
 <tr><td>[[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>1</td><td>3</td><td>244 Tage</td><td>244 Tage</td></tr>
 <tr><td>[[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>4</td><td>612 Tage</td><td>612 Tage</td></tr>
 <tr><td>[[Wrestler/Steve Austin\|Steve Austin]]</td><td>1</td><td>6</td><td>302 Tage</td><td>302 Tage</td></tr>
-<tr><td>[[Wrestler/Yokozuna\|Yokozuna]]</td><td>1</td><td>0</td><td>1 Tage</td><td>1 Tage</td></tr>
+<tr><td>[[Wrestler/Yokozuna\|Yokozuna]]</td><td>1</td><td>0</td><td>0 Tage</td><td>0 Tage</td></tr>
 </tbody>
 </table>
 
@@ -68,6 +68,7 @@ title: Choke Slam World Championship
 <tr><td>[[Wrestler/Hulk Hogan\|Hulk Hogan]]</td><td>2023-05-30</td><td>[[Events/2023-05-30 - S05E05_WCSW\|2023-05-30 - S05E05_WCSW]]</td><td>2024-01-29</td><td>244 Tage</td><td>3</td></tr>
 <tr><td>[[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>2024-01-29</td><td>[[Events/2024-01-29 - S05E12_ChokeSlamMania V\|2024-01-29 - S05E12_ChokeSlamMania V]]</td><td>2025-10-02</td><td>612 Tage</td><td>4</td></tr>
 <tr><td>[[Wrestler/Steve Austin\|Steve Austin]]</td><td>2025-10-02</td><td>[[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|2025-10-02 - S07E04 The Iron Chamber - Night 2]]</td><td>2026-07-31</td><td>302 Tage</td><td>6</td></tr>
-<tr><td>[[Wrestler/Yokozuna\|Yokozuna]]</td><td>2026-07-31</td><td>[[Events/2026-07-31 - S08E01_Genesis\|2026-07-31 - S08E01_Genesis]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
+<tr><td>[[Wrestler/Yokozuna\|Yokozuna]]</td><td>2026-07-31</td><td>[[Events/2026-07-31 - S08E01_Genesis\|2026-07-31 - S08E01_Genesis]]</td><td>2026-07-31</td><td>0 Tage</td><td>0</td></tr>
+<tr><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>2026-07-31</td><td>[[Events/2026-07-31 - S08E02_All In\|2026-07-31 - S08E02_All In]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
 </tbody>
 </table>

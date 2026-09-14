@@ -12,7 +12,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E12_ChokeSlamMania III - Andre has a posse - Day 2**
 
 **Date:** 2021-07-26
-
 **Venue:** Arena Armeec - Sofia, Bulgaria
 
 ## Matches

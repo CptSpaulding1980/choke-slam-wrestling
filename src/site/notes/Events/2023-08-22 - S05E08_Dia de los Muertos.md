@@ -12,7 +12,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S05E08_Dia de los Muertos**
 
 **Date:** 2023-08-22
-
 **Venue:** Leon County Civic Center - Tallahassee, Florida, USA
 
 ## Matches

@@ -5,12 +5,12 @@ title: Rey Fenix
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rey_Fenix.png
-matches: 43
-wins: 18
-losses: 16
+matches: 46
+wins: 19
+losses: 18
 draws: 9
-win_percent: 41.9
-avg_rating: 89.3
+win_percent: 41.3
+avg_rating: 87.96
 ---
 
 # Rey Fenix
@@ -20,12 +20,12 @@ avg_rating: 89.3
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 43 | 18 | 16 | 9 | 41.9% | 89.30 |
+| 46 | 19 | 18 | 9 | 41.3% | 87.96 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/rey-fenix_stats.png" width="200"> | **⚪️❌❌❌✅**<br>**Win:** Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)<br>**Loss:** Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)<br>**Loss:** Saint Rebel Radicalz vs. Pac, Penta El Zero Miedo & Rey Fenix in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] (2025-09-04)<br>**Loss:** Sweet 'n Sour Elite vs. Pac, Rey Fenix, & Penta El Zero Miedo in [[Events/2025-09-04 - S07E04_The Iron Chamber - Night 1\|S07E04_The Iron Chamber - Night 1]] (2025-09-04)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br> | **Nemesis:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Partner:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Best Match:** 102% vs. Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix |
+| <img src="/img/charts/rey-fenix_stats.png" width="200"> | **❌✅❌❌✅**<br>**Win:** Stadium Stampede: Saint Rebel Radicalz vs. Penta & Pac & Rey Fenix in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Stadium Stampede: Sweet 'n Sour Elite vs. Pentagon & Rey Fenix & Pac in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Stadium Stampede: Militanter Mummenschanz vs. Pentagon & Rey Fenix & Pac in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Penta El Zero Miedo, Pac & Rey Fenix vs. Militanter Mummenschanz in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)<br>**Loss:** Pete Dunne, Trent Seven & Tyler Bate vs. Rey Fenix, Penta El Zero Miedo & Pac in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)<br> | **Nemesis:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Partner:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Best Match:** 102% vs. Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix |
 
 ## Häufigste Gegner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (7x)
@@ -38,7 +38,7 @@ avg_rating: 89.3
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (12x)
 - [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (10x)
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (9x)
-- [[Wrestler/Pac\|Pac]] (4x)
+- [[Wrestler/Pac\|Pac]] (7x)
 - [[Wrestler/Penta El Zero Miedo\|Penta El Zero Miedo]] (4x)
 
 ## Top Matches

@@ -20,12 +20,12 @@ title: Choke Slam International Championship
 <tr><td><strong>Erster Champion</strong></td><td>[[Wrestler/AJ Styles\|AJ Styles]] (2020-09-07)</td></tr>
 <tr><td><strong>⌀ Regentschaftsdauer</strong></td><td>143 Tage</td></tr>
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Lance Storm\|Lance Storm]] (281 Tage)</td></tr>
-<tr><td><strong>Kürzeste Regentschaft</strong></td><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]] (1 Tage)</td></tr>
+<tr><td><strong>Kürzeste Regentschaft</strong></td><td>[[Wrestler/Bob Backlund\|Bob Backlund]] (8 Tage)</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/AJ Styles\|AJ Styles]] (2x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Christian Cage\|Christian Cage]] (1 Verteidigungen)</td></tr>
 <tr><td><strong>Titelmatches gesamt</strong></td><td>22</td></tr>
 <tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>6 (27%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]] — Tag 1 🔥</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]] — Tag 45 🔥</td></tr>
 </tbody>
 </table>
 
@@ -46,7 +46,7 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>1</td><td>0</td><td>200 Tage</td><td>200 Tage</td></tr>
 <tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>1</td><td>77 Tage</td><td>77 Tage</td></tr>
-<tr><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]]</td><td>1</td><td>0</td><td>1 Tage</td><td>1 Tage</td></tr>
+<tr><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]]</td><td>1</td><td>0</td><td>45 Tage</td><td>45 Tage</td></tr>
 </tbody>
 </table>
 

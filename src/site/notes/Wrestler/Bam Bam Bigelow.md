@@ -5,12 +5,12 @@ title: Bam Bam Bigelow
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bam_Bam_Bigelow.png
-matches: 33
+matches: 34
 wins: 10
 losses: 19
-draws: 4
-win_percent: 30.3
-avg_rating: 89.27
+draws: 5
+win_percent: 29.4
+avg_rating: 89.59
 ---
 
 # Bam Bam Bigelow
@@ -20,19 +20,19 @@ avg_rating: 89.27
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 33 | 10 | 19 | 4 | 30.3% | 89.27 |
+| 34 | 10 | 19 | 5 | 29.4% | 89.59 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bam-bam-bigelow_stats.png" width="200"> | **❌❌❌✅✅**<br>**Win:** Choke Slam Tag Team Championship: Sweet 'n Sour Allstars vs. Saint Rebel Radicalz (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Bam Bam Bigelow vs. Kensuke Sasaki vs. Bret Hart in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Edge vs. Wardlow vs. Bam Bam Bigelow in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br> | **Nemesis:** [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 100% vs. Choke Slam Tag Team Championship: Dalton Castle & Dr. Wagner Jr. vs. Saint Rebel Radicalz (c) |
+| <img src="/img/charts/bam-bam-bigelow_stats.png" width="200"> | **❌❌✅✅⚪️**<br>**Draw:** Choke Slam Tag Team Championship - Gauntlet Rumble in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Choke Slam Tag Team Championship: Sweet 'n Sour Allstars vs. Saint Rebel Radicalz (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Pete Dunne vs. Chris Benoit vs. Sasha Banks vs. Bam Bam Bigelow vs. Bret Hart vs. Edge vs. Bandido in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Bam Bam Bigelow vs. Kensuke Sasaki vs. Bret Hart in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br>**Loss:** Lady Apache vs. Bam Bam Bigelow vs. Chris Jericho in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br> | **Nemesis:** [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]]<br>**Partner:** [[Wrestler/Big Van Vader\|Big Van Vader]]<br>**Best Match:** 100% vs. Choke Slam Tag Team Championship: Dalton Castle & Dr. Wagner Jr. vs. Saint Rebel Radicalz (c) |
 
 ## Häufigste Gegner
 - [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (5x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (4x)
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)
 - [[Wrestler/Lex Luger\|Lex Luger]] (4x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)

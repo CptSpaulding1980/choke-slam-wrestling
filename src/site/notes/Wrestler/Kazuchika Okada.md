@@ -5,12 +5,12 @@ title: Kazuchika Okada
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kazuchika_Okada.png
-matches: 90
-wins: 59
+matches: 94
+wins: 62
 losses: 24
-draws: 7
-win_percent: 65.6
-avg_rating: 84.98
+draws: 8
+win_percent: 66.0
+avg_rating: 85.66
 ---
 
 # Kazuchika Okada
@@ -20,12 +20,12 @@ avg_rating: 84.98
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 90 | 59 | 24 | 7 | 65.6% | 84.98 |
+| 94 | 62 | 24 | 8 | 66.0% | 85.66 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **❌❌✅✅✅**<br>**Win:** Money in the Bank Match in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Win:** Lumberjack: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Win:** Best 2 out of 3 Falls: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Loss:** Choke Slam Tag Team Championship: Sweet 'n Sour Allstars vs. Saint Rebel Radicalz (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
+| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **✅⚪️✅✅✅**<br>**Win:** Choke Slam World Championship: Kazuchika Okada vs. Yokozuna (c) in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Kazuchika Okada vs. Kota Ibushi in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Draw:** Choke Slam Tag Team Championship - Gauntlet Rumble in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Money in the Bank Match in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
 
 ## Häufigste Gegner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (12x)
@@ -43,7 +43,7 @@ avg_rating: 84.98
 
 ## Top Matches
 - 105%: [[Choke Slam World Championship]] (vacant): [[Wrestler/Kurt Angle\|Kurt Angle]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] (2020-10-13)
+- 104%: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 102%: [[Wrestler/Kenny Omega\|Kenny Omega]] vs. [[Wrestler/Kota Ibushi\|Kota Ibushi]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
 - 101%: [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Austin Aries\|Austin Aries]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2021-01-21 - S03E05_Ireland\|S03E05_Ireland]] (2021-01-21)
 - 101%: [[Choke Slam World Championship]]: [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (c) in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
-- 100%: [[Iron Man]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
-- 100%: [[Iron Man]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)

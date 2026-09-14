@@ -12,7 +12,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E04_The Iron Chamber - Night 1**
 
 **Date:** 2025-09-04
-
 **Venue:** Cincinnati Gardens - Cincinnati, Ohio, USA
 
 ## Matches

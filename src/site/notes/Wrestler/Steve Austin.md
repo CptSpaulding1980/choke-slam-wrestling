@@ -5,11 +5,11 @@ title: Steve Austin
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Steve_Austin.png
-matches: 55
+matches: 57
 wins: 17
-losses: 33
+losses: 35
 draws: 5
-win_percent: 30.9
+win_percent: 29.8
 avg_rating: 84.6
 ---
 
@@ -20,12 +20,12 @@ avg_rating: 84.6
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 55 | 17 | 33 | 5 | 30.9% | 84.60 |
+| 57 | 17 | 35 | 5 | 29.8% | 84.60 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/steve-austin_stats.png" width="200"> | **✅✅✅❌❌**<br>**Loss:** Falls Count Anywhere - Choke Slam World Championship: Yokozuna vs. Steve Austin (c) in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Loss:** Steve Austin vs. SANADA vs. Yokozuna in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Win:** Choke Slam World Championship: Roman Reigns vs. Steve Austin (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Choke Slam World Championship: Bret Hart vs. Steve Austin (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Champion vs. Champion - Non Title: Sasha Banks vs. Steve Austin in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
+| <img src="/img/charts/steve-austin_stats.png" width="200"> | **✅❌❌❌❌**<br>**Loss:** Steve Austin vs. Kota Ibushi in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Beat the Clock: Steve Austin vs. Will Ospreay in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Loss:** Falls Count Anywhere - Choke Slam World Championship: Yokozuna vs. Steve Austin (c) in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Loss:** Steve Austin vs. SANADA vs. Yokozuna in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)<br>**Win:** Choke Slam World Championship: Roman Reigns vs. Steve Austin (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br> | **Nemesis:** [[Wrestler/Daniel Bryan\|Daniel Bryan]]<br>**Partner:** [[Wrestler/Akira Taue\|Akira Taue]]<br>**Best Match:** 100% vs. Pre Show: Kazuchika Okada vs. Steve Austin |
 
 ## Häufigste Gegner
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (10x)

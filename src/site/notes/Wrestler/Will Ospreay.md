@@ -5,12 +5,12 @@ title: Will Ospreay
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Will_Ospreay.png
-matches: 11
-wins: 4
+matches: 14
+wins: 7
 losses: 3
 draws: 4
-win_percent: 36.4
-avg_rating: 83.45
+win_percent: 50.0
+avg_rating: 84.57
 ---
 
 # Will Ospreay
@@ -20,19 +20,19 @@ avg_rating: 83.45
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 11 | 4 | 3 | 4 | 36.4% | 83.45 |
+| 14 | 7 | 3 | 4 | 50.0% | 84.57 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/will-ospreay_stats.png" width="200"> | **❌✅❌⚪️✅**<br>**Win:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)<br>**Loss:** D: Gunther vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br>**Win:** D: Toru Yano vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br>**Loss:** D: Kota Ibushi vs. Will Ospreay in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/will-ospreay_stats.png" width="200"> | **⚪️✅✅✅✅**<br>**Win:** Beat the Clock: Yokozuna vs. Will Ospreay in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Beat the Clock: Steve Austin vs. Will Ospreay in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Beat the Clock: Masahiro Chono vs. Will Ospreay in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)<br> | **Nemesis:** [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 100% vs. Reveal Rumble |
 
 ## Häufigste Gegner
 - [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
 - [[Wrestler/Gunther\|Gunther]] (3x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (3x)
 - [[Wrestler/Samoa Joe\|Samoa Joe]] (2x)
 - [[Wrestler/Big Van Vader\|Big Van Vader]] (2x)
-- [[Wrestler/Kevin Owens\|Kevin Owens]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Trent Seven\|Trent Seven]] (1x)
@@ -44,4 +44,4 @@ avg_rating: 83.45
 - 95%: [[Wrestler/Will Ospreay\|Will Ospreay]] vs. [[Wrestler/Isaac Yankem\|Isaac Yankem]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
 - 92%: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Luna Vachon\|Luna Vachon]] vs. [[Wrestler/Big Ryck\|Big Ryck]] vs. [[Wrestler/Kevin Owens\|Kevin Owens]] vs. WALTER vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 92%: [[Royal Rumble]] in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)
-- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
+- 92%: Beat the Clock: [[Wrestler/Masahiro Chono\|Masahiro Chono]] vs. [[Wrestler/Will Ospreay\|Will Ospreay]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)

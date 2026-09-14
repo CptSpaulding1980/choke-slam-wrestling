@@ -12,7 +12,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S04E08_Fan Favourites**
 
 **Date:** 2022-02-21
-
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
 
 ## Matches

@@ -12,7 +12,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S03E09_USA - Day 1 - Cool, Cooler, Icecold**
 
 **Date:** 2021-04-29
-
 **Venue:** Madison Square Garden - New York, New York, USA
 
 ## Matches

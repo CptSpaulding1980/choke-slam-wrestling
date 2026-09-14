@@ -12,7 +12,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S06E06_G1 Climax - Best of the Rest from the Past**
 
 **Date:** 2024-09-09
-
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
 
 ## Matches

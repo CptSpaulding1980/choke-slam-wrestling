@@ -24,7 +24,7 @@ title: Choke Slam World Championship
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Steve Austin\|Steve Austin]] (6 Verteidigungen)</td></tr>
 <tr><td><strong>Titelmatches gesamt</strong></td><td>42</td></tr>
 <tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>26 (62%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]] — Tag 45 🔥</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]] — Tag 46 🔥</td></tr>
 </tbody>
 </table>
 
@@ -32,7 +32,7 @@ title: Choke Slam World Championship
 <table>
 <thead><tr><th>Champion</th><th>Regentschaften</th><th>Verteidigungen</th><th>Längste Regentschaft</th><th>Gesamttage</th></tr></thead>
 <tbody>
-<tr><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>3</td><td>2</td><td>100 Tage</td><td>229 Tage</td></tr>
+<tr><td>[[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>3</td><td>2</td><td>100 Tage</td><td>230 Tage</td></tr>
 <tr><td>[[Wrestler/Ric Flair\|Ric Flair]]</td><td>1</td><td>0</td><td>0 Tage</td><td>0 Tage</td></tr>
 <tr><td>[[Wrestler/Jerry Lawler\|Jerry Lawler]]</td><td>1</td><td>0</td><td>1 Tage</td><td>1 Tage</td></tr>
 <tr><td>[[Wrestler/Randy Orton\|Randy Orton]]</td><td>1</td><td>2</td><td>126 Tage</td><td>126 Tage</td></tr>

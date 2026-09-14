@@ -7,7 +7,7 @@ noteIcon: "🏆"
 
 # 🏆 PWI Power Ranking – S08
 
-> **Stand:** 2026-09-14 23:55 | **Matches:** 26 | **Wrestler geranked:** 20 | **Events:** 2
+> **Stand:** 2026-09-15 00:18 | **Matches:** 26 | **Wrestler geranked:** 20 | **Events:** 2
 
 **Scoring:** PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus
 
@@ -17,13 +17,13 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 | # | Wrestler | W | L | D | Win% | Ø★ | Pts |
 |:-:|----------|:-:|:-:|:-:|----:|----:|----:|
-| 1 | Kazuchika Okada 🏆 | 6 | 0 | 0 | 100% | 97 | 61 |
+| 1 | Yokozuna 🏆 | 2 | 3 | 0 | 40% | 91 | 48 |
 | 2 | Masahiro Chono 🏆 | 2 | 3 | 0 | 40% | 89 | 43 |
-| 3 | Will Ospreay | 3 | 0 | 0 | 100% | 89 | 33 |
-| 4 | Kota Ibushi | 2 | 2 | 0 | 50% | 95 | 30 |
-| 5 | The Miz | 2 | 3 | 0 | 40% | 95 | 30 |
-| 6 | SANADA | 3 | 1 | 0 | 75% | 82 | 30 |
-| 7 | Yokozuna | 2 | 3 | 0 | 40% | 91 | 28 |
+| 3 | Kazuchika Okada | 6 | 0 | 0 | 100% | 97 | 41 |
+| 4 | Will Ospreay | 3 | 0 | 0 | 100% | 89 | 33 |
+| 5 | Kota Ibushi | 2 | 2 | 0 | 50% | 95 | 30 |
+| 6 | The Miz | 2 | 3 | 0 | 40% | 95 | 30 |
+| 7 | SANADA | 3 | 1 | 0 | 75% | 82 | 30 |
 | 8 | Randy Orton | 1 | 2 | 0 | 33% | 92 | 28 |
 | 9 | Megumi Kudo | 1 | 2 | 0 | 33% | 88 | 26 |
 | 10 | Rosemary | 2 | 2 | 0 | 50% | 80 | 26 |
@@ -42,7 +42,7 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 | Titel | Champion | Bonus |
 |-------|----------|:-----:|
-| Choke Slam World Championship | **Kazuchika Okada** | +20 |
+| Choke Slam World Championship | **Yokozuna** | +20 |
 | Choke Slam International Championship | **Masahiro Chono** | +15 |
 | Choke Slam Womens Championship | **Sasha Banks** | +15 |
 | Choke Slam Tag Team Championship | **—** | +10 |
@@ -120,9 +120,9 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | Kazuchika Okada | 6 |
 | Will Ospreay | 3 |
 | SANADA | 3 |
+| Yokozuna | 2 |
 | Masahiro Chono | 2 |
-| Kota Ibushi | 2 |
 
 ---
 *Auto-generiert vom Choke Slam PWI Power Ranking Generator*
-*Stand: 2026-09-14 23:55*
+*Stand: 2026-09-15 00:18*

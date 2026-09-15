@@ -1,50 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/teams/militanter-mummenschanz/","title":"Militanter Mummenschanz","noteIcon":""}
+dg-publish: true
+permalink: /teams/militanter-mummenschanz/
+title: Militanter Mummenschanz
 ---
 
+# Militanter Mummenschanz
 
-# **Militanter Mummenschanz**
-
-<table>
-<tr>
-<td><b>Manager:</b>
-<div><a href="https://cptspaulding1980.github.io/choke-slam-wrestling/manager/philipp-brunkovic/" class="champ-card">
-	  <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkovic.png" width="300" alt="Philipp Brunkhorst"></a>
-</div>
-</td>
-<td><b>Logo:</b>
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images//ChokeSlam_MM.png" width="280" alt="Militanter Mummenschanz"></td>
-</tr>
-</table>
-
-## **Entrance Theme:**
-<audio controls>
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/Militanter_Mummenschanz.mp3" type="audio/mpeg">
-</audio>
-
-## **Team**
-<div class="championship-grid">
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/daniel-bryan" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Daniel_Bryan.png" alt="Daniel Bryan">
-    <span>Daniel Bryan</span>
+<div class="team-profile">
+  <a class="team-manager" href="/choke-slam-wrestling/manager/philipp-brunkovic/">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkovic.png" alt="Philipp Brunkovic">
+    <span><small>Manager</small>Philipp Brunkovic</span>
   </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/bret-hart" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bret_Hart.png" alt="Bret Hart">
-    <span>Bret Hart</span>
-  </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/lady-apache" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lady_Apache.png" alt="Lady Apache">
-    <span>Lady Apache</span>
-  </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/hiroshi-tanahashi" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hiroshi_Tanahashi.png" alt="Hiroshi Tanahashi">
-    <span>Hiroshi Tanahashi</span>
-  </a>
-  <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/wrestler/wardlow" class="champ-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wardlow.png" alt="Wardlow">
-    <span>Wardlow</span>
-  </a>
+  <img class="team-logo" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_MM.png" alt="Militanter Mummenschanz Logo">
 </div>
 
+## Entrance Theme
+<audio controls preload="none"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/Militanter_Mummenschanz.mp3" type="audio/mpeg"></audio>
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Current Champions</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Title</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+## Aktuelles Team
+<!-- AUTO TEAM ROSTER START -->
+<div class="team-roster-grid">
+  <a href="/choke-slam-wrestling/wrestler/mick-foley/" class="team-member-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mick_Foley.png" alt="Mick Foley">
+    <span>Mick Foley</span>
+  </a>
+  <a href="/choke-slam-wrestling/wrestler/randy-orton/" class="team-member-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Randy_Orton.png" alt="Randy Orton">
+    <span>Randy Orton</span>
+  </a>
+  <a href="/choke-slam-wrestling/wrestler/masahiro-chono/" class="team-member-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Masahiro_Chono.png" alt="Masahiro Chono">
+    <span>Masahiro Chono</span>
+  </a>
+  <a href="/choke-slam-wrestling/wrestler/sanada/" class="team-member-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/SANADA.png" alt="SANADA">
+    <span>SANADA</span>
+  </a>
+  <a href="/choke-slam-wrestling/wrestler/rosemary/" class="team-member-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rosemary.png" alt="Rosemary">
+    <span>Rosemary</span>
+  </a>
+</div>
+<!-- AUTO TEAM ROSTER END -->

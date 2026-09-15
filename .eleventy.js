@@ -9,6 +9,7 @@ const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+const { splitWikiLink } = require("./src/helpers/wikilinkUtils");
 const {
   userMarkdownSetup,
   userEleventySetup,
@@ -148,7 +149,7 @@ module.exports = function (eleventyConfig) {
       str &&
       str.replace(/\[\[(.*?\|.*?)\]\]/g, (match, p1) => {
         if (p1.includes("],[") || p1.includes('"$"')) return match;
-        const [fileLink, linkTitle] = p1.split("|");
+        const [fileLink, linkTitle] = splitWikiLink(p1);
         return getAnchorLink(fileLink, linkTitle);
       })
     );

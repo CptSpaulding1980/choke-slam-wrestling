@@ -1,0 +1,35 @@
+{
+  "sheet_id": "12IlPkUuXUVPZj7fSz_HmyaLmjhZWLY0C",
+  "sheet_gid": 828908512,
+  "tab_name": "Choke Slam Wrestling S8",
+  "source_name": "S08_Wrestler-Liste.xlsx",
+  "source_modified": "2026-09-14T21:42:17.619Z",
+  "colour_to_manager": {
+    "#FF9900": "Pascal",
+    "#EAD1DC": "Phillipp",
+    "#61D836": "Hendrik"
+  },
+  "teams": {
+    "Militanter Mummenschanz": [
+      "Mick Foley",
+      "Randy Orton",
+      "Masahiro Chono",
+      "SANADA",
+      "Rosemary"
+    ],
+    "Saint Rebel Radicalz": [
+      "Kazuchika Okada",
+      "Chris Benoit",
+      "Yokozuna",
+      "Megumi Kudo",
+      "The Miz"
+    ],
+    "Sweet 'n Sour Elite": [
+      "Steve Austin",
+      "Cesaro",
+      "Matanza Cueto",
+      "Madusa",
+      "Satoshi Kojima"
+    ]
+  }
+}

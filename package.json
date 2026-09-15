@@ -10,7 +10,10 @@
         "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
         "build:sass": "sass src/site/styles:docs/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
-        "build": "npm-run-all get-theme build:*"
+        "build": "npm-run-all get-theme build:*",
+        "test": "node --test tests/*.test.js && /usr/bin/python3 -m unittest discover -s tests -p 'test_*.py'",
+        "sync:site": "/usr/bin/python3 scripts/csw_site_sync.py sync --repo .",
+        "validate:links": "/usr/bin/python3 scripts/csw_site_sync.py validate-built --repo ."
     },
     "keywords": [],
     "author": "",

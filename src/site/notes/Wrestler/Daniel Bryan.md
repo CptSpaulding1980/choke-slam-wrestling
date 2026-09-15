@@ -18,6 +18,15 @@ avg_rating: 85.34
 > ℹ️ **Auch bekannt als:** Bryan Danielson
 
 <table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Daniel_Bryan.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
+<!-- AUTO CHAMPION STATUS START -->
+<aside class="champion-status" aria-label="Aktueller Championstatus">
+  <span class="champion-status-label">Aktueller Champion</span>
+  <div class="champion-status-titles"><a class="champion-title-link" href="/choke-slam-wrestling/championships/choke-slam-trios-championship/">Choke Slam Trios Championship</a></div>
+</aside>
+<!-- AUTO CHAMPION STATUS END -->
+
+
+
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |

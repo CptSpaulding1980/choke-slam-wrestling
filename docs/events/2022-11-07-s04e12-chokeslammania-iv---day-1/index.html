@@ -1,122 +1,67 @@
+
+
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>S04E12_ChokeSlamMania IV - Day 1 — Choke Slam Wrestling</title>
-  
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-<header style="margin:0;padding:0;line-height:0;background:#0a0a0f;">
-  <a href="/choke-slam-wrestling/" id="csw-banner-link">
-    <img loading="lazy" decoding="async" id="csw-banner-img"
-         src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
-         alt="Choke Slam Wrestling"
-         style="width:100%;max-height:200px;object-fit:cover;object-position:center;display:block;"
-         loading="eager">
-  </a>
-</header>
+  <meta name="theme-color" content="#101113">
+  <title>S04E12_ChokeSlamMania IV - Day 1 – Choke Slam Wrestling</title>
+  <link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
 
 
-<nav style="background:rgba(10,10,15,0.96);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:2px solid #c41e3a;padding:0.5rem 1rem;position:sticky;top:0;z-index:1000;display:flex;justify-content:center;align-items:center;gap:0.15rem;flex-wrap:wrap;">
-  <a href="/choke-slam-wrestling/"        class="csw-nav-link" data-section="home">Home</a>
-  <a href="/choke-slam-wrestling/events/" class="csw-nav-link" data-section="events">Events</a>
-  <a href="/choke-slam-wrestling/wrestler/" class="csw-nav-link" data-section="roster">Roster</a>
-  <a href="/choke-slam-wrestling/championships/" class="csw-nav-link" data-section="titles">Titles</a>
-  <a href="/choke-slam-wrestling/teams/"  class="csw-nav-link" data-section="teams">Teams</a>
-  <a href="/choke-slam-wrestling/statistiken/" class="csw-nav-link" data-section="stats">Stats</a>
-  <a href="/choke-slam-wrestling/highlights/" class="csw-nav-link" data-section="highlights">🎬 Highlights</a>
-  <a href="/choke-slam-wrestling/s08/"    class="csw-nav-link csw-nav-s08" data-section="s08">S08</a>
-</nav>
-
-<link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
-
-<style>
-  .csw-nav-link {
-    color: #e0e0e0; text-decoration: none; padding: 0.45rem 0.85rem;
-    border-radius: 5px; font-size: 0.85rem; font-weight: 500;
-    transition: all 0.2s ease; white-space: nowrap;
-  }
-  .csw-nav-link:hover { color: #f59e0b; background: rgba(196,30,58,0.1); }
-  .csw-nav-link.active { color: #f59e0b !important; background: rgba(196,30,58,0.15); font-weight: 600; }
-  .csw-nav-s08 { color: #f59e0b !important; font-weight: 700; }
-  .csw-nav-s08:hover { background: rgba(245,158,11,0.15); }
-</style>
-
-<script>
-// Dynamic banner per section
-(function(){
-  var path = window.location.pathname;
-  var base = '/choke-slam-wrestling';
-  var img = document.getElementById('csw-banner-img');
-  
-  // Banner mapping: URL path → banner image
-  var banners = {
-    '/events/':       'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Events_Banner.png',
-    '/wrestler/':     'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Roster_Banner.png',
-    '/championships/':'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Championships_Banner.png',
-    '/teams/':        'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
-    '/statistiken/':  'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
-    '/highlights/':   'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Highlights_Banner.png',
-    '/s08/':          'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
-  };
-  
-  // Highlights page gets slightly taller banner
-  if (path.indexOf('/highlights/') >= 0) {
-    img.style.maxHeight = '220px';
-  }
-
-  // Swap banner for matching section
-  for (var key in banners) {
-    if (path.indexOf(base + key) >= 0) {
-      img.src = banners[key];
-      break;
-    }
-  }
-  
-  // Activate current nav link
-  var links = document.querySelectorAll('.csw-nav-link');
-  for (var i = 0; i < links.length; i++) {
-    var href = links[i].getAttribute('href');
-    if (href && path.indexOf(href.replace(base,'')) >= 0 && href !== base + '/') {
-      links[i].classList.add('active');
-    }
-  }
-  // Home active if exact match
-  if (path === base + '/' || path === base) {
-    links[0].classList.add('active');
-  }
-})();
-</script>
-
-  
-  
 </head>
-<body>
-  <main class="content">
-    <header>
-      
+<body class="csw-site section-events">
 
-      
-      <nav class="breadcrumbs" aria-label="Breadcrumb">
-        <a href="/choke-slam-wrestling/">Home</a>
-        
-          » <a href="/choke-slam-wrestling/events/">Events</a>
-        
-        » <span>S04E12_ChokeSlamMania IV - Day 1</span>
-      </nav>
-    </header>
+<a class="skip-link" href="#main-content">Zum Inhalt springen</a>
+<header class="csw-masthead">
+  <div class="brand-row">
+    <a class="csw-brand" href="/choke-slam-wrestling/" aria-label="Choke Slam Wrestling – Startseite">
+      <img loading="lazy" decoding="async" class="brand-logo" src="/choke-slam-wrestling/img/csw-official-logo.jpg" alt="" width="64" height="64">
+      <span>Choke Slam Wrestling<small>Private Fantasy-Liga · EST. 2018</small></span>
+    </a>
+    <a class="season-link" href="/choke-slam-wrestling/s08/">Die Liga. Season 8. <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="csw-banner">
+    <img id="csw-banner-img" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Events_Banner.png" alt="" width="1536" height="200" fetchpriority="high" loading="eager">
+  </div>
+</header>
+<nav class="csw-navigation" aria-label="Hauptnavigation">
+  <div class="nav-inner">
+    <button class="menu-toggle" type="button" aria-controls="csw-menu" aria-expanded="false" hidden>Menü <span aria-hidden="true">＋</span></button>
+    <ul id="csw-menu" class="csw-menu">
 
-    
-    
+      <li><a href="/choke-slam-wrestling/">Start</a></li>
 
-    <p><img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;"><strong>S04E12_ChokeSlamMania IV - Day 1</strong></p>
+      <li><a href="/choke-slam-wrestling/events/" aria-current="page">Events</a></li>
+
+      <li><a href="/choke-slam-wrestling/wrestler/">Roster</a></li>
+
+      <li><a href="/choke-slam-wrestling/championships/">Titel</a></li>
+
+      <li><a href="/choke-slam-wrestling/teams/">Teams</a></li>
+
+      <li><a href="/choke-slam-wrestling/statistiken/">Statistiken</a></li>
+
+      <li><a href="/choke-slam-wrestling/highlights/">Highlights</a></li>
+
+      <li><a href="/choke-slam-wrestling/s08/">Season 8</a></li>
+
+    </ul>
+  </div>
+</nav>
+  <main class="content" id="main-content" tabindex="-1">
+
+      <nav class="breadcrumbs" aria-label="Brotkrumennavigation"><a href="/choke-slam-wrestling/">Start</a><span aria-hidden="true">/</span><a href="/choke-slam-wrestling/events/">Events</a></nav>
+      <p class="eyebrow">CSW / Events</p>
+      <article class="note-content">
+        <h1>S04E12_ChokeSlamMania IV - Day 1</h1>
+        <p><img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;"><strong>S04E12_ChokeSlamMania IV - Day 1</strong></p>
 <p><strong>Date:</strong> 2022-11-07<br>
 <strong>Venue:</strong> Madison Square Garden - New York City, New York, USA</p>
 <h2 id="matches" tabindex="-1">Matches</h2>
-<table>
+<div class="table-scroll" role="region" aria-label="Datentabelle, horizontal scrollbar" tabindex="0"><table>
 <thead>
 <tr>
 <th>Nr.</th>
@@ -292,29 +237,23 @@
 <td>97</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h2 id="links" tabindex="-1">Links</h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/events/">📅 Alle Events</a></li>
 <li><a class="internal-link" target="" data-note-icon="" href="/choke-slam-wrestling/wrestler/">🤼 Roster &amp; Stats</a></li>
 </ul>
 
+      </article>
 
-    
-    
   </main>
-
-  
   <footer class="csw-footer">
-    <div class="faction-row">
-      <span style="color:#ef4444;">🛡️ Militanter Mummenschanz</span>
-      <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
-      <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
-    </div>
-    <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
-  </footer>
+  <div class="footer-inner"><div><a class="footer-brand" href="/choke-slam-wrestling/">Choke Slam Wrestling</a><p>Private Fantasy-Liga · EST. 2018</p></div>
+    <nav aria-label="Teams im Footer"><a href="/choke-slam-wrestling/teams/militanter-mummenschanz/">Militanter Mummenschanz</a><a href="/choke-slam-wrestling/teams/saint-rebel-radicalz/">Special Response Rangers</a><a href="/choke-slam-wrestling/teams/sweet-n-sour-elite/">Sweet &#39;n Sour Elite</a></nav>
+    <a href="/choke-slam-wrestling/s08/">Season 8 →</a>
+  </div>
+</footer>
+<script src="/choke-slam-wrestling/scripts/csw-navigation.js" defer></script>
 
-  
-  
 </body>
 </html>

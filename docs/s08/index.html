@@ -1,194 +1,63 @@
+
+
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Season 8 — Choke Slam Wrestling — Choke Slam Wrestling</title>
-  
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-<header style="margin:0;padding:0;line-height:0;background:#0a0a0f;">
-  <a href="/choke-slam-wrestling/" id="csw-banner-link">
-    <img loading="lazy" decoding="async" id="csw-banner-img"
-         src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
-         alt="Choke Slam Wrestling"
-         style="width:100%;max-height:200px;object-fit:cover;object-position:center;display:block;"
-         loading="eager">
-  </a>
-</header>
+  <meta name="theme-color" content="#101113">
+  <title>Season 8 — Choke Slam Wrestling – Choke Slam Wrestling</title>
+  <link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
 
 
-<nav style="background:rgba(10,10,15,0.96);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:2px solid #c41e3a;padding:0.5rem 1rem;position:sticky;top:0;z-index:1000;display:flex;justify-content:center;align-items:center;gap:0.15rem;flex-wrap:wrap;">
-  <a href="/choke-slam-wrestling/"        class="csw-nav-link" data-section="home">Home</a>
-  <a href="/choke-slam-wrestling/events/" class="csw-nav-link" data-section="events">Events</a>
-  <a href="/choke-slam-wrestling/wrestler/" class="csw-nav-link" data-section="roster">Roster</a>
-  <a href="/choke-slam-wrestling/championships/" class="csw-nav-link" data-section="titles">Titles</a>
-  <a href="/choke-slam-wrestling/teams/"  class="csw-nav-link" data-section="teams">Teams</a>
-  <a href="/choke-slam-wrestling/statistiken/" class="csw-nav-link" data-section="stats">Stats</a>
-  <a href="/choke-slam-wrestling/highlights/" class="csw-nav-link" data-section="highlights">🎬 Highlights</a>
-  <a href="/choke-slam-wrestling/s08/"    class="csw-nav-link csw-nav-s08" data-section="s08">S08</a>
-</nav>
-
-<link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
-
-<style>
-  .csw-nav-link {
-    color: #e0e0e0; text-decoration: none; padding: 0.45rem 0.85rem;
-    border-radius: 5px; font-size: 0.85rem; font-weight: 500;
-    transition: all 0.2s ease; white-space: nowrap;
-  }
-  .csw-nav-link:hover { color: #f59e0b; background: rgba(196,30,58,0.1); }
-  .csw-nav-link.active { color: #f59e0b !important; background: rgba(196,30,58,0.15); font-weight: 600; }
-  .csw-nav-s08 { color: #f59e0b !important; font-weight: 700; }
-  .csw-nav-s08:hover { background: rgba(245,158,11,0.15); }
-</style>
-
-<script>
-// Dynamic banner per section
-(function(){
-  var path = window.location.pathname;
-  var base = '/choke-slam-wrestling';
-  var img = document.getElementById('csw-banner-img');
-  
-  // Banner mapping: URL path → banner image
-  var banners = {
-    '/events/':       'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Events_Banner.png',
-    '/wrestler/':     'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Roster_Banner.png',
-    '/championships/':'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Championships_Banner.png',
-    '/teams/':        'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
-    '/statistiken/':  'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
-    '/highlights/':   'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Highlights_Banner.png',
-    '/s08/':          'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
-  };
-  
-  // Highlights page gets slightly taller banner
-  if (path.indexOf('/highlights/') >= 0) {
-    img.style.maxHeight = '220px';
-  }
-
-  // Swap banner for matching section
-  for (var key in banners) {
-    if (path.indexOf(base + key) >= 0) {
-      img.src = banners[key];
-      break;
-    }
-  }
-  
-  // Activate current nav link
-  var links = document.querySelectorAll('.csw-nav-link');
-  for (var i = 0; i < links.length; i++) {
-    var href = links[i].getAttribute('href');
-    if (href && path.indexOf(href.replace(base,'')) >= 0 && href !== base + '/') {
-      links[i].classList.add('active');
-    }
-  }
-  // Home active if exact match
-  if (path === base + '/' || path === base) {
-    links[0].classList.add('active');
-  }
-})();
-</script>
-
-  
-  
 </head>
-<body>
-  <main class="content">
-    <header>
-      
+<body class="csw-site section-s08">
 
-      
-      <nav class="breadcrumbs" aria-label="Breadcrumb">
-        <a href="/choke-slam-wrestling/">Home</a>
-        
-        » <span>Season 8 — Choke Slam Wrestling</span>
-      </nav>
-    </header>
+<a class="skip-link" href="#main-content">Zum Inhalt springen</a>
+<header class="csw-masthead">
+  <div class="brand-row">
+    <a class="csw-brand" href="/choke-slam-wrestling/" aria-label="Choke Slam Wrestling – Startseite">
+      <img loading="lazy" decoding="async" class="brand-logo" src="/choke-slam-wrestling/img/csw-official-logo.jpg" alt="" width="64" height="64">
+      <span>Choke Slam Wrestling<small>Private Fantasy-Liga · EST. 2018</small></span>
+    </a>
+    <a class="season-link" href="/choke-slam-wrestling/s08/">Die Liga. Season 8. <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="csw-banner">
+    <img id="csw-banner-img" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png" alt="" width="1536" height="200" fetchpriority="high" loading="eager">
+  </div>
+</header>
+<nav class="csw-navigation" aria-label="Hauptnavigation">
+  <div class="nav-inner">
+    <button class="menu-toggle" type="button" aria-controls="csw-menu" aria-expanded="false" hidden>Menü <span aria-hidden="true">＋</span></button>
+    <ul id="csw-menu" class="csw-menu">
 
-    
-    
+      <li><a href="/choke-slam-wrestling/">Start</a></li>
 
-    <style>
-/* ═══════════ S08 SEASON PAGE ═══════════ */
-:root{--gold:#f59e0b;--gold-bright:#fbbf24;--purple:#7c3aed;--purple-dark:#4b0082;--dark:#0a0a0f;--card:#1a1025;--card-hover:#251535;--red:#ef4444;--green:#22c55e;--blue:#3b82f6;--text:#f0e6ff;--muted:#9ca3af}
+      <li><a href="/choke-slam-wrestling/events/">Events</a></li>
 
-/* ── Hero ── */
-.s08-hero{position:relative;min-height:50vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;background:radial-gradient(ellipse at top,#1a0a30 0%,#0a0a0f 60%);padding:4rem 1.5rem 5rem;border-bottom:2px solid var(--gold)}
-.s08-hero::before{content:'';position:absolute;inset:0;background:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect fill="none" stroke="%234b0082" stroke-width="0.3" opacity="0.2"/><line x1="0" y1="33" x2="100" y2="33" stroke="%234b0082" stroke-width="0.2" opacity="0.1"/><line x1="0" y1="66" x2="100" y2="66" stroke="%234b0082" stroke-width="0.2" opacity="0.1"/></svg>');animation:drift 25s linear infinite}
-@keyframes drift{0%{transform:translateY(0)}100%{transform:translateY(-100px)}}
-.s08-hero .spot{position:absolute;width:400px;height:70vh;top:-5%;background:radial-gradient(ellipse at top,rgba(245,158,11,0.05),transparent 70%);pointer-events:none}
-.s08-hero .spot.l{left:15%;animation:pulse 4s ease-in-out infinite}
-.s08-hero .spot.c{left:50%;transform:translateX(-50%);animation:pulse 5s ease-in-out 1s infinite}
-.s08-hero .spot.r{right:15%;animation:pulse 4.5s ease-in-out 2s infinite}
-@keyframes pulse{0%,100%{opacity:0.15}50%{opacity:0.5}}
-.s08-particle{position:absolute;width:2px;height:2px;background:var(--gold);border-radius:50%;animation:rise 3s ease-out infinite;opacity:0}
-@keyframes rise{0%{transform:translateY(55vh) scale(0);opacity:1}100%{transform:translateY(-5vh) scale(2.5);opacity:0}}
-.s08-hero-content{position:relative;z-index:1;max-width:700px}
-.s08-hero h1{font-family:Georgia,serif;font-size:clamp(2.5rem,6vw,4rem);background:linear-gradient(180deg,#fbbf24,#f59e0b,#b45309);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin:0 0 0.8rem;letter-spacing:3px;border:none;padding:0}
-.s08-tag{display:block;color:var(--purple);font-size:1.05rem;letter-spacing:6px;text-transform:uppercase;margin-bottom:2rem}
-.s08-cta{display:inline-block;background:linear-gradient(135deg,#f59e0b,#d97706);color:#0a0a0f;font-weight:800;padding:0.7rem 2rem;border-radius:40px;font-size:1.05rem;text-decoration:none;animation:s08glow 2.2s ease-in-out infinite;transition:transform 0.2s;letter-spacing:0.5px}
-.s08-cta:hover{transform:scale(1.05)}
-@keyframes s08glow{0%,100%{box-shadow:0 0 15px rgba(245,158,11,0.25)}50%{box-shadow:0 0 40px rgba(245,158,11,0.55)}}
+      <li><a href="/choke-slam-wrestling/wrestler/">Roster</a></li>
 
-/* ── Sections ── */
-.s08-section{margin:3rem auto;max-width:960px;padding:0 1.5rem}
-.s08-section h2{font-family:Georgia,serif;font-size:1.5rem;color:var(--gold);border-bottom:2px solid var(--purple-dark);padding-bottom:0.5rem;margin-bottom:1.8rem;letter-spacing:1px}
+      <li><a href="/choke-slam-wrestling/championships/">Titel</a></li>
 
-/* ── Faction Grid ── */
-.faction-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.8rem}
-.faction-card{background:var(--card);border:1px solid <a class="tag" onclick="toggleTagSearch(this)" data-content="#2a1540">#2a1540</a>;border-radius:18px;padding:2.5rem 1.5rem;text-align:center;position:relative;overflow:hidden;transition:all 0.35s}
-.faction-card:hover{transform:translateY(-6px);box-shadow:0 18px 50px rgba(0,0,0,0.5);background:var(--card-hover)}
-.faction-card::before{content:'';position:absolute;top:0;left:0;right:0;height:4px}
-.faction-card.mm::before{background:linear-gradient(90deg,#ef4444,#991b1b)}.faction-card.mm:hover{border-color:rgba(239,68,68,0.5)}
-.faction-card.srr::before{background:linear-gradient(90deg,#22c55e,#166534)}.faction-card.srr:hover{border-color:rgba(34,197,94,0.5)}
-.faction-card.sns::before{background:linear-gradient(90deg,#3b82f6,#1e40af)}.faction-card.sns:hover{border-color:rgba(59,130,246,0.5)}
-.faction-emoji{font-size:3.5rem;display:block;margin-bottom:0.6rem;filter:drop-shadow(0 4px 10px rgba(0,0,0,0.3))}
-.faction-card h3{font-size:1.2rem;margin:0 0 0.4rem;letter-spacing:0.3px}
-.faction-card .promoter{color:var(--muted);font-size:0.82rem;font-style:italic;margin-bottom:1.2rem}
-.faction-card .champions{color:var(--gold-bright);font-size:0.78rem;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:1rem;line-height:1.8}
-.faction-card .roster{color:#c9a0ff;font-size:0.85rem;line-height:1.9}
+      <li><a href="/choke-slam-wrestling/teams/">Teams</a></li>
 
-/* ── Mask Teaser ── */
-.mask-box{background:linear-gradient(160deg,#1a0a30 0%,#2d0a3d 50%,#1a0a30 100%);border:1.5px solid rgba(245,158,11,0.3);border-radius:20px;padding:3rem 2.5rem;margin:2rem 0;position:relative;overflow:hidden}
-.mask-box::after{content:'🎭';font-size:8rem;position:absolute;top:-1rem;right:-1rem;opacity:0.06;transform:rotate(15deg)}
-.mask-box .stip-badge{display:inline-block;background:#dc2626;color:#fff;padding:0.3rem 1.2rem;border-radius:20px;font-weight:700;font-size:0.75rem;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:1.2rem;animation:s08glow 2.2s ease-in-out infinite}
-.mask-box h3{font-family:Georgia,serif;color:var(--gold);font-size:1.5rem;margin:0 0 0.4rem}
-.mask-box .matchup{color:var(--muted);font-size:0.9rem;margin-bottom:1.2rem}
-.mask-box .story{color:#d4c4f0;font-size:0.93rem;line-height:1.9}
-.mask-box .story strong{color:var(--gold-bright)}
-.mask-box .story em{color:var(--purple);font-style:italic}
+      <li><a href="/choke-slam-wrestling/statistiken/">Statistiken</a></li>
 
-/* ── Schedule Table ── */
-.schedule-table{width:100%;border-collapse:collapse;font-size:0.9rem;background:var(--card);border-radius:8px;overflow:hidden}
-.schedule-table th{background:linear-gradient(180deg,#2d0a3d,#1a0a30);color:var(--gold);padding:0.9rem;text-align:left;font-size:0.78rem;text-transform:uppercase;letter-spacing:1px}
-.schedule-table td{padding:0.8rem;border-bottom:1px solid <a class="tag" onclick="toggleTagSearch(this)" data-content="#2a1540">#2a1540</a>;color:#d4c4f0}
-.schedule-table tr:hover td{background:var(--card-hover)}
-.schedule-table .tbd{color:#f59e0b;font-weight:700}
+      <li><a href="/choke-slam-wrestling/highlights/">Highlights</a></li>
 
-/* ── Draft CTA ── */
-.draft-cta{display:block;background:var(--card);border:2px dashed var(--purple);border-radius:18px;padding:3rem 2rem;text-align:center;text-decoration:none;color:var(--text);transition:all 0.35s;margin:1.5rem 0}
-.draft-cta:hover{border-color:var(--gold);background:var(--card-hover);transform:translateY(-3px)}
-.draft-cta .draft-icon{font-size:3.5rem;display:block;margin-bottom:1rem}
-.draft-cta h3{color:var(--gold);font-size:1.3rem;margin:0 0 0.5rem}
-.draft-cta p{color:var(--muted);font-size:0.9rem;margin:0}
-.draft-cta strong{color:var(--gold-bright)}
+      <li><a href="/choke-slam-wrestling/s08/" aria-current="page">Season 8</a></li>
 
-/* ── Manager Cards ── */
-.manager-strip{display:flex;justify-content:center;gap:2.5rem;margin:2rem 0;flex-wrap:wrap;position:relative;z-index:1}
-.manager-card{text-align:center;transition:transform 0.3s}
-.manager-card:hover{transform:translateY(-5px)}
-.manager-card img{width:90px;height:90px;border-radius:50%;object-fit:cover;border:3px solid transparent;transition:all 0.35s}
-.manager-card.mm img{border-color:var(--red);box-shadow:0 0 22px rgba(239,68,68,0.3)}
-.manager-card.srr img{border-color:var(--green);box-shadow:0 0 22px rgba(34,197,94,0.3)}
-.manager-card.sns img{border-color:var(--blue);box-shadow:0 0 22px rgba(59,130,246,0.3)}
-.manager-card:hover img{box-shadow:0 0 35px rgba(245,158,11,0.35)}
-.manager-card .name{font-size:0.85rem;font-weight:700;margin-top:0.5rem}
-.manager-card .role{font-size:0.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:1.5px}
+    </ul>
+  </div>
+</nav>
+  <main class="content" id="main-content" tabindex="-1">
 
-@media(max-width:768px){.faction-grid{grid-template-columns:1fr}.s08-hero h1{font-size:2rem}.mask-box{padding:1.5rem}.s08-hero-content{padding:0}}
-</style>
+      <nav class="breadcrumbs" aria-label="Brotkrumennavigation"><a href="/choke-slam-wrestling/">Start</a><span aria-hidden="true">/</span><a href="/choke-slam-wrestling/s08/">Season 8</a></nav>
+      <p class="eyebrow">CSW / Season 8</p>
+      <article class="note-content">
+
+
 <div class="s08-hero">
   <div class="spot l"></div><div class="spot c"></div><div class="spot r"></div>
   <div id="s08-parts"></div>
@@ -198,7 +67,7 @@
   </div>
 </div>
 <div class="s08-section">
-  <h2>🪖 The Masked Enforcer — LePunisseur</h2>
+  <h2>The Masked Enforcer — LePunisseur</h2>
   <div class="mask-box">
     <span class="stip-badge">Loser Becomes a Masked Hero</span>
     <h3>Pascal LePas vs. Owen Hart</h3>
@@ -207,14 +76,14 @@
       In the most unusual stipulation in Choke Slam history, <strong>Pascal LePas</strong> put his identity on the line against <strong>Owen Hart</strong>.
       Owen won. Pascal lost his face — and found a new one.<br><br>
       Season 8 introduces <strong>LePunisseur</strong>: a masked SWAT commander who has turned the Saint Rebel Radicalz into his personal tactical unit.
-      Clad in tactical gear and a balaclava, he doesn't speak — he acts. 
+      Clad in tactical gear and a balaclava, he doesn't speak — he acts.
       <em>The Punisher of Choke Slam Wrestling has arrived.</em>
     </p>
   </div>
 </div>
 <div class="s08-section">
-  <h2>📅 Season Schedule</h2>
-  <table class="schedule-table">
+  <h2>Season Schedule</h2>
+  <div class="table-scroll" role="region" aria-label="Datentabelle, horizontal scrollbar" tabindex="0"><table class="schedule-table">
     <thead><tr><th>#</th><th>Event</th><th>Date</th><th>Arena</th><th>Status</th></tr></thead>
     <tbody>
       <tr><td>1</td><td><a href="/choke-slam-wrestling/events/2026-07-31-s08e01-genesis/" style="color:#22c55e;font-weight:700;">S08E01 — Genesis</a></td><td>2026-07-31</td><td>Baltimore Arena</td><td style="color:#22c55e;">✅ Complete</td></tr>
@@ -222,10 +91,10 @@
       <tr><td>3</td><td>S08E03</td><td>TBA</td><td>TBA</td><td class="tbd">🔜 Planned</td></tr>
       <tr><td>4</td><td>S08E04 — Royal Rumble</td><td>TBA</td><td>TBA</td><td class="tbd">🔜 Planned</td></tr>
     </tbody>
-  </table>
+  </table></div>
 </div>
 <div class="s08-section">
-  <h2>📊 Draft Board</h2>
+  <h2>Draft Board</h2>
   <a class="draft-cta" href="/choke-slam-wrestling/s08/draft/">
     <span class="draft-icon">📋</span>
     <h3>Complete Draft Rankings</h3>
@@ -245,22 +114,16 @@
 })();
 </script>
 
+      </article>
 
-    
-    
   </main>
-
-  
   <footer class="csw-footer">
-    <div class="faction-row">
-      <span style="color:#ef4444;">🛡️ Militanter Mummenschanz</span>
-      <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
-      <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
-    </div>
-    <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
-  </footer>
+  <div class="footer-inner"><div><a class="footer-brand" href="/choke-slam-wrestling/">Choke Slam Wrestling</a><p>Private Fantasy-Liga · EST. 2018</p></div>
+    <nav aria-label="Teams im Footer"><a href="/choke-slam-wrestling/teams/militanter-mummenschanz/">Militanter Mummenschanz</a><a href="/choke-slam-wrestling/teams/saint-rebel-radicalz/">Special Response Rangers</a><a href="/choke-slam-wrestling/teams/sweet-n-sour-elite/">Sweet &#39;n Sour Elite</a></nav>
+    <a href="/choke-slam-wrestling/s08/">Season 8 →</a>
+  </div>
+</footer>
+<script src="/choke-slam-wrestling/scripts/csw-navigation.js" defer></script>
 
-  
-  
 </body>
 </html>

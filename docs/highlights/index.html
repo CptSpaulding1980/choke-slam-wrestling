@@ -1,178 +1,104 @@
+
+
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Video Highlights — Choke Slam Wrestling</title>
-  
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-<header style="margin:0;padding:0;line-height:0;background:#0a0a0f;">
-  <a href="/choke-slam-wrestling/" id="csw-banner-link">
-    <img loading="lazy" decoding="async" id="csw-banner-img"
-         src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png"
-         alt="Choke Slam Wrestling"
-         style="width:100%;max-height:200px;object-fit:cover;object-position:center;display:block;"
-         loading="eager">
-  </a>
-</header>
+  <meta name="theme-color" content="#101113">
+  <title>Video Highlights – Choke Slam Wrestling</title>
+  <link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
 
 
-<nav style="background:rgba(10,10,15,0.96);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:2px solid #c41e3a;padding:0.5rem 1rem;position:sticky;top:0;z-index:1000;display:flex;justify-content:center;align-items:center;gap:0.15rem;flex-wrap:wrap;">
-  <a href="/choke-slam-wrestling/"        class="csw-nav-link" data-section="home">Home</a>
-  <a href="/choke-slam-wrestling/events/" class="csw-nav-link" data-section="events">Events</a>
-  <a href="/choke-slam-wrestling/wrestler/" class="csw-nav-link" data-section="roster">Roster</a>
-  <a href="/choke-slam-wrestling/championships/" class="csw-nav-link" data-section="titles">Titles</a>
-  <a href="/choke-slam-wrestling/teams/"  class="csw-nav-link" data-section="teams">Teams</a>
-  <a href="/choke-slam-wrestling/statistiken/" class="csw-nav-link" data-section="stats">Stats</a>
-  <a href="/choke-slam-wrestling/highlights/" class="csw-nav-link" data-section="highlights">🎬 Highlights</a>
-  <a href="/choke-slam-wrestling/s08/"    class="csw-nav-link csw-nav-s08" data-section="s08">S08</a>
-</nav>
-
-<link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
-
-<style>
-  .csw-nav-link {
-    color: #e0e0e0; text-decoration: none; padding: 0.45rem 0.85rem;
-    border-radius: 5px; font-size: 0.85rem; font-weight: 500;
-    transition: all 0.2s ease; white-space: nowrap;
-  }
-  .csw-nav-link:hover { color: #f59e0b; background: rgba(196,30,58,0.1); }
-  .csw-nav-link.active { color: #f59e0b !important; background: rgba(196,30,58,0.15); font-weight: 600; }
-  .csw-nav-s08 { color: #f59e0b !important; font-weight: 700; }
-  .csw-nav-s08:hover { background: rgba(245,158,11,0.15); }
-</style>
-
-<script>
-// Dynamic banner per section
-(function(){
-  var path = window.location.pathname;
-  var base = '/choke-slam-wrestling';
-  var img = document.getElementById('csw-banner-img');
-  
-  // Banner mapping: URL path → banner image
-  var banners = {
-    '/events/':       'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Events_Banner.png',
-    '/wrestler/':     'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Roster_Banner.png',
-    '/championships/':'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Championships_Banner.png',
-    '/teams/':        'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
-    '/statistiken/':  'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
-    '/highlights/':   'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Highlights_Banner.png',
-    '/s08/':          'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Header_Banner.png',
-  };
-  
-  // Highlights page gets slightly taller banner
-  if (path.indexOf('/highlights/') >= 0) {
-    img.style.maxHeight = '220px';
-  }
-
-  // Swap banner for matching section
-  for (var key in banners) {
-    if (path.indexOf(base + key) >= 0) {
-      img.src = banners[key];
-      break;
-    }
-  }
-  
-  // Activate current nav link
-  var links = document.querySelectorAll('.csw-nav-link');
-  for (var i = 0; i < links.length; i++) {
-    var href = links[i].getAttribute('href');
-    if (href && path.indexOf(href.replace(base,'')) >= 0 && href !== base + '/') {
-      links[i].classList.add('active');
-    }
-  }
-  // Home active if exact match
-  if (path === base + '/' || path === base) {
-    links[0].classList.add('active');
-  }
-})();
-</script>
-
-  
-  
 </head>
-<body>
-  <main class="content">
-    <header>
-      
+<body class="csw-site section-highlights">
 
-      
-      <nav class="breadcrumbs" aria-label="Breadcrumb">
-        <a href="/choke-slam-wrestling/">Home</a>
-        
-        » <span>Video Highlights</span>
-      </nav>
-    </header>
+<a class="skip-link" href="#main-content">Zum Inhalt springen</a>
+<header class="csw-masthead">
+  <div class="brand-row">
+    <a class="csw-brand" href="/choke-slam-wrestling/" aria-label="Choke Slam Wrestling – Startseite">
+      <img loading="lazy" decoding="async" class="brand-logo" src="/choke-slam-wrestling/img/csw-official-logo.jpg" alt="" width="64" height="64">
+      <span>Choke Slam Wrestling<small>Private Fantasy-Liga · EST. 2018</small></span>
+    </a>
+    <a class="season-link" href="/choke-slam-wrestling/s08/">Die Liga. Season 8. <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="csw-banner csw-banner-highlights">
+    <img id="csw-banner-img" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Highlights_Banner.png" alt="" width="1536" height="200" fetchpriority="high" loading="eager">
+  </div>
+</header>
+<nav class="csw-navigation" aria-label="Hauptnavigation">
+  <div class="nav-inner">
+    <button class="menu-toggle" type="button" aria-controls="csw-menu" aria-expanded="false" hidden>Menü <span aria-hidden="true">＋</span></button>
+    <ul id="csw-menu" class="csw-menu">
 
-    
-    
+      <li><a href="/choke-slam-wrestling/">Start</a></li>
 
-    <style>
-:root{--gold:#f59e0b;--red:#e63946;--dark:#0a0a0f;--card:#1a1025;--text:#d4c4f0;--muted:#9ca3af;--border:#2a1540}
-.hl-hero{background:linear-gradient(180deg,#1a0a0a 0%,#0a0a0f 100%);border-bottom:2px solid var(--red);padding:3rem 1.5rem;text-align:center;margin:0 0 2rem}
-.hl-hero h1{font-family:Georgia,serif;font-size:clamp(2rem,5vw,3rem);color:var(--gold);margin:0}
-.hl-hero p{color:var(--muted);font-size:1rem;margin-top:0.5rem}
-.hl-season{margin:2rem 0}
-.hl-season h2{color:var(--red);border-left:3px solid var(--gold);padding-left:0.8rem;font-size:1.2rem;margin:2rem 0 1rem}
-.hl-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.5rem}
-.hl-card video{width:100%;display:block;background:#000;max-height:220px;object-fit:cover}
-.hl-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.5rem}
-.hl-card video{width:100%;display:block;background:#000;max-height:220px;object-fit:cover}
-.hl-card .info{padding:0.8rem 1rem}
-.hl-card .info .title{color:var(--gold);font-weight:bold;font-size:0.9rem;margin-bottom:0.3rem}
-.hl-card .info .meta{color:var(--muted);font-size:0.75rem}
-.hl-card .info a{color:var(--red);font-size:0.8rem;text-decoration:none;display:inline-block;margin-top:0.5rem}
-.hl-card .info a:hover{color:var(--gold)}
+      <li><a href="/choke-slam-wrestling/events/">Events</a></li>
 
-/* Filter bar */
-.hl-filter{display:flex;gap:0.5rem;flex-wrap:wrap;margin:1.5rem 0;justify-content:center}
-.hl-filter button{background:var(--card);border:1px solid var(--border);color:var(--muted);padding:0.4rem 1rem;border-radius:20px;cursor:pointer;font-size:0.85rem;transition:all 0.2s}
-.hl-filter button:hover,.hl-filter button.active{background:var(--red);color:#fff;border-color:var(--red)}
-</style>
+      <li><a href="/choke-slam-wrestling/wrestler/">Roster</a></li>
+
+      <li><a href="/choke-slam-wrestling/championships/">Titel</a></li>
+
+      <li><a href="/choke-slam-wrestling/teams/">Teams</a></li>
+
+      <li><a href="/choke-slam-wrestling/statistiken/">Statistiken</a></li>
+
+      <li><a href="/choke-slam-wrestling/highlights/" aria-current="page">Highlights</a></li>
+
+      <li><a href="/choke-slam-wrestling/s08/">Season 8</a></li>
+
+    </ul>
+  </div>
+</nav>
+  <main class="content" id="main-content" tabindex="-1">
+
+      <nav class="breadcrumbs" aria-label="Brotkrumennavigation"><a href="/choke-slam-wrestling/">Start</a><span aria-hidden="true">/</span><a href="/choke-slam-wrestling/highlights/">Highlights</a></nav>
+      <p class="eyebrow">CSW / Highlights</p>
+      <article class="note-content">
+        <h1>Video Highlights</h1>
+
 <div class="hl-hero">
   <img loading="lazy" decoding="async" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CSW_Highlights_Banner.png" alt="Video Highlights" style="max-width:100%;max-height:100px;border-radius:8px;">
   <p>Full Events · Match Clips · Legendary Moments</p>
 </div>
-<div class="hl-filter">
-  <button class="active" onclick="filter('all')">All</button>
-  <button onclick="filter('s08')">Season 8</button>
-  <button onclick="filter('s07')">Season 7</button>
-  <button onclick="filter('s06')">Season 6</button>
-  <button onclick="filter('s05')">Season 5</button>
-  <button onclick="filter('clip')">Clips</button>
-  <button onclick="filter('full')">Full Events</button>
+<div class="hl-filter" hidden>
+  <button class="active" data-filter="all" type="button" aria-pressed="true">Alle</button>
+  <button data-filter="s08" type="button" aria-pressed="false">Season 8</button>
+  <button data-filter="s07" type="button" aria-pressed="false">Season 7</button>
+  <button data-filter="s06" type="button" aria-pressed="false">Season 6</button>
+  <button data-filter="s05" type="button" aria-pressed="false">Season 5</button>
+  <button data-filter="clip" type="button" aria-pressed="false">Clips</button>
+  <button data-filter="full" type="button" aria-pressed="false">Full Events</button>
 </div>
 
 <section class="hl-season" data-season="s08">
   <h2>Season 8 — Videos</h2>
   <div class="hl-grid">
     <article class="hl-card" data-type="clip" data-season="s08">
-      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/clip_Yokozuna_shocked_the_World_S08E01.mp4" type="video/mp4"></video>
+      <video controls preload="none" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/clip_Yokozuna_shocked_the_World_S08E01.mp4" type="video/mp4"></video>
       <div class="info"><div class="title">S08E01 — Genesis · Teil 1</div><div class="meta">2026-07-31</div><a href="/choke-slam-wrestling/events/2026-07-31-s08e01-genesis/">→ Event Page</a></div>
     </article>
     <article class="hl-card" data-type="full" data-season="s08">
-      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E01_2833889255_2026-07-31_full_event.mp4" type="video/mp4"></video>
+      <video controls preload="none" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E01_2833889255_2026-07-31_full_event.mp4" type="video/mp4"></video>
       <div class="info"><div class="title">S08E01 — Genesis · Teil 2</div><div class="meta">2026-07-31</div><a href="/choke-slam-wrestling/events/2026-07-31-s08e01-genesis/">→ Event Page</a></div>
     </article>
     <article class="hl-card" data-type="full" data-season="s08">
-      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E02_All_In_poster_v2.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E02_2864421295_2026-09-03_full_event.mp4" type="video/mp4"></video>
+      <video controls preload="none" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E02_All_In_poster_v2.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E02_2864421295_2026-09-03_full_event.mp4" type="video/mp4"></video>
       <div class="info"><div class="title">S08E02 — All In · Teil 1</div><div class="meta">2026-09-14</div><a href="/choke-slam-wrestling/events/2026-09-14-s08e02-all-in/">→ Event Page</a></div>
     </article>
     <article class="hl-card" data-type="full" data-season="s08">
-      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E02_All_In_poster_v2.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E02_2874223577_2026-09-14_full_event.mp4" type="video/mp4"></video>
+      <video controls preload="none" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E02_All_In_poster_v2.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E02_2874223577_2026-09-14_full_event.mp4" type="video/mp4"></video>
       <div class="info"><div class="title">S08E02 — All In · Teil 2</div><div class="meta">2026-09-14</div><a href="/choke-slam-wrestling/events/2026-09-14-s08e02-all-in/">→ Event Page</a></div>
     </article>
   </div>
 </section>
 
 <div class="hl-season" data-season="s07">
-  <h2>📺 Season 7 — Full Events</h2>
+  <h2>Season 7 — Full Events</h2>
   <div class="hl-grid">
     <div class="hl-card" data-type="full" data-season="s07">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E12_2026-06-23_full_event.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -182,7 +108,7 @@
       </div>
     </div>
     <div class="hl-card" data-type="full" data-season="s07">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-08_full_event.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -192,7 +118,7 @@
       </div>
     </div>
     <div class="hl-card" data-type="full" data-season="s07">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E10_2772800919_2026-05-15_full_event.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -202,7 +128,7 @@
       </div>
     </div>
     <div class="hl-card" data-type="full" data-season="s07">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E09_2760901676_2026-04-30_full_event.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -212,7 +138,7 @@
       </div>
     </div>
     <div class="hl-card" data-type="full" data-season="s07">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E07_2682844724_2026-01-28_full_event.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -224,10 +150,10 @@
   </div>
 </div>
 <div class="hl-season" data-season="s06">
-  <h2>📺 Season 6 — Full Events</h2>
+  <h2>Season 6 — Full Events</h2>
   <div class="hl-grid">
     <div class="hl-card" data-type="full" data-season="s06">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S06E12_2500204906_2025-06-30_full_event.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -237,7 +163,7 @@
       </div>
     </div>
     <div class="hl-card" data-type="full" data-season="s06">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S06E06_2500193182_2025-06-30_full_event.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -249,10 +175,10 @@
   </div>
 </div>
 <div class="hl-season" data-season="s05">
-  <h2>🎬 Match Highlights — Season 5</h2>
+  <h2>Match Highlights — Season 5</h2>
   <div class="hl-grid">
     <div class="hl-card" data-type="clip" data-season="s05">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/S05E03_Hulk_Hogan_wins_the_Choke_Slam_Carat_Gol.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -262,7 +188,7 @@
       </div>
     </div>
     <div class="hl-card" data-type="clip" data-season="s05">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/S05E04_Bret_Hart_submits_Drago_to_win_the_Trios.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -272,7 +198,7 @@
       </div>
     </div>
     <div class="hl-card" data-type="clip" data-season="s05">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/S05E04_Drago_pins_The_Immortal_Hulk_Hogan_to_el.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -282,7 +208,7 @@
       </div>
     </div>
     <div class="hl-card" data-type="clip" data-season="s05">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/S05E06_Extreme_Choke_Slam_Wrestling__ECSW__Pt__.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -292,7 +218,7 @@
       </div>
     </div>
     <div class="hl-card" data-type="clip" data-season="s05">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/S05E06_The_Funker_still_got_it____.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -302,7 +228,7 @@
       </div>
     </div>
     <div class="hl-card" data-type="clip" data-season="s05">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/S05E09_Noam_Dar_forces_the_Hulkster_to_submit__.mp4" type="video/mp4">
       </video>
       <div class="info">
@@ -314,86 +240,64 @@
   </div>
 </div>
 <div class="hl-season" data-season="misc">
-  <h2>🎞️ Legendary Moments</h2>
+  <h2>Legendary Moments</h2>
   <div class="hl-grid">
     <div class="hl-card" data-type="clip" data-season="misc">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2023-02-20_Omega_vs_Vader.mp4" type="video/mp4">
       </video>
       <div class="info"><div class="title">Kenny Omega vs. Vader</div><div class="meta">2023-02-20</div></div>
     </div>
     <div class="hl-card" data-type="clip" data-season="misc">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2023-05-19_Awesome_Chain_Wrestling_Sequence_between.mp4" type="video/mp4">
       </video>
       <div class="info"><div class="title">Awesome Chain Wrestling Sequence</div><div class="meta">2023-05-19</div></div>
     </div>
     <div class="hl-card" data-type="clip" data-season="misc">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2023-05-19_Ric_Flair___Meng_are_planting_the_Hulkst.mp4" type="video/mp4">
       </video>
       <div class="info"><div class="title">Ric Flair & Meng plant the Hulkster</div><div class="meta">2023-05-19</div></div>
     </div>
     <div class="hl-card" data-type="clip" data-season="misc">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2023-06-13_Highlight__Taz_takes_ot_Eddie_Edwards_wi.mp4" type="video/mp4">
       </video>
       <div class="info"><div class="title">Taz takes out Eddie Edwards</div><div class="meta">2023-06-13</div></div>
     </div>
     <div class="hl-card" data-type="clip" data-season="misc">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2023-06-13_Just_incredible_.mp4" type="video/mp4">
       </video>
       <div class="info"><div class="title">Just Incredible!</div><div class="meta">2023-06-13</div></div>
     </div>
     <div class="hl-card" data-type="clip" data-season="misc">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2025-05-21_Bret_claims_the_International_Championsh.mp4" type="video/mp4">
       </video>
       <div class="info"><div class="title">Bret claims the International Championship</div><div class="meta">2025-05-21</div></div>
     </div>
     <div class="hl-card" data-type="clip" data-season="misc">
-      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
+      <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="none">
         <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/clips/misc_2025-11-10_Apache_vs__Austin.mp4" type="video/mp4">
       </video>
       <div class="info"><div class="title">Lady Apache vs. Steve Austin</div><div class="meta">2025-11-10</div></div>
     </div>
   </div>
 </div>
-<script>
-function filter(type) {
-  document.querySelectorAll('.hl-filter button').forEach(b => b.classList.remove('active'));
-  event.target.classList.add('active');
-  
-  document.querySelectorAll('.hl-card').forEach(card => {
-    var show = type === 'all' || card.dataset.type === type || card.dataset.season === type;
-    card.style.display = show ? '' : 'none';
-  });
-  
-  document.querySelectorAll('.hl-season').forEach(sec => {
-    var hasVisible = sec.querySelectorAll('.hl-card[style*="display:"]').length === 0 ||
-                     sec.querySelectorAll('.hl-card:not([style*="display: none"])').length > 0;
-    sec.style.display = type === 'all' ? '' : (hasVisible ? '' : 'none');
-  });
-}
-</script>
 
 
-    
-    
+      </article>
+
   </main>
-
-  
   <footer class="csw-footer">
-    <div class="faction-row">
-      <span style="color:#ef4444;">🛡️ Militanter Mummenschanz</span>
-      <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
-      <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
-    </div>
-    <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
-  </footer>
+  <div class="footer-inner"><div><a class="footer-brand" href="/choke-slam-wrestling/">Choke Slam Wrestling</a><p>Private Fantasy-Liga · EST. 2018</p></div>
+    <nav aria-label="Teams im Footer"><a href="/choke-slam-wrestling/teams/militanter-mummenschanz/">Militanter Mummenschanz</a><a href="/choke-slam-wrestling/teams/saint-rebel-radicalz/">Special Response Rangers</a><a href="/choke-slam-wrestling/teams/sweet-n-sour-elite/">Sweet &#39;n Sour Elite</a></nav>
+    <a href="/choke-slam-wrestling/s08/">Season 8 →</a>
+  </div>
+</footer>
+<script src="/choke-slam-wrestling/scripts/csw-navigation.js" defer></script>
 
-  
-  
 </body>
 </html>

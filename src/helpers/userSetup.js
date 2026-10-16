@@ -3,8 +3,15 @@ function userMarkdownSetup(md) {
   // Feel free to add any plugin you want here instead of /.eleventy.js
 }
 function userEleventySetup(eleventyConfig) {
-  // The eleventyConfig parameter stands for the the config instantiated in /.eleventy.js.
-  // Feel free to add any plugin you want here instead of /.eleventy.js
+  const { sectionFor, enhanceContent, displayTitle } = require('./cswDesign');
+  const markdown = require('markdown-it')({ html: true });
+  eleventyConfig.addFilter('cswSection', sectionFor);
+  eleventyConfig.addFilter('cswContent', enhanceContent);
+  eleventyConfig.addFilter('cswTitle', displayTitle);
+  eleventyConfig.addFilter('cswMarkdown', value => markdown.render(value || ''));
+  eleventyConfig.addTransform('cswWhitespace', (html, outputPath) =>
+    outputPath?.endsWith('.html') ? html.replace(/[ \t]+$/gm, '') : html
+  );
 }
 exports.userMarkdownSetup = userMarkdownSetup;
 exports.userEleventySetup = userEleventySetup;

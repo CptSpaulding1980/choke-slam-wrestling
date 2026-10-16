@@ -1,0 +1,7 @@
+<footer class="csw-footer">
+  <div class="footer-inner"><div><a class="footer-brand" href="/choke-slam-wrestling/">Choke Slam Wrestling</a><p>Private Fantasy-Liga · EST. 2018</p></div>
+    <nav aria-label="Teams im Footer">{% for team in csw.teams %}<a href="/choke-slam-wrestling/teams/{{ team.slug }}/">{{ team.name }}</a>{% endfor %}</nav>
+    <a href="/choke-slam-wrestling/s08/">Season 8 →</a>
+  </div>
+</footer>
+<script src="/choke-slam-wrestling/scripts/csw-navigation.js" defer></script>

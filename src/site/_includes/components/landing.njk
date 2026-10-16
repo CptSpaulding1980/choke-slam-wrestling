@@ -1,0 +1,26 @@
+<section class="league-intro" aria-labelledby="league-title">
+  <div><p class="eyebrow">Choke Slam Wrestling / Season 8</p>
+    <h1 id="league-title">Drei Teams.<br>Eine Liga.</h1>
+    <p class="intro-copy">Rivalitäten im Ring. Entscheidungen am Managerpult. Die private Fantasy-Liga seit 2018 – mit allen Shows, Titelhistorien und Zahlen.</p>
+    <div class="action-row"><a class="button-primary" href="/choke-slam-wrestling/events/">Zu den Events <span aria-hidden="true">↗</span></a><a class="button-secondary" href="/choke-slam-wrestling/highlights/">Highlights ansehen</a></div>
+  </div>
+  <aside class="season-panel"><p class="eyebrow">Die aktuelle Season</p><strong>08</strong><p>Teams, Roster und Ergebnisse.<br>Die Liga auf einen Blick.</p><a href="/choke-slam-wrestling/s08/">Season 8 entdecken <span aria-hidden="true">→</span></a></aside>
+</section>
+<section class="league-teams" aria-labelledby="teams-title">
+  <div class="section-heading"><div><p class="eyebrow">Die Manager. Die Teams.</p><h2 id="teams-title">Drei Seiten des Rings</h2></div><a href="/choke-slam-wrestling/teams/">Alle Teams →</a></div>
+  <div class="league-team-grid">
+    {% for team in csw.teams %}
+    <a class="league-team" href="/choke-slam-wrestling/teams/{{ team.slug }}/"><img src="/choke-slam-wrestling/img/teams/{{ team.logo }}" alt="" width="80" height="80" loading="lazy"><span><small>{{ team.manager }}</small><strong>{{ team.name }}</strong></span><span aria-hidden="true">↗</span></a>
+    {% endfor %}
+  </div>
+</section>
+<div class="home-panels">
+  {% for panel in csw.panels %}
+  <section class="home-panel"><div class="section-heading"><h2>{{ panel.title }}</h2><span class="eyebrow">Liga-Archiv</span></div>{{ panel.markdown | cswMarkdown | link | cswContent | safe }}</section>
+  {% endfor %}
+</div>
+<section class="league-hubs" aria-labelledby="hub-title"><div class="section-heading"><div><p class="eyebrow">Mehr als die Matchcard</p><h2 id="hub-title">Dein Weg durch die Liga</h2></div></div>
+  <div class="hub-grid">
+    {% for item in csw.sections %}{% if item.key != 'home' %}<a class="hub-card" href="{{ item.href }}"><span class="eyebrow">CSW / {{ loop.index }}</span><strong>{{ item.label }}</strong><span aria-hidden="true">↗</span></a>{% endif %}{% endfor %}
+  </div>
+</section>

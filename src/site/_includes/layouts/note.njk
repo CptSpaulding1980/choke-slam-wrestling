@@ -1,79 +1,34 @@
 ---
 permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
+{% set section = page.url | cswSection %}
+{% set isHome = page.url == '/home/' %}
+{% set displayTitle = (title or page.fileSlug) | cswTitle(page.url) %}
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} — Choke Slam Wrestling</title>
-  {%include "components/pageheader.njk"%}
-  {% for imp in dynamics.common.head %}
-    {% include imp %}
-  {% endfor %}
-  {% for imp in dynamics.notes.head %}
-    {% include imp %}
-  {% endfor %}
+  <meta name="theme-color" content="#101113">
+  <title>{% if isHome %}Choke Slam Wrestling – Die Liga{% else %}{{ displayTitle }} – Choke Slam Wrestling{% endif %}</title>
+  <link href="/choke-slam-wrestling/styles/custom-style.css" rel="stylesheet">
+  {% for imp in dynamics.common.head %}{% include imp %}{% endfor %}
+  {% for imp in dynamics.notes.head %}{% include imp %}{% endfor %}
 </head>
-<body>
-  <main class="content">
-    <header>
-      {% if settings.dgShowInlineTitle === true %}
-        <h1>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
-      {% endif %}
-
-      <!-- Breadcrumbs -->
-      <nav class="breadcrumbs" aria-label="Breadcrumb">
-        <a href="{{ '/choke-slam-wrestling/' | url }}">Home</a>
-        {% if page.filePathStem and 'Events' in page.filePathStem %}
-          » <a href="{{ '/events/' | url }}">Events</a>
-        {% elif page.filePathStem and 'Wrestler' in page.filePathStem %}
-          » <a href="{{ '/wrestler/' | url }}">Roster</a>
-        {% elif page.filePathStem and 'Championships' in page.filePathStem %}
-          » <a href="{{ '/championships/' | url }}">Titles</a>
-        {% elif page.filePathStem and 'Teams' in page.filePathStem %}
-          » <a href="{{ '/teams/' | url }}">Teams</a>
-        {% elif page.filePathStem and 'Statistiken' in page.filePathStem %}
-          » <a href="{{ '/statistiken/' | url }}">Stats</a>
-        {% elif page.filePathStem and 'Referees' in page.filePathStem %}
-          » <a href="{{ '/referees/' | url }}">Referees</a>
-        {% endif %}
-        » <span>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</span>
-      </nav>
-    </header>
-
-    {% for imp in dynamics.common.beforeContent %}
-      {% include imp %}
-    {% endfor %}
-    {% for imp in dynamics.notes.beforeContent %}
-      {% include imp %}
-    {% endfor %}
-
-    {{ content | hideDataview | taggify | link | safe }}
-
-    {% for imp in dynamics.common.afterContent %}
-      {% include imp %}
-    {% endfor %}
-    {% for imp in dynamics.notes.afterContent %}
-      {% include imp %}
-    {% endfor %}
+<body class="csw-site section-{{ section.key }}">
+  {% include "components/pageheader.njk" %}
+  <main class="content{% if isHome %} landing{% endif %}" id="main-content" tabindex="-1">
+    {% if isHome %}
+      {% include "components/landing.njk" %}
+    {% else %}
+      <nav class="breadcrumbs" aria-label="Brotkrumennavigation"><a href="/choke-slam-wrestling/">Start</a><span aria-hidden="true">/</span><a href="{{ section.href }}">{{ section.label }}</a></nav>
+      <p class="eyebrow">CSW / {{ section.label }}</p>
+      <article class="note-content">
+        {% if '<h1' not in content %}<h1>{{ displayTitle }}</h1>{% endif %}
+        {{ content | hideDataview | taggify | link | cswContent(page.url) | safe }}
+      </article>
+    {% endif %}
   </main>
-
-  <!-- CSW Footer -->
-  <footer class="csw-footer">
-    <div class="faction-row">
-      <span style="color:#ef4444;">🛡️ Militanter Mummenschanz</span>
-      <span style="color:#22c55e;">⚔️ Saint Rebel Radicalz</span>
-      <span style="color:#3b82f6;">🍸 Sweet 'n Sour Elite</span>
-    </div>
-    <p>© 2026 Choke Slam Wrestling — <a href="/choke-slam-wrestling/s08/">Season 8</a></p>
-  </footer>
-
-  {% for imp in dynamics.common.footer %}
-    {% include imp %}
-  {% endfor %}
-  {% for imp in dynamics.notes.footer %}
-    {% include imp %}
-  {% endfor %}
+  {% include "components/footer.njk" %}
 </body>
 </html>

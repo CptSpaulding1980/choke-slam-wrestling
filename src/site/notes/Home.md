@@ -9,9 +9,9 @@ noteIcon: 🏠
   <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="400" alt="Choke Slam Wrestling">
   <br><br>
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_MM.png" width="100" alt="Militanter Mummenschanz">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SRR.png" width="100" alt="Saint Rebel Radicalz">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" width="100" alt="Sweet 'n Sour Elite">
+    <img src="/choke-slam-wrestling/img/teams/militanter-mummenschanz-20261016.jpg" width="100" alt="Militanter Mummenschanz">
+    <img src="/choke-slam-wrestling/img/teams/special-response-rangers-20261016.jpg" width="100" alt="Saint Rebel Radicalz">
+    <img src="/choke-slam-wrestling/img/teams/sweet-n-sour-elite-20261016.png" width="100" alt="Sweet 'n Sour Elite">
   </div>
 </div>
 

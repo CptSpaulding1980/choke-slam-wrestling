@@ -42,7 +42,8 @@ TEAM_CONFIG = {
         "manager": "Philipp Brunkovic",
         "manager_slug": "philipp-brunkovic",
         "manager_image": "Philipp_Brunkovic.png",
-        "logo": "ChokeSlam_MM.png",
+        "logo": "/choke-slam-wrestling/img/teams/militanter-mummenschanz-20261016.jpg",
+        "legacy_logo": "ChokeSlam_MM.png",
         "audio": "Militanter_Mummenschanz.mp3",
         "slug": "militanter-mummenschanz",
     },
@@ -50,7 +51,8 @@ TEAM_CONFIG = {
         "manager": "Pascal LePas",
         "manager_slug": "pascal-le-pas",
         "manager_image": "Pascal_LePas.png",
-        "logo": "ChokeSlam_SRR.png",
+        "logo": "/choke-slam-wrestling/img/teams/special-response-rangers-20261016.jpg",
+        "legacy_logo": "ChokeSlam_SRR.png",
         "audio": "Saint_Rebel_Radicalz.mp3",
         "slug": "saint-rebel-radicalz",
     },
@@ -58,7 +60,8 @@ TEAM_CONFIG = {
         "manager": "Hendrique Delafuente",
         "manager_slug": "hendrique-delafuente",
         "manager_image": "Hendrique_Delafuente.png",
-        "logo": "ChokeSlam_SnS.png",
+        "logo": "/choke-slam-wrestling/img/teams/sweet-n-sour-elite-20261016.png",
+        "legacy_logo": "ChokeSlam_SnS.png",
         "audio": "Sweet_n_Sour_Elite.mp3",
         "slug": "sweet-n-sour-elite",
     },
@@ -303,7 +306,7 @@ def update_team_pages(repo: Path, result: TeamSheetResult) -> int:
             + '  <a class="team-manager" href="/choke-slam-wrestling/manager/{}/">\n'.format(config["manager_slug"])
             + '    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/{}" alt="{}">\n'.format(config["manager_image"], html.escape(config["manager"]))
             + "    <span><small>Manager</small>{}</span>\n  </a>\n".format(html.escape(config["manager"]))
-            + '  <img class="team-logo" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/{}" alt="{} Logo">\n'.format(config["logo"], html.escape(team))
+            + '  <img class="team-logo" src="{}" alt="{} Logo">\n'.format(config["logo"], html.escape(team))
             + "</div>\n\n"
             + "## Entrance Theme\n"
             + '<audio controls preload="none"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/audio/{}" type="audio/mpeg"></audio>\n\n'.format(config["audio"])
@@ -316,6 +319,24 @@ def update_team_pages(repo: Path, result: TeamSheetResult) -> int:
         )
         (repo / "src/site/notes/Teams" / f"{team}.md").write_text(source, encoding="utf-8")
     return resolved_total
+
+
+def update_team_logo_references(repo: Path) -> int:
+    """Keep legacy-generator overview logos current without changing team identities."""
+    changed = 0
+    for path in (repo / "src/site/notes").rglob("*.md"):
+        original = path.read_text(encoding="utf-8")
+        updated = original
+        for config in TEAM_CONFIG.values():
+            legacy_url = (
+                "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/"
+                + config["legacy_logo"]
+            )
+            updated = updated.replace(legacy_url, config["logo"])
+        if updated != original:
+            path.write_text(updated, encoding="utf-8")
+            changed += 1
+    return changed
 
 
 def _championship_assignments(repo: Path) -> Mapping[str, List[Tuple[str, str]]]:
@@ -581,6 +602,7 @@ def sync_all(repo: Path, credentials: Path, sheet_id: str) -> None:
         _write_team_cache(repo, teams, metadata, sheet_id)
         source = f"live XLSX {metadata.get('name')} ({metadata.get('modifiedTime')})"
     team_count = update_team_pages(repo, teams)
+    update_team_logo_references(repo)
     champion_count = update_champion_panels(repo)
     video_count = update_season_eight_highlights(repo)
     source_links = validate_source_event_links(repo)

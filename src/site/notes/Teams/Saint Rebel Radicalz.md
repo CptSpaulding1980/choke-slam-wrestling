@@ -11,7 +11,7 @@ title: Saint Rebel Radicalz
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Pascal_LePas.png" alt="Pascal LePas">
     <span><small>Manager</small>Pascal LePas</span>
   </a>
-  <img class="team-logo" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SRR.png" alt="Saint Rebel Radicalz Logo">
+  <img class="team-logo" src="/choke-slam-wrestling/img/teams/special-response-rangers-20261016.jpg" alt="Saint Rebel Radicalz Logo">
 </div>
 
 ## Entrance Theme

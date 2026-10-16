@@ -11,7 +11,7 @@ title: Militanter Mummenschanz
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Philipp_Brunkovic.png" alt="Philipp Brunkovic">
     <span><small>Manager</small>Philipp Brunkovic</span>
   </a>
-  <img class="team-logo" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_MM.png" alt="Militanter Mummenschanz Logo">
+  <img class="team-logo" src="/choke-slam-wrestling/img/teams/militanter-mummenschanz-20261016.jpg" alt="Militanter Mummenschanz Logo">
 </div>
 
 ## Entrance Theme

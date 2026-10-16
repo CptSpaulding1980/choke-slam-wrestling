@@ -125,6 +125,33 @@ class GeneratedContentTests(unittest.TestCase):
             encoding="utf-8",
         )
 
+    def test_team_logos_survive_regeneration_without_changing_members(self):
+        self._write_wrestler("Alice")
+        teams = {team: ["Alice"] for team in site_sync.TEAM_CONFIG}
+        result = site_sync.TeamSheetResult("fixture", {}, teams)
+        self.assertEqual(site_sync.update_team_pages(self.repo, result), 3)
+        for team, config in site_sync.TEAM_CONFIG.items():
+            page = self.repo / "src/site/notes/Teams" / f"{team}.md"
+            first = page.read_text(encoding="utf-8")
+            self.assertIn(f'src="{config["logo"]}"', first)
+            self.assertIn("/wrestler/alice/", first)
+            self.assertNotIn(config["legacy_logo"], first)
+            site_sync.update_team_pages(self.repo, result)
+            self.assertEqual(page.read_text(encoding="utf-8"), first)
+
+    def test_legacy_overview_logos_are_replaced_idempotently(self):
+        page = self.repo / "src/site/notes/Home.md"
+        legacy_base = "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/"
+        page.write_text("\n".join(
+            f'<img src="{legacy_base}{config["legacy_logo"]}">'
+            for config in site_sync.TEAM_CONFIG.values()
+        ) + "\nSaint Rebel Radicalz\n", encoding="utf-8")
+        self.assertEqual(site_sync.update_team_logo_references(self.repo), 1)
+        for config in site_sync.TEAM_CONFIG.values():
+            self.assertIn(config["logo"], page.read_text(encoding="utf-8"))
+        self.assertIn("Saint Rebel Radicalz", page.read_text(encoding="utf-8"))
+        self.assertEqual(site_sync.update_team_logo_references(self.repo), 0)
+
     def test_champion_panels_support_multiple_titles_and_non_champion(self):
         for name in ("Alice", "Bob", "Carol"):
             self._write_wrestler(name)

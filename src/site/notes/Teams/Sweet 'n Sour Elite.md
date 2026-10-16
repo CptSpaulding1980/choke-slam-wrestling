@@ -11,7 +11,7 @@ title: Sweet 'n Sour Elite
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png" alt="Hendrique Delafuente">
     <span><small>Manager</small>Hendrique Delafuente</span>
   </a>
-  <img class="team-logo" src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam_SnS.png" alt="Sweet &#x27;n Sour Elite Logo">
+  <img class="team-logo" src="/choke-slam-wrestling/img/teams/sweet-n-sour-elite-20261016.png" alt="Sweet &#x27;n Sour Elite Logo">
 </div>
 
 ## Entrance Theme

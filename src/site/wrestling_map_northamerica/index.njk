@@ -1,76 +1,12 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>North America Wrestling Map</title>
-<style>
-  *, *::before, *::after { box-sizing: border-box; margin:0; padding:0 }
-  body {
-    background: #0a0a1a;
-    font-family: 'Segoe UI', system-ui, sans-serif;
-    color: #e0e0e0;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 10px;
-  }
-  header { text-align: center; padding: 14px 0 8px; width: 100%; }
-  header h1 {
-    font-size: clamp(1.1rem,2.5vw,1.7rem); letter-spacing: .12em;
-    background: linear-gradient(90deg,#e63946,#f4a261,#e9c46a,#2a9d8f);
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-    background-clip: text; text-transform: uppercase;
-  }
-  header p { font-size:.78rem; color:#888; margin-top:4px; letter-spacing:.05em; }
-  #map-wrapper { position:relative; width:100%; max-width:1150px; }
-  svg#map { width:100%; height:auto; display:block; border-radius:12px; box-shadow:0 0 60px #00000088; }
-  .normal-region { transition:fill .25s,filter .25s; }
-  .normal-region:hover { fill:#4a5490 !important; filter:brightness(1.3); cursor:pointer; }
-  .org-region { transition:fill .25s,filter .25s; }
-  .org-region:hover { filter:brightness(1.4) drop-shadow(0 0 8px currentColor); cursor:pointer; }
-  @keyframes pulse { 0%{r:9;opacity:.8} 70%{r:22;opacity:0} 100%{r:9;opacity:0} }
-  @keyframes pulse2 { 0%{r:9;opacity:.5} 70%{r:28;opacity:0} 100%{r:9;opacity:0} }
-  .pulse-ring { animation: pulse 2s ease-out infinite; }
-  .pulse-ring.delay { animation: pulse2 2s ease-out .6s infinite; }
-  .marker-group { transition: filter .2s; }
-  .marker-group:hover { filter: drop-shadow(0 0 10px white); }
-  #info-card {
-    position:fixed; pointer-events:none; z-index:999; width:320px;
-    background:linear-gradient(145deg,#12122a,#1e1e42); border:1px solid #333;
-    border-radius:14px; box-shadow:0 10px 40px #00000099,0 0 0 1px #ffffff11;
-    opacity:0; transform:translateY(8px) scale(.97); transition:opacity .22s,transform .22s; overflow:hidden;
-  }
-  #info-card.visible { opacity:1; transform:translateY(0) scale(1); pointer-events:auto; }
-  .card-header { display:flex; align-items:center; gap:12px; padding:14px 16px 10px; border-bottom:1px solid #ffffff18; }
-  .card-logo { width:56px; height:56px; border-radius:8px; background:#ffffff0f; border:1px dashed #ffffff33; display:flex; align-items:center; justify-content:center; flex-shrink:0; overflow:hidden; }
-  .card-logo img { width:100%; height:100%; object-fit:contain; display:none; }
-  .card-logo .ph { font-size:.55rem; color:#666; text-align:center; line-height:1.3; padding:4px; }
-  .card-title .abbr { font-size:.72rem; letter-spacing:.12em; font-weight:700; opacity:.8; }
-  .card-title .full { font-size:.9rem; font-weight:700; line-height:1.25; margin-top:2px; }
-  .card-body { padding:10px 16px 14px; font-size:.8rem; line-height:1.6; }
-  .card-row { display:flex; gap:8px; margin-bottom:3px; }
-  .card-row .lbl { color:#aaa; flex-shrink:0; width:82px; font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; padding-top:1px; }
-  .card-row .val { color:#f0f0f0; }
-  .card-note { margin-top:8px; padding-top:8px; border-top:1px solid #ffffff12; font-size:.74rem; color:#bbb; font-style:italic; line-height:1.5; white-space:pre-wrap; }
-  .card-link { display:inline-block; margin-top:9px; padding:5px 14px; border-radius:20px; font-size:.73rem; font-weight:600; text-decoration:none; border:1px solid transparent; transition:filter .2s; }
-  .card-link:hover { filter:brightness(1.2); }
-  .md-box { margin-top:8px; padding:7px 10px; background:#ffffff09; border-radius:7px; font-size:.65rem; color:#888; line-height:1.6; }
-  .md-box strong { color:#aaa; }
-  .md-box code { background:#ffffff14; border-radius:3px; padding:1px 5px; font-family:monospace; font-size:.63rem; color:#ccc; display:inline-block; margin-top:2px; }
-  #card-close { position:absolute; top:8px; right:10px; background:none; border:none; color:#888; font-size:1rem; cursor:pointer; line-height:1; transition:color .2s; pointer-events:auto; }
-  #card-close:hover { color:#fff; }
-  #legend { display:flex; flex-wrap:wrap; gap:10px 20px; justify-content:center; padding:10px 0 6px; width:100%; max-width:1150px; }
-  .legend-item { display:flex; align-items:center; gap:7px; cursor:pointer; font-size:.78rem; color:#ccc; transition:color .2s; }
-  .legend-item:hover { color:#fff; }
-  .legend-dot { width:14px; height:14px; border-radius:50%; border:2px solid #fff4; flex-shrink:0; }
-  .inset-label { fill:#aaa; font-size:9px; font-style:italic; pointer-events:none; }
-  .country-label { fill:#ffffff28; font-size:11px; letter-spacing:.1em; text-transform:uppercase; pointer-events:none; }
-</style>
-</head>
-<body>
-<header><h1>&#x1F94A; North America Wrestling Map</h1><p>Hover &#252;ber einen Staat &bull; Klick auf Marker f&#252;r Details</p></header>
+---
+layout: layouts/static.njk
+permalink: /wrestling_map_northamerica/
+title: "North America Wrestling Map"
+staticClass: static-map
+---
+{% raw %}
+
+<div class="map-title"><h1>&#x1F94A; North America Wrestling Map</h1><p>Hover &#252;ber einen Staat &bull; Klick auf Marker f&#252;r Details</p></div>
 <!-- Info Card -->
 <div id="info-card"><button id="card-close" title="Schlie&#223;en">&#x2715;</button><div class="card-header"><div class="card-logo" id="card-logo"><img id="card-logo-img" src="" alt="Logo"/><span class="ph" id="card-logo-ph">Logo<br/>folgt</span></div><div class="card-title"><div class="abbr" id="card-abbr"></div><div class="full" id="card-full"></div></div></div><div class="card-body"><div class="card-row"><span class="lbl">Hauptsitz</span><span class="val" id="c-hq"></span></div><div class="card-row"><span class="lbl">Gegr&#252;ndet</span><span class="val" id="c-founded"></span></div><div class="card-row"><span class="lbl">Stil</span><span class="val" id="c-style"></span></div><div class="card-row"><span class="lbl">Titel</span><span class="val" id="c-champ"></span></div><div class="card-row"><span class="lbl">Roster</span><span class="val" id="c-roster"></span></div><div class="card-note" id="c-note"></div><a class="card-link" id="c-link" href="#" target="_blank">&#127760; Website</a><div class="md-box" id="c-md"></div></div></div>
 <div id="legend"><div class="legend-item" data-org="PWA"><div class="legend-dot" style="background:#e63946"></div><span>PWA</span></div><div class="legend-item" data-org="CW"><div class="legend-dot" style="background:#f4a261"></div><span>CW</span></div><div class="legend-item" data-org="PNCW"><div class="legend-dot" style="background:#2a9d8f"></div><span>PNCW</span></div><div class="legend-item" data-org="AULL"><div class="legend-dot" style="background:#e9c46a"></div><span>AULL</span></div></div>
@@ -216,5 +152,5 @@ document.addEventListener("click",function(e){if(!card.contains(e.target)&&!e.ta
 document.addEventListener("mousemove",function(e){if(card.classList.contains("visible")&&!card.dataset.pinned)posCard(e)});
 });
 </script>
-</body>
-</html>
+
+{% endraw %}

@@ -44,16 +44,15 @@ code { background: var(--csw-card); }
 blockquote { margin: 1.5rem 0; border-left: 3px solid var(--csw-red); padding: .5rem 1.3rem; background: var(--csw-card); }
 .skip-link { position: absolute; left: 1rem; top: -100px; z-index: 1100; padding: .7rem 1rem; background: var(--csw-gold); color: #101113; font-weight: 750; }
 .skip-link:focus { top: .5rem; }
-.brand-row, .nav-inner, .footer-inner { max-width: 1280px; margin: auto; padding: 0 32px; }
-.brand-row { display: flex; align-items: center; justify-content: space-between; gap: 24px; min-height: 96px; }
-.csw-brand { display: flex; align-items: center; gap: 14px; color: var(--csw-text); text-decoration: none; font-size: 1.15rem; font-weight: 800; letter-spacing: -.02em; line-height: 1.3; }
-.csw-brand small { display: block; margin-top: 5px; font-size: .66rem; font-weight: 600; text-transform: uppercase; color: var(--csw-muted); letter-spacing: .12em; }
-.brand-logo { width: 64px; height: 64px; object-fit: contain; flex-shrink: 0; }
-.season-link { color: var(--csw-muted); font-size: .8rem; font-weight: 700; text-decoration: none; }
-.season-link span { color: var(--csw-gold); margin-left: 12px; }
-.csw-banner { height: 200px; background: #191b1f; border-top: 1px solid var(--csw-border); }
-.csw-banner img { display: block; width: 100%; height: 200px; object-fit: cover; object-position: center; }
-.csw-banner-highlights, .csw-banner-highlights img { height: 220px; }
+.banner-inner, .nav-inner, .footer-inner { max-width: 1280px; margin: auto; padding: 0 32px; }
+/* The image, treatment and brand are isolated layers of ONE header. */
+.csw-masthead { background: var(--csw-card); border-bottom: 2px solid var(--csw-red); }
+.csw-banner { position: relative; isolation: isolate; height: 288px; }
+#csw-banner-img { position: absolute; inset: 0; z-index: 0; display: block; width: 100%; height: 100%; object-fit: cover; object-position: var(--banner-position, center); }
+.csw-banner::after { content: ''; position: absolute; inset: 0; z-index: 1; pointer-events: none; background: linear-gradient(90deg, rgba(0,0,0,.5), transparent 55%), linear-gradient(0deg, rgba(0,0,0,.25), transparent 65%); }
+.banner-inner { position: relative; z-index: 2; height: 100%; display: flex; align-items: center; }
+.csw-brand { display: inline-flex; flex-shrink: 0; text-decoration: none; border-radius: 6px; }
+.brand-logo { display: block; width: 240px; height: 240px; object-fit: contain; filter: drop-shadow(0 6px 16px #0009); }
 .csw-navigation { position: sticky; top: 0; z-index: 100; background: #141518; border-bottom: 1px solid var(--csw-border); }
 .csw-menu { display: flex; align-items: stretch; justify-content: space-between; gap: 10px; padding: 0; margin: 0; list-style: none; }
 .csw-menu li { margin: 0; }
@@ -134,7 +133,6 @@ blockquote { margin: 1.5rem 0; border-left: 3px solid var(--csw-red); padding: .
 .team-member-card span { text-align: center; font-size: .78rem; font-weight: 700; padding: 12px 8px; line-height: 1.3; }
 /* Previously embedded Highlights and Season styles now live here. */
 .hl-hero { margin-bottom: 20px; color: var(--csw-muted); }
-.hl-hero img { display: none; } /* The same banner is already in the masthead. */
 .hl-filter { display: flex; flex-wrap: wrap; gap: 10px; margin: 24px 0; }
 .hl-filter button { min-height: 44px; padding: 8px 18px; background: var(--csw-card); border: 1px solid #555963; color: var(--csw-text); }
 .hl-filter button.active, .hl-filter button:hover { background: var(--csw-red); border-color: var(--csw-red); }
@@ -171,10 +169,9 @@ blockquote { margin: 1.5rem 0; border-left: 3px solid var(--csw-red); padding: .
   .hub-grid { grid-template-columns: repeat(3, minmax(0,1fr)); }
 }
 @media (max-width: 768px) {
-  .brand-row, .nav-inner, .footer-inner { padding-left: 20px; padding-right: 20px; }
-  .brand-row { min-height: 88px; }
-  .csw-brand { font-size: .96rem; }
-  .season-link { display: none; }
+  .banner-inner, .nav-inner, .footer-inner { padding-left: 20px; padding-right: 20px; }
+  .csw-banner { height: 204px; }
+  .brand-logo { width: 164px; height: 164px; }
   .content { padding: 26px 20px 42px; }
   .csw-menu { flex-wrap: wrap; justify-content: start; gap: 0; }
   .csw-menu li { flex: 1 1 25%; }

@@ -3,9 +3,10 @@ function userMarkdownSetup(md) {
   // Feel free to add any plugin you want here instead of /.eleventy.js
 }
 function userEleventySetup(eleventyConfig) {
-  const { sectionFor, enhanceContent, displayTitle } = require('./cswDesign');
+  const { sectionFor, headerFor, enhanceContent, displayTitle } = require('./cswDesign');
   const markdown = require('markdown-it')({ html: true });
   eleventyConfig.addFilter('cswSection', sectionFor);
+  eleventyConfig.addFilter('cswHeader', headerFor);
   eleventyConfig.addFilter('cswContent', enhanceContent);
   eleventyConfig.addFilter('cswTitle', displayTitle);
   eleventyConfig.addFilter('cswMarkdown', value => markdown.render(value || ''));

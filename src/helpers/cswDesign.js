@@ -1,7 +1,9 @@
 const { parse } = require('node-html-parser');
 
 const base = '/choke-slam-wrestling';
-const images = 'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/';
+const fs = require('node:fs');
+const path = require('node:path');
+const images = `${base}/img/banners/`;
 const sections = [
   ['home', '', 'Start', 'CSW_Header_Banner.png'],
   ['events', 'events', 'Events', 'CSW_Events_Banner.png'],
@@ -30,6 +32,10 @@ function enhanceContent(content, url = '') {
     ? (content || '').replace(/(^|\n)## Matches(?=\n|$)/g, '$1<h2 id="matches">Matches</h2>')
     : content || '';
   const root = parse(html);
+  // Only the known decorative duplicate, never posters/portraits/content images.
+  for (const image of root.querySelectorAll('.hl-hero img')) {
+    if ((image.getAttribute('src') || '').endsWith('CSW_Highlights_Banner.png')) image.remove();
+  }
   // Hundreds of megabytes of VODs must not be fetched until playback is requested.
   for (const video of root.querySelectorAll('video')) video.setAttribute('preload', 'none');
   // These maintained sections now use the shared stylesheet, not embedded themes.
@@ -92,4 +98,19 @@ function enhanceContent(content, url = '') {
   return root.toString();
 }
 
-module.exports = { base, sections, sectionFor, enhanceContent, displayTitle };
+// Only checked-in, existing image assets are accepted; invalid overrides use
+// the shared fallback. Configure via headerImage/headerPosition in frontmatter
+// or directory data, never by modifying a generated note's body.
+function headerFor(url = '/', { headerImage, headerPosition } = {}) {
+  const fallback = sections[0].banner;
+  const candidate = headerImage === undefined ? sectionFor(url).banner : headerImage;
+  const relative = typeof candidate === 'string' ? candidate.replace(new RegExp(`^${base}`), '') : '';
+  const valid = /^\/img\/[\w/.-]+\.(png|jpe?g|webp|avif)$/i.test(relative)
+    && !relative.split('/').includes('..')
+    && fs.existsSync(path.join(__dirname, '../site', relative));
+  const position = /^(left|center|right)( (top|center|bottom))?$/.test(headerPosition || '')
+    ? headerPosition : 'center';
+  return { image: valid ? `${base}${relative}` : fallback, position };
+}
+
+module.exports = { base, sections, sectionFor, headerFor, enhanceContent, displayTitle };

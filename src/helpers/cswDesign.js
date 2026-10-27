@@ -9,7 +9,7 @@ const sections = [
   ['events', 'events', 'Events', 'CSW_Events_Banner.png'],
   ['roster', 'wrestler', 'Roster', 'CSW_Roster_Banner.png'],
   ['titles', 'championships', 'Titel', 'CSW_Championships_Banner.png'],
-  ['teams', 'teams', 'Teams', 'CSW_Header_Banner.png'],
+  ['teams', 'teams', 'Teams', 'CSW_Teams_Banner.png'],
   ['stats', 'statistiken', 'Statistiken', 'CSW_Header_Banner.png'],
   ['highlights', 'highlights', 'Highlights', 'CSW_Highlights_Banner.png'],
   ['s08', 's08', 'Season 8', 'CSW_Header_Banner.png'],

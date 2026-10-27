@@ -17,8 +17,15 @@ test('single banner masthead contains the prominent authentic logo, menu remains
   assert.equal(header.querySelectorAll('.csw-banner').length, 1);
   assert.equal(header.querySelectorAll('nav').length, 0);
   assert.equal(header.nextElementSibling.getAttribute('class'), 'csw-navigation');
-  assert.equal(header.querySelector('.brand-logo').getAttribute('src'), '/choke-slam-wrestling/img/csw-official-logo.jpg');
+  assert.equal(header.querySelector('.brand-logo').getAttribute('src'), '/choke-slam-wrestling/img/csw-official-logo.png');
   assert.equal(root.querySelectorAll('.csw-menu a').length, 8);
+});
+
+test('teams overview and team profiles share their dedicated Sunburst banner', () => {
+  for (const url of ['/teams/', '/teams/saint-rebel-radicalz/']) {
+    assert.equal(design.headerFor(url).image, '/choke-slam-wrestling/img/banners/CSW_Teams_Banner.png');
+  }
+  assert.equal(design.headerFor('/').image, '/choke-slam-wrestling/img/banners/CSW_Header_Banner.png');
 });
 
 test('header resolves existing local section art, explicit image/crop, and safe global fallback', () => {

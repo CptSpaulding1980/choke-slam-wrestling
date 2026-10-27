@@ -17,7 +17,8 @@ test('single banner masthead contains the prominent authentic logo, menu remains
   assert.equal(header.querySelectorAll('.csw-banner').length, 1);
   assert.equal(header.querySelectorAll('nav').length, 0);
   assert.equal(header.nextElementSibling.getAttribute('class'), 'csw-navigation');
-  assert.equal(header.querySelector('.brand-logo').getAttribute('src'), '/choke-slam-wrestling/img/csw-official-logo.png');
+  const logoHash = require('node:crypto').createHash('sha256').update(fs.readFileSync('src/site/img/csw-official-logo.png')).digest('hex').slice(0, 12);
+  assert.equal(header.querySelector('.brand-logo').getAttribute('src'), `/choke-slam-wrestling/img/csw-official-logo.png?v=${logoHash}`);
   assert.equal(root.querySelectorAll('.csw-menu a').length, 8);
 });
 

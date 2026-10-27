@@ -20,9 +20,9 @@ title: Sweet 'n Sour Elite
 ## Aktuelles Team
 <!-- AUTO TEAM ROSTER START -->
 <div class="team-roster-grid">
-  <a href="/choke-slam-wrestling/wrestler/steve-austin/" class="team-member-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Steve_Austin.png" alt="Steve Austin">
-    <span>Steve Austin</span>
+  <a href="/choke-slam-wrestling/wrestler/the-undertaker/" class="team-member-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Undertaker.png" alt="The Undertaker">
+    <span>The Undertaker</span>
   </a>
   <a href="/choke-slam-wrestling/wrestler/cesaro/" class="team-member-card">
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Cesaro.png" alt="Cesaro">

@@ -24,8 +24,6 @@ avg_rating: 89.04
 <!-- AUTO CHAMPION STATUS END -->
 
 
-
-
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|

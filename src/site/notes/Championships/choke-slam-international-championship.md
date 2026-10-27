@@ -23,9 +23,9 @@ title: Choke Slam International Championship
 <tr><td><strong>Kürzeste Regentschaft</strong></td><td>[[Wrestler/Bob Backlund\|Bob Backlund]] (8 Tage)</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/AJ Styles\|AJ Styles]] (2x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Christian Cage\|Christian Cage]] (1 Verteidigungen)</td></tr>
-<tr><td><strong>Titelmatches gesamt</strong></td><td>22</td></tr>
-<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>6 (27%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]] — Tag 46 🔥</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>23</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>7 (30%)</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]] — Tag 88 🔥</td></tr>
 </tbody>
 </table>
 
@@ -46,7 +46,7 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>1</td><td>0</td><td>200 Tage</td><td>200 Tage</td></tr>
 <tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>1</td><td>77 Tage</td><td>77 Tage</td></tr>
-<tr><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]]</td><td>1</td><td>0</td><td>46 Tage</td><td>46 Tage</td></tr>
+<tr><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]]</td><td>1</td><td>1</td><td>88 Tage</td><td>88 Tage</td></tr>
 </tbody>
 </table>
 
@@ -69,6 +69,6 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>2025-08-21</td><td>[[Events/2025-08-21 - S07E03_Changes III\|2025-08-21 - S07E03_Changes III]]</td><td>2025-10-27</td><td>67 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>2025-10-27</td><td>[[Events/2025-10-27 - S07E05_Threeway Fiasko\|2025-10-27 - S07E05_Threeway Fiasko]]</td><td>2026-05-15</td><td>200 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>2026-07-31</td><td>77 Tage</td><td>1</td></tr>
-<tr><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]]</td><td>2026-07-31</td><td>[[Events/2026-07-31 - S08E01_Genesis\|2026-07-31 - S08E01_Genesis]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
+<tr><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]]</td><td>2026-07-31</td><td>[[Events/2026-07-31 - S08E01_Genesis\|2026-07-31 - S08E01_Genesis]]</td><td>Current</td><td>aktuell</td><td>1</td></tr>
 </tbody>
 </table>

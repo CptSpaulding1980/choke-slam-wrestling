@@ -20,13 +20,13 @@ title: Militanter Mummenschanz
 ## Aktuelles Team
 <!-- AUTO TEAM ROSTER START -->
 <div class="team-roster-grid">
-  <a href="/choke-slam-wrestling/wrestler/mick-foley/" class="team-member-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mick_Foley.png" alt="Mick Foley">
-    <span>Mick Foley</span>
+  <a href="/choke-slam-wrestling/wrestler/john-cena/" class="team-member-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/John_Cena.png" alt="John Cena">
+    <span>John Cena</span>
   </a>
-  <a href="/choke-slam-wrestling/wrestler/randy-orton/" class="team-member-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Randy_Orton.png" alt="Randy Orton">
-    <span>Randy Orton</span>
+  <a href="/choke-slam-wrestling/wrestler/dean-malenko/" class="team-member-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dean_Malenko.png" alt="Dean Malenko">
+    <span>Dean Malenko</span>
   </a>
   <a href="/choke-slam-wrestling/wrestler/masahiro-chono/" class="team-member-card">
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Masahiro_Chono.png" alt="Masahiro Chono">

@@ -3,7 +3,7 @@
   "sheet_gid": 828908512,
   "tab_name": "Choke Slam Wrestling S8",
   "source_name": "S08_Wrestler-Liste.xlsx",
-  "source_modified": "2026-09-14T21:42:17.619Z",
+  "source_modified": "2026-10-26T21:24:23.746Z",
   "colour_to_manager": {
     "#FF9900": "Pascal",
     "#EAD1DC": "Phillipp",
@@ -11,21 +11,21 @@
   },
   "teams": {
     "Militanter Mummenschanz": [
-      "Mick Foley",
-      "Randy Orton",
+      "John Cena",
+      "Dean Malenko",
       "Masahiro Chono",
       "SANADA",
       "Rosemary"
     ],
     "Saint Rebel Radicalz": [
       "Kazuchika Okada",
+      "Big Van Vader",
       "Chris Benoit",
-      "Yokozuna",
       "Megumi Kudo",
       "The Miz"
     ],
     "Sweet 'n Sour Elite": [
-      "Steve Austin",
+      "The Undertaker",
       "Cesaro",
       "Matanza Cueto",
       "Madusa",

@@ -59,6 +59,35 @@ class TeamSheetTests(unittest.TestCase):
             },
         )
 
+    def test_vader_alias_requires_existing_big_van_vader(self):
+        workbook = Workbook()
+        sheet = workbook.active
+        sheet.title = "Choke Slam Wrestling S8"
+        for row, (manager, colour, name) in enumerate(
+            (
+                ("Pascal", "FFFF9900", "Vader"),
+                ("Phillipp", "FFEAD1DC", "Mick Foley"),
+                ("Hendrik", "FF61D836", "Steve Austin"),
+            ),
+            4,
+        ):
+            sheet.cell(row, 9).fill = PatternFill("solid", fgColor=colour)
+            sheet.cell(row, 10).value = manager
+            sheet.cell(row, 2).value = name
+            sheet.cell(row, 2).fill = PatternFill("solid", fgColor=colour)
+
+        for alias in ("Vader", "VADER", "vader"):
+            with self.subTest(alias=alias):
+                sheet["B4"] = alias
+                result = site_sync.extract_team_rosters(
+                    workbook, available_names={"Big Van Vader", "Mick Foley", "Steve Austin"}
+                )
+                self.assertEqual(result.teams["Saint Rebel Radicalz"], ["Big Van Vader"])
+                with self.assertRaisesRegex(ValueError, f"Unresolved team wrestler names: B4: {alias}"):
+                    site_sync.extract_team_rosters(
+                        workbook, available_names={"Mick Foley", "Steve Austin"}
+                    )
+
     def test_unresolved_wrestler_is_an_error(self):
         workbook = Workbook()
         sheet = workbook.active

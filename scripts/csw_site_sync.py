@@ -67,6 +67,7 @@ TEAM_CONFIG = {
     },
 }
 NAME_ALIASES = {
+    "vader": "Big Van Vader",
     "mankind": "Mick Foley",
     "sanada": "SANADA",
     "konosuke takeshita": "Konosuke Takeshita",

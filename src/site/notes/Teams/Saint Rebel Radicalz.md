@@ -24,13 +24,13 @@ title: Saint Rebel Radicalz
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kazuchika_Okada.png" alt="Kazuchika Okada">
     <span>Kazuchika Okada</span>
   </a>
+  <a href="/choke-slam-wrestling/wrestler/big-van-vader/" class="team-member-card">
+    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Van_Vader.png" alt="Big Van Vader">
+    <span>Big Van Vader</span>
+  </a>
   <a href="/choke-slam-wrestling/wrestler/chris-benoit/" class="team-member-card">
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Chris_Benoit.png" alt="Chris Benoit">
     <span>Chris Benoit</span>
-  </a>
-  <a href="/choke-slam-wrestling/wrestler/yokozuna/" class="team-member-card">
-    <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Yokozuna.png" alt="Yokozuna">
-    <span>Yokozuna</span>
   </a>
   <a href="/choke-slam-wrestling/wrestler/megumi-kudo/" class="team-member-card">
     <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Megumi_Kudo.png" alt="Megumi Kudo">

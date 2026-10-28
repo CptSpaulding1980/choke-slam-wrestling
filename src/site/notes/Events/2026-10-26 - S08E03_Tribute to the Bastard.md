@@ -14,6 +14,19 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 **Date:** 2026-10-26
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
 
+
+<div style="background:#1a1a2e; border:2px solid var(--cm-red); border-radius:8px; padding:8px; margin:8px 0 16px; max-width:640px;">
+<p style="margin:0 0 6px 0; color:var(--cm-red); font-weight:bold; font-size:0.9em;">
+🎬 FULL EVENT VIDEO — 2026-10-03
+</p>
+<video controls style="width:100%; border-radius:4px;" poster="/img/posters/full_event_video.png">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E03_2891048502_2026-10-03_full_event.mp4" type="video/mp4">
+  Dein Browser unterstützt kein HTML5-Video.
+</video>
+<p style="margin:4px 0 0 0; font-size:0.8em; color:#aaa;">
+<a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E03_2891048502_2026-10-03_full_event.mp4" style="color:var(--cm-highlight);">Download MP4</a> — Choke Slam Wrestling - S08E03_Tribute to the Bstrd (Pt. 1)
+</p>
+</div>
 ## Matches
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |

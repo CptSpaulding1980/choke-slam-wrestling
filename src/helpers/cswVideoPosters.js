@@ -17,7 +17,7 @@ function loadEvents(directory = path.join(__dirname, '../site/notes/Events')) {
       source: video.getAttribute('src') || video.querySelector('source')?.getAttribute('src'),
       poster: isPoster(video.getAttribute('poster')) ? video.getAttribute('poster') : poster,
     }));
-    return { href: eventPath(data.permalink), poster, videos };
+    return { href: eventPath(data.permalink), title: String(data.title || path.basename(file, '.md')), date: String(data.date || ''), poster, videos };
   });
 }
 
@@ -38,10 +38,43 @@ function resolvePoster(href, source, events) {
   return exact.length === 1 && isPoster(exact[0].poster) ? exact[0].poster : fallback;
 }
 
+const escape = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
+
+function reconcileHighlights(root, events) {
+  const present = new Set(root.querySelectorAll('video').map(video => video.getAttribute('src') || video.querySelector('source')?.getAttribute('src')));
+  const bySource = new Map();
+  for (const event of events) {
+    if (!/^\/events\/.+\/$/.test(event.href)) continue;
+    for (const video of event.videos) {
+      if (!video.source) continue;
+      if (!bySource.has(video.source)) bySource.set(video.source, []);
+      bySource.get(video.source).push(event);
+    }
+  }
+  for (const [source, candidates] of bySource) {
+    if (present.has(source)) continue;
+    // A legacy note can repeat an earlier day's source. Prefer the exact date
+    // only to disambiguate those associations, never as the official event date.
+    const matching = candidates.filter(event => event.date && source.includes(event.date));
+    const event = matching.length === 1 ? matching[0] : candidates[0];
+    const season = event.title.match(/S(\d+)E\d+/i)?.[1];
+    if (!season) continue;
+    const key = `s${season}`;
+    let grid = root.querySelector(`.hl-season[data-season="${key}"] .hl-grid`);
+    if (!grid) {
+      root.insertAdjacentHTML('beforeend', `<section class="hl-season" data-season="${key}"><h2>Season ${Number(season)} — Videos</h2><div class="hl-grid"></div></section>`);
+      grid = root.querySelector(`.hl-season[data-season="${key}"] .hl-grid`);
+    }
+    const type = /full_event/i.test(source) ? 'full' : 'clip';
+    grid.insertAdjacentHTML('beforeend', `<article class="hl-card" data-type="${type}" data-season="${key}"><video controls preload="none" poster="${escape(resolvePoster(event.href, source, events))}"><source src="${escape(source)}" type="video/mp4"></video><div class="info"><div class="title">${escape(event.title.replace('_', ' — '))}</div><div class="meta">${escape(event.date)}</div><a href="/choke-slam-wrestling${escape(event.href)}">→ Event Page</a></div></article>`);
+    present.add(source);
+  }
+}
+
 function enhanceHighlights(root) {
-  const cards = root.querySelectorAll('.hl-card');
-  if (!cards.length) return;
   const events = loadEvents();
+  reconcileHighlights(root, events);
+  const cards = root.querySelectorAll('.hl-card');
   for (const card of cards) {
     const href = card.querySelector('a[href]')?.getAttribute('href');
     for (const video of card.querySelectorAll('video')) {

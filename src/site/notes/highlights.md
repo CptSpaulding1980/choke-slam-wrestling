@@ -54,13 +54,10 @@ title: "Video Highlights"
       <div class="info"><div class="title">S08E01 — Genesis · Teil 2</div><div class="meta">2026-07-31</div><a href="/choke-slam-wrestling/events/2026-07-31-s08e01-genesis/">→ Event Page</a></div>
     </article>
     <article class="hl-card" data-type="full" data-season="s08">
-      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E02_All_In_poster_v2.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E02_2864421295_2026-09-03_full_event.mp4" type="video/mp4"></video>
-      <div class="info"><div class="title">S08E02 — All In · Teil 1</div><div class="meta">2026-09-14</div><a href="/choke-slam-wrestling/events/2026-09-14-s08e02-all-in/">→ Event Page</a></div>
+      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E02_All_In_poster_v2.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E02_a3ec08db0d8e61775e24_2025ebaf9b5051b3_full_event.mp4" type="video/mp4"></video>
+      <div class="info"><div class="title">S08E02_All In</div><div class="meta">2026-09-14</div><a href="/choke-slam-wrestling/events/2026-09-14-s08e02-all-in/">→ Event Page</a></div>
     </article>
-    <article class="hl-card" data-type="full" data-season="s08">
-      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E02_All_In_poster_v2.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E02_2874223577_2026-09-14_full_event.mp4" type="video/mp4"></video>
-      <div class="info"><div class="title">S08E02 — All In · Teil 2</div><div class="meta">2026-09-14</div><a href="/choke-slam-wrestling/events/2026-09-14-s08e02-all-in/">→ Event Page</a></div>
-    </article>
+    
   </div>
 </section>
 <!-- AUTO S08 HIGHLIGHTS END -->

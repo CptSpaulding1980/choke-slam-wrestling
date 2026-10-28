@@ -16,18 +16,13 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-16-s07e11-greatest-champion-tournament_poster.png" width="300" style="border-radius:8px;">
 
 <video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2791888211_2026-06-08_full_event.mp4" type="video/mp4">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_606589152dae81a4eb19_66cae071c05f41f0_full_event.mp4" type="video/mp4">
   Dein Browser unterstützt kein HTML5-Video.
 </video>
 
-<video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-08_full_event.mp4" type="video/mp4">
-  Dein Browser unterstützt kein HTML5-Video.
-</video>
 
-<video controls style="width:100%;border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-16_full_event.mp4" type="video/mp4">
-</video>
+
+
 
 ## Matches
 

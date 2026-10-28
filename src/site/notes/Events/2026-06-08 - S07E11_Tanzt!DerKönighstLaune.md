@@ -25,10 +25,10 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <div style="background:#1a1025;border:1px solid #2a1540;border-radius:8px;padding:1rem;">
 <strong style="color:#f59e0b;">🎬 Full Event Video</strong><br><br>
 <video controls style="width:100%;border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2791888211_2026-06-08_full_event.mp4" type="video/mp4">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_606589152dae81a4eb19_66cae071c05f41f0_full_event.mp4" type="video/mp4">
 </video>
 <p style="margin:4px 0 0 0;font-size:0.8em;color:#9ca3af;">
-<a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2791888211_2026-06-08_full_event.mp4" style="color:#e63946;">📥 Download MP4</a>
+<a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_606589152dae81a4eb19_66cae071c05f41f0_full_event.mp4" style="color:#e63946;">📥 Download MP4</a>
 </p>
 </div>
 </div>

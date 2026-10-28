@@ -80,12 +80,12 @@ title: "Video Highlights"
     </div>
     <div class="hl-card" data-type="full" data-season="s07">
       <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
-        <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-08_full_event.mp4" type="video/mp4">
+        <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_606589152dae81a4eb19_66cae071c05f41f0_full_event.mp4" type="video/mp4">
       </video>
       <div class="info">
-        <div class="title">S07E11 — Tanzt! Der König hat Laune</div>
-        <div class="meta">2026-06-08</div>
-        <a href="/choke-slam-wrestling/events/2026-06-08-s07e11-tanztderknighstlaune/">→ Event Page</a>
+        <div class="title">S07E11_Tanzt!DerKönigHatLaune</div>
+        <div class="meta">2026-06-16</div>
+        <a href="/choke-slam-wrestling/events/2026-06-16-s07e11-tanztderknighatlaune/">→ Event Page</a>
       </div>
     </div>
     <div class="hl-card" data-type="full" data-season="s07">

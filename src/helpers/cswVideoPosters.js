@@ -82,5 +82,6 @@ function enhanceHighlights(root) {
       video.setAttribute('poster', resolvePoster(href, source, events));
     }
   }
+  require('./cswHighlightSeasons').normalizeHighlights(root);
 }
 module.exports = { fallback, loadEvents, resolvePoster, enhanceHighlights };

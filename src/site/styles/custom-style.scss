@@ -119,8 +119,11 @@ blockquote { margin: 1.5rem 0; border-left: 3px solid var(--csw-red); padding: .
 .champion-status-titles { display: flex; flex-wrap: wrap; gap: 12px; }
 .champion-title-link { font-size: .8rem; }
 .event-poster { display: block; width: 300px; max-height: 480px; object-fit: contain; margin: 24px 0; }
-.event-video { background: var(--csw-card); border: 1px solid var(--csw-border); padding: 18px; margin: 24px 0; max-width: 800px; }
-.event-video p { color: var(--csw-muted); font-size: .8rem; }
+// Highlights at the 1280px content limit: (1216px - 2 * 20px gaps) / 3 = 392px.
+// Match that card width; keep real event posters on their separate contract.
+.event-video { background: var(--csw-card); border: 1px solid var(--csw-border); padding: 0; margin: 24px 0; max-width: 392px; }
+.event-video p { color: var(--csw-muted); font-size: .8rem; padding: 12px 18px; overflow-wrap: anywhere; }
+.event-video-preview { width: 100%; max-width: 390px; }
 .team-profile { display: flex; align-items: center; justify-content: space-between; gap: 20px; max-width: 620px; padding: 20px; border: 1px solid var(--csw-border); background: var(--csw-card); }
 .team-manager { display: flex; gap: 18px; align-items: center; text-decoration: none; color: var(--csw-text); font-weight: 750; }
 .team-manager img { width: 76px; height: 76px; object-fit: cover; object-position: top; }
@@ -138,7 +141,7 @@ blockquote { margin: 1.5rem 0; border-left: 3px solid var(--csw-red); padding: .
 .hl-filter button.active, .hl-filter button:hover { background: var(--csw-red); border-color: var(--csw-red); }
 .hl-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr)); gap: 20px; }
 .hl-card { min-width: 0; background: var(--csw-card); border: 1px solid var(--csw-border); }
-.hl-card video { width: 100%; aspect-ratio: 16/9; object-fit: contain; }
+.hl-card video, .event-video-preview { width: 100%; aspect-ratio: 16/9; object-fit: contain; }
 .hl-card .info { padding: 18px; }
 .hl-card .title { color: var(--csw-text); font-size: .95rem; font-weight: 750; }
 .hl-card .meta { color: var(--csw-muted); font-size: .75rem; margin: 8px 0; }

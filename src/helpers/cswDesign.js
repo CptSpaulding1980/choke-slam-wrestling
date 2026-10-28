@@ -32,6 +32,7 @@ function enhanceContent(content, url = '') {
     ? (content || '').replace(/(^|\n)## Matches(?=\n|$)/g, '$1<h2 id="matches">Matches</h2>')
     : content || '';
   const root = parse(html);
+  if (url.startsWith('/highlights/')) require('./cswVideoPosters').enhanceHighlights(root);
   // Only the known decorative duplicate, never posters/portraits/content images.
   for (const image of root.querySelectorAll('.hl-hero img')) {
     if ((image.getAttribute('src') || '').endsWith('CSW_Highlights_Banner.png')) image.remove();
@@ -63,12 +64,19 @@ function enhanceContent(content, url = '') {
       .replace(/#2a1540/gi, '#34373e'));
   }
   if (url.startsWith('/events/')) {
+    for (const link of root.querySelectorAll('a[href]')) {
+      if (/\.(mp4|webm|ogv)(?:[?#]|$)|^https?:\/\/(?:www\.)?(?:youtu\.be\/|youtube\.com\/watch\?|vimeo\.com\/\d)/i.test(link.getAttribute('href'))) {
+        for (const image of link.querySelectorAll('img')) image.classList.add('event-video-preview');
+      }
+    }
     for (const image of root.querySelectorAll('img[width="300"]')) {
+      if (image.classList.contains('event-video-preview')) continue;
       image.removeAttribute('style');
       image.classList.add('event-poster');
       image.setAttribute('alt', 'Eventposter');
     }
     for (const video of root.querySelectorAll('video')) {
+      video.classList.add('event-video-preview');
       video.setAttribute('preload', 'none');
       const poster = root.querySelector('.event-poster');
       if (poster && video.getAttribute('poster') === '/img/posters/full_event_video.png') {

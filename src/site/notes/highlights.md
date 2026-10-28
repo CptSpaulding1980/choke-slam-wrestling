@@ -90,10 +90,10 @@ title: "Video Highlights"
     </div>
     <div class="hl-card" data-type="full" data-season="s07">
       <video controls poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" preload="metadata">
-        <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E10_2772800919_2026-05-15_full_event.mp4" type="video/mp4">
+        <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E10_cde0bf9dcc0f92bae97e_9daa0d04ba7ca587_full_event.mp4" type="video/mp4">
       </video>
       <div class="info">
-        <div class="title">S07E10 — Night of Champions</div>
+        <div class="title">S07E10_Night of Champions</div>
         <div class="meta">2026-05-15</div>
         <a href="/choke-slam-wrestling/events/2026-05-15-s07e10-night-of-champions/">→ Event Page</a>
       </div>

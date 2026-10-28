@@ -29,9 +29,15 @@ test('Highlights always includes every unique event video, especially S08E03, wi
   const expected = [...new Set(events.flatMap(event => event.videos.map(video => video.source)))];
   assert.deepEqual([...new Set(sources)].sort(), expected.sort());
   assert.equal(sources.length, expected.length);
-  const dayOneVideo = root.querySelectorAll('video').find(v => v.querySelector('source').getAttribute('src').includes('S07E11_2791888211_'));
-  assert.match(dayOneVideo.parentNode.querySelector('a').getAttribute('href'), /2026-06-08-s07e11/);
-  assert.match(dayOneVideo.getAttribute('poster'), /2026-06-08-s07e11/);
+  // Validate maintained identities rather than an obsolete Part-1 filename.
+  for (const currentVideo of root.querySelectorAll('video')) {
+    const source = currentVideo.querySelector('source').getAttribute('src');
+    const href = currentVideo.parentNode.querySelector('a').getAttribute('href');
+    const event = events.find(event => '/choke-slam-wrestling' + event.href === href);
+    assert(event, `Canonical event missing for ${source}`);
+    assert(event.videos.some(video => video.source === source));
+    assert.equal(currentVideo.getAttribute('poster'), resolvePoster(href, source, events));
+  }
   const video = root.querySelectorAll('video').find(v => v.querySelector('source').getAttribute('src').includes('S08E03_'));
   assert.match(video.getAttribute('poster'), /S08E03_Tribute_to_the_Bastard_poster.png$/);
   assert.match(video.parentNode.text, /2026-10-26/);

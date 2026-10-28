@@ -20,10 +20,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E12_2026-06-23_full_event.mp4" type="video/mp4">
 </video>
 
-<video controls style="width:100%; border-radius:4px;" poster="/img/posters/full_event_video.png">
-  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E12_2850784860_2026-08-19_full_event.mp4" type="video/mp4">
-  Dein Browser unterstützt kein HTML5-Video.
-</video>
+
 
 ## Matches
 

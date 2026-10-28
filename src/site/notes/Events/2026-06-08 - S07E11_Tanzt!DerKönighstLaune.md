@@ -8,6 +8,13 @@ venue: "Bank Atlantic Center"
 location: "Sunrise, Florida, USA"
 image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-08-s07e11-tanzt-der-koenig-hat-laune_poster.png"
 ---
+# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E11_Tanzt!DerKönighstLaune**
+
+**Date:** 2026-06-08
+
+**Venue:** Bank Atlantic Center - Sunrise, Florida, USA
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-08-s07e11-tanzt-der-koenig-hat-laune_poster.png" width="250">
 
 <div style="display:flex;gap:1.5rem;align-items:flex-start;flex-wrap:wrap;margin:1.5rem 0;">
 <div style="flex:0 0 300px;min-width:250px;">
@@ -31,13 +38,8 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 
 
-<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-08-s07e11-tanzt-der-koenig-hat-laune_poster.png" width="250">
 
-# <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E11_Tanzt!DerKönighstLaune**
 
-**Date:** 2026-06-08
-
-**Venue:** Bank Atlantic Center - Sunrise, Florida, USA
 
 ## Matches
 

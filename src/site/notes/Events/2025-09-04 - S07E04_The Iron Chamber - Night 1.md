@@ -6,13 +6,14 @@ date: "2025-09-04"
 promotion: "Choke Slam Wrestling"
 venue: "Cincinnati Gardens"
 location: "Cincinnati, Ohio, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2025-10-02-s07e04-the-iron-chamber---night-2_poster.png"
 ---
-
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E04_The Iron Chamber - Night 1**
 
 **Date:** 2025-09-04
 **Venue:** Cincinnati Gardens - Cincinnati, Ohio, USA
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2025-10-02-s07e04-the-iron-chamber---night-2_poster.png" width="300" style="border-radius:8px;">
 
 ## Matches
 

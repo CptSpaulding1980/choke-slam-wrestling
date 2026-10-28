@@ -6,13 +6,23 @@ date: "2026-05-15"
 promotion: "Choke Slam Wrestling"
 venue: "1st Mariner Arena"
 location: "Baltimore, Maryland, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-05-15-s07e10-night-of-champions_poster.png"
 ---
-
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E10_Night of Champions**
 
 **Date:** 2026-05-15
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-05-15-s07e10-night-of-champions_poster.png" width="300" style="border-radius:8px;">
+
+<video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E10_2772800919_2026-05-15_full_event.mp4" type="video/mp4">
+  Dein Browser unterstützt kein HTML5-Video.
+</video>
+
+<video controls style="width:100%;border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E10_2775996831_2026-05-19_full_event.mp4" type="video/mp4">
+</video>
 
 ## Matches
 

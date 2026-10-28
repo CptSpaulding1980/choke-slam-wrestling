@@ -6,13 +6,18 @@ date: "2025-12-30"
 promotion: "Choke Slam Wrestling"
 venue: "Cow Palace"
 location: "San Fransisco, California, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2025-12-30-s07e07-turbo-turnier_poster.png"
 ---
-
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E07_Turbo Turnier**
 
 **Date:** 2025-12-30
 **Venue:** Cow Palace - San Fransisco, California, USA
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2025-12-30-s07e07-turbo-turnier_poster.png" width="300" style="border-radius:8px;">
+
+<video controls style="width:100%;border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E07_2682844724_2026-01-28_full_event.mp4" type="video/mp4">
+</video>
 
 ## Matches
 

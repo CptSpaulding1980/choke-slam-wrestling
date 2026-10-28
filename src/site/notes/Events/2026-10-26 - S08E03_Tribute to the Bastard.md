@@ -6,14 +6,14 @@ date: "2026-10-26"
 promotion: "Choke Slam Wrestling"
 venue: "1st Mariner Arena"
 location: "Baltimore, Maryland, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E03_Tribute_to_the_Bastard_poster.png"
 ---
-
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S08E03_Tribute to the Bastard**
 
 **Date:** 2026-10-26
 **Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
 
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E03_Tribute_to_the_Bastard_poster.png" width="300" style="border-radius:8px;">
 
 <div style="background:#1a1a2e; border:2px solid var(--cm-red); border-radius:8px; padding:8px; margin:8px 0 16px; max-width:640px;">
 <p style="margin:0 0 6px 0; color:var(--cm-red); font-weight:bold; font-size:0.9em;">

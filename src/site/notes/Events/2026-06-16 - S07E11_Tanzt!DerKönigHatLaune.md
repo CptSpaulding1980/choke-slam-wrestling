@@ -6,13 +6,28 @@ date: "2026-06-16"
 promotion: "Choke Slam Wrestling"
 venue: "Bank Atlantic Center"
 location: "Sunrise, Florida, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-16-s07e11-greatest-champion-tournament_poster.png"
 ---
-
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E11_Tanzt!DerKönigHatLaune**
 
 **Date:** 2026-06-16
 **Venue:** Bank Atlantic Center - Sunrise, Florida, USA
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-16-s07e11-greatest-champion-tournament_poster.png" width="300" style="border-radius:8px;">
+
+<video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2791888211_2026-06-08_full_event.mp4" type="video/mp4">
+  Dein Browser unterstützt kein HTML5-Video.
+</video>
+
+<video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-08_full_event.mp4" type="video/mp4">
+  Dein Browser unterstützt kein HTML5-Video.
+</video>
+
+<video controls style="width:100%;border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
+  <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-16_full_event.mp4" type="video/mp4">
+</video>
 
 ## Matches
 

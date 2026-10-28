@@ -422,6 +422,12 @@ def _season_eight_videos(repo: Path) -> List[dict]:
                     "part": index if len(urls) > 1 else None,
                 }
             )
+    # Stable numeric episode ordering keeps each event's existing source/part
+    # order intact, regardless of its filename or official event date.
+    videos.sort(
+        key=lambda video: int(re.findall(r"S08E(\d+)", video["title"], re.IGNORECASE)[0]),
+        reverse=True,
+    )
     return videos
 
 

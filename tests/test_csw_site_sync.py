@@ -249,6 +249,46 @@ class GeneratedContentTests(unittest.TestCase):
         self.assertIn("part-2_full_event.mp4", rendered)
         self.assertIn("/events/2026-09-14-s08e02-all-in/", rendered)
 
+    def test_season_eight_episodes_descend_numerically_without_reversing_parts(self):
+        highlights = self.repo / "src/site/notes/highlights.md"
+        prefix = '<div class="hl-filter"><button onclick="filter(\'all\')">All</button></div>\n'
+        older = '<div class="hl-season" data-season="s07">Older seasons unchanged</div>\n'
+        highlights.write_text(prefix + older, encoding="utf-8")
+        expected = []
+        # Filename/date order deliberately disagrees with numeric episode order.
+        for filename, code in (("a", "E02"), ("b", "E10"), ("c", "E01"), ("d", "E9")):
+            sources = [f'https://example.test/{code}-{part}_full_event.mp4' for part in (1, 2)]
+            (self.repo / f"src/site/notes/Events/{filename}.md").write_text(
+                f"---\ntitle: S08{code}_Show\ndate: '2026-01-01'\n"
+                f"permalink: /events/{code}/\nimage: https://example.test/{code}.png\n---\n"
+                + "\n".join(f'<source src="{url}" type="video/mp4">' for url in sources),
+                encoding="utf-8",
+            )
+        (self.repo / "src/site/notes/Events/old.md").write_text(
+            '---\ntitle: S07E99_Old\n---\n<source src="https://example.test/old.mp4">',
+            encoding="utf-8",
+        )
+        for code in ("E10", "E9", "E02", "E01"):
+            for part in (1, 2):
+                expected.append({
+                    "title": f"S08{code}_Show", "date": "2026-01-01",
+                    "permalink": f"/events/{code}/", "poster": f"https://example.test/{code}.png",
+                    "url": f"https://example.test/{code}-{part}_full_event.mp4",
+                    "type": "full", "part": part,
+                })
+        self.assertEqual(site_sync._season_eight_videos(self.repo), expected)
+        self.assertEqual(site_sync.update_season_eight_highlights(self.repo), 8)
+        first = highlights.read_text(encoding="utf-8")
+        self.assertEqual(first.split(site_sync.HIGHLIGHTS_START)[0], prefix.replace(
+            '</button>', '</button>\n  <button onclick="filter(\'s08\')">Season 8</button>', 1))
+        self.assertEqual(first.split(site_sync.HIGHLIGHTS_END)[1], "\n\n" + older)
+        positions = [first.index(video["url"]) for video in expected]
+        self.assertEqual(positions, sorted(positions))
+        for video in expected:
+            self.assertIn(f'{video["title"].replace("_", " — ", 1)} · Teil {video["part"]}', first)
+        site_sync.update_season_eight_highlights(self.repo)
+        self.assertEqual(highlights.read_text(encoding="utf-8"), first)
+
     def test_event_link_validator_handles_escaped_pipes_and_special_names(self):
         event = self.repo / "src/site/notes/Events/2024-01-01 - Show: Don't_Stop!.md"
         event.write_text(

@@ -46,12 +46,12 @@ title: "Video Highlights"
   <h2>Season 8 — Videos</h2>
   <div class="hl-grid">
     <article class="hl-card" data-type="full" data-season="s08">
-      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E03_Tribute_to_the_Bastard_poster.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E03_2891048502_2026-10-03_full_event.mp4" type="video/mp4"></video>
+      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E03_2891048502_2026-10-03_full_event.mp4" type="video/mp4"></video>
       <div class="info"><div class="title">S08E03 — Tribute to the Bastard</div><div class="meta">2026-10-26</div><a href="/choke-slam-wrestling/events/2026-10-26-s08e03-tribute-to-the-bastard/">→ Event Page</a></div>
     </article>
     <article class="hl-card" data-type="full" data-season="s08">
-      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E02_All_In_poster_v2.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E02_a3ec08db0d8e61775e24_2025ebaf9b5051b3_full_event.mp4" type="video/mp4"></video>
-      <div class="info"><div class="title">S08E02_All In</div><div class="meta">2026-09-14</div><a href="/choke-slam-wrestling/events/2026-09-14-s08e02-all-in/">→ Event Page</a></div>
+      <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E02_a3ec08db0d8e61775e24_2025ebaf9b5051b3_full_event.mp4" type="video/mp4"></video>
+      <div class="info"><div class="title">S08E02 — All In</div><div class="meta">2026-09-14</div><a href="/choke-slam-wrestling/events/2026-09-14-s08e02-all-in/">→ Event Page</a></div>
     </article>
     <article class="hl-card" data-type="clip" data-season="s08">
       <video controls preload="metadata" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"><source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/clip_Yokozuna_shocked_the_World_S08E01.mp4" type="video/mp4"></video>

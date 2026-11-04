@@ -24,7 +24,7 @@ title: Choke Slam Tag Team Championship
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Gunther\|Gunther]] & [[Wrestler/The Undertaker\|The Undertaker]] (2 Verteidigungen)</td></tr>
 <tr><td><strong>Titelmatches gesamt</strong></td><td>26</td></tr>
 <tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>4 (15%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Matt Jackson\|Matt Jackson]] & [[Wrestler/Nick Jackson\|Nick Jackson]] — Tag 1 🔥</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Matt Jackson\|Matt Jackson]] & [[Wrestler/Nick Jackson\|Nick Jackson]] — Tag 9 🔥</td></tr>
 </tbody>
 </table>
 
@@ -52,7 +52,7 @@ title: Choke Slam Tag Team Championship
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>1</td><td>1</td><td>217 Tage</td><td>217 Tage</td></tr>
 <tr><td>[[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]</td><td>1</td><td>0</td><td>83 Tage</td><td>83 Tage</td></tr>
 <tr><td>[[Wrestler/Nick Jackson\|Nick Jackson]]</td><td>1</td><td>0</td><td>42 Tage</td><td>42 Tage</td></tr>
-<tr><td>[[Wrestler/Matt Jackson\|Matt Jackson]] & [[Wrestler/Nick Jackson\|Nick Jackson]]</td><td>1</td><td>0</td><td>1 Tage</td><td>1 Tage</td></tr>
+<tr><td>[[Wrestler/Matt Jackson\|Matt Jackson]] & [[Wrestler/Nick Jackson\|Nick Jackson]]</td><td>1</td><td>0</td><td>9 Tage</td><td>9 Tage</td></tr>
 </tbody>
 </table>
 

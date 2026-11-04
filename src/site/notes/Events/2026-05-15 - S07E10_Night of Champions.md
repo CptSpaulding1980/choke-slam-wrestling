@@ -6,8 +6,14 @@ date: "2026-05-15"
 promotion: "Choke Slam Wrestling"
 venue: "1st Mariner Arena"
 location: "Baltimore, Maryland, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-05-15-s07e10-night-of-champions_poster.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E10_Night of Champions**
+
+**Date:** 2026-05-15
+**Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
+
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E10_Night of Champions**
 
 **Date:** 2026-05-15
@@ -19,8 +25,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E10_cde0bf9dcc0f92bae97e_9daa0d04ba7ca587_full_event.mp4" type="video/mp4">
   Dein Browser unterstützt kein HTML5-Video.
 </video>
-
-
 
 ## Matches
 

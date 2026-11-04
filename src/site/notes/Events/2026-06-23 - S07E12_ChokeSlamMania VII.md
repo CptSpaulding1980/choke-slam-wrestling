@@ -6,8 +6,14 @@ date: "2026-06-23"
 promotion: "Choke Slam Wrestling"
 venue: "Madison Square Garden"
 location: "New York, New York, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-23-s07e12-chokeslammania-vii_poster.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E12_ChokeSlamMania VII**
+
+**Date:** 2026-06-23
+**Venue:** Madison Square Garden - New York, New York, USA
+
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E12_ChokeSlamMania VII**
 
 **Date:** 2026-06-23
@@ -19,8 +25,6 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <video controls style="width:100%;border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">
   <source src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E12_2026-06-23_full_event.mp4" type="video/mp4">
 </video>
-
-
 
 ## Matches
 

@@ -6,8 +6,14 @@ date: "2026-10-26"
 promotion: "Choke Slam Wrestling"
 venue: "1st Mariner Arena"
 location: "Baltimore, Maryland, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/S08E03_Tribute_to_the_Bastard_poster.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
 ---
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S08E03_Tribute to the Bastard**
+
+**Date:** 2026-10-26
+**Venue:** 1st Mariner Arena - Baltimore, Maryland, USA
+
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S08E03_Tribute to the Bastard**
 
 **Date:** 2026-10-26
@@ -27,6 +33,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 <a href="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S08E03_2891048502_2026-10-03_full_event.mp4" style="color:var(--cm-highlight);">Download MP4</a> — Choke Slam Wrestling - S08E03_Tribute to the Bstrd (Pt. 1)
 </p>
 </div>
+
 ## Matches
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |

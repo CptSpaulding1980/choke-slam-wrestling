@@ -25,7 +25,7 @@ title: Choke Slam International Championship
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Christian Cage\|Christian Cage]] (1 Verteidigungen)</td></tr>
 <tr><td><strong>Titelmatches gesamt</strong></td><td>23</td></tr>
 <tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>7 (30%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]] — Tag 88 🔥</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]] — Tag 96 🔥</td></tr>
 </tbody>
 </table>
 
@@ -46,7 +46,7 @@ title: Choke Slam International Championship
 <tr><td>[[Wrestler/Awesome Kong\|Awesome Kong]]</td><td>1</td><td>0</td><td>67 Tage</td><td>67 Tage</td></tr>
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]]</td><td>1</td><td>0</td><td>200 Tage</td><td>200 Tage</td></tr>
 <tr><td>[[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]</td><td>1</td><td>1</td><td>77 Tage</td><td>77 Tage</td></tr>
-<tr><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]]</td><td>1</td><td>1</td><td>88 Tage</td><td>88 Tage</td></tr>
+<tr><td>[[Wrestler/Masahiro Chono\|Masahiro Chono]]</td><td>1</td><td>1</td><td>96 Tage</td><td>96 Tage</td></tr>
 </tbody>
 </table>
 

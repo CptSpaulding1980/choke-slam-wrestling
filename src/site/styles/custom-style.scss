@@ -202,3 +202,144 @@ blockquote { margin: 1.5rem 0; border-left: 3px solid var(--csw-red); padding: .
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }
+/* ==========================================================================
+   Motion layer: entrance, hover and scroll animations.
+   Pure presentation; content stays visible without JS. Reduced motion is
+   honoured by the global rule above and the overrides at the end.
+   ========================================================================== */
+:root {
+  --ease-out: cubic-bezier(.22, 1, .36, 1);
+  --ease-snap: cubic-bezier(.34, 1.56, .64, 1);
+  --glow-red: 0 18px 40px -18px rgba(196, 30, 58, .75);
+  --glow-gold: 0 0 0 1px rgba(245, 158, 11, .35), 0 18px 44px -20px rgba(245, 158, 11, .55);
+}
+@keyframes csw-fade-up { from { opacity: 0; transform: translateY(26px); } to { opacity: 1; transform: none; } }
+@keyframes csw-slide-in { from { opacity: 0; transform: translateX(40px); } to { opacity: 1; transform: none; } }
+@keyframes csw-banner-in { from { transform: scale(1.12); filter: brightness(.35) saturate(.6); } to { transform: scale(1.02); filter: none; } }
+@keyframes csw-banner-breathe { from { transform: scale(1.02); } to { transform: scale(1.07) translateX(-1%); } }
+@keyframes csw-sweep { 0%, 62% { transform: translateX(-120%) skewX(-18deg); } 100% { transform: translateX(260%) skewX(-18deg); } }
+@keyframes csw-logo-slam {
+  0% { opacity: 0; transform: translateY(-70px) scale(1.35) rotate(-8deg); }
+  55% { opacity: 1; transform: translateY(6px) scale(.94) rotate(1deg); }
+  72% { transform: translateY(-4px) scale(1.03); }
+  100% { opacity: 1; transform: none; }
+}
+@keyframes csw-shake { 0%, 100% { transform: none; } 20% { transform: translate(-3px, 2px); } 40% { transform: translate(3px, -2px); } 60% { transform: translate(-2px, 1px); } 80% { transform: translate(1px, -1px); } }
+@keyframes csw-line { from { background-position: 0 0; } to { background-position: 200% 0; } }
+@keyframes csw-shimmer { from { background-position: 200% center; } to { background-position: -200% center; } }
+@keyframes csw-pop { from { opacity: 0; transform: translateY(18px) scale(.97); } to { opacity: 1; transform: none; } }
+
+/* Page entrance */
+.csw-site .content { animation: csw-fade-up .7s var(--ease-out) .15s both; }
+
+/* Banner: cinematic zoom-in, slow breathing, recurring light sweep. */
+.csw-banner { overflow: hidden; animation: csw-shake .35s linear .62s; }
+#csw-banner-img { animation: csw-banner-in 1.4s var(--ease-out) both, csw-banner-breathe 22s ease-in-out 1.4s infinite alternate; will-change: transform; }
+.csw-banner::before { content: ''; position: absolute; top: -10%; bottom: -10%; left: 0; width: 28%; z-index: 1; pointer-events: none; background: linear-gradient(90deg, transparent, rgba(255, 214, 140, .22), transparent); mix-blend-mode: screen; animation: csw-sweep 9s ease-in-out 1.6s infinite; transform: translateX(-120%); }
+.brand-logo { animation: csw-logo-slam .9s var(--ease-out) .2s both; transition: transform .45s var(--ease-snap), filter .45s; }
+.csw-brand:hover .brand-logo, .csw-brand:focus-visible .brand-logo { transform: rotate(-4deg) scale(1.06); filter: drop-shadow(0 10px 28px rgba(196, 30, 58, .7)); }
+.csw-masthead { position: relative; border-bottom: 0; }
+.csw-masthead::after { content: ''; display: block; height: 3px; background: linear-gradient(90deg, var(--csw-red), var(--csw-gold), var(--csw-red), var(--csw-gold)); background-size: 200% 100%; animation: csw-line 6s linear infinite; }
+
+/* Navigation: growing underline, glass when stuck, scroll progress bar. */
+.csw-navigation { transition: background-color .3s, box-shadow .3s; }
+.csw-navigation.is-stuck { background: rgba(20, 21, 24, .86); backdrop-filter: blur(12px) saturate(1.4); -webkit-backdrop-filter: blur(12px) saturate(1.4); box-shadow: 0 10px 30px -12px #000c; }
+.csw-navigation::after { content: ''; position: absolute; left: 0; bottom: -1px; height: 2px; width: 100%; transform-origin: left; transform: scaleX(var(--scroll, 0)); background: linear-gradient(90deg, var(--csw-red), var(--csw-gold)); pointer-events: none; }
+.csw-menu a { position: relative; border-bottom: 0; transition: color .25s, background-color .25s; }
+.csw-menu a::after { content: ''; position: absolute; left: 10px; right: 10px; bottom: 0; height: 3px; background: var(--csw-red); transform: scaleX(0); transition: transform .35s var(--ease-out), background-color .25s; }
+.csw-menu a:hover::after { transform: scaleX(1); background: var(--csw-gold); }
+.csw-menu a[aria-current]::after { transform: scaleX(1); background: var(--csw-red); }
+.nav-enhanced.is-open .csw-menu li { animation: csw-fade-up .35s var(--ease-out) both; }
+.nav-enhanced.is-open .csw-menu li:nth-child(2n) { animation-delay: .04s; }
+.nav-enhanced.is-open .csw-menu li:nth-child(n+3) { animation-delay: .08s; }
+.nav-enhanced.is-open .csw-menu li:nth-child(n+5) { animation-delay: .12s; }
+.nav-enhanced.is-open .csw-menu li:nth-child(n+7) { animation-delay: .16s; }
+.menu-toggle span { display: inline-block; transition: transform .3s var(--ease-snap); }
+.menu-toggle[aria-expanded="true"] span { transform: rotate(45deg); }
+
+/* Home hero: staggered entrance, shimmering season number. */
+.league-intro > div > * { animation: csw-fade-up .8s var(--ease-out) both; }
+.league-intro > div > .eyebrow { animation-delay: .35s; }
+.league-intro > div > h1 { animation-delay: .45s; }
+.league-intro > div > .intro-copy { animation-delay: .6s; }
+.league-intro > div > .action-row { animation-delay: .72s; }
+.league-intro .eyebrow::before { content: ''; display: inline-block; width: 26px; height: 2px; margin-right: 10px; vertical-align: middle; background: var(--csw-red); }
+.season-panel { overflow: hidden; animation: csw-slide-in .9s var(--ease-out) .55s both; transition: transform .45s var(--ease-out), box-shadow .45s; }
+.season-panel:hover { transform: translateY(-4px); box-shadow: var(--glow-red); }
+.season-panel::after { content: '08'; position: absolute; right: -18px; bottom: -58px; font-size: 13rem; font-weight: 900; letter-spacing: -.08em; color: rgba(255, 255, 255, .03); pointer-events: none; transition: transform .8s var(--ease-out); }
+.season-panel:hover::after { transform: translate(-12px, -8px) rotate(-4deg); }
+.season-panel strong { background: linear-gradient(100deg, var(--csw-gold) 20%, #fff3d0 40%, var(--csw-gold-bright) 50%, var(--csw-gold) 70%); background-size: 200% auto; -webkit-background-clip: text; background-clip: text; color: transparent; animation: csw-shimmer 5s linear 1.6s infinite; font-variant-numeric: tabular-nums; }
+
+/* Buttons and inline arrows */
+.button-primary, .button-secondary { position: relative; overflow: hidden; isolation: isolate; transition: transform .3s var(--ease-snap), box-shadow .3s, background-color .25s, border-color .25s; }
+.button-primary::after, .button-secondary::after { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(110deg, transparent 30%, rgba(255, 255, 255, .28) 50%, transparent 70%); transform: translateX(-110%); transition: transform .6s var(--ease-out); }
+.button-primary:hover, .button-secondary:hover { transform: translateY(-3px); }
+.button-primary:hover { box-shadow: var(--glow-red); }
+.button-primary:hover::after, .button-secondary:hover::after { transform: translateX(110%); }
+.button-primary:active, .button-secondary:active { transform: translateY(0) scale(.97); }
+.button-primary span, .season-panel a span, .section-heading > a, .league-team > span:last-child, .hub-card > span:last-child { display: inline-block; transition: transform .35s var(--ease-snap), color .25s; }
+.button-primary:hover span, .hub-card:hover > span:last-child, .league-team:hover > span:last-child { transform: translate(4px, -4px); }
+.season-panel a:hover span { transform: translateX(5px); }
+.section-heading > a:hover { transform: translateX(4px); }
+
+/* Cards: lift, glow and image motion */
+.league-team, .hub-card, .champ-card, .team-member-card, .hl-card, .faction-card, .draft-cta, .team-profile, .event-video {
+  position: relative; transition: transform .4s var(--ease-out), box-shadow .4s var(--ease-out), border-color .3s, background-color .3s;
+}
+.league-team:hover, .hub-card:hover, .champ-card:hover, .team-member-card:hover, .hl-card:hover, .faction-card:hover, .draft-cta:hover, .event-video:hover { transform: translateY(-5px); box-shadow: var(--glow-gold); border-color: var(--csw-gold); }
+.hub-card::before, .league-team::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: linear-gradient(var(--csw-red), var(--csw-gold)); transform: scaleY(0); transform-origin: bottom; transition: transform .4s var(--ease-out); }
+.hub-card:hover::before, .league-team:hover::before { transform: scaleY(1); }
+.league-team img { transition: transform .5s var(--ease-snap), filter .4s; }
+.league-team:hover img { transform: scale(1.12) rotate(-5deg); filter: drop-shadow(0 6px 14px rgba(196, 30, 58, .55)); }
+.hub-card strong { transition: color .25s; }
+.hub-card:hover strong { color: var(--csw-gold-bright); }
+.champ-card { overflow: hidden; }
+.champ-card img { transition: transform .6s var(--ease-snap), filter .5s; }
+.champ-card:hover img { transform: scale(1.08) translateY(-4px); filter: drop-shadow(0 10px 22px rgba(245, 158, 11, .45)) brightness(1.08); }
+.champ-card::after { content: ''; position: absolute; top: 0; bottom: 0; left: -60%; width: 40%; background: linear-gradient(100deg, transparent, rgba(255, 220, 150, .16), transparent); transform: skewX(-18deg); transition: left .8s var(--ease-out); pointer-events: none; }
+.champ-card:hover::after { left: 130%; }
+.team-member-card { overflow: hidden; }
+.team-member-card img { transition: transform .6s var(--ease-out), filter .4s; filter: grayscale(.25); }
+.team-member-card:hover img { transform: scale(1.08); filter: none; }
+.team-member-card span { transition: color .25s; }
+.team-member-card:hover span { color: var(--csw-gold-bright); }
+.team-logo { transition: transform .6s var(--ease-snap); }
+.team-profile:hover .team-logo { transform: rotate(-8deg) scale(1.08); }
+.hl-card { overflow: hidden; }
+.hl-card .title { transition: color .25s; }
+.hl-card:hover .title { color: var(--csw-gold-bright); }
+.hl-card.hl-enter { animation: csw-pop .5s var(--ease-out) both; animation-delay: var(--enter-delay, 0s); }
+.event-poster { transition: transform .5s var(--ease-out), box-shadow .5s; box-shadow: 0 20px 50px -25px #000; }
+.event-poster:hover { transform: scale(1.02) rotate(-.4deg); box-shadow: 0 30px 60px -25px rgba(196, 30, 58, .6); }
+
+/* Filters */
+.hl-filter button { position: relative; transition: background-color .25s, border-color .25s, color .25s, transform .3s var(--ease-snap); }
+.hl-filter button:hover { transform: translateY(-2px); }
+.hl-filter button:active { transform: scale(.95); }
+.hl-filter button.active { box-shadow: var(--glow-red); }
+
+/* Headings and tables */
+.note-content > h2 { position: relative; border-top-color: transparent; }
+.note-content > h2::before { content: ''; position: absolute; top: -1px; left: 0; width: 100%; height: 1px; background: var(--csw-border); }
+.note-content > h2::after { content: ''; position: absolute; top: -2px; left: 0; width: 64px; height: 3px; background: linear-gradient(90deg, var(--csw-red), var(--csw-gold)); transform-origin: left; transition: transform .8s var(--ease-out) .15s; }
+.note-content > h2[data-reveal]:not(.is-visible)::after { transform: scaleX(0); }
+.content td { transition: background-color .2s; }
+.content tr td:first-child { box-shadow: inset 0 0 0 transparent; transition: background-color .2s, box-shadow .25s var(--ease-out); }
+.content tr:hover td:first-child { box-shadow: inset 3px 0 0 var(--csw-red); }
+.content td a { transition: color .2s; }
+.content td a:hover { color: #fff; }
+
+/* Scroll reveal (only armed by JS, so no-JS visitors see everything) */
+.motion-ready [data-reveal] { opacity: 0; transform: translateY(28px); transition: opacity .7s var(--ease-out), transform .7s var(--ease-out), box-shadow .4s var(--ease-out), border-color .3s, background-color .3s; transition-delay: var(--reveal-delay, 0s), var(--reveal-delay, 0s), 0s, 0s, 0s; }
+.motion-ready [data-reveal].is-visible { opacity: 1; transform: none; }
+.motion-ready [data-reveal].is-visible:hover { transition-delay: 0s; }
+.motion-ready .league-team[data-reveal].is-visible:hover, .motion-ready .hub-card[data-reveal].is-visible:hover, .motion-ready .champ-card[data-reveal].is-visible:hover, .motion-ready .team-member-card[data-reveal].is-visible:hover, .motion-ready .hl-card[data-reveal].is-visible:hover, .motion-ready .faction-card[data-reveal].is-visible:hover, .motion-ready .event-video[data-reveal].is-visible:hover { transform: translateY(-5px); }
+
+@media (hover: none) {
+  .league-team:hover, .hub-card:hover, .champ-card:hover, .team-member-card:hover, .hl-card:hover, .event-video:hover { transform: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .motion-ready [data-reveal] { opacity: 1 !important; transform: none !important; }
+  .season-panel strong { -webkit-text-fill-color: currentColor; color: var(--csw-gold); background: none; }
+  .csw-banner::before { display: none; }
+}

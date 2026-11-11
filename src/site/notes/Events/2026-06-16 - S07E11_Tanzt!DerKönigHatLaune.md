@@ -19,6 +19,11 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 **Date:** 2026-06-16
 **Venue:** Bank Atlantic Center - Sunrise, Florida, USA
 
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S07E11_Tanzt!DerKönigHatLaune**
+
+**Date:** 2026-06-16
+**Venue:** Bank Atlantic Center - Sunrise, Florida, USA
+
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-06-16-s07e11-greatest-champion-tournament_poster.png" width="300" style="border-radius:8px;">
 
 <video controls style="width:100%; border-radius:4px;" poster="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png">

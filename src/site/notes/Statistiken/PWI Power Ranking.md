@@ -7,7 +7,7 @@ noteIcon: "🏆"
 
 # 🏆 PWI Power Ranking – S08
 
-> **Stand:** 2026-11-04 05:01 | **Matches:** 47 | **Wrestler geranked:** 20 | **Events:** 3
+> **Stand:** 2026-11-11 05:00 | **Matches:** 47 | **Wrestler geranked:** 20 | **Events:** 3
 
 **Scoring:** PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus
 
@@ -128,4 +128,4 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 ---
 *Auto-generiert vom Choke Slam PWI Power Ranking Generator*
-*Stand: 2026-11-04 05:01*
+*Stand: 2026-11-11 05:00*

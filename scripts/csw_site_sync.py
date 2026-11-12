@@ -623,6 +623,83 @@ def restore_event_media(repo: Path, snapshot: Mapping[str, str]) -> int:
     return restored
 
 
+MAX_ORPHANS_PER_RUN = 15
+
+
+def prune_orphan_notes(repo: Path, limit: int = MAX_ORPHANS_PER_RUN) -> List[str]:
+    """Delete event/wrestler notes the manager no longer produces.
+
+    The manager rewrites the Events.md and Wrestler.md indexes on every run but
+    never deletes notes, so a corrected event date or name leaves the old page
+    behind (and wrestlers who only appeared in it). A note is an orphan when its
+    index does not list it (case-insensitive) and no remaining note links to it.
+    Built output for the orphan's permalink is removed too. If more candidates
+    than ``limit`` turn up, nothing is deleted: that points at a broken run.
+    """
+    notes = repo / "src/site/notes"
+    candidates: List[Path] = []
+    for folder, index in (("Events", "Events.md"), ("Wrestler", "Wrestler.md")):
+        index_path = notes / index
+        if not index_path.exists():
+            continue
+        listed = {target.strip().lower() for target in re.findall(rf"\[\[{folder}/([^\\|\]]+)", index_path.read_text(encoding="utf-8"))}
+        if len(listed) < 20:  # a truncated index must never trigger deletions
+            continue
+        candidates += [path for path in sorted((notes / folder).glob("*.md")) if path.stem.lower() not in listed]
+    if not candidates:
+        return []
+    if len(candidates) > limit:
+        raise RuntimeError(f"Refusing to prune {len(candidates)} orphan notes (limit {limit}): "
+                           + ", ".join(path.stem for path in candidates[:20]))
+
+    def reference_keys(path: Path) -> List[str]:
+        frontmatter, _ = parse_frontmatter(path.read_text(encoding="utf-8"))
+        keys = [f"{path.parent.name}/{path.stem}".lower()]
+        permalink = str(frontmatter.get("permalink") or "")
+        if permalink:
+            keys.append(permalink.lower())
+        return keys
+
+    orphan_set = set(candidates)
+    keys = {path: reference_keys(path) for path in candidates}
+    for other in notes.rglob("*.md"):
+        if other in orphan_set:
+            continue
+        text = other.read_text(encoding="utf-8").lower()
+        for path in list(orphan_set):
+            if any(key in text for key in keys[path]):
+                orphan_set.discard(path)  # still linked from a kept page: keep it
+    removed = []
+    for path in sorted(orphan_set):
+        frontmatter, _ = parse_frontmatter(path.read_text(encoding="utf-8"))
+        permalink = str(frontmatter.get("permalink") or "").strip("/")
+        built = (repo / "docs" / permalink) if permalink else None
+        if built and built.is_dir() and built.resolve().is_relative_to((repo / "docs").resolve()) and permalink.count("/") == 1:
+            for child in sorted(built.rglob("*"), reverse=True):
+                child.unlink() if child.is_file() else child.rmdir()
+            built.rmdir()
+        path.unlink()
+        removed.append(f"{path.parent.name}/{path.stem}")
+    return removed
+
+
+def validate_built_event_layout(repo: Path) -> ValidationResult:
+    """Every built event page shows exactly one header card and no leftover
+    manager header (Date:/Venue:) or duplicated header blocks."""
+    problems: List[str] = []
+    checked = 0
+    for page in sorted((repo / "docs/events").glob("*/index.html")):
+        text = page.read_text(encoding="utf-8")
+        article = text.split('<article class="note-content">', 1)[-1].split("</article>", 1)[0]
+        checked += 1
+        cards = article.count('class="event-profile"')
+        if cards != 1:
+            problems.append(f"{page.relative_to(repo)} has {cards} event cards; expected 1")
+        if re.search(r"<strong>(?:Date|Venue):</strong>", article):
+            problems.append(f"{page.relative_to(repo)} still shows the raw Date/Venue header")
+    return ValidationResult(checked, problems)
+
+
 def sync_all(repo: Path, credentials: Path, sheet_id: str) -> None:
     names, _ = _wrestler_catalog(repo)
     try:
@@ -635,6 +712,9 @@ def sync_all(repo: Path, credentials: Path, sheet_id: str) -> None:
         teams = extract_team_rosters(workbook, names)
         _write_team_cache(repo, teams, metadata, sheet_id)
         source = f"live XLSX {metadata.get('name')} ({metadata.get('modifiedTime')})"
+    removed = prune_orphan_notes(repo)
+    if removed:
+        print("Removed orphan notes: " + ", ".join(removed))
     team_count = update_team_pages(repo, teams)
     update_team_logo_references(repo)
     champion_count = update_champion_panels(repo)
@@ -664,9 +744,11 @@ def main(argv: Sequence[str] | None = None) -> int:
     elif args.command == "validate-built":
         event_result = validate_built_event_links(repo)
         team_result = validate_built_team_pages(repo)
+        layout_result = validate_built_event_layout(repo)
         print(f"Validated {event_result.checked} built event links")
         print(f"Validated {team_result.checked} built team memberships")
-        missing = [*event_result.missing, *team_result.missing]
+        print(f"Validated {layout_result.checked} built event layouts")
+        missing = [*event_result.missing, *team_result.missing, *layout_result.missing]
         if missing:
             print("\n".join(missing), file=sys.stderr)
             return 1

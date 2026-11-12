@@ -358,6 +358,44 @@ class GeneratedContentTests(unittest.TestCase):
         self.assertEqual(text.count("**Date:**"), 1)
         self.assertIn("x_poster.png", text)
 
+    def _index_with_events(self, names):
+        notes = self.repo / "src/site/notes"
+        for name in names:
+            slug = name.lower().replace(" ", "-")
+            (notes / "Events" / f"{name}.md").write_text(f"---\npermalink: /events/{slug}/\n---\n", encoding="utf-8")
+        listed = [f"| [[Events/{name}\\|{name}]] |" for name in names]
+        (notes / "Events.md").write_text("\n".join(listed), encoding="utf-8")
+
+    def test_prune_removes_unlisted_event_and_its_built_page(self):
+        names = [f"2026-01-{day:02d} - S08E{day:02d}_Show" for day in range(1, 22)]
+        self._index_with_events(names)
+        notes = self.repo / "src/site/notes"
+        (notes / "Events/2025-12-01 - S08E01_Show.md").write_text("---\npermalink: /events/old-show/\n---\n", encoding="utf-8")
+        built = self.repo / "docs/events/old-show"
+        built.mkdir(parents=True)
+        (built / "index.html").write_text("old", encoding="utf-8")
+        # Case-only differences are the same page, never an orphan.
+        (notes / "Events" / f"{names[0]}.md").rename(notes / "Events" / f"{names[0].upper()}.md")
+
+        removed = site_sync.prune_orphan_notes(self.repo)
+
+        self.assertEqual(removed, ["Events/2025-12-01 - S08E01_Show"])
+        self.assertFalse(built.exists())
+        self.assertTrue((notes / "Events" / f"{names[0].upper()}.md").exists())
+
+    def test_prune_keeps_notes_still_linked_and_refuses_mass_deletion(self):
+        names = [f"2026-01-{day:02d} - S08E{day:02d}_Show" for day in range(1, 22)]
+        self._index_with_events(names)
+        notes = self.repo / "src/site/notes"
+        (notes / "Events/2025-12-01 - Kept.md").write_text("---\npermalink: /events/kept/\n---\n", encoding="utf-8")
+        (notes / "highlights.md").write_text('<a href="/choke-slam-wrestling/events/kept/">x</a>', encoding="utf-8")
+        self.assertEqual(site_sync.prune_orphan_notes(self.repo), [])
+        for day in range(1, 5):
+            (notes / f"Events/2025-11-0{day} - Stale.md").write_text("---\n---\n", encoding="utf-8")
+        with self.assertRaisesRegex(RuntimeError, "Refusing to prune"):
+            site_sync.prune_orphan_notes(self.repo, limit=3)
+        self.assertTrue((notes / "Events/2025-11-01 - Stale.md").exists())
+
     def test_event_media_rejects_snapshot_path_traversal(self):
         with self.assertRaisesRegex(ValueError, "Unsafe event snapshot filename"):
             site_sync.restore_event_media(self.repo, {"../../outside.md": "<video></video>"})

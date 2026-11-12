@@ -1,0 +1,19 @@
+---
+dg-publish: true
+permalink: /statistiken/titelsammler/
+title: Titelsammler
+---
+<p class="titles-intro"><strong>{{ cswTitles.total }} Wrestler</strong> haben mindestens zwei verschiedene CSW-Titel gehalten. Mehrfache Regentschaften desselben Titels zählen nicht als weiterer Titel, sind aber als „×“ vermerkt. Bei Tag-Team- und Trios-Titeln zählt jeder Partner einzeln. Die Liste aktualisiert sich automatisch mit jeder neuen Titelhistorie.</p>
+{% for group in cswTitles.groups %}
+<section class="titles-group">
+  <h2>{{ group.count }} Titel <span class="titles-count">{{ group.wrestlers | length }} Wrestler</span></h2>
+  <table class="titles-table">
+    <thead><tr><th>Wrestler</th><th>Titel</th><th>Regentschaften</th></tr></thead>
+    <tbody>
+    {% for w in group.wrestlers %}
+      <tr><td><a href="{{ w.href }}">{{ w.name }}</a></td><td><span class="title-chips">{% for t in w.titles %}<a class="title-chip title-chip--{{ t.title | slugify }}" href="{{ t.href }}">{{ t.title }}{% if t.reigns > 1 %}<small>×{{ t.reigns }}</small>{% endif %}</a>{% endfor %}</span></td><td>{{ w.reigns }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</section>
+{% endfor %}

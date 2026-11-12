@@ -343,3 +343,39 @@ blockquote { margin: 1.5rem 0; border-left: 3px solid var(--csw-red); padding: .
   .season-panel strong { -webkit-text-fill-color: currentColor; color: var(--csw-gold); background: none; }
   .csw-banner::before { display: none; }
 }
+
+/* Wrestler profile: portrait + web-sourced facts */
+.wrestler-profile { display: grid; grid-template-columns: minmax(0, 280px) minmax(0, 1fr); gap: 32px; align-items: center; margin: 8px 0 32px; padding: 24px; border: 1px solid var(--csw-border); border-top: 3px solid var(--csw-red); background: linear-gradient(135deg, #222429, var(--csw-card) 60%); animation: csw-fade-up .7s var(--ease-out) .25s both; }
+.wrestler-portrait { margin: 0; }
+.wrestler-portrait img { display: block; width: 100%; max-height: 360px; object-fit: contain; filter: drop-shadow(0 18px 30px #000a); transition: transform .6s var(--ease-out); }
+.wrestler-profile:hover .wrestler-portrait img { transform: scale(1.03) translateY(-4px); }
+.wrestler-facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin: 0; }
+.wrestler-facts > div { padding: 14px 16px; background: #141518; border: 1px solid var(--csw-border); border-left: 3px solid var(--csw-gold); }
+.wrestler-facts dt { color: var(--csw-muted); font-size: .66rem; font-weight: 750; letter-spacing: .14em; text-transform: uppercase; }
+.wrestler-facts dd { margin: 4px 0 0; font-size: 1.02rem; font-weight: 700; line-height: 1.35; }
+.wrestler-facts > div:last-child { grid-column: 1 / -1; border-left-color: var(--csw-red); }
+.wrestler-sources { margin: 14px 0 0; color: var(--csw-muted); font-size: .72rem; }
+.wrestler-sources a { color: var(--csw-muted); }
+.wrestler-sources a:hover { color: var(--csw-gold-bright); }
+
+/* Titelsammler statistic */
+.titles-intro { color: #c9cace; }
+.titles-count { margin-left: 10px; color: var(--csw-muted); font-size: .8rem; font-weight: 600; letter-spacing: 0; }
+.title-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.content td a.title-chip { display: inline-flex; align-items: baseline; gap: 4px; padding: 3px 10px; border: 1px solid #4a4d55; border-radius: 999px; background: #141518; color: var(--csw-text); font-size: .74rem; font-weight: 700; text-decoration: none; white-space: nowrap; transition: border-color .25s, color .25s, transform .3s var(--ease-snap); }
+.content td a.title-chip:hover { transform: translateY(-2px); color: #fff; }
+.title-chip small { color: var(--csw-gold-bright); font-size: .7rem; }
+.title-chip--world { border-color: var(--csw-gold) !important; }
+.title-chip--international { border-color: #3b82c4 !important; }
+.title-chip--tag-team { border-color: var(--csw-red) !important; }
+.title-chip--trios { border-color: #2f9e6a !important; }
+.title-chip--womens { border-color: #d0607d !important; }
+.titles-table td:last-child, .titles-table th:last-child { text-align: right; width: 1%; }
+
+@media (max-width: 768px) {
+  .wrestler-profile { grid-template-columns: 1fr; gap: 20px; padding: 18px; }
+  .wrestler-portrait img { max-height: 300px; margin: 0 auto; }
+  .titles-table { min-width: 0 !important; }
+}
+@media (max-width: 1000px) { .wrestler-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .wrestler-facts > div:nth-child(3) { grid-column: 1 / -1; } }
+@media (max-width: 420px) { .wrestler-facts { grid-template-columns: 1fr; } }

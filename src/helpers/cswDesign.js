@@ -96,6 +96,7 @@ function enhanceContent(content, url = '') {
       image.setAttribute('alt', image.getAttribute('alt').replace('Saint Rebel Radicalz', 'Special Response Rangers'));
     }
   }
+  if (/^\/wrestler\/[^/]+\/$/.test(url)) enhanceWrestlerProfile(root, url.split('/')[2]);
   for (const table of root.querySelectorAll('table')) {
     if (table.parentNode.classList?.contains('table-scroll')) continue;
     table.replaceWith(`<div class="table-scroll" role="region" aria-label="Datentabelle, horizontal scrollbar" tabindex="0">${table.outerHTML}</div>`);
@@ -104,6 +105,39 @@ function enhanceContent(content, url = '') {
     heading.innerHTML = heading.innerHTML.replace(/[\p{Extended_Pictographic}\uFE0F\u200D]/gu, '').trim();
   }
   return root.toString();
+}
+
+// Web-sourced profile facts (scripts/csw_wrestler_profiles.py). The manager's
+// legacy CSV values are only a fallback when no web value exists.
+let profileCache;
+function wrestlerProfiles() {
+  if (!profileCache) {
+    const file = path.join(__dirname, '../../data/wrestler_profiles.json');
+    try { profileCache = JSON.parse(fs.readFileSync(file, 'utf8')); } catch { profileCache = {}; }
+  }
+  return profileCache;
+}
+const escapeHtml = value => String(value).replace(/[&<>"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[char]);
+
+function enhanceWrestlerProfile(root, slug) {
+  const table = root.querySelector('table');
+  const image = table?.querySelector('td img');
+  if (!image) return;
+  const cells = table.querySelectorAll('td');
+  const legacy = {};
+  for (const [, key, value] of (cells[1]?.innerHTML || '').matchAll(/<b>\s*(Height|Weight|Finisher):\s*<\/b>\s*([^<]*)/gi)) {
+    if (value.trim() && value.trim() !== 'N/A') legacy[key.toLowerCase()] = value.trim();
+  }
+  const profile = wrestlerProfiles()[slug] || {};
+  const facts = [['Größe', 'height'], ['Gewicht', 'weight'], ['Nationalität', 'nationality'], ['Finisher', 'finisher']]
+    .map(([label, key]) => `<div><dt>${label}</dt><dd>${profile[key] ? escapeHtml(profile[key]) : legacy[key] || '–'}</dd></div>`).join('');
+  const sources = Object.entries(profile.sources || {})
+    .map(([name, href]) => `<a href="${escapeHtml(href)}" rel="noopener" target="_blank">${escapeHtml(name)}</a>`).join(' · ');
+  image.setAttribute('alt', profile.name || slug);
+  image.setAttribute('width', '280');
+  table.replaceWith(`<div class="wrestler-profile"><figure class="wrestler-portrait">${image.toString()}</figure>`
+    + `<div class="wrestler-facts-wrap"><dl class="wrestler-facts">${facts}</dl>`
+    + (sources ? `<p class="wrestler-sources">Quelle: ${sources}</p>` : '') + '</div></div>');
 }
 
 // Only checked-in, existing image assets are accepted; invalid overrides use

@@ -553,6 +553,38 @@ def validate_built_team_pages(repo: Path) -> ValidationResult:
     return ValidationResult(checked, missing)
 
 
+_HEADER_LOGO = re.compile(r'<img\b[^>]*\bwidth="40"[^>]*>')
+_HEADER_BLOCK = re.compile(
+    r'(<img\b[^>]*\bwidth="40"[^>]*>\*\*[^\n]*\*\*\n\n\*\*Date:\*\*[^\n]*\n(?:\*\*Venue:\*\*[^\n]*\n)?)\s*'
+)
+
+
+def _media_start(text: str) -> int:
+    """First poster/video position. The 40px CSW logo belongs to the
+    manager's event header and must never be captured as media."""
+    positions = [text.find("<video")] + [
+        match.start() for match in re.finditer(r"<img\b[^>]*>", text) if not _HEADER_LOGO.fullmatch(match.group(0))
+    ]
+    positions = [position for position in positions if position >= 0]
+    return min(positions, default=-1)
+
+
+def dedupe_event_header(text: str) -> str:
+    """Keep one manager header (logo, title, date, venue) before ## Matches."""
+    matches_at = text.find("## Matches")
+    head, tail = (text[:matches_at], text[matches_at:]) if matches_at >= 0 else (text, "")
+    seen = []
+
+    def keep_first(match: "re.Match[str]") -> str:
+        block = match.group(1)
+        if block in seen:
+            return ""
+        seen.append(block)
+        return match.group(0)
+
+    return _HEADER_BLOCK.sub(keep_first, head) + tail
+
+
 def capture_event_media(repo: Path) -> Mapping[str, str]:
     snapshot: Dict[str, str] = {}
     for path in (repo / "src/site/notes/Events").glob("*.md"):
@@ -562,10 +594,7 @@ def capture_event_media(repo: Path) -> Mapping[str, str]:
         if matches_at == -1:
             continue
         before_matches = body[:matches_at]
-        first_media = min(
-            (position for position in (before_matches.find("<video"), before_matches.find("<img")) if position >= 0),
-            default=-1,
-        )
+        first_media = _media_start(before_matches)
         if first_media >= 0 and ("<video" in before_matches[first_media:] or "_poster" in before_matches[first_media:]):
             snapshot[path.name] = before_matches[first_media:].strip()
     return snapshot
@@ -585,13 +614,11 @@ def restore_event_media(repo: Path, snapshot: Mapping[str, str]) -> int:
             continue
         prefix = text[:matches_at].rstrip()
         if "<video" in prefix or "_poster" in prefix:
-            first_media = min(
-                (position for position in (prefix.find("<video"), prefix.find("<img")) if position >= 0),
-                default=-1,
-            )
+            first_media = _media_start(prefix)
             if first_media >= 0:
                 prefix = prefix[:first_media].rstrip()
-        path.write_text(prefix + "\n\n" + media + "\n\n" + text[matches_at:], encoding="utf-8")
+        restored_text = prefix + "\n\n" + media + "\n\n" + text[matches_at:]
+        path.write_text(dedupe_event_header(restored_text), encoding="utf-8")
         restored += 1
     return restored
 

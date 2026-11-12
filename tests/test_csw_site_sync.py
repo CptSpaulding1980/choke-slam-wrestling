@@ -329,6 +329,35 @@ class GeneratedContentTests(unittest.TestCase):
         self.assertIn("part_full_event.mp4", text)
         self.assertIn("New matches", text)
 
+    def test_event_header_is_not_duplicated_by_repeated_refreshes(self):
+        event = self.repo / "src/site/notes/Events/2026-09-14 - S08E02_All In.md"
+        logo = '<img src="https://example.test/ChokeSlam.png" width="40" style="vertical-align:bottom;">'
+        header = f"{logo}**S08E02_All In**\n\n**Date:** 2026-09-14\n**Venue:** Arena - City\n\n"
+        regenerated = f"---\ntitle: S08E02_All In\n---\n\n{header}## Matches\nNew matches\n"
+        event.write_text(
+            f"---\ntitle: S08E02_All In\n---\n\n{header}"
+            '<img src="S08E02_poster_v2.png" width="300">\n\n<video><source src="full_event.mp4"></video>\n\n'
+            "## Matches\nOld matches\n",
+            encoding="utf-8",
+        )
+        for _ in range(3):  # three nightly runs: capture, manager rewrite, restore
+            snapshot = site_sync.capture_event_media(self.repo)
+            event.write_text(regenerated, encoding="utf-8")
+            site_sync.restore_event_media(self.repo, snapshot)
+        text = event.read_text(encoding="utf-8")
+
+        self.assertEqual(text.count("**Date:**"), 1)
+        self.assertEqual(text.count("_poster_v2.png"), 1)
+        self.assertEqual(text.count("full_event.mp4"), 1)
+        self.assertLess(text.index("**Date:**"), text.index("_poster_v2.png"))
+
+    def test_existing_duplicate_headers_are_collapsed(self):
+        logo = '<img src="ChokeSlam.png" width="40">'
+        header = f"{logo}**Show**\n\n**Date:** 2026-01-01\n**Venue:** A - B\n\n"
+        text = site_sync.dedupe_event_header(f"---\n---\n\n{header}{header}{header}<img src=\"x_poster.png\">\n\n## Matches\n")
+        self.assertEqual(text.count("**Date:**"), 1)
+        self.assertIn("x_poster.png", text)
+
     def test_event_media_rejects_snapshot_path_traversal(self):
         with self.assertRaisesRegex(ValueError, "Unsafe event snapshot filename"):
             site_sync.restore_event_media(self.repo, {"../../outside.md": "<video></video>"})

@@ -1311,19 +1311,6 @@
   "nationality": "Vereinigtes Königreich",
   "found": true
  },
- "davey-richards": {
-  "name": "Davey Richards",
-  "fetched": "2026-11-12",
-  "sources": {
-   "Pro Wrestling Wiki": "https://prowrestling.fandom.com/wiki/Davey_Richards",
-   "Wikidata": "https://www.wikidata.org/wiki/Q644256"
-  },
-  "height": "1,73 m (5 ft 8 in)",
-  "weight": "92 kg (202 lbs)",
-  "finisher": "14:59, Cloverleaf",
-  "nationality": "Vereinigte Staaten",
-  "found": true
- },
  "dean-malenko": {
   "name": "Dean Malenko",
   "fetched": "2026-11-12",
@@ -1690,19 +1677,6 @@
   "weight": "109 kg (240 lbs)",
   "finisher": "Downward Spiral, Edgecator",
   "nationality": "Kanada / Vereinigte Staaten",
-  "found": true
- },
- "el-dandy": {
-  "name": "El Dandy",
-  "fetched": "2026-11-12",
-  "sources": {
-   "Pro Wrestling Wiki": "https://prowrestling.fandom.com/wiki/El_Dandy",
-   "Wikidata": "https://www.wikidata.org/wiki/Q5351105"
-  },
-  "height": "1,70 m (5 ft 7 in)",
-  "weight": "91 kg (200 lbs)",
-  "finisher": "",
-  "nationality": "Mexiko",
   "found": true
  },
  "el-desperado": {
@@ -3112,19 +3086,6 @@
   "weight": "147 kg (323 lbs)",
   "finisher": "Chokeslam From Hell, Tombstone piledriver",
   "nationality": "Vereinigte Staaten",
-  "found": true
- },
- "karl-gotch": {
-  "name": "Karl Gotch",
-  "fetched": "2026-11-12",
-  "sources": {
-   "Pro Wrestling Wiki": "https://prowrestling.fandom.com/wiki/Karl_Gotch",
-   "Wikidata": "https://www.wikidata.org/wiki/Q1373145"
-  },
-  "height": "1,88 m (6 ft 2 in)",
-  "weight": "105 kg (231 lbs)",
-  "finisher": "",
-  "nationality": "Belgien",
   "found": true
  },
  "karsten-beck": {
@@ -5031,19 +4992,6 @@
   "nationality": "Vereinigte Staaten",
   "found": true
  },
- "rocky-romero": {
-  "name": "Rocky Romero",
-  "fetched": "2026-11-12",
-  "sources": {
-   "Pro Wrestling Wiki": "https://prowrestling.fandom.com/wiki/Rocky_Romero",
-   "Wikidata": "https://www.wikidata.org/wiki/Q522542"
-  },
-  "height": "1,73 m (5 ft 8 in)",
-  "weight": "80 kg (175 lbs)",
-  "finisher": "Ankle lock, Diablo Armbar",
-  "nationality": "Kuba / Vereinigte Staaten",
-  "found": true
- },
  "roddy-piper": {
   "name": "Roddy Piper",
   "fetched": "2026-11-12",
@@ -6140,19 +6088,6 @@
   "nationality": "Vereinigte Staaten",
   "found": true
  },
- "togi-makabe": {
-  "name": "Togi Makabe",
-  "fetched": "2026-11-12",
-  "sources": {
-   "Pro Wrestling Wiki": "https://prowrestling.fandom.com/wiki/Togi_Makabe",
-   "Wikidata": "https://www.wikidata.org/wiki/Q7813182"
-  },
-  "height": "1,80 m",
-  "weight": "109 kg (240 lbs)",
-  "finisher": "King Kong Knee Drop, King Kong Lariat",
-  "nationality": "Japan",
-  "found": true
- },
  "tommaso-ciampa": {
   "name": "Tommaso Ciampa",
   "fetched": "2026-11-12",
@@ -6358,19 +6293,6 @@
   "weight": "88 kg (194 lbs)",
   "finisher": "",
   "nationality": "",
-  "found": true
- },
- "velveteen-dream": {
-  "name": "Velveteen Dream",
-  "fetched": "2026-11-12",
-  "sources": {
-   "Pro Wrestling Wiki": "https://prowrestling.fandom.com/wiki/The_Velveteen_Dream",
-   "Wikidata": "https://www.wikidata.org/wiki/Q28606686"
-  },
-  "height": "1,88 m (6 ft 2 in)",
-  "weight": "103 kg (227 lbs)",
-  "finisher": "The Purple RainMaker, Dream Valley Driver",
-  "nationality": "Vereinigte Staaten",
   "found": true
  },
  "vic-grimes": {

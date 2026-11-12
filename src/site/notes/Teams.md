@@ -7,7 +7,7 @@ Dies ist die Übersicht aller teilnehmenden Teams:
 
 <div class="championship-grid">
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/teams/militanter-mummenschanz" class="champ-card">
-    <img src="/choke-slam-wrestling/img/teams/militanter-mummenschanz-20261016.jpg" alt="Militanter Mummenschanz">
+    <img src="/choke-slam-wrestling/img/teams/militanter-mummenschanz-20261112.png" alt="Militanter Mummenschanz">
     <span>Militanter Mummenschanz</span>
   </a>
   <a href="https://cptspaulding1980.github.io/choke-slam-wrestling/teams/saint-rebel-radicalz" class="champ-card">

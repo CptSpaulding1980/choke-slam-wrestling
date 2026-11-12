@@ -12,7 +12,7 @@ test('multipart resolution respects exact event links and selects source-specifi
   assert.equal(resolvePoster('/events/day-one/', 'part2.mp4', events), 'day1.png');
   assert.equal(resolvePoster('/events/day-two/', 'part2.mp4', events), 'special-part2.png');
   const actualEvents = loadEvents();
-  assert.match(resolvePoster('/events/2026-06-08-s07e11-tanztderknighstlaune/', 'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_2026-06-08_full_event.mp4', actualEvents), /2026-06-08-s07e11-tanzt-der-koenig-hat-laune_poster.png$/);
+  assert.match(resolvePoster('/events/2026-06-16-s07e11-tanztderknighatlaune/', 'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/video/S07E11_606589152dae81a4eb19_66cae071c05f41f0_full_event.mp4', actualEvents), /2026-06-16-s07e11-greatest-champion-tournament_poster.png$/);
   assert.equal(resolvePoster('/events/day-two/', 'clip.mp4', events), 'day2.png');
   assert.equal(resolvePoster('/events/', 'part1.mp4', events), 'day1.png');
   assert.equal(resolvePoster('/events/unknown/', 'unknown.mp4', events), fallback);

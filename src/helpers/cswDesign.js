@@ -87,6 +87,7 @@ function enhanceContent(content, url = '') {
         video.parentNode.classList.add('event-video');
       }
     }
+    if (/^\/events\/[^/]+\/$/.test(url)) enhanceEventProfile(root, url);
   }
   if (url.startsWith('/teams/')) {
     for (const element of root.querySelectorAll('h1, .champ-card span')) {
@@ -138,6 +139,79 @@ function enhanceWrestlerProfile(root, slug) {
   table.replaceWith(`<div class="wrestler-profile"><figure class="wrestler-portrait">${image.toString()}</figure>`
     + `<div class="wrestler-facts-wrap"><dl class="wrestler-facts">${facts}</dl>`
     + (sources ? `<p class="wrestler-sources">Quelle: ${sources}</p>` : '') + '</div></div>');
+}
+
+// Event header as a card like the wrestler profile: poster left, key facts
+// right. Rebuilt at render time from the manager's header (logo line,
+// Date/Venue) and any legacy poster markup, so duplicated or stray poster
+// blocks in generated notes collapse into one consistent layout.
+const LOGO_URL = 'https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png';
+const isHeaderLogo = image => image.getAttribute('width') === '40';
+const isEmpty = element => !/^(IMG|VIDEO|IFRAME|AUDIO|A|SOURCE)$/.test(element.tagName) && !element.querySelector('img, video, iframe, audio, a') && !element.text.trim();
+
+function enhanceEventProfile(root, url) {
+  if (root.querySelector('.event-profile')) return;
+  const nodes = root.childNodes;
+  const matchesAt = nodes.findIndex(node => node.nodeType === 1 && (node.id === 'matches' || /^Matches$/.test(node.text.trim()) && node.tagName === 'H2'));
+  if (matchesAt < 0) return;
+  const before = nodes.slice(0, matchesAt).filter(node => node.nodeType === 1);
+  let date = '';
+  let venue = '';
+  const posters = [];
+  for (const element of before) {
+    const text = element.text;
+    if (element.tagName === 'P' && element.querySelector('img') && [...element.querySelectorAll('img')].every(isHeaderLogo)) {
+      element.remove();
+      continue;
+    }
+    if (/^(Date|Venue):/m.test(text.trim()) || /\bDate:\s*\d{4}-\d{2}-\d{2}/.test(text)) {
+      date = date || (text.match(/Date:\s*(\d{4}-\d{2}-\d{2})/) || [])[1] || '';
+      venue = venue || ((text.match(/Venue:\s*([^\n]+)/) || [])[1] || '').trim();
+      element.remove();
+      continue;
+    }
+    if (/^H[2-4]$/.test(element.tagName) && /^Poster$/i.test(text.trim())) { element.remove(); continue; }
+    const images = element.tagName === 'IMG' ? [element] : element.querySelectorAll('img');
+    for (const image of images) {
+      if (isHeaderLogo(image) || image.classList.contains('event-video-preview') || image.closest('a, .event-video')) continue;
+      const src = image.getAttribute('src');
+      if (!posters.includes(src)) posters.push(src);
+      image.remove();
+    }
+    if (element.tagName !== 'IMG' && isEmpty(element)) element.remove();
+  }
+  for (const heading of root.querySelectorAll('h2, h3, h4')) {
+    if (/^Poster$/i.test(heading.text.trim()) && !heading.closest('table')) heading.remove();
+  }
+
+  const slug = url.split('/')[2];
+  date = date || (slug.match(/^(\d{4}-\d{2}-\d{2})/) || [])[1] || '';
+  const [arena, ...place] = venue.split(' - ');
+  const episode = slug.match(/-s(\d+)e(\d+)/i);
+  const table = nodes.slice(matchesAt + 1).find(node => node.nodeType === 1 && (node.tagName === 'TABLE' || node.querySelector?.('table')));
+  const rows = table ? table.querySelectorAll('tbody tr') : [];
+  const headers = table ? table.querySelectorAll('th').map(th => th.text.trim()) : [];
+  const matchColumn = headers.indexOf('Match');
+  const mainEvent = rows.length && matchColumn >= 0 ? rows[rows.length - 1].querySelectorAll('td')[matchColumn]?.innerHTML.trim() : '';
+  const day = date ? new Date(`${date}T12:00:00Z`).toLocaleDateString('de-DE', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }) : '';
+  const facts = [
+    ['Datum', day && escapeHtml(day)],
+    ['Arena', arena && escapeHtml(arena.trim())],
+    ['Ort', place.length && escapeHtml(place.join(' - ').trim())],
+    ['Matches', rows.length ? String(rows.length) : ''],
+    ['Main Event', mainEvent],
+  ].filter(([, value]) => value).map(([label, value]) => `<div${label === 'Main Event' ? ' class="event-main"' : ''}><dt>${label}</dt><dd>${value}</dd></div>`).join('');
+  const [main, ...more] = posters;
+  const poster = main
+    ? `<img class="event-poster" src="${escapeHtml(main)}" alt="Eventposter" width="300" loading="eager">`
+    : `<img class="event-poster event-poster--logo" src="${LOGO_URL}" alt="" width="300">`;
+  const extra = more.length
+    ? `<div class="event-more-posters">${more.map(src => `<img src="${escapeHtml(src)}" alt="Weiteres Eventposter" width="120" loading="lazy">`).join('')}</div>` : '';
+  const eyebrow = episode ? `<p class="eyebrow">Season ${Number(episode[1])} · Episode ${Number(episode[2])}</p>` : '';
+  const card = `<section class="event-profile" aria-label="Eventdaten"><figure class="event-portrait">${poster}</figure>`
+    + `<div class="event-facts-wrap">${eyebrow}<dl class="event-facts">${facts}</dl>${extra}</div></section>`;
+  const first = root.childNodes.find(node => node.nodeType === 1);
+  if (first) first.insertAdjacentHTML('beforebegin', card); else root.insertAdjacentHTML('afterbegin', card);
 }
 
 // Only checked-in, existing image assets are accepted; invalid overrides use

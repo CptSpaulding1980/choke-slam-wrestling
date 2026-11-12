@@ -42,7 +42,7 @@ TEAM_CONFIG = {
         "manager": "Philipp Brunkovic",
         "manager_slug": "philipp-brunkovic",
         "manager_image": "Philipp_Brunkovic.png",
-        "logo": "/choke-slam-wrestling/img/teams/militanter-mummenschanz-20261016.jpg",
+        "logo": "/choke-slam-wrestling/img/teams/militanter-mummenschanz-20261112.png",
         "legacy_logo": "ChokeSlam_MM.png",
         "audio": "Militanter_Mummenschanz.mp3",
         "slug": "militanter-mummenschanz",

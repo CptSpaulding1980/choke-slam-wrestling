@@ -13,7 +13,7 @@ module.exports = () => {
   return {
     sections, panels,
     teams: [
-      { name: 'Militanter Mummenschanz', manager: 'Philipp Brunkovic', slug: 'militanter-mummenschanz', logo: 'militanter-mummenschanz-20261016.jpg' },
+      { name: 'Militanter Mummenschanz', manager: 'Philipp Brunkovic', slug: 'militanter-mummenschanz', logo: 'militanter-mummenschanz-20261112.png' },
       { name: 'Special Response Rangers', manager: 'Pascal LePas', slug: 'saint-rebel-radicalz', logo: 'special-response-rangers-20261016.jpg' },
       { name: "Sweet 'n Sour Elite", manager: 'Hendrique Delafuente', slug: 'sweet-n-sour-elite', logo: 'sweet-n-sour-elite-20261016.png' },
     ],

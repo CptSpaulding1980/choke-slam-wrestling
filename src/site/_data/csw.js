@@ -8,7 +8,7 @@ module.exports = () => {
   const panels = home.split(/^## /m).slice(1).filter(section => /letzten Events|Aktuelle Champions/.test(section.split('\n')[0])).map(section => {
     const lines = section.split('\n');
     const title = lines.shift().replace(/[\p{Extended_Pictographic}\uFE0F]/gu, '').trim();
-    return { title, markdown: lines.join('\n').replace(/\b(\d{4})-(\d{2})-(\d{2})\b/g, (_, year, month, day) => `${day}.${month}.${year.slice(2)}`) };
+    return { title, markdown: lines.join('\n').replace(/^(\|\s*)(\d{4})-(\d{2})-(\d{2})(?=\s*\|)/gm, (_, cell, year, month, day) => `${cell}${day}.${month}.${year.slice(2)}`) };
   });
   return {
     sections, panels,

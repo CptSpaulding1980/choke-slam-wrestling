@@ -83,6 +83,6 @@ title: Choke Slam Tag Team Championship
 <tr><td>[[Wrestler/Chris Jericho\|Chris Jericho]] & [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]</td><td>2025-11-18</td><td>[[Events/2025-11-18 - S07E06_War Games\|2025-11-18 - S07E06_War Games]]</td><td>2026-06-23</td><td>217 Tage</td><td>1</td></tr>
 <tr><td>[[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Zack Sabre Jr.\|Zack Sabre Jr.]]</td><td>2026-06-23</td><td>[[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|2026-06-23 - S07E12_ChokeSlamMania VII]]</td><td>2026-07-31</td><td>38 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Nick Jackson\|Nick Jackson]]</td><td>2026-07-31</td><td>[[Events/2026-07-31 - S08E02_All In\|2026-07-31 - S08E02_All In]]</td><td>2026-09-14</td><td>45 Tage</td><td>0</td></tr>
-<tr><td>[[Wrestler/Matt Jackson\|Matt Jackson]] & [[Wrestler/Nick Jackson\|Nick Jackson]]</td><td>2026-09-14</td><td>[[Events/2026-09-14 - S08E03_Tribute to the Bastard\|2026-09-14 - S08E03_Tribute to the Bastard]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
+<tr><td>[[Wrestler/Matt Jackson\|Matt Jackson]] & [[Wrestler/Nick Jackson\|Nick Jackson]]</td><td>2026-10-26</td><td>[[Events/2026-10-26 - S08E03_Tribute to the Bastard\|2026-10-26 - S08E03_Tribute to the Bastard]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
 </tbody>
 </table>

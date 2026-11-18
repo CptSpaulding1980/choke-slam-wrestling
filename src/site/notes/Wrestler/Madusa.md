@@ -25,7 +25,7 @@ avg_rating: 92.14
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/madusa_stats.png" width="200"> | **❌✅❌✅❌**<br>**Loss:** Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. The Young Bucks (c) in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)<br>**Win:** Mankind vs. Matanza Cueto vs. Madusa in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)<br>**Loss:** Megumi Kudo vs. Kazuchika Okada vs. Madusa vs. Finn Bálor in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)<br>**Win:** Madusa vs. Masahiro Chono vs. Yokozuna vs. Pac in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)<br>**Loss:** Madusa vs. Megumi Kudo vs. Rosemary in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br> | **Nemesis:** [[Wrestler/Megumi Kudo\|Megumi Kudo]]<br>**Partner:** [[Wrestler/Rosemary\|Rosemary]]<br>**Best Match:** 102% vs. Megumi Kudo vs. Kazuchika Okada vs. Madusa vs. Finn Bálor |
+| <img src="/img/charts/madusa_stats.png" width="200"> | **❌✅❌✅❌**<br>**Loss:** Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. The Young Bucks (c) in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Win:** Mankind vs. Matanza Cueto vs. Madusa in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Loss:** Megumi Kudo vs. Kazuchika Okada vs. Madusa vs. Finn Bálor in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Win:** Madusa vs. Masahiro Chono vs. Yokozuna vs. Pac in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Loss:** Madusa vs. Megumi Kudo vs. Rosemary in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br> | **Nemesis:** [[Wrestler/Megumi Kudo\|Megumi Kudo]]<br>**Partner:** [[Wrestler/Rosemary\|Rosemary]]<br>**Best Match:** 102% vs. Megumi Kudo vs. Kazuchika Okada vs. Madusa vs. Finn Bálor |
 
 ## Häufigste Gegner
 - [[Wrestler/Megumi Kudo\|Megumi Kudo]] (2x)
@@ -42,8 +42,8 @@ avg_rating: 92.14
 - [[Wrestler/Mick Foley\|Mick Foley]] (1x)
 
 ## Top Matches
-- 102%: [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Finn Bálor\|Finn Bálor]] in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)
+- 102%: [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Finn Bálor\|Finn Bálor]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
 - 99%: [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Megumi Kudo\|Megumi Kudo]] vs. [[Wrestler/Rosemary\|Rosemary]] in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
-- 96%: [[Choke Slam Tag Team Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. The Young Bucks (c) in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)
-- 94%: [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Masahiro Chono\|Masahiro Chono]] vs. [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/Pac\|Pac]] in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)
+- 96%: [[Choke Slam Tag Team Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. The Young Bucks (c) in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
+- 94%: [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Masahiro Chono\|Masahiro Chono]] vs. [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/Pac\|Pac]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
 - 89%: Money in the Bank Match in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)

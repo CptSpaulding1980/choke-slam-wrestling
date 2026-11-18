@@ -690,6 +690,17 @@ def validate_built_event_layout(repo: Path) -> ValidationResult:
     checked = 0
     for page in sorted((repo / "docs/events").glob("*/index.html")):
         text = page.read_text(encoding="utf-8")
+        redirect = re.search(r'data-csw-event-redirect="(/events/[a-z0-9-]+/)"', text)
+        if redirect:
+            target = redirect.group(1)
+            url = '/choke-slam-wrestling' + target
+            if (f'rel="canonical" href="{url}"' in text
+                    and f'content="0; url={url}"' in text
+                    and (repo / 'docs' / target.strip('/') / 'index.html').is_file()
+                    and page != repo / 'docs' / target.strip('/') / 'index.html'):
+                continue
+            problems.append(f"{page.relative_to(repo)} has an invalid event redirect")
+            continue
         article = text.split('<article class="note-content">', 1)[-1].split("</article>", 1)[0]
         checked += 1
         cards = article.count('class="event-profile"')

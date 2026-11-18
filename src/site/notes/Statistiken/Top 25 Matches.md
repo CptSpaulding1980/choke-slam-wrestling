@@ -9,7 +9,7 @@ permalink: /statistiken/top-25-matches/
 | 2024-02-15 | [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns]] | 105 |
 | 2021-06-30 | [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev ]] | 105 |
 | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito]] | 105 |
-| 2026-09-14 | [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|Masahiro Chono vs. Kazuchika Okada vs. Will Ospreay]] | 104 |
+| 2026-10-26 | [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|Masahiro Chono vs. Kazuchika Okada vs. Will Ospreay]] | 104 |
 | 2026-07-31 | [[Events/2026-07-31 - S08E02_All In\|The Miz vs. SANADA vs. Satoshi Kojima]] | 104 |
 | 2025-10-27 | [[Events/2025-10-27 - S07E05_Threeway Fiasko\|Lady Apache vs. Wardlow vs. Akira Taue]] | 104 |
 | 2021-06-30 | [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage]] | 104 |
@@ -19,7 +19,7 @@ permalink: /statistiken/top-25-matches/
 | 2024-04-10 | [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair]] | 103 |
 | 2023-10-09 | [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|Militanter Mummenschanz vs. Saint Rebel Radicalz]] | 103 |
 | 2021-10-17 | [[Events/2021-10-17 - S04E03_Saudia Arabia - Aftermath\|Randy Savage vs. Killer Kelly vs. Bob Backlund]] | 103 |
-| 2026-09-14 | [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|Megumi Kudo vs. Kazuchika Okada vs. Madusa vs. Finn Bálor]] | 102 |
+| 2026-10-26 | [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|Megumi Kudo vs. Kazuchika Okada vs. Madusa vs. Finn Bálor]] | 102 |
 | 2026-07-31 | [[Events/2026-07-31 - S08E02_All In\|Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada]] | 102 |
 | 2020-12-29 | [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|Bob Backlund vs. Fit Finlay]] | 102 |
 | 2023-06-26 | [[Events/2023-06-26 - S05E06_ECSW\|Hardcore Title Tournament Semi Finals]] | 102 |
@@ -28,5 +28,5 @@ permalink: /statistiken/top-25-matches/
 | 2025-08-21 | [[Events/2025-08-21 - S07E03_Changes III\|Loser Leaves Town: Jay White vs. Fit Finlay vs. Roman Reigns]] | 102 |
 | 2022-07-24 | [[Events/2022-07-24 - S04E10_Überraschung\|Sting vs. Brock Lesnar]] | 102 |
 | 2025-08-12 | [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|1/8 Finals: Kevin Steen vs. Roman Reigns]] | 102 |
-| 2026-09-14 | [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|Rosemary vs. Satoshi Kojima vs. Mankind vs. Tyson Kidd]] | 102 |
+| 2026-10-26 | [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|Rosemary vs. Satoshi Kojima vs. Mankind vs. Tyson Kidd]] | 102 |
 | 2020-10-13 | [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix]] | 102 |

@@ -133,6 +133,23 @@ class TeamSheetTests(unittest.TestCase):
         self.assertEqual(payload["sheet_id"], "custom-sheet-id")
 
 
+class EventRedirectTests(unittest.TestCase):
+    def test_valid_redirect_is_not_counted_as_second_event(self):
+        with tempfile.TemporaryDirectory() as temp:
+            repo = Path(temp)
+            target = repo / 'docs/events/canonical/index.html'
+            target.parent.mkdir(parents=True)
+            target.write_text('<article class="note-content"><div class="event-profile"></div></article>')
+            old = repo / 'docs/events/old-date/index.html'
+            old.parent.mkdir(parents=True)
+            old.write_text('<html data-csw-event-redirect="/events/canonical/"><link rel="canonical" href="/choke-slam-wrestling/events/canonical/"><meta http-equiv="refresh" content="0; url=/choke-slam-wrestling/events/canonical/"></html>')
+            result = site_sync.validate_built_event_layout(repo)
+            self.assertEqual(list(result.missing), [])
+            self.assertEqual(result.checked, 1)
+            old.write_text(old.read_text().replace('/events/canonical/', '/events/missing/'))
+            self.assertTrue(site_sync.validate_built_event_layout(repo).missing)
+
+
 class GeneratedContentTests(unittest.TestCase):
     def setUp(self):
         self.temp_dir = tempfile.TemporaryDirectory()

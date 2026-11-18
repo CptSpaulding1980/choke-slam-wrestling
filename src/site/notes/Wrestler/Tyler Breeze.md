@@ -25,7 +25,7 @@ avg_rating: 99.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/tyler-breeze_stats.png" width="200"> | **❌**<br>**Loss:** Yokozuna vs. SANADA vs. Matanza Cueto vs. Tyler Breeze in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br> | **Nemesis:** [[Wrestler/Matanza Cueto\|Matanza Cueto]]<br>**Partner:** [[Wrestler/Yokozuna\|Yokozuna]]<br>**Best Match:** 99% vs. Yokozuna vs. SANADA vs. Matanza Cueto vs. Tyler Breeze |
+| <img src="/img/charts/tyler-breeze_stats.png" width="200"> | **❌**<br>**Loss:** Yokozuna vs. SANADA vs. Matanza Cueto vs. Tyler Breeze in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)<br> | **Nemesis:** [[Wrestler/Matanza Cueto\|Matanza Cueto]]<br>**Partner:** [[Wrestler/Yokozuna\|Yokozuna]]<br>**Best Match:** 99% vs. Yokozuna vs. SANADA vs. Matanza Cueto vs. Tyler Breeze |
 
 ## Häufigste Gegner
 - [[Wrestler/Matanza Cueto\|Matanza Cueto]] (1x)
@@ -35,4 +35,4 @@ avg_rating: 99.0
 - [[Wrestler/SANADA\|SANADA]] (1x)
 
 ## Top Matches
-- 99%: [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/SANADA\|SANADA]] vs. [[Wrestler/Matanza Cueto\|Matanza Cueto]] vs. [[Wrestler/Tyler Breeze\|Tyler Breeze]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
+- 99%: [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/SANADA\|SANADA]] vs. [[Wrestler/Matanza Cueto\|Matanza Cueto]] vs. [[Wrestler/Tyler Breeze\|Tyler Breeze]] in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)

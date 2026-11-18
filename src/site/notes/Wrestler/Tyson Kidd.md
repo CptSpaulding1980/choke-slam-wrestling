@@ -25,7 +25,7 @@ avg_rating: 102.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/tyson-kidd_stats.png" width="200"> | **❌**<br>**Loss:** Rosemary vs. Satoshi Kojima vs. Mankind vs. Tyson Kidd in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br> | **Nemesis:** [[Wrestler/Mick Foley\|Mick Foley]]<br>**Partner:** [[Wrestler/Rosemary\|Rosemary]]<br>**Best Match:** 102% vs. Rosemary vs. Satoshi Kojima vs. Mankind vs. Tyson Kidd |
+| <img src="/img/charts/tyson-kidd_stats.png" width="200"> | **❌**<br>**Loss:** Rosemary vs. Satoshi Kojima vs. Mankind vs. Tyson Kidd in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)<br> | **Nemesis:** [[Wrestler/Mick Foley\|Mick Foley]]<br>**Partner:** [[Wrestler/Rosemary\|Rosemary]]<br>**Best Match:** 102% vs. Rosemary vs. Satoshi Kojima vs. Mankind vs. Tyson Kidd |
 
 ## Häufigste Gegner
 - [[Wrestler/Mick Foley\|Mick Foley]] (1x)
@@ -35,4 +35,4 @@ avg_rating: 102.0
 - [[Wrestler/Satoshi Kojima\|Satoshi Kojima]] (1x)
 
 ## Top Matches
-- 102%: [[Wrestler/Rosemary\|Rosemary]] vs. [[Wrestler/Satoshi Kojima\|Satoshi Kojima]] vs. Mankind vs. [[Wrestler/Tyson Kidd\|Tyson Kidd]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
+- 102%: [[Wrestler/Rosemary\|Rosemary]] vs. [[Wrestler/Satoshi Kojima\|Satoshi Kojima]] vs. Mankind vs. [[Wrestler/Tyson Kidd\|Tyson Kidd]] in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)

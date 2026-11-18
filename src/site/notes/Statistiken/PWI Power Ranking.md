@@ -7,7 +7,7 @@ noteIcon: "🏆"
 
 # 🏆 PWI Power Ranking – S08
 
-> **Stand:** 2026-11-11 05:00 | **Matches:** 47 | **Wrestler geranked:** 20 | **Events:** 3
+> **Stand:** 2026-11-18 05:00 | **Matches:** 47 | **Wrestler geranked:** 20 | **Events:** 3
 
 **Scoring:** PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus
 
@@ -63,31 +63,31 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 | Datum | Show | Match | Rating | Score |
 |-------|------|-------|--------|------:|
-| 2026-09-14 00:00:00 | S08E02_All In | Kazuchika Okada vs. Kota Ibushi | ★★★★★¼ | 104 |
-| 2026-09-14 00:00:00 | S08E02_All In | The Miz vs. SANADA vs. Satoshi Kojima | ★★★★★¼ | 104 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Masahiro Chono vs. Kazuchika Okada vs. Will Ospreay | ★★★★★¼ | 104 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Megumi Kudo vs. Kazuchika Okada vs. Madusa vs. Finn Bálor | ★★★★★ | 102 |
-| 2026-09-14 00:00:00 | S08E02_All In | Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada | ★★★★★ | 102 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Rosemary vs. Satoshi Kojima vs. Mankind vs. Tyson Kidd | ★★★★★ | 102 |
-| 2026-09-14 00:00:00 | S08E02_All In | Choke Slam Tag Team Championship - Gauntlet Rumble | ★★★★★ | 100 |
+| 2026-07-31 00:00:00 | S08E02_All In | Kazuchika Okada vs. Kota Ibushi | ★★★★★¼ | 104 |
+| 2026-07-31 00:00:00 | S08E02_All In | The Miz vs. SANADA vs. Satoshi Kojima | ★★★★★¼ | 104 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Masahiro Chono vs. Kazuchika Okada vs. Will Ospreay | ★★★★★¼ | 104 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Megumi Kudo vs. Kazuchika Okada vs. Madusa vs. Finn Bálor | ★★★★★ | 102 |
+| 2026-07-31 00:00:00 | S08E02_All In | Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada | ★★★★★ | 102 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Rosemary vs. Satoshi Kojima vs. Mankind vs. Tyson Kidd | ★★★★★ | 102 |
+| 2026-07-31 00:00:00 | S08E02_All In | Choke Slam Tag Team Championship - Gauntlet Rumble | ★★★★★ | 100 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Satoshi Kojima vs. Randy Orton vs. The Miz | ★★★★★ | 100 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Yokozuna vs. SANADA vs. Matanza Cueto vs. Tyler Breeze | ★★★★¾ | 99 |
-| 2026-09-14 00:00:00 | S08E02_All In | Madusa vs. Megumi Kudo vs. Rosemary | ★★★★¾ | 99 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Saint Rebel Radicalz vs. Militanter Mummenschanz | ★★★★¾ | 98 |
-| 2026-09-14 00:00:00 | S08E02_All In | Choke Slam World Championship: Kazuchika Okada vs. Yokozuna (c) | ★★★★¾ | 98 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Steve Austin vs. The Miz vs. Masahiro Chono vs. Pac | ★★★★¾ | 97 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Yokozuna vs. SANADA vs. Matanza Cueto vs. Tyler Breeze | ★★★★¾ | 99 |
+| 2026-07-31 00:00:00 | S08E02_All In | Madusa vs. Megumi Kudo vs. Rosemary | ★★★★¾ | 99 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Saint Rebel Radicalz vs. Militanter Mummenschanz | ★★★★¾ | 98 |
+| 2026-07-31 00:00:00 | S08E02_All In | Choke Slam World Championship: Kazuchika Okada vs. Yokozuna (c) | ★★★★¾ | 98 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Steve Austin vs. The Miz vs. Masahiro Chono vs. Pac | ★★★★¾ | 97 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Best 2 out of 3 Falls: Sweet 'n Sour Elite vs. Saint Rebel Radicalz | ★★★★¾ | 97 |
-| 2026-09-14 00:00:00 | S08E02_All In | Militanter Mummenschanz vs. Kenny Omega & Kota Ibushi | ★★★★¾ | 96 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. The Young Bucks (c) | ★★★★¾ | 96 |
+| 2026-07-31 00:00:00 | S08E02_All In | Militanter Mummenschanz vs. Kenny Omega & Kota Ibushi | ★★★★¾ | 96 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. The Young Bucks (c) | ★★★★¾ | 96 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Falls Count Anywhere - Choke Slam World Championship: Yokozuna vs. Steve Austin (c) | ★★★★¾ | 96 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Chris Benoit vs. Cesaro  vs. Randy Orton vs. Sami Zayn | ★★★★½ | 95 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | The Miz vs. Yokozuna vs. Chris Benoit vs. Randy Orton vs. Satoshi Kojima vs. Finn Bálor vs. SANADA vs. Rosemary | ★★★★½ | 94 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Madusa vs. Masahiro Chono vs. Yokozuna vs. Pac | ★★★★½ | 94 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Chris Benoit vs. Cesaro  vs. Randy Orton vs. Sami Zayn | ★★★★½ | 95 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | The Miz vs. Yokozuna vs. Chris Benoit vs. Randy Orton vs. Satoshi Kojima vs. Finn Bálor vs. SANADA vs. Rosemary | ★★★★½ | 94 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Madusa vs. Masahiro Chono vs. Yokozuna vs. Pac | ★★★★½ | 94 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Steve Austin vs. SANADA vs. Yokozuna | ★★★★½ | 94 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Choke Slam World Championship: Megumi Kudo vs. Pac vs. Kazuchika Okada (c) | ★★★★½ | 93 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Choke Slam World Championship: Megumi Kudo vs. Pac vs. Kazuchika Okada (c) | ★★★★½ | 93 |
 | 2026-07-31 00:00:00 | S08E01_Genesis | Lumberjack: Saint Rebel Radicalz vs. Militanter Mummenschanz | ★★★★½ | 93 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Choke Slam International Championship: Will Ospreay vs. Matanza Cueto vs. Masahiro Chono (c) | ★★★★½ | 92 |
-| 2026-10-26 00:00:00 | S08E03_Tribute to the Bastard | Sweet 'n Sour Elite vs. The Young Bucks | ★★★★½ | 92 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Choke Slam International Championship: Will Ospreay vs. Matanza Cueto vs. Masahiro Chono (c) | ★★★★½ | 92 |
+| 2026-09-14 00:00:00 | S08E03_Tribute to the Bastard | Sweet 'n Sour Elite vs. The Young Bucks | ★★★★½ | 92 |
 
 ## 📜 Championship History
 
@@ -96,21 +96,21 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | Datum | Winner | Loser | Show |
 |-------|--------|-------|------|
 | 2026-07-31 | **Yokozuna** | Steve Austin | S08E01_Genesis |
-| 2026-09-14 | **Kazuchika Okada** | Yokozuna | S08E02_All In |
-| 2026-10-26 | **Kazuchika Okada** | Megumi Kudo, Pac | S08E03_Tribute to the Bastard |
+| 2026-07-31 | **Kazuchika Okada** | Yokozuna | S08E02_All In |
+| 2026-09-14 | **Kazuchika Okada** | Megumi Kudo, Pac | S08E03_Tribute to the Bastard |
 
 ### 🏆 Choke Slam International Championship
 
 | Datum | Winner | Loser | Show |
 |-------|--------|-------|------|
 | 2026-07-31 | **Masahiro Chono** | Chris Benoit, Matanza Cueto, Hiroshi Tanahashi | S08E01_Genesis |
-| 2026-10-26 | **Masahiro Chono** | Will Ospreay, Matanza Cueto | S08E03_Tribute to the Bastard |
+| 2026-09-14 | **Masahiro Chono** | Will Ospreay, Matanza Cueto | S08E03_Tribute to the Bastard |
 
 ### 🏆 Choke Slam Womens Championship
 
 | Datum | Winner | Loser | Show |
 |-------|--------|-------|------|
-| 2026-09-14 | **Sasha Banks** | Megumi Kudo | S08E02_All In |
+| 2026-07-31 | **Sasha Banks** | Megumi Kudo | S08E02_All In |
 
 ## 📊 Statistiken
 
@@ -128,4 +128,4 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 ---
 *Auto-generiert vom Choke Slam PWI Power Ranking Generator*
-*Stand: 2026-11-11 05:00*
+*Stand: 2026-11-18 05:00*

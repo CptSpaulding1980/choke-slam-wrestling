@@ -25,7 +25,7 @@ avg_rating: 90.0
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/andrade_stats.png" width="200"> | **❌**<br>**Loss:** Andrade  vs. Chris Benoit vs. Pac in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br> | **Nemesis:** [[Wrestler/Pac\|Pac]]<br>**Partner:** [[Wrestler/Chris Benoit\|Chris Benoit]]<br>**Best Match:** 90% vs. Andrade  vs. Chris Benoit vs. Pac |
+| <img src="/img/charts/andrade_stats.png" width="200"> | **❌**<br>**Loss:** Andrade  vs. Chris Benoit vs. Pac in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)<br> | **Nemesis:** [[Wrestler/Pac\|Pac]]<br>**Partner:** [[Wrestler/Chris Benoit\|Chris Benoit]]<br>**Best Match:** 90% vs. Andrade  vs. Chris Benoit vs. Pac |
 
 ## Häufigste Gegner
 - [[Wrestler/Pac\|Pac]] (1x)
@@ -34,4 +34,4 @@ avg_rating: 90.0
 - [[Wrestler/Chris Benoit\|Chris Benoit]] (1x)
 
 ## Top Matches
-- 90%: [[Wrestler/Andrade\|Andrade]]  vs. [[Wrestler/Chris Benoit\|Chris Benoit]] vs. [[Wrestler/Pac\|Pac]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
+- 90%: [[Wrestler/Andrade\|Andrade]]  vs. [[Wrestler/Chris Benoit\|Chris Benoit]] vs. [[Wrestler/Pac\|Pac]] in [[Events/2026-09-14 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-09-14)

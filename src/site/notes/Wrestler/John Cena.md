@@ -5,12 +5,12 @@ title: John Cena
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/John_Cena.png
-matches: 11
-wins: 4
-losses: 5
+matches: 14
+wins: 5
+losses: 7
 draws: 2
-win_percent: 36.4
-avg_rating: 83.45
+win_percent: 35.7
+avg_rating: 86.57
 ---
 
 # John Cena
@@ -20,15 +20,15 @@ avg_rating: 83.45
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 11 | 4 | 5 | 2 | 36.4% | 83.45 |
+| 14 | 5 | 7 | 2 | 35.7% | 86.57 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/john-cena_stats.png" width="200"> | **❌✅✅❌⚪️**<br>**Draw:** Kiana James vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)<br>**Loss:** The Undertaker vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)<br>**Win:** Fallon Henley vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)<br>**Win:** Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br>**Loss:** Guardians of the Galaxy 2 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Batista\|Batista]]<br>**Best Match:** 99% vs. Cesaro  vs. Dalton Castle vs. Diesel vs. Kelly Klein vs. The Undertaker  vs. The Rock vs. John Cena vs. Steve Austin |
+| <img src="/img/charts/john-cena_stats.png" width="200"> | **❌⚪️✅❌❌**<br>**Loss:** John Cena vs. Randy Orton vs. The Miz vs. The Undertaker in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** Big Van Vader vs. John Cena in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Win:** John Cena vs. The Undertaker in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Draw:** Kiana James vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)<br>**Loss:** The Undertaker vs. John Cena in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Batista\|Batista]]<br>**Best Match:** 100% vs. John Cena vs. Randy Orton vs. The Miz vs. The Undertaker |
 
 ## Häufigste Gegner
-- [[Wrestler/The Undertaker\|The Undertaker]] (3x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (5x)
 - [[Wrestler/Bret Hart\|Bret Hart]] (3x)
 - [[Wrestler/Miro\|Miro]] (2x)
 - [[Wrestler/Bull Nakano\|Bull Nakano]] (2x)
@@ -42,8 +42,8 @@ avg_rating: 83.45
 - [[Wrestler/Noam Dar\|Noam Dar]] (1x)
 
 ## Top Matches
+- 100%: [[Wrestler/John Cena\|John Cena]] vs. [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/The Miz\|The Miz]] vs. [[Wrestler/The Undertaker\|The Undertaker]] in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)
 - 99%: [[Wrestler/Cesaro\|Cesaro]]  vs. [[Wrestler/Dalton Castle\|Dalton Castle]] vs. [[Wrestler/Diesel\|Diesel]] vs. [[Wrestler/Kelly Klein\|Kelly Klein]] vs. [[Wrestler/The Undertaker\|The Undertaker]]  vs. [[Wrestler/The Rock\|The Rock]] vs. [[Wrestler/John Cena\|John Cena]] vs. [[Wrestler/Steve Austin\|Steve Austin]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 99%: [[Wrestler/Kiana James\|Kiana James]] vs. [[Wrestler/John Cena\|John Cena]] in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)
-- 94%: Guardians of the Galaxy 3 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)
-- 92%: Guardians of the Galaxy 1 in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)
-- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
+- 98%: [[Wrestler/John Cena\|John Cena]] vs. [[Wrestler/The Undertaker\|The Undertaker]] in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)
+- 96%: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/John Cena\|John Cena]] in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)

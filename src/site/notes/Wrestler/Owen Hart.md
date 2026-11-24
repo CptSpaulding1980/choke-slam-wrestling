@@ -5,44 +5,37 @@ title: Owen Hart
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Owen_Hart.png
-matches: 28
+matches: 29
 wins: 17
-losses: 7
+losses: 8
 draws: 4
-win_percent: 60.7
-avg_rating: 89.04
+win_percent: 58.6
+avg_rating: 88.83
 ---
 
 # Owen Hart
 
 <table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Owen_Hart.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
-<!-- AUTO CHAMPION STATUS START -->
-<aside class="champion-status" aria-label="Aktueller Championstatus">
-  <span class="champion-status-label">Aktueller Champion</span>
-  <div class="champion-status-titles"><a class="champion-title-link" href="/choke-slam-wrestling/championships/choke-slam-trios-championship/">Choke Slam Trios Championship</a></div>
-</aside>
-<!-- AUTO CHAMPION STATUS END -->
-
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 28 | 17 | 7 | 4 | 60.7% | 89.04 |
+| 29 | 17 | 8 | 4 | 58.6% | 88.83 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/owen-hart_stats.png" width="200"> | **✅❌❌✅✅**<br>**Win:** 30 Minute Iron Man Match: Owen Hart vs. Pascal LePas in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Diesel\|Diesel]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 98% vs. Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/owen-hart_stats.png" width="200"> | **❌❌✅✅❌**<br>**Loss:** Saint Rebel Radicalz vs. Bret Hart & Owen Hart in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Win:** 30 Minute Iron Man Match: Owen Hart vs. Pascal LePas in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Best Match:** 98% vs. Mansoor & Sara Del Rey vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (6x)
 - [[Wrestler/Diesel\|Diesel]] (5x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
 - [[Wrestler/Sara Del Rey\|Sara Del Rey]] (4x)
 - [[Wrestler/Angélico\|Angélico]] (4x)
 - [[Wrestler/Randy Savage\|Randy Savage]] (4x)
 
 ## Häufigste Partner
-- [[Wrestler/Bret Hart\|Bret Hart]] (17x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (18x)
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (4x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (2x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (2x)

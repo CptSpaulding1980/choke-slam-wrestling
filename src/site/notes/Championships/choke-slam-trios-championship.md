@@ -8,23 +8,23 @@ title: Choke Slam Trios Championship
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Choke_Slam_Trios_Championship.png" width="700">
 
 ## 👑 Aktuelle Champions (Trios)
-**[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]]**
+**[[Wrestler/Kevin Nash\|Kevin Nash]] & [[Wrestler/Masahiro Chono\|Masahiro Chono]] & [[Wrestler/SANADA\|SANADA]]**
 
 ## 📊 Statistiken
 <table>
 <thead><tr><th>Kategorie</th><th>Wert</th></tr></thead>
 <tbody>
-<tr><td><strong>Insgesamt Regentschaften</strong></td><td>9</td></tr>
-<tr><td><strong>Verschiedene Champions</strong></td><td>9</td></tr>
+<tr><td><strong>Insgesamt Regentschaften</strong></td><td>10</td></tr>
+<tr><td><strong>Verschiedene Champions</strong></td><td>10</td></tr>
 <tr><td><strong>Vakante Phasen</strong></td><td>0</td></tr>
 <tr><td><strong>Erster Champion</strong></td><td>[[Wrestler/Ikemen Jiro\|Ikemen Jiro]] & [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] & [[Wrestler/Randy Savage\|Randy Savage]] (2023-05-30)</td></tr>
-<tr><td><strong>⌀ Regentschaftsdauer</strong></td><td>135 Tage</td></tr>
+<tr><td><strong>⌀ Regentschaftsdauer</strong></td><td>141 Tage</td></tr>
 <tr><td><strong>Längste Regentschaft</strong></td><td>[[Wrestler/Edge\|Edge]] & [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]] (276 Tage)</td></tr>
 <tr><td><strong>Meiste Regentschaften</strong></td><td>[[Wrestler/Ikemen Jiro\|Ikemen Jiro]] & [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] & [[Wrestler/Randy Savage\|Randy Savage]] (1x)</td></tr>
 <tr><td><strong>Meiste Verteidigungen</strong></td><td>[[Wrestler/Brandon\|Brandon]] & [[Wrestler/Hulk Hogan\|Hulk Hogan]] & [[Wrestler/Kenny Omega\|Kenny Omega]] (1 Verteidigungen)</td></tr>
-<tr><td><strong>Titelmatches gesamt</strong></td><td>11</td></tr>
-<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>2 (18%)</td></tr>
-<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]] — Tag 187 🔥</td></tr>
+<tr><td><strong>Titelmatches gesamt</strong></td><td>12</td></tr>
+<tr><td><strong>Erfolgreiche Verteidigungen</strong></td><td>2 (17%)</td></tr>
+<tr><td><strong>Aktuelle Regentschaft</strong></td><td>[[Wrestler/Kevin Nash\|Kevin Nash]] & [[Wrestler/Masahiro Chono\|Masahiro Chono]] & [[Wrestler/SANADA\|SANADA]] — Tag 1 🔥</td></tr>
 </tbody>
 </table>
 
@@ -40,7 +40,8 @@ title: Choke Slam Trios Championship
 <tr><td>[[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] & [[Wrestler/Bandido\|Bandido]] & [[Wrestler/Fit Finlay\|Fit Finlay]]</td><td>1</td><td>0</td><td>0 Tage</td><td>0 Tage</td></tr>
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Lex Luger\|Lex Luger]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>1</td><td>0</td><td>0 Tage</td><td>0 Tage</td></tr>
 <tr><td>[[Wrestler/Edge\|Edge]] & [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>1</td><td>1</td><td>276 Tage</td><td>276 Tage</td></tr>
-<tr><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]]</td><td>1</td><td>0</td><td>187 Tage</td><td>187 Tage</td></tr>
+<tr><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]]</td><td>1</td><td>0</td><td>192 Tage</td><td>192 Tage</td></tr>
+<tr><td>[[Wrestler/Kevin Nash\|Kevin Nash]] & [[Wrestler/Masahiro Chono\|Masahiro Chono]] & [[Wrestler/SANADA\|SANADA]]</td><td>1</td><td>0</td><td>1 Tage</td><td>1 Tage</td></tr>
 </tbody>
 </table>
 
@@ -56,6 +57,7 @@ title: Choke Slam Trios Championship
 <tr><td>[[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] & [[Wrestler/Bandido\|Bandido]] & [[Wrestler/Fit Finlay\|Fit Finlay]]</td><td>2025-08-12</td><td>[[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]]</td><td>2025-08-12</td><td>0 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Lex Luger\|Lex Luger]] & [[Wrestler/Wardlow\|Wardlow]]</td><td>2025-08-12</td><td>[[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]]</td><td>2025-08-12</td><td>0 Tage</td><td>0</td></tr>
 <tr><td>[[Wrestler/Edge\|Edge]] & [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] & [[Wrestler/Roman Reigns\|Roman Reigns]]</td><td>2025-08-12</td><td>[[Events/2025-08-12 - S07E02_King & Queen of the Ring\|2025-08-12 - S07E02_King & Queen of the Ring]]</td><td>2026-05-15</td><td>276 Tage</td><td>1</td></tr>
-<tr><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
+<tr><td>[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]]</td><td>2026-05-15</td><td>[[Events/2026-05-15 - S07E10_Night of Champions\|2026-05-15 - S07E10_Night of Champions]]</td><td>2026-11-23</td><td>192 Tage</td><td>0</td></tr>
+<tr><td>[[Wrestler/Kevin Nash\|Kevin Nash]] & [[Wrestler/Masahiro Chono\|Masahiro Chono]] & [[Wrestler/SANADA\|SANADA]]</td><td>2026-11-23</td><td>[[Events/2026-11-23 - S08E04_Royal Rumble\|2026-11-23 - S08E04_Royal Rumble]]</td><td>Current</td><td>aktuell</td><td>0</td></tr>
 </tbody>
 </table>

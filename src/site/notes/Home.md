@@ -22,28 +22,28 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 ## 📅 Die letzten Events
 | Datum | Show | Main Event |
 |---|---|---|
+| 2026-11-23 | [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] | Royal Rumble |
 | 2026-10-26 | [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] | Choke Slam World Championship: Megumi Kudo vs. Pac vs. Kazuchika Okada (c) |
-| 2026-07-31 | [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] | Choke Slam World Championship: Kazuchika Okada vs. Yokozuna (c) |
+| 2026-09-14 | [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] | Choke Slam World Championship: Kazuchika Okada vs. Yokozuna (c) |
 | 2026-07-31 | [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] | Falls Count Anywhere - Choke Slam World Championship: Yokozuna vs. Steve Austin (c) |
 | 2026-06-23 | [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] | Choke Slam World Championship: Roman Reigns vs. Steve Austin (c) |
-| 2026-06-16 | [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] | Final: Christian Cage vs. Tetsuya Naito |
 
 ## 🏆 Aktuelle Champions
 | | Titel | Champion |
 |---|---|---|
 | 👥 | [[Championships/choke-slam-tag-team-championship\|Choke Slam Tag Team Championship]] | **[[Wrestler/Matt Jackson\|Matt Jackson]] & [[Wrestler/Nick Jackson\|Nick Jackson]]** |
-| 🏆 | [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | **[[Wrestler/Kazuchika Okada\|Kazuchika Okada]]** |
-| 🏆 | [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | **[[Wrestler/Masahiro Chono\|Masahiro Chono]]** |
+| 🏆 | [[Championships/choke-slam-world-championship\|Choke Slam World Championship]] | **[[Wrestler/Big Van Vader\|Big Van Vader]]** |
+| 🏆 | [[Championships/choke-slam-international-championship\|Choke Slam International Championship]] | **[[Wrestler/Steve Austin\|Steve Austin]]** |
 | 👩 | [[Championships/choke-slam-womens-championship\|Choke Slam Womens Championship]] | **[[Wrestler/Sasha Banks\|Sasha Banks]]** |
-| 👪 | [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | **[[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Daniel Bryan\|Daniel Bryan]] & [[Wrestler/Owen Hart\|Owen Hart]]** |
+| 👪 | [[Championships/choke-slam-trios-championship\|Choke Slam Trios Championship]] | **[[Wrestler/Kevin Nash\|Kevin Nash]] & [[Wrestler/Masahiro Chono\|Masahiro Chono]] & [[Wrestler/SANADA\|SANADA]]** |
 
 ## 🔥 Top Performer 2026
 | Wrestler | Siege |
 |---|---|
 | [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 15 |
-| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 13 |
+| [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 14 |
 | [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 13 |
-| [[Wrestler/Steve Austin\|Steve Austin]] | 10 |
+| [[Wrestler/Steve Austin\|Steve Austin]] | 11 |
 | [[Wrestler/Bret Hart\|Bret Hart]] | 10 |
 
 ---

@@ -5,44 +5,37 @@ title: Bret Hart
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bret_Hart.png
-matches: 106
+matches: 107
 wins: 47
-losses: 42
+losses: 43
 draws: 17
-win_percent: 44.3
-avg_rating: 87.85
+win_percent: 43.9
+avg_rating: 87.8
 ---
 
 # Bret Hart
 
 <table><tr><td><img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bret_Hart.png" width="280"></td><td><b>Height:</b> N/A<br><b>Weight:</b> N/A<br><b>Finisher:</b> N/A</td></tr></table>
-<!-- AUTO CHAMPION STATUS START -->
-<aside class="champion-status" aria-label="Aktueller Championstatus">
-  <span class="champion-status-label">Aktueller Champion</span>
-  <div class="champion-status-titles"><a class="champion-title-link" href="/choke-slam-wrestling/championships/choke-slam-trios-championship/">Choke Slam Trios Championship</a></div>
-</aside>
-<!-- AUTO CHAMPION STATUS END -->
-
 
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 106 | 47 | 42 | 17 | 44.3% | 87.85 |
+| 107 | 47 | 43 | 17 | 43.9% | 87.80 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bret-hart_stats.png" width="200"> | **❌⚪️❌✅❌**<br>**Loss:** Choke Slam World Championship: Bret Hart vs. Steve Austin (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** Round of 16: Bret Hart vs. Gunther in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Owen Hart\|Owen Hart]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/bret-hart_stats.png" width="200"> | **⚪️❌✅❌❌**<br>**Loss:** Saint Rebel Radicalz vs. Bret Hart & Owen Hart in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** Choke Slam World Championship: Bret Hart vs. Steve Austin (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** Round of 16: Bret Hart vs. Gunther in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Owen Hart\|Owen Hart]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Savage\|Randy Savage]] (12x)
 - [[Wrestler/Jay White\|Jay White]] (12x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (11x)
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (11x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (10x)
 - [[Wrestler/The Undertaker\|The Undertaker]] (9x)
 
 ## Häufigste Partner
-- [[Wrestler/Owen Hart\|Owen Hart]] (17x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (18x)
 - [[Wrestler/Miro\|Miro]] (14x)
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (9x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (6x)

@@ -142,7 +142,8 @@ def _colour_hex(colour, workbook) -> str:
 
 
 def _clean_sheet_name(value: object) -> str:
-    name = re.sub(r"\s+\d+\)\s*$", "", str(value or "")).strip()
+    # Strip one or more trailing draft-rank annotations (" 3)", " 4)", ...).
+    name = re.sub(r"(?:\s+\d+\))+\s*$", "", str(value or "")).strip()
     return re.sub(r"\s+", " ", name)
 
 

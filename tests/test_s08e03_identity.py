@@ -36,7 +36,7 @@ class S08E03IdentityTests(unittest.TestCase):
         self.assertEqual(len(lines), 1)
         self.assertTrue(lines[0].startswith('| 2026-10-26 |'))
         self.assertTrue(lines[0].endswith('| 21 |'))
-        self.assertIn('| S08 | 47 |', (notes/'Statistiken/Globale Statistiken.md').read_text())
+        self.assertIn('| S08 | 59 |', (notes/'Statistiken/Globale Statistiken.md').read_text())
         redirect = (ROOT/'src/site/redirects/s08e03-september.njk').read_text()
         self.assertIn('eleventyExcludeFromCollections: true', redirect)
         self.assertIn('content="0; url=/choke-slam-wrestling/events/2026-10-26-s08e03-tribute-to-the-bastard/"', redirect)

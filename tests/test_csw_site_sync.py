@@ -59,6 +59,31 @@ class TeamSheetTests(unittest.TestCase):
             },
         )
 
+    def test_double_rank_suffix_strips_to_canonical_name(self):
+        workbook = Workbook()
+        sheet = workbook.active
+        sheet.title = "Choke Slam Wrestling S8"
+        for row, (manager, colour) in enumerate(
+            (("Pascal", "FFFF9900"), ("Phillipp", "FFEAD1DC"), ("Hendrik", "FF61D836")),
+            4,
+        ):
+            sheet.cell(row, 9).fill = PatternFill("solid", fgColor=colour)
+            sheet.cell(row, 10).value = manager
+        entries = [
+            ("B4", "Masahiro Chono 3) 4)", "FFFF9900"),
+            ("B5", "Mick Foley", "FFEAD1DC"),
+            ("B6", "Steve Austin", "FF61D836"),
+        ]
+        for coordinate, name, colour in entries:
+            sheet[coordinate] = name
+            sheet[coordinate].fill = PatternFill("solid", fgColor=colour)
+
+        result = site_sync.extract_team_rosters(
+            workbook, available_names={"Masahiro Chono", "Mick Foley", "Steve Austin"}
+        )
+
+        self.assertEqual(result.teams["Saint Rebel Radicalz"], ["Masahiro Chono"])
+
     def test_vader_alias_requires_existing_big_van_vader(self):
         workbook = Workbook()
         sheet = workbook.active

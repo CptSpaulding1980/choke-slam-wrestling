@@ -25,7 +25,7 @@ avg_rating: 87.07
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/zack-sabre-jr_stats.png" width="200"> | **❌✅❌✅⚪️**<br>**Draw:** Choke Slam Tag Team Championship - Gauntlet Rumble in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)<br>**Win:** Choke Slam Tag Team Championship: Sweet 'n Sour Allstars vs. Saint Rebel Radicalz (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Sweet 'n Sour Elite vs. Diesel & Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Submission Vision: Bret Hart vs. Zack Sabre Jr. in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Joe Hendry\|Joe Hendry]]<br>**Best Match:** 100% vs. Kenny Omega vs. Zack Sabre Jr. |
+| <img src="/img/charts/zack-sabre-jr_stats.png" width="200"> | **❌✅❌✅⚪️**<br>**Draw:** Choke Slam Tag Team Championship - Gauntlet Rumble in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Win:** Choke Slam Tag Team Championship: Sweet 'n Sour Allstars vs. Saint Rebel Radicalz (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Sweet 'n Sour Elite vs. Diesel & Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Submission Vision: Bret Hart vs. Zack Sabre Jr. in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Joe Hendry\|Joe Hendry]]<br>**Best Match:** 100% vs. Kenny Omega vs. Zack Sabre Jr. |
 
 ## Häufigste Gegner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (6x)
@@ -43,7 +43,7 @@ avg_rating: 87.07
 
 ## Top Matches
 - 100%: [[Wrestler/Kenny Omega\|Kenny Omega]] vs. [[Wrestler/Zack Sabre\|Zack Sabre]] Jr. in [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] (2023-04-03)
-- 100%: [[Choke Slam Tag Team Championship]] - Gauntlet Rumble in [[Events/2026-07-31 - S08E02_All In\|S08E02_All In]] (2026-07-31)
+- 100%: [[Choke Slam Tag Team Championship]] - Gauntlet Rumble in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
 - 99%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)
 - 97%: Submission Vision: [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs. [[Wrestler/Zack Sabre\|Zack Sabre]] Jr. in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)
 - 94%: [[Teams/Path of God\|Path of God]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)

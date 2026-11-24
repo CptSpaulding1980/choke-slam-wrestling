@@ -6,12 +6,12 @@ tags:
 - wrestler
 img: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Finn_B\xE1\
   lor.png"
-matches: 21
+matches: 20
 wins: 10
 losses: 8
-draws: 3
-win_percent: 47.6
-avg_rating: 86.52
+draws: 2
+win_percent: 50.0
+avg_rating: 86.4
 ---
 
 # Finn Bálor
@@ -21,7 +21,7 @@ avg_rating: 86.52
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 21 | 10 | 8 | 3 | 47.6% | 86.52 |
+| 20 | 10 | 8 | 2 | 50.0% | 86.40 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -29,11 +29,11 @@ avg_rating: 86.52
 | <img src="/img/charts/finn-blor_stats.png" width="200"> | **❌✅✅❌⚪️**<br>**Draw:** The Miz vs. Yokozuna vs. Chris Benoit vs. Randy Orton vs. Satoshi Kojima vs. Finn Bálor vs. SANADA vs. Rosemary in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Loss:** Megumi Kudo vs. Kazuchika Okada vs. Madusa vs. Finn Bálor in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Win:** Sweet 'n Sour Elite vs. Fallon Henley, Finn Bálor, & KUSHIDA in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Dominik Mysterio & Finn Bálor vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Sweet 'n Sour Elite vs. Finn Bálor & Dominik Mysterio in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br> | **Nemesis:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Partner:** [[Wrestler/Fallon Henley\|Fallon Henley]]<br>**Best Match:** 102% vs. Megumi Kudo vs. Kazuchika Okada vs. Madusa vs. Finn Bálor |
 
 ## Häufigste Gegner
-- [[Wrestler/Laredo Kid\|Laredo Kid]] (5x)
-- [[Wrestler/Kiana James\|Kiana James]] (4x)
-- [[Wrestler/Gunther\|Gunther]] (3x)
-- [[Wrestler/Joe Hendry\|Joe Hendry]] (3x)
-- [[Wrestler/Tatum Paxley\|Tatum Paxley]] (3x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (4x)
+- [[Wrestler/Kiana James\|Kiana James]] (3x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (3x)
+- [[Wrestler/Gunther\|Gunther]] (2x)
+- [[Wrestler/Joe Hendry\|Joe Hendry]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Fallon Henley\|Fallon Henley]] (7x)

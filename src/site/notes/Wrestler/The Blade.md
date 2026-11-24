@@ -5,12 +5,12 @@ title: The Blade
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Blade.png
-matches: 15
+matches: 13
 wins: 3
 losses: 8
-draws: 4
-win_percent: 20.0
-avg_rating: 82.47
+draws: 2
+win_percent: 23.1
+avg_rating: 81.23
 ---
 
 # The Blade
@@ -20,19 +20,19 @@ avg_rating: 82.47
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 15 | 3 | 8 | 4 | 20.0% | 82.47 |
+| 13 | 3 | 8 | 2 | 23.1% | 81.23 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/the-blade_stats.png" width="200"> | **❌❌❌⚪️❌**<br>**Loss:** Christian Cage, The Blade, & The Butcher vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Loss:** Dan Koloff HC Tournament: The Blade vs. Kane vs. Jeff Cobb in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)<br>**Loss:** Joey Janela & The Blade vs. Owen Hart & The Butcher in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br>**Loss:** Owen Hart & Hiromu Takahashi vs. Sweet 'n Sour Elite in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br> | **Nemesis:** [[Wrestler/Johnny Mundo\|Johnny Mundo]]<br>**Partner:** [[Wrestler/The Butcher\|The Butcher]]<br>**Best Match:** 98% vs. Sweet 'n Sour Elite vs. Daga , Texano Jr. & Rey Escorpión |
+| <img src="/img/charts/the-blade_stats.png" width="200"> | **✅❌❌❌❌**<br>**Loss:** Christian Cage, The Blade, & The Butcher vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Dan Koloff HC Tournament: The Blade vs. Kane vs. Jeff Cobb in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)<br>**Loss:** Joey Janela & The Blade vs. Owen Hart & The Butcher in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br>**Loss:** Owen Hart & Hiromu Takahashi vs. Sweet 'n Sour Elite in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br>**Win:** Jim Neidhart & Joey Janela vs. Johnny Mundo & The Blade in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br> | **Nemesis:** [[Wrestler/Texano Jr.\|Texano Jr.]]<br>**Partner:** [[Wrestler/The Butcher\|The Butcher]]<br>**Best Match:** 98% vs. Sweet 'n Sour Elite vs. Daga , Texano Jr. & Rey Escorpión |
 
 ## Häufigste Gegner
-- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (4x)
-- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (4x)
-- [[Wrestler/Christian Cage\|Christian Cage]] (4x)
-- [[Wrestler/The Butcher\|The Butcher]] (4x)
-- [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
+- [[Wrestler/Texano Jr.\|Texano Jr.]] (2x)
+- [[Wrestler/Rey Escorpión\|Rey Escorpión]] (2x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (2x)
+- [[Wrestler/Jim Duggan\|Jim Duggan]] (2x)
+- [[Wrestler/Lex Luger\|Lex Luger]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/The Butcher\|The Butcher]] (7x)

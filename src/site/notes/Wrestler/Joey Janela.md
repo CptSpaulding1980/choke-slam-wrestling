@@ -5,12 +5,12 @@ title: Joey Janela
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Joey_Janela.png
-matches: 20
+matches: 14
 wins: 6
 losses: 6
-draws: 8
-win_percent: 30.0
-avg_rating: 89.4
+draws: 2
+win_percent: 42.9
+avg_rating: 89.07
 ---
 
 # Joey Janela
@@ -20,19 +20,19 @@ avg_rating: 89.4
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 20 | 6 | 6 | 8 | 30.0% | 89.40 |
+| 14 | 6 | 6 | 2 | 42.9% | 89.07 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/joey-janela_stats.png" width="200"> | **⚪️⚪️✅⚪️⚪️**<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** Royal Rumble Match in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)<br>**Win:** Sweet 'n Sour Elite vs. Joey Janela, Madison Rayne, Kane, & Edge in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br> | **Nemesis:** [[Wrestler/Johnny Mundo\|Johnny Mundo]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
+| <img src="/img/charts/joey-janela_stats.png" width="200"> | **❌❌❌❌✅**<br>**Win:** Sweet 'n Sour Elite vs. Joey Janela, Madison Rayne, Kane, & Edge in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)<br>**Loss:** Choke Slam Tag Team Championship: Joey Janela vs. Kane vs. Bob Backlund vs. Kota Ibushi vs. Christian Cage vs. Tetsuya Naito in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)<br>**Loss:** Dan Koloff HC Tournament: Mickie James vs. Joey Janela vs. Awesome Kong in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)<br>**Loss:** Joey Janela & The Blade vs. Owen Hart & The Butcher in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br>**Loss:** Bob Backlund & The Butcher vs. Bret Hart & Joey Janela in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br> | **Nemesis:** [[Wrestler/Johnny Mundo\|Johnny Mundo]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
 
 ## Häufigste Gegner
-- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (7x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (7x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)
-- [[Wrestler/Awesome Kong\|Awesome Kong]] (6x)
-- [[Wrestler/KENTA\|KENTA]] (6x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (4x)
+- [[Wrestler/Lex Luger\|Lex Luger]] (2x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
+- [[Wrestler/Kane\|Kane]] (2x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Kane\|Kane]] (3x)

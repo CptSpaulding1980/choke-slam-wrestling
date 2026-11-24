@@ -5,12 +5,12 @@ title: Bret Hart
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Bret_Hart.png
-matches: 107
-wins: 47
+matches: 99
+wins: 48
 losses: 43
-draws: 17
-win_percent: 43.9
-avg_rating: 87.8
+draws: 8
+win_percent: 48.5
+avg_rating: 87.37
 ---
 
 # Bret Hart
@@ -20,19 +20,19 @@ avg_rating: 87.8
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 107 | 47 | 43 | 17 | 43.9% | 87.80 |
+| 99 | 48 | 43 | 8 | 48.5% | 87.37 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/bret-hart_stats.png" width="200"> | **⚪️❌✅❌❌**<br>**Loss:** Saint Rebel Radicalz vs. Bret Hart & Owen Hart in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** Choke Slam World Championship: Bret Hart vs. Steve Austin (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** Round of 16: Bret Hart vs. Gunther in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Owen Hart\|Owen Hart]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/bret-hart_stats.png" width="200"> | **⚪️❌✅❌❌**<br>**Loss:** Saint Rebel Radicalz vs. Bret Hart & Owen Hart in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** Choke Slam World Championship: Bret Hart vs. Steve Austin (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** Round of 16: Bret Hart vs. Gunther in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Owen Hart\|Owen Hart]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage\|Randy Savage]] (12x)
-- [[Wrestler/Jay White\|Jay White]] (12x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (11x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (11x)
-- [[Wrestler/The Undertaker\|The Undertaker]] (9x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (9x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (8x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (8x)
+- [[Wrestler/Jay White\|Jay White]] (8x)
+- [[Wrestler/Diesel\|Diesel]] (6x)
 
 ## Häufigste Partner
 - [[Wrestler/Owen Hart\|Owen Hart]] (18x)

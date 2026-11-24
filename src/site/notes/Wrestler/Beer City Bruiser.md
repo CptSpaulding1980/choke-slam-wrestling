@@ -5,12 +5,12 @@ title: Beer City Bruiser
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Beer_City_Bruiser.png
-matches: 3
+matches: 2
 wins: 0
 losses: 2
-draws: 1
+draws: 0
 win_percent: 0.0
-avg_rating: 85.0
+avg_rating: 80.5
 ---
 
 # Beer City Bruiser
@@ -20,19 +20,19 @@ avg_rating: 85.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 3 | 0 | 2 | 1 | 0.0% | 85.00 |
+| 2 | 0 | 2 | 0 | 0.0% | 80.50 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/beer-city-bruiser_stats.png" width="200"> | **❌❌⚪️**<br>**Draw:** What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Loss:** Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Loss:** Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br> | **Nemesis:** [[Wrestler/Eddie Edwards\|Eddie Edwards]]<br>**Partner:** [[Wrestler/Cora Jade\|Cora Jade]]<br>**Best Match:** 94% vs. What if... Battle Royal |
+| <img src="/img/charts/beer-city-bruiser_stats.png" width="200"> | **❌❌**<br>**Loss:** Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Loss:** Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br> | **Nemesis:** [[Wrestler/Eddie Edwards\|Eddie Edwards]]<br>**Partner:** [[Wrestler/Cora Jade\|Cora Jade]]<br>**Best Match:** 81% vs. Militanter Mummenschanz vs. Nature Game Masters  |
 
 ## Häufigste Gegner
-- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (3x)
-- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (3x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
-- [[Wrestler/AJ Styles\|AJ Styles]] (2x)
-- [[Wrestler/Miro\|Miro]] (2x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (2x)
+- [[Wrestler/Gigi Dolin\|Gigi Dolin]] (2x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (1x)
+- [[Wrestler/Miro\|Miro]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Cora Jade\|Cora Jade]] (2x)
@@ -41,6 +41,5 @@ avg_rating: 85.0
 - [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
 
 ## Top Matches
-- 94%: What if... [[Battle Royal]] in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)
 - 81%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)
 - 80%: Eight Man Tag: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)

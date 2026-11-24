@@ -5,12 +5,12 @@ title: Xavier Woods
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Xavier_Woods.png
-matches: 17
+matches: 16
 wins: 7
 losses: 8
-draws: 2
-win_percent: 41.2
-avg_rating: 84.71
+draws: 1
+win_percent: 43.8
+avg_rating: 84.31
 ---
 
 # Xavier Woods
@@ -22,7 +22,7 @@ avg_rating: 84.71
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 17 | 7 | 8 | 2 | 41.2% | 84.71 |
+| 16 | 7 | 8 | 1 | 43.8% | 84.31 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -30,11 +30,11 @@ avg_rating: 84.71
 | <img src="/img/charts/xavier-woods_stats.png" width="200"> | **❌✅✅❌❌**<br>**Loss:** Saint Rebel Radicalz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Loss:** Sweet 'n Sour Elite vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Win:** Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br>**Win:** Consequences Creed vs. Chris Hero vs. Ilja Dragunov vs. Bryan Danielson vs. Tyler Bate in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)<br>**Loss:** <95 kg: Christian Cage vs. Consequences Creed in [[Events/2021-10-17 - S04E04_Admiral Lordevans Rules!\|S04E04_Admiral Lordevans Rules!]] (2021-10-17)<br> | **Nemesis:** [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]]<br>**Partner:** [[Wrestler/Big E\|Big E]]<br>**Best Match:** 99% vs. Saint Rebel Radicalz vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
-- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (4x)
-- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (3x)
-- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (3x)
-- [[Wrestler/Rush\|Rush]] (3x)
-- [[Wrestler/Lucky Kid\|Lucky Kid]] (2x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (3x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (2x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (2x)
+- [[Wrestler/Rush\|Rush]] (2x)
+- [[Wrestler/Akira Hokuto\|Akira Hokuto]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Big E\|Big E]] (3x)

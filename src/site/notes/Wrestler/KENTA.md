@@ -5,12 +5,12 @@ title: KENTA
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/KENTA.png
-matches: 34
+matches: 27
 wins: 12
 losses: 13
-draws: 9
-win_percent: 35.3
-avg_rating: 87.24
+draws: 2
+win_percent: 44.4
+avg_rating: 86.11
 ---
 
 # KENTA
@@ -20,19 +20,19 @@ avg_rating: 87.24
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 34 | 12 | 13 | 9 | 35.3% | 87.24 |
+| 27 | 12 | 13 | 2 | 44.4% | 86.11 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kenta_stats.png" width="200"> | **✅❌⚪️✅⚪️**<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Saint Rebel Radicalz vs. KENTA, Edge, & Killshot   in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** VF2: Edge, Killshot, & KENTA vs. Saint Rebel Radicalz in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Killshot, Edge, & KENTA vs. Militanter Mummenschanz in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 101% vs. KENTA vs. Austin Aries vs. Kazuchika Okada |
+| <img src="/img/charts/kenta_stats.png" width="200"> | **❌❌✅❌✅**<br>**Win:** Saint Rebel Radicalz vs. KENTA, Edge, & Killshot   in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Loss:** VF2: Edge, Killshot, & KENTA vs. Saint Rebel Radicalz in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Killshot, Edge, & KENTA vs. Militanter Mummenschanz in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Roman Reigns vs. Seth Rollins vs. Edge vs. KENTA vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Shawn Michaels vs. Diesel vs. KENTA vs. Edge vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Edge\|Edge]]<br>**Best Match:** 101% vs. KENTA vs. Austin Aries vs. Kazuchika Okada |
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (9x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (8x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (8x)
-- [[Wrestler/Joey Janela\|Joey Janela]] (7x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (7x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (4x)
+- [[Wrestler/Jim Duggan\|Jim Duggan]] (3x)
+- [[Wrestler/Kane\|Kane]] (2x)
+- [[Wrestler/Daga\|Daga]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Edge\|Edge]] (10x)
@@ -46,4 +46,4 @@ avg_rating: 87.24
 - 100%: [[Iron Man]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
 - 100%: [[Iron Man]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
 - 100%: [[Wrestler/Edge\|Edge]] vs. [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] vs. [[Wrestler/Christian\|Christian]] vs. [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] (2021-04-10)
-- 100%: [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Hollywood Hogan\|Hollywood Hogan]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] vs. [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Lita\|Lita]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)
+- 99%: [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/KENTA\|KENTA]] in [[Events/2021-02-25 - S03E06_Swiss Bliss - Tokyo Drift\|S03E06_Swiss Bliss - Tokyo Drift]] (2021-02-25)

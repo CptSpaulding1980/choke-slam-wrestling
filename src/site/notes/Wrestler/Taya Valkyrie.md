@@ -5,12 +5,12 @@ title: Taya Valkyrie
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Taya_Valkyrie.png
-matches: 8
+matches: 5
 wins: 2
 losses: 3
-draws: 3
-win_percent: 25.0
-avg_rating: 93.62
+draws: 0
+win_percent: 40.0
+avg_rating: 95.4
 ---
 
 # Taya Valkyrie
@@ -20,19 +20,19 @@ avg_rating: 93.62
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 8 | 2 | 3 | 3 | 25.0% | 93.62 |
+| 5 | 2 | 3 | 0 | 40.0% | 95.40 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/taya-valkyrie_stats.png" width="200"> | **✅❌⚪️⚪️⚪️**<br>**Draw:** Johnny Mundo vs. Texano Jr. vs. Rey Escorpión vs. Killshot   vs. Kane vs. KENTA vs. Daga  vs. Taya Valkyrie in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Draw:** Johnny Mundo vs. Texano Jr. vs. Hulk Hogan vs. Rey Escorpión vs. Tetsuya Naito vs. Christian vs. Taya Valkyrie vs. Brutus Beefcake in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Draw:** Texano Jr. vs. Gail Kim vs. Johnny Mundo vs. Shingo Takagi vs. Daga  vs. Dustin Rhodes vs. Kazuchika Okada vs. Taya Valkyrie in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Loss:** Saint Rebel Radicalz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Win:** Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Daga\|Daga]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
+| <img src="/img/charts/taya-valkyrie_stats.png" width="200"> | **❌✅❌✅❌**<br>**Loss:** Saint Rebel Radicalz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Win:** Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Loss:** Militanter Mummenschanz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Win:** Saint Rebel Radicalz vs. Daga , Johnny Mundo & Taya Valkyrie in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Loss:** Militanter Mummenschanz vs. Daga  & Taya Valkyrie in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Daga\|Daga]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)
-- [[Wrestler/Texano Jr.\|Texano Jr.]] (3x)
-- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
-- [[Wrestler/Daga\|Daga]] (3x)
-- [[Wrestler/Rey Escorpión\|Rey Escorpión]] (3x)
+- [[Wrestler/Edge\|Edge]] (2x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
+- [[Wrestler/KENTA\|KENTA]] (1x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Daga\|Daga]] (3x)

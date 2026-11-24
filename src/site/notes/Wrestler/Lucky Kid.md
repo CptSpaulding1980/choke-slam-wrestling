@@ -5,12 +5,12 @@ title: Lucky Kid
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Lucky_Kid.png
-matches: 4
+matches: 3
 wins: 1
 losses: 2
-draws: 1
-win_percent: 25.0
-avg_rating: 94.0
+draws: 0
+win_percent: 33.3
+avg_rating: 95.0
 ---
 
 # Lucky Kid
@@ -20,19 +20,19 @@ avg_rating: 94.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 4 | 1 | 2 | 1 | 25.0% | 94.00 |
+| 3 | 1 | 2 | 0 | 33.3% | 95.00 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/lucky-kid_stats.png" width="200"> | **✅❌❌⚪️**<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Loss:** Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)<br>**Loss:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br>**Win:** Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br> | **Nemesis:** [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]]<br>**Partner:** [[Wrestler/Akira Hokuto\|Akira Hokuto]]<br>**Best Match:** 97% vs. Sweet 'n Sour Elite vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/lucky-kid_stats.png" width="200"> | **✅❌❌**<br>**Loss:** Sweet 'n Sour Elite vs. Sweet 'n Sour Elite in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)<br>**Loss:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br>**Win:** Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)<br> | **Nemesis:** [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]]<br>**Partner:** [[Wrestler/Akira Hokuto\|Akira Hokuto]]<br>**Best Match:** 97% vs. Sweet 'n Sour Elite vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
-- [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (2x)
-- [[Wrestler/Xavier Woods\|Xavier Woods]] (2x)
-- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (2x)
-- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (2x)
-- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (2x)
+- [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] (1x)
+- [[Wrestler/Xavier Woods\|Xavier Woods]] (1x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (1x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (1x)
+- [[Wrestler/Eddie Edwards\|Eddie Edwards]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Akira Hokuto\|Akira Hokuto]] (2x)
@@ -42,4 +42,3 @@ avg_rating: 94.0
 - 97%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)
 - 94%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)
 - 94%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2021-08-23 - S04E01_90's\|S04E01_90's]] (2021-08-23)
-- 91%: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)

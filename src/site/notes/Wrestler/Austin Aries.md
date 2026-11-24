@@ -5,12 +5,12 @@ title: Austin Aries
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Austin_Aries.png
-matches: 21
+matches: 20
 wins: 6
 losses: 13
-draws: 2
-win_percent: 28.6
-avg_rating: 86.43
+draws: 1
+win_percent: 30.0
+avg_rating: 85.75
 ---
 
 # Austin Aries
@@ -20,12 +20,12 @@ avg_rating: 86.43
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 21 | 6 | 13 | 2 | 28.6% | 86.43 |
+| 20 | 6 | 13 | 1 | 30.0% | 85.75 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/austin-aries_stats.png" width="200"> | **✅❌⚪️❌❌**<br>**Loss:** Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br>**Loss:** Inferno en el Ring: Austin Aries vs. Randy Savage vs. Hulk Hogan vs. Universo 2000 in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)<br>**Draw:** Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)<br>**Loss:** Victoria Doble: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)<br>**Win:** Victoria Doble: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)<br> | **Nemesis:** [[Wrestler/Dustin Rhodes\|Dustin Rhodes]]<br>**Partner:** [[Wrestler/Paul Orndorff\|Paul Orndorff]]<br>**Best Match:** 101% vs. KENTA vs. Austin Aries vs. Kazuchika Okada |
+| <img src="/img/charts/austin-aries_stats.png" width="200"> | **❌✅❌❌❌**<br>**Loss:** Elimination Chamber - Choke Slam World Championship: Mr. Fuji vs. Ludwig Kaiser vs. Scott Steiner vs. Austin Aries vs. Bret Hart vs. Hulk Hogan (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br>**Loss:** Inferno en el Ring: Austin Aries vs. Randy Savage vs. Hulk Hogan vs. Universo 2000 in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)<br>**Loss:** Victoria Doble: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)<br>**Win:** Victoria Doble: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)<br>**Loss:** Jushin Liger vs. Austin Aries in [[Events/2021-03-09 - S03E06_Swiss Bliss - A New Hope\|S03E06_Swiss Bliss - A New Hope]] (2021-03-09)<br> | **Nemesis:** [[Wrestler/Dustin Rhodes\|Dustin Rhodes]]<br>**Partner:** [[Wrestler/Paul Orndorff\|Paul Orndorff]]<br>**Best Match:** 101% vs. KENTA vs. Austin Aries vs. Kazuchika Okada |
 
 ## Häufigste Gegner
 - [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (2x)
@@ -44,6 +44,6 @@ avg_rating: 86.43
 ## Top Matches
 - 101%: [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Austin Aries\|Austin Aries]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2021-01-21 - S03E05_Ireland\|S03E05_Ireland]] (2021-01-21)
 - 101%: [[Elimination Chamber - Choke Slam World Championship]]: [[Wrestler/Mr. Fuji\|Mr. Fuji]] vs. [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] vs. [[Wrestler/Scott Steiner\|Scott Steiner]] vs. [[Wrestler/Austin Aries\|Austin Aries]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)
-- 100%: Cibernetico in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)
 - 98%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] & [[Wrestler/Dynamite Kid\|Dynamite Kid]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)
 - 98%: Victoria Doble: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)
+- 94%: [[Wrestler/Austin Aries\|Austin Aries]] vs. [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] vs. [[Wrestler/Kurt Angle\|Kurt Angle]] in [[Events/2020-10-13 - S03E01_Choke Slam Carat Gold\|S03E01_Choke Slam Carat Gold]] (2020-10-13)

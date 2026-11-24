@@ -5,12 +5,12 @@ title: Yokozuna
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Yokozuna.png
-matches: 10
+matches: 9
 wins: 2
 losses: 6
-draws: 2
-win_percent: 20.0
-avg_rating: 92.4
+draws: 1
+win_percent: 22.2
+avg_rating: 92.11
 ---
 
 # Yokozuna
@@ -20,7 +20,7 @@ avg_rating: 92.4
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 10 | 2 | 6 | 2 | 20.0% | 92.40 |
+| 9 | 2 | 6 | 1 | 22.2% | 92.11 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -31,8 +31,8 @@ avg_rating: 92.4
 - [[Wrestler/Steve Austin\|Steve Austin]] (3x)
 - [[Wrestler/SANADA\|SANADA]] (2x)
 - [[Wrestler/Satoshi Kojima\|Satoshi Kojima]] (2x)
-- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (1x)
-- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (1x)
+- [[Wrestler/Will Ospreay\|Will Ospreay]] (1x)
+- [[Wrestler/Pac\|Pac]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/The Miz\|The Miz]] (2x)
@@ -45,5 +45,5 @@ avg_rating: 92.4
 - 99%: [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/SANADA\|SANADA]] vs. [[Wrestler/Matanza Cueto\|Matanza Cueto]] vs. [[Wrestler/Tyler Breeze\|Tyler Breeze]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
 - 98%: [[Choke Slam World Championship]]: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Yokozuna\|Yokozuna]] (c) in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
 - 96%: [[[[Falls Count Anywhere]] - Choke Slam World Championship]]: [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/Steve Austin\|Steve Austin]] (c) in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
-- 95%: [[Wrestler/Sara Del Rey\|Sara Del Rey]] vs. [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Gorilla Monsoon\|Gorilla Monsoon]] vs. [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/Ric Flair\|Ric Flair]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 94%: [[Wrestler/Steve Austin\|Steve Austin]] vs. [[Wrestler/SANADA\|SANADA]] vs. [[Wrestler/Yokozuna\|Yokozuna]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
+- 94%: [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Masahiro Chono\|Masahiro Chono]] vs. [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/Pac\|Pac]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)

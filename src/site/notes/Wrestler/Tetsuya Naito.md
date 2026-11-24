@@ -5,12 +5,12 @@ title: Tetsuya Naito
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tetsuya_Naito.png
-matches: 72
+matches: 64
 wins: 29
 losses: 31
-draws: 12
-win_percent: 40.3
-avg_rating: 85.31
+draws: 4
+win_percent: 45.3
+avg_rating: 84.58
 ---
 
 # Tetsuya Naito
@@ -20,19 +20,19 @@ avg_rating: 85.31
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 72 | 29 | 31 | 12 | 40.3% | 85.31 |
+| 64 | 29 | 31 | 4 | 45.3% | 84.58 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/tetsuya-naito_stats.png" width="200"> | **❌⚪️✅✅✅**<br>**Win:** Final: Christian Cage vs. Tetsuya Naito in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Semi Finals: Tetsuya Naito vs. Hiroshi Tanahashi in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Round of 16: Shawn Michaels vs. Tetsuya Naito in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Loss:** Saint Rebel Radicalz vs. Path of God in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
+| <img src="/img/charts/tetsuya-naito_stats.png" width="200"> | **✅❌✅✅✅**<br>**Win:** Final: Christian Cage vs. Tetsuya Naito in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Semi Finals: Tetsuya Naito vs. Hiroshi Tanahashi in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Round of 16: Shawn Michaels vs. Tetsuya Naito in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Saint Rebel Radicalz vs. Path of God in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Saint Rebel Radicalz vs. Batista & Eddie Guerrero in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (12x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (9x)
-- [[Wrestler/KENTA\|KENTA]] (8x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (8x)
-- [[Wrestler/Christian Cage\|Christian Cage]] (8x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (8x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (6x)
+- [[Wrestler/Kane\|Kane]] (5x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (5x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (5x)
 
 ## Häufigste Partner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (9x)

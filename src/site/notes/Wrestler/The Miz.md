@@ -5,12 +5,12 @@ title: The Miz
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Miz.png
-matches: 11
+matches: 10
 wins: 3
 losses: 6
-draws: 2
-win_percent: 27.3
-avg_rating: 95.0
+draws: 1
+win_percent: 30.0
+avg_rating: 95.4
 ---
 
 # The Miz
@@ -20,19 +20,19 @@ avg_rating: 95.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 11 | 3 | 6 | 2 | 27.3% | 95.00 |
+| 10 | 3 | 6 | 1 | 30.0% | 95.40 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/the-miz_stats.png" width="200"> | **❌❌⚪️❌⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** John Cena vs. Randy Orton vs. The Miz vs. The Undertaker in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Draw:** The Miz vs. Yokozuna vs. Chris Benoit vs. Randy Orton vs. Satoshi Kojima vs. Finn Bálor vs. SANADA vs. Rosemary in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Loss:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Loss:** Steve Austin vs. The Miz vs. Masahiro Chono vs. Pac in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br> | **Nemesis:** [[Wrestler/Randy Orton\|Randy Orton]]<br>**Partner:** [[Wrestler/Satoshi Kojima\|Satoshi Kojima]]<br>**Best Match:** 104% vs. The Miz vs. SANADA vs. Satoshi Kojima |
+| <img src="/img/charts/the-miz_stats.png" width="200"> | **✅❌❌⚪️❌**<br>**Loss:** John Cena vs. Randy Orton vs. The Miz vs. The Undertaker in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Draw:** The Miz vs. Yokozuna vs. Chris Benoit vs. Randy Orton vs. Satoshi Kojima vs. Finn Bálor vs. SANADA vs. Rosemary in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Loss:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Loss:** Steve Austin vs. The Miz vs. Masahiro Chono vs. Pac in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br>**Win:** Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br> | **Nemesis:** [[Wrestler/Randy Orton\|Randy Orton]]<br>**Partner:** [[Wrestler/Satoshi Kojima\|Satoshi Kojima]]<br>**Best Match:** 104% vs. The Miz vs. SANADA vs. Satoshi Kojima |
 
 ## Häufigste Gegner
 - [[Wrestler/Randy Orton\|Randy Orton]] (3x)
-- [[Wrestler/Cesaro\|Cesaro]] (3x)
 - [[Wrestler/Satoshi Kojima\|Satoshi Kojima]] (3x)
-- [[Wrestler/SANADA\|SANADA]] (3x)
+- [[Wrestler/Cesaro\|Cesaro]] (2x)
 - [[Wrestler/Masahiro Chono\|Masahiro Chono]] (2x)
+- [[Wrestler/Mick Foley\|Mick Foley]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Satoshi Kojima\|Satoshi Kojima]] (2x)

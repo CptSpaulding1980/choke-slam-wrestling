@@ -5,12 +5,12 @@ title: Big Van Vader
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Big_Van_Vader.png
-matches: 67
+matches: 60
 wins: 37
 losses: 20
-draws: 10
-win_percent: 55.2
-avg_rating: 83.97
+draws: 3
+win_percent: 61.7
+avg_rating: 83.23
 ---
 
 # Big Van Vader
@@ -29,7 +29,7 @@ avg_rating: 83.97
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 67 | 37 | 20 | 10 | 55.2% | 83.97 |
+| 60 | 37 | 20 | 3 | 61.7% | 83.23 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -37,11 +37,11 @@ avg_rating: 83.97
 | <img src="/img/charts/big-van-vader_stats.png" width="200"> | **✅✅✅❌✅**<br>**Win:** Choke Slam World Championship: Big Van Vader vs. Kazuchika Okada (c) in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Win:** The Undertaker vs. Big Van Vader in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Win:** Big Van Vader vs. John Cena in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Win:** Saint Rebel Radicalz vs. Bret Hart & Owen Hart in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Triple H\|Triple H]]<br>**Best Match:** 104% vs. Choke Slam World Championship: Big Van Vader vs. Kazuchika Okada (c) |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (11x)
-- [[Wrestler/Kevin Steen\|Kevin Steen]] (8x)
-- [[Wrestler/Triple H\|Triple H]] (7x)
-- [[Wrestler/The Undertaker\|The Undertaker]] (7x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (7x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (5x)
+- [[Wrestler/Diesel\|Diesel]] (4x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (4x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (3x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (3x)
 
 ## Häufigste Partner
 - [[Wrestler/Triple H\|Triple H]] (8x)

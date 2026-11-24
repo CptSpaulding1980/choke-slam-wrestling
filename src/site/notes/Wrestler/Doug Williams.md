@@ -5,12 +5,12 @@ title: Doug Williams
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Doug_Williams.png
-matches: 8
+matches: 6
 wins: 2
 losses: 3
-draws: 3
-win_percent: 25.0
-avg_rating: 82.62
+draws: 1
+win_percent: 33.3
+avg_rating: 80.17
 ---
 
 # Doug Williams
@@ -20,19 +20,19 @@ avg_rating: 82.62
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 8 | 2 | 3 | 3 | 25.0% | 82.62 |
+| 6 | 2 | 3 | 1 | 33.3% | 80.17 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/doug-williams_stats.png" width="200"> | **⚪️❌✅⚪️❌**<br>**Loss:** Path of God vs. Dr. Wagner Jr., Doug Williams, Bret Hart, & Brock Lesnar in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Sweet 'n Sour Elite vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Saint Rebel Radicalz vs. Dr. Wagner Jr., Doug William & Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** Royal Rumble Match in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)<br> | **Nemesis:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Partner:** [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]]<br>**Best Match:** 92% vs. Royal Rumble Match |
+| <img src="/img/charts/doug-williams_stats.png" width="200"> | **✅❌❌✅❌**<br>**Loss:** Path of God vs. Dr. Wagner Jr., Doug Williams, Bret Hart, & Brock Lesnar in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Sweet 'n Sour Elite vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Saint Rebel Radicalz vs. Dr. Wagner Jr., Doug William & Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Saint Rebel Radicalz vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)<br>**Win:** Saint Rebel Radicalz vs. Doug Williams, Dr. Wagner Jr., & Lita in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)<br> | **Nemesis:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Partner:** [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]]<br>**Best Match:** 91% vs. Saint Rebel Radicalz vs. Doug Williams, Dr. Wagner Jr., & Lita |
 
 ## Häufigste Gegner
-- [[Wrestler/Chris Hero\|Chris Hero]] (4x)
-- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (4x)
-- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (3x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (3x)
-- [[Wrestler/EC3\|EC3]] (3x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (2x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)
+- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (2x)
+- [[Wrestler/Wade Barrett\|Wade Barrett]] (1x)
+- [[Wrestler/Pac\|Pac]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (5x)
@@ -41,8 +41,8 @@ avg_rating: 82.62
 - [[Wrestler/Lita\|Lita]] (2x)
 
 ## Top Matches
-- 92%: [[Royal Rumble]] Match in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)
 - 91%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Doug Williams\|Doug Williams]], [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr., & [[Wrestler/Lita\|Lita]] in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)
 - 89%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Doug Williams\|Doug Williams]], [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr., [[Wrestler/Bret Hart\|Bret Hart]], & [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)
-- 88%: [[Wrestler/EC3\|EC3]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Tommy End\|Tommy End]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sting\|Sting]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)
 - 86%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Doug Williams\|Doug Williams]], [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr., [[Wrestler/Bret Hart\|Bret Hart]], & [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)
+- 76%: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr., [[Wrestler/Doug Williams\|Doug Williams]], [[Wrestler/Bret Hart\|Bret Hart]], & [[Wrestler/Brock Lesnar\|Brock Lesnar]] in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)
+- 74%: [[Wrestler/Wade Barrett\|Wade Barrett]] vs. [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Kip Sabian\|Kip Sabian]] vs. [[Wrestler/Doug Williams\|Doug Williams]] vs. [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)

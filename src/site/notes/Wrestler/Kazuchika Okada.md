@@ -5,12 +5,12 @@ title: Kazuchika Okada
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kazuchika_Okada.png
-matches: 102
+matches: 97
 wins: 65
 losses: 29
-draws: 8
-win_percent: 63.7
-avg_rating: 86.44
+draws: 3
+win_percent: 67.0
+avg_rating: 86.18
 ---
 
 # Kazuchika Okada
@@ -20,19 +20,19 @@ avg_rating: 86.44
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 102 | 65 | 29 | 8 | 63.7% | 86.44 |
+| 97 | 65 | 29 | 3 | 67.0% | 86.18 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **✅✅❌❌❌**<br>**Loss:** Choke Slam World Championship: Big Van Vader vs. Kazuchika Okada (c) in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** Masahiro Chono vs. Cesaro  vs. Kazuchika Okada in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Win:** Saint Rebel Radicalz vs. Bret Hart & Owen Hart in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Win:** Choke Slam World Championship: Megumi Kudo vs. Pac vs. Kazuchika Okada (c) in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 108% vs. Masahiro Chono vs. Cesaro  vs. Kazuchika Okada |
+| <img src="/img/charts/kazuchika-okada_stats.png" width="200"> | **✅✅❌❌❌**<br>**Loss:** Choke Slam World Championship: Big Van Vader vs. Kazuchika Okada (c) in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** Masahiro Chono vs. Cesaro  vs. Kazuchika Okada in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Win:** Saint Rebel Radicalz vs. Bret Hart & Owen Hart in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Win:** Choke Slam World Championship: Megumi Kudo vs. Pac vs. Kazuchika Okada (c) in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Best Match:** 108% vs. Masahiro Chono vs. Cesaro  vs. Kazuchika Okada |
 
 ## Häufigste Gegner
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (12x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (11x)
-- [[Wrestler/KENTA\|KENTA]] (9x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (8x)
-- [[Wrestler/Kane\|Kane]] (7x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (9x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (8x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (6x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (6x)
+- [[Wrestler/Kane\|Kane]] (5x)
 
 ## Häufigste Partner
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (11x)

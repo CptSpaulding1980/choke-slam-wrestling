@@ -5,12 +5,12 @@ title: Madison Rayne
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Madison_Rayne.png
-matches: 38
+matches: 31
 wins: 15
 losses: 16
-draws: 7
-win_percent: 39.5
-avg_rating: 85.29
+draws: 0
+win_percent: 48.4
+avg_rating: 84.03
 ---
 
 # Madison Rayne
@@ -20,19 +20,19 @@ avg_rating: 85.29
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 38 | 15 | 16 | 7 | 39.5% | 85.29 |
+| 31 | 15 | 16 | 0 | 48.4% | 84.03 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/madison-rayne_stats.png" width="200"> | **✅❌⚪️✅⚪️**<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Path of God vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** VF3: Big Van Vader, Madison Rayne, & Triple H vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Christian Cage, The Blade, & The Butcher vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/KENTA\|KENTA]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 100% vs. Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz |
+| <img src="/img/charts/madison-rayne_stats.png" width="200"> | **❌✅✅❌✅**<br>**Win:** Path of God vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Loss:** VF3: Big Van Vader, Madison Rayne, & Triple H vs. Chyna, Seth Rollins, & Big Ryck in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Christian Cage, The Blade, & The Butcher vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Madison Rayne vs. Vickie Guerrero & Teddy Long in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Loss:** Sweet 'n Sour Elite vs. EL Torito & Little Beaver in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 100% vs. Mark Davis & Kyle Fletcher vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
-- [[Wrestler/KENTA\|KENTA]] (8x)
-- [[Wrestler/Triple H\|Triple H]] (7x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
-- [[Wrestler/Joey Janela\|Joey Janela]] (6x)
-- [[Wrestler/Big Van Vader\|Big Van Vader]] (6x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (2x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (2x)
+- [[Wrestler/The Blade\|The Blade]] (2x)
+- [[Wrestler/The Butcher\|The Butcher]] (2x)
+- [[Wrestler/KENTA\|KENTA]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Kane\|Kane]] (5x)

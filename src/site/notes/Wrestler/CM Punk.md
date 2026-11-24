@@ -5,12 +5,12 @@ title: CM Punk
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/CM_Punk.png
-matches: 24
+matches: 18
 wins: 7
 losses: 9
-draws: 8
-win_percent: 29.2
-avg_rating: 86.38
+draws: 2
+win_percent: 38.9
+avg_rating: 85.11
 ---
 
 # CM Punk
@@ -20,19 +20,19 @@ avg_rating: 86.38
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 24 | 7 | 9 | 8 | 29.2% | 86.38 |
+| 18 | 7 | 9 | 2 | 38.9% | 85.11 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/cm-punk_stats.png" width="200"> | **⚪️❌✅⚪️⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Loss:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Draw:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Thea Hail\|Thea Hail]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/cm-punk_stats.png" width="200"> | **❌❌❌❌✅**<br>**Win:** Saint Rebel Radicalz vs. Thea Hail, Miro, CM Punk, & AJ Styles in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Loss:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Militanter Mummenschanz vs. Aoife Valkyrie, Kurt Angle, Shawn Michaels, & Chris Hero in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Killshot, Edge, & KENTA vs. Militanter Mummenschanz in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Dune (2 vs 4 Handicap): Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2023-11-03 - S05E10_Batze\|S05E10_Batze]] (2023-11-03)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Thea Hail\|Thea Hail]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (6x)
-- [[Wrestler/Diesel\|Diesel]] (5x)
-- [[Wrestler/KENTA\|KENTA]] (5x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (5x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
+- [[Wrestler/Dynamite Kid\|Dynamite Kid]] (1x)
+- [[Wrestler/Diesel\|Diesel]] (1x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (1x)
+- [[Wrestler/John Cena\|John Cena]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Thea Hail\|Thea Hail]] (7x)

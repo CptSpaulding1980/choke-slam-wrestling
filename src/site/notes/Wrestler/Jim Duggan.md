@@ -5,12 +5,12 @@ title: Jim Duggan
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jim_Duggan.png
-matches: 16
+matches: 15
 wins: 6
 losses: 9
-draws: 1
-win_percent: 37.5
-avg_rating: 83.81
+draws: 0
+win_percent: 40.0
+avg_rating: 83.4
 ---
 
 # Jim Duggan
@@ -20,19 +20,19 @@ avg_rating: 83.81
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 16 | 6 | 9 | 1 | 37.5% | 83.81 |
+| 15 | 6 | 9 | 0 | 40.0% | 83.40 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jim-duggan_stats.png" width="200"> | **❌⚪️❌✅❌**<br>**Loss:** Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Win:** Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Loss:** Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Loss:** Saint Rebel Radicalz vs. Jim Duggan, Kurt Angle, & Lex Luger in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|S03E09_USA - Day 1 - Cool, Cooler, Icecold]] (2021-04-29)<br> | **Nemesis:** [[Wrestler/KENTA\|KENTA]]<br>**Partner:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Best Match:** 100% vs. Hulk Hogan vs. Jim Duggan |
+| <img src="/img/charts/jim-duggan_stats.png" width="200"> | **✅❌❌✅❌**<br>**Loss:** Pro Bowl 3: Hiroshi Tanahashi, The Undertaker & Roman Reigns vs. Moose, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Win:** Pro Bowl 2: KUSHIDA, Gunther & Dijak vs. Gable Steveson, Jim Duggan & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Loss:** Pro Bowl 1: Laredo Kid, Randy Savage & Triple H vs. Jim Duggan, Ron Simmons & Rob Gronkowski in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Loss:** Saint Rebel Radicalz vs. Jim Duggan, Kurt Angle, & Lex Luger in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|S03E09_USA - Day 1 - Cool, Cooler, Icecold]] (2021-04-29)<br>**Win:** Sweet 'n Sour Elite vs. Jim Duggan, Kurt Angle, & Lex Luger in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|S03E09_USA - Day 1 - Cool, Cooler, Icecold]] (2021-04-29)<br> | **Nemesis:** [[Wrestler/KENTA\|KENTA]]<br>**Partner:** [[Wrestler/Kurt Angle\|Kurt Angle]]<br>**Best Match:** 100% vs. Hulk Hogan vs. Jim Duggan |
 
 ## Häufigste Gegner
-- [[Wrestler/KENTA\|KENTA]] (4x)
-- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (4x)
-- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
+- [[Wrestler/KENTA\|KENTA]] (3x)
+- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (3x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (2x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (2x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Kurt Angle\|Kurt Angle]] (6x)

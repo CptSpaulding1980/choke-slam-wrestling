@@ -5,12 +5,12 @@ title: Ric Flair
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ric_Flair.png
-matches: 21
+matches: 17
 wins: 6
 losses: 10
-draws: 5
-win_percent: 28.6
-avg_rating: 88.19
+draws: 1
+win_percent: 35.3
+avg_rating: 87.18
 ---
 
 # Ric Flair
@@ -20,19 +20,19 @@ avg_rating: 88.19
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 21 | 6 | 10 | 5 | 28.6% | 88.19 |
+| 17 | 6 | 10 | 1 | 35.3% | 87.18 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ric-flair_stats.png" width="200"> | **❌❌❌❌⚪️**<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Finals:Bob Backlund vs. Ric Flair vs. Bret Hart vs. Miro vs. Jay White vs. Jonathan Gresham in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Roman Reigns vs. Seth Rollins vs. Edge vs. KENTA vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods |
+| <img src="/img/charts/ric-flair_stats.png" width="200"> | **❌❌❌❌❌**<br>**Loss:** Finals:Bob Backlund vs. Ric Flair vs. Bret Hart vs. Miro vs. Jay White vs. Jonathan Gresham in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Roman Reigns vs. Seth Rollins vs. Edge vs. KENTA vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Jay White vs. Jonathan Gresham vs. Brutus Beefcake vs. Hollywood Hogan vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** War Games: Saint Rebel Radicalz vs. Four Horsemen in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Best Match:** 99% vs. Militanter Mummenschanz vs. Big E, Kofi Kingston, & Xavier Woods |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (5x)
-- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (4x)
-- [[Wrestler/Chris Hero\|Chris Hero]] (4x)
-- [[Wrestler/EC3\|EC3]] (4x)
-- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (3x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)
+- [[Wrestler/Kenny Omega\|Kenny Omega]] (2x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (2x)
+- [[Wrestler/Samoa Joe\|Samoa Joe]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)

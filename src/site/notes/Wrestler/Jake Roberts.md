@@ -5,12 +5,12 @@ title: Jake Roberts
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jake_Roberts.png
-matches: 2
+matches: 1
 wins: 0
 losses: 1
-draws: 1
+draws: 0
 win_percent: 0.0
-avg_rating: 93.0
+avg_rating: 96.0
 ---
 
 # Jake Roberts
@@ -20,23 +20,19 @@ avg_rating: 93.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 2 | 0 | 1 | 1 | 0.0% | 93.00 |
+| 1 | 0 | 1 | 0 | 0.0% | 96.00 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jake-roberts_stats.png" width="200"> | **⚪️❌**<br>**Loss:** Tag Team Roulette - Saint Rebel Radicalz vs. ChokeSlam Legends (Jake Roberts & Sabu) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Sabu\|Sabu]]<br>**Best Match:** 96% vs. Tag Team Roulette - Saint Rebel Radicalz vs. ChokeSlam Legends (Jake Roberts & Sabu) |
+| <img src="/img/charts/jake-roberts_stats.png" width="200"> | **❌**<br>**Loss:** Tag Team Roulette - Saint Rebel Radicalz vs. ChokeSlam Legends (Jake Roberts & Sabu) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Chris Hero\|Chris Hero]]<br>**Partner:** [[Wrestler/Sabu\|Sabu]]<br>**Best Match:** 96% vs. Tag Team Roulette - Saint Rebel Radicalz vs. ChokeSlam Legends (Jake Roberts & Sabu) |
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
-- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)
-- [[Wrestler/Tiger Mask\|Tiger Mask]] (1x)
-- [[Wrestler/Pat Patterson\|Pat Patterson]] (1x)
+- [[Wrestler/Chris Hero\|Chris Hero]] (1x)
+- [[Wrestler/Shawn Michaels\|Shawn Michaels]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Sabu\|Sabu]] (1x)
 
 ## Top Matches
 - 96%: Tag Team Roulette - [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. ChokeSlam Legends ([[Wrestler/Jake Roberts\|Jake Roberts]] & [[Wrestler/Sabu\|Sabu]]) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)
-- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)

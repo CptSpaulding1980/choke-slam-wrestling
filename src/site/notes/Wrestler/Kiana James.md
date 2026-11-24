@@ -5,12 +5,12 @@ title: Kiana James
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kiana_James.png
-matches: 32
+matches: 29
 wins: 11
 losses: 13
-draws: 8
-win_percent: 34.4
-avg_rating: 85.19
+draws: 5
+win_percent: 37.9
+avg_rating: 84.72
 ---
 
 # Kiana James
@@ -20,7 +20,7 @@ avg_rating: 85.19
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 32 | 11 | 13 | 8 | 34.4% | 85.19 |
+| 29 | 11 | 13 | 5 | 37.9% | 84.72 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -28,11 +28,11 @@ avg_rating: 85.19
 | <img src="/img/charts/kiana-james_stats.png" width="200"> | **❌❌❌✅⚪️**<br>**Draw:** Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Win:** Choke Slam Womens Championship: Fallon Henley vs. Kiana James in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Choke Slam Womens Championship: Fallon Henley vs. Kiana James (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Partner:** [[Wrestler/Laredo Kid\|Laredo Kid]]<br>**Best Match:** 103% vs. Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair |
 
 ## Häufigste Gegner
-- [[Wrestler/The Undertaker\|The Undertaker]] (8x)
-- [[Wrestler/KUSHIDA\|KUSHIDA]] (6x)
-- [[Wrestler/Roman Reigns\|Roman Reigns]] (6x)
-- [[Wrestler/Triple H\|Triple H]] (6x)
-- [[Wrestler/Gunther\|Gunther]] (6x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (5x)
+- [[Wrestler/Gunther\|Gunther]] (4x)
+- [[Wrestler/Fallon Henley\|Fallon Henley]] (4x)
+- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (3x)
 
 ## Häufigste Partner
 - [[Wrestler/Laredo Kid\|Laredo Kid]] (7x)

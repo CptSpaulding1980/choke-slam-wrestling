@@ -5,12 +5,12 @@ title: Hendrique Delafuente
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hendrique_Delafuente.png
-matches: 14
+matches: 12
 wins: 4
 losses: 5
-draws: 5
-win_percent: 28.6
-avg_rating: 88.79
+draws: 3
+win_percent: 33.3
+avg_rating: 88.67
 ---
 
 # Hendrique Delafuente
@@ -20,19 +20,19 @@ avg_rating: 88.79
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 14 | 4 | 5 | 5 | 28.6% | 88.79 |
+| 12 | 4 | 5 | 3 | 33.3% | 88.67 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/hendrique-delafuente_stats.png" width="200"> | **⚪️✅❌⚪️⚪️**<br>**Draw:** Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Draw:** Oerel Bardahl in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Sweet 'n Sour Elite (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Los Jinetes del Aire (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Draw:** Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]]<br>**Partner:** [[Wrestler/Rush\|Rush]]<br>**Best Match:** 100% vs. Sweet 'n Sour Elite vs. EL Torito & Little Beaver |
+| <img src="/img/charts/hendrique-delafuente_stats.png" width="200"> | **❌⚪️✅❌⚪️**<br>**Draw:** Choke Slam Womens Championship: Hendrique Delafuente vs. Lady Apache vs. Awesome Kong vs. vs. Sasha Banks vs. Kiana James (c) in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Sweet 'n Sour Elite (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Los Jinetes del Aire (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Draw:** Interview Segment /w Philipp Brunkovic & Pascal LePas & Hendrique Delafuente in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Sweet 'n Sour Elite vs. EL Torito & Little Beaver in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]]<br>**Partner:** [[Wrestler/Rush\|Rush]]<br>**Best Match:** 100% vs. Sweet 'n Sour Elite vs. EL Torito & Little Beaver |
 
 ## Häufigste Gegner
-- [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (5x)
-- [[Wrestler/Pascal LePas\|Pascal LePas]] (4x)
-- [[Wrestler/Edge\|Edge]] (3x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
-- [[Wrestler/Wardlow\|Wardlow]] (2x)
+- [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] (3x)
+- [[Wrestler/Pascal LePas\|Pascal LePas]] (2x)
+- [[Wrestler/Edge\|Edge]] (2x)
+- [[Wrestler/Kurt Angle\|Kurt Angle]] (1x)
+- [[Wrestler/KENTA\|KENTA]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Rush\|Rush]] (4x)
@@ -46,4 +46,4 @@ avg_rating: 88.79
 - 100%: Interview Segment /w [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] & [[Wrestler/Pascal LePas\|Pascal LePas]] & [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)
 - 99%: Interview Segment /w [[Wrestler/Kurt Angle\|Kurt Angle]] & [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]], [[Wrestler/Pascal LePas\|Pascal LePas]], & [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
 - 97%: Apple Gauntlet 2 in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)
-- 94%: What if... [[Battle Royal]] in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)
+- 94%: [[Choke Slam Womens Championship]]: [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] vs. [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Awesome Kong\|Awesome Kong]] vs. vs. [[Wrestler/Sasha Banks\|Sasha Banks]] vs. [[Wrestler/Kiana James\|Kiana James]] (c) in [[Events/2025-08-21 - S07E03_Changes III\|S07E03_Changes III]] (2025-08-21)

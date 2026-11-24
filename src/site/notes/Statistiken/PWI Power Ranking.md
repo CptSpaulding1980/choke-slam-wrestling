@@ -7,7 +7,7 @@ noteIcon: "🏆"
 
 # 🏆 PWI Power Ranking – S08
 
-> **Stand:** 2026-11-24 11:14 | **Matches:** 59 | **Wrestler geranked:** 23 | **Events:** 4
+> **Stand:** 2026-11-24 11:49 | **Matches:** 59 | **Wrestler geranked:** 24 | **Events:** 4
 
 **Scoring:** PWI Punkte = (Wins × 2) + Draws − Losses + (Ø Rating × 0.3) + Championship Bonus
 
@@ -21,25 +21,26 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 | 2 | Steve Austin 🏆 | 3 | 5 | 1 | 33% | 87 | 43 |
 | 3 | Kazuchika Okada | 9 | 5 | 0 | 64% | 96 | 42 |
 | 4 | Masahiro Chono | 7 | 6 | 0 | 54% | 91 | 35 |
-| 5 | Will Ospreay | 4 | 1 | 0 | 80% | 92 | 35 |
-| 6 | SANADA | 5 | 4 | 0 | 56% | 83 | 31 |
-| 7 | Kota Ibushi | 2 | 2 | 0 | 50% | 95 | 30 |
-| 8 | John Cena | 1 | 2 | 0 | 33% | 98 | 29 |
-| 9 | The Undertaker | 1 | 2 | 0 | 33% | 97 | 29 |
-| 10 | The Miz | 3 | 6 | 0 | 33% | 96 | 29 |
-| 11 | Megumi Kudo | 3 | 5 | 0 | 38% | 91 | 28 |
-| 12 | Madusa | 3 | 5 | 0 | 38% | 91 | 28 |
-| 13 | Mick Foley | 3 | 5 | 0 | 38% | 85 | 26 |
-| 14 | Pac | 3 | 5 | 0 | 38% | 83 | 26 |
-| 15 | Cesaro | 3 | 7 | 0 | 30% | 89 | 26 |
-| 16 | Yokozuna | 2 | 6 | 0 | 25% | 92 | 26 |
-| 17 | Randy Orton | 1 | 6 | 0 | 14% | 93 | 24 |
-| 18 | Penta | 2 | 2 | 0 | 50% | 73 | 24 |
-| 19 | Satoshi Kojima | 2 | 7 | 0 | 22% | 89 | 24 |
-| 20 | Matanza Cueto | 2 | 6 | 0 | 25% | 85 | 24 |
-| 21 | Rosemary | 2 | 6 | 0 | 25% | 85 | 24 |
-| 22 | Chris Benoit | 1 | 6 | 1 | 12% | 84 | 22 |
-| 23 | Rey Fenix | 1 | 3 | 0 | 25% | 73 | 21 |
+| 5 | Nick Jackson | 3 | 0 | 0 | 100% | 96 | 35 |
+| 6 | Will Ospreay | 4 | 1 | 0 | 80% | 92 | 35 |
+| 7 | SANADA | 5 | 4 | 0 | 56% | 83 | 31 |
+| 8 | John Cena | 2 | 2 | 0 | 50% | 96 | 31 |
+| 9 | Kota Ibushi | 2 | 2 | 0 | 50% | 95 | 30 |
+| 10 | The Undertaker | 1 | 2 | 0 | 33% | 97 | 29 |
+| 11 | The Miz | 3 | 6 | 0 | 33% | 96 | 29 |
+| 12 | Megumi Kudo | 3 | 5 | 0 | 38% | 91 | 28 |
+| 13 | Madusa | 3 | 5 | 0 | 38% | 91 | 28 |
+| 14 | Mick Foley | 3 | 5 | 0 | 38% | 85 | 26 |
+| 15 | Randy Orton | 2 | 6 | 0 | 25% | 94 | 26 |
+| 16 | Pac | 3 | 5 | 0 | 38% | 83 | 26 |
+| 17 | Cesaro | 3 | 7 | 0 | 30% | 89 | 26 |
+| 18 | Yokozuna | 2 | 6 | 0 | 25% | 92 | 26 |
+| 19 | Penta | 2 | 2 | 0 | 50% | 73 | 24 |
+| 20 | Satoshi Kojima | 2 | 7 | 0 | 22% | 89 | 24 |
+| 21 | Matanza Cueto | 2 | 6 | 0 | 25% | 85 | 24 |
+| 22 | Rosemary | 2 | 6 | 0 | 25% | 85 | 24 |
+| 23 | Chris Benoit | 1 | 6 | 1 | 12% | 84 | 22 |
+| 24 | Rey Fenix | 1 | 3 | 0 | 25% | 73 | 21 |
 
 ## 🏆 Aktuelle Champions
 
@@ -125,8 +126,8 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 ## 📊 Statistiken
 
-- **Winning Record (≥50%):** 7 Wrestler
-- **Losing Record (<50%):** 16 Wrestler
+- **Winning Record (≥50%):** 9 Wrestler
+- **Losing Record (<50%):** 15 Wrestler
 
 ### Top 5 – Meiste Siege
 | Wrestler | Wins |
@@ -139,4 +140,4 @@ Championship Bonus: World +20 · International/Women's +15 · Tag Team +10 · Tr
 
 ---
 *Auto-generiert vom Choke Slam PWI Power Ranking Generator*
-*Stand: 2026-11-24 11:14*
+*Stand: 2026-11-24 11:49*

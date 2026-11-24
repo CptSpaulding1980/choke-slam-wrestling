@@ -5,12 +5,12 @@ title: The Undertaker
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Undertaker.png
-matches: 65
+matches: 58
 wins: 34
 losses: 22
-draws: 9
-win_percent: 52.3
-avg_rating: 84.91
+draws: 2
+win_percent: 58.6
+avg_rating: 84.22
 ---
 
 # The Undertaker
@@ -20,7 +20,7 @@ avg_rating: 84.91
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 65 | 34 | 22 | 9 | 52.3% | 84.91 |
+| 58 | 34 | 22 | 2 | 58.6% | 84.22 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -28,11 +28,11 @@ avg_rating: 84.91
 | <img src="/img/charts/the-undertaker_stats.png" width="200"> | **✅❌❌❌✅**<br>**Win:** John Cena vs. Randy Orton vs. The Miz vs. The Undertaker in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** The Undertaker vs. Big Van Vader in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** John Cena vs. The Undertaker in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)<br>**Loss:** Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br> | **Nemesis:** [[Wrestler/Triple H\|Triple H]]<br>**Partner:** [[Wrestler/Gunther\|Gunther]]<br>**Best Match:** 105% vs. Hiroshi Tanahashi vs. The Undertaker vs. Roman Reigns |
 
 ## Häufigste Gegner
-- [[Wrestler/Triple H\|Triple H]] (11x)
-- [[Wrestler/Laredo Kid\|Laredo Kid]] (10x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (9x)
-- [[Wrestler/KUSHIDA\|KUSHIDA]] (8x)
-- [[Wrestler/Gunther\|Gunther]] (8x)
+- [[Wrestler/Triple H\|Triple H]] (6x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (5x)
+- [[Wrestler/Kiana James\|Kiana James]] (5x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (4x)
+- [[Wrestler/John Cena\|John Cena]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Gunther\|Gunther]] (16x)

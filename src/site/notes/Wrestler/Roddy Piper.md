@@ -5,12 +5,12 @@ title: Roddy Piper
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Roddy_Piper.png
-matches: 2
+matches: 1
 wins: 0
 losses: 1
-draws: 1
+draws: 0
 win_percent: 0.0
-avg_rating: 81.5
+avg_rating: 73.0
 ---
 
 # Roddy Piper
@@ -20,20 +20,15 @@ avg_rating: 81.5
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 2 | 0 | 1 | 1 | 0.0% | 81.50 |
+| 1 | 0 | 1 | 0 | 0.0% | 73.00 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/roddy-piper_stats.png" width="200"> | **❌⚪️**<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Loss:** Roddy Piper vs. AJ Styles in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
+| <img src="/img/charts/roddy-piper_stats.png" width="200"> | **❌**<br>**Loss:** Roddy Piper vs. AJ Styles in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 73% vs. Roddy Piper vs. AJ Styles |
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
 - [[Wrestler/AJ Styles\|AJ Styles]] (1x)
-- [[Wrestler/Tiger Mask\|Tiger Mask]] (1x)
-- [[Wrestler/Pat Patterson\|Pat Patterson]] (1x)
 
 ## Top Matches
-- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
 - 73%: [[Wrestler/Roddy Piper\|Roddy Piper]] vs. [[Wrestler/AJ Styles\|AJ Styles]] in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)

@@ -5,12 +5,12 @@ title: Kane
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kane.png
-matches: 46
+matches: 43
 wins: 16
 losses: 21
-draws: 9
-win_percent: 34.8
-avg_rating: 85.72
+draws: 6
+win_percent: 37.2
+avg_rating: 85.37
 ---
 
 # Kane
@@ -20,7 +20,7 @@ avg_rating: 85.72
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 46 | 16 | 21 | 9 | 34.8% | 85.72 |
+| 43 | 16 | 21 | 6 | 37.2% | 85.37 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -28,11 +28,11 @@ avg_rating: 85.72
 | <img src="/img/charts/kane_stats.png" width="200"> | **❌⚪️❌❌❌**<br>**Loss:** Jon Moxley vs. Kane in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Hollywood Hogan vs. Kane in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** AJ Styles vs. Kane in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** Choke Slam World Championship Elimination Chamber: Big Van Vader vs. Sting vs. Ethan Page vs. Ace Steel vs. Kane vs. WALTER vs. Bob Backlund (c) in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Loss:** Choke Slam World Championship: Kane vs. Bob Backlund (c) in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Jushin Liger\|Jushin Liger]]<br>**Best Match:** 100% vs. Iron Man: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (9x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (7x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)
-- [[Wrestler/Christian Cage\|Christian Cage]] (7x)
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (6x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (7x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (5x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Jushin Liger\|Jushin Liger]] (6x)

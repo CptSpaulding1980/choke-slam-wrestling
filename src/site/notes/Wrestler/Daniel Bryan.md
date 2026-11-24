@@ -5,12 +5,12 @@ title: Daniel Bryan
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Daniel_Bryan.png
-matches: 61
+matches: 58
 wins: 36
 losses: 18
-draws: 7
-win_percent: 59.0
-avg_rating: 85.34
+draws: 4
+win_percent: 62.1
+avg_rating: 84.86
 ---
 
 # Daniel Bryan
@@ -22,19 +22,19 @@ avg_rating: 85.34
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 61 | 36 | 18 | 7 | 59.0% | 85.34 |
+| 58 | 36 | 18 | 4 | 62.1% | 84.86 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/daniel-bryan_stats.png" width="200"> | **❌⚪️✅❌❌**<br>**Loss:** Three Stages of Hell - Submission: Daniel Bryan vs. Jay White in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Three Stages of Hell - Singles: Daniel Bryan vs. Jay White in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** Round of 16: Daniel Bryan vs. Jay White in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam World Championship: Daniel Bryan vs. Steve Austin (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/daniel-bryan_stats.png" width="200"> | **❌⚪️✅❌❌**<br>**Loss:** Three Stages of Hell - Submission: Daniel Bryan vs. Jay White in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Three Stages of Hell - Singles: Daniel Bryan vs. Jay White in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Tag Team Champs vs. Trios Champs - Non Title: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Draw:** Round of 16: Daniel Bryan vs. Jay White in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam World Championship: Daniel Bryan vs. Steve Austin (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Chris Jericho\|Chris Jericho]]<br>**Partner:** [[Wrestler/Wardlow\|Wardlow]]<br>**Best Match:** 100% vs. Choke Slam World Championship: Chris Jericho vs. Daniel Bryan vs. Lex Luger vs. Kevin Steen vs. Steve Austin vs.  Roman Reigns (c) |
 
 ## Häufigste Gegner
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (14x)
-- [[Wrestler/Steve Austin\|Steve Austin]] (10x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (8x)
-- [[Wrestler/Edge\|Edge]] (8x)
-- [[Wrestler/Roman Reigns\|Roman Reigns]] (8x)
+- [[Wrestler/Chris Jericho\|Chris Jericho]] (12x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (8x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (7x)
+- [[Wrestler/Edge\|Edge]] (6x)
 
 ## Häufigste Partner
 - [[Wrestler/Wardlow\|Wardlow]] (14x)
@@ -44,8 +44,8 @@ avg_rating: 85.34
 - [[Wrestler/Owen Hart\|Owen Hart]] (4x)
 
 ## Top Matches
-- 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)
 - 100%: [[Choke Slam World Championship]]: [[Wrestler/Chris Jericho\|Chris Jericho]] vs. [[Wrestler/Daniel Bryan\|Daniel Bryan]] vs. [[Wrestler/Lex Luger\|Lex Luger]] vs. [[Wrestler/Kevin Steen\|Kevin Steen]] vs. [[Wrestler/Steve Austin\|Steve Austin]] vs.  [[Wrestler/Roman Reigns\|Roman Reigns]] (c) in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)
 - 100%: [[Wrestler/Chris Jericho\|Chris Jericho]] vs. [[Wrestler/Daniel Bryan\|Daniel Bryan]] vs. [[Wrestler/Sasha Banks\|Sasha Banks]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)
 - 100%: [[Wrestler/Akira Taue\|Akira Taue]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Daniel Bryan\|Daniel Bryan]] in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)
 - 100%: Undisputed Era ([[Wrestler/Bobby Fish\|Bobby Fish]] & [[Wrestler/Kyle O'Reilly\|Kyle O'Reilly]]) vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)
+- 99%: [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] vs. [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] vs. Bryan Danielson vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)

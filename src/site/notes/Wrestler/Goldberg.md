@@ -5,12 +5,12 @@ title: Goldberg
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Goldberg.png
-matches: 7
+matches: 6
 wins: 3
 losses: 3
-draws: 1
-win_percent: 42.9
-avg_rating: 81.14
+draws: 0
+win_percent: 50.0
+avg_rating: 79.67
 ---
 
 # Goldberg
@@ -20,26 +20,26 @@ avg_rating: 81.14
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 7 | 3 | 3 | 1 | 42.9% | 81.14 |
+| 6 | 3 | 3 | 0 | 50.0% | 79.67 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/goldberg_stats.png" width="200"> | **✅❌✅✅❌**<br>**Loss:** Northern Championship - Submission: KUSHIDA vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Win:** Wild Card Game 2 - Last Man Standing: Roman Reigns vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Win:** North West Division: Randy Savage vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Loss:** North West Division: Goldberg vs. Gunther in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Win:** North West Division: Jun Akiyama vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Arn Anderson\|Arn Anderson]]<br>**Best Match:** 91% vs. Northern Championship - Submission: KUSHIDA vs. Goldberg |
+| <img src="/img/charts/goldberg_stats.png" width="200"> | **✅❌✅✅❌**<br>**Loss:** Northern Championship - Submission: KUSHIDA vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Win:** Wild Card Game 2 - Last Man Standing: Roman Reigns vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Win:** North West Division: Randy Savage vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Loss:** North West Division: Goldberg vs. Gunther in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Win:** North West Division: Jun Akiyama vs. Goldberg in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br> | **Nemesis:** [[Wrestler/AJ Styles\|AJ Styles]]<br>**Partner:** [[Wrestler/Arn Anderson\|Arn Anderson]]<br>**Best Match:** 91% vs. Northern Championship - Submission: KUSHIDA vs. Goldberg |
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
-- [[Wrestler/KUSHIDA\|KUSHIDA]] (2x)
-- [[Wrestler/Pac\|Pac]] (2x)
+- [[Wrestler/AJ Styles\|AJ Styles]] (1x)
+- [[Wrestler/Pac\|Pac]] (1x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (1x)
+- [[Wrestler/Gunther\|Gunther]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Arn Anderson\|Arn Anderson]] (1x)
 
 ## Top Matches
 - 91%: [[Northern Championship]] - Submission: [[Wrestler/KUSHIDA\|KUSHIDA]] vs. [[Wrestler/Goldberg\|Goldberg]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
-- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
 - 87%: Wild Card Game 2 - [[Last Man Standing]]: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Goldberg\|Goldberg]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
 - 85%: North West Division: [[Wrestler/Goldberg\|Goldberg]] vs. [[Wrestler/Gunther\|Gunther]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
 - 83%: [[Wrestler/AJ Styles\|AJ Styles]] & [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Arn Anderson\|Arn Anderson]] & [[Wrestler/Goldberg\|Goldberg]] in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)
+- 77%: North West Division: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Goldberg\|Goldberg]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)

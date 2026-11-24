@@ -5,12 +5,12 @@ title: Ricky Steamboat
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ricky_Steamboat.png
-matches: 12
+matches: 11
 wins: 3
 losses: 7
-draws: 2
-win_percent: 25.0
-avg_rating: 88.5
+draws: 1
+win_percent: 27.3
+avg_rating: 88.36
 ---
 
 # Ricky Steamboat
@@ -20,7 +20,7 @@ avg_rating: 88.5
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 12 | 3 | 7 | 2 | 25.0% | 88.50 |
+| 11 | 3 | 7 | 1 | 27.3% | 88.36 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -28,11 +28,11 @@ avg_rating: 88.5
 | <img src="/img/charts/ricky-steamboat_stats.png" width="200"> | **❌✅❌❌❌**<br>**Loss:** Ricky Steamboat vs. CM Punk  in [[Events/2021-12-28 - S04E05_UFC\|S04E05_UFC]] (2021-12-28)<br>**Loss:** Kevin Steen vs. Killer Kelly vs. Ricky Steamboat vs. Madison Rayne vs. The Rock vs. Christian Cage in [[Events/2021-12-28 - S04E05_UFC\|S04E05_UFC]] (2021-12-28)<br>**Loss:** Choke Slam Apple Championship: Ricky Steamboat vs. AJ Styles in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)<br>**Win:** Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)<br>**Loss:** Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2021-11-01 - S04E04_Admiral Lordevan Rules! - Part II\|S04E04_Admiral Lordevan Rules! - Part II]] (2021-11-01)<br> | **Nemesis:** [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]]<br>**Partner:** [[Wrestler/Madison Rayne\|Madison Rayne]]<br>**Best Match:** 99% vs. Bob Backlund vs. Ricky Steamboat vs. Aoife Valkyrie vs. Bryan Danielson vs. Tyler Bate |
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (3x)
-- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
-- [[Wrestler/Christian Cage\|Christian Cage]] (2x)
+- [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (2x)
+- [[Wrestler/Cesaro\|Cesaro]] (1x)
+- [[Wrestler/Fit Finlay\|Fit Finlay]] (1x)
+- [[Wrestler/Sin Cara\|Sin Cara]] (1x)
+- [[Wrestler/nan\|nan]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (3x)

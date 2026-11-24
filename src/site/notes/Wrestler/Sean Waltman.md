@@ -5,12 +5,12 @@ title: Sean Waltman
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sean_Waltman.png
-matches: 5
+matches: 2
 wins: 2
 losses: 0
-draws: 3
-win_percent: 40.0
-avg_rating: 93.0
+draws: 0
+win_percent: 100.0
+avg_rating: 91.5
 ---
 
 # Sean Waltman
@@ -20,23 +20,20 @@ avg_rating: 93.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 5 | 2 | 0 | 3 | 40.0% | 93.00 |
+| 2 | 2 | 0 | 0 | 100.0% | 91.50 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sean-waltman_stats.png" width="200"> | **⚪️✅✅⚪️⚪️**<br>**Draw:** Royal Rumble in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)<br>**Draw:** Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)<br>**Win:** Elimination Chamber in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Win:** Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br> | **Nemesis:** [[Wrestler/Will Ospreay\|Will Ospreay]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 100% vs. Reveal Rumble |
+| <img src="/img/charts/sean-waltman_stats.png" width="200"> | **✅✅**<br>**Win:** Elimination Chamber in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Win:** Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)<br> | **Nemesis:** [[Wrestler/nan\|nan]]<br>**Partner:** [[Wrestler/Einzelgänger\|Einzelgänger]]<br>**Best Match:** 93% vs. Rumble |
 
 ## Häufigste Gegner
-- [[Wrestler/Will Ospreay\|Will Ospreay]] (3x)
-- [[Wrestler/Kensuke Sasaki\|Kensuke Sasaki]] (3x)
-- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
-- [[Wrestler/Steve Austin\|Steve Austin]] (2x)
+- [[Wrestler/nan\|nan]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (1x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (1x)
+- [[Wrestler/Ethan Page\|Ethan Page]] (1x)
 
 ## Top Matches
-- 100%: Reveal Rumble in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)
 - 93%: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)
-- 92%: [[Royal Rumble]] in [[Events/2026-03-16 - S07E08_Royal Rumble\|S07E08_Royal Rumble]] (2026-03-16)
-- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
 - 90%: Elimination Chamber in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)

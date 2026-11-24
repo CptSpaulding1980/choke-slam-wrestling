@@ -5,12 +5,12 @@ title: Gail Kim
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Gail_Kim.png
-matches: 17
+matches: 15
 wins: 3
 losses: 12
-draws: 2
-win_percent: 17.6
-avg_rating: 85.24
+draws: 0
+win_percent: 20.0
+avg_rating: 84.67
 ---
 
 # Gail Kim
@@ -20,19 +20,19 @@ avg_rating: 85.24
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 17 | 3 | 12 | 2 | 17.6% | 85.24 |
+| 15 | 3 | 12 | 0 | 20.0% | 84.67 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/gail-kim_stats.png" width="200"> | **❌✅⚪️❌⚪️**<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Saint Rebel Radicalz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|S03E09_USA - Day 1 - Cool, Cooler, Icecold]] (2021-04-29)<br>**Draw:** Texano Jr. vs. Gail Kim vs. Johnny Mundo vs. Shingo Takagi vs. Daga  vs. Dustin Rhodes vs. Kazuchika Okada vs. Taya Valkyrie in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Win:** Saint Rebel Radicalz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Loss:** Rhea Ripley vs. Gail Kim in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] (2021-04-10)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Barry Windham\|Barry Windham]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
+| <img src="/img/charts/gail-kim_stats.png" width="200"> | **❌❌❌✅❌**<br>**Loss:** Saint Rebel Radicalz vs. Lex Luger & Kurt Angle in [[Events/2021-04-29 - S03E09_USA - Day 1 - Cool, Cooler, Icecold\|S03E09_USA - Day 1 - Cool, Cooler, Icecold]] (2021-04-29)<br>**Win:** Saint Rebel Radicalz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Loss:** Rhea Ripley vs. Gail Kim in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] (2021-04-10)<br>**Loss:** Gail Kim vs. KENTA in [[Events/2021-03-09 - S03E06_Swiss Bliss - A New Hope\|S03E06_Swiss Bliss - A New Hope]] (2021-03-09)<br>**Loss:** Austin Aries vs. Gail Kim in [[Events/2021-03-09 - S03E06_Swiss Bliss - Return of the King\|S03E06_Swiss Bliss - Return of the King]] (2021-03-09)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Barry Windham\|Barry Windham]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Barry Windham & Gail Kim |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
-- [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (3x)
-- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (2x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
 - [[Wrestler/Jushin Liger\|Jushin Liger]] (2x)
-- [[Wrestler/KENTA\|KENTA]] (2x)
+- [[Wrestler/Aero Star\|Aero Star]] (1x)
+- [[Wrestler/Eddie Guerrero\|Eddie Guerrero]] (1x)
+- [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Barry Windham\|Barry Windham]] (2x)

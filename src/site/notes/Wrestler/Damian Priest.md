@@ -5,12 +5,12 @@ title: Damian Priest
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Damian_Priest.png
-matches: 4
+matches: 3
 wins: 1
 losses: 2
-draws: 1
-win_percent: 25.0
-avg_rating: 82.5
+draws: 0
+win_percent: 33.3
+avg_rating: 80.0
 ---
 
 # Damian Priest
@@ -20,19 +20,19 @@ avg_rating: 82.5
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 4 | 1 | 2 | 1 | 25.0% | 82.50 |
+| 3 | 1 | 2 | 0 | 33.3% | 80.00 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/damian-priest_stats.png" width="200"> | **⚪️✅❌❌**<br>**Loss:** Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Loss:** Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Win:** Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br> | **Nemesis:** [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
+| <img src="/img/charts/damian-priest_stats.png" width="200"> | **✅❌❌**<br>**Loss:** Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Loss:** Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Win:** Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br> | **Nemesis:** [[Wrestler/Johnny\|Johnny]]<br>**Partner:** [[Wrestler/Trent Seven\|Trent Seven]]<br>**Best Match:** 85% vs. Nature Game Masters  vs. Glacier , Disco Inferno, & El Gigante |
 
 ## Häufigste Gegner
-- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
-- [[Wrestler/Tiger Mask\|Tiger Mask]] (1x)
-- [[Wrestler/Pat Patterson\|Pat Patterson]] (1x)
-- [[Wrestler/Jinsei Shinzaki\|Jinsei Shinzaki]] (1x)
+- [[Wrestler/Johnny\|Johnny]] (1x)
+- [[Wrestler/Kenny\|Kenny]] (1x)
+- [[Wrestler/Mikey\|Mikey]] (1x)
+- [[Wrestler/Nicky\|Nicky]] (1x)
+- [[Wrestler/Epico Colón\|Epico Colón]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Trent Seven\|Trent Seven]] (2x)
@@ -41,7 +41,6 @@ avg_rating: 82.5
 - [[Wrestler/Chyna\|Chyna]] (1x)
 
 ## Top Matches
-- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
 - 85%: Nature Game Masters  vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
 - 78%: Nature Game Masters  vs. Los Matadores in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
 - 77%: Nature Game Masters  vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)

@@ -5,12 +5,12 @@ title: Sasha Banks
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sasha_Banks.png
-matches: 23
+matches: 22
 wins: 14
 losses: 6
-draws: 3
-win_percent: 60.9
-avg_rating: 87.57
+draws: 2
+win_percent: 63.6
+avg_rating: 87.55
 ---
 
 # Sasha Banks
@@ -27,7 +27,7 @@ avg_rating: 87.57
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 23 | 14 | 6 | 3 | 60.9% | 87.57 |
+| 22 | 14 | 6 | 2 | 63.6% | 87.55 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -36,7 +36,7 @@ avg_rating: 87.57
 
 ## Häufigste Gegner
 - [[Wrestler/Lady Apache\|Lady Apache]] (6x)
-- [[Wrestler/Awesome Kong\|Awesome Kong]] (5x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (4x)
 - [[Wrestler/Daniel Bryan\|Daniel Bryan]] (3x)
 - [[Wrestler/Edge\|Edge]] (3x)
 - [[Wrestler/Wardlow\|Wardlow]] (3x)

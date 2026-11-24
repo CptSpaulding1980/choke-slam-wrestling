@@ -5,12 +5,12 @@ title: Jon Moxley
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jon_Moxley.png
-matches: 39
+matches: 37
 wins: 20
 losses: 17
-draws: 2
-win_percent: 51.3
-avg_rating: 86.64
+draws: 0
+win_percent: 54.1
+avg_rating: 86.51
 ---
 
 # Jon Moxley
@@ -20,19 +20,19 @@ avg_rating: 86.64
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 39 | 20 | 17 | 2 | 51.3% | 86.64 |
+| 37 | 20 | 17 | 0 | 54.1% | 86.51 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jon-moxley_stats.png" width="200"> | **✅❌❌❌❌**<br>**Loss:** Choke Slam International Championship: Mick Foley vs. Jon Moxley vs. Hiroshi Tanahashi (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Sweet 'n Sour Elite vs. Fallon Henley, Finn Bálor, & KUSHIDA in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Trios Tournament: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Trios Tournament: Sweet 'n Sour Elite vs. Pinnacle in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
+| <img src="/img/charts/jon-moxley_stats.png" width="200"> | **✅❌❌❌❌**<br>**Loss:** Choke Slam International Championship: Mick Foley vs. Jon Moxley vs. Hiroshi Tanahashi (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Sweet 'n Sour Elite vs. Fallon Henley, Finn Bálor, & KUSHIDA in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Trios Tournament: Militanter Mummenschanz vs. Sweet 'n Sour Elite in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Win:** Trios Tournament: Sweet 'n Sour Elite vs. Pinnacle in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 103% vs. Militanter Mummenschanz vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
-- [[Wrestler/Jay White\|Jay White]] (7x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (7x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (6x)
-- [[Wrestler/Miro\|Miro]] (6x)
-- [[Wrestler/Edge\|Edge]] (5x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (6x)
+- [[Wrestler/Jay White\|Jay White]] (5x)
+- [[Wrestler/Miro\|Miro]] (5x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (5x)
+- [[Wrestler/Noam Dar\|Noam Dar]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (16x)

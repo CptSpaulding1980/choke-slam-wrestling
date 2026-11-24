@@ -5,12 +5,12 @@ title: Roman Reigns
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Roman_Reigns.png
-matches: 95
+matches: 86
 wins: 48
 losses: 34
-draws: 13
-win_percent: 50.5
-avg_rating: 87.14
+draws: 4
+win_percent: 55.8
+avg_rating: 86.51
 ---
 
 # Roman Reigns
@@ -20,7 +20,7 @@ avg_rating: 87.14
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 95 | 48 | 34 | 13 | 50.5% | 87.14 |
+| 86 | 48 | 34 | 4 | 55.8% | 86.51 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -28,11 +28,11 @@ avg_rating: 87.14
 | <img src="/img/charts/roman-reigns_stats.png" width="200"> | **✅❌✅❌❌**<br>**Loss:** Choke Slam World Championship: Roman Reigns vs. Steve Austin (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Loss:** Brock Lesnar vs. Wardlow vs. Roman Reigns in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Saint Rebel Radicalz vs. EC3, Killer Kelly, & Kevin Owens in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Win:** Roman Reigns vs. Jay White in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br> | **Nemesis:** [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]]<br>**Partner:** [[Wrestler/Seth Rollins\|Seth Rollins]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
 
 ## Häufigste Gegner
-- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (14x)
-- [[Wrestler/Laredo Kid\|Laredo Kid]] (12x)
-- [[Wrestler/Gunther\|Gunther]] (9x)
-- [[Wrestler/AJ Styles\|AJ Styles]] (9x)
-- [[Wrestler/The Undertaker\|The Undertaker]] (8x)
+- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (9x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (7x)
+- [[Wrestler/Laredo Kid\|Laredo Kid]] (7x)
+- [[Wrestler/Steve Austin\|Steve Austin]] (6x)
+- [[Wrestler/Gunther\|Gunther]] (5x)
 
 ## Häufigste Partner
 - [[Wrestler/Seth Rollins\|Seth Rollins]] (8x)

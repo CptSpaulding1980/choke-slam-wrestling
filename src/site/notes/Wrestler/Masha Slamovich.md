@@ -5,12 +5,12 @@ title: Masha Slamovich
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Masha_Slamovich.png
-matches: 9
+matches: 8
 wins: 3
 losses: 3
-draws: 3
-win_percent: 33.3
-avg_rating: 77.67
+draws: 2
+win_percent: 37.5
+avg_rating: 75.75
 ---
 
 # Masha Slamovich
@@ -20,7 +20,7 @@ avg_rating: 77.67
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 9 | 3 | 3 | 3 | 33.3% | 77.67 |
+| 8 | 3 | 3 | 2 | 37.5% | 75.75 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -28,11 +28,11 @@ avg_rating: 77.67
 | <img src="/img/charts/masha-slamovich_stats.png" width="200"> | **✅✅❌❌⚪️**<br>**Draw:** Masha Slamovich vs. Larry Zbyszko in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br>**Loss:** Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair in [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] (2024-04-10)<br>**Loss:** Path of God vs. Glacier , Disco Inferno, & El Gigante in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Win:** Path of God vs. Spirit Squad in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)<br>**Win:** Saint Rebel Radicalz vs. Path of God in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)<br> | **Nemesis:** [[Wrestler/Jordynne Grace\|Jordynne Grace]]<br>**Partner:** [[Wrestler/Drew Gulak\|Drew Gulak]]<br>**Best Match:** 103% vs. Choke Slam Womens Championship: Kiana James vs. Masha Slamovich vs. Jordynne Grace vs. Jade Cargill vs. Tiffany Stratton vs. Bianca Belair |
 
 ## Häufigste Gegner
-- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)
-- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (3x)
-- [[Wrestler/Kiana James\|Kiana James]] (3x)
-- [[Wrestler/Big Kon\|Big Kon]] (2x)
-- [[Wrestler/Dijak\|Dijak]] (2x)
+- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (2x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (2x)
+- [[Wrestler/Kiana James\|Kiana James]] (2x)
+- [[Wrestler/Drew Gulak\|Drew Gulak]] (1x)
+- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Drew Gulak\|Drew Gulak]] (4x)
@@ -43,7 +43,7 @@ avg_rating: 77.67
 
 ## Top Matches
 - 103%: [[Choke Slam Womens Championship]]: [[Wrestler/Kiana James\|Kiana James]] vs. [[Wrestler/Masha Slamovich\|Masha Slamovich]] vs. [[Wrestler/Jordynne Grace\|Jordynne Grace]] vs. [[Wrestler/Jade Cargill\|Jade Cargill]] vs. [[Wrestler/Tiffany Stratton\|Tiffany Stratton]] vs. [[Wrestler/Bianca Belair\|Bianca Belair]] in [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] (2024-04-10)
-- 93%: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)
 - 83%: [[Teams/Path of God\|Path of God]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)
 - 78%: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Glacier\|Glacier]] , [[Wrestler/Disco Inferno\|Disco Inferno]], & [[Wrestler/El Gigante\|El Gigante]] in [[Events/2024-03-07 - S06E02_Top of the Flops\|S06E02_Top of the Flops]] (2024-03-07)
 - 73%: [[Teams/Path of God\|Path of God]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)
+- 72%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Path of God\|Path of God]] in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)

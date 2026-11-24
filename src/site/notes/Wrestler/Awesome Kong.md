@@ -5,12 +5,12 @@ title: Awesome Kong
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Awesome_Kong.png
-matches: 45
+matches: 41
 wins: 18
 losses: 19
-draws: 8
-win_percent: 40.0
-avg_rating: 83.96
+draws: 4
+win_percent: 43.9
+avg_rating: 83.41
 ---
 
 # Awesome Kong
@@ -20,7 +20,7 @@ avg_rating: 83.96
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 45 | 18 | 19 | 8 | 40.0% | 83.96 |
+| 41 | 18 | 19 | 4 | 43.9% | 83.41 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -28,11 +28,11 @@ avg_rating: 83.96
 | <img src="/img/charts/awesome-kong_stats.png" width="200"> | **❌❌❌✅❌**<br>**Loss:** Choke Slam Womens Championship: Awesome Kong vs. Lady Apache vs. Sasha Banks (c) in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)<br>**Win:** Militanter Mummenschanz vs. Mick Foley, Awesome Kong, & Roman Reigns in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Saint Rebel Radicalz vs. EC3, Killer Kelly, & Kevin Owens in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Womens Championship: Sasha Banks vs. Awesome Kong (c) in [[Events/2026-05-15 - S07E10_Night of Champions\|S07E10_Night of Champions]] (2026-05-15)<br>**Loss:** Lady Apache vs. Wardlow vs. Awesome Kong vs. Edge vs. Sasha Banks vs. Jon Moxley in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (7x)
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (5x)
-- [[Wrestler/Joey Janela\|Joey Janela]] (5x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (5x)
-- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (5x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
+- [[Wrestler/Akira Taue\|Akira Taue]] (5x)
+- [[Wrestler/Daniel Bryan\|Daniel Bryan]] (4x)
+- [[Wrestler/Lady Apache\|Lady Apache]] (4x)
+- [[Wrestler/Konosuke Takeshita\|Konosuke Takeshita]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Roman Reigns\|Roman Reigns]] (6x)

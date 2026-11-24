@@ -627,7 +627,7 @@ def restore_event_media(repo: Path, snapshot: Mapping[str, str]) -> int:
 MAX_ORPHANS_PER_RUN = 15
 
 
-def prune_orphan_notes(repo: Path, limit: int = MAX_ORPHANS_PER_RUN) -> List[str]:
+def prune_orphan_notes(repo: Path, limit: int = MAX_ORPHANS_PER_RUN, *, preserve: bool = False) -> List[str]:
     """Delete event/wrestler notes the manager no longer produces.
 
     The manager rewrites the Events.md and Wrestler.md indexes on every run but
@@ -637,6 +637,8 @@ def prune_orphan_notes(repo: Path, limit: int = MAX_ORPHANS_PER_RUN) -> List[str
     Built output for the orphan's permalink is removed too. If more candidates
     than ``limit`` turn up, nothing is deleted: that points at a broken run.
     """
+    if preserve:
+        return []  # Explicit result migrations may retain historical profiles.
     notes = repo / "src/site/notes"
     candidates: List[Path] = []
     for folder, index in (("Events", "Events.md"), ("Wrestler", "Wrestler.md")):
@@ -712,7 +714,7 @@ def validate_built_event_layout(repo: Path) -> ValidationResult:
     return ValidationResult(checked, problems)
 
 
-def sync_all(repo: Path, credentials: Path, sheet_id: str) -> None:
+def sync_all(repo: Path, credentials: Path, sheet_id: str, *, preserve_orphans: bool = False) -> None:
     names, _ = _wrestler_catalog(repo)
     try:
         workbook, metadata = fetch_team_workbook(sheet_id, credentials)
@@ -724,7 +726,9 @@ def sync_all(repo: Path, credentials: Path, sheet_id: str) -> None:
         teams = extract_team_rosters(workbook, names)
         _write_team_cache(repo, teams, metadata, sheet_id)
         source = f"live XLSX {metadata.get('name')} ({metadata.get('modifiedTime')})"
-    removed = prune_orphan_notes(repo)
+    removed = prune_orphan_notes(repo, preserve=preserve_orphans)
+    if preserve_orphans:
+        print("Preserving orphan notes (explicit --preserve-orphans)")
     if removed:
         print("Removed orphan notes: " + ", ".join(removed))
     team_count = update_team_pages(repo, teams)
@@ -749,10 +753,11 @@ def main(argv: Sequence[str] | None = None) -> int:
     parser.add_argument("--credentials", type=Path, default=DEFAULT_CREDENTIALS)
     parser.add_argument("--sheet-id", default=DEFAULT_SHEET_ID)
     parser.add_argument("--snapshot", type=Path)
+    parser.add_argument("--preserve-orphans", action="store_true", help="Keep historical notes during a result-data migration; do not prune")
     args = parser.parse_args(argv)
     repo = args.repo.resolve()
     if args.command == "sync":
-        sync_all(repo, args.credentials, args.sheet_id)
+        sync_all(repo, args.credentials, args.sheet_id, preserve_orphans=args.preserve_orphans)
     elif args.command == "validate-built":
         event_result = validate_built_event_links(repo)
         team_result = validate_built_team_pages(repo)

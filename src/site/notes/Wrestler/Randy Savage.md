@@ -5,12 +5,12 @@ title: Randy Savage
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Randy_Savage.png
-matches: 84
+matches: 74
 wins: 42
 losses: 31
-draws: 11
-win_percent: 50.0
-avg_rating: 84.02
+draws: 1
+win_percent: 56.8
+avg_rating: 82.91
 ---
 
 # Randy Savage
@@ -20,7 +20,7 @@ avg_rating: 84.02
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 84 | 42 | 31 | 11 | 50.0% | 84.02 |
+| 74 | 42 | 31 | 1 | 56.8% | 82.91 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -28,11 +28,11 @@ avg_rating: 84.02
 | <img src="/img/charts/randy-savage_stats.png" width="200"> | **❌✅❌❌✅**<br>**Win:** Sweet 'n Sour Elite vs. KUSHIDA & Randy Savage in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Round of 16: Randy Savage vs. Johnny TV in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Tag Team Championship: Path of God vs. Sweet 'n Sour Elite in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Win:** Tag Team Championship #1 Cont. Finals in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Choke Slam International Championship: Bret Hart vs. Finn Bálor vs. The Undertaker vs. Randy Savage in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/KUSHIDA\|KUSHIDA]]<br>**Best Match:** 104% vs. Plovdiv Pleasure: Hiromu Takahashi vs. Hulk Hogan vs. Randy Savage |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart\|Bret Hart]] (13x)
-- [[Wrestler/Gunther\|Gunther]] (10x)
-- [[Wrestler/AJ Styles\|AJ Styles]] (9x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (9x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (8x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (8x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
+- [[Wrestler/Gunther\|Gunther]] (6x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)
+- [[Wrestler/Big Van Vader\|Big Van Vader]] (3x)
 
 ## Häufigste Partner
 - [[Wrestler/KUSHIDA\|KUSHIDA]] (11x)

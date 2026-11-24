@@ -5,12 +5,12 @@ title: Ivelisse
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Ivelisse.png
-matches: 19
+matches: 14
 wins: 6
 losses: 7
-draws: 6
-win_percent: 31.6
-avg_rating: 83.21
+draws: 1
+win_percent: 42.9
+avg_rating: 81.14
 ---
 
 # Ivelisse
@@ -20,19 +20,19 @@ avg_rating: 83.21
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 19 | 6 | 7 | 6 | 31.6% | 83.21 |
+| 14 | 6 | 7 | 1 | 42.9% | 81.14 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/ivelisse_stats.png" width="200"> | **⚪️❌✅❌✅**<br>**Win:** Angelico, Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Saint Rebel Radicalz vs. Angelico, Ivelisse in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Win:** Angelico & Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Angelico & Ivelisse vs. Claudio Castagnoli & Pac in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Partner:** [[Wrestler/The Blade\|The Blade]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
+| <img src="/img/charts/ivelisse_stats.png" width="200"> | **❌❌✅❌✅**<br>**Win:** Angelico, Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Saint Rebel Radicalz vs. Angelico, Ivelisse in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Win:** Angelico & Ivelisse vs. Path of God in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Angelico & Ivelisse vs. Claudio Castagnoli & Pac in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)<br>**Loss:** Dan Koloff HC Tournament: Ivelisse vs. Christopher Daniels vs. Randy Savage in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)<br> | **Nemesis:** [[Wrestler/Johnny Mundo\|Johnny Mundo]]<br>**Partner:** [[Wrestler/The Blade\|The Blade]]<br>**Best Match:** 101% vs. Submission: Awesome Kong vs. Ivelisse vs. Randy Savage |
 
 ## Häufigste Gegner
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (7x)
-- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (7x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (5x)
-- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (4x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (2x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
+- [[Wrestler/Joe Coffey\|Joe Coffey]] (2x)
+- [[Wrestler/Kairi Sane\|Kairi Sane]] (2x)
+- [[Wrestler/Cheeseburger\|Cheeseburger]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/The Blade\|The Blade]] (4x)
@@ -45,5 +45,5 @@ avg_rating: 83.21
 - 101%: Submission: [[Wrestler/Awesome Kong\|Awesome Kong]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)
 - 95%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)
 - 92%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Cheeseburger\|Cheeseburger]] & [[Wrestler/Al Snow\|Al Snow]] in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] (2021-02-25)
-- 91%: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)
-- 90%: [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Texano\|Texano]] Jr. vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/Rey Escorpión\|Rey Escorpión]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Christian\|Christian]] vs. [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)
+- 88%: Angelico & [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Claudio Castagnoli\|Claudio Castagnoli]] & [[Wrestler/Pac\|Pac]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)
+- 88%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Angelico, [[Wrestler/Ivelisse\|Ivelisse]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)

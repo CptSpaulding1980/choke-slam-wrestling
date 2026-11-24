@@ -5,12 +5,12 @@ title: Gunther
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Gunther.png
-matches: 62
+matches: 54
 wins: 30
 losses: 18
-draws: 14
-win_percent: 48.4
-avg_rating: 85.05
+draws: 6
+win_percent: 55.6
+avg_rating: 84.15
 ---
 
 # Gunther
@@ -22,7 +22,7 @@ avg_rating: 85.05
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 62 | 30 | 18 | 14 | 48.4% | 85.05 |
+| 54 | 30 | 18 | 6 | 55.6% | 84.15 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -30,11 +30,11 @@ avg_rating: 85.05
 | <img src="/img/charts/gunther_stats.png" width="200"> | **✅✅✅❌⚪️**<br>**Draw:** Round of 16: Bret Hart vs. Gunther in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam Tag Team Championship: Saint Rebel Radicalz vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Militanter Mummenschanz vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Sweet 'n Sour Elite vs. Gunther & The Undertaker (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Win:** Choke Slam Tag Team Championship: Path of God vs. Sweet 'n Sour Elite in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Best Match:** 100% vs. Saint Rebel Radicalz vs. Robert Dreissker & WALTER |
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage\|Randy Savage]] (10x)
-- [[Wrestler/The Undertaker\|The Undertaker]] (8x)
-- [[Wrestler/KUSHIDA\|KUSHIDA]] (8x)
-- [[Wrestler/Roman Reigns\|Roman Reigns]] (8x)
-- [[Wrestler/Big Van Vader\|Big Van Vader]] (7x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (6x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (4x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (4x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (4x)
+- [[Wrestler/Kiana James\|Kiana James]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/The Undertaker\|The Undertaker]] (16x)

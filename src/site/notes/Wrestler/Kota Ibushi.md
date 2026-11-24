@@ -5,12 +5,12 @@ title: Kota Ibushi
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kota_Ibushi.png
-matches: 16
+matches: 15
 wins: 7
 losses: 5
-draws: 4
-win_percent: 43.8
-avg_rating: 87.31
+draws: 3
+win_percent: 46.7
+avg_rating: 87.13
 ---
 
 # Kota Ibushi
@@ -20,7 +20,7 @@ avg_rating: 87.31
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 16 | 7 | 5 | 4 | 43.8% | 87.31 |
+| 15 | 7 | 5 | 3 | 46.7% | 87.13 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -28,11 +28,11 @@ avg_rating: 87.31
 | <img src="/img/charts/kota-ibushi_stats.png" width="200"> | **❌✅✅❌❌**<br>**Loss:** Kenny Omega vs. Kota Ibushi vs. Kazuchika Okada in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Loss:** Kazuchika Okada vs. Kota Ibushi in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Win:** Steve Austin vs. Kota Ibushi in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Win:** Militanter Mummenschanz vs. Kenny Omega & Kota Ibushi in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)<br>**Loss:** D: Roman Reigns vs. Kota Ibushi in [[Events/2024-09-09 - S06E06_G1 Climax - Best of the Rest from the Past\|S06E06_G1 Climax - Best of the Rest from the Past]] (2024-09-09)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Kenny Omega\|Kenny Omega]]<br>**Best Match:** 104% vs. Kazuchika Okada vs. Kota Ibushi |
 
 ## Häufigste Gegner
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)
-- [[Wrestler/Christian Cage\|Christian Cage]] (3x)
-- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
-- [[Wrestler/Steve Austin\|Steve Austin]] (2x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (3x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (1x)
+- [[Wrestler/Vladimir Kozlov\|Vladimir Kozlov]] (1x)
+- [[Wrestler/The Butcher\|The Butcher]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Kenny Omega\|Kenny Omega]] (2x)

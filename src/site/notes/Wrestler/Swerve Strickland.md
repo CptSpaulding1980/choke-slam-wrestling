@@ -5,12 +5,12 @@ title: Swerve Strickland
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Swerve_Strickland.png
-matches: 25
+matches: 21
 wins: 10
 losses: 9
-draws: 6
-win_percent: 40.0
-avg_rating: 85.56
+draws: 2
+win_percent: 47.6
+avg_rating: 84.71
 ---
 
 # Swerve Strickland
@@ -22,19 +22,19 @@ avg_rating: 85.56
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 25 | 10 | 9 | 6 | 40.0% | 85.56 |
+| 21 | 10 | 9 | 2 | 47.6% | 84.71 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/swerve-strickland_stats.png" width="200"> | **❌⚪️⚪️✅⚪️**<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Saint Rebel Radicalz vs. KENTA, Edge, & Killshot   in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Money in the Bank No Ladder Match in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** VF2: Edge, Killshot, & KENTA vs. Saint Rebel Radicalz in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Britt Baker\|Britt Baker]]<br>**Best Match:** 100% vs. Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz |
+| <img src="/img/charts/swerve-strickland_stats.png" width="200"> | **✅✅❌⚪️✅**<br>**Win:** Saint Rebel Radicalz vs. KENTA, Edge, & Killshot   in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Money in the Bank No Ladder Match in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** VF2: Edge, Killshot, & KENTA vs. Saint Rebel Radicalz in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Killshot, Edge, & KENTA vs. Militanter Mummenschanz in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Sweet 'n Sour Elite vs. Killshot  , KENTA, & Edge in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Britt Baker\|Britt Baker]]<br>**Best Match:** 100% vs. Bam Bam Bigelow & Diamond Dallas Page vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (6x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (6x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
-- [[Wrestler/Big Van Vader\|Big Van Vader]] (5x)
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (3x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (3x)
+- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (2x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Britt Baker\|Britt Baker]] (6x)

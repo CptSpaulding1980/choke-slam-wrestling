@@ -30,9 +30,9 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 10 |  | [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. Mexicans | Madison Rayne beat Taya Valkyrie in 36 Min 46 Sec with a Cross-Rayne | 36:46 | ★★★★★ | 100 |
 | 11 |  | [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Mexicans | Taya Valkyrie beat The Butcher in 33 Min 59 Sec with a Valkyrie Lock | 87:87 | ★★★★½ | 95 |
 | 12 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Mexicans | Bob Backlund beat Taya Valkyrie in 25 Min 43 Sec with a Jumping Pile Driver | 72:72 | ★★★★½ | 92 |
-| 13 |  | [[Wrestler/Texano\|Texano]] Jr. vs. [[Wrestler/Gail Kim\|Gail Kim]] vs. [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Shingo Takagi\|Shingo Takagi]] vs. [[Wrestler/Daga\|Daga]]  vs. [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] | Kazuchika Okada won a 10 wrestler Royal Rumble in  41:58 | 41:58 | ★★★★¼ | 91 |
-| 14 |  | [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Texano\|Texano]] Jr. vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/Rey Escorpión\|Rey Escorpión]] vs. [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Christian\|Christian]] vs. [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] vs. [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] | Johnny Mundo won a 10 wrestler Royal Rumble in  44:05 | 44:05 | ★★★★¼ | 90 |
-| 15 |  | [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Texano\|Texano]] Jr. vs. [[Wrestler/Rey Escorpión\|Rey Escorpión]] vs. Killshot   vs. [[Wrestler/Kane\|Kane]] vs. [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Daga\|Daga]]  vs. [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] | Joey Janela won a 10 wrestler Royal Rumble in  51:08 | 51:08 | ★★★★¼ | 91 |
+| 13 |  | Texano Jr. vs. Gail Kim vs. Johnny Mundo vs. Shingo Takagi vs. Daga  vs. Dustin Rhodes vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. Taya Valkyrie | Kazuchika Okada won a 10 wrestler Royal Rumble in  41:58 | 41:58 | ★★★★¼ | 91 |
+| 14 |  | [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. Texano Jr. vs. Hulk Hogan vs. Rey Escorpión vs. Tetsuya Naito vs. Christian vs. Taya Valkyrie vs. Brutus Beefcake | Johnny Mundo won a 10 wrestler Royal Rumble in  44:05 | 44:05 | ★★★★¼ | 90 |
+| 15 |  | Johnny Mundo vs. Texano Jr. vs. Rey Escorpión vs. Killshot   vs. Kane vs. KENTA vs. Daga  vs. Taya Valkyrie | Joey Janela won a 10 wrestler Royal Rumble in  51:08 | 51:08 | ★★★★¼ | 91 |
 
 ## Links
 - [[Events\|📅 Alle Events]]

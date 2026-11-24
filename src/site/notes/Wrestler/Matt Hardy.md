@@ -31,4 +31,4 @@ avg_rating: 84.0
 - [[Wrestler/nan\|nan]] (1x)
 
 ## Top Matches
-- 84%: Sheik Invitational Rumble incl. [[Wrestler/Sabu\|Sabu]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)
+- 84%: Sheik Invitational Rumble incl. Sabu in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)

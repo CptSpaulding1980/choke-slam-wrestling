@@ -5,12 +5,12 @@ title: Eddie Edwards
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Eddie_Edwards.png
-matches: 27
+matches: 24
 wins: 10
 losses: 9
-draws: 8
-win_percent: 37.0
-avg_rating: 86.56
+draws: 5
+win_percent: 41.7
+avg_rating: 85.96
 ---
 
 # Eddie Edwards
@@ -20,19 +20,19 @@ avg_rating: 86.56
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 27 | 10 | 9 | 8 | 37.0% | 86.56 |
+| 24 | 10 | 9 | 5 | 41.7% | 85.96 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/eddie-edwards_stats.png" width="200"> | **❌✅✅✅⚪️**<br>**Draw:** What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Win:** Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Win:** Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Win:** Jerry Lynn vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Loss:** Gruesome Fighting: Taz vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Kenny Omega\|Kenny Omega]]<br>**Best Match:** 100% vs. Carat First Round: Pac vs. Eddie Edwards |
+| <img src="/img/charts/eddie-edwards_stats.png" width="200"> | **❌❌✅✅✅**<br>**Win:** Eight Man Tag: Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Win:** Militanter Mummenschanz vs. Nature Game Masters  in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)<br>**Win:** Jerry Lynn vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Loss:** Gruesome Fighting: Taz vs. Eddie Edwards in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)<br>**Loss:** Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Militanter Mummenschanz (vacant) in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)<br> | **Nemesis:** [[Wrestler/Fit Finlay\|Fit Finlay]]<br>**Partner:** [[Wrestler/Kenny Omega\|Kenny Omega]]<br>**Best Match:** 100% vs. Carat First Round: Pac vs. Eddie Edwards |
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage\|Randy Savage]] (5x)
-- [[Wrestler/Fit Finlay\|Fit Finlay]] (4x)
-- [[Wrestler/Miro\|Miro]] (4x)
-- [[Wrestler/Xavier Woods\|Xavier Woods]] (3x)
-- [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] (3x)
+- [[Wrestler/Fit Finlay\|Fit Finlay]] (3x)
+- [[Wrestler/Pac\|Pac]] (3x)
+- [[Wrestler/Miro\|Miro]] (3x)
+- [[Wrestler/Xavier Woods\|Xavier Woods]] (2x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Kenny Omega\|Kenny Omega]] (3x)

@@ -6,12 +6,12 @@ tags:
 - wrestler
 img: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rey_Escorpi\xF3\
   n.png"
-matches: 10
+matches: 7
 wins: 3
 losses: 4
-draws: 3
-win_percent: 30.0
-avg_rating: 87.1
+draws: 0
+win_percent: 42.9
+avg_rating: 85.57
 ---
 
 # Rey Escorpión
@@ -21,19 +21,19 @@ avg_rating: 87.1
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 10 | 3 | 4 | 3 | 30.0% | 87.10 |
+| 7 | 3 | 4 | 0 | 42.9% | 85.57 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/rey-escorpin_stats.png" width="200"> | **✅❌⚪️⚪️⚪️**<br>**Draw:** Johnny Mundo vs. Texano Jr. vs. Rey Escorpión vs. Killshot   vs. Kane vs. KENTA vs. Daga  vs. Taya Valkyrie in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Draw:** Johnny Mundo vs. Texano Jr. vs. Hulk Hogan vs. Rey Escorpión vs. Tetsuya Naito vs. Christian vs. Taya Valkyrie vs. Brutus Beefcake in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Draw:** Texano Jr. vs. Gail Kim vs. Johnny Mundo vs. Shingo Takagi vs. Daga  vs. Dustin Rhodes vs. Kazuchika Okada vs. Taya Valkyrie in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Loss:** Saint Rebel Radicalz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Win:** Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br> | **Nemesis:** [[Wrestler/Texano Jr.\|Texano Jr.]]<br>**Partner:** [[Wrestler/Texano Jr.\|Texano Jr.]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
+| <img src="/img/charts/rey-escorpin_stats.png" width="200"> | **❌❌❌✅❌**<br>**Loss:** Saint Rebel Radicalz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Win:** Sweet 'n Sour Elite vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Loss:** Militanter Mummenschanz vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Loss:** Sweet 'n Sour Elite vs. Daga , Texano Jr. & Rey Escorpión in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br>**Loss:** Militanter Mummenschanz vs. Daga , Texano Jr. & Rey Escorpión in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Texano Jr.\|Texano Jr.]]<br>**Best Match:** 100% vs. Militanter Mummenschanz vs. Mexicans |
 
 ## Häufigste Gegner
-- [[Wrestler/Texano Jr.\|Texano Jr.]] (3x)
-- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
-- [[Wrestler/Daga\|Daga]] (3x)
-- [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] (3x)
-- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (2x)
+- [[Wrestler/Edge\|Edge]] (2x)
+- [[Wrestler/The Blade\|The Blade]] (2x)
+- [[Wrestler/The Butcher\|The Butcher]] (2x)
+- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (1x)
+- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Texano Jr.\|Texano Jr.]] (6x)
@@ -46,4 +46,4 @@ avg_rating: 87.1
 - 98%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Daga\|Daga]] , [[Wrestler/Texano\|Texano]] Jr. & [[Wrestler/Rey Escorpión\|Rey Escorpión]] in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)
 - 95%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)
 - 92%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. Mexicans in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)
-- 91%: [[Wrestler/Texano\|Texano]] Jr. vs. [[Wrestler/Gail Kim\|Gail Kim]] vs. [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Shingo Takagi\|Shingo Takagi]] vs. [[Wrestler/Daga\|Daga]]  vs. [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Taya Valkyrie\|Taya Valkyrie]] in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)
+- 77%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Daga\|Daga]] , [[Wrestler/Texano\|Texano]] Jr. & [[Wrestler/Rey Escorpión\|Rey Escorpión]] in [[Events/2021-04-15 - S03E08_BYOC Fiesta Mexicana\|S03E08_BYOC Fiesta Mexicana]] (2021-04-15)

@@ -5,12 +5,12 @@ title: Drew Gulak
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Drew_Gulak.png
-matches: 17
+matches: 16
 wins: 3
 losses: 12
-draws: 2
-win_percent: 17.6
-avg_rating: 79.18
+draws: 1
+win_percent: 18.8
+avg_rating: 78.31
 ---
 
 # Drew Gulak
@@ -20,19 +20,19 @@ avg_rating: 79.18
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 17 | 3 | 12 | 2 | 17.6% | 79.18 |
+| 16 | 3 | 12 | 1 | 18.8% | 78.31 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/drew-gulak_stats.png" width="200"> | **❌❌✅❌❌**<br>**Loss:** Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** South West Division: Drew Gulak vs. Triple H in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Win:** South West Division: Kairi Sane vs. Drew Gulak in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Loss:** South West Division: Drew Gulak vs. The Undertaker in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Loss:** Choke Slam Hardcore Championship: Drew Gulak vs. Jay White (c) in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br> | **Nemesis:** [[Wrestler/Jordynne Grace\|Jordynne Grace]]<br>**Partner:** [[Wrestler/Masha Slamovich\|Masha Slamovich]]<br>**Best Match:** 93% vs. Rumble |
+| <img src="/img/charts/drew-gulak_stats.png" width="200"> | **❌❌✅❌❌**<br>**Loss:** Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** South West Division: Drew Gulak vs. Triple H in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Win:** South West Division: Kairi Sane vs. Drew Gulak in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Loss:** South West Division: Drew Gulak vs. The Undertaker in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)<br>**Loss:** Choke Slam Hardcore Championship: Drew Gulak vs. Jay White (c) in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)<br> | **Nemesis:** [[Wrestler/Jordynne Grace\|Jordynne Grace]]<br>**Partner:** [[Wrestler/Masha Slamovich\|Masha Slamovich]]<br>**Best Match:** 93% vs. Drew Gulak vs. Dusty Rhodes |
 
 ## Häufigste Gegner
-- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (3x)
-- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (3x)
-- [[Wrestler/Triple H\|Triple H]] (3x)
-- [[Wrestler/AJ Styles\|AJ Styles]] (2x)
-- [[Wrestler/Big Kon\|Big Kon]] (2x)
+- [[Wrestler/Jordynne Grace\|Jordynne Grace]] (2x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (2x)
+- [[Wrestler/Triple H\|Triple H]] (2x)
+- [[Wrestler/Masha Slamovich\|Masha Slamovich]] (1x)
+- [[Wrestler/Shingo Takagi\|Shingo Takagi]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Masha Slamovich\|Masha Slamovich]] (4x)
@@ -40,8 +40,8 @@ avg_rating: 79.18
 - [[Wrestler/Mansoor\|Mansoor]] (1x)
 
 ## Top Matches
-- 93%: Rumble in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)
 - 93%: [[Wrestler/Drew Gulak\|Drew Gulak]] vs. [[Wrestler/Dusty Rhodes\|Dusty Rhodes]] in [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] (2024-04-10)
 - 92%: [[Wrestler/Drew Gulak\|Drew Gulak]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)
 - 92%: [[Wrestler/Drew Gulak\|Drew Gulak]] & [[Wrestler/Mansoor\|Mansoor]] vs. [[Wrestler/Diesel\|Diesel]] & [[Wrestler/AJ Styles\|AJ Styles]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)
 - 88%: [[Wrestler/Drew Gulak\|Drew Gulak]] vs. [[Wrestler/Seth Rollins\|Seth Rollins]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)
+- 87%: [[Wrestler/Drew Gulak\|Drew Gulak]] vs. [[Wrestler/Tyler Bate\|Tyler Bate]] in [[Events/2024-04-10 - S06E03_Digital Domination: Unleash the Choke Slam Fury!\|S06E03_Digital Domination: Unleash the Choke Slam Fury!]] (2024-04-10)

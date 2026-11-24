@@ -5,12 +5,12 @@ title: Tommaso Ciampa
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Tommaso_Ciampa.png
-matches: 9
+matches: 8
 wins: 3
 losses: 5
-draws: 1
-win_percent: 33.3
-avg_rating: 93.67
+draws: 0
+win_percent: 37.5
+avg_rating: 94.12
 ---
 
 # Tommaso Ciampa
@@ -20,7 +20,7 @@ avg_rating: 93.67
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 9 | 3 | 5 | 1 | 33.3% | 93.67 |
+| 8 | 3 | 5 | 0 | 37.5% | 94.12 |
 
 ### Advanced Stats
 | Record | Form | Facts |
@@ -28,11 +28,11 @@ avg_rating: 93.67
 | <img src="/img/charts/tommaso-ciampa_stats.png" width="200"> | **❌✅❌✅❌**<br>**Loss:** Johnny Gargano & Tommaso Ciampa vs.Militanter Mummenschanz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Win:** Johnny Gargano & Tommaso Ciampa vs. Sweet 'n Sour Elite in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Loss:** Johnny Gargano & Tommaso Ciampa vs. Saint Rebel Radicalz in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)<br>**Win:** Barbed Wire Match: Adam Page vs. Edge vs. Jay White vs. Tommaso Ciampa in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)<br>**Loss:** Jay White vs. Akira Taue vs. Tommaso Ciampa in [[Events/2025-10-27 - S07E05_Threeway Fiasko\|S07E05_Threeway Fiasko]] (2025-10-27)<br> | **Nemesis:** [[Wrestler/Jay White\|Jay White]]<br>**Partner:** [[Wrestler/Johnny Gargano\|Johnny Gargano]]<br>**Best Match:** 107% vs. Jay White vs. Tommaso Ciampa vs. Roman Reigns |
 
 ## Häufigste Gegner
-- [[Wrestler/Jay White\|Jay White]] (4x)
-- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
-- [[Wrestler/Awesome Kong\|Awesome Kong]] (2x)
-- [[Wrestler/Chris Jericho\|Chris Jericho]] (2x)
+- [[Wrestler/Jay White\|Jay White]] (3x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)
+- [[Wrestler/Edge\|Edge]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Johnny Gargano\|Johnny Gargano]] (3x)

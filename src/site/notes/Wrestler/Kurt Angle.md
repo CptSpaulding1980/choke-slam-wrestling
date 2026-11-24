@@ -5,12 +5,12 @@ title: Kurt Angle
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Kurt_Angle.png
-matches: 42
+matches: 34
 wins: 16
 losses: 15
-draws: 11
-win_percent: 38.1
-avg_rating: 88.24
+draws: 3
+win_percent: 47.1
+avg_rating: 87.68
 ---
 
 # Kurt Angle
@@ -20,19 +20,19 @@ avg_rating: 88.24
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 42 | 16 | 15 | 11 | 38.1% | 88.24 |
+| 34 | 16 | 15 | 3 | 47.1% | 87.68 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/kurt-angle_stats.png" width="200"> | **✅⚪️⚪️✅⚪️**<br>**Draw:** Royal Rumble in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Sweet 'n Sour Elite vs. Kurt Angle & Sting in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Draw:** Big Van Vader Memorial Battle Royal in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Militanter Mummenschanz vs. Aoife Valkyrie, Kurt Angle, Shawn Michaels, & Chris Hero in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Jim Duggan\|Jim Duggan]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
+| <img src="/img/charts/kurt-angle_stats.png" width="200"> | **❌⚪️❌✅✅**<br>**Win:** Sweet 'n Sour Elite vs. Kurt Angle & Sting in [[Events/2025-01-16 - S06E10_RoyalNonstop\|S06E10_RoyalNonstop]] (2025-01-16)<br>**Win:** Militanter Mummenschanz vs. Aoife Valkyrie, Kurt Angle, Shawn Michaels, & Chris Hero in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Threeway Tag Team Match in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br>**Draw:** Exhibition 2 - Bloodier than the Line in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br>**Loss:** Me, Myself and I - Tre (Pascal) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Kazuchika Okada\|Kazuchika Okada]]<br>**Partner:** [[Wrestler/Jim Duggan\|Jim Duggan]]<br>**Best Match:** 105% vs. Choke Slam World Championship (vacant): Kurt Angle vs. Kazuchika Okada vs. Tetsuya Naito |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (10x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (8x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (8x)
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (7x)
-- [[Wrestler/KENTA\|KENTA]] (7x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (4x)
+- [[Wrestler/Bob Backlund\|Bob Backlund]] (4x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (4x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (3x)
 
 ## Häufigste Partner
 - [[Wrestler/Jim Duggan\|Jim Duggan]] (6x)

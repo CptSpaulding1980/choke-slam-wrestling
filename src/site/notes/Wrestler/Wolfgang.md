@@ -5,12 +5,12 @@ title: Wolfgang
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Wolfgang.png
-matches: 4
+matches: 3
 wins: 2
 losses: 1
-draws: 1
-win_percent: 50.0
-avg_rating: 85.25
+draws: 0
+win_percent: 66.7
+avg_rating: 83.67
 ---
 
 # Wolfgang
@@ -20,19 +20,19 @@ avg_rating: 85.25
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 4 | 2 | 1 | 1 | 50.0% | 85.25 |
+| 3 | 2 | 1 | 0 | 66.7% | 83.67 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/wolfgang_stats.png" width="200"> | **✅❌✅⚪️**<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Win:** Saint Rebel Radicalz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br>**Loss:** Sweet 'n Sour Elite vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br>**Win:** Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br> | **Nemesis:** [[Wrestler/Bob Backlund\|Bob Backlund]]<br>**Partner:** [[Wrestler/Joe Coffey\|Joe Coffey]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang |
+| <img src="/img/charts/wolfgang_stats.png" width="200"> | **✅❌✅**<br>**Win:** Saint Rebel Radicalz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br>**Loss:** Sweet 'n Sour Elite vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br>**Win:** Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)<br> | **Nemesis:** [[Wrestler/Britt Baker\|Britt Baker]]<br>**Partner:** [[Wrestler/Joe Coffey\|Joe Coffey]]<br>**Best Match:** 96% vs. Militanter Mummenschanz vs. Joe Coffey, Mark Coffey & Wolfgang |
 
 ## Häufigste Gegner
-- [[Wrestler/Bob Backlund\|Bob Backlund]] (2x)
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
-- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
 - [[Wrestler/Britt Baker\|Britt Baker]] (1x)
+- [[Wrestler/Swerve Strickland\|Swerve Strickland]] (1x)
+- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (1x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Joe Coffey\|Joe Coffey]] (3x)
@@ -40,6 +40,5 @@ avg_rating: 85.25
 
 ## Top Matches
 - 96%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Joe Coffey\|Joe Coffey]], [[Wrestler/Mark Coffey\|Mark Coffey]] & [[Wrestler/Wolfgang\|Wolfgang]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)
-- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
 - 81%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Joe Coffey\|Joe Coffey]], [[Wrestler/Mark Coffey\|Mark Coffey]] & [[Wrestler/Wolfgang\|Wolfgang]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)
 - 74%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Joe Coffey\|Joe Coffey]], [[Wrestler/Mark Coffey\|Mark Coffey]] & [[Wrestler/Wolfgang\|Wolfgang]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Night 1\|S03E03_Battle of Britain - Night 1]] (2020-12-28)

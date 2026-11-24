@@ -5,12 +5,12 @@ title: Dustin Rhodes
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dustin_Rhodes.png
-matches: 28
+matches: 24
 wins: 11
 losses: 13
-draws: 4
-win_percent: 39.3
-avg_rating: 88.07
+draws: 0
+win_percent: 45.8
+avg_rating: 87.75
 ---
 
 # Dustin Rhodes
@@ -20,19 +20,19 @@ avg_rating: 88.07
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 28 | 11 | 13 | 4 | 39.3% | 88.07 |
+| 24 | 11 | 13 | 0 | 45.8% | 87.75 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dustin-rhodes_stats.png" width="200"> | **⚪️❌❌⚪️⚪️**<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Loss:** Kane vs. Awesome Kong vs. Madison Rayne vs. Dustin Rhodes vs. Hulk Hogan vs. Tetsuya Naito in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br>**Loss:** Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br> | **Nemesis:** [[Wrestler/Kane\|Kane]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz |
+| <img src="/img/charts/dustin-rhodes_stats.png" width="200"> | **❌✅✅❌❌**<br>**Loss:** Kane vs. Awesome Kong vs. Madison Rayne vs. Dustin Rhodes vs. Hulk Hogan vs. Tetsuya Naito in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br>**Loss:** Money in the Bank: Kane vs. Awesome Kong vs. Christian Cage vs. Tetsuya Naito vs. Randy Savage vs. Dusty Rhodes in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br>**Win:** Dustin Rhodes vs. The Sheik in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Win:** War Games: Saint Rebel Radicalz vs. Militanter Mummenschanz in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|S03E09_USA - Day 2 - Don't stop the Count]] (2021-05-10)<br>**Loss:** War Games: Sweet 'n Sour Elite vs. Saint Rebel Radicalz in [[Events/2021-05-10 - S03E09_USA - Day 2 - Don't stop the Count\|S03E09_USA - Day 2 - Don't stop the Count]] (2021-05-10)<br> | **Nemesis:** [[Wrestler/Kane\|Kane]]<br>**Partner:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Best Match:** 100% vs. Aerostar & Eddie Guerrero vs. Saint Rebel Radicalz |
 
 ## Häufigste Gegner
-- [[Wrestler/Kane\|Kane]] (5x)
-- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (5x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (5x)
-- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (4x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (4x)
+- [[Wrestler/Kane\|Kane]] (3x)
+- [[Wrestler/Austin Aries\|Austin Aries]] (2x)
+- [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (2x)
+- [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (2x)
+- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Rey Fenix\|Rey Fenix]] (9x)

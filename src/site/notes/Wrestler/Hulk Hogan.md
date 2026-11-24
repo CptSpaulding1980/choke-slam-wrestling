@@ -5,12 +5,12 @@ title: Hulk Hogan
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Hulk_Hogan.png
-matches: 72
+matches: 66
 wins: 34
 losses: 25
-draws: 13
-win_percent: 47.2
-avg_rating: 86.83
+draws: 7
+win_percent: 51.5
+avg_rating: 86.35
 ---
 
 # Hulk Hogan
@@ -20,19 +20,19 @@ avg_rating: 86.83
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 72 | 34 | 25 | 13 | 47.2% | 86.83 |
+| 66 | 34 | 25 | 7 | 51.5% | 86.35 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/hulk-hogan_stats.png" width="200"> | **⚪️❌❌❌⚪️**<br>**Draw:** Round of 16: Hulk Hogan vs. AJ Styles in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Brandon\|Brandon]]<br>**Best Match:** 105% vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  |
+| <img src="/img/charts/hulk-hogan_stats.png" width="200"> | **❌❌❌❌⚪️**<br>**Draw:** Round of 16: Hulk Hogan vs. AJ Styles in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)<br>**Loss:** Choke Slam World Championship: AJ Styles vs. Roman Reigns vs. Hulk Hogan (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Choke Slam Trios Championship: Militanter Mummenschanz vs. Saint Rebel Radicalz (c) in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Nature Game Masters  vs. Militanter Mummenschanz in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)<br>**Loss:** Sweet 'n Sour Elite vs. Doug Williams, Dr. Wagner Jr., Bret Hart, & Brock Lesnar in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br> | **Nemesis:** [[Wrestler/Bret Hart\|Bret Hart]]<br>**Partner:** [[Wrestler/Brandon\|Brandon]]<br>**Best Match:** 105% vs. Dan Koloff HC Tournament: Bob Backlund vs. Hulk Hogan vs. Rusev  |
 
 ## Häufigste Gegner
-- [[Wrestler/Bret Hart\|Bret Hart]] (12x)
-- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (9x)
-- [[Wrestler/Randy Savage\|Randy Savage]] (8x)
-- [[Wrestler/AJ Styles\|AJ Styles]] (8x)
-- [[Wrestler/Miro\|Miro]] (7x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (8x)
+- [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] (6x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (4x)
+- [[Wrestler/Miro\|Miro]] (4x)
+- [[Wrestler/Gunther\|Gunther]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Brandon\|Brandon]] (5x)

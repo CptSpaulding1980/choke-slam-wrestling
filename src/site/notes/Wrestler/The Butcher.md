@@ -5,12 +5,12 @@ title: The Butcher
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/The_Butcher.png
-matches: 17
+matches: 15
 wins: 7
 losses: 7
-draws: 3
-win_percent: 41.2
-avg_rating: 83.0
+draws: 1
+win_percent: 46.7
+avg_rating: 82.0
 ---
 
 # The Butcher
@@ -20,19 +20,19 @@ avg_rating: 83.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 17 | 7 | 7 | 3 | 41.2% | 83.00 |
+| 15 | 7 | 7 | 1 | 46.7% | 82.00 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/the-butcher_stats.png" width="200"> | **✅✅❌⚪️❌**<br>**Loss:** Christian Cage, The Blade, & The Butcher vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Loss:** Dan Koloff HC Tournament 1/2 Finals: Jeff Cobb (w/Edge) vs. The Butcher in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] (2021-07-26)<br>**Win:** Dan Koloff HC Tournament: The Butcher vs. Kota Ibushi (w/Mr. Fuji) in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] (2021-07-26)<br>**Win:** Dan Koloff HC Tournament: Hiromu Takahashi vs. The Butcher vs. André The Giant in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)<br> | **Nemesis:** [[Wrestler/Joey Janela\|Joey Janela]]<br>**Partner:** [[Wrestler/The Blade\|The Blade]]<br>**Best Match:** 99% vs. Bob Backlund & Jeff Cobb vs. The Butcher & Kazuchika Okada |
+| <img src="/img/charts/the-butcher_stats.png" width="200"> | **❌✅✅❌❌**<br>**Loss:** Christian Cage, The Blade, & The Butcher vs. Big Van Vader, Madison Rayne, & Triple H in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Dan Koloff HC Tournament 1/2 Finals: Jeff Cobb (w/Edge) vs. The Butcher in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] (2021-07-26)<br>**Win:** Dan Koloff HC Tournament: The Butcher vs. Kota Ibushi (w/Mr. Fuji) in [[Events/2021-07-26 - S03E12_ChokeSlamMania III - Andre has a posse - Day 2\|S03E12_ChokeSlamMania III - Andre has a posse - Day 2]] (2021-07-26)<br>**Win:** Dan Koloff HC Tournament: Hiromu Takahashi vs. The Butcher vs. André The Giant in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)<br>**Loss:** Choke Slam Tag Team Championship: Owen Hart & The Butcher vs. Sweet 'n Sour Elite (c) in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)<br> | **Nemesis:** [[Wrestler/Texano Jr.\|Texano Jr.]]<br>**Partner:** [[Wrestler/The Blade\|The Blade]]<br>**Best Match:** 99% vs. Bob Backlund & Jeff Cobb vs. The Butcher & Kazuchika Okada |
 
 ## Häufigste Gegner
-- [[Wrestler/Joey Janela\|Joey Janela]] (5x)
-- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (4x)
-- [[Wrestler/Christian Cage\|Christian Cage]] (4x)
-- [[Wrestler/The Blade\|The Blade]] (4x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (4x)
+- [[Wrestler/Texano Jr.\|Texano Jr.]] (2x)
+- [[Wrestler/Rey Escorpión\|Rey Escorpión]] (2x)
+- [[Wrestler/Johnny Mundo\|Johnny Mundo]] (2x)
+- [[Wrestler/Jim Duggan\|Jim Duggan]] (2x)
+- [[Wrestler/Lex Luger\|Lex Luger]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/The Blade\|The Blade]] (7x)

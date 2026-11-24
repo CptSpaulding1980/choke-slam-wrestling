@@ -5,12 +5,12 @@ title: Sid Vicious
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Sid_Vicious.png
-matches: 8
+matches: 6
 wins: 3
 losses: 2
-draws: 3
-win_percent: 37.5
-avg_rating: 91.75
+draws: 1
+win_percent: 50.0
+avg_rating: 92.17
 ---
 
 # Sid Vicious
@@ -20,19 +20,19 @@ avg_rating: 91.75
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 8 | 3 | 2 | 3 | 37.5% | 91.75 |
+| 6 | 3 | 2 | 1 | 50.0% | 92.17 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/sid-vicious_stats.png" width="200"> | **❌⚪️✅⚪️⚪️**<br>**Draw:** The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Win:** Sid Vicious vs. Hulk Hogan in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br>**Draw:** Andre the Giant Memorial Battle Royal in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br>**Loss:** World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br> | **Nemesis:** [[Wrestler/Randy Orton\|Randy Orton]]<br>**Partner:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Best Match:** 101% vs. World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker |
+| <img src="/img/charts/sid-vicious_stats.png" width="200"> | **✅✅❌⚪️✅**<br>**Win:** Sid Vicious vs. Hulk Hogan in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br>**Draw:** Andre the Giant Memorial Battle Royal in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)<br>**Loss:** World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br>**Win:** Kings Court vs. Sweet 'n Sour Elite in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)<br>**Win:** Sara Del Rey vs. Dr. Wagner Jr. vs. Sid Vicious vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)<br> | **Nemesis:** [[Wrestler/Randy Orton\|Randy Orton]]<br>**Partner:** [[Wrestler/The Undertaker\|The Undertaker]]<br>**Best Match:** 101% vs. World Title #1 Contender Elimination Match: Big Van Vader vs. Sid Vicious vs. The Undertaker |
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Orton\|Randy Orton]] (3x)
-- [[Wrestler/Sara Del Rey\|Sara Del Rey]] (3x)
-- [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] (3x)
-- [[Wrestler/Hulk Hogan\|Hulk Hogan]] (3x)
-- [[Wrestler/Joey Janela\|Joey Janela]] (3x)
+- [[Wrestler/Randy Orton\|Randy Orton]] (1x)
+- [[Wrestler/nan\|nan]] (1x)
+- [[Wrestler/Booker T\|Booker T]] (1x)
+- [[Wrestler/King Corbin\|King Corbin]] (1x)
+- [[Wrestler/Jerry Lawler\|Jerry Lawler]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/The Undertaker\|The Undertaker]] (2x)
@@ -44,5 +44,5 @@ avg_rating: 91.75
 - 101%: [[World Title]] #1 Contender Elimination Match: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/The Undertaker\|The Undertaker]] in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)
 - 100%: Threeway Fiasko im Käfig - Cage Match: [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/Randy Orton\|Randy Orton]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 99%: [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)
-- 95%: [[Wrestler/Sara Del Rey\|Sara Del Rey]] vs. [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Gorilla Monsoon\|Gorilla Monsoon]] vs. [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/Ric Flair\|Ric Flair]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
-- 91%: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)
+- 95%: Sara Del Rey vs. Dr. Wagner Jr. vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
+- 82%: Andre the Giant Memorial [[Battle Royal]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)

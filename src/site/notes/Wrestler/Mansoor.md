@@ -5,12 +5,12 @@ title: Mansoor
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Mansoor.png
-matches: 11
+matches: 10
 wins: 4
 losses: 6
-draws: 1
-win_percent: 36.4
-avg_rating: 88.73
+draws: 0
+win_percent: 40.0
+avg_rating: 88.6
 ---
 
 # Mansoor
@@ -20,19 +20,19 @@ avg_rating: 88.73
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 11 | 4 | 6 | 1 | 36.4% | 88.73 |
+| 10 | 4 | 6 | 0 | 40.0% | 88.60 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/mansoor_stats.png" width="200"> | **⚪️❌✅❌❌**<br>**Loss:** Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Mansoor & Mustafa Ali vs. Saint Rebel Radicalz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Win:** Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Loss:** Mansoor & Mustafa Ali vs. Militanter Mummenschanz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Mustafa Ali\|Mustafa Ali]]<br>**Best Match:** 100% vs. Angélico & Mansoor vs. Militanter Mummenschanz |
+| <img src="/img/charts/mansoor_stats.png" width="200"> | **❌❌✅❌❌**<br>**Loss:** Drew Gulak & Mansoor vs. Diesel & AJ Styles in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)<br>**Loss:** Mansoor & Mustafa Ali vs. Saint Rebel Radicalz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Win:** Mansoor & Mustafa Ali vs. Sweet 'n Sour Elite in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Loss:** Mansoor & Mustafa Ali vs. Militanter Mummenschanz in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)<br>**Loss:** Randy Savage vs. Mansoor in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br> | **Nemesis:** [[Wrestler/Randy Savage\|Randy Savage]]<br>**Partner:** [[Wrestler/Mustafa Ali\|Mustafa Ali]]<br>**Best Match:** 100% vs. Angélico & Mansoor vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
-- [[Wrestler/Randy Savage\|Randy Savage]] (3x)
-- [[Wrestler/Bret Hart\|Bret Hart]] (2x)
-- [[Wrestler/Owen Hart\|Owen Hart]] (2x)
-- [[Wrestler/KENTA\|KENTA]] (2x)
-- [[Wrestler/Brutus Beefcake\|Brutus Beefcake]] (2x)
+- [[Wrestler/Randy Savage\|Randy Savage]] (2x)
+- [[Wrestler/Cesaro\|Cesaro]] (1x)
+- [[Wrestler/Kelly Klein\|Kelly Klein]] (1x)
+- [[Wrestler/Bret Hart\|Bret Hart]] (1x)
+- [[Wrestler/Owen Hart\|Owen Hart]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Mustafa Ali\|Mustafa Ali]] (3x)

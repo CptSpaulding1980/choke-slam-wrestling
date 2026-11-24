@@ -5,11 +5,11 @@ title: Jushin Liger
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Jushin_Liger.png
-matches: 17
+matches: 16
 wins: 6
 losses: 10
-draws: 1
-win_percent: 35.3
+draws: 0
+win_percent: 37.5
 avg_rating: 89.0
 ---
 
@@ -20,19 +20,19 @@ avg_rating: 89.0
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 17 | 6 | 10 | 1 | 35.3% | 89.00 |
+| 16 | 6 | 10 | 0 | 37.5% | 89.00 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/jushin-liger_stats.png" width="200"> | **❌❌❌✅⚪️**<br>**Draw:** Andre the Giant Memorial Battle Royal in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)<br>**Win:** Jushin Liger vs. Austin Aries in [[Events/2021-03-09 - S03E06_Swiss Bliss - A New Hope\|S03E06_Swiss Bliss - A New Hope]] (2021-03-09)<br>**Loss:** Jushin Liger vs. KENTA in [[Events/2021-03-09 - S03E06_Swiss Bliss - Return of the King\|S03E06_Swiss Bliss - Return of the King]] (2021-03-09)<br>**Loss:** Jushin Liger vs. Gail Kim in [[Events/2021-02-25 - S03E06_Swiss Bliss - Tokyo Drift\|S03E06_Swiss Bliss - Tokyo Drift]] (2021-02-25)<br>**Loss:** Cesaro  vs. Jushin Liger in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] (2021-02-25)<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 102% vs. Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix |
+| <img src="/img/charts/jushin-liger_stats.png" width="200"> | **✅❌❌❌✅**<br>**Win:** Jushin Liger vs. Austin Aries in [[Events/2021-03-09 - S03E06_Swiss Bliss - A New Hope\|S03E06_Swiss Bliss - A New Hope]] (2021-03-09)<br>**Loss:** Jushin Liger vs. KENTA in [[Events/2021-03-09 - S03E06_Swiss Bliss - Return of the King\|S03E06_Swiss Bliss - Return of the King]] (2021-03-09)<br>**Loss:** Jushin Liger vs. Gail Kim in [[Events/2021-02-25 - S03E06_Swiss Bliss - Tokyo Drift\|S03E06_Swiss Bliss - Tokyo Drift]] (2021-02-25)<br>**Loss:** Cesaro  vs. Jushin Liger in [[Events/2021-02-25 - S03E06_Swiss Bliss\|S03E06_Swiss Bliss]] (2021-02-25)<br>**Win:** Gail Kim vs. Jushin Liger in [[Events/2021-01-21 - S03E05_Ireland\|S03E05_Ireland]] (2021-01-21)<br> | **Nemesis:** [[Wrestler/Rey Fenix\|Rey Fenix]]<br>**Partner:** [[Wrestler/Kane\|Kane]]<br>**Best Match:** 102% vs. Jushin Liger vs. Dr. Wagner Jr. vs. Rey Fenix |
 
 ## Häufigste Gegner
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (4x)
-- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (2x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (3x)
 - [[Wrestler/Dr. Wagner Jr.\|Dr. Wagner Jr.]] (2x)
 - [[Wrestler/Austin Aries\|Austin Aries]] (2x)
 - [[Wrestler/Gail Kim\|Gail Kim]] (2x)
+- [[Wrestler/Paul Orndorff\|Paul Orndorff]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Kane\|Kane]] (6x)

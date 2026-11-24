@@ -28,7 +28,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 8 |  | [[Wrestler/Drew Gulak\|Drew Gulak]] & [[Wrestler/Mansoor\|Mansoor]] vs. [[Wrestler/Diesel\|Diesel]] & [[Wrestler/AJ Styles\|AJ Styles]] | AJ Styles beat Mansoor in 35 Min 7 Sec with a Frog Splash | 35:07 | ★★★★½ | 92 |
 | 9 |  | [[Choke Slam International Championship]]: [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Finn Bálor\|Finn Bálor]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Randy Savage\|Randy Savage]] | Bret Hart won a four-corners match against Finn Bálor, The Undertaker, &Randy Savage in  14:18 | 14:18 | ★★★★ | 85 |
 | 10 | Tag Team | [[Tag Team Championship]] #1 Cont. Finals | Randy Savage beat Owen Hart in 18 Min 49 Sec with a Macho Flying Elbow Drop | 18:49 | ★★★½ | 77 |
-| 11 |  | Sheik Invitational Rumble incl. [[Wrestler/Sabu\|Sabu]] | Matt Hardy won a 14 wrestler Royal Rumble in  40:20 | 40:20 | ★★★★ | 84 |
+| 11 |  | Sheik Invitational Rumble incl. Sabu | Matt Hardy won a 14 wrestler Royal Rumble in  40:20 | 40:20 | ★★★★ | 84 |
 | 12 | Tag Team | [[Choke Slam Tag Team Championship]]: [[Teams/Path of God\|Path of God]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] | The Undertaker beat Randy Savage in 14 Min 45 Sec with a Ladder Diving Leg Drop | 14:45 | ★★★★¼ | 90 |
 | 13 |  | [[Choke Slam World Championship]]: [[Wrestler/Samoa Joe\|Samoa Joe]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] (c) | Roman Reigns beat Samoa Joe in 8 Min 46 Sec with a Spear | 8:46 | ★★★ | 68 |
 

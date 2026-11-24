@@ -5,12 +5,12 @@ title: Dolph Ziggler
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Dolph_Ziggler.png
-matches: 3
+matches: 2
 wins: 1
 losses: 1
-draws: 1
-win_percent: 33.3
-avg_rating: 84.33
+draws: 0
+win_percent: 50.0
+avg_rating: 81.5
 ---
 
 # Dolph Ziggler
@@ -20,24 +20,22 @@ avg_rating: 84.33
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 3 | 1 | 1 | 1 | 33.3% | 84.33 |
+| 2 | 1 | 1 | 0 | 50.0% | 81.50 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/dolph-ziggler_stats.png" width="200"> | **✅❌⚪️**<br>**Draw:** Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)<br>**Loss:** Saint Rebel Radicalz vs. Dolph Ziggler & Rey Mysterio Jr. in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br>**Win:** Dolph Ziggler & Rey Mysterio Jr. vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br> | **Nemesis:** [[Wrestler/Kane\|Kane]]<br>**Partner:** [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]]<br>**Best Match:** 90% vs. Greatest Rumble ever |
+| <img src="/img/charts/dolph-ziggler_stats.png" width="200"> | **✅❌**<br>**Loss:** Saint Rebel Radicalz vs. Dolph Ziggler & Rey Mysterio Jr. in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br>**Win:** Dolph Ziggler & Rey Mysterio Jr. vs. Militanter Mummenschanz in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)<br> | **Nemesis:** [[Wrestler/Kane\|Kane]]<br>**Partner:** [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]]<br>**Best Match:** 82% vs. Dolph Ziggler & Rey Mysterio Jr. vs. Militanter Mummenschanz |
 
 ## Häufigste Gegner
-- [[Wrestler/Kane\|Kane]] (2x)
-- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (2x)
-- [[Wrestler/Rey Fenix\|Rey Fenix]] (2x)
-- [[Wrestler/Abdullah The Butcher\|Abdullah The Butcher]] (2x)
-- [[Wrestler/Jimmy Snuka\|Jimmy Snuka]] (2x)
+- [[Wrestler/Kane\|Kane]] (1x)
+- [[Wrestler/Jushin Liger\|Jushin Liger]] (1x)
+- [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (1x)
+- [[Wrestler/Rey Fenix\|Rey Fenix]] (1x)
 
 ## Häufigste Partner
 - [[Wrestler/Rey Mysterio Jr.\|Rey Mysterio Jr.]] (2x)
 
 ## Top Matches
-- 90%: Greatest Rumble ever in [[Events/2021-05-18 - S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!\|S03E10_Saudi Arabia - Blood and The biggest, greatest, most awesome, most fantastic Royal Rumble ever!]] (2021-05-18)
 - 82%: [[Wrestler/Dolph Ziggler\|Dolph Ziggler]] & [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)
 - 81%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Dolph Ziggler\|Dolph Ziggler]] & [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. in [[Events/2020-10-26 - S03E02_World Tag League\|S03E02_World Tag League]] (2020-10-26)

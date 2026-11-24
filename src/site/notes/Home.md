@@ -43,8 +43,8 @@ Willkommen im **Digital Garden** von Choke Slam Wrestling! Hier findest du alle 
 | [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | 15 |
 | [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] | 14 |
 | [[Wrestler/Daniel Bryan\|Daniel Bryan]] | 13 |
+| [[Wrestler/Bret Hart\|Bret Hart]] | 11 |
 | [[Wrestler/Steve Austin\|Steve Austin]] | 11 |
-| [[Wrestler/Bret Hart\|Bret Hart]] | 10 |
 
 ---
 ### 🧭 Navigation

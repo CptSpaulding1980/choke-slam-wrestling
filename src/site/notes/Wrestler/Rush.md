@@ -5,12 +5,12 @@ title: Rush
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Rush.png
-matches: 33
+matches: 29
 wins: 12
 losses: 15
-draws: 6
-win_percent: 36.4
-avg_rating: 87.06
+draws: 2
+win_percent: 41.4
+avg_rating: 86.45
 ---
 
 # Rush
@@ -20,19 +20,19 @@ avg_rating: 87.06
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 33 | 12 | 15 | 6 | 36.4% | 87.06 |
+| 29 | 12 | 15 | 2 | 41.4% | 86.45 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/rush_stats.png" width="200"> | **⚪️❌❌❌⚪️**<br>**Draw:** EC3 vs. Big Van Vader vs. Brutus Beefcake vs. Tetsuya Naito vs. Ivelisse vs. Tommy End vs. Bob Backlund vs. Sting in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Roman Reigns vs. Seth Rollins vs. Tommy End vs. Rush vs. Bret Hart vs. Miro in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Draw:** Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)<br> | **Nemesis:** [[Wrestler/Killer Kelly\|Killer Kelly]]<br>**Partner:** [[Wrestler/Madison Rayne\|Madison Rayne]]<br>**Best Match:** 101% vs. Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
+| <img src="/img/charts/rush_stats.png" width="200"> | **✅✅❌❌❌**<br>**Loss:** Jay White vs. Jonathan Gresham vs. Rush vs. Tommy End vs. Bret Hart vs. Lita in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Roman Reigns vs. Seth Rollins vs. Tommy End vs. Rush vs. Bret Hart vs. Miro in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Loss:** Shawn Michaels vs. Diesel vs. Tommy End vs. Rush vs. Bob Backlund vs. Ric Flair in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)<br>**Win:** Me, Myself and I - Duo (Hendrik) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br>**Win:** Me, Myself and I - Uno (Hendrik) in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)<br> | **Nemesis:** [[Wrestler/Edge\|Edge]]<br>**Partner:** [[Wrestler/Madison Rayne\|Madison Rayne]]<br>**Best Match:** 101% vs. Trash TV: Militanter Mummenschanz vs. Sweet 'n Sour Elite |
 
 ## Häufigste Gegner
-- [[Wrestler/Killer Kelly\|Killer Kelly]] (7x)
-- [[Wrestler/Joey Janela\|Joey Janela]] (5x)
-- [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)
-- [[Wrestler/Christian Cage\|Christian Cage]] (5x)
-- [[Wrestler/Kurt Angle\|Kurt Angle]] (5x)
+- [[Wrestler/Edge\|Edge]] (3x)
+- [[Wrestler/Christian Cage\|Christian Cage]] (3x)
+- [[Wrestler/Killer Kelly\|Killer Kelly]] (3x)
+- [[Wrestler/Xavier Woods\|Xavier Woods]] (2x)
+- [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] (2x)
 
 ## Häufigste Partner
 - [[Wrestler/Madison Rayne\|Madison Rayne]] (5x)

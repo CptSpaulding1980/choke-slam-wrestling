@@ -5,12 +5,12 @@ title: Laredo Kid
 tags:
 - wrestler
 img: https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/Laredo_Kid.png
-matches: 42
-wins: 14
+matches: 37
+wins: 13
 losses: 19
-draws: 9
-win_percent: 33.3
-avg_rating: 84.24
+draws: 5
+win_percent: 35.1
+avg_rating: 83.19
 ---
 
 # Laredo Kid
@@ -20,19 +20,19 @@ avg_rating: 84.24
 ## Karriere-Statistiken
 | Matches | Siege | Niederlagen | Draws | Win % | Ø Rating |
 |---|---|---|---|---|---|
-| 42 | 14 | 19 | 9 | 33.3% | 84.24 |
+| 37 | 13 | 19 | 5 | 35.1% | 83.19 |
 
 ### Advanced Stats
 | Record | Form | Facts |
 |:---:|---|---|
-| <img src="/img/charts/laredo-kid_stats.png" width="200"> | **✅✅❌❌❌**<br>**Loss:** Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Los Jinetes del Aire (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Loss:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Saint Rebel Radicalz vs. Jeff Cobb & Ultimate Warrior in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Win:** Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Win:** Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 100% vs. Cibernetico |
+| <img src="/img/charts/laredo-kid_stats.png" width="200"> | **❌✅❌❌❌**<br>**Loss:** Choke Slam Trios Championship: Sweet 'n Sour Elite vs. Los Jinetes del Aire (c) in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)<br>**Loss:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** Saint Rebel Radicalz vs. Jeff Cobb & Ultimate Warrior in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Win:** Choke Slam Trios Championship: Militanter Mummenschanz  vs. Los Jinetes del Aire vs. Sweet 'n Sour Elite vs. Saint Rebel Radicalz (c) in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br>**Loss:** I got 4 on it in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)<br> | **Nemesis:** [[Wrestler/Roman Reigns\|Roman Reigns]]<br>**Partner:** [[Wrestler/Tetsuya Naito\|Tetsuya Naito]]<br>**Best Match:** 100% vs. Cibernetico |
 
 ## Häufigste Gegner
-- [[Wrestler/Roman Reigns\|Roman Reigns]] (12x)
-- [[Wrestler/Triple H\|Triple H]] (9x)
-- [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] (8x)
-- [[Wrestler/KUSHIDA\|KUSHIDA]] (8x)
-- [[Wrestler/The Undertaker\|The Undertaker]] (8x)
+- [[Wrestler/Roman Reigns\|Roman Reigns]] (8x)
+- [[Wrestler/Triple H\|Triple H]] (5x)
+- [[Wrestler/KUSHIDA\|KUSHIDA]] (5x)
+- [[Wrestler/Jun Akiyama\|Jun Akiyama]] (4x)
+- [[Wrestler/The Undertaker\|The Undertaker]] (4x)
 
 ## Häufigste Partner
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (9x)

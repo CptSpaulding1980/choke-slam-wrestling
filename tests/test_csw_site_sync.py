@@ -438,6 +438,24 @@ class GeneratedContentTests(unittest.TestCase):
             site_sync.prune_orphan_notes(self.repo, limit=3)
         self.assertTrue((notes / "Events/2025-11-01 - Stale.md").exists())
 
+    def test_explicit_preserve_orphans_keeps_unlisted_notes_and_built_pages(self):
+        names = [f"2026-01-{day:02d} - S08E{day:02d}_Show" for day in range(1, 22)]
+        self._index_with_events(names)
+        notes = self.repo / "src/site/notes"
+        orphan = notes / "Events/2025-12-01 - Kept.md"
+        orphan.write_text("---\npermalink: /events/kept/\n---\n", encoding="utf-8")
+        page = self.repo / "docs/events/kept/index.html"
+        page.parent.mkdir(parents=True)
+        page.write_text("preserved", encoding="utf-8")
+        self.assertEqual(site_sync.prune_orphan_notes(self.repo, preserve=True), [])
+        self.assertTrue(orphan.exists())
+        self.assertEqual(page.read_text(), "preserved")
+
+    def test_preserve_orphans_cli_is_explicit(self):
+        with patch.object(site_sync, "sync_all") as sync:
+            self.assertEqual(site_sync.main(["sync", "--repo", str(self.repo), "--preserve-orphans"]), 0)
+        self.assertTrue(sync.call_args.kwargs["preserve_orphans"])
+
     def test_event_media_rejects_snapshot_path_traversal(self):
         with self.assertRaisesRegex(ValueError, "Unsafe event snapshot filename"):
             site_sync.restore_event_media(self.repo, {"../../outside.md": "<video></video>"})

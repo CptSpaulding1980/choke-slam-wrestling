@@ -41,4 +41,4 @@ avg_rating: 91.0
 - 98%: [[Choke Slam Hardcore Championship]]: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Jerry Lynn\|Jerry Lynn]] vs. [[Wrestler/Bret Hart\|Bret Hart]] (c) in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)
 - 97%: [[Wrestler/Jerry Lynn\|Jerry Lynn]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)
 - 87%: [[Wrestler/Jerry Lynn\|Jerry Lynn]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)
-- 75%: [[Falls Count Anywhere]]: [[Wrestler/Jerry Lynn\|Jerry Lynn]] vs. [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)
+- 75%: Falls Count Anywhere: [[Wrestler/Jerry Lynn\|Jerry Lynn]] vs. [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)

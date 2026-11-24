@@ -43,7 +43,7 @@ avg_rating: 89.8
 
 ## Top Matches
 - 104%: Alternate Three Way: [[Wrestler/Gigi Dolin\|Gigi Dolin]] vs. [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Bull Nakano\|Bull Nakano]] in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)
-- 100%: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)
+- 100%: Steel Cage: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)
 - 99%: [[Wrestler/Gigi Dolin\|Gigi Dolin]] vs. [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Grayson Waller\|Grayson Waller]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] (2022-12-16)
 - 96%: [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] vs. [[Wrestler/Gigi Dolin\|Gigi Dolin]] vs. [[Wrestler/Bull Nakano\|Bull Nakano]] vs. [[Wrestler/Ikemen Jiro\|Ikemen Jiro]] vs. [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Grayson Waller\|Grayson Waller]] vs. [[Wrestler/Dover\|Dover]]  vs. [[Wrestler/Icárús\|Icárús]]  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] (2023-04-03)
 - 95%: [[Wrestler/Johnny Grunge\|Johnny Grunge]] & [[Wrestler/Rocco Rock\|Rocco Rock]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)

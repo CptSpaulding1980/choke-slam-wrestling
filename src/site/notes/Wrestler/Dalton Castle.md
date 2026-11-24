@@ -44,6 +44,6 @@ avg_rating: 83.5
 ## Top Matches
 - 100%: [[Choke Slam Tag Team Championship]]: [[Wrestler/Dalton Castle\|Dalton Castle]] & [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 94%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
-- 92%: Castle vs. Wagner - [[No Holds Barred]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)
+- 92%: Castle vs. Wagner - No Holds Barred in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)
 - 91%: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Killer Kelly\|Killer Kelly]] & [[Wrestler/Dalton Castle\|Dalton Castle]] in [[Events/2024-10-22 - S06E07_Turbo Turnier\|S06E07_Turbo Turnier]] (2024-10-22)
 - 86%: [[Wrestler/Dalton Castle\|Dalton Castle]] & [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr. vs. [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] in [[Events/2025-05-07 - S06E12_ChokeSlamMania VI\|S06E12_ChokeSlamMania VI]] (2025-05-07)

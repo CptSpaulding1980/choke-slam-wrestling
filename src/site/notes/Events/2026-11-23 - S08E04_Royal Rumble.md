@@ -31,7 +31,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 9 |  | [[Wrestler/John Cena\|John Cena]] vs. [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/The Miz\|The Miz]] vs. [[Wrestler/The Undertaker\|The Undertaker]] | The Undertaker won a four-corners match against John Cena, Randy Orton, &The Miz in  44:43 | 44:43 | ★★★★★ | 100 |
 | 10 |  | [[Choke Slam Trios Championship]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] | SANADA beat Chris Benoit in 16 Min 9 Sec with a Frankensteiner | 16:09 | ★★★★ | 84 |
 | 11 |  | [[Choke Slam World Championship]]: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] (c) | Big Van Vader beat Kazuchika Okada in 31 Min 25 Sec with a Reverse Splash | 31:25 | ★★★★★¼ | 104 |
-| 12 | Royal Rumble | [[Royal Rumble]] | John Cena won a 30 wrestler Royal Rumble in  43:56 | 43:56 | ★★★★¼ | 91 |
+| 12 | Royal Rumble | Royal Rumble | John Cena won a 30 wrestler Royal Rumble in  90:14 | 90:14 | ★★★★¼ | 91 |
 
 ## Links
 - [[Events\|📅 Alle Events]]

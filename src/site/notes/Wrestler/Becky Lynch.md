@@ -40,7 +40,7 @@ avg_rating: 84.67
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)
 
 ## Top Matches
-- 96%: [[Steel Cage]] Match: [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Becky Lynch\|Becky Lynch]] vs. [[Wrestler/Edge\|Edge]] vs. [[Wrestler/Sasha Banks\|Sasha Banks]] in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)
+- 96%: Steel Cage Match: [[Wrestler/Wardlow\|Wardlow]] vs. [[Wrestler/Becky Lynch\|Becky Lynch]] vs. [[Wrestler/Edge\|Edge]] vs. [[Wrestler/Sasha Banks\|Sasha Banks]] in [[Events/2026-05-01 - S07E09_Chokeslam Classic\|S07E09_Chokeslam Classic]] (2026-05-01)
 - 93%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Becky Lynch\|Becky Lynch]], [[Wrestler/Angélico\|Angélico]], [[Wrestler/Chris Hero\|Chris Hero]], & [[Wrestler/Shawn Michaels\|Shawn Michaels]] in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)
 - 91%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Becky Lynch\|Becky Lynch]], [[Wrestler/Chris Hero\|Chris Hero]], & [[Wrestler/Angélico\|Angélico]] in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)
 - 85%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Angélico\|Angélico]], [[Wrestler/Becky Lynch\|Becky Lynch]], [[Wrestler/Chris Hero\|Chris Hero]], & [[Wrestler/Shawn Michaels\|Shawn Michaels]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)

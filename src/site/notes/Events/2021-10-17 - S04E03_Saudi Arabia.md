@@ -21,7 +21,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 1 |  | [[Wrestler/Iron Sheik\|Iron Sheik]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] | Bob Backlund beat Iron Sheik in 27 Min 0 Sec with a Crossface Chickenwing | 27:00 | ★★★★¾ | 99 |
 | 2 |  | [[Wrestler/Iron Sheik\|Iron Sheik]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] | Iron Sheik beat Big Van Vader in 17 Min 31 Sec with a Camel Clutch | 17:31 | ★★★★¼ | 88 |
 | 3 |  | [[Wrestler/Iron Sheik\|Iron Sheik]] vs. [[Wrestler/Chris Hero\|Chris Hero]] | Iron Sheik beat Chris Hero in 19 Min 18 Sec with a Camel Clutch | 19:18 | ★★★★¾ | 97 |
-| 4 | Royal Rumble | The Greatest [[Royal Rumble]] | Ricky Steamboat won a 52 wrestler Royal Rumble in  112:10 | 112:10 | ★★★★¼ | 91 |
+| 4 | Royal Rumble | The Greatest Royal Rumble | Ricky Steamboat won a 52 wrestler Royal Rumble in  112:10 | 112:10 | ★★★★¼ | 91 |
 | 5 |  | [[Wrestler/Brock Lesnar\|Brock Lesnar]] vs. [[Wrestler/Kevin Steen\|Kevin Steen]] | Kevin Steen beat Brock Lesnar in 11 Min 0 Sec with a Pop-up Powerbomb | 11:00 | ★★★ | 71 |
 | 6 |  | [[Wrestler/Brock Lesnar\|Brock Lesnar]] vs. [[Wrestler/Fit Finlay\|Fit Finlay]] | Brock Lesnar beat Fit Finlay in 16 Min 38 Sec with a Chickenwing Arm Lock | 16:38 | ★★★★ | 84 |
 | 7 |  | [[Wrestler/Brock Lesnar\|Brock Lesnar]] vs. [[Wrestler/Rey Mysterio\|Rey Mysterio]] Jr. | Brock Lesnar beat Rey Mysterio Jr. in 17 Min 11 Sec with a Striking Lariat | 17:11 | ★★★★¼ | 90 |

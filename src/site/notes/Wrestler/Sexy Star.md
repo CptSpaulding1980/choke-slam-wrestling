@@ -43,5 +43,5 @@ avg_rating: 84.0
 
 ## Top Matches
 - 93%: [[Wrestler/Diesel\|Diesel]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] vs. [[Wrestler/Sexy Star\|Sexy Star]] in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)
-- 82%: Andre the Giant Memorial [[Battle Royal]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)
+- 82%: Andre the Giant Memorial Battle Royal in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)
 - 77%: Kings Court vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)

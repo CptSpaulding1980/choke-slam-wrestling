@@ -38,5 +38,5 @@ avg_rating: 82.0
 - [[Wrestler/Killer Kelly\|Killer Kelly]] (1x)
 
 ## Top Matches
-- 96%: [[Extreme Rules]]: Mankind vs. [[Wrestler/Kevin Owens\|Kevin Owens]] in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)
+- 96%: Extreme Rules: Mankind vs. [[Wrestler/Kevin Owens\|Kevin Owens]] in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)
 - 68%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/EC3\|EC3]], [[Wrestler/Killer Kelly\|Killer Kelly]], & [[Wrestler/Kevin Owens\|Kevin Owens]] in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)

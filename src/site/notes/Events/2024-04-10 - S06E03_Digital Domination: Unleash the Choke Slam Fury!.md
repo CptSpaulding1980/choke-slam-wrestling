@@ -39,7 +39,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 19 |  | [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] | Roman Reigns beat AJ Styles in 2R 3 Min 13 Sec with a Spear | 3:13 | ★★★½ | 78 |
 | 20 |  | [[Wrestler/Axiom\|Axiom]] vs. [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] | Hiroshi Tanahashi beat Axiom in 2R 1 Min 39 Sec with a K.O | 1:39 | ★★★½ | 76 |
 | 21 |  | [[Wrestler/Charlie Dempsey\|Charlie Dempsey]] vs. [[Wrestler/Tyler Bate\|Tyler Bate]] | Tyler Bate beat Charlie Dempsey in 2R 2 Min 38 Sec with a K.O | 2:38 | ★★★ | 70 |
-| 22 | Royal Rumble | Trios [[Royal Rumble]] | Roman Reigns won a 15 wrestler Royal Rumble in  47:42 | 47:42 | ★★★★½ | 93 |
+| 22 | Royal Rumble | Trios Royal Rumble | Roman Reigns won a 15 wrestler Royal Rumble in  47:42 | 47:42 | ★★★★½ | 93 |
 | 23 |  | Round 3: [[Wrestler/Nathan Frazer\|Nathan Frazer]] vs. [[Wrestler/The Undertaker\|The Undertaker]] | The Undertaker beat Nathan Frazer in 3R 1 Min 8 Sec with a K.O | 1:08 | ★★★½ | 77 |
 | 24 |  | Round 3: [[Wrestler/Jun Akiyama\|Jun Akiyama]] vs. [[Wrestler/Dijak\|Dijak]] | Jun Akiyama beat Dijak in 2R 4 Min 16 Sec with a K.O | 4:16 | ★★★¾ | 83 |
 | 25 |  | Losers Round 3: [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] | Triple H beat Roman Reigns in 3R 2 Min 51 Sec with a K.O | 2:51 | ★★★★½ | 94 |

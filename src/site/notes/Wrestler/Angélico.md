@@ -47,4 +47,4 @@ avg_rating: 84.44
 - 94%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 93%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Becky Lynch\|Becky Lynch]], [[Wrestler/Angélico\|Angélico]], [[Wrestler/Chris Hero\|Chris Hero]], & [[Wrestler/Shawn Michaels\|Shawn Michaels]] in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)
 - 91%: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Wrestler/Becky Lynch\|Becky Lynch]], [[Wrestler/Chris Hero\|Chris Hero]], & [[Wrestler/Angélico\|Angélico]] in [[Events/2022-07-24 - S04E10_Überraschung\|S04E10_Überraschung]] (2022-07-24)
-- 90%: Money in the Bank No [[Ladder]] Match in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)
+- 90%: Money in the Bank No Ladder Match in [[Events/2024-01-29 - S05E12_ChokeSlamMania V\|S05E12_ChokeSlamMania V]] (2024-01-29)

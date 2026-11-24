@@ -33,7 +33,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 6 |  | [[Choke Slam Womens Championship]]: [[Wrestler/Awesome Kong\|Awesome Kong]] vs. [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Sasha Banks\|Sasha Banks]] (c) | Sasha Banks won a triple threat match against Awesome Kong & Lady Apache in  31:09 | 31:09 | ★★★★¾ | 96 |
 | 7 | Tag Team | [[Choke Slam Tag Team Championship]]: Sweet 'n Sour Allstars vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] (c) | Bam Bam Bigelow beat Chris Jericho in 13 Min 27 Sec with a Greetings from Asbury Park | 13:27 | ★★★★ | 86 |
 | 8 |  | Gauntlet: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] Allstars vs.- [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] Allstars | Triple H and 9 other Wrestlers beat Philipp Brunckovic and 9 other Wrestlers in 102 Min 21 Sec with a Pedigree | 102:21 | ★★★★½ | 94 |
-| 9 | Iron Man | 30 Minute [[Iron Man]] Match: [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Wrestler/Pascal LePas\|Pascal LePas]] | Owen Hart beat Pascal LePas with 2:0 Falls | 30:00 | ★★★★ | 84 |
+| 9 | Iron Man | 30 Minute Iron Man Match: [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Wrestler/Pascal LePas\|Pascal LePas]] | Owen Hart beat Pascal LePas with 2:0 Falls | 30:00 | ★★★★ | 84 |
 | 10 |  | [[Choke Slam World Championship]]: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Steve Austin\|Steve Austin]] (c) | Steve Austin beat Roman Reigns in 25 Min 54 Sec with a Boston Crab | 25:54 | ★★★★ | 85 |
 
 ## Links

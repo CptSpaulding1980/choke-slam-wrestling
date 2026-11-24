@@ -44,6 +44,6 @@ avg_rating: 85.5
 ## Top Matches
 - 100%: Carat First Round: [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)
 - 99%: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
-- 98%: [[Tag Team Title]] [[Battle Royal]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
+- 98%: [[Tag Team Title]] Battle Royal in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
 - 97%: [[Wrestler/Steve Austin\|Steve Austin]] vs. [[Wrestler/The Miz\|The Miz]] vs. [[Wrestler/Masahiro Chono\|Masahiro Chono]] vs. [[Wrestler/Pac\|Pac]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
 - 94%: [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Masahiro Chono\|Masahiro Chono]] vs. [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/Pac\|Pac]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)

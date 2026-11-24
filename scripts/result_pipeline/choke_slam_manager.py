@@ -202,10 +202,10 @@ def enhanced_smart_link(text, participants):
 
     text = re.sub(r"\(TEMP_SECOND:([^)]+)\)", lambda m: f"({m.group(1)[0]}/[[Wrestler/{m.group(1)[1:].strip()}\|{m.group(1)[1:].strip()}]])", text)
     
-    # Match Types Patterns
+    # Match Types Patterns (nur Championships werden verlinkt; Stipulations-/Matchtypen
+    # wie "Royal Rumble" sind keine Wikiseiten und bleiben als reiner Text stehen.)
     patterns = [
         (r"\b([A-Z]{2,}[\w\s-]+(?:Championship|Title|Belt))\b", r"[[\1]]"),
-        (r"(Steel Cage|Tables|Ladder|Royal Rumble|Battle Royal|Hell in a Cell|Iron Man|Empty Arena|Falls Count Anywhere|Texas Death|Last Man Standing|2 out of 3 Falls|No DQ|No Disqualification|No Count Out|No Holds Barred|Extreme Rules|I Quit|Street Fight)\b", r"[[\1]]")
     ]
     for pattern, replacement in patterns:
         text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)

@@ -46,4 +46,4 @@ avg_rating: 88.36
 - 98%: Apple Money in the Bank Match in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)
 - 98%: [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] vs. [[Wrestler/CM Punk\|CM Punk]]  in [[Events/2021-12-28 - S04E05_UFC\|S04E05_UFC]] (2021-12-28)
 - 93%: [[Wrestler/Ricky Steamboat\|Ricky Steamboat]] vs. [[Wrestler/Cesaro\|Cesaro]]  in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)
-- 91%: The Greatest [[Royal Rumble]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)
+- 91%: The Greatest Royal Rumble in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)

@@ -46,4 +46,4 @@ avg_rating: 82.91
 - 103%: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Killer Kelly\|Killer Kelly]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] in [[Events/2021-10-17 - S04E03_Saudia Arabia - Aftermath\|S04E03_Saudia Arabia - Aftermath]] (2021-10-17)
 - 102%: [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] vs. [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
 - 101%: Submission: [[Wrestler/Awesome Kong\|Awesome Kong]] vs. [[Wrestler/Ivelisse\|Ivelisse]] vs. [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2021-06-15 - S03E11_Sûper Canada!\|S03E11_Sûper Canada!]] (2021-06-15)
-- 101%: [[Hell in a Cell]]: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)
+- 101%: Hell in a Cell: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)

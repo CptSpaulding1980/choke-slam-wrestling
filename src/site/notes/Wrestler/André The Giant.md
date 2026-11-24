@@ -40,6 +40,6 @@ avg_rating: 75.33
 - [[Wrestler/Sami Zayn\|Sami Zayn]] (1x)
 
 ## Top Matches
-- 82%: Andre the Giant Memorial [[Battle Royal]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)
+- 82%: Andre the Giant Memorial Battle Royal in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)
 - 81%: Dan Koloff HC Tournament: [[Wrestler/Hiromu Takahashi\|Hiromu Takahashi]] vs. [[Wrestler/The Butcher\|The Butcher]] vs. [[Wrestler/André The Giant\|André The Giant]] in [[Events/2021-06-30 - S03E12_ChokeSlamMania III - Andre has a posse - Day 1\|S03E12_ChokeSlamMania III - Andre has a posse - Day 1]] (2021-06-30)
 - 63%: [[Teams/Path of God\|Path of God]] vs. [[Wrestler/André The Giant\|André The Giant]] & [[Wrestler/Sami Zayn\|Sami Zayn]] in [[Events/2025-03-03 - S06E11_Sweet but Psycho\|S06E11_Sweet but Psycho]] (2025-03-03)

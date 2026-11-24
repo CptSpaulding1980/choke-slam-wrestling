@@ -43,7 +43,7 @@ avg_rating: 85.96
 
 ## Top Matches
 - 100%: Carat First Round: [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)
-- 98%: [[Tag Team Title]] [[Battle Royal]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
+- 98%: [[Tag Team Title]] Battle Royal in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
 - 97%: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)
 - 97%: [[Wrestler/Ridge Holland\|Ridge Holland]] & [[Wrestler/Brody King\|Brody King]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] & [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] (2022-12-16)
 - 96%: [[Wrestler/Bob Backlund\|Bob Backlund]] & [[Wrestler/Ric Flair\|Ric Flair]] vs. [[Wrestler/Eddie Edwards\|Eddie Edwards]] & [[Wrestler/Kenny Omega\|Kenny Omega]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] (2022-12-16)

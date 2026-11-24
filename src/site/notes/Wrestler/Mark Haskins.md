@@ -35,4 +35,4 @@ avg_rating: 95.0
 - [[Wrestler/Rick Rude\|Rick Rude]] (1x)
 
 ## Top Matches
-- 95%: Andre The Giant Memorial [[Battle Royal]] in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)
+- 95%: Andre The Giant Memorial Battle Royal in [[Events/2022-11-17 - S04E12_ChokeSlamMania IV - Day 2\|S04E12_ChokeSlamMania IV - Day 2]] (2022-11-17)

@@ -43,7 +43,7 @@ avg_rating: 84.43
 
 ## Top Matches
 - 100%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Robert Dreissker\|Robert Dreissker]] & WALTER in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
-- 99%: [[Tables]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)
+- 99%: Tables: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)
 - 98%: Apple Money in the Bank Match in [[Events/2021-09-06 - S04E02_Money in the Bank (Season 4)\|S04E02_Money in the Bank (Season 4)]] (2021-09-06)
 - 98%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big E\|Big E]], [[Wrestler/Kofi Kingston\|Kofi Kingston]], & [[Wrestler/Xavier Woods\|Xavier Woods]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)
 - 97%: [[Wrestler/Iron Sheik\|Iron Sheik]] vs. [[Wrestler/Chris Hero\|Chris Hero]] in [[Events/2021-10-17 - S04E03_Saudi Arabia\|S04E03_Saudi Arabia]] (2021-10-17)

@@ -30,9 +30,9 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 10 |  | [[Wrestler/Akira Hokuto\|Akira Hokuto]] vs. [[Wrestler/Big Van Vader\|Big Van Vader]] | Big Van Vader beat Akira Hokuto in 6 Min 52 Sec with a Turning Body Press | 6:52 | ★½ | 59 |
 | 11 |  | [[Wrestler/Christian Cage\|Christian Cage]] vs. [[Wrestler/Randy Savage\|Randy Savage]] | Randy Savage beat Christian Cage in 8 Min 11 Sec with a Macho Flying Elbow Drop | 8:11 | ★★★ | 69 |
 | 12 | Money in the Bank | Money in the Bank: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. Consequences Creed vs. [[Wrestler/Randy Savage\|Randy Savage]] | Big Van Vader won a triple threat match against Consequences Creed & Randy Savage in  17:39 | 17:39 | ★★★★¼ | 88 |
-| 13 | Last Man Standing | [[Last Man Standing]]: [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] vs. [[Wrestler/Edge\|Edge]] | Jeff Jarrett beat Edge in 15 Min 54 Sec with a K.O | 15:54 | ★★★★½ | 94 |
-| 14 | Last Man Standing | [[Last Man Standing]]: [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Edge\|Edge]] | Edge beat Rush in 15 Min 30 Sec with a K.O | 15:30 | ★★★¾ | 81 |
-| 15 | Last Man Standing | [[Last Man Standing]]: [[Wrestler/Christian Cage\|Christian Cage]] vs. [[Wrestler/Edge\|Edge]] | Christian Cage beat Edge in 15 Min 26 Sec with a K.O | 15:26 | ★★★★¾ | 96 |
+| 13 | Last Man Standing | Last Man Standing: [[Wrestler/Jeff Jarrett\|Jeff Jarrett]] vs. [[Wrestler/Edge\|Edge]] | Jeff Jarrett beat Edge in 15 Min 54 Sec with a K.O | 15:54 | ★★★★½ | 94 |
+| 14 | Last Man Standing | Last Man Standing: [[Wrestler/Rush\|Rush]] vs. [[Wrestler/Edge\|Edge]] | Edge beat Rush in 15 Min 30 Sec with a K.O | 15:30 | ★★★¾ | 81 |
+| 15 | Last Man Standing | Last Man Standing: [[Wrestler/Christian Cage\|Christian Cage]] vs. [[Wrestler/Edge\|Edge]] | Christian Cage beat Edge in 15 Min 26 Sec with a K.O | 15:26 | ★★★★¾ | 96 |
 | 16 |  | [[Unification - Apple Championship]] & [[International Championship]]: [[Wrestler/AJ Styles\|AJ Styles]] vs. [[Wrestler/Christian Cage\|Christian Cage]] | AJ Styles beat Christian Cage in 9 Min 16 Sec with a Tower Hacker Bomb | 9:16 | ★★ | 60 |
 
 ## Links

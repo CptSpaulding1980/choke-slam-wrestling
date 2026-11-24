@@ -18,8 +18,8 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 | Ladder, Money in the Bank | Money in the Bank No [[Ladder]] Match | Brandon won a 8 wrestler battle royale in  37:16 | 37:16 | ★★★★¼ | 90 |
-| 2 | Battle Royal | Big Van Vader Memorial [[Battle Royal]] | Christian Cage won a 14 wrestler Royal Rumble in  47:23 | 47:23 | ★★★★¼ | 91 |
+| 1 | Ladder, Money in the Bank | Money in the Bank No Ladder Match | Brandon won a 8 wrestler battle royale in  37:16 | 37:16 | ★★★★¼ | 90 |
+| 2 | Battle Royal | Big Van Vader Memorial Battle Royal | Christian Cage won a 14 wrestler Royal Rumble in  47:23 | 47:23 | ★★★★¼ | 91 |
 | 3 |  | [[Choke Slam Womens Championship]]: [[Wrestler/Sol Ruca\|Sol Ruca]] & [[Wrestler/Thea Hail\|Thea Hail]] vs. [[Wrestler/Tiffany Stratton\|Tiffany Stratton]] & [[Wrestler/Alexa Bliss\|Alexa Bliss]] (c) | Tiffany Stratton won a four-corners match against Sol Ruca, Thea Hail, &Alexa Bliss in  30:22 | 30:22 | ★★★★½ | 94 |
 | 4 |  | [[Wrestler/Roman Reigns\|Roman Reigns]] vs. Mystery | Roman Reigns beat The Rock in 21 Min 13 Sec with a Spear | 21:13 | ★★★★½ | 95 |
 | 5 |  | Nature Game Masters  vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] | Eddie Guerrero beat Hulk Hogan in 28 Min 42 Sec with a Frog Splash | 28:42 | ★★★★¾ | 96 |

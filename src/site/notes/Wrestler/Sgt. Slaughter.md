@@ -38,8 +38,8 @@ avg_rating: 88.67
 - [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] (1x)
 
 ## Top Matches
-- 100%: [[Iron Man]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
-- 100%: [[Iron Man]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
+- 100%: Iron Man: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
+- 100%: Iron Man: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
 - 95%: Killshot vs. [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] vs. [[Wrestler/Sheamus\|Sheamus]]  vs. [[Wrestler/Finn Bálor\|Finn Bálor]] in [[Events/2020-12-28 - S03E03_Battle of Britain - Pre Show\|S03E03_Battle of Britain - Pre Show]] (2020-12-28)
 - 94%: [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] vs. [[Wrestler/Fit Finlay\|Fit Finlay]] in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)
 - 74%: [[Wrestler/Wade Barrett\|Wade Barrett]] vs. [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Kip Sabian\|Kip Sabian]] vs. [[Wrestler/Doug Williams\|Doug Williams]] vs. [[Wrestler/Sgt. Slaughter\|Sgt. Slaughter]] in [[Events/2020-12-29 - S03E03_Battle of Britain - Night 2\|S03E03_Battle of Britain - Night 2]] (2020-12-29)

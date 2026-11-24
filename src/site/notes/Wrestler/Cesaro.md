@@ -44,6 +44,6 @@ avg_rating: 87.36
 ## Top Matches
 - 108%: [[Wrestler/Masahiro Chono\|Masahiro Chono]] vs. [[Wrestler/Cesaro\|Cesaro]]  vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)
 - 100%: [[Wrestler/Angélico\|Angélico]] & [[Wrestler/Mansoor\|Mansoor]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
-- 97%: Best [[2 out of 3 Falls]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
+- 97%: Best 2 out of 3 Falls: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
 - 96%: [[Choke Slam Tag Team Championship]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. The Young Bucks (c) in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
 - 95%: [[Wrestler/Chris Benoit\|Chris Benoit]] vs. [[Wrestler/Cesaro\|Cesaro]]  vs. [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/Sami Zayn\|Sami Zayn]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)

@@ -35,4 +35,4 @@ avg_rating: 88.0
 - [[Wrestler/Mil Muertes\|Mil Muertes]] (1x)
 
 ## Top Matches
-- 88%: Mens [[Royal Rumble]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
+- 88%: Mens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)

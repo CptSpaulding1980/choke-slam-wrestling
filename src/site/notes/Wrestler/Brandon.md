@@ -44,6 +44,6 @@ avg_rating: 84.85
 ## Top Matches
 - 104%: Alternate Three Way: [[Wrestler/Gigi Dolin\|Gigi Dolin]] vs. [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Bull Nakano\|Bull Nakano]] in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)
 - 102%: [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] vs. [[Wrestler/Randy Savage\|Randy Savage]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
-- 98%: [[Tag Team Title]] [[Battle Royal]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
+- 98%: [[Tag Team Title]] Battle Royal in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
 - 98%: Victoria Doble: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-08-22 - S05E08_Dia de los Muertos\|S05E08_Dia de los Muertos]] (2023-08-22)
 - 96%: [[Wrestler/Davey Boy Smith\|Davey Boy Smith]] vs. [[Wrestler/Gigi Dolin\|Gigi Dolin]] vs. [[Wrestler/Bull Nakano\|Bull Nakano]] vs. [[Wrestler/Ikemen Jiro\|Ikemen Jiro]] vs. [[Wrestler/Brandon\|Brandon]] vs. [[Wrestler/Grayson Waller\|Grayson Waller]] vs. [[Wrestler/Dover\|Dover]]  vs. [[Wrestler/Icárús\|Icárús]]  in [[Events/2023-04-03 - S05E03_Europa - Day 3\|S05E03_Europa - Day 3]] (2023-04-03)

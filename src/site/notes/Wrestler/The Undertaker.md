@@ -44,6 +44,6 @@ avg_rating: 84.22
 ## Top Matches
 - 105%: [[Wrestler/Hiroshi Tanahashi\|Hiroshi Tanahashi]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] in [[Events/2024-02-15 - S06E01_Welcome to Ta'if\|S06E01_Welcome to Ta'if]] (2024-02-15)
 - 101%: [[World Title]] #1 Contender Elimination Match: [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/The Undertaker\|The Undertaker]] in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)
-- 101%: [[Hell in a Cell]]: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)
+- 101%: Hell in a Cell: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)
 - 100%: Threeway Fiasko im Käfig - Cage Match: [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/Randy Orton\|Randy Orton]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 100%: [[Wrestler/John Cena\|John Cena]] vs. [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/The Miz\|The Miz]] vs. [[Wrestler/The Undertaker\|The Undertaker]] in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)

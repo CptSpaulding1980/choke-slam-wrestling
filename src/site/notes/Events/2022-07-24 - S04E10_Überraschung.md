@@ -30,7 +30,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 10 |  | [[Wrestler/Kevin Steen\|Kevin Steen]] vs. [[Wrestler/Diesel\|Diesel]] | Diesel beat Kevin Steen in 22 Min 23 Sec with a Torturerack Drop | 22:23 | ★★★★½ | 92 |
 | 11 |  | [[Wrestler/Big Van Vader\|Big Van Vader]] vs. [[Wrestler/Kane\|Kane]] | Kane beat Big Van Vader in 8 Min 14 Sec with a High Angle Chokeslam | 8:14 | ★★★¾ | 82 |
 | 12 |  | [[Wrestler/Sting\|Sting]] vs. [[Wrestler/Brock Lesnar\|Brock Lesnar]] | Sting beat Brock Lesnar in 22 Min 11 Sec with a Scorpion Death Lock | 22:11 | ★★★★★ | 102 |
-| 13 | Royal Rumble | [[Royal Rumble]] Match | Triple H won a 27 wrestler Royal Rumble in  58:37 | 58:37 | ★★★★½ | 92 |
+| 13 | Royal Rumble | Royal Rumble Match | Triple H won a 27 wrestler Royal Rumble in  58:37 | 58:37 | ★★★★½ | 92 |
 | 14 |  | [[Choke Slam World Championship]]: [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] vs. [[Wrestler/Bob Backlund\|Bob Backlund]] (c) | Bob Backlund beat Philipp Brunkovic in 5 Min 33 Sec with a Pinfall | 5:33 | ★½ | 57 |
 
 ## Links

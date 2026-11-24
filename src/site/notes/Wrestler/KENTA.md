@@ -43,7 +43,7 @@ avg_rating: 86.11
 
 ## Top Matches
 - 101%: [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Austin Aries\|Austin Aries]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2021-01-21 - S03E05_Ireland\|S03E05_Ireland]] (2021-01-21)
-- 100%: [[Iron Man]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
-- 100%: [[Iron Man]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
+- 100%: Iron Man: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
+- 100%: Iron Man: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2021-01-21 - S03E04_Clash of Colosseum\|S03E04_Clash of Colosseum]] (2021-01-21)
 - 100%: [[Wrestler/Edge\|Edge]] vs. [[Wrestler/KENTA\|KENTA]] vs. [[Wrestler/Kenny Omega\|Kenny Omega]] vs. [[Wrestler/Christian\|Christian]] vs. [[Wrestler/Dustin Rhodes\|Dustin Rhodes]] vs. [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] in [[Events/2021-04-10 - S03E07_Aussie Open Resurrection\|S03E07_Aussie Open Resurrection]] (2021-04-10)
 - 99%: [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/KENTA\|KENTA]] in [[Events/2021-02-25 - S03E06_Swiss Bliss - Tokyo Drift\|S03E06_Swiss Bliss - Tokyo Drift]] (2021-02-25)

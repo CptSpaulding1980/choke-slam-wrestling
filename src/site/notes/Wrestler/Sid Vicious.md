@@ -45,4 +45,4 @@ avg_rating: 92.17
 - 100%: Threeway Fiasko im Käfig - Cage Match: [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/Randy Orton\|Randy Orton]] in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
 - 99%: [[Wrestler/Sid Vicious\|Sid Vicious]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)
 - 95%: Sara Del Rey vs. Dr. Wagner Jr. vs. [[Wrestler/Sid Vicious\|Sid Vicious]] vs. Owen Hart vs. AJ Styles vs. Gorilla Monsoon vs. Yokozuna vs. Ric Flair in [[Events/2020-06-08 - S02E10_Dubai\|S02E10_Dubai]] (2020-06-08)
-- 82%: Andre the Giant Memorial [[Battle Royal]] in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)
+- 82%: Andre the Giant Memorial Battle Royal in [[Events/2020-09-07 - S02E12_ChokeSlamMania II\|S02E12_ChokeSlamMania II]] (2020-09-07)

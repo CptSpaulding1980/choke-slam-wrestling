@@ -40,5 +40,5 @@ avg_rating: 83.0
 
 ## Top Matches
 - 101%: [[Elimination Chamber - Choke Slam World Championship]]: [[Wrestler/Mr. Fuji\|Mr. Fuji]] vs. [[Wrestler/Ludwig Kaiser\|Ludwig Kaiser]] vs. [[Wrestler/Scott Steiner\|Scott Steiner]] vs. [[Wrestler/Austin Aries\|Austin Aries]] vs. [[Wrestler/Bret Hart\|Bret Hart]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)
-- 88%: Mens [[Royal Rumble]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
+- 88%: Mens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
 - 60%: Interview Segment /w [[Wrestler/Dario Cueto\|Dario Cueto]] & [[Wrestler/Mr. Fuji\|Mr. Fuji]] in [[Events/2023-04-19 - S05E04_Lucha Underground\|S05E04_Lucha Underground]] (2023-04-19)

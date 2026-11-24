@@ -46,6 +46,6 @@ avg_rating: 82.22
 ## Top Matches
 - 102%: [[Wrestler/Rosemary\|Rosemary]] vs. [[Wrestler/Satoshi Kojima\|Satoshi Kojima]] vs. Mankind vs. [[Wrestler/Tyson Kidd\|Tyson Kidd]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
 - 98%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
-- 96%: [[Extreme Rules]]: Mankind vs. [[Wrestler/Kevin Owens\|Kevin Owens]] in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)
+- 96%: Extreme Rules: Mankind vs. [[Wrestler/Kevin Owens\|Kevin Owens]] in [[Events/2026-06-16 - S07E11_Tanzt!DerKönigHatLaune\|S07E11_Tanzt!DerKönigHatLaune]] (2026-06-16)
 - 93%: Lumberjack: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
 - 91%: [[Wrestler/Steve Austin\|Steve Austin]] vs. [[Wrestler/Sami Zayn\|Sami Zayn]] vs. Mankind in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)

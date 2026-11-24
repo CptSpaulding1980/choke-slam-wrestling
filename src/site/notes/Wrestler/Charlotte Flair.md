@@ -42,7 +42,7 @@ avg_rating: 86.0
 - [[Wrestler/Chris Jericho\|Chris Jericho]] (1x)
 
 ## Top Matches
-- 98%: [[Street Fight]]: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)
+- 98%: Street Fight: [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)
 - 91%: Queen of the Ring Final: [[Wrestler/Charlotte Flair\|Charlotte Flair]] vs. [[Wrestler/Sasha Banks\|Sasha Banks]] in [[Events/2025-08-12 - S07E02_King & Queen of the Ring\|S07E02_King & Queen of the Ring]] (2025-08-12)
 - 86%: [[Wrestler/Lady Apache\|Lady Apache]] vs. [[Wrestler/Jay White\|Jay White]] vs. [[Wrestler/Bandido\|Bandido]] vs. [[Wrestler/Charlotte Flair\|Charlotte Flair]] vs. [[Wrestler/Chris Jericho\|Chris Jericho]] vs. [[Wrestler/Edge\|Edge]] in [[Events/2025-10-02 - S07E04 The Iron Chamber - Night 2\|S07E04 The Iron Chamber - Night 2]] (2025-10-02)
 - 85%: Tornado: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2025-06-03 - S07E01_Brave new World\|S07E01_Brave new World]] (2025-06-03)

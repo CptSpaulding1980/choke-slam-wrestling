@@ -18,7 +18,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 | Battle Royal | Andre the Giant Memorial [[Battle Royal]] | Hulk Hogan won a 12 wrestler Royal Rumble in  37:50 | 37:50 | ★★★★¼ | 89 |
+| 1 | Battle Royal | Andre the Giant Memorial Battle Royal | Hulk Hogan won a 12 wrestler Royal Rumble in  37:50 | 37:50 | ★★★★¼ | 89 |
 | 2 |  | Dan Koloff HC Tournament: [[Wrestler/Christian Cage\|Christian Cage]] vs. [[Wrestler/Johnny Mundo\|Johnny Mundo]] vs. [[Wrestler/Ivan Koloff\|Ivan Koloff]]  | Johnny Mundo won a triple threat match against Christian Cage & Ivan Koloff in  19:25 | 19:25 | ★★★★½ | 95 |
 | 3 |  | Dan Koloff HC Tournament: [[Wrestler/Bob Backlund\|Bob Backlund]] vs. [[Wrestler/Hulk Hogan\|Hulk Hogan]] vs. [[Wrestler/Rusev\|Rusev]]  | Hulk Hogan won a triple threat match against Bob Backlund & Rusev  in  39:20 | 39:20 | ★★★★★½ | 105 |
 | 4 |  | Dan Koloff HC Tournament: [[Wrestler/Tetsuya Naito\|Tetsuya Naito]] vs. [[Wrestler/Orange Cassidy\|Orange Cassidy]] vs. [[Wrestler/Nikolai Volkoff\|Nikolai Volkoff]] | Tetsuya Naito won a triple threat match against Orange Cassidy & Nikolai Volkoff in  37:07 | 37:07 | ★★★★¾ | 97 |

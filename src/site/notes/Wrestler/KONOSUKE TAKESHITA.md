@@ -45,6 +45,6 @@ avg_rating: 80.94
 ## Top Matches
 - 97%: [[Wrestler/Big E\|Big E]] & [[Wrestler/Kofi Kingston\|Kofi Kingston]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)
 - 97%: [[Wrestler/Bret Hart\|Bret Hart]] & [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-12-30 - S07E07_Turbo Turnier\|S07E07_Turbo Turnier]] (2025-12-30)
-- 96%: 60 [[Minute [[Iron Man]] - Choke Slam Tag Team Championship]]: Tag Team Tournament Finals (vakant) in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)
+- 96%: 60 [[Minute Iron Man - Choke Slam Tag Team Championship]]: Tag Team Tournament Finals (vakant) in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)
 - 94%: [[Wrestler/Billy Gunn\|Billy Gunn]] & [[Wrestler/Road Dogg\|Road Dogg]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)
 - 93%: [[Wrestler/Mosh\|Mosh]] & [[Wrestler/Thrasher\|Thrasher]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2025-11-18 - S07E06_War Games\|S07E06_War Games]] (2025-11-18)

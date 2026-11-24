@@ -40,8 +40,8 @@ avg_rating: 81.5
 - [[Wrestler/Dudley Dudley\|Dudley Dudley]] (3x)
 
 ## Top Matches
-- 100%: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)
-- 99%: [[Tables]]: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)
-- 86%: [[Tables]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)
-- 80%: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)
-- 73%: [[Steel Cage]]: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)
+- 100%: Steel Cage: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)
+- 99%: Tables: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)
+- 86%: Tables: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Big Dick Dudley\|Big Dick Dudley]], [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]], & [[Wrestler/D-Von Dudley\|D-Von Dudley]] in [[Events/2022-02-09 - S04E07_Extreme\|S04E07_Extreme]] (2022-02-09)
+- 80%: Steel Cage: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)
+- 73%: Steel Cage: [[Wrestler/Buh Buh Ray Dudley\|Buh Buh Ray Dudley]] & [[Wrestler/Dudley Dudley\|Dudley Dudley]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2023-06-26 - S05E06_ECSW\|S05E06_ECSW]] (2023-06-26)

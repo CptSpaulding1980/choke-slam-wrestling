@@ -39,7 +39,7 @@ avg_rating: 79.67
 
 ## Top Matches
 - 91%: [[Northern Championship]] - Submission: [[Wrestler/KUSHIDA\|KUSHIDA]] vs. [[Wrestler/Goldberg\|Goldberg]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
-- 87%: Wild Card Game 2 - [[Last Man Standing]]: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Goldberg\|Goldberg]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
+- 87%: Wild Card Game 2 - Last Man Standing: [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Goldberg\|Goldberg]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
 - 85%: North West Division: [[Wrestler/Goldberg\|Goldberg]] vs. [[Wrestler/Gunther\|Gunther]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)
 - 83%: [[Wrestler/AJ Styles\|AJ Styles]] & [[Wrestler/Pac\|Pac]] vs. [[Wrestler/Arn Anderson\|Arn Anderson]] & [[Wrestler/Goldberg\|Goldberg]] in [[Events/2023-05-30 - S05E05_WCSW\|S05E05_WCSW]] (2023-05-30)
 - 77%: North West Division: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Goldberg\|Goldberg]] in [[Events/2024-07-19 - S06E05_Super Bowl of Wrestling\|S06E05_Super Bowl of Wrestling]] (2024-07-19)

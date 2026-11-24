@@ -42,7 +42,7 @@ avg_rating: 81.7
 - [[Wrestler/Shawn Michaels\|Shawn Michaels]] (2x)
 
 ## Top Matches
-- 101%: [[Hell in a Cell]]: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)
+- 101%: Hell in a Cell: [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/The Undertaker\|The Undertaker]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-10-22 - S06E08_Changes II\|S06E08_Changes II]] (2024-10-22)
 - 100%: [[Wrestler/Jun Akiyama\|Jun Akiyama]] vs. [[Wrestler/Kiana James\|Kiana James]] vs. [[Wrestler/Laredo Kid\|Laredo Kid]] vs. [[Wrestler/Roman Reigns\|Roman Reigns]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-05-27 - S06E04_Die beste Show der Welt\|S06E04_Die beste Show der Welt]] (2024-05-27)
 - 99%: [[Choke Slam Tag Team Championship]]: [[Wrestler/Shawn Michaels\|Shawn Michaels]] & [[Wrestler/Triple H\|Triple H]] vs. [[Wrestler/Bam Bam Bigelow\|Bam Bam Bigelow]] & [[Wrestler/Big Van Vader\|Big Van Vader]] (c) in [[Events/2020-06-29 - S02E11_Shortcut to Mania\|S02E11_Shortcut to Mania]] (2020-06-29)
 - 97%: [[Wrestler/Finn Bálor\|Finn Bálor]] vs. [[Wrestler/Tatum Paxley\|Tatum Paxley]] vs. [[Wrestler/Triple H\|Triple H]] in [[Events/2024-12-27 - S06E09_Winter Warfare - Santa's Slam Edition\|S06E09_Winter Warfare - Santa's Slam Edition]] (2024-12-27)

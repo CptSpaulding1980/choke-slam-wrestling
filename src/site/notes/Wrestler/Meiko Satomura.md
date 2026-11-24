@@ -35,4 +35,4 @@ avg_rating: 88.0
 - [[Wrestler/Awesome Kong\|Awesome Kong]] (1x)
 
 ## Top Matches
-- 88%: Womens [[Royal Rumble]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
+- 88%: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)

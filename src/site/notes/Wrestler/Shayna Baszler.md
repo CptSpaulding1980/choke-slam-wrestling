@@ -36,6 +36,6 @@ avg_rating: 80.5
 
 ## Top Matches
 - 90%: [[Choke Slam Womens Championship]]: [[Wrestler/Toni Storm\|Toni Storm]] vs. [[Wrestler/Shayna Baszler\|Shayna Baszler]] (c) in [[Events/2023-03-29 - S05E03_Europa - Day 1\|S05E03_Europa - Day 1]] (2023-03-29)
-- 88%: Womens [[Royal Rumble]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
+- 88%: Womens Royal Rumble in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
 - 77%: [[Choke Slam Womens Championship]]: [[Wrestler/Aoife Valkyrie\|Aoife Valkyrie]] vs. [[Wrestler/Killer Kelly\|Killer Kelly]] vs. [[Wrestler/Madison Rayne\|Madison Rayne]] vs. [[Wrestler/Shayna Baszler\|Shayna Baszler]] in [[Events/2022-10-02 - S04E11_Musik\|S04E11_Musik]] (2022-10-02)
 - 67%: [[Choke Slam Womens Championship]]: [[Wrestler/Shayna Baszler\|Shayna Baszler]] vs. [[Wrestler/Alexa Bliss\|Alexa Bliss]] (c) in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)

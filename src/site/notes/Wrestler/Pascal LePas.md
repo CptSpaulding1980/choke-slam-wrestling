@@ -43,5 +43,5 @@ avg_rating: 87.5
 - 100%: Interview Segment /w [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] & [[Wrestler/Pascal LePas\|Pascal LePas]] & [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] in [[Events/2023-12-15 - S05E11_Tournament Nonstop Action\|S05E11_Tournament Nonstop Action]] (2023-12-15)
 - 99%: Interview Segment /w [[Wrestler/Kurt Angle\|Kurt Angle]] & [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]], [[Wrestler/Pascal LePas\|Pascal LePas]], & [[Wrestler/Hendrique Delafuente\|Hendrique Delafuente]] in [[Events/2022-01-26 - S04E06_Olympia\|S04E06_Olympia]] (2022-01-26)
 - 93%: Threeway Fiasko in [[Events/2022-06-28 - S04E09_Royal Rumble\|S04E09_Royal Rumble]] (2022-06-28)
-- 84%: 30 Minute [[Iron Man]] Match: [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Wrestler/Pascal LePas\|Pascal LePas]] in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)
+- 84%: 30 Minute Iron Man Match: [[Wrestler/Owen Hart\|Owen Hart]] vs. [[Wrestler/Pascal LePas\|Pascal LePas]] in [[Events/2026-06-23 - S07E12_ChokeSlamMania VII\|S07E12_ChokeSlamMania VII]] (2026-06-23)
 - 81%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Dink\|Dink]]  & [[Wrestler/Hornswoggle\|Hornswoggle]] in [[Events/2022-11-07 - S04E12_ChokeSlamMania IV - Day 1\|S04E12_ChokeSlamMania IV - Day 1]] (2022-11-07)

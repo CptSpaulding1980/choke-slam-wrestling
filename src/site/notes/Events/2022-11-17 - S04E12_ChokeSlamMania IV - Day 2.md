@@ -18,7 +18,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 
 | Nr. | Type | Match | Finish | Time | Rating | Score |
 |-----|------|-------|--------|------|--------|-------|
-| 1 | Battle Royal | Andre The Giant Memorial [[Battle Royal]] | Triple H won a 30 wrestler Royal Rumble in  88:38 | 88:38 | ★★★★½ | 95 |
+| 1 | Battle Royal | Andre The Giant Memorial Battle Royal | Triple H won a 30 wrestler Royal Rumble in  88:38 | 88:38 | ★★★★½ | 95 |
 | 2 |  | [[Wrestler/EC3\|EC3]] & [[Wrestler/Philipp Brunkovic\|Philipp Brunkovic]] vs. [[Wrestler/Triple H\|Triple H]] & [[Wrestler/Iron Mike Tyson\|Iron Mike Tyson]] | EC3 beat Triple H in 19 Min 45 Sec with a Full Nelson Face Buster | 19:45 | ★★★★½ | 94 |
 | 3 |  | [[Wrestler/Triple H\|Triple H]] & [[Wrestler/Iron Mike Tyson\|Iron Mike Tyson]] vs. [[Wrestler/Shawn Michaels\|Shawn Michaels]] & [[Wrestler/Logan Paul\|Logan Paul]] | Iron Mike Tyson beat Shawn Michaels in 23 Min 14 Sec with a RING OUT | 23:14 | ★★★★¼ | 89 |
 | 4 |  | [[Wrestler/Shawn Michaels\|Shawn Michaels]] & [[Wrestler/Logan Paul\|Logan Paul]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] | Philipp Brunkovic beat Logan Paul in 25 Min 34 Sec with a Latch Lock | 25:34 | ★★★★¼ | 91 |

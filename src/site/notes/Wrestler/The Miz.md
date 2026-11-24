@@ -46,4 +46,4 @@ avg_rating: 95.4
 - 100%: [[Wrestler/Satoshi Kojima\|Satoshi Kojima]] vs. [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/The Miz\|The Miz]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
 - 100%: [[Wrestler/John Cena\|John Cena]] vs. [[Wrestler/Randy Orton\|Randy Orton]] vs. [[Wrestler/The Miz\|The Miz]] vs. [[Wrestler/The Undertaker\|The Undertaker]] in [[Events/2026-11-23 - S08E04_Royal Rumble\|S08E04_Royal Rumble]] (2026-11-23)
 - 98%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Militanter Mummenschanz\|Militanter Mummenschanz]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
-- 97%: Best [[2 out of 3 Falls]]: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
+- 97%: Best 2 out of 3 Falls: [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)

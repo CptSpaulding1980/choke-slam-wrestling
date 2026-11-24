@@ -30,7 +30,7 @@ image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/downlo
 | 10 |  | [[Teams/Path of God\|Path of God]] vs. [[Wrestler/Dr. Wagner\|Dr. Wagner]] Jr., [[Wrestler/Doug Williams\|Doug Williams]], [[Wrestler/Bret Hart\|Bret Hart]], & [[Wrestler/Brock Lesnar\|Brock Lesnar]] | Hiroshi Tanahashi beat Bret Hart in 20 Min 50 Sec with a High Fly Flow | 20:50 | ★★★½ | 76 |
 | 11 |  | [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] vs. [[Wrestler/Big Ryck\|Big Ryck]], [[Wrestler/Chyna\|Chyna]], [[Wrestler/Big Van Vader\|Big Van Vader]], & [[Wrestler/Samoa Joe\|Samoa Joe]] | Big Van Vader beat Joe Hendry in 23 Min 51 Sec with a Reverse Splash | 23:51 | ★★★★ | 85 |
 | 12 |  | [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Wrestler/Thea Hail\|Thea Hail]], [[Wrestler/Miro\|Miro]], [[Wrestler/CM Punk\|CM Punk]], & [[Wrestler/AJ Styles\|AJ Styles]] | AJ Styles beat Kiana James in 27 Min 20 Sec with a Frog Splash | 27:20 | ★★★½ | 77 |
-| 13 | Royal Rumble | [[Royal Rumble]] | Samoa Joe won a 35 wrestler Royal Rumble in  76:37 | 76:37 | ★★★★¼ | 89 |
+| 13 | Royal Rumble | Royal Rumble | Samoa Joe won a 35 wrestler Royal Rumble in  76:37 | 76:37 | ★★★★¼ | 89 |
 
 ## Links
 - [[Events\|📅 Alle Events]]

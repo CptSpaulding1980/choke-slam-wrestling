@@ -35,4 +35,4 @@ avg_rating: 94.0
 - [[Wrestler/Hulk Hogan\|Hulk Hogan]] (1x)
 
 ## Top Matches
-- 94%: What if... [[Battle Royal]] in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)
+- 94%: What if... Battle Royal in [[Events/2023-07-30 - S05E07_What if... Japan\|S05E07_What if... Japan]] (2023-07-30)

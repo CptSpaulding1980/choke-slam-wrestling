@@ -46,4 +46,4 @@ avg_rating: 88.86
 - 102%: [[Wrestler/Grayson Waller\|Grayson Waller]] vs. [[Wrestler/Jonathan Gresham\|Jonathan Gresham]] vs. [[Wrestler/Miro\|Miro]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
 - 99%: [[Wrestler/Gigi Dolin\|Gigi Dolin]] vs. [[Wrestler/Randy Savage\|Randy Savage]] vs. [[Wrestler/Grayson Waller\|Grayson Waller]] in [[Events/2022-12-16 - S05E01_King of the Ring\|S05E01_King of the Ring]] (2022-12-16)
 - 99%: [[Teams/Saint Rebel Radicalz\|Saint Rebel Radicalz]] vs. [[Teams/Sweet 'n Sour Elite\|Sweet 'n Sour Elite]] in [[Events/2023-10-09 - S05E09_Survivor Series - War Games\|S05E09_Survivor Series - War Games]] (2023-10-09)
-- 98%: [[Tag Team Title]] [[Battle Royal]] in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)
+- 98%: [[Tag Team Title]] Battle Royal in [[Events/2023-02-22 - S05E02_Royal Rumble\|S05E02_Royal Rumble]] (2023-02-22)

@@ -44,6 +44,6 @@ avg_rating: 92.11
 ## Top Matches
 - 99%: [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/SANADA\|SANADA]] vs. [[Wrestler/Matanza Cueto\|Matanza Cueto]] vs. [[Wrestler/Tyler Breeze\|Tyler Breeze]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)
 - 98%: [[Choke Slam World Championship]]: [[Wrestler/Kazuchika Okada\|Kazuchika Okada]] vs. [[Wrestler/Yokozuna\|Yokozuna]] (c) in [[Events/2026-09-14 - S08E02_All In\|S08E02_All In]] (2026-09-14)
-- 96%: [[[[Falls Count Anywhere]] - Choke Slam World Championship]]: [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/Steve Austin\|Steve Austin]] (c) in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
+- 96%: [[Falls Count Anywhere - Choke Slam World Championship]]: [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/Steve Austin\|Steve Austin]] (c) in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
 - 94%: [[Wrestler/Steve Austin\|Steve Austin]] vs. [[Wrestler/SANADA\|SANADA]] vs. [[Wrestler/Yokozuna\|Yokozuna]] in [[Events/2026-07-31 - S08E01_Genesis\|S08E01_Genesis]] (2026-07-31)
 - 94%: [[Wrestler/Madusa\|Madusa]] vs. [[Wrestler/Masahiro Chono\|Masahiro Chono]] vs. [[Wrestler/Yokozuna\|Yokozuna]] vs. [[Wrestler/Pac\|Pac]] in [[Events/2026-10-26 - S08E03_Tribute to the Bastard\|S08E03_Tribute to the Bastard]] (2026-10-26)

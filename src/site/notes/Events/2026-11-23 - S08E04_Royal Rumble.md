@@ -6,13 +6,15 @@ date: "2026-11-23"
 promotion: "Choke Slam Wrestling"
 venue: "Hartford Civic Center"
 location: "Hartford, Connecticut, USA"
-image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png"
+image: "https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-11-23-s08e04-royal-rumble_variant-b-action_6c9d3fb48cec_poster.png"
 ---
 
 <img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/ChokeSlam.png" width="40" style="vertical-align:bottom; margin-right:8px;">**S08E04_Royal Rumble**
 
 **Date:** 2026-11-23
 **Venue:** Hartford Civic Center - Hartford, Connecticut, USA
+
+<img src="https://github.com/CptSpaulding1980/choke-slam-wrestling/releases/download/images/2026-11-23-s08e04-royal-rumble_variant-b-action_6c9d3fb48cec_poster.png" alt="S08E04 Royal Rumble – freigegebenes Action-Poster" width="300" style="height:auto;border-radius:8px;">
 
 ## Matches
 
